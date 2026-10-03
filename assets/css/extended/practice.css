@@ -5,6 +5,8 @@
 .practice-meta { color: var(--secondary); font-size: 0.95rem; }
 
 #practice-root { display: flex; flex-direction: column; gap: 1rem; }
+/* 테마의 audio{display:block} 같은 규칙이 hidden 속성을 덮어쓰지 않게 한다 */
+#practice-root [hidden] { display: none !important; }
 
 /* 2단계의 "원음" 재생은 영상 없이 소리만 필요하므로 플레이어를 화면에서 숨긴다
    (display:none은 YouTube IFrame이 재생을 멈추는 경우가 있어 0x0 크기로 숨긴다). */

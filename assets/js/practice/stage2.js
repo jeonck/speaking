@@ -24,11 +24,14 @@ export function mountStage2(panel, ctx) {
           (s, i) =>
             `<p class="pr-sentence-row" data-i="${i}">
                <button type="button" class="pr-play-original" data-i="${i}">원음</button>
-               ${renderStressedSentence(s)}${s.tip ? `<br><small>${escapeHtml(s.tip)}</small>` : ""}
+               <span class="pr-line">${escapeHtml(s.text)}</span>${
+                 s.tip ? `<small class="pr-tip" hidden><br>${escapeHtml(s.tip)}</small>` : ""
+               }
              </p>`
         )
         .join("")}
     </div>
+    <button class="pr-show-stress" type="button">강세·연음 보기</button>
     <p>목표 시간: ${formatSeconds(targetSeconds)}</p>
     <button class="pr-record" type="button">녹음 시작</button>
     <div class="practice-timer" hidden></div>
@@ -42,6 +45,18 @@ export function mountStage2(panel, ctx) {
   const audioEl = panel.querySelector(".pr-playback");
   const playerNotice = panel.querySelector(".pr-player-notice");
   const micNotice = panel.querySelector(".pr-mic-notice");
+
+  // 처음엔 원래 문장 그대로 읽어 보게 하고, 강세·연음 표시는 버튼을 눌러야 공개
+  const stressBtn = panel.querySelector(".pr-show-stress");
+  stressBtn.addEventListener("click", () => {
+    panel.querySelectorAll(".pr-sentence-row").forEach((row) => {
+      const s = data.sentences[Number(row.dataset.i)];
+      row.querySelector(".pr-line").innerHTML = renderStressedSentence(s);
+      const tip = row.querySelector(".pr-tip");
+      if (tip) tip.hidden = false;
+    });
+    stressBtn.hidden = true;
+  });
 
   // 원음 버튼: 플레이어 로드/재생 오류가 나도 녹음·타이머 기능은 그대로 쓸 수 있어야 한다
   // (spec §7 "YouTube API 로드 실패 → 재생 의존 기능만 비활성, 나머지는 동작").
