@@ -1,0 +1,10 @@
+{{- define "main" }}
+<div class="pr-home pr-home--list">
+  <header class="practice-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="tag-title">{{ title (replace .Data.Term "-" " ") }}</h1>
+    <p class="home-lede">이 주제의 실습 {{ len .Pages }}개를 최신 순서로 모았어요.</p>
+  </header>
+  {{- partial "practice_rows.html" .Pages.ByDate.Reverse }}
+</div>
+{{- end }}

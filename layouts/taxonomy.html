@@ -1,0 +1,25 @@
+{{- define "main" }}
+<div class="pr-home pr-home--list">
+  <header class="practice-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="home-title">주제별 실습</h1>
+    <p class="home-lede">실습 구간에 붙은 주제예요. 하나를 고르면 그 주제의 실습만 모아 볼 수 있어요.</p>
+  </header>
+  {{- with .Data.Terms.ByCount }}
+  <ul class="tag-rows">
+    {{- range . }}
+    {{- with .Page }}
+    <li>
+      <a class="tag-row" href="{{ .RelPermalink }}">
+        <span class="tag-row-name">{{ title (replace .Data.Term "-" " ") }}</span>
+        <span class="tag-row-count">실습 {{ len .Pages }}개</span>
+      </a>
+    </li>
+    {{- end }}
+    {{- end }}
+  </ul>
+  {{- else }}
+  <p class="home-empty">아직 주제가 없어요. 실습이 생기면 주제도 함께 붙습니다.</p>
+  {{- end }}
+</div>
+{{- end }}

@@ -38,25 +38,26 @@ paginate = 10
 
 [menu]
   [[menu.main]]
-    identifier = 'input'
-    name = 'Add Transcript ✏️'
-    url = 'https://github.com/jeonck/speaking/edit/main/input/script.md'
-    weight = 5
-  [[menu.main]]
     identifier = 'practice'
-    name = 'Practice'
+    name = '실습'
     url = '/practice/'
     weight = 10
   [[menu.main]]
     identifier = 'tags'
-    name = 'Tags'
+    name = '주제'
     url = '/tags/'
     weight = 20
   [[menu.main]]
     identifier = 'search'
-    name = 'Search'
+    name = '검색'
     url = '/search/'
     weight = 30
+  # 페이지가 아니라 동작이라 맨 끝에 버튼 모양으로 둔다 (practice.css .menu li:last-child)
+  [[menu.main]]
+    identifier = 'input'
+    name = '구간 추가'
+    url = 'https://github.com/jeonck/speaking/edit/main/input/script.md'
+    weight = 40
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
