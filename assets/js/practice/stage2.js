@@ -90,7 +90,9 @@ export function mountStage2(panel, ctx) {
     recordBtn.textContent = "끝";
     recordBtn.disabled = false;
     recordBtn.removeEventListener("click", onRecordClick);
-    recordBtn.addEventListener("click", async () => {
+    recordBtn.addEventListener("click", onStopClick);
+
+    async function onStopClick() {
       recordBtn.disabled = true;
       const elapsed = stopwatch.stop();
       const finalText = recognition ? recognition.stop() : "";
@@ -120,9 +122,10 @@ export function mountStage2(panel, ctx) {
             : ""
         }
       `;
+      recordBtn.removeEventListener("click", onStopClick);
       recordBtn.textContent = "다시 녹음 (새로고침)";
       recordBtn.disabled = false;
       recordBtn.onclick = () => location.reload();
-    });
+    }
   }
 }
