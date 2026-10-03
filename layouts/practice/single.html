@@ -2,7 +2,10 @@
 <article class="practice-page">
   <header class="practice-header">
     {{ partial "breadcrumbs.html" . }}
-    <p class="practice-date">{{ .Date.Format "2006년 1월 2일" }} 실습</p>
+    <p class="practice-meta">
+      <span class="pr-badge">{{ .Date.Format "2006년 1월 2일" }}</span>
+      {{- with .Params.duration }}<span class="pr-badge">{{ . }}초 구간</span>{{ end }}
+    </p>
     <h1>{{ .Title }}</h1>
     {{- with .Params.summary }}
     <p class="practice-summary">{{ . }}</p>

@@ -29,6 +29,7 @@
   --pr-paper-soft: #fafafa;
   --pr-desk: #f5f5f5;         /* 캔버스 */
   --pr-surface: #f0efed;      /* 배지·원형 아이콘 바탕 */
+  --pr-raised: #ffffff;       /* 회색 트랙 위로 떠오른 알약 */
   --pr-rule: #e7e5e4;         /* 헤어라인 */
   --pr-rule-strong: #d6d3d1;
   --pr-mark: #f6cdb3;         /* 강세 (피치) */
@@ -69,6 +70,7 @@
   --pr-paper-soft: #171412;
   --pr-desk: #0c0a09;
   --pr-surface: #292524;
+  --pr-raised: #44403c;
   --pr-rule: #292524;
   --pr-rule-strong: #44403c;
   --pr-mark: rgba(244, 197, 168, 0.32);
@@ -112,7 +114,11 @@ body.list { background: var(--pr-desk); }
 
 /* ---------- 머리말 ---------- */
 .practice-header { margin-bottom: 2.5rem; }
-.practice-date { margin: 1rem 0 0.75rem; color: var(--secondary); font-size: 0.875rem; }
+.practice-meta { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1.1rem 0 1rem; }
+.pr-badge {
+  display: inline-flex; align-items: center; padding: 0.3rem 0.7rem; border-radius: 9999px;
+  background: var(--pr-surface); color: var(--primary); font-size: 0.8125rem; font-weight: 500;
+}
 .practice-summary {
   margin: 1rem 0 0; max-width: 60ch;
   font-size: 1.0625rem; line-height: 1.6; color: var(--pr-body);
@@ -152,6 +158,7 @@ body.list { background: var(--pr-desk); }
   color: var(--primary); font: inherit; font-size: 0.875rem; font-weight: 500; cursor: pointer;
   text-decoration: underline; text-underline-offset: 4px; text-decoration-color: var(--pr-rule-strong);
 }
+.practice-panel > .pr-btn, .pr-check > .pr-btn, .pr-questions > .pr-btn, .pr-record-card > .pr-btn { align-self: center; }
 .pr-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: flex-end; margin-top: 0.5rem; }
 .pr-actions--center { justify-content: center; margin-top: 2rem; }
 .pr-toolbar { display: flex; flex-wrap: wrap; gap: 0.5rem; }
@@ -160,28 +167,30 @@ body.list { background: var(--pr-desk); }
 .pr-progress-text { display: flex; justify-content: space-between; font-size: 0.875rem; color: var(--secondary); }
 .pr-progress-text b { color: var(--primary); font-weight: 600; }
 
-.practice-tabs { display: grid; grid-template-columns: repeat(4, 1fr); margin-top: -0.5rem; }
+/* 단계 탭: 회색 트랙 안의 알약 세그먼트 — 지금 단계는 흰 알약이 떠오르고, 끝낸 단계는 ✓ */
+.practice-tabs {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px;
+  padding: 4px; margin-bottom: 1rem; border-radius: 9999px; background: var(--pr-surface);
+}
 .practice-tab {
-  position: relative; display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
-  padding: 0.25rem 0.25rem 0.5rem; border: 0; background: none; color: var(--secondary);
-  font: inherit; font-size: 0.9375rem; font-weight: 500; cursor: pointer;
+  display: flex; align-items: center; justify-content: center; gap: 0.5rem;
+  min-height: 44px; padding: 0.35rem 0.5rem; border: 0; border-radius: 9999px; background: transparent;
+  color: var(--pr-body); font: inherit; font-size: 0.9375rem; font-weight: 500; cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
 }
-/* 단계 사이를 잇는 헤어라인 — 앞 단계를 마치면 초록으로 */
-.practice-tab + .practice-tab::before {
-  content: ""; position: absolute; top: calc(0.25rem + 16px); right: calc(50% + 24px); left: calc(-50% + 24px);
-  height: 1px; background: var(--pr-rule-strong);
-}
-.practice-tab.is-done + .practice-tab::before { background: var(--pr-ok); }
+.practice-tab:hover { color: var(--primary); }
 .pr-step-num {
-  display: inline-flex; align-items: center; justify-content: center;
-  width: 32px; height: 32px; border-radius: 50%;
-  background: var(--pr-surface); color: var(--secondary);
-  font-size: 0.875rem; font-weight: 600; font-variant-numeric: tabular-nums;
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+  width: 24px; height: 24px; border-radius: 50%;
+  background: var(--pr-rule-strong); color: var(--pr-paper);
+  font-size: 0.75rem; font-weight: 600; font-variant-numeric: tabular-nums;
 }
-.practice-tab:hover .pr-step-num { color: var(--primary); }
 .practice-tab.is-done .pr-step-num { background: var(--pr-ok); color: #fff; }
-.practice-tab[aria-selected="true"] { color: var(--primary); font-weight: 600; }
-.practice-tab[aria-selected="true"] .pr-step-num { background: var(--pr-ink); color: var(--pr-ink-on); }
+.practice-tab[aria-selected="true"] {
+  background: var(--pr-raised); color: var(--primary); font-weight: 600;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06), 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+.practice-tab[aria-selected="true"]:not(.is-done) .pr-step-num { background: var(--pr-ink); color: var(--pr-ink-on); }
 
 .practice-panel { display: flex; flex-direction: column; gap: 1.25rem; }
 .practice-panel[data-active="false"] { display: none; }
@@ -276,11 +285,14 @@ body.list { background: var(--pr-desk); }
 
 /* 1단계 이해/막힘 선택 */
 .pr-check { display: flex; flex-direction: column; gap: 0.75rem; }
-.pr-check-row { padding: 1rem 1.25rem; border-radius: 16px; border: 1px solid var(--pr-rule); background: var(--pr-paper); }
-.pr-check-text { margin: 0 0 0.75rem; font-family: var(--pr-serif); font-size: 1.125rem; line-height: 1.55; }
-.pr-check-group { display: flex; gap: 0.5rem; }
+.pr-check-row {
+  display: flex; align-items: center; gap: 1.25rem;
+  padding: 1rem 1.25rem; border-radius: 16px; border: 1px solid var(--pr-rule); background: var(--pr-paper);
+}
+.pr-check-text { flex: 1; margin: 0; font-family: var(--pr-serif); font-size: 1.125rem; line-height: 1.55; }
+.pr-check-group { flex: none; display: flex; gap: 0.4rem; }
 .pr-chip {
-  flex: 1; min-height: 40px; border-radius: 9999px; border: 1px solid var(--pr-rule-strong);
+  flex: none; min-height: 36px; padding: 0 0.95rem; font-size: 0.875rem; border-radius: 9999px; border: 1px solid var(--pr-rule-strong);
   background: transparent; color: var(--secondary); font: inherit; font-weight: 500; cursor: pointer;
 }
 .pr-chip:hover { border-color: var(--primary); color: var(--primary); }
@@ -302,6 +314,13 @@ body.list { background: var(--pr-desk); }
 }
 @keyframes pr-lamp { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
 .pr-record-card.is-recording .pr-timebar > div { background: var(--pr-ok); }
+/* 파형 — 쉬는 동안은 회색으로 멈춰 있고, 녹음하는 동안 막대가 움직인다 */
+.pr-wave { display: flex; align-items: center; justify-content: space-between; height: 56px; padding: 0.25rem 0; }
+.pr-wave span { flex: none; width: 3px; height: var(--h); border-radius: 9999px; background: var(--pr-rule-strong); transform-origin: center; }
+.pr-record-card.is-recording .pr-wave span { background: var(--pr-pencil); animation: pr-wave 0.9s ease-in-out infinite alternate; }
+.pr-record-card.is-recording .pr-wave span:nth-child(3n) { animation-delay: -0.3s; }
+.pr-record-card.is-recording .pr-wave span:nth-child(3n + 1) { animation-delay: -0.6s; }
+@keyframes pr-wave { from { transform: scaleY(0.35); } to { transform: scaleY(1); } }
 .pr-record-card.is-over .pr-timebar > div { background: var(--pr-warn); }
 .pr-compare {
   display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem;
@@ -404,7 +423,10 @@ body.list { background: var(--pr-desk); }
 .pr-delta.is-down { color: var(--pr-pencil); }
 
 /* ---------- 4단계 ---------- */
-.pr-sets { display: flex; justify-content: space-between; align-items: center; gap: 0.8rem; flex-wrap: wrap; color: var(--pr-body); }
+.pr-sets {
+  display: flex; justify-content: space-between; align-items: center; gap: 0.8rem; flex-wrap: wrap;
+  padding: 1rem 1.25rem; border-radius: 16px; background: var(--pr-surface); color: var(--pr-body);
+}
 .pr-sets b { font-weight: 600; color: var(--primary); }
 .pr-set-dots { display: flex; gap: 6px; }
 .pr-set-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--pr-rule-strong); }
@@ -439,7 +461,11 @@ body.list { background: var(--pr-desk); }
 @media (max-width: 640px) {
   :root { --pr-display: 1.85rem; }
   .practice-header h1, .tag-title { font-size: 2.15rem; }
-  .practice-tab { font-size: 0.8rem; }
+  .practice-tabs { border-radius: 20px; }
+  .practice-tab { flex-direction: column; gap: 0.25rem; min-height: 56px; border-radius: 16px; font-size: 0.75rem; }
+  .pr-check-row { flex-direction: column; align-items: stretch; gap: 0.75rem; }
+  .pr-check-group .pr-chip { flex: 1; }
+  .practice-panel > .pr-btn, .pr-check > .pr-btn, .pr-questions > .pr-btn, .pr-record-card > .pr-btn { align-self: stretch; }
   .pr-script, .pr-full-script { padding: 0.25rem 1.1rem; }
   .pr-sentence-row { font-size: 1.15rem; }
   .pr-script > .pr-sentence-row:not(.pr-play-row)::before { line-height: calc(1.15rem * 1.85); }

@@ -11,6 +11,12 @@ import { scoreDictation } from "./score.js";
 
 const PASS_RATIO = 1.15;
 
+// 녹음 카드의 파형 장식 — 말소리처럼 오르내리는 고정 패턴이라 매번 같은 모양이다
+const WAVE = `<div class="pr-wave" aria-hidden="true">${Array.from(
+  { length: 40 },
+  (_, i) => `<span style="--h:${Math.min(100, Math.round(30 + 65 * Math.abs(Math.sin(i * 0.55) * Math.sin(i * 0.21 + 1.2)) + 12 * Math.abs(Math.sin(i * 2.7))))}%"></span>`
+).join("")}</div>`;
+
 export function mountStage2(panel, ctx) {
   const { data } = ctx;
   const targetSeconds = Math.ceil(data.segment.end - data.segment.start);
@@ -43,6 +49,7 @@ export function mountStage2(panel, ctx) {
         <span>목표 시간 <b>${formatSeconds(targetSeconds)}</b></span>
         <span class="practice-timer">0:00</span>
       </div>
+      ${WAVE}
       <div class="pr-timebar pr-timebar--fill"><div></div></div>
       <div class="pr-notice" data-notice="mic" hidden></div>
       <button class="pr-record pr-btn pr-btn--record pr-btn--lg" type="button">● 녹음 시작</button>
