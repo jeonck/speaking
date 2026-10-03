@@ -67,7 +67,8 @@ export function mountStage3(panel, ctx) {
         )
         .join("") + '<button class="pr-grade" type="button">채점</button>';
 
-    questionsEl.querySelector(".pr-grade").addEventListener("click", () => {
+    questionsEl.querySelector(".pr-grade").addEventListener("click", (e) => {
+      e.target.disabled = true;
       let correctCount = 0;
       data.questions.forEach((q, qi) => {
         const picked = questionsEl.querySelector(`input[name="q${qi}"]:checked`);
@@ -110,6 +111,7 @@ export function mountStage3(panel, ctx) {
     const accuracies = [];
     section.querySelectorAll(".pr-check-dict").forEach((btn) => {
       btn.addEventListener("click", () => {
+        btn.disabled = true;
         const i = Number(btn.dataset.i);
         const s = data.sentences[i];
         const row = section.querySelector(`.pr-sentence-row[data-i="${i}"]`);
