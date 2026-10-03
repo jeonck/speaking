@@ -8,7 +8,7 @@ import { PLAYER_ID, stopPlayback } from "./playback.js";
 // remount: 열 때마다 다시 그린다 (정리 화면은 그 사이 쌓인 결과를 반영해야 한다)
 const STAGES = [
   { id: "stage1", label: "직독직해", mount: mountStage1 },
-  { id: "stage2", label: "낭독", mount: mountStage2 },
+  { id: "stage2", label: "스피킹", mount: mountStage2 },
   { id: "stage3", label: "가리고 듣기", mount: mountStage3 },
   { id: "stage4", label: "정리", mount: mountStage4, remount: true },
 ];

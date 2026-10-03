@@ -12,7 +12,7 @@ import { scoreDictation } from "./score.js";
 export function mountStage3(panel, ctx) {
   const { data } = ctx;
   panel.innerHTML = `
-    ${goalCard("화면 없이 듣고 이해하기", "읽고 소리 내 본 문장이 실제로 들리는지 확인해요. 전체를 듣고 문제를 푼 뒤, 한 문장씩 받아써 봅니다.")}
+    ${goalCard("화면 없이 듣고 이해하기", "읽고 스피킹해 본 문장이 실제로 들리는지 확인해요. 전체를 듣고 문제를 푼 뒤, 한 문장씩 받아써 봅니다.")}
     <div class="pr-listen-card">
       ${redactedLines(data.sentences)}
       <p class="pr-listen-hint">스크립트는 가려져 있어요. 소리에만 집중해 보세요.</p>

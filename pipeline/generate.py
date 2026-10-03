@@ -2,7 +2,7 @@
 """Transcript study pipeline — 유튜브 구간 → 4단계 실습 페이지.
 
 input/script.md 코드블록에 유튜브 URL + 스크립트 패널 복붙을 넣으면, 그 구간으로
-직독직해 → 낭독 → 가리고 듣기 → 정리 4단계 실습 페이지(content/practice/<slug>/)를
+직독직해 → 스피킹 → 가리고 듣기 → 정리 4단계 실습 페이지(content/practice/<slug>/)를
 생성한다. Claude는 문장 내용(의미 덩어리, 강세, 문제, 어휘)만 만들고, 문장별 재생
 시각은 이 파일이 transcript.py로 계산한다 — Claude는 숫자를 출력하지 않는다.
 

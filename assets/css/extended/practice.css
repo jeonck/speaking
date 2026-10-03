@@ -11,6 +11,7 @@ body {
   word-break: keep-all;
   overflow-wrap: anywhere;
   background: var(--pr-desk);
+  overflow-x: clip; /* 홈의 전체 폭 띠가 가로 스크롤을 만들지 않게 */
 }
 
 :root {
@@ -404,6 +405,38 @@ body {
 
 .home-h2 { margin: 0 0 1.25rem; font-size: 1.1rem; font-weight: 700; color: var(--primary); }
 
+/* 홈: 섹션마다 메시지 하나 — 책상/종이 띠를 번갈아 경계를 만든다 */
+.pr-home--sections { gap: 0; padding-top: 0; }
+.home-band { position: relative; padding: 3.5rem 0; }
+.home-band--paper::before {
+  content: ""; position: absolute; z-index: -1; inset: 0 calc(50% - 50vw);
+  background: var(--pr-paper); border-block: 1px solid var(--pr-rule);
+}
+.home-band.home-hero { padding-top: 2rem; }
+.home-display { margin: 0; font-size: 1.9rem; font-weight: 700; line-height: 1.35; letter-spacing: -0.02em; color: var(--primary); }
+.pr-home--sections .home-h2 { margin: 0; font-size: 1.45rem; letter-spacing: -0.01em; }
+.home-sublede { margin: 0.5rem 0 2rem; max-width: 58ch; font-size: 0.98rem; line-height: 1.7; color: var(--secondary); }
+
+/* 원고 표시 읽는 법 */
+.home-marks { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.75rem; margin: 0; }
+.home-marks > div { padding-top: 1rem; border-top: 2px solid var(--primary); }
+.home-marks dt { font-family: var(--pr-serif); font-size: 1.3rem; line-height: 1.5; color: var(--primary); }
+.home-marks dt .pr-weak { color: var(--secondary); }
+.home-marks dd { margin: 0.7rem 0 0; font-size: 0.92rem; line-height: 1.65; color: var(--secondary); }
+.home-marks dd b { color: var(--primary); font-weight: 700; }
+
+/* 내 구간 추가 3단계 */
+.home-howto { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.75rem; margin: 0 0 2rem; padding: 0; list-style: none; counter-reset: howto; }
+.home-howto li { display: flex; flex-direction: column; gap: 0.35rem; margin: 0; counter-increment: howto; }
+.home-howto li::before {
+  content: counter(howto); display: inline-flex; align-items: center; justify-content: center;
+  width: 32px; height: 32px; margin-bottom: 0.4rem; border-radius: 50%;
+  border: 1.5px solid var(--pr-rule); background: var(--pr-paper); color: var(--secondary);
+  font-size: 0.9rem; font-weight: 600;
+}
+.home-howto b { font-size: 1rem; color: var(--primary); }
+.home-howto span { font-size: 0.9rem; line-height: 1.6; color: var(--secondary); }
+
 /* 네 단계 — 실습 페이지의 단계 레일과 같은 모양 */
 .home-rail { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem; margin: 0; padding: 0; list-style: none; }
 .home-rail li { position: relative; display: flex; flex-direction: column; gap: 0.35rem; margin: 0; }
@@ -457,6 +490,9 @@ body {
 @media (max-width: 640px) {
   .pr-home { gap: 2.25rem; }
   .home-actions { flex-direction: column; }
+  .home-band { padding: 2.5rem 0; }
+  .home-display { font-size: 1.55rem; }
+  .home-marks, .home-howto { grid-template-columns: 1fr; gap: 1.25rem; }
   /* 좁은 화면: 단계를 세로로 쌓고 번호 사이를 세로선으로 잇는다 */
   .home-rail { grid-template-columns: 1fr; gap: 0; }
   .home-rail li { display: grid; grid-template-columns: 32px 1fr; column-gap: 0.9rem; padding-bottom: 1.1rem; }

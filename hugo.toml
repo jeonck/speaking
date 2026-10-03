@@ -7,7 +7,7 @@ paginate = 10
 [params]
   env = 'production'
   title = 'Speaking Lab'
-  description = 'Turn any transcript into a listening & read-aloud workout'
+  description = '유튜브 20~30초 구간으로 하는 직독직해·스피킹·듣기 연습'
   author = 'jeonck'
   defaultTheme = 'auto'
   disableThemeToggle = false
@@ -28,9 +28,6 @@ paginate = 10
   tocopen = false
   mainSections = ['practice']
 
-  [params.homeInfoParams]
-    Title = 'Speaking Lab 🎤'
-    Content = 'Paste a YouTube segment and practice it the way it was meant to be learned: timed silent reading, timed read-aloud with stress guidance, script-hidden listening, and review.'
 
   [[params.socialIcons]]
     name = 'github'

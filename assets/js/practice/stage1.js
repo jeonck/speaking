@@ -126,7 +126,7 @@ export function mountStage1(panel, ctx) {
         </div>
         <div class="pr-actions">
           <button class="pr-btn pr-btn--secondary" type="button" data-act="retry">↺ 다시 읽기</button>
-          <button class="pr-btn pr-btn--primary" type="button" data-act="next">다음 단계: 소리 내 읽기</button>
+          <button class="pr-btn pr-btn--primary" type="button" data-act="next">다음 단계: 스피킹</button>
         </div>`;
       resultEl.querySelector('[data-act="retry"]').addEventListener("click", () => mountStage1(panel, ctx));
       resultEl.querySelector('[data-act="next"]').addEventListener("click", () => ctx.goTo("stage2"));
