@@ -412,9 +412,11 @@ body {
   content: ""; position: absolute; z-index: -1; inset: 0 calc(50% - 50vw);
   background: var(--pr-paper); border-block: 1px solid var(--pr-rule);
 }
-.home-band.home-hero { padding-top: 2rem; }
 .home-display { margin: 0; font-size: 1.9rem; font-weight: 700; line-height: 1.35; letter-spacing: -0.02em; color: var(--primary); }
-.pr-home--sections .home-h2 { margin: 0; font-size: 1.45rem; letter-spacing: -0.01em; }
+/* 섹션 제목은 모두 첫 화면 제목과 같은 크기 */
+.pr-home--sections .home-h2 { margin: 0; font-size: 1.9rem; line-height: 1.35; letter-spacing: -0.02em; }
+.home-band .home-specimen { margin: 1.5rem 0 0; }
+.home-specimen + .home-sublede { margin-top: 1.25rem; }
 .home-sublede { margin: 0.5rem 0 2rem; max-width: 58ch; font-size: 0.98rem; line-height: 1.7; color: var(--secondary); }
 
 /* 원고 표시 읽는 법 */
@@ -491,7 +493,7 @@ body {
   .pr-home { gap: 2.25rem; }
   .home-actions { flex-direction: column; }
   .home-band { padding: 2.5rem 0; }
-  .home-display { font-size: 1.55rem; }
+  .home-display, .pr-home--sections .home-h2 { font-size: 1.55rem; }
   .home-marks, .home-howto { grid-template-columns: 1fr; gap: 1.25rem; }
   /* 좁은 화면: 단계를 세로로 쌓고 번호 사이를 세로선으로 잇는다 */
   .home-rail { grid-template-columns: 1fr; gap: 0; }
