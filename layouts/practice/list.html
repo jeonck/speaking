@@ -1,0 +1,10 @@
+{{- define "main" }}
+<div class="pr-home">
+  <header class="practice-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="home-title">실습 목록</h1>
+    <p class="home-lede">유튜브 구간마다 하나씩, 최신 순서로 정리돼 있어요.</p>
+  </header>
+  {{- partial "practice_rows.html" .RegularPages.ByDate.Reverse }}
+</div>
+{{- end }}

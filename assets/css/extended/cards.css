@@ -22,7 +22,8 @@
   body.list .main > .page-header,
   body.list .main > .post-content,
   body.list .main > .first-entry,
-  body.list .main > .page-footer {
+  body.list .main > .page-footer,
+  body.list .main > .pr-home {
     grid-column: 1 / -1;
   }
 

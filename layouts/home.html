@@ -1,0 +1,65 @@
+{{- define "main" }}
+{{- $pages := where site.RegularPages "Section" "practice" }}
+{{- $latest := false }}
+{{- range first 1 $pages.ByDate.Reverse }}{{ $latest = . }}{{ end }}
+<div class="pr-home">
+
+  <section class="home-hero">
+    {{- /* 첫 화면: 최신 실습의 한 문장을 실습 페이지와 같은 표기(강세 형광펜·연음 ‿)로 크게 */ -}}
+    {{- with $latest }}
+    {{- with .Resources.Get "data.json" }}
+    {{- $data := . | transform.Unmarshal }}
+    {{- $pick := index $data.sentences 0 }}
+    {{- range $data.sentences }}
+      {{- if and (ge (len .text) 40) (le (len .text) 90) }}{{ $pick = . }}{{ break }}{{ end }}
+    {{- end }}
+    {{- $words := slice }}
+    {{- range $pick.words }}
+      {{- $inner := htmlEscape .w }}
+      {{- if and .strong .syl (findRE `^[A-Za-z]+$` .syl) }}
+        {{- $inner = replaceRE (printf `(?i)(%s)` .syl) `<span class="pr-syl">$1</span>` $inner 1 }}
+      {{- end }}
+      {{- $cls := cond .strong "pr-word pr-strong" "pr-word pr-weak" }}
+      {{- if .link }}{{ $cls = printf "%s pr-link" $cls }}{{ end }}
+      {{- $words = $words | append (printf `<span class="%s">%s</span>` $cls $inner) }}
+    {{- end }}
+    <figure class="home-specimen">
+      <blockquote lang="en">{{ delimit $words " " | safeHTML }}</blockquote>
+      <figcaption>
+        <a href="{{ $latest.RelPermalink }}">{{ replaceRE `^\d{4}-\d{2}-\d{2}\s+` "" $latest.Title }}</a>에서
+      </figcaption>
+    </figure>
+    {{- end }}
+    {{- end }}
+
+    <h1 class="home-title">읽고, 소리 내고, 가리고 듣는 영어 낭독 연습</h1>
+    <p class="home-lede">
+      유튜브 영상에서 20~30초 구간을 골라 네 단계로 연습해요. 위 문장처럼
+      <span class="home-legend"><span class="pr-syl">강세</span></span>와
+      <span class="home-legend">연음<span class="home-legend-link">‿</span></span>이 표시된 원고를 보며 따라 읽게 됩니다.
+    </p>
+    <div class="home-actions">
+      {{- with $latest }}
+      <a class="pr-btn pr-btn--primary pr-btn--lg" href="{{ .RelPermalink }}">최신 실습 시작하기</a>
+      {{- end }}
+      <a class="pr-btn pr-btn--secondary pr-btn--lg" href="https://github.com/jeonck/speaking/edit/main/input/script.md">새 구간 추가하기</a>
+    </div>
+  </section>
+
+  <section class="home-steps" aria-labelledby="home-steps-title">
+    <h2 id="home-steps-title" class="home-h2">연습은 네 단계로 진행돼요</h2>
+    <ol class="home-rail">
+      <li><span class="pr-step-num">1</span><b>직독직해</b><span>음원 길이 안에 앞에서부터 읽으며 뜻을 잡아요.</span></li>
+      <li><span class="pr-step-num">2</span><b>낭독</b><span>강세·연음 표시를 보고 같은 시간 안에 소리 내 읽고 녹음해요.</span></li>
+      <li><span class="pr-step-num">3</span><b>가리고 듣기</b><span>원고 없이 듣고 문제와 받아쓰기로 들렸는지 확인해요.</span></li>
+      <li><span class="pr-step-num">4</span><b>정리</b><span>기록을 저장하고 지난번과 비교해요. 하루 세 번 반복을 권해요.</span></li>
+    </ol>
+  </section>
+
+  <section class="home-list" aria-labelledby="home-list-title">
+    <h2 id="home-list-title" class="home-h2">실습 목록</h2>
+    {{- partial "practice_rows.html" $pages.ByDate.Reverse }}
+  </section>
+
+</div>
+{{- end }}
