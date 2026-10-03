@@ -42,10 +42,17 @@ function createPlayer(elementId, videoId) {
  * 호출이 createPlayer를 다시 실행해 YT.Player를 중복 생성하는 레이스를 막는다. */
 export function ensurePlayer(ctx, elementId) {
   if (ctx.player) return Promise.resolve(ctx.player);
-  ctx.playerPromise ??= createPlayer(elementId, ctx.data.video_id).then((p) => {
-    ctx.player = p;
-    return p;
-  });
+  ctx.playerPromise ??= createPlayer(elementId, ctx.data.video_id).then(
+    (p) => {
+      ctx.player = p;
+      return p;
+    },
+    (err) => {
+      // 실패한 Promise를 캐시에 남기면 이후 모든 호출이 재시도 없이 즉시 실패한다
+      ctx.playerPromise = null;
+      throw err;
+    }
+  );
   return ctx.playerPromise;
 }
 
@@ -60,15 +67,22 @@ export function playRange(player, start, end, onEnd) {
   if (cancelActivePoll) cancelActivePoll();
   player.seekTo(start, true);
   player.playVideo();
+  let done = false;
+  const finish = () => {
+    if (done) return;
+    done = true;
+    clearInterval(timer);
+    if (cancelActivePoll === cancel) cancelActivePoll = null;
+    if (onEnd) onEnd();
+  };
   const timer = setInterval(() => {
     if (player.getCurrentTime() >= end) {
-      clearInterval(timer);
-      if (cancelActivePoll === cancel) cancelActivePoll = null;
       player.pauseVideo();
-      if (onEnd) onEnd();
+      finish();
     }
   }, 100);
-  const cancel = () => clearInterval(timer);
+  // 다른 재생에 밀려 취소돼도 onEnd를 불러, 호출한 버튼이 비활성으로 고정되지 않게 한다
+  const cancel = finish;
   cancelActivePoll = cancel;
   return cancel;
 }
