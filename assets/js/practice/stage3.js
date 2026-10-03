@@ -4,21 +4,17 @@ import {
   renderDictationResult,
   escapeHtml,
   goalCard,
+  redactedLines,
   feedback,
 } from "./markup.js";
 import { scoreDictation } from "./score.js";
 
 export function mountStage3(panel, ctx) {
   const { data } = ctx;
-  // 가려진 스크립트 자리 — 문장 길이만큼의 막대로 "여기 문장이 있다"만 보여준다
-  const maxLen = Math.max(...data.sentences.map((s) => s.text.length));
-  const redacted = data.sentences
-    .map((s) => `<span style="width:${Math.max(30, Math.round((s.text.length / maxLen) * 100))}%"></span>`)
-    .join("");
   panel.innerHTML = `
     ${goalCard("화면 없이 듣고 이해하기", "읽고 소리 내 본 문장이 실제로 들리는지 확인해요. 전체를 듣고 문제를 푼 뒤, 한 문장씩 받아써 봅니다.")}
     <div class="pr-listen-card">
-      <div class="pr-redacted" aria-hidden="true">${redacted}</div>
+      ${redactedLines(data.sentences)}
       <p class="pr-listen-hint">스크립트는 가려져 있어요. 소리에만 집중해 보세요.</p>
       <button class="pr-listen-all pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 전체 듣기</button>
       <span class="pr-play-count">아직 듣지 않았어요</span>

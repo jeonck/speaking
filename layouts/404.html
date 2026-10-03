@@ -1,0 +1,22 @@
+{{- define "main" }}
+<div class="pr-home pr-404">
+  <section class="home-hero">
+    {{- /* 홈 첫 화면과 같은 표기 — 강세 형광펜, 연음 ‿ */ -}}
+    <figure class="home-specimen">
+      <blockquote lang="en">
+        <span class="pr-word pr-weak">This</span>
+        <span class="pr-word pr-strong pr-link"><span class="pr-syl">page</span></span>
+        <span class="pr-word pr-weak">is</span>
+        <span class="pr-word pr-weak">not</span>
+        <span class="pr-word pr-strong"><span class="pr-syl">here</span>.</span>
+      </blockquote>
+    </figure>
+    <h1 class="home-title">찾는 페이지가 없어요</h1>
+    <p class="home-lede">주소가 바뀌었거나 지워진 실습일 수 있어요. 실습 목록에서 다시 골라 보세요.</p>
+    <div class="home-actions">
+      <a class="pr-btn pr-btn--primary pr-btn--lg" href="{{ "practice/" | relURL }}">실습 목록 보기</a>
+      <a class="pr-btn pr-btn--secondary pr-btn--lg" href="{{ "" | relURL }}">홈으로</a>
+    </div>
+  </section>
+</div>
+{{- end }}

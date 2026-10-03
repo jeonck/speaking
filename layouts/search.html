@@ -1,0 +1,15 @@
+{{- define "main" }}
+{{- /* PaperMod fastsearch.js가 #searchbox/#searchInput/#searchResults를 찾으므로 id는 그대로 둔다 */ -}}
+<div class="pr-home pr-home--list">
+  <header class="practice-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="home-title">검색</h1>
+    <p class="home-lede">실습 제목과 원고에서 찾아요. 영어 단어로 찾는 게 가장 잘 맞아요.</p>
+  </header>
+  <div id="searchbox" class="searchbox">
+    <input id="searchInput" disabled placeholder="{{ .Params.placeholder | default "검색어" }}"
+      aria-label="검색어" type="search" autocomplete="off" maxlength="64">
+    <ul id="searchResults" class="searchResults" aria-label="검색 결과"></ul>
+  </div>
+</div>
+{{- end }}

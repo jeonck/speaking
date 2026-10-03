@@ -40,6 +40,15 @@ export function goalCard(title, why) {
   return `<div class="pr-goal"><h2 class="pr-goal-title">${title}</h2><p class="pr-goal-why">${why}</p></div>`;
 }
 
+/** 가려진 원고 — 문장 길이만큼의 막대로 "여기 문장이 있다"만 보여준다. */
+export function redactedLines(sentences) {
+  const maxLen = Math.max(...sentences.map((s) => s.text.length));
+  const bars = sentences
+    .map((s) => `<span style="width:${Math.max(30, Math.round((s.text.length / maxLen) * 100))}%"></span>`)
+    .join("");
+  return `<div class="pr-redacted" aria-hidden="true">${bars}</div>`;
+}
+
 /** 결과에 맞춘 격려 문구. tone: "great" | "good" | "keep" */
 export function feedback(tone, text) {
   return `<p class="pr-feedback pr-feedback--${tone}">${text}</p>`;

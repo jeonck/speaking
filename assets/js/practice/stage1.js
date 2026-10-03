@@ -1,4 +1,4 @@
-import { renderChunks, escapeHtml, goalCard, feedback } from "./markup.js";
+import { renderChunks, escapeHtml, goalCard, feedback, redactedLines } from "./markup.js";
 import { startCountdown, formatSeconds } from "./timer.js";
 
 export function mountStage1(panel, ctx) {
@@ -8,7 +8,11 @@ export function mountStage1(panel, ctx) {
 
   panel.innerHTML = `
     ${goalCard(`${seconds}초 안에 끝까지 읽고 이해하기`, "원어민이 말하는 속도로 이해할 수 있어야 귀로도 들립니다. 거꾸로 돌아가 읽지 말고 앞에서부터 쭉 읽어 보세요.")}
-    <button class="pr-start pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 읽기 시작</button>
+    <div class="pr-cover">
+      ${redactedLines(data.sentences)}
+      <button class="pr-start pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 읽기 시작</button>
+      <p class="pr-cover-hint">누르면 원고가 보이고 ${seconds}초 타이머가 흐르기 시작해요.</p>
+    </div>
     <div class="pr-timer-row" hidden>
       <div class="pr-timebar"><div></div></div>
       <span class="practice-timer"></span>
@@ -20,6 +24,7 @@ export function mountStage1(panel, ctx) {
   `;
 
   const startBtn = panel.querySelector(".pr-start");
+  const coverEl = panel.querySelector(".pr-cover");
   const timerRow = panel.querySelector(".pr-timer-row");
   const timerEl = panel.querySelector(".practice-timer");
   const barEl = panel.querySelector(".pr-timebar > div");
@@ -37,7 +42,7 @@ export function mountStage1(panel, ctx) {
 
   startBtn.addEventListener("click", () => {
     startedAt = performance.now();
-    startBtn.hidden = true;
+    coverEl.hidden = true;
     timerRow.hidden = false;
     scriptEl.hidden = false;
     doneBtn.hidden = false;
