@@ -3,7 +3,7 @@
   <header class="practice-header">
     {{ partial "breadcrumbs.html" . }}
     <p class="practice-date">{{ .Date.Format "2006년 1월 2일" }} 실습</p>
-    <h1>{{ replaceRE `^\d{4}-\d{2}-\d{2}\s+` "" .Title }}</h1>
+    <h1>{{ .Title }}</h1>
     {{- with .Params.summary }}
     <p class="practice-summary">{{ . }}</p>
     {{- end }}

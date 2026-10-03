@@ -7,7 +7,7 @@
     <a class="home-row" href="{{ .RelPermalink }}">
       <time class="home-row-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "1월 2일" }}</time>
       <span class="home-row-main">
-        <span class="home-row-title">{{ replaceRE `^\d{4}-\d{2}-\d{2}\s+` "" .Title }}</span>
+        <span class="home-row-title">{{ .Title }}</span>
         {{- with .Params.summary }}<span class="home-row-summary">{{ . }}</span>{{ end }}
       </span>
       {{- with .Params.duration }}<span class="home-row-len">{{ . }}초</span>{{ end }}

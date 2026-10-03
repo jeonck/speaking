@@ -26,7 +26,7 @@
     <figure class="home-specimen">
       <blockquote lang="en">{{ delimit $words " " | safeHTML }}</blockquote>
       <figcaption>
-        <a href="{{ $latest.RelPermalink }}">{{ replaceRE `^\d{4}-\d{2}-\d{2}\s+` "" $latest.Title }}</a>에서
+        <a href="{{ $latest.RelPermalink }}">{{ $latest.Title }}</a>에서
       </figcaption>
     </figure>
     {{- end }}

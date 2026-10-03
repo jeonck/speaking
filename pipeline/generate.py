@@ -393,7 +393,7 @@ def write_practice_bundle(
     tags_str = ", ".join(yaml_quote(t) for t in result["tags"])
     duration_seconds = math.ceil(item["end"] - item["start"])
     index_md = f"""---
-title: {yaml_quote(f"{date.date().isoformat()} {result['title']}")}
+title: {yaml_quote(result['title'])}
 date: {date.isoformat()}
 summary: {yaml_quote(result['summary'])}
 tags: [{tags_str}]
