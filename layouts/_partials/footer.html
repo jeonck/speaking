@@ -1,28 +1,40 @@
 {{- /* PaperMod footer.html 복사본 — <footer> 블록만 사이트 디자인으로 바꿨다. 아래 스크립트는 테마 그대로. */ -}}
 {{- if not (.Param "hideFooter") }}
 <footer class="footer pr-footer">
-    <div class="pr-footer-main">
-        <div>
+    {{- /* ElevenLabs 바닥글: 넓은 다단 링크 목록 + 아래 헤어라인 줄 */}}
+    <div class="pr-footer-grid">
+        <div class="pr-footer-brand">
             <a class="pr-footer-name" href="{{ "" | absLangURL }}">{{ site.Title }}</a>
             <p class="pr-footer-line">20~30초 구간으로 하루 세 번 스피킹해요.</p>
-        </div>
-        <nav class="pr-footer-nav" aria-label="바닥글 메뉴">
-            {{- range site.Menus.main }}
-            {{- if not (findRE "://" .URL) }}
-            <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-            {{- end }}
-            {{- end }}
             <a class="pr-footer-sponsor" href="https://github.com/sponsors/jeonck" rel="noopener noreferrer" target="_blank">
                 <svg aria-hidden="true" width="14" height="14" viewBox="0 0 16 16" fill="currentColor"><path d="M4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.565 20.565 0 008 13.393a20.561 20.561 0 003.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.75.75 0 01-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5z"/></svg>
                 GitHub Sponsors로 후원하기
             </a>
+        </div>
+        <nav class="pr-footer-col" aria-label="둘러보기">
+            <p class="pr-footer-head">둘러보기</p>
+            <a href="{{ "" | absLangURL }}">홈</a>
+            {{- range site.Menus.main }}{{ if not (findRE "://" .URL) }}<a href="{{ .URL | absLangURL }}">{{ .Name }}</a>{{ end }}{{ end }}
+        </nav>
+        {{- with site.Taxonomies.tags }}
+        <nav class="pr-footer-col" aria-label="주제">
+            <p class="pr-footer-head">주제</p>
+            {{- range first 5 .ByCount }}<a href="{{ .Page.RelPermalink }}">{{ title (replace .Page.Data.Term "-" " ") }}</a>{{ end }}
+        </nav>
+        {{- end }}
+        <nav class="pr-footer-col" aria-label="참여하기">
+            <p class="pr-footer-head">참여하기</p>
+            <a href="https://github.com/jeonck/speaking/edit/main/input/script.md" rel="noopener" target="_blank">구간 추가하기</a>
+            <a href="{{ "" | absLangURL }}#home-add">실습 만드는 법</a>
         </nav>
     </div>
-    <p class="pr-footer-credit">
-        &copy; {{ now.Year }} {{ site.Title }}.
-        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a>와
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>로 만들었어요.
-    </p>
+    <div class="pr-footer-bottom">
+        <span>&copy; {{ now.Year }} {{ site.Title }}</span>
+        <span class="pr-footer-credit">
+            <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a>와
+            <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>로 만들었어요.
+        </span>
+    </div>
 </footer>
 {{- end }}
 
