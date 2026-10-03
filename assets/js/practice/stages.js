@@ -56,8 +56,8 @@ export function initPractice(root, data, slug) {
       STAGES.find((s) => s.id === id).mount(panelEls[id], ctx);
     }
   }
-  showStage(STAGES[0].id);
-
+  // ctx는 첫 showStage(mount) 호출 전에 완전히 갖춰져야 한다 — stage1 mount가
+  // ctx.attemptNumber 등을 읽는 미래 변경이 undefined를 보지 않도록.
   ctx.recordAttempt = () => {
     try {
       saveAttempt(slug, { date: todayISO(), ...ctx.results });
@@ -67,6 +67,8 @@ export function initPractice(root, data, slug) {
   };
   ctx.previousAttempt = getPreviousAttempt(slug);
   ctx.attemptNumber = todayCount(slug, todayISO()) + 1;
+
+  showStage(STAGES[0].id);
 
   return ctx;
 }

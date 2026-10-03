@@ -141,7 +141,10 @@ def align_sentences(
             if idx in sent_to_frag:
                 frag_idx = sent_to_frag[idx]
                 if 0 <= frag_idx < len(frag_words):
-                    found = frag_words[frag_idx][1]
+                    # 문장 자신의 첫 단어가 아니라 idx번째(start_idx보다 뒤) 단어에서
+                    # 매칭이 됐다면, 그 사이 단어 수 × 0.3초만큼을 빼서 문장의 실제
+                    # 시작 시각을 추정한다 (spec §4-4).
+                    found = frag_words[frag_idx][1] - (idx - start_idx) * 0.3
                 break
         fallback_base = prev_start if i > 0 else segment_start
         if found is None or found <= prev_start:

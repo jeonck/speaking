@@ -81,6 +81,22 @@ class ParseResultTest(unittest.TestCase):
     def test_non_json_text_rejected(self):
         self.assertIsNone(generate.parse_result("Sorry, I can't help with that."))
 
+    def test_chunk_missing_ko_rejected(self):
+        bad = json.loads(json.dumps(VALID_RESULT))
+        del bad["sentences"][0]["chunks"][0]["ko"]
+        self.assertIsNone(generate.parse_result(json.dumps(bad)))
+
+    def test_question_option_not_string_rejected(self):
+        bad = json.loads(json.dumps(VALID_RESULT))
+        bad["questions"][0]["options"][0] = 123
+        self.assertIsNone(generate.parse_result(json.dumps(bad)))
+
+    def test_vocab_entry_missing_term_is_dropped(self):
+        good = json.loads(json.dumps(VALID_RESULT))
+        good["vocab"].append({"ko": "뜻만 있고 term 없음"})
+        result = generate.parse_result(json.dumps(good))
+        self.assertEqual(len(result["vocab"]), 1)
+
 
 class WritePracticeBundleTest(unittest.TestCase):
     def setUp(self):
@@ -106,11 +122,13 @@ class WritePracticeBundleTest(unittest.TestCase):
         self.assertEqual(data["sentences"][0]["start"], 0.0)
 
     def test_script_close_tag_in_data_is_escaped(self):
-        self.result["summary"] = "a </script> tag"
+        self.result["summary"] = "a </script> tag and a </ScRiPt> tag"
         path = generate.write_practice_bundle(self.item, self.result, None, self.now)
         self.created.append(path.parent)
         raw = (path.parent / "data.json").read_text()
         self.assertNotIn("</script>", raw)
+        self.assertNotIn("</ScRiPt>", raw)
+        self.assertNotIn("<", raw)
 
 
 class FakeHTTPResponse:

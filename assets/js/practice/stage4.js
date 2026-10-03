@@ -1,4 +1,4 @@
-import { renderStressedSentence, renderChunks } from "./markup.js";
+import { renderStressedSentence, renderChunks, escapeHtml } from "./markup.js";
 
 export function mountStage4(panel, ctx) {
   const { data, results, previousAttempt, attemptNumber } = ctx;
@@ -12,7 +12,7 @@ export function mountStage4(panel, ctx) {
         <div class="pr-sentence-row">
           <p>${renderStressedSentence(s)}</p>
           ${renderChunks(s)}
-          ${s.tip ? `<p><small>${s.tip}</small></p>` : ""}
+          ${s.tip ? `<p><small>${escapeHtml(s.tip)}</small></p>` : ""}
         </div>`
         )
         .join("")}
@@ -20,7 +20,12 @@ export function mountStage4(panel, ctx) {
     <h3>어휘</h3>
     <ul>
       ${data.vocab
-        .map((v) => `<li><strong>${v.term}</strong> — ${v.ko} <small>${v.note || ""}</small></li>`)
+        .map(
+          (v) =>
+            `<li><strong>${escapeHtml(v.term)}</strong> — ${escapeHtml(v.ko)} <small>${escapeHtml(
+              v.note || ""
+            )}</small></li>`
+        )
         .join("")}
     </ul>
     <h3>이번 결과</h3>

@@ -236,6 +236,13 @@ def parse_result(text: str) -> dict | None:
         chunks = s.get("chunks")
         if not isinstance(chunks, list) or not chunks:
             return None
+        for c in chunks:
+            if not isinstance(c, dict):
+                return None
+            if not isinstance(c.get("en"), str):
+                return None
+            if not isinstance(c.get("ko"), str) or not c["ko"].strip():
+                return None
         words = s.get("words")
         if not isinstance(words, list) or not words:
             return None
@@ -271,8 +278,12 @@ def parse_result(text: str) -> dict | None:
     for q in questions:
         if not isinstance(q, dict):
             return None
+        if not isinstance(q.get("q"), str) or not q["q"].strip():
+            return None
         options = q.get("options")
         if not isinstance(options, list) or not (3 <= len(options) <= 4):
+            return None
+        if not all(isinstance(o, str) for o in options):
             return None
         answer = q.get("answer")
         if not isinstance(answer, int) or isinstance(answer, bool) or not (0 <= answer < len(options)):
@@ -280,7 +291,19 @@ def parse_result(text: str) -> dict | None:
         q["why"] = str(q.get("why") or "").strip()
 
     vocab = data.get("vocab") or []
-    data["vocab"] = vocab if isinstance(vocab, list) else []
+    if not isinstance(vocab, list):
+        vocab = []
+    # 개별 vocab 항목이 term/ko를 갖추지 못하면 그 항목만 버린다 (words 정제와 같은 패턴) —
+    # 전체 결과를 무효화할 정도의 문제는 아니다.
+    data["vocab"] = [
+        v
+        for v in vocab
+        if isinstance(v, dict)
+        and isinstance(v.get("term"), str)
+        and v["term"].strip()
+        and isinstance(v.get("ko"), str)
+        and v["ko"].strip()
+    ]
 
     tags = data.get("tags") or []
     data["tags"] = [slugify(str(t)) for t in tags[:3] if str(t).strip()] or ["practice"]
@@ -389,8 +412,10 @@ duration: {duration_seconds}
         "vocab": result["vocab"],
     }
     data_json = json.dumps(data, ensure_ascii=False, indent=1)
-    # <script type="application/json"> 안에 그대로 삽입되므로 </script 리터럴을 이스케이프
-    data_json = data_json.replace("</script", "<\\/script")
+    # <script type="application/json"> 안에 그대로 삽입되므로 "<"를 전부 이스케이프한다.
+    # HTML 종료 태그 매칭은 대소문자를 가리지 않으므로 "</script" 리터럴만 바꿔서는
+    # </SCRIPT나 </ScRiPt를 놓친다 — JSON 문자열 값 안에서 유효한 <로 치환한다.
+    data_json = data_json.replace("<", "\\u003c")
     (dir_path / "data.json").write_text(data_json, encoding="utf-8")
 
     return dir_path / "index.md"

@@ -38,6 +38,7 @@ export function startRecognition(onUpdate) {
 
   let finalText = "";
   let stopped = false;
+  let errored = false;
 
   recognition.onresult = (e) => {
     for (let i = e.resultIndex; i < e.results.length; i++) {
@@ -45,16 +46,23 @@ export function startRecognition(onUpdate) {
     }
     onUpdate(finalText.trim());
   };
+  recognition.onerror = (e) => {
+    // 권한 거부는 onend에서 자동 재시작하면 안 되는 치명적 오류 — 재시작 루프를 막는다.
+    if (e.error === "not-allowed" || e.error === "service-not-allowed") errored = true;
+  };
   recognition.onend = () => {
-    if (!stopped) recognition.start();
+    if (!stopped && !errored) recognition.start();
   };
   recognition.start();
 
   return {
-    stop: () => {
-      stopped = true;
-      recognition.stop();
-      return finalText.trim();
-    },
+    // stop()이 호출된 즉시의 finalText는 아직 마지막 구간의 result 이벤트를
+    // 받기 전일 수 있다 — 실제 종료(onend)를 기다린 뒤의 값을 돌려준다.
+    stop: () =>
+      new Promise((resolve) => {
+        stopped = true;
+        recognition.addEventListener("end", () => resolve(finalText.trim()), { once: true });
+        recognition.stop();
+      }),
   };
 }

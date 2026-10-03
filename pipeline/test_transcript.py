@@ -94,6 +94,18 @@ class AlignSentencesTest(unittest.TestCase):
         timings, _ = align_sentences(sentences, fragments, segment_end=5.0)
         self.assertGreater(timings[1]["start"], timings[0]["start"])
 
+    def test_offset_subtracted_when_match_is_not_sentences_first_word(self):
+        # 문장의 첫 단어("zzz")는 자막에 없고, 두 번째/세 번째 단어("hello","there")만
+        # 있다. frag_words는 균등 분배되어 hello=10/3초, there=20/3초가 된다.
+        # idx(=1)가 start_idx(=0)보다 1 뒤이므로 0.3초를 빼야 한다 — 보정 없으면
+        # 10/3초(약 3.33)가 되고, 보정하면 10/3 - 0.3(약 3.03)이 된다.
+        fragments = [{"start": 0.0, "text": "xxx hello there"}]
+        sentences = ["Zzz hello there."]
+        timings, _ = align_sentences(sentences, fragments, segment_end=10.0)
+        expected = 10 / 3 - 0.3
+        self.assertAlmostEqual(timings[0]["start"], expected, places=6)
+        self.assertLess(timings[0]["start"], 10 / 3)
+
 
 class NormalizeWordTest(unittest.TestCase):
     def test_strips_punctuation_and_case(self):

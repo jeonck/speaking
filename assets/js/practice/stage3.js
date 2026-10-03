@@ -1,5 +1,5 @@
 import { ensurePlayer, playRange } from "./player.js";
-import { renderStressedSentence, renderDictationResult } from "./markup.js";
+import { renderStressedSentence, renderDictationResult, escapeHtml } from "./markup.js";
 import { scoreDictation } from "./score.js";
 
 export function mountStage3(panel, ctx) {
@@ -59,9 +59,12 @@ export function mountStage3(panel, ctx) {
         .map(
           (q, qi) => `
       <div class="pr-question" data-qi="${qi}">
-        <p>${q.q}</p>
+        <p>${escapeHtml(q.q)}</p>
         ${q.options
-          .map((opt, oi) => `<label><input type="radio" name="q${qi}" value="${oi}"> ${opt}</label><br>`)
+          .map(
+            (opt, oi) =>
+              `<label><input type="radio" name="q${qi}" value="${oi}"> ${escapeHtml(opt)}</label><br>`
+          )
           .join("")}
       </div>`
         )
@@ -77,7 +80,7 @@ export function mountStage3(panel, ctx) {
         if (isCorrect) correctCount += 1;
         qEl.insertAdjacentHTML(
           "beforeend",
-          `<p class="pr-answer-note">${isCorrect ? "✅" : "❌"} ${q.options[q.answer]} — ${q.why}</p>`
+          `<p class="pr-answer-note">${isCorrect ? "✅" : "❌"} ${escapeHtml(q.options[q.answer])} — ${escapeHtml(q.why)}</p>`
         );
       });
       ctx.results.stage3 = { questionScore: correctCount, questionTotal: data.questions.length };

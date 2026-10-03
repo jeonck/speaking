@@ -1,10 +1,10 @@
-import { renderChunks } from "./markup.js";
+import { renderChunks, escapeHtml } from "./markup.js";
 import { startCountdown, formatSeconds } from "./timer.js";
 
 export function mountStage1(panel, ctx) {
   const { data } = ctx;
   const seconds = Math.ceil(data.segment.end - data.segment.start);
-  const startedAt = performance.now();
+  let startedAt = null;
 
   panel.innerHTML = `
     <p>이 구간은 ${seconds}초입니다. [시작]을 누르면 그 시간 안에 스크립트를 끝까지 읽어보세요.</p>
@@ -30,6 +30,7 @@ export function mountStage1(panel, ctx) {
   let cancelCountdown = null;
 
   startBtn.addEventListener("click", () => {
+    startedAt = performance.now();
     startBtn.hidden = true;
     timerEl.hidden = false;
     scriptEl.hidden = false;
@@ -56,7 +57,7 @@ export function mountStage1(panel, ctx) {
         .map(
           (s, i) => `
       <div class="pr-sentence-row" data-i="${i}">
-        <p>${s.text}</p>
+        <p>${escapeHtml(s.text)}</p>
         <div class="pr-check-group" data-i="${i}">
           <button type="button" data-v="ok">이해됨</button>
           <button type="button" data-v="stuck">막힘</button>

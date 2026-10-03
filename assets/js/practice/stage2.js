@@ -1,4 +1,4 @@
-import { renderStressedSentence } from "./markup.js";
+import { renderStressedSentence, escapeHtml } from "./markup.js";
 import { startStopwatch, formatSeconds } from "./timer.js";
 import { ensurePlayer, playRange } from "./player.js";
 import {
@@ -17,13 +17,14 @@ export function mountStage2(panel, ctx) {
   panel.innerHTML = `
     <div id="pr-yt-stage2" class="pr-hidden-player"></div>
     <div class="pr-player-notice" hidden></div>
+    <div class="pr-mic-notice" hidden></div>
     <div class="pr-script">
       ${data.sentences
         .map(
           (s, i) =>
             `<p class="pr-sentence-row" data-i="${i}">
                <button type="button" class="pr-play-original" data-i="${i}">원음</button>
-               ${renderStressedSentence(s)}${s.tip ? `<br><small>${s.tip}</small>` : ""}
+               ${renderStressedSentence(s)}${s.tip ? `<br><small>${escapeHtml(s.tip)}</small>` : ""}
              </p>`
         )
         .join("")}
@@ -40,6 +41,7 @@ export function mountStage2(panel, ctx) {
   const resultEl = panel.querySelector(".practice-result-grid");
   const audioEl = panel.querySelector(".pr-playback");
   const playerNotice = panel.querySelector(".pr-player-notice");
+  const micNotice = panel.querySelector(".pr-mic-notice");
 
   // 원음 버튼: 플레이어 로드/재생 오류가 나도 녹음·타이머 기능은 그대로 쓸 수 있어야 한다
   // (spec §7 "YouTube API 로드 실패 → 재생 의존 기능만 비활성, 나머지는 동작").
@@ -76,13 +78,22 @@ export function mountStage2(panel, ctx) {
     recordBtn.disabled = true;
     timerEl.hidden = false;
 
+    // 마이크 권한 거부 등 getUserMedia 실패는 여기서만 잡는다 — 녹음이 안 되더라도
+    // 타이머는 계속 동작해야 한다 (spec §7 "마이크 거부 → 타이머 전용 모드, 사유 안내").
     let recognizedText = "";
-    const recognition = isSpeechRecognitionSupported()
-      ? startRecognition((t) => {
-          recognizedText = t;
-        })
-      : null;
-    const recording = await startRecording();
+    let recording = null;
+    let recognition = null;
+    try {
+      recording = await startRecording();
+      recognition = isSpeechRecognitionSupported()
+        ? startRecognition((t) => {
+            recognizedText = t;
+          })
+        : null;
+    } catch (err) {
+      micNotice.hidden = false;
+      micNotice.textContent = `마이크를 사용할 수 없습니다 (${err.message}) — 타이머만 동작합니다.`;
+    }
     const stopwatch = startStopwatch((t) => {
       timerEl.textContent = formatSeconds(t);
     });
@@ -95,10 +106,12 @@ export function mountStage2(panel, ctx) {
     async function onStopClick() {
       recordBtn.disabled = true;
       const elapsed = stopwatch.stop();
-      const finalText = recognition ? recognition.stop() : "";
-      const url = await recording.stop();
-      audioEl.src = url;
-      audioEl.hidden = false;
+      const finalText = recognition ? await recognition.stop() : "";
+      if (recording) {
+        const url = await recording.stop();
+        audioEl.src = url;
+        audioEl.hidden = false;
+      }
 
       const ratio = elapsed / targetSeconds;
       const accuracy = finalText ? scoreDictation(fullText, finalText).accuracy : null;

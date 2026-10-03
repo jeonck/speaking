@@ -30,6 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
+      tests: ${{ steps.tests.outcome }}
     steps:
       - uses: actions/checkout@v4
 
@@ -50,6 +51,7 @@ jobs:
           node-version: "24"
 
       - name: Run tests
+        id: tests
         run: |
           cd pipeline && python3 -m unittest discover -p "test_*.py" -v
           cd ../assets/js/practice && node --test
@@ -88,7 +90,7 @@ jobs:
   deploy:
     needs: generate
     # 스케줄: 신규 포스트 있을 때만 / 수동·push: 항상 배포
-    if: ${{ !cancelled() && (needs.generate.outputs.changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'push') }}
+    if: ${{ !cancelled() && needs.generate.outputs.tests == 'success' && (needs.generate.outputs.changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'push') }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
