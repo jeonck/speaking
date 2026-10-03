@@ -520,3 +520,30 @@ body.list { background: var(--pr-desk); }
   text-underline-offset: -0.15em; text-decoration-skip-ink: none;
 }
 #searchResults .entry-link { position: absolute; inset: 0; }
+
+/* ---------- 바닥글 ---------- */
+.footer.pr-footer {
+  max-width: calc(var(--main-width) + var(--gap) * 2); margin: 3rem auto 0; padding: 0 var(--gap) 2.5rem;
+  text-align: left; font-size: 0.88rem; line-height: 1.6; color: var(--secondary);
+}
+.pr-footer-main {
+  display: flex; justify-content: space-between; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;
+  padding-top: 1.5rem; border-top: 1px solid var(--pr-rule);
+}
+.footer.pr-footer a { text-decoration: none; }
+.footer .pr-footer-name { font-family: var(--pr-serif); font-size: 1.1rem; font-weight: 700; color: var(--primary); }
+.pr-footer-line { margin: 0.2rem 0 0; }
+.pr-footer-nav { display: flex; flex-wrap: wrap; gap: 0.4rem 1.25rem; }
+.footer .pr-footer-nav a { color: var(--secondary); font-weight: 500; }
+.footer.pr-footer a:hover { color: var(--primary); }
+.pr-footer-credit { margin: 1.25rem 0 0; font-size: 0.8rem; }
+.footer.pr-footer .pr-footer-credit a { text-decoration: underline; text-decoration-color: var(--pr-rule); text-underline-offset: 3px; }
+.footer.pr-footer a:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
+
+/* 맨 위로 버튼 — 종이 원 */
+.top-link {
+  display: flex; align-items: center; justify-content: center; padding: 0;
+  background: var(--pr-paper); color: var(--pr-ink); border: 1px solid var(--pr-rule);
+  box-shadow: 0 6px 16px -10px rgba(27, 42, 74, 0.45);
+}
+.top-link svg { width: 18px; height: 18px; }
