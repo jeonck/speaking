@@ -1,18 +1,25 @@
 {{- define "main" }}
-<div class="pr-home pr-home--list">
+<div class="pr-home pr-home--list pr-home--wide">
   <header class="practice-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="home-title">주제별 실습</h1>
     <p class="home-lede">실습 구간에 붙은 주제예요. 하나를 고르면 그 주제의 실습만 모아 볼 수 있어요.</p>
   </header>
   {{- with .Data.Terms.ByCount }}
-  <ul class="tag-rows">
+  {{- /* 주제마다 파스텔 구슬 카드 한 장 — 구슬 색은 순서대로 돌아간다 */}}
+  <ul class="tag-cards">
     {{- range . }}
+    {{- $count := .Count }}
     {{- with .Page }}
     <li>
-      <a class="tag-row" href="{{ .RelPermalink }}">
-        <span class="tag-row-name">{{ title (replace .Data.Term "-" " ") }}</span>
-        <span class="tag-row-count">실습 {{ len .Pages }}개</span>
+      <a class="tag-card" href="{{ .RelPermalink }}">
+        <span class="tag-card-top">
+          <span class="tag-card-name">{{ title (replace .Data.Term "-" " ") }}</span>
+          <span class="pr-badge">실습 {{ $count }}개</span>
+        </span>
+        <span class="tag-card-list">
+          {{- range first 3 .Pages.ByDate.Reverse }}<span>{{ .Title }}</span>{{ end }}
+        </span>
       </a>
     </li>
     {{- end }}
