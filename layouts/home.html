@@ -2,12 +2,17 @@
 {{- $pages := where site.RegularPages "Section" "practice" }}
 {{- $latest := false }}
 {{- range first 1 $pages.ByDate.Reverse }}{{ $latest = . }}{{ end }}
+{{- $data := false }}
+{{- with $latest }}{{ with .Resources.Get "data.json" }}{{ $data = . | transform.Unmarshal }}{{ end }}{{ end }}
 {{- $addURL := "https://github.com/jeonck/speaking/edit/main/input/script.md" }}
-{{- /* 섹션마다 메시지 하나. 띠 배경(책상/종이)을 번갈아 섹션 경계를 보이게 한다. */ -}}
+{{- /* 섹션마다 메시지 하나. 띠 배경(캔버스/흰 카드)을 번갈아 섹션 경계를 보이게 한다. */ -}}
 <div class="pr-home pr-home--sections">
 
-  {{- /* 1. 무엇을 하는 곳인가 */}}
+  {{- /* 1. 무엇을 하는 곳인가 + 최신 실습 미리보기 */}}
   <section class="home-band home-hero" aria-labelledby="home-title">
+    {{- with $latest }}
+    <a class="home-pill" href="{{ .RelPermalink }}"><span class="home-pill-tag">새 실습</span>{{ .Title }}</a>
+    {{- end }}
     <h1 id="home-title" class="home-display">말할 수 있는 문장은 들립니다</h1>
     <p class="home-lede">
       유튜브 영상의 20~30초 구간을 원어민 속도로 이해하고, 같은 속도로 스피킹하고,
@@ -19,17 +24,36 @@
       {{- end }}
       <a class="pr-btn pr-btn--secondary pr-btn--lg" href="#home-add">내 구간 추가하는 법</a>
     </div>
+
+    {{- with $latest }}
+    {{- /* 오디오 파형 카드 — 실습이 어떤 모습인지 첫 화면에서 보여준다 */}}
+    <a class="home-preview" href="{{ .RelPermalink }}" aria-label="{{ .Title }} 실습 열기">
+      <span class="home-preview-head">
+        <span class="home-preview-icon" aria-hidden="true">EN</span>
+        <span class="home-preview-main">
+          <span class="home-preview-title">{{ .Title }}</span>
+          <span class="home-preview-badges">
+            {{- with $data }}{{ with .source_title }}<span class="pr-badge">{{ . }}</span>{{ end }}{{ end }}
+            {{- with $data }}<span class="pr-badge">{{ len .sentences }}문장</span>{{ end }}
+            {{- with .Params.duration }}<span class="pr-badge">{{ . }}초</span>{{ end }}
+          </span>
+        </span>
+        <span class="pr-btn pr-btn--secondary pr-btn--sm home-preview-open">실습 열기</span>
+      </span>
+      <span class="home-preview-wave" aria-hidden="true">
+        {{- range slice 30 69 97 100 89 59 42 50 51 42 49 47 51 71 85 90 76 46 71 90 87 66 46 39 43 52 64 64 46 46 81 100 100 81 46 52 65 66 55 43 41 51 66 78 81 63 53 84 98 90 66 45 49 54 43 50 }}<span style="--h:{{ . }}%"></span>{{ end -}}
+      </span>
+    </a>
+    {{- end }}
   </section>
 
   {{- /* 2. 원고의 표시를 읽는 법 */}}
   <section class="home-band home-band--paper" aria-labelledby="home-marks">
     <h2 id="home-marks" class="home-h2">원고는 이렇게 읽어요</h2>
-    {{- /* 최신 실습의 한 문장을 실습 페이지와 같은 표기(강세 형광펜·연음 ‿)로 */}}
-    {{- with $latest }}
-    {{- with .Resources.Get "data.json" }}
-    {{- $data := . | transform.Unmarshal }}
-    {{- $pick := index $data.sentences 0 }}
-    {{- range $data.sentences }}
+    {{- /* 최신 실습의 한 문장을 실습 페이지와 같은 표기(강세·연음 ‿)로 */}}
+    {{- with $data }}
+    {{- $pick := index .sentences 0 }}
+    {{- range .sentences }}
       {{- if and (ge (len .text) 40) (le (len .text) 90) }}{{ $pick = . }}{{ break }}{{ end }}
     {{- end }}
     {{- $words := slice }}
@@ -46,7 +70,6 @@
       <blockquote lang="en">{{ delimit $words " " | safeHTML }}</blockquote>
       <figcaption><a href="{{ $latest.RelPermalink }}">{{ $latest.Title }}</a>에서</figcaption>
     </figure>
-    {{- end }}
     {{- end }}
     <p class="home-sublede">실습 원고에는 원어민이 실제로 힘을 주고, 끊고, 붙여 읽는 곳이 표시돼 있어요.</p>
     <dl class="home-marks">
@@ -65,14 +88,14 @@
     </dl>
   </section>
 
-  {{- /* 3. 연습 방법 */}}
+  {{- /* 3. 연습 방법 — 단계마다 한 장의 카드 */}}
   <section class="home-band" aria-labelledby="home-steps-title">
     <h2 id="home-steps-title" class="home-h2">네 단계로 연습해요</h2>
     <p class="home-sublede">모든 단계의 시간 기준은 영상 속 실제 길이예요. 원어민과 같은 속도가 목표입니다.</p>
-    <ol class="home-rail">
-      <li><span class="pr-step-num">1</span><b>직독직해</b><span>음원 길이 안에 앞에서부터 읽으며 뜻을 잡아요.</span></li>
-      <li><span class="pr-step-num">2</span><b>스피킹</b><span>강세·연음 표시를 보고 같은 시간 안에 말하고 녹음해요.</span></li>
-      <li><span class="pr-step-num">3</span><b>가리고 듣기</b><span>원고 없이 듣고 문제와 받아쓰기로 들렸는지 확인해요.</span></li>
+    <ol class="home-steps">
+      <li><span class="pr-step-num">1</span><b>직독직해</b><span>음원 길이 안에 앞에서부터 읽으며 뜻을 잡아요. 막힌 문장은 덩어리 뜻으로 확인해요.</span></li>
+      <li><span class="pr-step-num">2</span><b>스피킹</b><span>원음을 듣고, 강세·연음 표시를 보며 같은 시간 안에 말하고 녹음해요.</span></li>
+      <li><span class="pr-step-num">3</span><b>가리고 듣기</b><span>원고 없이 듣고 내용 문제와 문장별 받아쓰기로 들렸는지 확인해요.</span></li>
       <li><span class="pr-step-num">4</span><b>정리</b><span>기록을 저장하고 지난번과 비교해요. 하루 세 번 반복을 권해요.</span></li>
     </ol>
   </section>
