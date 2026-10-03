@@ -1,26 +1,21 @@
 # Speaking Lab (speaking)
 
-영어 회화 수업(Speaking Lab)에서 수집한 스크립트를 붙여넣으면, Claude가 분석해
-이디엄 · 어휘 · 교정 문장 · 퀴즈 · 미니 일기로 구성된 영문 학습 포스트를 자동
-게시하는 사이트.
+유튜브 영상 구간을 붙여넣으면, 그 구간으로 직독직해 → 낭독 → 가리고 듣기 → 정리
+4단계 실습 페이지를 자동으로 만들어 주는 사이트.
 
 사이트: https://speaking.metacog.co.kr/
 
 ## 어떻게 동작하나
 
 ```
-input/script.md (수업 스크립트 전체를 코드블록에 붙여넣기, GitHub 웹 UI에서 수정)
+input/script.md (유튜브 URL + 스크립트 붙여넣는 곳, GitHub 웹 UI에서 편집)
         │
-        ▼  저장(커밋)하는 순간 push 후킹으로 즉시 실행 + 매일 07:00 KST 크론
+        ▼  저장(커밋)하는 순간 push 후킹으로 즉시 실행
+pipeline/transcript.py  URL·타임스탬프 파싱, 구간 길이 계산, 문장별 재생 시각 정렬
 pipeline/generate.py
-  - 코드블록 전체를 스크립트 1개로 읽음 (`---` 구분선으로 여러 개 가능)
-  - 이미 게시된 스크립트(해시 기준)는 건너뜀 — pipeline/state.json 으로 추적
-  - 입력이 비어 있으면 클래식 이디엄 풀에서 그날의 항목으로 미니 레슨 생성
-  - Claude가 스크립트를 분석해 섹션 구성:
-      Session Overview / 💬 Idioms (설명+예문 2) / 📚 Vocabulary /
-      🔧 Say It Better (틀린 말 vs 교정) / ✅ Check Yourself (토글 퀴즈) /
-      ✍️ Mini Diary (이디엄 활용 일기 문장)
-  - content/posts/YYYY-MM-DD-....md 로 저장
+  - Claude가 자막 조각을 문장으로 정리해 의미 덩어리 뜻·강세 표기·이해 문제·어휘 생성
+    (시각은 Claude가 아니라 transcript.py가 계산)
+  - content/practice/YYYY-MM-DD-<제목>/{index.md,data.json} 로 저장
         │
         ▼  변경사항 커밋 & push
 Hugo build → GitHub Pages 배포
@@ -31,32 +26,32 @@ Hugo build → GitHub Pages 배포
 1. GitHub 저장소에서 [`input/script.md`](input/script.md) 파일을 연다.
    (블로그 상단 "Add Transcript ✏️" 버튼으로 바로 이동 가능)
 2. 연필(✏️) 아이콘을 눌러 편집 모드로 들어간다.
-3. 코드블록(```) 안에 수업 스크립트 전체를 붙여넣는다. 여러 스크립트를 한꺼번에
-   처리하려면 `---` 만 있는 줄로 구분한다 — 블록마다 포스트가 하나씩 생성된다.
+3. 코드블록(```) 안에 **첫 줄에 유튜브 URL**, 그다음 유튜브 "스크립트 표시"에서
+   복사한 구간(타임스탬프 포함)을 그대로 붙여넣는다. 구간은 20~60초 정도가
+   적당하고 180초를 넘으면 처리되지 않는다. 여러 구간을 한꺼번에 넣으려면
+   `---` 만 있는 줄로 구분한다.
 4. 우측 상단 "Commit changes"로 저장한다. **저장하는 순간 GitHub Actions가
-   후킹되어 즉시 분석·게시가 시작된다** (로컬 git 작업 불필요).
-5. 몇 분 뒤 사이트에 새 학습 포스트가 올라온다.
+   후킹되어 즉시 분석·게시가 시작된다.**
+5. 몇 분 뒤 사이트에 새 실습 페이지가 올라온다.
 
 게시가 전부 성공하면 파이프라인이 커밋 시 `input/script.md` 코드블록을 자동으로
-비운다 — 다음 스크립트를 넣을 때 기존 내용을 지울 필요 없이 바로 붙여넣으면 된다.
-(일부만 실패하면 재시도할 수 있도록 입력은 그대로 남는다.) 혹시 자동 초기화 전에
-같은 스크립트가 다시 게시판에 남아 있어도, 텍스트 해시 기준 dedup으로 재게시되지
-않는다. Actions 탭 → "Daily Transcript Pipeline" → "Run workflow"로 수동 실행도 가능하다.
+비운다. 일부만 실패하면 재시도할 수 있도록 입력은 그대로 남는다. Actions 탭 →
+"Practice Pipeline" → "Run workflow"로 수동 실행도 가능하다.
 
 ### 개인정보 보호
 
-- **게시물**: `pipeline/generate.py`의 프롬프트가 실명·나이·병력·이민 신분·직장명·
-  연락처 등을 자동으로 "a participant", "a recent trip"처럼 일반화한다. 스크립트에
-  이런 정보가 있어도 사이트에는 노출되지 않는다.
+- **게시물**: `pipeline/generate.py`의 프롬프트가 실명 등 개인을 특정할 수 있는
+  정보를 자동으로 일반화한다.
 - **원본 커밋**: 이 저장소가 public이라면, 붙여넣은 원문 자체는 커밋하는 순간
-  공개된다(파이프라인이 나중에 입력란을 비워도 그 전 커밋은 히스토리에 남는다).
-  **붙여넣기 전에 실명을 "Speaker A" 같은 placeholder로 바꿔서 넣는 것을 권장한다.**
+  공개된다. 다만 유튜브 자막은 대개 화자 실명을 포함하지 않으므로 이디엄 버전만큼
+  민감하지는 않다. 혹시 영상에 개인을 특정할 수 있는 내용이 있다면 붙여넣기 전에
+  지우는 것을 권장한다.
 
-### 입력이 없는 날 — 이디엄 미니 레슨
+### 입력이 없는 날
 
-코드블록을 비워두면 매일 07:00 KST 크론이 `pipeline/generate.py`의
-`FALLBACK_QUOTES`(클래식 영어 이디엄 풀)에서 그날의 이디엄을 골라 미니 레슨
-포스트를 생성한다. 풀을 비우면(`FALLBACK_QUOTES = []`) 이 기능이 꺼진다.
+이 파이프라인은 후킹 전용이다 — 실습은 영상이 있어야 성립하므로, 입력이 비어
+있으면 그날은 아무것도 게시하지 않고 조용히 종료한다 (매일 자동 게시되던 이전
+이디엄 폴백은 없다).
 
 ## 최초 설정 (1회만, 사람이 직접 해야 하는 단계)
 
@@ -69,8 +64,7 @@ claude setup-token
 ```
 
 터미널에 표시되는 인증 코드를 브라우저에 붙여넣고 로그인하면, **그 다음에** 터미널에
-`sk-ant-oat01-...` 로 시작하는 토큰이 출력된다. (브라우저에 표시된 인증 코드 자체가
-아니라, 붙여넣은 뒤 터미널에 최종 출력되는 토큰이어야 한다.)
+`sk-ant-oat01-...` 로 시작하는 토큰이 출력된다.
 
 ```bash
 gh secret set CLAUDE_CODE_OAUTH_TOKEN --repo jeonck/speaking
@@ -84,21 +78,26 @@ gh secret set CLAUDE_CODE_OAUTH_TOKEN --repo jeonck/speaking
 
 | 경로 | 역할 |
 |---|---|
-| `input/script.md` | 수업 스크립트 붙여넣는 곳 (사람이 수정 — 저장 즉시 후킹 실행) |
-| `pipeline/generate.py` | 스크립트 분석 → Hugo 포스트 작성. 도메인 설정은 파일 상단 "도메인 설정" 블록 |
-| `pipeline/state.json` | 게시에 사용된 스크립트 해시 목록 (중복 게시 방지) |
-| `content/posts/` | 생성된 학습 포스트 |
-| `.github/workflows/daily.yml` | push 후킹 + 매일 07:00 KST 생성/배포 워크플로 |
+| `input/script.md` | 유튜브 URL + 스크립트 붙여넣는 곳 (사람이 수정 — 저장 즉시 후킹 실행) |
+| `pipeline/transcript.py` | URL·타임스탬프 파싱, 구간 계산, 문장-자막 타이밍 정렬 (순수 함수) |
+| `pipeline/generate.py` | Claude 호출·검증 → `content/practice/` 페이지 번들 작성. 도메인 설정은 파일 상단 "도메인 설정" 블록 |
+| `pipeline/state.json` | 게시에 사용된 구간 해시 목록 (중복 게시 방지) |
+| `content/practice/` | 생성된 실습 페이지 (`index.md` + `data.json`) |
+| `layouts/practice/single.html` | 실습 페이지 템플릿 — `data.json`을 삽입하고 JS 번들을 로드 |
+| `assets/js/practice/` | 4단계 실습 UI (바닐라 JS, Hugo 내장 esbuild로 번들) |
+| `.github/workflows/daily.yml` | push 후킹 + 테스트 + 생성/배포 워크플로 (크론 없음 — 후킹 전용) |
 | `themes/PaperMod` | Hugo 테마 (git submodule) |
-| `assets/css/extended/cards.css` | 카드 그리드 레이아웃 + PaperMod 여백 버그 수정 |
-| `static/CNAME` | (선택) 커스텀 도메인 사용 시 |
+| `assets/css/extended/` | 카드 그리드·실습 페이지 스타일 (PaperMod 오버라이드 훅) |
+| `static/CNAME` | 커스텀 도메인 설정 |
 
 ## 로컬에서 테스트
 
 ```bash
-hugo server -D                           # http://localhost:1313/
-python3 pipeline/generate.py --dry-run   # 파일 생성 없이 결과만 확인
+hugo server -D                                    # http://localhost:1313/
+python3 -m unittest discover pipeline -p "test_*.py" -v
+node --test assets/js/practice/*.test.mjs
+python3 pipeline/generate.py --dry-run             # 파일 생성 없이 결과만 확인
 ```
 
 로컬에는 `claude` CLI 로그인 세션이 있으면 그대로 사용되고(`JUDGE_BACKEND=claude-code`),
-없으면 `ANTHROPIC_API_KEY` 를 설정해 `JUDGE_BACKEND=api` 로 실행할 수 있다.
+없으면 `ANTHROPIC_API_KEY`를 설정해 `JUDGE_BACKEND=api`로 실행할 수 있다.
