@@ -49,7 +49,7 @@ class ComputeSegmentTest(unittest.TestCase):
         frags = [{"start": 0.0, "text": "a"}, {"start": 10.0, "text": "one two three"}]
         start, end = compute_segment(frags)
         self.assertEqual(start, 0.0)
-        self.assertAlmostEqual(end, 10.0 + 3 * 0.4)
+        self.assertAlmostEqual(end, 10.0 + max(1.5, 3 * 0.4))
 
     def test_over_max_length_raises(self):
         frags = [{"start": 0.0, "text": "a"}, {"start": 200.0, "text": "b"}]
@@ -98,7 +98,7 @@ class AlignSentencesTest(unittest.TestCase):
 class NormalizeWordTest(unittest.TestCase):
     def test_strips_punctuation_and_case(self):
         self.assertEqual(normalize_word("Happiness,"), "happiness")
-        self.assertEqual(normalize_word("Don't"), "don't")
+        self.assertEqual(normalize_word("Don’t"), "don't")
         self.assertEqual(normalize_word("“Quoted”"), "quoted")
 
 

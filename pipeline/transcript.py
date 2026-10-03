@@ -66,13 +66,13 @@ def parse_fragments(body: str) -> list[dict]:
 
 def estimate_duration(text: str) -> float:
     words = text.split()
-    return len(words) * 0.4
+    return max(1.5, len(words) * 0.4)
 
 
 def compute_segment(fragments: list[dict]) -> tuple[float, float]:
     if not fragments:
         raise InputError(
-            "타임스탐프를 하나도 찾지 못했습니다 — 스크립트 패널에서 시각 포함해 복사하세요"
+            "타임스탬프를 하나도 찾지 못했습니다 — 스크립트 패널에서 시각 포함해 복사하세요"
         )
     start = fragments[0]["start"]
     last = fragments[-1]
@@ -87,8 +87,8 @@ _EDGE_APOSTROPHE_RE = re.compile(r"(?<![a-z0-9])'+|'+(?![a-z0-9])")
 
 
 def normalize_word(word: str) -> str:
-    w = word.lower().replace("'", "'").replace("'", "'")
-    w = w.replace(""", "").replace(""", "")
+    w = word.lower().replace("’", "'").replace("‘", "'")
+    w = w.replace("“", "").replace("”", "")
     w = _EDGE_APOSTROPHE_RE.sub("", w)
     w = _PUNCT_RE.sub("", w)
     return w
@@ -134,8 +134,8 @@ def align_sentences(
 
     segment_start = fragments[0]["start"] if fragments else 0.0
     timings: list[dict] = []
-    prev_end = segment_start
-    for start_idx, end_idx in sent_bounds:
+    prev_start = float("-inf")
+    for i, (start_idx, end_idx) in enumerate(sent_bounds):
         found = None
         for idx in range(start_idx, end_idx):
             if idx in sent_to_frag:
@@ -143,10 +143,11 @@ def align_sentences(
                 if 0 <= frag_idx < len(frag_words):
                     found = frag_words[frag_idx][1]
                 break
-        if found is None or found < prev_end:
-            found = prev_end + 0.1
+        fallback_base = prev_start if i > 0 else segment_start
+        if found is None or found <= prev_start:
+            found = fallback_base + 0.1
         timings.append({"start": found})
-        prev_end = found
+        prev_start = found
 
     for i in range(len(timings) - 1):
         timings[i]["end"] = timings[i + 1]["start"]
