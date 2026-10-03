@@ -35,6 +35,19 @@ export function renderChunks(sentence) {
     .join('<span class="pr-chunk-break">/</span> ');
 }
 
+/** 단계 맨 위의 목표 카드. icon·title·why는 코드에 박힌 고정 문구라 그대로 쓴다. */
+export function goalCard(icon, title, why) {
+  return (
+    `<div class="pr-goal"><span class="pr-goal-icon" aria-hidden="true">${icon}</span>` +
+    `<div><div class="pr-goal-title">${title}</div><div class="pr-goal-why">${why}</div></div></div>`
+  );
+}
+
+/** 결과에 맞춘 격려 문구. tone: "great" | "good" | "keep" */
+export function feedback(tone, text) {
+  return `<p class="pr-feedback pr-feedback--${tone}">${text}</p>`;
+}
+
 export function renderDictationResult(ops) {
   return ops
     .map((op) => {

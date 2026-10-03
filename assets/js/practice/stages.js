@@ -3,12 +3,14 @@ import { mountStage1 } from "./stage1.js";
 import { mountStage2 } from "./stage2.js";
 import { mountStage3 } from "./stage3.js";
 import { mountStage4 } from "./stage4.js";
+import { PLAYER_ID, stopPlayback } from "./playback.js";
 
+// remount: 열 때마다 다시 그린다 (정리 화면은 그 사이 쌓인 결과를 반영해야 한다)
 const STAGES = [
-  { id: "stage1", label: "1 직독직해", mount: mountStage1 },
-  { id: "stage2", label: "2 낭독", mount: mountStage2 },
-  { id: "stage3", label: "3 가리고 듣기", mount: mountStage3 },
-  { id: "stage4", label: "4 정리", mount: mountStage4 },
+  { id: "stage1", label: "직독직해", mount: mountStage1 },
+  { id: "stage2", label: "낭독", mount: mountStage2 },
+  { id: "stage3", label: "가리고 듣기", mount: mountStage3 },
+  { id: "stage4", label: "정리", mount: mountStage4, remount: true },
 ];
 
 function todayISO() {
@@ -18,19 +20,28 @@ function todayISO() {
 export function initPractice(root, data, slug) {
   const ctx = { data, slug, player: null, results: {} };
 
+  const progress = document.createElement("div");
+  progress.className = "pr-progress";
   const tabs = document.createElement("div");
   tabs.className = "practice-tabs";
+  tabs.setAttribute("role", "tablist");
   const panels = document.createElement("div");
   panels.className = "practice-panels";
-  root.append(tabs, panels);
+  // 플레이어는 단계 패널 밖에 하나만 둔다 — 패널을 다시 그려도 iframe이 지워지지 않게
+  const playerHost = document.createElement("div");
+  playerHost.className = "pr-hidden-player";
+  playerHost.innerHTML = `<div id="${PLAYER_ID}"></div>`;
+  root.append(progress, tabs, panels, playerHost);
 
   const panelEls = {};
   const tabEls = {};
+  const done = new Set();
   STAGES.forEach((stage, i) => {
     const tab = document.createElement("button");
     tab.className = "practice-tab";
     tab.type = "button";
-    tab.textContent = stage.label;
+    tab.setAttribute("role", "tab");
+    tab.innerHTML = `<span class="pr-step-num">${i + 1}</span><span>${stage.label}</span>`;
     tab.dataset.stageId = stage.id;
     tab.setAttribute("aria-selected", String(i === 0));
     tab.addEventListener("click", () => showStage(stage.id));
@@ -45,17 +56,39 @@ export function initPractice(root, data, slug) {
   });
 
   const mounted = new Set();
-  function showStage(id) {
+  function showStage(id, scroll = true) {
+    stopPlayback();
     STAGES.forEach((s) => {
       const isActive = s.id === id;
       panelEls[s.id].dataset.active = String(isActive);
       tabEls[s.id].setAttribute("aria-selected", String(isActive));
     });
-    if (!mounted.has(id)) {
+    const stage = STAGES.find((s) => s.id === id);
+    if (!mounted.has(id) || stage.remount) {
       mounted.add(id);
-      STAGES.find((s) => s.id === id).mount(panelEls[id], ctx);
+      stage.mount(panelEls[id], ctx);
+    }
+    if (scroll) {
+      window.scrollTo({ top: root.getBoundingClientRect().top + window.scrollY - 16, behavior: "smooth" });
     }
   }
+
+  function renderProgress() {
+    const pct = Math.round((done.size / STAGES.length) * 100);
+    progress.innerHTML =
+      `<div class="pr-progress-text"><span>오늘 <b>${ctx.attemptNumber}회째</b> 연습</span>` +
+      `<span>${STAGES.length}단계 중 <b>${done.size}</b>단계 완료</span></div>` +
+      `<div class="pr-progress-bar"><div style="width:${pct}%"></div></div>`;
+  }
+
+  // 단계가 결과를 남기면 탭에 ✓를 달고 진행도를 올린다
+  ctx.markDone = (id) => {
+    done.add(id);
+    tabEls[id].classList.add("is-done");
+    tabEls[id].querySelector(".pr-step-num").textContent = "✓";
+    renderProgress();
+  };
+  ctx.goTo = (id) => showStage(id);
   // ctx는 첫 showStage(mount) 호출 전에 완전히 갖춰져야 한다 — stage1 mount가
   // ctx.attemptNumber 등을 읽는 미래 변경이 undefined를 보지 않도록.
   ctx.recordAttempt = () => {
@@ -67,8 +100,9 @@ export function initPractice(root, data, slug) {
   };
   ctx.previousAttempt = getPreviousAttempt(slug);
   ctx.attemptNumber = todayCount(slug, todayISO()) + 1;
+  renderProgress();
 
-  showStage(STAGES[0].id);
+  showStage(STAGES[0].id, false);
 
   return ctx;
 }

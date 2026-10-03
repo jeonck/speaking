@@ -18,7 +18,7 @@
 
   {{- $js := resources.Get "js/practice/main.js" }}
   {{- if $js }}
-  {{- $built := $js | js.Build (dict "targetPath" "js/practice.js" "minify" hugo.IsProduction) }}
+  {{- $built := $js | js.Build (dict "targetPath" "js/practice.js" "minify" hugo.IsProduction) | fingerprint }}
   <script src="{{ $built.RelPermalink }}" defer></script>
   {{- end }}
 </article>
