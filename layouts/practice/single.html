@@ -1,0 +1,25 @@
+{{- define "main" }}
+<article class="practice-page">
+  <header class="practice-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    <p class="practice-meta">
+      구간 {{ .Params.duration }}초
+      {{- with .Params.summary }} · {{ . }}{{ end }}
+    </p>
+  </header>
+
+  <div id="practice-root" data-video-id="{{ .Params.video_id }}"></div>
+
+  {{- $dataFile := .Resources.Get "data.json" }}
+  {{- if $dataFile }}
+  <script type="application/json" id="practice-data">{{ $dataFile.Content | safeJS }}</script>
+  {{- end }}
+
+  {{- $js := resources.Get "js/practice/main.js" }}
+  {{- if $js }}
+  {{- $built := $js | js.Build (dict "targetPath" "js/practice.js" "minify" hugo.IsProduction) }}
+  <script src="{{ $built.RelPermalink }}" defer></script>
+  {{- end }}
+</article>
+{{- end }}

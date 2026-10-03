@@ -26,10 +26,11 @@ paginate = 10
   hideSummary = false
   showtoc = false
   tocopen = false
+  mainSections = ['practice']
 
   [params.homeInfoParams]
     Title = 'Speaking Lab 🎤'
-    Content = 'Paste a class or conversation transcript and get back idioms, vocabulary, corrections, a fill-in-the-blank quiz, and a mini diary — ready for read-aloud practice.'
+    Content = 'Paste a YouTube segment and practice it the way it was meant to be learned: timed silent reading, timed read-aloud with stress guidance, script-hidden listening, and review.'
 
   [[params.socialIcons]]
     name = 'github'
@@ -42,9 +43,9 @@ paginate = 10
     url = 'https://github.com/jeonck/speaking/edit/main/input/script.md'
     weight = 5
   [[menu.main]]
-    identifier = 'posts'
-    name = 'Posts'
-    url = '/posts/'
+    identifier = 'practice'
+    name = 'Practice'
+    url = '/practice/'
     weight = 10
   [[menu.main]]
     identifier = 'tags'
