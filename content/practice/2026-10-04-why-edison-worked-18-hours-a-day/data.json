@@ -1,0 +1,418 @@
+{
+ "video_id": "g5cu_IJ9crs",
+ "source_title": "Edison, Mental health at work, Cancer medicines, Mt Everest",
+ "segment": {
+  "start": 167.1,
+  "end": 195.0
+ },
+ "sentences": [
+  {
+   "text": "He was an extremely busy man.",
+   "chunks": [
+    {
+     "en": "He was",
+     "ko": "그는 ~이었다"
+    },
+    {
+     "en": "an extremely busy man.",
+     "ko": "몹시 바쁜 사람"
+    }
+   ],
+   "words": [
+    {
+     "w": "He",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "extremely",
+     "strong": true,
+     "link": false,
+     "syl": "treme"
+    },
+    {
+     "w": "busy",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "man.",
+     "strong": true,
+     "link": false,
+     "syl": "man"
+    }
+   ],
+   "tip": "an extremely는 n을 다음 모음에 붙여 '어닉스트림리'처럼 이어 읽어요.",
+   "start": 167.1,
+   "end": 170.67
+  },
+  {
+   "text": "In 1913, a popular magazine at the time called Thomas Edison the most useful man in America.",
+   "chunks": [
+    {
+     "en": "In 1913,",
+     "ko": "1913년에,"
+    },
+    {
+     "en": "a popular magazine at the time",
+     "ko": "당시의 한 인기 잡지가"
+    },
+    {
+     "en": "called Thomas Edison",
+     "ko": "토머스 에디슨을 불렀다"
+    },
+    {
+     "en": "the most useful man in America.",
+     "ko": "미국에서 가장 쓸모 있는 사람이라고"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1913,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "popular",
+     "strong": true,
+     "link": false,
+     "syl": "pop"
+    },
+    {
+     "w": "magazine",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Thomas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Edison",
+     "strong": true,
+     "link": false,
+     "syl": "Ed"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "useful",
+     "strong": true,
+     "link": false,
+     "syl": "use"
+    },
+    {
+     "w": "man",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "America.",
+     "strong": true,
+     "link": false,
+     "syl": "mer"
+    }
+   ],
+   "tip": "1913은 nineteen THIRteen으로 읽고, man in America는 '매닌어메리카'처럼 한 덩어리로 이어요.",
+   "start": 170.67,
+   "end": 181.38
+  },
+  {
+   "text": "He almost never slept more than four or five hours a night.",
+   "chunks": [
+    {
+     "en": "He almost never slept",
+     "ko": "그는 거의 자지 않았다"
+    },
+    {
+     "en": "more than four or five hours",
+     "ko": "4~5시간 넘게는"
+    },
+    {
+     "en": "a night.",
+     "ko": "하룻밤에"
+    }
+   ],
+   "words": [
+    {
+     "w": "He",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almost",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "nev"
+    },
+    {
+     "w": "slept",
+     "strong": true,
+     "link": false,
+     "syl": "slept"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "four",
+     "strong": true,
+     "link": true,
+     "syl": "four"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": true,
+     "link": false,
+     "syl": "five"
+    },
+    {
+     "w": "hours",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night.",
+     "strong": true,
+     "link": false,
+     "syl": "night"
+    }
+   ],
+   "tip": "four or five는 r을 이어 '포러파이브'처럼, hours a night는 '아워저나잇'처럼 붙여 읽어요.",
+   "start": 181.38,
+   "end": 187.42
+  },
+  {
+   "text": "He usually worked 18 hours each day because he enjoyed what he was doing.",
+   "chunks": [
+    {
+     "en": "He usually worked 18 hours each day",
+     "ko": "그는 보통 매일 18시간 일했다"
+    },
+    {
+     "en": "because he enjoyed",
+     "ko": "즐겼기 때문에"
+    },
+    {
+     "en": "what he was doing.",
+     "ko": "자신이 하는 일을"
+    }
+   ],
+   "words": [
+    {
+     "w": "He",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": false,
+     "syl": "u"
+    },
+    {
+     "w": "worked",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "18",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "hours",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoyed",
+     "strong": true,
+     "link": false,
+     "syl": "joyed"
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing.",
+     "strong": true,
+     "link": false,
+     "syl": "do"
+    }
+   ],
+   "tip": "what he was는 h가 약해져 '와리워즈'처럼 빠르게 지나가고, 강세는 enJOYED와 DOing에 둬요.",
+   "start": 187.42,
+   "end": 195.0
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did a popular magazine call Edison in 1913?",
+   "options": [
+    "The richest man in America",
+    "The most useful man in America",
+    "The busiest inventor in the world"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: called Thomas Edison the most useful man in America."
+  },
+  {
+   "q": "How long did Edison usually sleep at night?",
+   "options": [
+    "About eight hours",
+    "Four or five hours at most",
+    "Ten hours or more"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: almost never slept more than four or five hours a night."
+  },
+  {
+   "q": "Why did Edison work 18 hours a day?",
+   "options": [
+    "He needed more money",
+    "His company made him",
+    "He enjoyed what he was doing"
+   ],
+   "answer": 2,
+   "why": "4번째 문장: because he enjoyed what he was doing."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "extremely",
+   "ko": "몹시, 극도로",
+   "note": "very보다 강한 강조. 강세는 ex-TREME-ly."
+  },
+  {
+   "term": "at the time",
+   "ko": "당시에",
+   "note": "과거의 그 시점을 가리켜요. a magazine at the time = 당시의 잡지."
+  },
+  {
+   "term": "call A B",
+   "ko": "A를 B라고 부르다",
+   "note": "called Edison the most useful man처럼 목적어 바로 뒤에 호칭이 와요."
+  },
+  {
+   "term": "almost never",
+   "ko": "거의 ~하지 않다",
+   "note": "not 없이도 부정의 뜻. hardly ever와 비슷해요."
+  },
+  {
+   "term": "enjoy what you are doing",
+   "ko": "하는 일을 즐기다",
+   "note": "what = ~하는 것. 일과 동기를 말할 때 자주 써요."
+  }
+ ]
+}
