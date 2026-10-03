@@ -74,11 +74,9 @@ export function initPractice(root, data, slug) {
   }
 
   function renderProgress() {
-    const pct = Math.round((done.size / STAGES.length) * 100);
     progress.innerHTML =
       `<div class="pr-progress-text"><span>오늘 <b>${ctx.attemptNumber}회째</b> 연습</span>` +
-      `<span>${STAGES.length}단계 중 <b>${done.size}</b>단계 완료</span></div>` +
-      `<div class="pr-progress-bar"><div style="width:${pct}%"></div></div>`;
+      `<span>${STAGES.length}단계 중 <b>${done.size}</b>단계 완료</span></div>`;
   }
 
   // 단계가 결과를 남기면 탭에 ✓를 달고 진행도를 올린다

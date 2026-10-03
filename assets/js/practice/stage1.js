@@ -7,7 +7,7 @@ export function mountStage1(panel, ctx) {
   let startedAt = null;
 
   panel.innerHTML = `
-    ${goalCard("📖", `${seconds}초 안에 끝까지 읽고 이해하기`, "원어민이 말하는 속도로 이해할 수 있어야 귀로도 들립니다. 거꾸로 돌아가 읽지 말고 앞에서부터 쭉 읽어 보세요.")}
+    ${goalCard(`${seconds}초 안에 끝까지 읽고 이해하기`, "원어민이 말하는 속도로 이해할 수 있어야 귀로도 들립니다. 거꾸로 돌아가 읽지 말고 앞에서부터 쭉 읽어 보세요.")}
     <button class="pr-start pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 읽기 시작</button>
     <div class="pr-timer-row" hidden>
       <div class="pr-timebar"><div></div></div>
@@ -121,7 +121,7 @@ export function mountStage1(panel, ctx) {
         </div>
         <div class="pr-actions">
           <button class="pr-btn pr-btn--secondary" type="button" data-act="retry">↺ 다시 읽기</button>
-          <button class="pr-btn pr-btn--primary" type="button" data-act="next">다음: 소리 내 읽기 →</button>
+          <button class="pr-btn pr-btn--primary" type="button" data-act="next">다음 단계: 소리 내 읽기</button>
         </div>`;
       resultEl.querySelector('[data-act="retry"]').addEventListener("click", () => mountStage1(panel, ctx));
       resultEl.querySelector('[data-act="next"]').addEventListener("click", () => ctx.goTo("stage2"));

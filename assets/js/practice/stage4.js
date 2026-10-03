@@ -17,7 +17,7 @@ function delta(now, prev, { better = true, unit = "" } = {}) {
 function statCard(label, value, deltaHtml, stageId) {
   if (value == null) {
     return `<div class="stat is-empty"><div class="label">${label}</div><div class="value">—</div>
-      <button class="pr-link-btn" type="button" data-goto="${stageId}">하러 가기 →</button></div>`;
+      <button class="pr-link-btn" type="button" data-goto="${stageId}">지금 하기</button></div>`;
   }
   return `<div class="stat"><div class="label">${label}</div><div class="value">${value}</div>${deltaHtml}</div>`;
 }
@@ -69,9 +69,9 @@ export function mountStage4(panel, ctx) {
   ].join("");
 
   panel.innerHTML = `
-    ${goalCard("🏁", "오늘의 정리", "강세가 표시된 전체 스크립트를 마지막으로 소리 내 읽고, 기록을 저장하세요.")}
+    ${goalCard("오늘의 정리", "강세가 표시된 전체 스크립트를 마지막으로 소리 내 읽고, 기록을 저장하세요.")}
     <div class="pr-sets">
-      <div><b>오늘 ${attemptNumber}회째</b> 연습 중 · 하루 ${DAILY_SETS}세트 권장</div>
+      <div><b>오늘 ${attemptNumber}회째</b> 연습이에요. 하루 ${DAILY_SETS}번 반복을 권해요.</div>
       <div class="pr-set-dots">${dots}</div>
     </div>
     <h3 class="pr-section-title">이번 결과${prev ? ` <small>(직전 ${escapeHtml(String(prev.date))} 대비)</small>` : ""}</h3>

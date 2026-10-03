@@ -17,7 +17,7 @@ export function mountStage2(panel, ctx) {
   const fullText = data.sentences.map((s) => s.text).join(" ");
 
   panel.innerHTML = `
-    ${goalCard("🗣️", `${targetSeconds}초 안에 자연스럽게 소리 내 읽기`, "내가 낼 수 있는 소리는 들립니다. 원음을 먼저 듣고, 강세·연음을 확인한 다음 녹음해 보세요.")}
+    ${goalCard(`${targetSeconds}초 안에 자연스럽게 소리 내 읽기`, "내가 낼 수 있는 소리는 들립니다. 원음을 먼저 듣고, 강세·연음을 확인한 다음 녹음해 보세요.")}
     <div class="pr-notice" data-notice="player" hidden></div>
     <div class="pr-toolbar">
       <button class="pr-play-all pr-btn pr-btn--secondary" type="button">▶ 원음 전체 듣기</button>
@@ -189,7 +189,7 @@ export function mountStage2(panel, ctx) {
         }
         <div class="pr-actions">
           <button class="pr-btn pr-btn--secondary" type="button" data-act="retry">↺ 다시 녹음</button>
-          <button class="pr-btn pr-btn--primary" type="button" data-act="next">다음: 가리고 듣기 →</button>
+          <button class="pr-btn pr-btn--primary" type="button" data-act="next">다음 단계: 가리고 듣기</button>
         </div>`;
       const originalBtn = resultEl.querySelector('[data-act="original"]');
       if (originalBtn) {
