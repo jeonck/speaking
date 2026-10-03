@@ -1,10 +1,8 @@
-name: Daily Transcript Pipeline
+name: Practice Pipeline
 
 on:
-  schedule:
-    - cron: "0 22 * * *" # UTC 22:00 = KST 07:00 fallback for days with no transcript input (예: UTC 22:00 = KST 07:00)
   workflow_dispatch:
-  push: # input/ 저장(커밋) 시 즉시 생성+배포(후킹), 사이트 파일 변경 시 배포
+  push: # input/ 저장(커밋) 시 즉시 생성+배포(후킹), 사이트/파이프라인 파일 변경 시 배포
     branches: [main]
     paths:
       - "input/**"
@@ -12,6 +10,9 @@ on:
       - "hugo.toml"
       - "archetypes/**"
       - "assets/**"
+      - "layouts/**"
+      - "pipeline/**"
+      - ".github/workflows/**"
 
 permissions:
   contents: write
@@ -44,6 +45,15 @@ jobs:
       - name: Install Claude Code CLI
         run: npm install -g @anthropic-ai/claude-code
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Run tests
+        run: |
+          cd pipeline && python3 -m unittest discover -p "test_*.py" -v
+          cd ../assets/js/practice && node --test
+
       - name: Generate today's post
         id: generate
         continue-on-error: true
@@ -59,7 +69,7 @@ jobs:
         run: |
           git config user.name "diary-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add content/posts pipeline/state.json input/script.md
+          git add content/practice pipeline/state.json input/script.md
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "신규 포스트 없음 — 커밋 스킵"
