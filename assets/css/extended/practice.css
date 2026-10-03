@@ -629,6 +629,38 @@ body.list { background: var(--pr-desk); }
 .pr-home--list > .practice-header { margin-bottom: 2.5rem; }
 .practice-header .home-lede { margin-top: 1rem; }
 
+/* 실습 목록 — 머리말 뒤 구슬, 주제 칩, 오디오 파형 카드 그리드 */
+.list-hero { position: relative; isolation: isolate; }
+.list-hero::before {
+  content: ""; position: absolute; z-index: -1; top: -2rem; left: -8%; width: 65%; height: 150%;
+  opacity: var(--pr-orb-opacity); filter: blur(60px); pointer-events: none;
+  background:
+    radial-gradient(40% 50% at 30% 50%, var(--pr-orb-mint), transparent 70%),
+    radial-gradient(40% 50% at 68% 45%, var(--pr-orb-peach), transparent 70%);
+}
+.list-topics { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin: -0.5rem 0 2rem; }
+.list-topics-title { margin-right: 0.35rem; font-size: 0.875rem; font-weight: 500; color: var(--secondary); }
+.practice-cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 0; padding: 0; list-style: none; }
+.practice-cards li { margin: 0; }
+.practice-card {
+  display: flex; flex-direction: column; gap: 0.75rem; height: 100%;
+  padding: 1.5rem 1.75rem; border-radius: 16px; background: var(--pr-paper); border: 1px solid var(--pr-rule);
+  color: inherit; text-decoration: none; box-shadow: none; transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.practice-card:hover { border-color: var(--pr-rule-strong); box-shadow: 0 12px 40px rgba(0, 0, 0, 0.06); }
+.practice-card:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4px; }
+.practice-card-badges { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.practice-card-badges .pr-badge { font-size: 0.75rem; }
+.practice-card-title { font-family: var(--pr-serif); font-size: 1.75rem; font-weight: 300; line-height: 1.15; letter-spacing: -0.02em; color: var(--primary); }
+.practice-card-summary {
+  font-size: 0.9375rem; line-height: 1.6; color: var(--pr-body);
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.practice-card-wave { display: flex; align-items: center; justify-content: space-between; height: 44px; margin-top: auto; padding-top: 0.75rem; }
+.practice-card-wave span { flex: none; width: 3px; height: var(--h); border-radius: 9999px; background: var(--pr-rule-strong); }
+.practice-card:hover .practice-card-wave span { background: var(--pr-ink); }
+.practice-card-foot { display: flex; justify-content: flex-end; }
+
 /* 주제 목록 — 파스텔 구슬 카드 그리드 */
 .tag-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 0; padding: 0; list-style: none; }
 .tag-cards li { margin: 0; }
@@ -689,6 +721,9 @@ body.list { background: var(--pr-desk); }
   .home-row { grid-template-columns: 1fr auto; row-gap: 0.3rem; }
   .home-row-date { grid-column: 1 / -1; }
   .tag-cards { grid-template-columns: 1fr; }
+  .practice-cards { grid-template-columns: 1fr; }
+  .practice-card { padding: 1.25rem; }
+  .list-topics-title { flex-basis: 100%; }
   .tag-card { min-height: 0; gap: 1.75rem; }
 }
 
