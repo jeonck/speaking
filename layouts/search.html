@@ -1,7 +1,8 @@
 {{- define "main" }}
 {{- /* PaperMod fastsearch.js가 #searchbox/#searchInput/#searchResults를 찾으므로 id는 그대로 둔다 */ -}}
+{{- $practices := (where site.RegularPages "Section" "practice").ByDate.Reverse }}
 {{- $latest := false }}
-{{- range first 1 (where site.RegularPages "Section" "practice").ByDate.Reverse }}{{ $latest = . }}{{ end }}
+{{- range first 1 $practices }}{{ $latest = . }}{{ end }}
 {{- /* 추천 검색어: 주제 이름 + 최신 실습의 어휘 */ -}}
 {{- $suggest := slice }}
 {{- range site.Taxonomies.tags.ByCount }}{{ $suggest = $suggest | append (title (replace .Page.Data.Term "-" " ")) }}{{ end }}
@@ -23,32 +24,86 @@
       <input id="searchInput" disabled placeholder="{{ .Params.placeholder | default "검색어" }}"
         aria-label="검색어" type="search" autocomplete="off" maxlength="64">
     </label>
-    {{- with $suggest }}
-    <div class="search-suggest" data-search-suggest>
+    <p class="search-keys" aria-hidden="true"><kbd>↓</kbd> 결과로 이동 <kbd>Esc</kbd> 지우기</p>
+    <div class="search-idle" data-search-suggest>
+      {{- with $suggest }}
       <p class="search-suggest-title">추천 검색어</p>
       <div class="search-suggest-list">
         {{- range first 10 (uniq .) }}<button type="button" class="tag-chip" data-q="{{ . }}">{{ . }}</button>{{ end }}
       </div>
+      {{- end }}
+      {{- with first 4 $practices }}
+      <h2 class="search-recent-title">최근 실습</h2>
+      {{- partial "practice_rows.html" . }}
+      {{- end }}
     </div>
-    {{- end }}
     <p class="search-status" data-search-status aria-live="polite" hidden></p>
     <ul id="searchResults" class="searchResults" aria-label="검색 결과"></ul>
   </div>
 </div>
 <script>
-  /* 추천 검색어 → 입력창에 넣고 테마의 검색(input 이벤트)을 그대로 돌린다.
-     결과 개수·결과 없음 안내도 여기서 — 테마 스크립트는 건드리지 않는다. */
+  /* 테마 검색(fastsearch.js)은 제목만 그린다. 결과가 그려지면 색인(index.json)의 정보로
+     카드를 채운다: 날짜·길이 배지, 제목, 검색어가 든 원고 문장(검색어 강조).
+     테마의 ↑↓ 이동이 쓰는 li > a.entry-link 구조는 그대로 둔다. */
   (function () {
     var input = document.getElementById("searchInput");
     var list = document.getElementById("searchResults");
-    var suggest = document.querySelector("[data-search-suggest]");
+    var idle = document.querySelector("[data-search-suggest]");
     var status = document.querySelector("[data-search-status]");
     if (!input || !list || !status) return;
 
+    var meta = {};
+    fetch("../index.json")
+      .then(function (r) { return r.json(); })
+      .then(function (d) { d.forEach(function (x) { meta[x.permalink] = x; }); enrich(); })
+      .catch(function () {});
+
+    function el(tag, cls, text) {
+      var n = document.createElement(tag);
+      if (cls) n.className = cls;
+      if (text != null) n.textContent = text;
+      return n;
+    }
+    // 검색어가 든 문장을 찾고, 검색어 부분만 <mark>로 감싼다
+    function snippet(m, q) {
+      var lines = m.lines || [];
+      var words = [q].concat(q.split(/\s+/).filter(function (w) { return w.length >= 3; }));
+      for (var i = 0; i < words.length; i++) {
+        var w = words[i].toLowerCase();
+        for (var j = 0; j < lines.length; j++) {
+          var at = lines[j].toLowerCase().indexOf(w);
+          if (at >= 0) {
+            var p = el("p", "search-hit-line");
+            p.lang = "en";
+            p.append(lines[j].slice(0, at), el("mark", null, lines[j].slice(at, at + w.length)), lines[j].slice(at + w.length));
+            return p;
+          }
+        }
+      }
+      return m.summary ? el("p", "search-hit-summary", m.summary) : null;
+    }
+    function enrich() {
+      var q = input.value.trim();
+      list.querySelectorAll("li:not([data-rich])").forEach(function (li) {
+        var a = li.querySelector(".entry-link");
+        var m = a && meta[a.href];
+        if (!m) return;
+        li.dataset.rich = "1";
+        li.textContent = "";
+        var badges = el("span", "search-card-badges");
+        var d = (m.date || "").split("-");
+        if (d.length === 3) badges.append(el("span", "pr-badge", Number(d[1]) + "월 " + Number(d[2]) + "일"));
+        if (m.duration) badges.append(el("span", "pr-badge", m.duration + "초"));
+        li.append(badges, el("span", "search-card-title", m.title));
+        var s = q && snippet(m, q);
+        if (s) li.append(s);
+        li.append(a);
+      });
+    }
     function update() {
       var q = input.value.trim();
       var n = list.children.length;
-      if (suggest) suggest.hidden = q !== "";
+      if (idle) idle.hidden = q !== "";
       if (!q) { status.hidden = true; return; }
       status.hidden = false;
       status.textContent = n
@@ -58,10 +113,10 @@
     // 검색은 입력 150ms 뒤에 돌아가므로 조금 늦게 확인한다
     input.addEventListener("input", function () { setTimeout(update, 250); });
     input.addEventListener("search", function () { setTimeout(update, 0); });
-    new MutationObserver(update).observe(list, { childList: true });
+    new MutationObserver(function () { enrich(); update(); }).observe(list, { childList: true });
 
-    if (suggest) {
-      suggest.addEventListener("click", function (e) {
+    if (idle) {
+      idle.addEventListener("click", function (e) {
         var b = e.target.closest("[data-q]");
         if (!b) return;
         input.value = b.dataset.q;
