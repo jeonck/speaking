@@ -1,0 +1,451 @@
+{
+ "video_id": "7KMo8GOwg78",
+ "source_title": "10년을 들어도 귀 안 뚫리는 이유 따로 있습니다. (전)EBS강사가 알려주는 찐 영어듣기 비법",
+ "segment": {
+  "start": 252,
+  "end": 271.2
+ },
+ "sentences": [
+  {
+   "text": "Most people think happiness comes from big moments, a promotion, a vacation, or a perfect day.",
+   "chunks": [
+    {
+     "en": "Most people think",
+     "ko": "대부분의 사람들은 ~라고 생각한다"
+    },
+    {
+     "en": "happiness comes from big moments,",
+     "ko": "행복은 큰 순간들에서 온다고,"
+    },
+    {
+     "en": "a promotion,",
+     "ko": "승진,"
+    },
+    {
+     "en": "a vacation,",
+     "ko": "휴가,"
+    },
+    {
+     "en": "or a perfect day.",
+     "ko": "또는 완벽한 하루."
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happiness",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "comes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "moments,",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "promotion,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vacation,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "perfect",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day.",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    }
+   ],
+   "tip": "목록의 마지막 항목 'a perfect day'에 가장 강한 억양이 떨어짐; 'or_a'는 /r/+모음 연음으로 'o-ra'처럼 이어서 발음",
+   "start": 252.0,
+   "end": 259.0
+  },
+  {
+   "text": "But research shows that's not how it works.",
+   "chunks": [
+    {
+     "en": "But research shows",
+     "ko": "하지만 연구는 보여준다"
+    },
+    {
+     "en": "that's not how it works.",
+     "ko": "그게 어떻게 작동하는지가 아니라는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "research",
+     "strong": true,
+     "link": false,
+     "syl": "re"
+    },
+    {
+     "w": "shows",
+     "strong": true,
+     "link": false,
+     "syl": "shows"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false,
+     "syl": "not"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "works.",
+     "strong": true,
+     "link": false,
+     "syl": "works"
+    }
+   ],
+   "tip": "'that's not'에서 /t/ 탈락이 일어나 빠른 발화 시 'thas-NOT'처럼 들릴 수 있음",
+   "start": 259.0,
+   "end": 262.0
+  },
+  {
+   "text": "It's not about how intense the experience is.",
+   "chunks": [
+    {
+     "en": "It's not about",
+     "ko": "그건 ~에 관한 것이 아니다"
+    },
+    {
+     "en": "how intense the experience is.",
+     "ko": "경험이 얼마나 강렬한지"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": true,
+     "syl": "not"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "intense",
+     "strong": true,
+     "link": false,
+     "syl": "tense"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experience",
+     "strong": true,
+     "link": true,
+     "syl": "pe"
+    },
+    {
+     "w": "is.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'not_about'은 /t/+모음 연음으로 'no-tabout', 'experience_is'는 /s/+모음 연음으로 'experien-sis'처럼 이어서 발음",
+   "start": 262.0,
+   "end": 265.0
+  },
+  {
+   "text": "It's about how often you feel good.",
+   "chunks": [
+    {
+     "en": "It's about",
+     "ko": "그건 ~에 관한 것이다"
+    },
+    {
+     "en": "how often you feel good.",
+     "ko": "얼마나 자주 기분이 좋은지"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "often",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false,
+     "syl": "feel"
+    },
+    {
+     "w": "good.",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    }
+   ],
+   "tip": "문장 3·4는 대조 쌍: 'It's NOT about...' vs 'It's ABOUT...' — NOT과 ABOUT에 강세를 두어 대조를 살림",
+   "start": 265.0,
+   "end": 268.0
+  },
+  {
+   "text": "Simply put, it's frequency that matters, not intensity.",
+   "chunks": [
+    {
+     "en": "Simply put,",
+     "ko": "간단히 말해서,"
+    },
+    {
+     "en": "it's frequency",
+     "ko": "그건 바로 빈도이다"
+    },
+    {
+     "en": "that matters,",
+     "ko": "중요한 것은,"
+    },
+    {
+     "en": "not intensity.",
+     "ko": "강도가 아니라."
+    }
+   ],
+   "words": [
+    {
+     "w": "Simply",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "frequency",
+     "strong": true,
+     "link": false,
+     "syl": "fre"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "matters,",
+     "strong": true,
+     "link": false,
+     "syl": "mat"
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": true,
+     "syl": "not"
+    },
+    {
+     "w": "intensity.",
+     "strong": true,
+     "link": false,
+     "syl": "ten"
+    }
+   ],
+   "tip": "'it's FREquency that matters'는 강조 분열문(cleft) 구조—'frequency'를 특히 강하게 눌러 'intensity'와 대조",
+   "start": 268.0,
+   "end": 271.2
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do most people believe is the main source of happiness, according to the speaker?",
+   "options": [
+    "Frequent small positive moments throughout the day",
+    "Big events such as promotions or perfect days",
+    "Avoiding stressful or negative experiences",
+    "Building consistent healthy habits"
+   ],
+   "answer": 1,
+   "why": "'Most people think happiness comes from big moments, a promotion, a vacation, or a perfect day.'에서 직접 언급"
+  },
+  {
+   "q": "What does research show about happiness?",
+   "options": [
+    "Intense experiences create lasting happiness",
+    "Happiness depends on the quality of relationships",
+    "How often you feel good matters more than the intensity of experiences",
+    "Vacations and promotions are effective paths to happiness"
+   ],
+   "answer": 2,
+   "why": "'It's frequency that matters, not intensity.'에서 연구 결론을 명시"
+  },
+  {
+   "q": "What contrast does the speaker draw between sentences three and four?",
+   "options": [
+    "Short experiences versus long-lasting ones",
+    "How intense an experience is versus how often you feel good",
+    "Personal happiness versus shared happiness",
+    "Emotional experiences versus physical ones"
+   ],
+   "answer": 1,
+   "why": "'It's not about how intense the experience is. It's about how often you feel good.'에서 대조 구조 명시"
+  },
+  {
+   "q": "What is the function of 'Simply put' in the final sentence?",
+   "options": [
+    "To introduce a new idea that contradicts the previous point",
+    "To express the speaker's personal opinion",
+    "To summarize the main point in plain terms",
+    "To signal that the explanation is incomplete"
+   ],
+   "answer": 2,
+   "why": "'Simply put, it's frequency that matters, not intensity.'에서 앞 내용 전체를 한 문장으로 요약하는 전환 표현으로 사용"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "comes from",
+   "ko": "~에서 비롯되다, ~에서 오다",
+   "note": "'happiness comes from ~'처럼 원인·출처를 나타낼 때 자주 씀"
+  },
+  {
+   "term": "that's not how it works",
+   "ko": "그런 식으로 되는 게 아니야",
+   "note": "잘못된 생각을 부드럽게 반박하는 관용 표현; 'That's not how things work.'도 같은 패턴"
+  },
+  {
+   "term": "how intense",
+   "ko": "얼마나 강렬한지",
+   "note": "'how + 형용사' 구조로 정도를 나타냄; 'how often', 'how long'과 같은 패턴"
+  },
+  {
+   "term": "how often",
+   "ko": "얼마나 자주",
+   "note": "빈도를 묻거나 표현할 때 쓰며, 명사 'frequency'의 구어적 표현에 해당"
+  },
+  {
+   "term": "simply put",
+   "ko": "간단히 말해서",
+   "note": "요약·핵심 정리 시 문장 앞에 쓰는 전환 표현; 'in short', 'in a word'와 유사"
+  },
+  {
+   "term": "frequency",
+   "ko": "빈도",
+   "note": "이 세그먼트의 핵심 어휘; 'intensity(강도)'와 대조되는 개념으로 반드시 짝지어 기억"
+  }
+ ]
+}
