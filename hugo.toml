@@ -29,6 +29,15 @@ paginate = 10
   mainSections = ['practice']
 
 
+  # 검색: 테마 기본값(threshold 0.4)은 긴 원고에서 아무 단어나 걸려서 더 엄격하게
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    ignoreLocation = true
+    threshold = 0.2
+    minMatchCharLength = 2
+    keys = ['title', 'summary', 'content']
+
   [[params.socialIcons]]
     name = 'github'
     url = 'https://github.com/jeonck/speaking'

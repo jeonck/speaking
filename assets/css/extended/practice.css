@@ -709,18 +709,41 @@ body.list { background: var(--pr-desk); }
 .menu a:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
 
 /* ---------- 검색 ---------- */
-.searchbox input#searchInput {
-  width: 100%; min-height: 52px; padding: 0.75rem 1.1rem;
-  border-radius: 8px; border: 1px solid var(--pr-rule-strong); background: var(--pr-paper); color: var(--primary);
-  font-family: var(--pr-sans); font-size: 1.0625rem; font-weight: 400;
+.search-page [hidden] { display: none !important; }
+/* 가운데 정렬 머리말 뒤로 은은한 구슬 */
+.search-hero { position: relative; isolation: isolate; text-align: center; padding-top: 2rem; }
+.search-hero .home-lede { margin-inline: auto; }
+.search-hero::before {
+  content: ""; position: absolute; z-index: -1; inset: -3rem -15% -2rem; pointer-events: none;
+  opacity: var(--pr-orb-opacity); filter: blur(60px);
+  background:
+    radial-gradient(30% 50% at 35% 50%, var(--pr-orb-sky), transparent 70%),
+    radial-gradient(30% 50% at 65% 55%, var(--pr-orb-peach), transparent 70%);
 }
-.searchbox input#searchInput:focus { outline: none; border: 2px solid var(--primary); padding: calc(0.75rem - 1px) calc(1.1rem - 1px); }
-#searchResults { margin: 1.5rem 0 0; padding: 0; list-style: none; border-top: 1px solid var(--pr-rule); }
-#searchResults:empty { border-top: 0; }
+/* 큰 검색창 — 왼쪽에 돋보기, 포커스 시 잉크 2px 테두리 */
+.search-field {
+  display: flex; align-items: center; gap: 0.75rem; min-height: 60px; padding: 0 1.25rem;
+  border-radius: 16px; border: 1px solid var(--pr-rule-strong); background: var(--pr-paper);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.06); color: var(--secondary); cursor: text;
+}
+.search-field:focus-within { border-color: var(--primary); box-shadow: 0 0 0 1px var(--primary), 0 12px 40px rgba(0, 0, 0, 0.06); color: var(--primary); }
+.search-field svg { flex: none; }
+.searchbox .search-field input#searchInput {
+  flex: 1; min-width: 0; width: auto; min-height: 58px; padding: 0; border: 0; border-radius: 0;
+  background: transparent; color: var(--primary); box-shadow: none; outline: none;
+  font-family: var(--pr-sans); font-size: 1.125rem; font-weight: 400;
+}
+.search-suggest { margin-top: 2rem; text-align: center; }
+.search-suggest-title { margin: 0 0 0.9rem; font-size: 0.875rem; font-weight: 500; color: var(--secondary); }
+.search-suggest-list { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; }
+button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: pointer; }
+.search-status { margin: 1.5rem 0 0; font-size: 0.875rem; color: var(--secondary); }
+#searchResults { margin: 0.75rem 0 0; padding: 0; list-style: none; border-top: 1px solid var(--pr-rule); }
+#searchResults:empty { border-top: 0; margin: 0; }
 #searchResults li {
-  position: relative; margin: 0; padding: 1.1rem 0; border: 0; border-bottom: 1px solid var(--pr-rule);
+  position: relative; margin: 0; padding: 1.25rem 0; border: 0; border-bottom: 1px solid var(--pr-rule);
   border-radius: 0; background: none; box-shadow: none;
-  font-family: var(--pr-serif); font-size: 1.35rem; font-weight: 300; color: var(--primary);
+  font-family: var(--pr-serif); font-size: 1.5rem; font-weight: 300; letter-spacing: -0.01em; color: var(--primary);
 }
 #searchResults li svg { display: none; }
 #searchResults li:hover, #searchResults li.focus { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 5px; }

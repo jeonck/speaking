@@ -1,15 +1,74 @@
 {{- define "main" }}
 {{- /* PaperMod fastsearch.js가 #searchbox/#searchInput/#searchResults를 찾으므로 id는 그대로 둔다 */ -}}
-<div class="pr-home pr-home--list">
-  <header class="practice-header">
-    {{ partial "breadcrumbs.html" . }}
+{{- $latest := false }}
+{{- range first 1 (where site.RegularPages "Section" "practice").ByDate.Reverse }}{{ $latest = . }}{{ end }}
+{{- /* 추천 검색어: 주제 이름 + 최신 실습의 어휘 */ -}}
+{{- $suggest := slice }}
+{{- range site.Taxonomies.tags.ByCount }}{{ $suggest = $suggest | append (title (replace .Page.Data.Term "-" " ")) }}{{ end }}
+{{- /* 어휘는 원고에 그대로 나오는 것만 — 사전형(call A B 등)은 검색에 걸리지 않는다 */ -}}
+{{- with $latest }}{{ with .Resources.Get "data.json" }}
+  {{- $d := . | transform.Unmarshal }}
+  {{- $lines := slice }}{{ range $d.sentences }}{{ $lines = $lines | append .text }}{{ end }}
+  {{- $text := lower (delimit $lines " ") }}
+  {{- range $d.vocab }}{{ if in $text (lower .term) }}{{ $suggest = $suggest | append .term }}{{ end }}{{ end }}
+{{- end }}{{ end }}
+<div class="pr-home pr-home--list search-page">
+  <header class="practice-header search-hero">
     <h1 class="home-title">검색</h1>
     <p class="home-lede">실습 제목과 원고에서 찾아요. 영어 단어로 찾는 게 가장 잘 맞아요.</p>
   </header>
   <div id="searchbox" class="searchbox">
-    <input id="searchInput" disabled placeholder="{{ .Params.placeholder | default "검색어" }}"
-      aria-label="검색어" type="search" autocomplete="off" maxlength="64">
+    <label class="search-field">
+      <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.65" y2="16.65"></line></svg>
+      <input id="searchInput" disabled placeholder="{{ .Params.placeholder | default "검색어" }}"
+        aria-label="검색어" type="search" autocomplete="off" maxlength="64">
+    </label>
+    {{- with $suggest }}
+    <div class="search-suggest" data-search-suggest>
+      <p class="search-suggest-title">추천 검색어</p>
+      <div class="search-suggest-list">
+        {{- range first 10 (uniq .) }}<button type="button" class="tag-chip" data-q="{{ . }}">{{ . }}</button>{{ end }}
+      </div>
+    </div>
+    {{- end }}
+    <p class="search-status" data-search-status aria-live="polite" hidden></p>
     <ul id="searchResults" class="searchResults" aria-label="검색 결과"></ul>
   </div>
 </div>
+<script>
+  /* 추천 검색어 → 입력창에 넣고 테마의 검색(input 이벤트)을 그대로 돌린다.
+     결과 개수·결과 없음 안내도 여기서 — 테마 스크립트는 건드리지 않는다. */
+  (function () {
+    var input = document.getElementById("searchInput");
+    var list = document.getElementById("searchResults");
+    var suggest = document.querySelector("[data-search-suggest]");
+    var status = document.querySelector("[data-search-status]");
+    if (!input || !list || !status) return;
+
+    function update() {
+      var q = input.value.trim();
+      var n = list.children.length;
+      if (suggest) suggest.hidden = q !== "";
+      if (!q) { status.hidden = true; return; }
+      status.hidden = false;
+      status.textContent = n
+        ? "실습 " + n + "개"
+        : "‘" + q + "’에 맞는 실습이 없어요. 원고에 나오는 영어 단어로 찾아 보세요.";
+    }
+    // 검색은 입력 150ms 뒤에 돌아가므로 조금 늦게 확인한다
+    input.addEventListener("input", function () { setTimeout(update, 250); });
+    input.addEventListener("search", function () { setTimeout(update, 0); });
+    new MutationObserver(update).observe(list, { childList: true });
+
+    if (suggest) {
+      suggest.addEventListener("click", function (e) {
+        var b = e.target.closest("[data-q]");
+        if (!b) return;
+        input.value = b.dataset.q;
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+        input.focus();
+      });
+    }
+  })();
+</script>
 {{- end }}

@@ -1,4 +1,4 @@
-{{- /* PaperMod 검색 색인. 실습 페이지는 본문이 data.json에 있으므로 원고 문장을 content로 넣는다.
+{{- /* PaperMod 검색 색인. 실습 페이지는 본문이 data.json에 있으므로 원고 문장(+주제 이름)을 content로 넣는다.
        테마의 .Scratch 대신 지역 변수 — 서버 재빌드마다 누적되지 않게. */ -}}
 {{- $index := slice -}}
 {{- range site.RegularPages -}}
@@ -9,6 +9,8 @@
         {{- range (. | transform.Unmarshal).sentences }}{{ $lines = $lines | append .text }}{{ end }}
         {{- $content = delimit $lines " " }}
     {{- end }}
+    {{- /* 주제 이름도 넣어 주제로 찾아도 걸리게 */}}
+    {{- range .Params.tags }}{{ $content = printf "%s %s" $content (title (replace . "-" " ")) }}{{ end }}
     {{- $index = $index | append (dict "title" .Title "content" $content "permalink" .Permalink "summary" .Summary) -}}
     {{- end }}
 {{- end -}}
