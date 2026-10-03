@@ -1,6 +1,7 @@
 /public/
 /resources/_gen/
 .hugo_build.lock
+/assets/jsconfig.json
 .venv/
 __pycache__/
 *.pyc
