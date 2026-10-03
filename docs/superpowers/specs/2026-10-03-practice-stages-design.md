@@ -39,11 +39,15 @@ assets/css/extended/practice.css [신규]
 |---|---|---|
 | `transcript.py` | URL→video id, 복붙→자막 조각, 구간 시작·끝, 문장↔자막 정렬과 문장 시각 | 표준 라이브러리만 |
 | `generate.py` | 입력 읽기, oEmbed 확인, Claude 호출·검증, 번들 작성, dedup·입력 초기화 | transcript.py, Claude |
-| `player.js` | YouTube IFrame API 로드, 구간/문장 재생·정지, 화면 가리기 | YouTube |
+| `player.js` | YouTube IFrame API 로드, 구간/문장 재생·정지 | YouTube |
 | `speech.js` | MediaRecorder 녹음, Web Speech 인식(미지원 시 비활성) | 브라우저 |
-| `score.js` | 단어 정규화와 LCS 정렬 채점 | 없음 |
-| `stages.js` | 단계 전환, 타이머, 결과 집계, localStorage | 위 셋 |
-| `main.js` | data.json 읽고 위젯 초기화 (esbuild 진입점) | stages.js |
+| `score.js` | 단어 정규화와 단어 단위 편집 거리 정렬 채점 | 없음 |
+| `markup.js` | 강세 표기·덩어리 뜻·어휘·채점 결과 HTML 생성 (모든 텍스트 이스케이프) | score.js |
+| `store.js` | localStorage 이력 읽기/쓰기, 오늘 시도 수 | 없음 |
+| `ui.js` | 카운트다운·스톱워치·숫자 표시 | markup.js |
+| `stages.js` | 셸: 단계 전환, 화면 가리기, 안내, 결과 기록, 다시 하기, 플레이어 연결 | 위 전부 |
+| `stage1.js`~`stage4.js` | 단계별 화면과 동작 (`mount(panel, ctx)`, 선택적 `onShow`) | 위 모듈 |
+| `main.js` | data.json 읽고 셸 초기화 (esbuild 진입점) | stages.js |
 
 ## 3. 입력 형식
 
@@ -71,7 +75,7 @@ Claude는 시각을 출력하지 않는다. 코드가 계산한다.
 2. 단어 정규화: 소문자, 둥근 따옴표를 곧은 따옴표로, 단어 내부 아포스트로피를 뺀 구두점 제거.
 3. 자막 단어열과 Claude가 정리한 문장들을 이어 붙인 단어열을 `difflib.SequenceMatcher(autojunk=False)`로 정렬한다.
 4. 각 문장 첫 단어가 일치 블록에 속하면 그 자막 단어의 시각을, 아니면 그 문장 안에서 처음 일치하는 단어의 시각에서 (그 앞 단어 수 × 0.3초)를 뺀 값을 시작으로 쓴다.
-5. 문장 끝 = 다음 문장 시작, 마지막 문장 끝 = 구간 끝. 시작이 앞 문장 시작보다 작으면 앞 문장 시작 + 0.1초로 보정한다.
+5. 문장 끝 = 다음 문장 시작, 마지막 문장 끝 = 구간 끝. 시작이 앞 문장 시작보다 작거나 같으면 앞 문장 시작 + 0.1초로 보정한다. 문장 안에 일치 단어가 하나도 없으면 앞 문장 시작(첫 문장이면 구간 시작)에서 같은 보정을 적용한다.
 6. 정렬 일치율(`ratio()`)이 0.6 미만이면 항목 실패.
 
 ## 5. Claude 출력과 data.json
@@ -110,7 +114,7 @@ Claude 출력 JSON 스키마:
 - `vocab` 2~6개, 직독직해에 걸릴 만한 구문 우선.
 - 개인정보 보호 규칙(Privacy rules) 문단은 기존 프롬프트에서 그대로 옮긴다.
 
-검증 (`parse_result` 대체): `title`·`summary` 문자열, 문장 1개 이상, 각 문장에 `chunks` 1개 이상과 `words` 1개 이상, 질문 3~5개이며 `answer`가 보기 인덱스 범위 안. 실패 시 1회 재시도 후 항목 실패.
+검증 (`parse_result` 대체): `title`·`summary` 문자열, 문장 1개 이상, 각 문장에 `chunks` 1개 이상과 `words` 1개 이상, 질문 3~5개이며 `answer`가 보기 인덱스 범위 안. 실패 시 1회 재시도 후 항목 실패. 정리(실패 아님): 정규화하면 빈 문자열이 되는 단어(예: `—`)는 `words`에서 뺀다 — 채점 인덱스와 화면 단어 위치를 일치시키기 위해. `syl`이 단어 안에 (대소문자 무시) 없으면 `syl`만 버린다.
 
 `data.json` = Claude 출력에서 `title`·`summary`·`tags`를 뺀 것 + 아래 필드:
 
@@ -139,7 +143,7 @@ Claude 출력 JSON 스키마:
 
 **4단계 정리**: 강세 표기 전체 스크립트, 문장별 재생, 덩어리 뜻, 어휘, `tip`. 결과 요약과 직전 시도 비교. [다시 하기]는 현재 진행만 초기화.
 
-**채점 (`score.js`)**: 정규화는 §4와 동일. 정답 단어열과 입력 단어열의 LCS로 일치 단어를 구하고, 정답 중 미일치 = 누락/오답, 입력 중 미일치 = 추가. 일치율 = 일치 수 ÷ 정답 단어 수.
+**채점 (`score.js`)**: 정규화는 §4와 동일. 정답 단어열과 입력 단어열을 단어 단위 편집 거리(비용 1)로 정렬해 각 위치를 일치 / 오답(다른 단어로 대체) / 누락 / 추가로 분류한다. 일치율 = 일치 수 ÷ 정답 단어 수.
 
 **저장**: localStorage 키 `speaking:practice:<slug>`, 값 `{ attempts: [{ date: "YYYY-MM-DD", stage1, stage2, stage3 }] }`, 최근 20개 유지. "오늘 n회째" = 오늘 날짜 시도 수 + 1. 모든 접근은 try/catch, 실패해도 실습은 동작.
 
@@ -152,7 +156,7 @@ Claude 출력 JSON 스키마:
 | URL 없음/형식 오류 | 항목 실패, "첫 줄에 유튜브 URL 필요" |
 | 타임스탬프 0개 | 항목 실패, "스크립트 패널에서 시각 포함해 복사" |
 | 구간 180초 초과 | 항목 실패, 실제 길이 로그 |
-| oEmbed 401/403 (임베드 불가) | 항목 실패 |
+| oEmbed 401/403 (임베드 불가), 404 (삭제·비공개) | 항목 실패 |
 | oEmbed 네트워크 오류·기타 | 경고 로그, `source_title: null`로 진행 |
 | Claude 출력 검증 실패 | 1회 재시도 후 항목 실패 |
 | 정렬 일치율 < 0.6 | 항목 실패 |
@@ -172,14 +176,15 @@ Claude 출력 JSON 스키마:
 ## 8. 테스트
 
 - `pipeline/test_transcript.py` (`unittest`): URL 4형식, 시각 3형식, 괄호 줄 제거, 구간 끝 추정, 오인식 교정 문장 정렬(예: "a va perfect" → "a vacation or a perfect"), 역순 보정, 180초 초과 거부, 일치율 미달 거부.
-- `assets/js/practice/score.test.mjs` (`node --test`): 대소문자·구두점 무시, 누락·오답·추가 구분, 일치율 계산.
-- `daily.yml` generate 잡에서 두 테스트를 생성 단계 앞에 실행, 실패 시 생성·게시 중단.
+- `pipeline/test_generate.py` (`unittest`): 출력 검증·정리, oEmbed 상태별 처리, 페이지 데이터 계산, 번들 작성(`</script>` 이스케이프 포함).
+- `assets/js/practice/*.test.mjs` (`node --test`): 채점(대소문자·구두점·둥근 아포스트로피 무시, 누락·오답·추가 구분, 일치율), 강세 표기 HTML(이스케이프, `syl` 대소문자·불일치), 이력 저장(차단·손상된 localStorage).
+- `daily.yml` generate 잡에서 테스트를 생성 단계 앞에 실행. 테스트가 실패하면 생성도 배포도 하지 않는다.
 - 실데이터: 분석한 영상의 "happiness" 구간(약 4:12~4:31)으로 생성 → 문장 타이밍, 강세, 덩어리 뜻 어순 확인.
 - 브라우저: 로컬 `hugo server`에서 4단계 진행 — 타이머, 구간 재생·정지, 가림막, 받아쓰기 채점, 결과 저장, 모바일 폭. 마이크·음성인식은 브라우저 창에서 확인 불가하면 그 사실을 보고하고 사용자 확인을 요청한다.
 
 ## 9. 함께 바뀌는 것
 
-- `daily.yml`: `schedule` 제거, 테스트 단계 추가, commit 스텝 `git add` 경로를 `content/practice`로.
+- `daily.yml`: 워크플로 이름 `Practice Pipeline`, `schedule` 제거, Node 24 설정과 테스트 단계 추가, push 경로에 `pipeline/**`·`layouts/**`·`.github/workflows/**` 추가, commit 스텝 `git add` 경로를 `content/practice`로, deploy는 테스트 통과 시에만.
 - `generate.py`: `FALLBACK_QUOTES`·이디엄 경로·기존 포스트 렌더링 제거.
 - `hugo.toml`: `mainSections = ['practice']`, 메뉴 `Posts` → `Practice` (`/practice/`).
 - `content/posts/` 삭제, `pipeline/state.json` 초기화.
