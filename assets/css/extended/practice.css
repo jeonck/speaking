@@ -727,10 +727,28 @@ body.list { background: var(--pr-desk); }
   .tag-card { min-height: 0; gap: 1.75rem; }
 }
 
-/* ---------- 상단 메뉴 (64px, 캔버스) ---------- */
-.header { background: var(--pr-desk); }
-.logo a { font-family: var(--pr-serif); font-size: 23px; font-weight: 400; letter-spacing: -0.02em; }
-.menu { align-items: center; column-gap: 1.75rem; }
+/* ---------- 상단 메뉴 (ElevenLabs: 64px, 캔버스, 로고 왼쪽 · 메뉴와 동작 오른쪽) ---------- */
+:root { --header-height: 64px; --nav-width: 1040px; }
+/* 고정 머리말이 앵커 이동(#home-add 등) 대상을 가리지 않게 */
+html { scroll-padding-top: 80px; }
+.header {
+  position: sticky; top: 0; z-index: 50;
+  background: color-mix(in srgb, var(--pr-desk) 82%, transparent);
+  -webkit-backdrop-filter: saturate(1.4) blur(14px); backdrop-filter: saturate(1.4) blur(14px);
+}
+/* 테마 토글은 PaperMod 마크업상 로고 안에 있다 — .logo를 풀어서 맨 오른쪽으로 보낸다 */
+.header-nav { align-items: center; flex-wrap: nowrap; column-gap: 1.75rem; }
+.header-nav .logo { display: contents; }
+.logo > a { order: 1; margin-right: auto; font-family: var(--pr-serif); font-size: 23px; font-weight: 400; letter-spacing: -0.02em; }
+.header-nav .menu { order: 2; }
+.header-nav .logo-switches { order: 3; }
+.theme-toggle {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 36px; height: 36px; padding: 0; border-radius: 50%; color: var(--primary);
+}
+.theme-toggle:hover { background: var(--pr-surface); }
+.theme-toggle svg { width: 18px; height: 18px; }
+.menu { align-items: center; column-gap: 1.75rem; margin: 0; }
 .menu a { font-size: 15px; font-weight: 500; letter-spacing: 0; color: var(--pr-body); }
 .menu a:hover { color: var(--primary); }
 .menu .active { color: var(--primary); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
@@ -741,7 +759,16 @@ body.list { background: var(--pr-desk); }
   background: var(--pr-ink); color: var(--pr-ink-on);
 }
 .menu li:last-child a:hover { background: var(--pr-ink-strong); color: var(--pr-ink-on); }
-.menu a:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
+.menu a:focus-visible, .theme-toggle:focus-visible, .logo > a:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; border-radius: 6px; }
+@media (max-width: 640px) {
+  /* 좁은 화면: 두 줄이라 고정하지 않는다 (화면을 너무 가림). 1줄 로고 + 토글, 2줄 메뉴 */
+  html { scroll-padding-top: 16px; }
+  .header { position: relative; }
+  .header-nav { flex-wrap: wrap; row-gap: 0; }
+  .header-nav .logo-switches { order: 2; }
+  .header-nav .menu { order: 3; flex-basis: 100%; column-gap: 1.25rem; padding-bottom: 0.25rem; line-height: 52px; }
+  .logo > a { line-height: 56px; }
+}
 
 /* ---------- 검색 ---------- */
 .search-page [hidden] { display: none !important; }

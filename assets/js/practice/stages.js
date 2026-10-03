@@ -69,7 +69,11 @@ export function initPractice(root, data, slug) {
       stage.mount(panelEls[id], ctx);
     }
     if (scroll) {
-      window.scrollTo({ top: root.getBoundingClientRect().top + window.scrollY - 16, behavior: "smooth" });
+      // 상단 메뉴가 고정(sticky)일 때만 그 높이만큼 더 내려서 단계 탭이 가리지 않게
+      const header = document.querySelector(".header");
+      const sticky = header && getComputedStyle(header).position === "sticky";
+      const offset = (sticky ? header.offsetHeight : 0) + 16;
+      window.scrollTo({ top: root.getBoundingClientRect().top + window.scrollY - offset, behavior: "smooth" });
     }
   }
 
