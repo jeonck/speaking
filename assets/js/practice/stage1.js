@@ -23,8 +23,9 @@ export function mountStage1(panel, ctx) {
   const checkEl = panel.querySelector(".pr-check");
   const resultEl = panel.querySelector(".practice-result-grid");
 
+  // 읽는 동안은 끊어읽기·뜻 없이 원래 문장 그대로 — 덩어리와 뜻은 [뜻 보기]에서 공개
   scriptEl.innerHTML = data.sentences
-    .map((s, i) => `<p class="pr-sentence-row" data-i="${i}">${renderChunks(s)}</p>`)
+    .map((s, i) => `<p class="pr-sentence-row" data-i="${i}">${escapeHtml(s.text)}</p>`)
     .join("");
 
   let cancelCountdown = null;
@@ -76,6 +77,9 @@ export function mountStage1(panel, ctx) {
     });
 
     checkEl.querySelector(".pr-reveal").addEventListener("click", () => {
+      scriptEl.innerHTML = data.sentences
+        .map((s, i) => `<p class="pr-sentence-row" data-i="${i}">${renderChunks(s)}</p>`)
+        .join("");
       scriptEl.classList.remove("pr-blurred");
       checkEl.querySelector(".pr-reveal").hidden = true;
       const understood = [...checkEl.querySelectorAll(".pr-check-group")].filter(
