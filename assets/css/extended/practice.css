@@ -141,9 +141,11 @@ body {
 
 /* ---------- 단계 목표·안내 ---------- */
 .pr-goal { padding-top: 0.25rem; }
-.pr-goal-title { margin: 0; font-size: 1.3rem; font-weight: 700; line-height: 1.4; color: var(--primary); }
+/* 단계 목표와 단계 안 섹션 제목은 홈 섹션 제목과 같은 크기 */
+.pr-goal-title, .pr-section-title { margin: 0; font-size: 1.9rem; font-weight: 700; line-height: 1.35; letter-spacing: -0.02em; color: var(--primary); }
 .pr-goal-why { margin: 0.35rem 0 0; max-width: 60ch; font-size: 0.95rem; line-height: 1.65; color: var(--secondary); }
-.pr-section-title { font-size: 1.05rem; font-weight: 700; margin: 0.75rem 0 0; }
+.pr-section-title { margin-top: 1.5rem; }
+.pr-check-title { margin: 0.25rem 0 0; font-size: 1.15rem; font-weight: 700; line-height: 1.5; }
 .pr-section-title small { font-weight: 400; color: var(--secondary); font-size: 0.85rem; }
 .pr-hint { color: var(--secondary); font-size: 0.92rem; margin: 0; }
 .pr-locked {
@@ -366,6 +368,7 @@ body {
 /* ---------- 모바일·접근성 ---------- */
 @media (max-width: 640px) {
   .practice-header h1 { font-size: 1.65rem; }
+  .pr-goal-title, .pr-section-title { font-size: 1.55rem; }
   .practice-tab { font-size: 0.8rem; }
   .pr-script, .pr-full-script { padding: 0.2rem 1rem; }
   .pr-sentence-row { font-size: 1.12rem; }

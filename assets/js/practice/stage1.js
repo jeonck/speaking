@@ -67,7 +67,7 @@ export function mountStage1(panel, ctx) {
     scriptEl.classList.add("pr-blurred");
     checkEl.hidden = false;
     checkEl.innerHTML = `
-      <h3 class="pr-section-title">${inTime ? "다 읽었네요!" : "시간이 다 됐어요."} 문장마다 이해했는지 골라 주세요</h3>
+      <h3 class="pr-check-title">${inTime ? "다 읽었네요!" : "시간이 다 됐어요."} 문장마다 이해했는지 골라 주세요</h3>
       ${data.sentences
         .map(
           (s, i) => `
