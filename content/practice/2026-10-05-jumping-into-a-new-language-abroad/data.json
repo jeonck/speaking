@@ -1,0 +1,492 @@
+{
+ "video_id": "W5Y646UvXVc",
+ "source_title": "Start Your World Adventure with NSLI-Y!",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 77.08,
+  "end": 100.77
+ },
+ "sentences": [
+  {
+   "text": "I didn't study Turkish at all before I embarked on the program, so to go there and jump into Turkish was a huge new experience for me.",
+   "chunks": [
+    {
+     "en": "I didn't study Turkish at all",
+     "ko": "나는 터키어를 전혀 공부하지 않았다"
+    },
+    {
+     "en": "before I embarked on the program,",
+     "ko": "그 프로그램을 시작하기 전에는"
+    },
+    {
+     "en": "so to go there and jump into Turkish",
+     "ko": "그래서 그곳에 가서 터키어에 뛰어든 것은"
+    },
+    {
+     "en": "was a huge new experience for me.",
+     "ko": "나에게 아주 새로운 경험이었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't",
+     "strong": true,
+     "link": false,
+     "syl": "DID"
+    },
+    {
+     "w": "study",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Turkish",
+     "strong": true,
+     "link": false,
+     "syl": "TUR"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "embarked",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "program,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jump",
+     "strong": true,
+     "link": true,
+     "syl": "JUMP"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Turkish",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "huge",
+     "strong": true,
+     "link": false,
+     "syl": "HUGE"
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experience",
+     "strong": true,
+     "link": false,
+     "syl": "PE"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "embarked on, jump into처럼 자음 다음에 모음이 오면 이어서 발음합니다.",
+   "start": 77.08,
+   "end": 88.12
+  },
+  {
+   "text": "When I first stepped foot in Moldova, it was pretty intimidating to be speaking only Russian.",
+   "chunks": [
+    {
+     "en": "When I first stepped foot in Moldova,",
+     "ko": "몰도바에 처음 발을 들였을 때"
+    },
+    {
+     "en": "it was pretty intimidating",
+     "ko": "꽤 두려운 일이었다"
+    },
+    {
+     "en": "to be speaking only Russian.",
+     "ko": "오직 러시아어만 말해야 한다는 것은"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stepped",
+     "strong": true,
+     "link": false,
+     "syl": "STEPPED"
+    },
+    {
+     "w": "foot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Moldova,",
+     "strong": true,
+     "link": false,
+     "syl": "DO"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "intimidating",
+     "strong": true,
+     "link": false,
+     "syl": "TIM"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speaking",
+     "strong": true,
+     "link": false,
+     "syl": "SPEAK"
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Russian.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "foot in은 자음+모음이 이어져 '푸린'처럼 들립니다.",
+   "start": 88.12,
+   "end": 93.83
+  },
+  {
+   "text": "But as the weeks went by, I actually went out to different markets, and walking around the street, I applied those language skills.",
+   "chunks": [
+    {
+     "en": "But as the weeks went by,",
+     "ko": "하지만 몇 주가 지나면서"
+    },
+    {
+     "en": "I actually went out to different markets,",
+     "ko": "나는 실제로 여러 시장에 나갔고"
+    },
+    {
+     "en": "and walking around the street,",
+     "ko": "거리를 돌아다니면서"
+    },
+    {
+     "en": "I applied those language skills.",
+     "ko": "그 언어 능력을 활용했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weeks",
+     "strong": true,
+     "link": false,
+     "syl": "WEEKS"
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "markets,",
+     "strong": true,
+     "link": false,
+     "syl": "MAR"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walking",
+     "strong": true,
+     "link": false,
+     "syl": "WALK"
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "street,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "applied",
+     "strong": true,
+     "link": false,
+     "syl": "PLIED"
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "language",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "skills.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "went out은 자음+모음이 이어져 '웬아웃'처럼 연음됩니다.",
+   "start": 93.83,
+   "end": 100.77
+  }
+ ],
+ "questions": [
+  {
+   "q": "How much Turkish had the speaker studied before starting the program?",
+   "options": [
+    "None at all",
+    "A full year",
+    "Only basic greetings"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 터키어를 전혀 공부하지 않았다고 말한다."
+  },
+  {
+   "q": "How did the speaker describe jumping into Turkish?",
+   "options": [
+    "A huge new experience",
+    "A boring routine",
+    "An easy, familiar task"
+   ],
+   "answer": 0,
+   "why": "첫 문장 끝에서 자신에게 아주 새로운 경험이었다고 말한다."
+  },
+  {
+   "q": "How did the speaker feel about speaking only Russian when first arriving in Moldova?",
+   "options": [
+    "Pretty intimidating",
+    "Completely relaxed",
+    "Not challenging at all"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 꽤 두려운 일이었다고 말한다."
+  },
+  {
+   "q": "What helped the speaker practice language skills as time went on?",
+   "options": [
+    "Going out to different markets and walking around the street",
+    "Staying inside and reading textbooks",
+    "Avoiding conversations with locals"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 시장에 나가고 거리를 돌아다니며 언어 능력을 활용했다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "embark on",
+   "ko": "~을 시작하다",
+   "note": "새로운 일이나 여정을 막 시작할 때 쓰는 다소 격식 있는 표현입니다."
+  },
+  {
+   "term": "jump into",
+   "ko": "뛰어들다, 갑자기 시작하다",
+   "note": "준비 없이 적극적으로 바로 시작한다는 뜻입니다."
+  },
+  {
+   "term": "step foot in",
+   "ko": "~에 발을 들이다, 처음 가보다",
+   "note": "어떤 장소에 처음 도착하거나 방문했다는 의미입니다."
+  },
+  {
+   "term": "as the weeks went by",
+   "ko": "몇 주가 지나면서",
+   "note": "시간이 점차 흘러가는 상황을 나타내는 표현입니다."
+  }
+ ]
+}

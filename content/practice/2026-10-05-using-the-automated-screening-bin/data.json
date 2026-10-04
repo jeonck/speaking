@@ -1,0 +1,527 @@
+{
+ "video_id": "Ta9Wfc7ECwU",
+ "source_title": "Travel Tips: Automated Screening Lanes",
+ "source_channel": "TSA",
+ "segment": {
+  "start": 33.34,
+  "end": 56.02
+ },
+ "sentences": [
+  {
+   "text": "Nothing can be on top of or beneath your electronic devices.",
+   "chunks": [
+    {
+     "en": "Nothing can be on top of",
+     "ko": "아무것도 위에 있을 수 없고"
+    },
+    {
+     "en": "or beneath",
+     "ko": "또는 아래에도"
+    },
+    {
+     "en": "your electronic devices.",
+     "ko": "전자기기 밑에도요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Nothing",
+     "strong": true,
+     "link": false,
+     "syl": "NOTH"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "top",
+     "strong": true,
+     "link": true,
+     "syl": "top"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beneath",
+     "strong": true,
+     "link": false,
+     "syl": "NEATH"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "electronic",
+     "strong": true,
+     "link": false,
+     "syl": "TRON"
+    },
+    {
+     "w": "devices.",
+     "strong": true,
+     "link": false,
+     "syl": "VI"
+    }
+   ],
+   "tip": "on top of처럼 전치사가 겹칠 때는 가볍게 이어서 말해요.",
+   "start": 33.34,
+   "end": 38.28
+  },
+  {
+   "text": "When done, slide your bin forward.",
+   "chunks": [
+    {
+     "en": "When done,",
+     "ko": "다 하셨으면,"
+    },
+    {
+     "en": "slide your bin forward.",
+     "ko": "바구니를 앞으로 미세요."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "done,",
+     "strong": true,
+     "link": false,
+     "syl": "done"
+    },
+    {
+     "w": "slide",
+     "strong": true,
+     "link": false,
+     "syl": "slide"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bin",
+     "strong": true,
+     "link": false,
+     "syl": "bin"
+    },
+    {
+     "w": "forward.",
+     "strong": true,
+     "link": false,
+     "syl": "FOR"
+    }
+   ],
+   "tip": "slide your bin처럼 명령문은 동사를 강하게 발음해요.",
+   "start": 38.28,
+   "end": 41.12
+  },
+  {
+   "text": "If you have multiple items, you can use more than one bin.",
+   "chunks": [
+    {
+     "en": "If you have multiple items,",
+     "ko": "물건이 여러 개 있다면,"
+    },
+    {
+     "en": "you can use more than one bin.",
+     "ko": "바구니를 하나 이상 사용할 수 있습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "multiple",
+     "strong": true,
+     "link": false,
+     "syl": "MUL"
+    },
+    {
+     "w": "items,",
+     "strong": true,
+     "link": false,
+     "syl": "I"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": true,
+     "link": false,
+     "syl": "use"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bin.",
+     "strong": true,
+     "link": false,
+     "syl": "bin"
+    }
+   ],
+   "tip": "more than one은 이어서 '모어 댄 원'으로 자연스럽게 발음해요.",
+   "start": 41.12,
+   "end": 44.12
+  },
+  {
+   "text": "Carry-on roller bags must also go into a bin.",
+   "chunks": [
+    {
+     "en": "Carry-on roller bags",
+     "ko": "기내용 바퀴 달린 가방도"
+    },
+    {
+     "en": "must also go into a bin.",
+     "ko": "바구니 안에 넣어야 합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Carry-on",
+     "strong": true,
+     "link": false,
+     "syl": "CAR"
+    },
+    {
+     "w": "roller",
+     "strong": true,
+     "link": false,
+     "syl": "ROLL"
+    },
+    {
+     "w": "bags",
+     "strong": true,
+     "link": false,
+     "syl": "bags"
+    },
+    {
+     "w": "must",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bin.",
+     "strong": true,
+     "link": false,
+     "syl": "bin"
+    }
+   ],
+   "tip": "go into는 이어서 '고인투'처럼 들려요.",
+   "start": 44.12,
+   "end": 46.72
+  },
+  {
+   "text": "All liquids must be removed and in compliance with TSA liquid rules.",
+   "chunks": [
+    {
+     "en": "All liquids must be removed",
+     "ko": "모든 액체류는 꺼내야 하며"
+    },
+    {
+     "en": "and in compliance with TSA liquid rules.",
+     "ko": "TSA 액체 규정에 맞아야 합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "All",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "liquids",
+     "strong": true,
+     "link": false,
+     "syl": "LIQ"
+    },
+    {
+     "w": "must",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "removed",
+     "strong": true,
+     "link": false,
+     "syl": "MOVED"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compliance",
+     "strong": true,
+     "link": false,
+     "syl": "PLI"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "TSA",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "liquid",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rules.",
+     "strong": true,
+     "link": false,
+     "syl": "rules"
+    }
+   ],
+   "tip": "in compliance with는 격식 있는 표현으로 천천히 끊어 말해요.",
+   "start": 46.72,
+   "end": 51.4
+  },
+  {
+   "text": "When finished, again slide your bin forward and proceed directly to screening.",
+   "chunks": [
+    {
+     "en": "When finished,",
+     "ko": "다 끝나셨으면,"
+    },
+    {
+     "en": "again slide your bin forward",
+     "ko": "다시 바구니를 앞으로 밀고"
+    },
+    {
+     "en": "and proceed directly to screening.",
+     "ko": "곧바로 검색대로 진행하세요."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finished,",
+     "strong": true,
+     "link": false,
+     "syl": "FIN"
+    },
+    {
+     "w": "again",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "slide",
+     "strong": true,
+     "link": false,
+     "syl": "slide"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bin",
+     "strong": true,
+     "link": false,
+     "syl": "bin"
+    },
+    {
+     "w": "forward",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "proceed",
+     "strong": true,
+     "link": false,
+     "syl": "CEED"
+    },
+    {
+     "w": "directly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "screening.",
+     "strong": true,
+     "link": false,
+     "syl": "SCREEN"
+    }
+   ],
+   "tip": "proceed directly to는 이어서 발음하며 뒤로 갈수록 강세가 약해져요.",
+   "start": 51.4,
+   "end": 56.02
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the segment, where should nothing be placed?",
+   "options": [
+    "On top of or beneath electronic devices",
+    "Inside a carry-on bag",
+    "Next to the screening agent"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 전자기기 위나 아래에 아무것도 없어야 한다고 말함."
+  },
+  {
+   "q": "What should travelers do with carry-on roller bags?",
+   "options": [
+    "Put them into a bin",
+    "Carry them through by hand",
+    "Leave them with an agent"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 바퀴 달린 가방도 바구니에 넣어야 한다고 말함."
+  },
+  {
+   "q": "What must liquids comply with?",
+   "options": [
+    "TSA liquid rules",
+    "Airline weight limits",
+    "Customs declarations"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 TSA 액체 규정에 맞아야 한다고 말함."
+  },
+  {
+   "q": "What should travelers do when finished with their bin?",
+   "options": [
+    "Slide it forward and proceed to screening",
+    "Leave it where it is",
+    "Hand it to an agent"
+   ],
+   "answer": 0,
+   "why": "여섯 번째 문장에서 바구니를 밀고 곧바로 검색대로 가라고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "beneath",
+   "ko": "아래에",
+   "note": "formal한 표현으로 under 대신 자주 쓰여요."
+  },
+  {
+   "term": "in compliance with",
+   "ko": "~을 준수하여",
+   "note": "규정에 맞게 행동한다는 뜻의 격식체 표현이에요."
+  },
+  {
+   "term": "carry-on",
+   "ko": "기내 휴대용",
+   "note": "carry-on roller bags처럼 기내에 들고 타는 짐을 가리켜요."
+  },
+  {
+   "term": "proceed",
+   "ko": "나아가다, 진행하다",
+   "note": "proceed to screening처럼 다음 단계로 이동할 때 써요."
+  }
+ ]
+}

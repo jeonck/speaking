@@ -1,0 +1,556 @@
+{
+ "video_id": "1O3iGACTfN8",
+ "source_title": "How the FAA Responds to Severe Weather",
+ "source_channel": "Federal Aviation Administration",
+ "segment": {
+  "start": 80.54,
+  "end": 105.36
+ },
+ "sentences": [
+  {
+   "text": "Sometimes it's safer to keep planes on the ground.",
+   "chunks": [
+    {
+     "en": "Sometimes it's safer",
+     "ko": "때로는 더 안전하다"
+    },
+    {
+     "en": "to keep planes on the ground.",
+     "ko": "비행기들을 지상에 두는 것이"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sometimes",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safer",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "link": false,
+     "syl": "KEEP"
+    },
+    {
+     "w": "planes",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "planes on에서 s가 다음 모음과 연음됩니다.",
+   "start": 80.54,
+   "end": 83.75
+  },
+  {
+   "text": "This is called a ground stop.",
+   "chunks": [
+    {
+     "en": "This is called",
+     "ko": "이것은 불린다"
+    },
+    {
+     "en": "a ground stop.",
+     "ko": "지상 정지라고"
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "stop.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "called a에서 d가 뒤 모음과 이어집니다.",
+   "start": 83.75,
+   "end": 85.63
+  },
+  {
+   "text": "Planes at one airport are prevented from taking off to avoid being put into a holding pattern at their destination.",
+   "chunks": [
+    {
+     "en": "Planes at one airport",
+     "ko": "한 공항에 있는 비행기들은"
+    },
+    {
+     "en": "are prevented from taking off",
+     "ko": "이륙하는 것이 금지된다"
+    },
+    {
+     "en": "to avoid being put into a holding pattern",
+     "ko": "홀딩 패턴에 놓이는 것을 피하기 위해"
+    },
+    {
+     "en": "at their destination.",
+     "ko": "목적지에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Planes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "airport",
+     "strong": true,
+     "link": false,
+     "syl": "AIR"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prevented",
+     "strong": true,
+     "link": false,
+     "syl": "VEN"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taking",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "avoid",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "holding",
+     "strong": true,
+     "link": false,
+     "syl": "HOLD"
+    },
+    {
+     "w": "pattern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "destination.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "taking off와 put into에서 자음이 다음 모음과 연음됩니다.",
+   "start": 85.63,
+   "end": 91.84
+  },
+  {
+   "text": "A ground stop can affect aircraft thousands of miles away.",
+   "chunks": [
+    {
+     "en": "A ground stop",
+     "ko": "지상 정지는"
+    },
+    {
+     "en": "can affect aircraft",
+     "ko": "비행기에 영향을 줄 수 있다"
+    },
+    {
+     "en": "thousands of miles away.",
+     "ko": "수천 마일 떨어진 곳까지도"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "stop",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "affect",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "aircraft",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thousands",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miles",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "away.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "affect aircraft와 miles away에서 자음과 모음이 연음됩니다.",
+   "start": 91.84,
+   "end": 95.89
+  },
+  {
+   "text": "While you might be sitting in an aircraft in sunny L.A., your destination of Chicago may be experiencing bad weather where arriving aircraft are in a holding pattern.",
+   "chunks": [
+    {
+     "en": "While you might be sitting in an aircraft in sunny L.A.,",
+     "ko": "당신이 화창한 LA의 비행기 안에 앉아 있는 동안"
+    },
+    {
+     "en": "your destination of Chicago may be experiencing bad weather",
+     "ko": "목적지인 시카고는 궂은 날씨를 겪고 있을 수도 있다"
+    },
+    {
+     "en": "where arriving aircraft are in a holding pattern.",
+     "ko": "도착하는 비행기들이 홀딩 패턴에 있는 곳에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "While",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "might",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sitting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "aircraft",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sunny",
+     "strong": true,
+     "link": false,
+     "syl": "SUN"
+    },
+    {
+     "w": "L.A.,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "destination",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Chicago",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experiencing",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "bad",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weather",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "arriving",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "aircraft",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "holding",
+     "strong": true,
+     "link": false,
+     "syl": "HOLD"
+    },
+    {
+     "w": "pattern.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "an aircraft와 arriving aircraft처럼 자음이 다음 모음과 부드럽게 이어집니다.",
+   "start": 95.89,
+   "end": 105.36
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is a 'ground stop'?",
+   "options": [
+    "Keeping planes on the ground to avoid holding patterns elsewhere",
+    "A mechanical inspection before takeoff",
+    "A type of severe thunderstorm",
+    "A new airport security check"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장이 ground stop을 정의합니다."
+  },
+  {
+   "q": "Why are planes prevented from taking off during a ground stop?",
+   "options": [
+    "To avoid being put into a holding pattern at their destination",
+    "To save fuel costs",
+    "To allow maintenance crews to work",
+    "To wait for more passengers"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 이유를 설명합니다."
+  },
+  {
+   "q": "How far can a ground stop's effects reach, according to the segment?",
+   "options": [
+    "Thousands of miles away",
+    "Only within the same airport",
+    "A few hundred feet",
+    "Across one city only"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 언급됩니다."
+  },
+  {
+   "q": "In the example, why might a flight sitting in sunny L.A. be delayed?",
+   "options": [
+    "Because its destination, Chicago, is experiencing bad weather",
+    "Because the L.A. airport is closed",
+    "Because the plane needs more fuel",
+    "Because of a staffing shortage"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 시카고의 날씨 때문이라고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "ground stop",
+   "ko": "지상 정지(이착륙 금지 조치)",
+   "note": "특정 공항에서 비행기 이륙을 일시적으로 막는 FAA 조치입니다."
+  },
+  {
+   "term": "holding pattern",
+   "ko": "선회 대기(홀딩 패턴)",
+   "note": "착륙 전 공중에서 빙빙 돌며 대기하는 비행 경로입니다."
+  },
+  {
+   "term": "be prevented from",
+   "ko": "~하지 못하게 막히다",
+   "note": "be prevented from -ing 형태로 자주 쓰입니다."
+  },
+  {
+   "term": "thousands of miles away",
+   "ko": "수천 마일 떨어진",
+   "note": "먼 거리를 강조할 때 쓰는 표현입니다."
+  }
+ ]
+}

@@ -1,0 +1,409 @@
+{
+ "video_id": "jM_CLf-f5HE",
+ "source_title": "Language Lessons",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 26.71,
+  "end": 48.29
+ },
+ "sentences": [
+  {
+   "text": "I was in class for five hours a day, Monday through Saturday, and then we would have three to four hours of homework each night.",
+   "chunks": [
+    {
+     "en": "I was in class for five hours a day,",
+     "ko": "나는 하루에 다섯 시간씩 수업을 들었다"
+    },
+    {
+     "en": "Monday through Saturday,",
+     "ko": "월요일부터 토요일까지"
+    },
+    {
+     "en": "and then we would have three to four hours of homework each night.",
+     "ko": "그리고 매일 밤 서너 시간의 숙제가 있었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": true,
+     "link": false,
+     "syl": "FIVE"
+    },
+    {
+     "w": "hours",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Monday",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Saturday,",
+     "strong": true,
+     "link": false,
+     "syl": "SAT"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "four",
+     "strong": true,
+     "link": true,
+     "syl": "FOUR"
+    },
+    {
+     "w": "hours",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "homework",
+     "strong": true,
+     "link": false,
+     "syl": "HOME"
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night.",
+     "strong": true,
+     "link": false,
+     "syl": "NIGHT"
+    }
+   ],
+   "tip": "four hours는 자음+모음으로 이어져 '포워워즈'처럼 연음됩니다.",
+   "start": 26.71,
+   "end": 37.22
+  },
+  {
+   "text": "It was really, really difficult.",
+   "chunks": [
+    {
+     "en": "It was really, really",
+     "ko": "그것은 정말, 정말"
+    },
+    {
+     "en": "difficult.",
+     "ko": "어려웠다"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really,",
+     "strong": true,
+     "link": false,
+     "syl": "REAL"
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "REAL"
+    },
+    {
+     "w": "difficult.",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    }
+   ],
+   "tip": "really를 두 번 반복해서 강조할 때는 둘 다 또박또박 강하게 말합니다.",
+   "start": 37.22,
+   "end": 39.22277777777778
+  },
+  {
+   "text": "At the intermediate level, you're not just learning the letters, but you're not at the point where you are easily speaking sentences.",
+   "chunks": [
+    {
+     "en": "At the intermediate level,",
+     "ko": "중급 단계에서는"
+    },
+    {
+     "en": "you're not just learning the letters,",
+     "ko": "단지 글자만 배우는 것이 아니라"
+    },
+    {
+     "en": "but you're not at the point",
+     "ko": "그렇다고 그 단계에 있는 것도 아니다"
+    },
+    {
+     "en": "where you are easily speaking sentences.",
+     "ko": "문장을 쉽게 말할 수 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "intermediate",
+     "strong": true,
+     "link": false,
+     "syl": "ME"
+    },
+    {
+     "w": "level,",
+     "strong": true,
+     "link": false,
+     "syl": "LEV"
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "letters,",
+     "strong": true,
+     "link": false,
+     "syl": "LET"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "point",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "easily",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speaking",
+     "strong": true,
+     "link": false,
+     "syl": "SPEAK"
+    },
+    {
+     "w": "sentences.",
+     "strong": true,
+     "link": false,
+     "syl": "SEN"
+    }
+   ],
+   "tip": "not at처럼 자음으로 끝나고 모음으로 시작하는 단어는 이어서 발음합니다.",
+   "start": 39.22277777777778,
+   "end": 48.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "How many hours of class did the speaker have each day, according to the segment?",
+   "options": [
+    "Five hours, Monday through Saturday",
+    "Five hours, every day of the week",
+    "Five hours, only on weekends"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 월요일부터 토요일까지 하루 다섯 시간씩 수업을 들었다고 말한다."
+  },
+  {
+   "q": "How much homework did the speaker have each night?",
+   "options": [
+    "Three to four hours",
+    "About one hour",
+    "No homework at all"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 매일 밤 서너 시간의 숙제가 있었다고 말한다."
+  },
+  {
+   "q": "How does the speaker describe this period of study?",
+   "options": [
+    "Really, really difficult",
+    "Quite easy",
+    "Mildly boring"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 정말, 정말 어려웠다고 말한다."
+  },
+  {
+   "q": "At the intermediate level, what was the speaker not yet able to do easily?",
+   "options": [
+    "Speak full sentences",
+    "Recognize the alphabet",
+    "Read simple menus"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 문장을 쉽게 말할 수 있는 단계는 아니었다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Monday through Saturday",
+   "ko": "월요일부터 토요일까지",
+   "note": "through는 기간의 끝(토요일)까지 포함한다는 뜻입니다."
+  },
+  {
+   "term": "at the point where",
+   "ko": "~하는 단계/시점에",
+   "note": "어떤 상태나 수준에 도달했는지를 말할 때 씁니다."
+  },
+  {
+   "term": "intermediate level",
+   "ko": "중급 단계",
+   "note": "초급과 고급 사이의 학습 단계를 가리킵니다."
+  }
+ ]
+}

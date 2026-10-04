@@ -1,0 +1,521 @@
+{
+ "video_id": "ipKhNJcxfvs",
+ "source_title": "U.S. Passport Security Features",
+ "source_channel": "Travel.State.Gov",
+ "segment": {
+  "start": 15.18,
+  "end": 40.54
+ },
+ "sentences": [
+  {
+   "text": "Most of the time, you don't need to come to a passport agency as long as you plan ahead.",
+   "chunks": [
+    {
+     "en": "Most of the time, you don't need to come to a passport agency",
+     "ko": "대부분의 경우, 여권 사무소에 올 필요가 없다"
+    },
+    {
+     "en": "as long as you plan ahead.",
+     "ko": "미리 계획만 세운다면"
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": true,
+     "link": false,
+     "syl": "NEED"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "passport",
+     "strong": true,
+     "link": false,
+     "syl": "PASS"
+    },
+    {
+     "w": "agency",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plan",
+     "strong": true,
+     "link": true,
+     "syl": "PLAN"
+    },
+    {
+     "w": "ahead.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "plan ahead에서 n이 뒤 모음과 연음됩니다.",
+   "start": 15.18,
+   "end": 20.02
+  },
+  {
+   "text": "Americans can renew their passports online, or apply for their first time or child's passport by visiting one of more than 7000 acceptance facilities like post offices, public libraries or courthouses.",
+   "chunks": [
+    {
+     "en": "Americans can renew their passports online,",
+     "ko": "미국인들은 여권을 온라인으로 갱신할 수 있고"
+    },
+    {
+     "en": "or apply for their first time or child's passport",
+     "ko": "또는 첫 여권이나 자녀의 여권을 신청할 수 있다"
+    },
+    {
+     "en": "by visiting one of more than 7000 acceptance facilities",
+     "ko": "7000개가 넘는 접수 기관 중 한 곳을 방문해서"
+    },
+    {
+     "en": "like post offices, public libraries or courthouses.",
+     "ko": "우체국, 공공 도서관, 법원 같은 곳들 말이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Americans",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "renew",
+     "strong": true,
+     "link": false,
+     "syl": "NEW"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "passports",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "online,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "apply",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "child's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "passport",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visiting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "7000",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "acceptance",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "facilities",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "post",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "offices,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "public",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "libraries",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "courthouses.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "one of에서 자음과 모음이 자연스럽게 이어집니다.",
+   "start": 20.02,
+   "end": 33.0
+  },
+  {
+   "text": "No matter where a U.S. passport application is submitted, it ends up at one of our State Department passport facilities, just like this one.",
+   "chunks": [
+    {
+     "en": "No matter where a U.S. passport application is submitted,",
+     "ko": "미국 여권 신청서가 어디서 제출되든"
+    },
+    {
+     "en": "it ends up at one of our State Department passport facilities,",
+     "ko": "결국 국무부 여권 시설 중 한 곳으로 가게 된다"
+    },
+    {
+     "en": "just like this one.",
+     "ko": "바로 이곳처럼 말이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "No",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "matter",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "passport",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "application",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "submitted,",
+     "strong": true,
+     "link": false,
+     "syl": "MIT"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ends",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "State",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Department",
+     "strong": true,
+     "link": false,
+     "syl": "PART"
+    },
+    {
+     "w": "passport",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "facilities,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "ends up와 at one에서 자음과 모음이 연음됩니다.",
+   "start": 33.0,
+   "end": 40.54
+  }
+ ],
+ "questions": [
+  {
+   "q": "What should you do to avoid needing an in-person passport agency visit?",
+   "options": [
+    "Plan ahead",
+    "Apply only at an embassy",
+    "Apply only by mail",
+    "Wait until the last minute"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 미리 계획하면 사무소 방문이 필요 없다고 합니다."
+  },
+  {
+   "q": "Can Americans renew their passports online?",
+   "options": [
+    "Yes, renewal can be done online",
+    "No, renewal always requires an in-person visit",
+    "Only children's passports can be renewed online",
+    "Only government employees can renew online"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 온라인 갱신이 가능하다고 언급됩니다."
+  },
+  {
+   "q": "Where can Americans apply for a first-time or child's passport?",
+   "options": [
+    "At one of more than 7000 acceptance facilities like post offices or libraries",
+    "Only at a U.S. embassy abroad",
+    "Only online",
+    "Only at an airport"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 설명합니다."
+  },
+  {
+   "q": "Where does every passport application end up, no matter where it's submitted?",
+   "options": [
+    "At one of the State Department's passport facilities",
+    "At the local post office",
+    "At a courthouse",
+    "At a public library"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "acceptance facility",
+   "ko": "여권 접수 기관",
+   "note": "우체국, 도서관처럼 여권 신청을 받아주는 지정 기관입니다."
+  },
+  {
+   "term": "plan ahead",
+   "ko": "미리 계획하다",
+   "note": "여유를 두고 미리 준비한다는 뜻입니다."
+  },
+  {
+   "term": "no matter where",
+   "ko": "어디서 ~하든 상관없이",
+   "note": "장소에 관계없이라는 의미를 나타냅니다."
+  },
+  {
+   "term": "ends up at",
+   "ko": "결국 ~에 이르게 되다",
+   "note": "최종적으로 도달하는 장소를 말할 때 씁니다."
+  }
+ ]
+}

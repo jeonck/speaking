@@ -1,0 +1,591 @@
+{
+ "video_id": "rYWFrePFv3w",
+ "source_title": "Critical Language Scholarship: Start your Language Adventure!",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 76.75,
+  "end": 101.03
+ },
+ "sentences": [
+  {
+   "text": "You can discuss a lot more, learn a lot more, when you're talking to someone in their native language than if you're requiring them to sort of meet you where you're at.",
+   "chunks": [
+    {
+     "en": "You can discuss a lot more, learn a lot more,",
+     "ko": "더 많이 이야기하고 더 많이 배울 수 있다"
+    },
+    {
+     "en": "when you're talking to someone in their native language",
+     "ko": "그 사람의 모국어로 이야기할 때는"
+    },
+    {
+     "en": "than if you're requiring them to sort of meet you where you're at.",
+     "ko": "그들에게 당신 쪽으로 맞춰달라고 하는 것보다는"
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "discuss",
+     "strong": true,
+     "link": false,
+     "syl": "CUSS"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talking",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "native",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "language",
+     "strong": true,
+     "link": false,
+     "syl": "LANG"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "requiring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sort",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meet",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "sort of에서 t가 다음 모음과 연음됩니다.",
+   "start": 76.75,
+   "end": 84.73
+  },
+  {
+   "text": "It makes you stand out; it's what makes you unique.",
+   "chunks": [
+    {
+     "en": "It makes you stand out;",
+     "ko": "그것은 당신을 돋보이게 한다"
+    },
+    {
+     "en": "it's what makes you unique.",
+     "ko": "그것이 당신을 특별하게 만드는 것이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stand",
+     "strong": true,
+     "link": true,
+     "syl": "STAND"
+    },
+    {
+     "w": "out;",
+     "strong": true,
+     "link": false,
+     "syl": "OUT"
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unique.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "stand out에서 d가 다음 모음과 연음됩니다.",
+   "start": 84.73,
+   "end": 87.35
+  },
+  {
+   "text": "People are always genuinely surprised when I start speaking Arabic with them, and there's this warmness and connection with them that is not expected.",
+   "chunks": [
+    {
+     "en": "People are always genuinely surprised",
+     "ko": "사람들은 언제나 정말로 놀라워한다"
+    },
+    {
+     "en": "when I start speaking Arabic with them,",
+     "ko": "내가 그들과 아랍어로 말하기 시작하면"
+    },
+    {
+     "en": "and there's this warmness and connection with them",
+     "ko": "그들과 따뜻함과 유대감이 생기는데"
+    },
+    {
+     "en": "that is not expected.",
+     "ko": "그것은 예상치 못한 것이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "People",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "genuinely",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surprised",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speaking",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "Arabic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "warmness",
+     "strong": true,
+     "link": false,
+     "syl": "WARM"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "connection",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "expected.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "speaking Arabic와 not expected에서 자음이 다음 모음과 연음됩니다.",
+   "start": 87.35,
+   "end": 96.05
+  },
+  {
+   "text": "Personally I didn't have the option to study Arabic at a younger age, but I wish I had.",
+   "chunks": [
+    {
+     "en": "Personally I didn't have the option to study Arabic at a younger age,",
+     "ko": "개인적으로 나는 어릴 때 아랍어를 배울 기회가 없었다"
+    },
+    {
+     "en": "but I wish I had.",
+     "ko": "하지만 그랬으면 좋았을 것이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Personally",
+     "strong": true,
+     "link": false,
+     "syl": "PER"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "option",
+     "strong": true,
+     "link": false,
+     "syl": "OP"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study",
+     "strong": true,
+     "link": false,
+     "syl": "STUD"
+    },
+    {
+     "w": "Arabic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "younger",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "age,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wish",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "at a와 younger age에서 자음과 모음이 연음됩니다.",
+   "start": 96.05,
+   "end": 101.03
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the speaker, what happens when you talk to someone in their native language?",
+   "options": [
+    "You can discuss and learn a lot more",
+    "You confuse the listener",
+    "It takes much longer to communicate",
+    "It is considered rude"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 설명합니다."
+  },
+  {
+   "q": "What does speaking another language do for the speaker, according to the segment?",
+   "options": [
+    "It makes the speaker stand out and feel unique",
+    "It makes the speaker feel ordinary",
+    "It has no effect on how people see the speaker",
+    "It only matters at work"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 설명합니다."
+  },
+  {
+   "q": "How do people react when the speaker starts speaking Arabic with them?",
+   "options": [
+    "They are genuinely surprised and feel a warm connection",
+    "They become annoyed",
+    "They ignore the speaker",
+    "They ask the speaker to stop"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 설명합니다."
+  },
+  {
+   "q": "Does the speaker regret not studying Arabic earlier in life?",
+   "options": [
+    "Yes, the speaker wishes they had studied it at a younger age",
+    "No, the speaker is glad they waited",
+    "The speaker never wanted to learn Arabic",
+    "The speaker studied it as a child"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "stand out",
+   "ko": "돋보이다",
+   "note": "남들과 다르게 눈에 띈다는 뜻입니다."
+  },
+  {
+   "term": "genuinely surprised",
+   "ko": "정말로 놀란",
+   "note": "진심으로 놀랐다는 느낌을 강조합니다."
+  },
+  {
+   "term": "warmness and connection",
+   "ko": "따뜻함과 유대감",
+   "note": "사람 사이의 친밀한 느낌을 표현합니다."
+  },
+  {
+   "term": "at a younger age",
+   "ko": "더 어릴 때",
+   "note": "지금보다 이전 시기를 가리킵니다."
+  }
+ ]
+}

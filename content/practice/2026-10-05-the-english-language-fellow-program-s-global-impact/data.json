@@ -1,0 +1,535 @@
+{
+ "video_id": "o-292Kcdtuc",
+ "source_title": "English Language Fellow Program",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 30.27,
+  "end": 55.0
+ },
+ "sentences": [
+  {
+   "text": "The English Language Fellow program is one of the State Department's oldest and most effective public diplomacy programs.",
+   "chunks": [
+    {
+     "en": "The English Language Fellow program",
+     "ko": "English Language Fellow 프로그램은"
+    },
+    {
+     "en": "is one of the State Department's oldest",
+     "ko": "국무부에서 가장 오래되고"
+    },
+    {
+     "en": "and most effective public diplomacy programs.",
+     "ko": "가장 효과적인 공공 외교 프로그램 중 하나이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "English",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Language",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Fellow",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "program",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "State",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Department's",
+     "strong": true,
+     "link": false,
+     "syl": "PART"
+    },
+    {
+     "w": "oldest",
+     "strong": true,
+     "link": false,
+     "syl": "OLD"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "effective",
+     "strong": true,
+     "link": false,
+     "syl": "FEC"
+    },
+    {
+     "w": "public",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "diplomacy",
+     "strong": true,
+     "link": false,
+     "syl": "PLOM"
+    },
+    {
+     "w": "programs.",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    }
+   ],
+   "tip": "one of는 연음되어 '워너브'처럼 들립니다.",
+   "start": 30.27,
+   "end": 36.86
+  },
+  {
+   "text": "Since 1969, the program has sent thousands of teachers overseas.",
+   "chunks": [
+    {
+     "en": "Since 1969,",
+     "ko": "1969년 이래로"
+    },
+    {
+     "en": "the program has sent thousands of teachers",
+     "ko": "그 프로그램은 수천 명의 교사를 보냈다"
+    },
+    {
+     "en": "overseas.",
+     "ko": "해외로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1969,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "program",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sent",
+     "strong": true,
+     "link": false,
+     "syl": "SENT"
+    },
+    {
+     "w": "thousands",
+     "strong": true,
+     "link": true,
+     "syl": "THOU"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teachers",
+     "strong": true,
+     "link": false,
+     "syl": "TEACH"
+    },
+    {
+     "w": "overseas.",
+     "strong": true,
+     "link": false,
+     "syl": "SEAS"
+    }
+   ],
+   "tip": "thousands of는 연음되어 '싸우전저브'처럼 이어집니다.",
+   "start": 36.86,
+   "end": 41.86
+  },
+  {
+   "text": "Today, well over a hundred teachers per year travel to more than 80 countries all over the world.",
+   "chunks": [
+    {
+     "en": "Today, well over a hundred teachers per year",
+     "ko": "오늘날 매년 백 명이 훨씬 넘는 교사들이"
+    },
+    {
+     "en": "travel to more than 80 countries",
+     "ko": "80개국이 넘는 나라로 이동한다"
+    },
+    {
+     "en": "all over the world.",
+     "ko": "전 세계에 걸쳐"
+    }
+   ],
+   "words": [
+    {
+     "w": "Today,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hundred",
+     "strong": true,
+     "link": false,
+     "syl": "HUN"
+    },
+    {
+     "w": "teachers",
+     "strong": true,
+     "link": false,
+     "syl": "TEACH"
+    },
+    {
+     "w": "per",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "link": false,
+     "syl": "TRAV"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "80",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "countries",
+     "strong": true,
+     "link": false,
+     "syl": "COUN"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world.",
+     "strong": true,
+     "link": false,
+     "syl": "WORLD"
+    }
+   ],
+   "tip": "over a는 자음 다음에 모음이 와서 '오버러'처럼 연결됩니다.",
+   "start": 41.86,
+   "end": 48.51
+  },
+  {
+   "text": "Thanks to the English Language Fellow program, I became the Executive Director of one of the largest Fulbright commissions in the world.",
+   "chunks": [
+    {
+     "en": "Thanks to the English Language Fellow program,",
+     "ko": "영어 교육 펠로 프로그램 덕분에"
+    },
+    {
+     "en": "I became the Executive Director",
+     "ko": "나는 사무총장이 되었다"
+    },
+    {
+     "en": "of one of the largest Fulbright commissions",
+     "ko": "가장 큰 풀브라이트 위원회 중 한 곳의"
+    },
+    {
+     "en": "in the world.",
+     "ko": "세계에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Thanks",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "English",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Language",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Fellow",
+     "strong": true,
+     "link": false,
+     "syl": "Fel"
+    },
+    {
+     "w": "program,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "became",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Executive",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Director",
+     "strong": true,
+     "link": false,
+     "syl": "rec"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "largest",
+     "strong": true,
+     "link": false,
+     "syl": "lar"
+    },
+    {
+     "w": "Fulbright",
+     "strong": true,
+     "link": false,
+     "syl": "Ful"
+    },
+    {
+     "w": "commissions",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "became a, at a처럼 자음으로 끝나고 모음으로 시작하는 단어는 이어서 발음합니다.",
+   "start": 48.51,
+   "end": 55.0
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of program is the English Language Fellow program described as?",
+   "options": [
+    "One of the State Department's oldest and most effective public diplomacy programs",
+    "A private language school chain",
+    "A short summer camp for students"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 국무부의 가장 오래되고 효과적인 공공 외교 프로그램 중 하나라고 말한다."
+  },
+  {
+   "q": "Since what year has the program been sending teachers overseas?",
+   "options": [
+    "1969",
+    "1999",
+    "2009"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 1969년 이래로라고 말한다."
+  },
+  {
+   "q": "About how many teachers travel through the program each year, according to the segment?",
+   "options": [
+    "Well over a hundred",
+    "Around ten",
+    "Several thousand"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 매년 백 명이 훨씬 넘는다고 말한다."
+  },
+  {
+   "q": "How many countries does the program reach, according to the segment?",
+   "options": [
+    "More than 80 countries",
+    "Fewer than 10 countries",
+    "Exactly 50 countries"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 80개국이 넘는 나라로 이동한다고 말한다."
+  },
+  {
+   "q": "What did the speaker go on to do after taking part in the program?",
+   "options": [
+    "Become the Executive Director of a large Fulbright commission",
+    "Retire from teaching entirely",
+    "Open a small translation business"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 프로그램 덕분에 큰 국제 교류 기관의 책임자가 되었다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "public diplomacy",
+   "ko": "공공 외교",
+   "note": "문화·교육 교류를 통해 다른 나라와 관계를 맺는 외교 방식입니다."
+  },
+  {
+   "term": "well over",
+   "ko": "~을 훨씬 넘는",
+   "note": "well이 숫자 앞에 붙어 '훨씬'이라는 강조의 뜻을 더합니다."
+  },
+  {
+   "term": "thanks to",
+   "ko": "~덕분에",
+   "note": "긍정적인 결과의 이유를 말할 때 문장 앞에 씁니다."
+  },
+  {
+   "term": "exchange organization",
+   "ko": "교류 기관",
+   "note": "여러 나라 사람들이 서로 배우고 교류하도록 돕는 단체를 가리킵니다."
+  }
+ ]
+}

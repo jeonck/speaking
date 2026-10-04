@@ -1,0 +1,517 @@
+{
+ "video_id": "SAt0jnFefBk",
+ "source_title": "Travel Tip: Traveling with Large Electronics",
+ "source_channel": "TSA",
+ "segment": {
+  "start": 5.14,
+  "end": 27.03
+ },
+ "sentences": [
+  {
+   "text": "Are you heading out on a business trip soon?",
+   "chunks": [
+    {
+     "en": "Are you heading out",
+     "ko": "당신은 떠날 예정인가요"
+    },
+    {
+     "en": "on a business trip soon?",
+     "ko": "곧 출장을 가시나요?"
+    }
+   ],
+   "words": [
+    {
+     "w": "Are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heading",
+     "strong": true,
+     "link": true,
+     "syl": "HEAD"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "soon?",
+     "strong": true,
+     "link": false,
+     "syl": "soon"
+    }
+   ],
+   "tip": "heading out은 이어서 '헤딩아웃'처럼 발음돼요.",
+   "start": 5.14,
+   "end": 7.21
+  },
+  {
+   "text": "Or is your traveling companion a gamer?",
+   "chunks": [
+    {
+     "en": "Or is your traveling companion",
+     "ko": "아니면 당신의 여행 동반자가"
+    },
+    {
+     "en": "a gamer?",
+     "ko": "게이머인가요?"
+    }
+   ],
+   "words": [
+    {
+     "w": "Or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traveling",
+     "strong": true,
+     "link": false,
+     "syl": "TRA"
+    },
+    {
+     "w": "companion",
+     "strong": true,
+     "link": false,
+     "syl": "PAN"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gamer?",
+     "strong": true,
+     "link": false,
+     "syl": "GAME"
+    }
+   ],
+   "tip": "companion의 강세는 두 번째 음절 pan에 있어요.",
+   "start": 7.21,
+   "end": 10.38
+  },
+  {
+   "text": "Well, here are some helpful tips for our high-tech travelers to keep in mind while packing.",
+   "chunks": [
+    {
+     "en": "Well, here are some helpful tips",
+     "ko": "자, 여기 유용한 팁이 몇 가지 있습니다"
+    },
+    {
+     "en": "for our high-tech travelers",
+     "ko": "첨단 기기를 가진 여행자들을 위해"
+    },
+    {
+     "en": "to keep in mind while packing.",
+     "ko": "짐을 쌀 때 기억해 둘."
+    }
+   ],
+   "words": [
+    {
+     "w": "Well,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helpful",
+     "strong": true,
+     "link": false,
+     "syl": "HELP"
+    },
+    {
+     "w": "tips",
+     "strong": true,
+     "link": false,
+     "syl": "tips"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high-tech",
+     "strong": true,
+     "link": false,
+     "syl": "HIGH"
+    },
+    {
+     "w": "travelers",
+     "strong": true,
+     "link": false,
+     "syl": "TRA"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mind",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "while",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "packing.",
+     "strong": true,
+     "link": false,
+     "syl": "PACK"
+    }
+   ],
+   "tip": "keep in mind는 하나의 표현처럼 붙여서 말해요.",
+   "start": 10.38,
+   "end": 15.12
+  },
+  {
+   "text": "Under standard screening, all electronics larger than a cell phone must be removed from your bag and placed in a bin all by itself.",
+   "chunks": [
+    {
+     "en": "Under standard screening,",
+     "ko": "기본 보안 검색에서는,"
+    },
+    {
+     "en": "all electronics larger than a cell phone",
+     "ko": "휴대폰보다 큰 모든 전자기기는"
+    },
+    {
+     "en": "must be removed from your bag",
+     "ko": "가방에서 꺼내야 하며"
+    },
+    {
+     "en": "and placed in a bin all by itself.",
+     "ko": "바구니에 단독으로 넣어야 합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Under",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "standard",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "screening,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "electronics",
+     "strong": true,
+     "link": false,
+     "syl": "TRON"
+    },
+    {
+     "w": "larger",
+     "strong": true,
+     "link": false,
+     "syl": "LAR"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cell",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "must",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "removed",
+     "strong": true,
+     "link": true,
+     "syl": "MOVED"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bag",
+     "strong": true,
+     "link": false,
+     "syl": "bag"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "placed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bin",
+     "strong": true,
+     "link": false,
+     "syl": "bin"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "itself.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "removed from처럼 과거분사와 전치사는 이어서 발음해요.",
+   "start": 15.12,
+   "end": 22.79
+  },
+  {
+   "text": "This includes laptops, tablets, and hand-held game consoles.",
+   "chunks": [
+    {
+     "en": "This includes laptops, tablets,",
+     "ko": "여기에는 노트북, 태블릿,"
+    },
+    {
+     "en": "and hand-held game consoles.",
+     "ko": "그리고 휴대용 게임기가 포함됩니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "includes",
+     "strong": true,
+     "link": false,
+     "syl": "CLUDES"
+    },
+    {
+     "w": "laptops,",
+     "strong": true,
+     "link": false,
+     "syl": "LAP"
+    },
+    {
+     "w": "tablets,",
+     "strong": true,
+     "link": false,
+     "syl": "TAB"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hand-held",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "game",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "consoles.",
+     "strong": true,
+     "link": false,
+     "syl": "CON"
+    }
+   ],
+   "tip": "includes의 강세는 두 번째 음절 cludes에 있어요.",
+   "start": 22.79,
+   "end": 27.03
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the segment mainly about?",
+   "options": [
+    "Tips for packing electronics for airport screening",
+    "How to book a business trip",
+    "How to choose a travel companion"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 짐을 쌀 때 기억할 팁이라고 소개함."
+  },
+  {
+   "q": "What must travelers do with electronics larger than a cell phone?",
+   "options": [
+    "Remove them from the bag and place them in a bin by themselves",
+    "Keep them in a separate suitcase",
+    "Turn them off before boarding"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 가방에서 꺼내 바구니에 단독으로 넣어야 한다고 말함."
+  },
+  {
+   "q": "Which items does the segment mention as examples?",
+   "options": [
+    "Laptops, tablets, and hand-held game consoles",
+    "Cameras and watches",
+    "Chargers and headphones"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 노트북, 태블릿, 휴대용 게임기를 예로 듦."
+  },
+  {
+   "q": "Who are the tips aimed at?",
+   "options": [
+    "High-tech travelers packing electronics",
+    "New airport employees",
+    "Airline pilots"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 high-tech travelers를 위한 팁이라고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "heading out",
+   "ko": "출발하다, 떠나다",
+   "note": "are you heading out처럼 곧 떠날 예정이냐고 물을 때 써요."
+  },
+  {
+   "term": "keep in mind",
+   "ko": "명심하다, 유의하다",
+   "note": "짐을 쌀 때 기억해야 할 점을 소개할 때 자주 쓰여요."
+  },
+  {
+   "term": "screening",
+   "ko": "보안 검색",
+   "note": "공항에서 소지품을 검사하는 절차를 뜻해요."
+  },
+  {
+   "term": "all by itself",
+   "ko": "단독으로, 그것만 따로",
+   "note": "바구니에 전자기기만 따로 넣으라는 뜻으로 쓰였어요."
+  }
+ ]
+}

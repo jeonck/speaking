@@ -1,0 +1,532 @@
+{
+ "video_id": "jM_CLf-f5HE",
+ "source_title": "Language Lessons",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 82.65,
+  "end": 107.14
+ },
+ "sentences": [
+  {
+   "text": "By the end of the program, I would have full conversations with taxi drivers.",
+   "chunks": [
+    {
+     "en": "By the end of the program,",
+     "ko": "그 프로그램이 끝날 때쯤이면"
+    },
+    {
+     "en": "I would have full conversations",
+     "ko": "나는 완전한 대화를 나눌 수 있었다"
+    },
+    {
+     "en": "with taxi drivers.",
+     "ko": "택시 기사들과"
+    }
+   ],
+   "words": [
+    {
+     "w": "By",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "end",
+     "strong": true,
+     "link": true,
+     "syl": "END"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "program,",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "full",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "conversations",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taxi",
+     "strong": true,
+     "link": false,
+     "syl": "TAX"
+    },
+    {
+     "w": "drivers.",
+     "strong": true,
+     "link": false,
+     "syl": "DRI"
+    }
+   ],
+   "tip": "end of는 자음+모음이 이어져 '엔더브'처럼 연음됩니다.",
+   "start": 82.65,
+   "end": 87.05
+  },
+  {
+   "text": "The amount I just learned in taxi rides, let alone with my host family.",
+   "chunks": [
+    {
+     "en": "The amount I just learned",
+     "ko": "내가 막 배운 양은"
+    },
+    {
+     "en": "in taxi rides,",
+     "ko": "택시를 타고 다니면서"
+    },
+    {
+     "en": "let alone with my host family.",
+     "ko": "호스트 가족과 함께 지내며 배운 것은 말할 것도 없고"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amount",
+     "strong": true,
+     "link": false,
+     "syl": "MOUNT"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": true,
+     "syl": "LEARNED"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taxi",
+     "strong": true,
+     "link": false,
+     "syl": "TAX"
+    },
+    {
+     "w": "rides,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "alone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "host",
+     "strong": true,
+     "link": false,
+     "syl": "HOST"
+    },
+    {
+     "w": "family.",
+     "strong": true,
+     "link": false,
+     "syl": "FAM"
+    }
+   ],
+   "tip": "let alone는 '~은 말할 것도 없고'라는 뜻으로 앞 내용을 더 강조할 때 씁니다.",
+   "start": 87.05,
+   "end": 92.10119999999999
+  },
+  {
+   "text": "It's things that you can't learn from a textbook in America.",
+   "chunks": [
+    {
+     "en": "It's things that you can't learn",
+     "ko": "그것은 배울 수 없는 것들이다"
+    },
+    {
+     "en": "from a textbook in America.",
+     "ko": "미국의 교과서로는"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": true,
+     "link": false,
+     "syl": "THINGS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": true,
+     "link": false,
+     "syl": "CAN'T"
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": false,
+     "syl": "LEARN"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "textbook",
+     "strong": true,
+     "link": false,
+     "syl": "TEXT"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "America.",
+     "strong": true,
+     "link": false,
+     "syl": "MER"
+    }
+   ],
+   "tip": "from a는 자음과 모음이 이어져 '프러머'처럼 부드럽게 연결됩니다.",
+   "start": 92.10119999999999,
+   "end": 96.07
+  },
+  {
+   "text": "We can not only have this experience for ourselves, have a broader understanding of different cultures and an appreciation for them, but we can share that with the people around us.",
+   "chunks": [
+    {
+     "en": "We can not only have this experience for ourselves,",
+     "ko": "우리는 이 경험을 우리 자신을 위해 가질 뿐만 아니라"
+    },
+    {
+     "en": "have a broader understanding of different cultures",
+     "ko": "서로 다른 문화에 대한 더 넓은 이해를 갖고"
+    },
+    {
+     "en": "and an appreciation for them,",
+     "ko": "그것들에 대한 감사함도 가질 수 있지만"
+    },
+    {
+     "en": "but we can share that with the people around us.",
+     "ko": "우리는 그것을 주변 사람들과 나눌 수도 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experience",
+     "strong": true,
+     "link": false,
+     "syl": "PE"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ourselves,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "broader",
+     "strong": true,
+     "link": false,
+     "syl": "BROAD"
+    },
+    {
+     "w": "understanding",
+     "strong": true,
+     "link": false,
+     "syl": "STAND"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cultures",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "appreciation",
+     "strong": true,
+     "link": false,
+     "syl": "A"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "share",
+     "strong": true,
+     "link": false,
+     "syl": "SHARE"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "us.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "not only ~ but (also)는 상관접속사로, not only와 but 뒤 내용 모두에 강세를 둡니다.",
+   "start": 96.07,
+   "end": 107.14
+  }
+ ],
+ "questions": [
+  {
+   "q": "What helped the speaker learn conversational skills the most, according to the segment?",
+   "options": [
+    "Taking taxi rides and living with a host family",
+    "Studying a textbook every day",
+    "Watching American TV shows"
+   ],
+   "answer": 0,
+   "why": "택시 기사들과 호스트 가족과 지내며 많이 배웠다고 말한다."
+  },
+  {
+   "q": "By the end of the program, what could the speaker do?",
+   "options": [
+    "Have full conversations with taxi drivers",
+    "Translate textbooks professionally",
+    "Teach a language to tour guides"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 택시 기사들과 완전한 대화를 나눌 수 있었다고 말한다."
+  },
+  {
+   "q": "Where does the speaker say this kind of learning happens, as opposed to a classroom?",
+   "options": [
+    "In everyday situations like taxi rides, not from a textbook",
+    "Only in a formal lecture hall",
+    "Only from grammar books"
+   ],
+   "answer": 0,
+   "why": "교과서로는 배울 수 없는 것들이라고 말한다."
+  },
+  {
+   "q": "According to the speaker, what can a shared cross-cultural experience lead to?",
+   "options": [
+    "A broader understanding and appreciation of different cultures",
+    "A reason to avoid speaking with locals",
+    "A stricter classroom curriculum"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 서로 다른 문화에 대한 더 넓은 이해와 감사함을 가질 수 있다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "let alone",
+   "ko": "~은 말할 것도 없이",
+   "note": "앞의 내용보다 뒤의 내용이 더 당연함을 강조할 때 씁니다."
+  },
+  {
+   "term": "not only ... but (also)",
+   "ko": "~뿐만 아니라 ~도",
+   "note": "두 내용을 모두 강조해서 연결하는 상관접속사입니다."
+  },
+  {
+   "term": "appreciation for",
+   "ko": "~에 대한 감사(인식)",
+   "note": "appreciation 뒤에 for + 명사 형태로 자주 씁니다."
+  },
+  {
+   "term": "broader understanding",
+   "ko": "더 넓은 이해",
+   "note": "broad의 비교급 broader가 understanding을 수식합니다."
+  }
+ ]
+}

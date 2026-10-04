@@ -1,0 +1,521 @@
+{
+ "video_id": "Z7TURFbPyjY",
+ "source_title": "What kind of training does Peace Corps provide?",
+ "source_channel": "Peace Corps",
+ "segment": {
+  "start": 17.56,
+  "end": 41.72
+ },
+ "sentences": [
+  {
+   "text": "I was in a class with five other people and one language trainer, and we were in class at least six or seven hours a day, learning Wolof, learning the sentence structure, the grammar and the vocabulary.",
+   "chunks": [
+    {
+     "en": "I was in a class with five other people and one language trainer,",
+     "ko": "나는 다른 다섯 명과 언어 트레이너 한 명과 함께 수업을 들었고,"
+    },
+    {
+     "en": "and we were in class at least six or seven hours a day,",
+     "ko": "하루에 적어도 예닐곱 시간은 수업을 들었는데,"
+    },
+    {
+     "en": "learning Wolof, learning the sentence structure, the grammar and the vocabulary.",
+     "ko": "월로프어를 배우고, 문장 구조와 문법, 어휘를 배웠다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": true,
+     "link": false,
+     "syl": "FIVE"
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "language",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trainer,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "least",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "six",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seven",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "hours",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Wolof,",
+     "strong": true,
+     "link": false,
+     "syl": "WO"
+    },
+    {
+     "w": "learning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sentence",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "structure,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grammar",
+     "strong": true,
+     "link": false,
+     "syl": "GRAM"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vocabulary.",
+     "strong": true,
+     "link": false,
+     "syl": "CAB"
+    }
+   ],
+   "tip": "six or seven처럼 숫자 사이의 or는 약하게 이어 발음합니다.",
+   "start": 17.56,
+   "end": 29.089999999999996
+  },
+  {
+   "text": "We were also with our host families and host siblings, in the town where we trained, practicing our Wolof, and I was very, very impressed and very humbled by the people locally here, who were really, really patient with me.",
+   "chunks": [
+    {
+     "en": "We were also with our host families and host siblings,",
+     "ko": "우리는 또한 호스트 가족들과 호스트 형제자매들과 함께 지냈고,"
+    },
+    {
+     "en": "in the town where we trained, practicing our Wolof,",
+     "ko": "우리가 훈련받은 마을에서 월로프어를 연습하며,"
+    },
+    {
+     "en": "and I was very, very impressed and very humbled",
+     "ko": "나는 정말, 정말 감명받았고 매우 겸손해졌다"
+    },
+    {
+     "en": "by the people locally here, who were really, really patient with me.",
+     "ko": "이곳 현지 사람들에게, 그들은 나에게 정말, 정말 인내심 있게 대해주었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "host",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "families",
+     "strong": true,
+     "link": false,
+     "syl": "FAM"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "host",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "siblings,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "town",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trained,",
+     "strong": true,
+     "link": false,
+     "syl": "TRAINED"
+    },
+    {
+     "w": "practicing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Wolof,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "impressed",
+     "strong": true,
+     "link": true,
+     "syl": "PRESSED"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "humbled",
+     "strong": true,
+     "link": false,
+     "syl": "HUM"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "locally",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patient",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "very, very처럼 반복되는 강조어는 둘 다 힘주어 말합니다.",
+   "start": 29.089999999999996,
+   "end": 41.72
+  }
+ ],
+ "questions": [
+  {
+   "q": "How many hours a day did the speaker spend in language class?",
+   "options": [
+    "At least six or seven hours",
+    "Two or three hours",
+    "Ten hours"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 하루에 적어도 예닐곱 시간 수업을 들었다고 말한다."
+  },
+  {
+   "q": "What language was the speaker learning?",
+   "options": [
+    "Wolof",
+    "Farsi",
+    "Spanish"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 월로프어를 배우고 있다고 언급한다."
+  },
+  {
+   "q": "Who did the speaker practice Wolof with in town?",
+   "options": [
+    "Host families and host siblings",
+    "Other travelers",
+    "Online tutors"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 호스트 가족, 형제자매와 함께 지내며 연습했다고 한다."
+  },
+  {
+   "q": "How did the speaker feel about the local people?",
+   "options": [
+    "Impressed and humbled by their patience",
+    "Confused by their customs",
+    "Indifferent toward them"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 마지막에서 매우 감명받고 겸손해졌으며 그들이 정말 인내심 있었다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "language trainer",
+   "ko": "어학 트레이너, 강사",
+   "note": "training 과정에서 언어를 가르치는 담당자"
+  },
+  {
+   "term": "sentence structure",
+   "ko": "문장 구조",
+   "note": "문법 학습의 기본 요소"
+  },
+  {
+   "term": "host family",
+   "ko": "호스트 가족",
+   "note": "현지에서 함께 머무는 가정을 가리키는 표현"
+  },
+  {
+   "term": "humbled",
+   "ko": "겸손해진, 겸허해진",
+   "note": "impressed와 함께 쓰여 감사하고 겸허한 감정을 표현"
+  },
+  {
+   "term": "patient with someone",
+   "ko": "~에게 인내심을 갖다",
+   "note": "patient 뒤에 with + 사람을 붙여 쓴다"
+  }
+ ]
+}

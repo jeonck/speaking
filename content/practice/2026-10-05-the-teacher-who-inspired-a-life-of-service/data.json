@@ -1,0 +1,483 @@
+{
+ "video_id": "oVaOo2q0iWk",
+ "source_title": "Mariana & Blanca - Family and Friends",
+ "source_channel": "Peace Corps",
+ "segment": {
+  "start": 49.7,
+  "end": 75.23
+ },
+ "sentences": [
+  {
+   "text": "The impression that the volunteer made on me, who was my first English teacher, the one who taught me my first English words, good morning, good afternoon, good night, here is where I saw the most generosity in people to give, give, give.",
+   "chunks": [
+    {
+     "en": "The impression that the volunteer made on me,",
+     "ko": "그 봉사자가 나에게 남긴 인상은,"
+    },
+    {
+     "en": "who was my first English teacher, the one who taught me my first English words,",
+     "ko": "내 첫 영어 선생님이었고, 나에게 처음으로 영어 단어를 가르쳐준 바로 그 사람이었는데,"
+    },
+    {
+     "en": "good morning, good afternoon, good night,",
+     "ko": "굿모닝, 굿애프터눈, 굿나잇이라는 그 말들,"
+    },
+    {
+     "en": "here is where I saw the most generosity in people to give, give, give.",
+     "ko": "바로 거기서 나는 사람들이 아낌없이, 아낌없이, 아낌없이 베푸는 가장 큰 관대함을 보았다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "impression",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "volunteer",
+     "strong": true,
+     "link": false,
+     "syl": "TEER"
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "English",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teacher,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taught",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "English",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "words,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "afternoon,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saw",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "generosity",
+     "strong": true,
+     "link": false,
+     "syl": "ROS"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "give,",
+     "strong": true,
+     "link": false,
+     "syl": "GIVE"
+    },
+    {
+     "w": "give,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "give.",
+     "strong": true,
+     "link": false,
+     "syl": "GIVE"
+    }
+   ],
+   "tip": "give, give, give처럼 같은 단어가 반복될 때는 점점 힘주어 강조하듯 말해보세요.",
+   "start": 49.7,
+   "end": 65.94
+  },
+  {
+   "text": "So, I remembered my teacher; he inspired me very much with the desire of going into service.",
+   "chunks": [
+    {
+     "en": "So, I remembered my teacher;",
+     "ko": "그래서 나는 내 선생님을 떠올렸다;"
+    },
+    {
+     "en": "he inspired me very much",
+     "ko": "그는 나에게 아주 큰 영감을 주었고"
+    },
+    {
+     "en": "with the desire of going into service.",
+     "ko": "봉사의 길로 들어서고 싶다는 소망을 품게 했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "So,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remembered",
+     "strong": true,
+     "link": false,
+     "syl": "MEM"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teacher;",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inspired",
+     "strong": true,
+     "link": false,
+     "syl": "SPIRED"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "desire",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "service.",
+     "strong": true,
+     "link": false,
+     "syl": "SER"
+    }
+   ],
+   "tip": "desire of는 빠르게 '디자이러브'처럼 이어 발음됩니다.",
+   "start": 65.94,
+   "end": 72.25
+  },
+  {
+   "text": "That's why I would always encourage you.",
+   "chunks": [
+    {
+     "en": "That's why",
+     "ko": "그것이 바로 이유이다"
+    },
+    {
+     "en": "I would always encourage you.",
+     "ko": "내가 항상 당신을 격려하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "why",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "encourage",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "you.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "would always는 연음으로 자연스럽게 이어집니다.",
+   "start": 72.25,
+   "end": 75.23
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who was the speaker's first English teacher?",
+   "options": [
+    "A volunteer",
+    "A family member",
+    "A classmate"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 그 봉사자가 첫 영어 선생님이었다고 말한다."
+  },
+  {
+   "q": "What were among the first English words the speaker learned?",
+   "options": [
+    "Good morning, good afternoon, good night",
+    "Hello, goodbye, thank you",
+    "Please and thank you"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 굿모닝, 굿애프터눈, 굿나잇을 배웠다고 한다."
+  },
+  {
+   "q": "What quality did the speaker see most in people because of this teacher?",
+   "options": [
+    "Generosity",
+    "Patience",
+    "Curiosity"
+   ],
+   "answer": 0,
+   "why": "첫 문장 마지막 부분에서 사람들의 가장 큰 관대함을 보았다고 말한다."
+  },
+  {
+   "q": "What did the teacher inspire the speaker to do?",
+   "options": [
+    "Go into service",
+    "Become a teacher",
+    "Travel the world"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 봉사의 길로 들어서고 싶게 만들었다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "go into service",
+   "ko": "봉사의 길에 들어서다",
+   "note": "service는 여기서 자원봉사/공공 봉사를 의미"
+  },
+  {
+   "term": "generosity",
+   "ko": "관대함, 아낌없이 베푸는 마음",
+   "note": "give, give, give로 반복 강조된 핵심 단어"
+  },
+  {
+   "term": "encourage",
+   "ko": "격려하다, 용기를 북돋다",
+   "note": "뒤에 사람 목적어 + to부정사를 자주 동반"
+  },
+  {
+   "term": "impression",
+   "ko": "인상",
+   "note": "make an impression on someone = 누군가에게 인상을 남기다"
+  }
+ ]
+}

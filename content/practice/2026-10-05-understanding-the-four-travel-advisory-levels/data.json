@@ -1,0 +1,743 @@
+{
+ "video_id": "WmJQ1YKsvdc",
+ "source_title": "What is a Travel Advisory?",
+ "source_channel": "Travel.State.Gov",
+ "segment": {
+  "start": 21.27,
+  "end": 46.12
+ },
+ "sentences": [
+  {
+   "text": "Four levels of Travel Advisories describe potential risks and actions you can take to help ensure your safety.",
+   "chunks": [
+    {
+     "en": "Four levels of Travel Advisories",
+     "ko": "여행 권고에는 네 가지 단계가 있다"
+    },
+    {
+     "en": "describe potential risks and actions you can take",
+     "ko": "잠재적 위험과 취할 수 있는 조치를 설명한다"
+    },
+    {
+     "en": "to help ensure your safety.",
+     "ko": "당신의 안전을 지키는 데 도움이 되도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "Four",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "levels",
+     "strong": true,
+     "link": false,
+     "syl": "LEV"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Travel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Advisories",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "describe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "potential",
+     "strong": true,
+     "link": false,
+     "syl": "TEN"
+    },
+    {
+     "w": "risks",
+     "strong": true,
+     "link": true,
+     "syl": "RISKS"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actions",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ensure",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safety.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "risks and에서 s가 다음 모음과 연음됩니다.",
+   "start": 21.27,
+   "end": 26.75
+  },
+  {
+   "text": "Level 1: Exercise normal precautions.",
+   "chunks": [
+    {
+     "en": "Level 1:",
+     "ko": "레벨 1"
+    },
+    {
+     "en": "Exercise normal precautions.",
+     "ko": "평소와 같은 주의를 기울이세요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1:",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Exercise",
+     "strong": true,
+     "link": false,
+     "syl": "EX"
+    },
+    {
+     "w": "normal",
+     "strong": true,
+     "link": false,
+     "syl": "NOR"
+    },
+    {
+     "w": "precautions.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "Exercise는 EX에 강세가 있습니다.",
+   "start": 26.75,
+   "end": 28.059375
+  },
+  {
+   "text": "This is the lowest advisory level for safety and security risk.",
+   "chunks": [
+    {
+     "en": "This is the lowest advisory level",
+     "ko": "이것은 가장 낮은 권고 단계이다"
+    },
+    {
+     "en": "for safety and security risk.",
+     "ko": "안전과 보안 위험에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lowest",
+     "strong": true,
+     "link": false,
+     "syl": "LOW"
+    },
+    {
+     "w": "advisory",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safety",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "security",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "risk.",
+     "strong": true,
+     "link": false,
+     "syl": "RISK"
+    }
+   ],
+   "tip": "safety and에서 y 소리가 다음 모음과 이어집니다.",
+   "start": 28.059375,
+   "end": 30.94
+  },
+  {
+   "text": "Level 2: Exercise increased caution.",
+   "chunks": [
+    {
+     "en": "Level 2:",
+     "ko": "레벨 2"
+    },
+    {
+     "en": "Exercise increased caution.",
+     "ko": "더 주의를 기울이세요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2:",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Exercise",
+     "strong": true,
+     "link": false,
+     "syl": "EX"
+    },
+    {
+     "w": "increased",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "caution.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "increased와 caution 모두 강하게 발음됩니다.",
+   "start": 30.94,
+   "end": 32.26857142857143
+  },
+  {
+   "text": "Be aware of heightened risks to safety and security.",
+   "chunks": [
+    {
+     "en": "Be aware of heightened risks",
+     "ko": "고조된 위험을 알고 있어야 한다"
+    },
+    {
+     "en": "to safety and security.",
+     "ko": "안전과 보안에 대한"
+    }
+   ],
+   "words": [
+    {
+     "w": "Be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "aware",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heightened",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "risks",
+     "strong": true,
+     "link": false,
+     "syl": "RISKS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safety",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "security.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "safety and에서 연음이 일어납니다.",
+   "start": 32.26857142857143,
+   "end": 34.66
+  },
+  {
+   "text": "Level 3: Reconsider travel.",
+   "chunks": [
+    {
+     "en": "Level 3:",
+     "ko": "레벨 3"
+    },
+    {
+     "en": "Reconsider travel.",
+     "ko": "여행을 재고하세요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "3:",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Reconsider",
+     "strong": true,
+     "link": false,
+     "syl": "SID"
+    },
+    {
+     "w": "travel.",
+     "strong": true,
+     "link": false,
+     "syl": "TRAV"
+    }
+   ],
+   "tip": "Reconsider는 SID에 강세가 있습니다.",
+   "start": 34.66,
+   "end": 35.79142857142857
+  },
+  {
+   "text": "Avoid travel due to serious risks to safety and security.",
+   "chunks": [
+    {
+     "en": "Avoid travel due to serious risks",
+     "ko": "심각한 위험 때문에 여행을 피하세요"
+    },
+    {
+     "en": "to safety and security.",
+     "ko": "안전과 보안에 대한"
+    }
+   ],
+   "words": [
+    {
+     "w": "Avoid",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "link": false,
+     "syl": "TRAV"
+    },
+    {
+     "w": "due",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "serious",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "risks",
+     "strong": true,
+     "link": false,
+     "syl": "RISKS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safety",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "security.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "safety and에서 연음이 일어납니다.",
+   "start": 35.79142857142857,
+   "end": 38.62
+  },
+  {
+   "text": "Level 4: Do not travel.",
+   "chunks": [
+    {
+     "en": "Level 4:",
+     "ko": "레벨 4"
+    },
+    {
+     "en": "Do not travel.",
+     "ko": "여행하지 마세요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "4:",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "travel.",
+     "strong": true,
+     "link": false,
+     "syl": "TRAV"
+    }
+   ],
+   "tip": "not과 travel에 강세가 있습니다.",
+   "start": 38.62,
+   "end": 39.38944444444444
+  },
+  {
+   "text": "This is the highest advisory level due to greater likelihood of life-threatening risks.",
+   "chunks": [
+    {
+     "en": "This is the highest advisory level",
+     "ko": "이것은 가장 높은 권고 단계이다"
+    },
+    {
+     "en": "due to greater likelihood of life-threatening risks.",
+     "ko": "생명을 위협하는 위험의 가능성이 더 크기 때문에"
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "highest",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "advisory",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "due",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "greater",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "likelihood",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life-threatening",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "risks.",
+     "strong": true,
+     "link": false,
+     "syl": "RISKS"
+    }
+   ],
+   "tip": "likelihood는 LYK에 강세가 있고 한 단어처럼 빠르게 이어집니다.",
+   "start": 39.38944444444444,
+   "end": 41.39
+  },
+  {
+   "text": "At advisory levels 2-4 there are specific reasons for exercising extra caution.",
+   "chunks": [
+    {
+     "en": "At advisory levels 2-4",
+     "ko": "권고 단계 2에서 4까지는"
+    },
+    {
+     "en": "there are specific reasons",
+     "ko": "구체적인 이유들이 있다"
+    },
+    {
+     "en": "for exercising extra caution.",
+     "ko": "더 주의를 기울여야 하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "advisory",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "levels",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2-4",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "specific",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "reasons",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exercising",
+     "strong": true,
+     "link": false,
+     "syl": "EX"
+    },
+    {
+     "w": "extra",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "caution.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "there are에서 r이 다음 모음과 연음됩니다.",
+   "start": 41.39,
+   "end": 46.12
+  }
+ ],
+ "questions": [
+  {
+   "q": "How many levels do Travel Advisories have?",
+   "options": [
+    "Four",
+    "Three",
+    "Five",
+    "Two"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 언급됩니다."
+  },
+  {
+   "q": "What does Travel Advisory Level 1 mean?",
+   "options": [
+    "Exercise normal precautions",
+    "Reconsider travel",
+    "Do not travel",
+    "Exercise increased caution"
+   ],
+   "answer": 0,
+   "why": "Level 1을 설명하는 문장에서 확인할 수 있습니다."
+  },
+  {
+   "q": "What does Level 4 advise travelers to do?",
+   "options": [
+    "Do not travel",
+    "Exercise normal precautions",
+    "Exercise increased caution",
+    "Reconsider travel"
+   ],
+   "answer": 0,
+   "why": "Level 4를 설명하는 문장에서 확인할 수 있습니다."
+  },
+  {
+   "q": "At which advisory levels are there specific reasons for extra caution?",
+   "options": [
+    "Levels 2-4",
+    "Only level 1",
+    "Only level 4",
+    "All levels equally"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "exercise caution",
+   "ko": "주의를 기울이다",
+   "note": "안전을 위해 조심하라는 공식적인 표현입니다."
+  },
+  {
+   "term": "reconsider travel",
+   "ko": "여행을 재고하다",
+   "note": "계획을 다시 생각해보라는 경고성 표현입니다."
+  },
+  {
+   "term": "likelihood",
+   "ko": "가능성",
+   "note": "어떤 일이 일어날 확률을 뜻합니다."
+  },
+  {
+   "term": "advisory level",
+   "ko": "권고 단계",
+   "note": "위험도에 따라 나눈 여행 경고 등급입니다."
+  }
+ ]
+}

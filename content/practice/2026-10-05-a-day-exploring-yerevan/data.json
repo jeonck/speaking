@@ -1,0 +1,352 @@
+{
+ "video_id": "yNXox3cmoOc",
+ "source_title": "Armenia- Jim Daly- 2019 Peace Corps Week Video Challenge",
+ "source_channel": "Peace Corps",
+ "segment": {
+  "start": 75.01,
+  "end": 100.21
+ },
+ "sentences": [
+  {
+   "text": "After my lesson I like to check out local street vendors.",
+   "chunks": [
+    {
+     "en": "After my lesson",
+     "ko": "수업이 끝난 후에"
+    },
+    {
+     "en": "I like to check out",
+     "ko": "나는 둘러보는 것을 좋아한다"
+    },
+    {
+     "en": "local street vendors.",
+     "ko": "동네 길거리 상인들을."
+    }
+   ],
+   "words": [
+    {
+     "w": "After",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lesson",
+     "strong": true,
+     "link": false,
+     "syl": "LES"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "check",
+     "strong": true,
+     "link": true,
+     "syl": "check"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "street",
+     "strong": true,
+     "link": false,
+     "syl": "street"
+    },
+    {
+     "w": "vendors.",
+     "strong": true,
+     "link": false,
+     "syl": "VEN"
+    }
+   ],
+   "tip": "check out은 한 덩어리처럼 붙여서 '체카웃'으로 발음해요.",
+   "start": 75.01,
+   "end": 78.5
+  },
+  {
+   "text": "Yerevan attracts tourists from around the world.",
+   "chunks": [
+    {
+     "en": "Yerevan attracts tourists",
+     "ko": "예레반은 관광객을 끌어들인다"
+    },
+    {
+     "en": "from around the world.",
+     "ko": "전 세계로부터."
+    }
+   ],
+   "words": [
+    {
+     "w": "Yerevan",
+     "strong": true,
+     "link": false,
+     "syl": "YER"
+    },
+    {
+     "w": "attracts",
+     "strong": true,
+     "link": true,
+     "syl": "TRACTS"
+    },
+    {
+     "w": "tourists",
+     "strong": true,
+     "link": false,
+     "syl": "TOUR"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world.",
+     "strong": true,
+     "link": false,
+     "syl": "world"
+    }
+   ],
+   "tip": "attracts의 끝 -ts는 짧게 끊어서 발음해요.",
+   "start": 78.5,
+   "end": 85.18
+  },
+  {
+   "text": "Today, I played a game of chess with friends.",
+   "chunks": [
+    {
+     "en": "Today, I played a game of chess",
+     "ko": "오늘 나는 체스 게임을 했다"
+    },
+    {
+     "en": "with friends.",
+     "ko": "친구들과."
+    }
+   ],
+   "words": [
+    {
+     "w": "Today,",
+     "strong": true,
+     "link": false,
+     "syl": "TO"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "played",
+     "strong": true,
+     "link": false,
+     "syl": "played"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "game",
+     "strong": true,
+     "link": false,
+     "syl": "game"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "chess",
+     "strong": true,
+     "link": false,
+     "syl": "chess"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "game of에서 of는 약하게 '어'로 흘려 발음해요.",
+   "start": 85.18,
+   "end": 96.71
+  },
+  {
+   "text": "As an architect, I am particularly interested in Soviet-era architecture.",
+   "chunks": [
+    {
+     "en": "As an architect,",
+     "ko": "건축가로서,"
+    },
+    {
+     "en": "I am particularly interested",
+     "ko": "나는 특히 관심이 있다"
+    },
+    {
+     "en": "in Soviet-era architecture.",
+     "ko": "소비에트 시대 건축에."
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "architect,",
+     "strong": true,
+     "link": false,
+     "syl": "AR"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "am",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "particularly",
+     "strong": true,
+     "link": false,
+     "syl": "TIC"
+    },
+    {
+     "w": "interested",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Soviet-era",
+     "strong": true,
+     "link": false,
+     "syl": "SO"
+    },
+    {
+     "w": "architecture.",
+     "strong": true,
+     "link": false,
+     "syl": "AR"
+    }
+   ],
+   "tip": "particularly는 음절이 많으니 천천히 끊어서 연습해보세요.",
+   "start": 96.71,
+   "end": 100.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker like to do after their lesson?",
+   "options": [
+    "Check out local street vendors",
+    "Go to a museum",
+    "Take a nap"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 수업 후 동네 길거리 상인들을 둘러보는 것을 좋아한다고 말함."
+  },
+  {
+   "q": "What does Yerevan do, according to the segment?",
+   "options": [
+    "Attracts tourists from around the world",
+    "Produces most of the country's food",
+    "Has no public transportation"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 예레반이 전 세계에서 관광객을 끌어들인다고 말함."
+  },
+  {
+   "q": "What did the speaker do today?",
+   "options": [
+    "Played a game of chess with friends",
+    "Visited a museum",
+    "Went hiking"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 오늘 친구들과 체스를 뒀다고 말함."
+  },
+  {
+   "q": "What is the speaker especially interested in?",
+   "options": [
+    "Soviet-era architecture",
+    "Ancient pottery",
+    "Modern fashion"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 건축가로서 소비에트 시대 건축에 관심이 많다고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "check out",
+   "ko": "둘러보다, 구경하다",
+   "note": "여기서는 길거리 상인들을 구경하며 살펴본다는 뜻이에요."
+  },
+  {
+   "term": "attract",
+   "ko": "끌어들이다",
+   "note": "attracts tourists처럼 관광객을 끌어모은다는 뜻으로 쓰여요."
+  },
+  {
+   "term": "Soviet-era",
+   "ko": "소비에트 시대의",
+   "note": "특정 역사적 시기를 나타내는 형용사예요."
+  }
+ ]
+}

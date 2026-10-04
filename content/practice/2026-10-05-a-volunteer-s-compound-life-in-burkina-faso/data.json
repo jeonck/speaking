@@ -1,0 +1,611 @@
+{
+ "video_id": "1ZEzk1awIIA",
+ "source_title": "Calder - Volunteer Life",
+ "source_channel": "Peace Corps",
+ "segment": {
+  "start": 5.8,
+  "end": 36.68
+ },
+ "sentences": [
+  {
+   "text": "I found out I was going to Burkina Faso in May 2013.",
+   "chunks": [
+    {
+     "en": "I found out",
+     "ko": "나는 알게 되었다"
+    },
+    {
+     "en": "I was going to Burkina Faso",
+     "ko": "내가 부르키나파소에 가게 된다는 것을"
+    },
+    {
+     "en": "in May 2013.",
+     "ko": "2013년 5월에."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": true,
+     "link": false,
+     "syl": "found"
+    },
+    {
+     "w": "out",
+     "strong": true,
+     "link": true,
+     "syl": "out"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Burkina",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Faso",
+     "strong": true,
+     "link": false,
+     "syl": "FA"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "May",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2013.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "found out처럼 '동사+전치사'는 끊지 않고 이어서 빠르게 발음돼요.",
+   "start": 5.8,
+   "end": 9.141052631578948
+  },
+  {
+   "text": "I had never heard of Burkina Faso before then.",
+   "chunks": [
+    {
+     "en": "I had never heard of Burkina Faso",
+     "ko": "나는 부르키나파소에 대해 전혀 들어본 적이 없었다"
+    },
+    {
+     "en": "before then.",
+     "ko": "그 전에는."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "NEV"
+    },
+    {
+     "w": "heard",
+     "strong": true,
+     "link": true,
+     "syl": "heard"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Burkina",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Faso",
+     "strong": true,
+     "link": false,
+     "syl": "FA"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "heard of는 d와 of가 연음되어 '허더브'처럼 들려요.",
+   "start": 9.141052631578948,
+   "end": 11.7375
+  },
+  {
+   "text": "But I've always wanted to help others, I've wanted to travel, and I've wanted to learn languages to get that off of my bucket list.",
+   "chunks": [
+    {
+     "en": "But I've always wanted to help others,",
+     "ko": "하지만 나는 항상 다른 사람들을 돕고 싶었고,"
+    },
+    {
+     "en": "I've wanted to travel,",
+     "ko": "여행하고 싶었고,"
+    },
+    {
+     "en": "and I've wanted to learn languages",
+     "ko": "그리고 언어를 배우고 싶었다"
+    },
+    {
+     "en": "to get that off of my bucket list.",
+     "ko": "그것을 내 버킷리스트에서 지우기 위해서."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wanted",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": true,
+     "link": true,
+     "syl": "help"
+    },
+    {
+     "w": "others,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wanted",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel,",
+     "strong": true,
+     "link": false,
+     "syl": "TRA"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wanted",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": false,
+     "syl": "learn"
+    },
+    {
+     "w": "languages",
+     "strong": true,
+     "link": false,
+     "syl": "LAN"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bucket",
+     "strong": true,
+     "link": false,
+     "syl": "BUCK"
+    },
+    {
+     "w": "list.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "wanted to는 빠르게 말하면 '워너'처럼 들려요.",
+   "start": 11.7375,
+   "end": 20.76
+  },
+  {
+   "text": "I live in a compound with about 300 other people, and the whole compound, they share a last name.",
+   "chunks": [
+    {
+     "en": "I live in a compound",
+     "ko": "나는 한 공동 거주지에 살고 있다"
+    },
+    {
+     "en": "with about 300 other people,",
+     "ko": "다른 사람들 약 300명과 함께,"
+    },
+    {
+     "en": "and the whole compound, they share a last name.",
+     "ko": "그리고 그 공동체 전체가 성을 공유한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": true,
+     "syl": "live"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compound",
+     "strong": true,
+     "link": false,
+     "syl": "COM"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "300",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people,",
+     "strong": true,
+     "link": false,
+     "syl": "PEO"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whole",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compound,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "share",
+     "strong": true,
+     "link": false,
+     "syl": "share"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "name.",
+     "strong": true,
+     "link": false,
+     "syl": "name"
+    }
+   ],
+   "tip": "compound는 명사일 때 앞 음절에 강세가 와요 (CAHM-paund).",
+   "start": 20.76,
+   "end": 28.4275
+  },
+  {
+   "text": "But within that, there are individual family groupings, and they all work together as tiny communes.",
+   "chunks": [
+    {
+     "en": "But within that,",
+     "ko": "하지만 그 안에서는,"
+    },
+    {
+     "en": "there are individual family groupings,",
+     "ko": "개별 가족 단위들이 있고,"
+    },
+    {
+     "en": "and they all work together as tiny communes.",
+     "ko": "그들은 모두 작은 공동체처럼 함께 일한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "within",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "individual",
+     "strong": true,
+     "link": false,
+     "syl": "VID"
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "link": false,
+     "syl": "FAM"
+    },
+    {
+     "w": "groupings,",
+     "strong": true,
+     "link": false,
+     "syl": "GROUP"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tiny",
+     "strong": true,
+     "link": false,
+     "syl": "TI"
+    },
+    {
+     "w": "communes.",
+     "strong": true,
+     "link": false,
+     "syl": "COM"
+    }
+   ],
+   "tip": "family groupings처럼 명사가 겹칠 때는 뒤 명사에 강세가 와요.",
+   "start": 28.4275,
+   "end": 36.68
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker find out in May 2013?",
+   "options": [
+    "That they were going to Burkina Faso",
+    "That they had passed an exam",
+    "That they got a new job"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 2013년 5월에 부르키나파소에 가게 된다는 것을 알게 되었다고 말함."
+  },
+  {
+   "q": "Why did the speaker want to go abroad, according to the segment?",
+   "options": [
+    "To help others, travel, and learn languages",
+    "To study medicine",
+    "To visit relatives"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 돕고 싶었고, 여행하고 싶었고, 언어를 배우고 싶었다고 말함."
+  },
+  {
+   "q": "What do the people in the speaker's compound share?",
+   "options": [
+    "A last name",
+    "A job",
+    "A language school"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 공동체 전체가 성을 공유한다고 말함."
+  },
+  {
+   "q": "How does the speaker describe the family groupings within the compound?",
+   "options": [
+    "As tiny communes working together",
+    "As separate businesses",
+    "As rival households"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 그들이 작은 공동체처럼 함께 일한다고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "bucket list",
+   "ko": "버킷리스트",
+   "note": "off of my bucket list처럼 '목록에서 지우다'라는 뜻으로 자주 쓰여요."
+  },
+  {
+   "term": "compound",
+   "ko": "공동 거주 단지",
+   "note": "여기서는 여러 가족이 함께 사는 울타리 안 거주지를 뜻해요."
+  },
+  {
+   "term": "family groupings",
+   "ko": "가족 단위",
+   "note": "큰 공동체 안의 개별 가족 집단을 가리켜요."
+  },
+  {
+   "term": "communes",
+   "ko": "공동체",
+   "note": "생활이나 노동을 함께 나누는 작은 집단을 뜻해요."
+  }
+ ]
+}

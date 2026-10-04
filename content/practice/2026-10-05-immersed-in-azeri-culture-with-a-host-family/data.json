@@ -1,0 +1,594 @@
+{
+ "video_id": "HhEHPikm-CI",
+ "source_title": "What are examples of Peace Corps Volunteer housing?",
+ "source_channel": "Peace Corps",
+ "segment": {
+  "start": 63.73,
+  "end": 88.35
+ },
+ "sentences": [
+  {
+   "text": "Living with a host family has allowed me to learn so much about the Azeri culture.",
+   "chunks": [
+    {
+     "en": "Living with a host family",
+     "ko": "호스트 가족과 함께 살면서"
+    },
+    {
+     "en": "has allowed me to learn so much",
+     "ko": "나는 아주 많은 것을 배울 수 있었다"
+    },
+    {
+     "en": "about the Azeri culture.",
+     "ko": "아제리 문화에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Living",
+     "strong": true,
+     "link": false,
+     "syl": "LIV"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "host",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "link": false,
+     "syl": "FAM"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "allowed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": false,
+     "syl": "LEARN"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Azeri",
+     "strong": true,
+     "link": false,
+     "syl": "ZER"
+    },
+    {
+     "w": "culture.",
+     "strong": true,
+     "link": false,
+     "syl": "CUL"
+    }
+   ],
+   "tip": "family 뒤의 has는 약하게 흘려 발음합니다.",
+   "start": 63.73,
+   "end": 69.42888888888889
+  },
+  {
+   "text": "I think the best way to learn a language is definitely to be completely immersed in the culture and be surrounded by it all of the time.",
+   "chunks": [
+    {
+     "en": "I think the best way to learn a language",
+     "ko": "나는 언어를 배우는 가장 좋은 방법이"
+    },
+    {
+     "en": "is definitely to be completely immersed in the culture",
+     "ko": "그 문화에 완전히 몰입하는 것이라고 확실히 생각한다"
+    },
+    {
+     "en": "and be surrounded by it all of the time.",
+     "ko": "그리고 항상 그것에 둘러싸여 있는 것"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "link": false,
+     "syl": "BEST"
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "language",
+     "strong": true,
+     "link": false,
+     "syl": "LAN"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "definitely",
+     "strong": true,
+     "link": false,
+     "syl": "DEF"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "completely",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "immersed",
+     "strong": true,
+     "link": true,
+     "syl": "MERSED"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "culture",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surrounded",
+     "strong": true,
+     "link": false,
+     "syl": "ROUND"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "immersed in은 매끄럽게 이어서 발음합니다.",
+   "start": 69.42888888888889,
+   "end": 77.26
+  },
+  {
+   "text": "I've learned so much more Azeri since I've lived with a host family.",
+   "chunks": [
+    {
+     "en": "I've learned so much more Azeri",
+     "ko": "나는 아제리어를 훨씬 더 많이 배웠다"
+    },
+    {
+     "en": "since I've lived with a host family.",
+     "ko": "호스트 가족과 함께 살게 된 이후로"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": false,
+     "syl": "LEARNED"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": true,
+     "link": false,
+     "syl": "MORE"
+    },
+    {
+     "w": "Azeri",
+     "strong": true,
+     "link": false,
+     "syl": "ZER"
+    },
+    {
+     "w": "since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lived",
+     "strong": true,
+     "link": false,
+     "syl": "LIVED"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "host",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family.",
+     "strong": true,
+     "link": false,
+     "syl": "FAM"
+    }
+   ],
+   "tip": "I've처럼 축약형은 한 음절처럼 빠르게 발음합니다.",
+   "start": 77.26,
+   "end": 80.99058823529413
+  },
+  {
+   "text": "My host mother has really adopted me as her other son.",
+   "chunks": [
+    {
+     "en": "My host mother has really adopted me",
+     "ko": "내 호스트 어머니는 정말로 나를"
+    },
+    {
+     "en": "as her other son.",
+     "ko": "자신의 또 다른 아들처럼 받아들여 주셨다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "host",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mother",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "adopted",
+     "strong": true,
+     "link": false,
+     "syl": "DOPT"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "her",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "son.",
+     "strong": true,
+     "link": false,
+     "syl": "SON"
+    }
+   ],
+   "tip": "as her는 연음으로 이어서 발음합니다.",
+   "start": 80.99058823529413,
+   "end": 84.39666666666666
+  },
+  {
+   "text": "She always does everything she can to make me feel at home.",
+   "chunks": [
+    {
+     "en": "She always does everything she can",
+     "ko": "그녀는 항상 할 수 있는 모든 것을 다 하며"
+    },
+    {
+     "en": "to make me feel at home.",
+     "ko": "내가 집처럼 편안하게 느끼도록 해준다"
+    }
+   ],
+   "words": [
+    {
+     "w": "She",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": false,
+     "syl": "EV"
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": true,
+     "link": false,
+     "syl": "MAKE"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": true,
+     "syl": "FEEL"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false,
+     "syl": "HOME"
+    }
+   ],
+   "tip": "feel at home은 하나의 관용구처럼 리듬감 있게 이어 말합니다.",
+   "start": 84.39666666666666,
+   "end": 88.35
+  }
+ ],
+ "questions": [
+  {
+   "q": "What has living with a host family allowed the speaker to do?",
+   "options": [
+    "Learn so much about Azeri culture",
+    "Travel around the country for free",
+    "Avoid speaking English"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 호스트 가족과 살면서 아제리 문화에 대해 많이 배울 수 있었다고 한다."
+  },
+  {
+   "q": "According to the speaker, what is the best way to learn a language?",
+   "options": [
+    "To be completely immersed in the culture",
+    "To study grammar books",
+    "To watch movies only"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 문화에 완전히 몰입하는 것이 최고의 방법이라고 말한다."
+  },
+  {
+   "q": "How does the speaker describe their host mother's treatment of them?",
+   "options": [
+    "She adopted the speaker as her other son",
+    "She was very strict",
+    "She rarely spoke to the speaker"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 호스트 어머니가 자신을 또 다른 아들처럼 받아들였다고 말한다."
+  },
+  {
+   "q": "What does the host mother do to make the speaker feel at home?",
+   "options": [
+    "Everything she can",
+    "Nothing special",
+    "Only cook traditional meals"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 그녀가 할 수 있는 모든 것을 다 한다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "be immersed in",
+   "ko": "~에 몰입하다, 푹 빠지다",
+   "note": "언어 학습에서 자주 쓰이는 표현"
+  },
+  {
+   "term": "surrounded by",
+   "ko": "~에 둘러싸인",
+   "note": "환경적으로 노출되어 있다는 뜻"
+  },
+  {
+   "term": "host family",
+   "ko": "호스트 가족",
+   "note": "현지에서 함께 지내는 가정"
+  },
+  {
+   "term": "adopt someone as",
+   "ko": "~로 받아들이다",
+   "note": "가족처럼 받아들인다는 비유적 의미로도 쓰임"
+  },
+  {
+   "term": "feel at home",
+   "ko": "집처럼 편안하게 느끼다",
+   "note": "낯선 곳에서도 편안함을 느낀다는 관용구"
+  }
+ ]
+}
