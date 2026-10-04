@@ -5,7 +5,7 @@
     {{ partial "breadcrumbs.html" . }}
     <p class="practice-meta"><span class="pr-badge" data-list-count>실습 {{ len $pages }}개</span></p>
     <h1 class="home-title">실습 목록</h1>
-    <p class="home-lede">유튜브 구간마다 한 장씩, 최신 순서로 정리돼 있어요.</p>
+    <p class="home-lede">유튜브 구간마다 한 장씩 모았어요. 주제로 거르거나 짧은 구간부터 골라 보세요.</p>
   </header>
 
   {{- with site.Taxonomies.tags.ByCount }}
@@ -19,6 +19,14 @@
   {{- end }}
 
   {{- if $pages }}
+  {{- /* 정렬 — 스크립트가 있을 때만 보인다 */}}
+  <div class="list-toolbar" data-list-sort hidden>
+    <span class="list-topics-title">정렬</span>
+    <div class="pr-seg" role="group" aria-label="정렬">
+      <button type="button" class="pr-seg-btn" data-sort="date" aria-pressed="true">최신순</button>
+      <button type="button" class="pr-seg-btn" data-sort="duration" aria-pressed="false">짧은 구간부터</button>
+    </div>
+  </div>
   {{- /* 실습마다 오디오 파형 카드 한 장 */}}
   {{- partial "practice_cards.html" $pages }}
   {{- else }}
@@ -48,6 +56,24 @@
         c.setAttribute("aria-pressed", String(on));
       });
       if (badge) badge.textContent = tag ? "실습 " + shown + "개 / " + cards.length + "개" : "실습 " + cards.length + "개";
+    });
+  })();
+  /* 정렬: 처음 순서(최신순)를 기억해 두고, 짧은 구간부터는 길이로 다시 꽂는다 */
+  (function () {
+    var bar = document.querySelector("[data-list-sort]");
+    var list = document.querySelector(".practice-cards");
+    if (!bar || !list) return;
+    var original = Array.prototype.slice.call(list.children);
+    bar.hidden = false;
+    bar.addEventListener("click", function (e) {
+      var btn = e.target.closest("[data-sort]");
+      if (!btn) return;
+      var items = original.slice();
+      if (btn.dataset.sort === "duration") {
+        items.sort(function (a, b) { return a.dataset.duration - b.dataset.duration; });
+      }
+      items.forEach(function (li) { list.appendChild(li); });
+      bar.querySelectorAll("[data-sort]").forEach(function (b) { b.setAttribute("aria-pressed", String(b === btn)); });
     });
   })();
 </script>
