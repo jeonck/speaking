@@ -8,18 +8,24 @@
   {{- with .Data.Terms.ByCount }}
   {{- /* 주제마다 파스텔 구슬 카드 한 장 — 구슬 색은 순서대로 돌아간다 */}}
   <ul class="tag-cards">
-    {{- range . }}
+    {{- range $i, $t := . }}
     {{- $count := .Count }}
     {{- with .Page }}
+    {{- $secs := 0 }}{{ range .Pages }}{{ $secs = add $secs (.Params.duration | default 0) }}{{ end }}
     <li>
       <a class="tag-card" href="{{ .RelPermalink }}">
         <span class="tag-card-top">
           <span class="tag-card-name">{{ partial "tag_name.html" .Data.Term }}</span>
-          <span class="pr-badge">실습 {{ $count }}개</span>
+          <span class="tag-card-badges">
+            <span class="pr-badge">실습 {{ $count }}개</span>
+            {{- if $secs }}<span class="pr-badge">{{ $secs }}초</span>{{ end }}
+          </span>
         </span>
         <span class="tag-card-list">
           {{- range first 2 .Pages.ByDate.Reverse }}<span>{{ .Title }}</span>{{ end }}
         </span>
+        {{- /* 카드마다 다른 구간의 파형 — 같은 막대가 열다섯 번 되풀이되지 않게 */}}
+        <span class="tag-card-wave" aria-hidden="true">{{ partial "pr_wave.html" (dict "n" 28 "from" (mul $i 7)) }}</span>
       </a>
     </li>
     {{- end }}

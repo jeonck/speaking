@@ -780,7 +780,7 @@ body.list { background: var(--pr-desk); }
 .tag-cards li { margin: 0; }
 .tag-card {
   position: relative; isolation: isolate; overflow: clip; /* hidden은 내부 스크롤이 생겨 구슬 때문에 내용이 밀린다 */
-  display: flex; flex-direction: column; justify-content: space-between; gap: 1.5rem; min-height: 170px;
+  display: flex; flex-direction: column; gap: 1.1rem; min-height: 200px;
   padding: 1.35rem 1.4rem; border-radius: 20px; background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
   color: inherit; text-decoration: none; box-shadow: none; transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
@@ -797,6 +797,10 @@ body.list { background: var(--pr-desk); }
 .tag-card-top { display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem; }
 .tag-card-name { font-family: var(--pr-serif); font-size: 1.5rem; font-weight: 300; line-height: 1.15; letter-spacing: -0.02em; color: var(--primary); }
 .tag-card-list { display: flex; flex-direction: column; gap: 0.3rem; padding-top: 0.85rem; border-top: 1px solid var(--pr-rule); }
+.tag-card-badges { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.tag-card-wave { display: flex; align-items: center; justify-content: space-between; height: 28px; margin-top: auto; }
+.tag-card-wave span { flex: none; width: 2px; height: var(--h); border-radius: 9999px; background: var(--pr-rule-strong); transition: background 0.2s ease; }
+.tag-card:hover .tag-card-wave span { background: var(--pr-ink); }
 .tag-card-list span { font-size: 0.8125rem; line-height: 1.4; color: var(--pr-body); display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
 
 @media (max-width: 900px) { .tag-cards { grid-template-columns: repeat(3, 1fr); } }
@@ -811,6 +815,9 @@ body.list { background: var(--pr-desk); }
     radial-gradient(40% 50% at 65% 45%, var(--pr-orb-mint), transparent 70%);
 }
 .tag-others { margin-top: 4rem; }
+.tag-others + .tag-others { margin-top: 2.25rem; }
+/* 함께 붙은 주제 — 잉크 테두리로 한 단계 앞에 */
+.tag-chip.tag-chip--near { border-color: var(--primary); }
 .tag-others-title { margin: 0 0 1rem; font-size: 0.9375rem; font-weight: 600; color: var(--primary); }
 .tag-others-list { display: flex; flex-wrap: wrap; gap: 0.5rem; }
 .tag-chip {
