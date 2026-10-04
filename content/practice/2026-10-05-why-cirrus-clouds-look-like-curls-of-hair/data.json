@@ -1,0 +1,465 @@
+{
+ "video_id": "FMagDRCpJ14",
+ "source_title": "Weather 101: A Tutorial on Cloud Types",
+ "source_channel": "National Weather Service",
+ "segment": {
+  "start": 50.46,
+  "end": 75.41
+ },
+ "sentences": [
+  {
+   "text": "Cirrus clouds are high level clouds that typically form between 16,000 and 50,000 feet above the surface.",
+   "chunks": [
+    {
+     "en": "Cirrus clouds",
+     "ko": "권운(새털구름)은"
+    },
+    {
+     "en": "are high level clouds",
+     "ko": "고고도 구름인데"
+    },
+    {
+     "en": "that typically form",
+     "ko": "보통 형성된다"
+    },
+    {
+     "en": "between 16,000 and 50,000 feet",
+     "ko": "16,000피트에서 50,000피트 사이에서"
+    },
+    {
+     "en": "above the surface.",
+     "ko": "지표면 위쪽으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Cirrus",
+     "strong": true,
+     "link": false,
+     "syl": "CIR"
+    },
+    {
+     "w": "clouds",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high",
+     "strong": true,
+     "link": false,
+     "syl": "HIGH"
+    },
+    {
+     "w": "level",
+     "strong": true,
+     "link": false,
+     "syl": "LEV"
+    },
+    {
+     "w": "clouds",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "typically",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "form",
+     "strong": true,
+     "link": false,
+     "syl": "FORM"
+    },
+    {
+     "w": "between",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "16,000",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "50,000",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feet",
+     "strong": true,
+     "link": true,
+     "syl": "FEET"
+    },
+    {
+     "w": "above",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surface.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "clouds are, feet above처럼 자음에서 모음으로 자연스럽게 이어집니다.",
+   "start": 50.46,
+   "end": 59.14
+  },
+  {
+   "text": "The Latin word 'cirro' means curl of hair.",
+   "chunks": [
+    {
+     "en": "The Latin word 'cirro'",
+     "ko": "라틴어 단어 'cirro'는"
+    },
+    {
+     "en": "means curl of hair.",
+     "ko": "머리카락의 곱슬을 의미한다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Latin",
+     "strong": true,
+     "link": false,
+     "syl": "LAT"
+    },
+    {
+     "w": "word",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "'cirro'",
+     "strong": true,
+     "link": false,
+     "syl": "CIR"
+    },
+    {
+     "w": "means",
+     "strong": true,
+     "link": false,
+     "syl": "MEANS"
+    },
+    {
+     "w": "curl",
+     "strong": true,
+     "link": true,
+     "syl": "CURL"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hair.",
+     "strong": true,
+     "link": false,
+     "syl": "HAIR"
+    }
+   ],
+   "tip": "curl of처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 59.14,
+   "end": 63.11
+  },
+  {
+   "text": "Many times cirrus clouds can mimic curls of hair due to the thin, wispy structure they exhibit.",
+   "chunks": [
+    {
+     "en": "Many times",
+     "ko": "여러 번"
+    },
+    {
+     "en": "cirrus clouds can mimic curls of hair",
+     "ko": "권운은 머리카락의 곱슬을 닮을 수 있는데"
+    },
+    {
+     "en": "due to the thin, wispy structure",
+     "ko": "그것들이 지닌 얇고 하늘하늘한 구조 때문에"
+    },
+    {
+     "en": "they exhibit.",
+     "ko": "그것들이 보여주는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "times",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cirrus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clouds",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mimic",
+     "strong": true,
+     "link": false,
+     "syl": "MIM"
+    },
+    {
+     "w": "curls",
+     "strong": true,
+     "link": true,
+     "syl": "CURLS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hair",
+     "strong": true,
+     "link": false,
+     "syl": "HAIR"
+    },
+    {
+     "w": "due",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thin,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wispy",
+     "strong": true,
+     "link": false,
+     "syl": "WIS"
+    },
+    {
+     "w": "structure",
+     "strong": true,
+     "link": false,
+     "syl": "STRUC"
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exhibit.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "curls of처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 63.11,
+   "end": 69.61
+  },
+  {
+   "text": "'Cirro' can also be used as a prefix to describe high level clouds.",
+   "chunks": [
+    {
+     "en": "'Cirro' can also be used",
+     "ko": "'cirro'는 또한 사용될 수 있다"
+    },
+    {
+     "en": "as a prefix",
+     "ko": "접두사로"
+    },
+    {
+     "en": "to describe high level clouds.",
+     "ko": "고고도 구름을 나타내기 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "'Cirro'",
+     "strong": true,
+     "link": false,
+     "syl": "CIR"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": true,
+     "link": true,
+     "syl": "USED"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prefix",
+     "strong": true,
+     "link": false,
+     "syl": "PRE"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "describe",
+     "strong": true,
+     "link": false,
+     "syl": "SCRIBE"
+    },
+    {
+     "w": "high",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clouds.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "used as a처럼 약한 음절은 빠르게 이어서 발음하세요.",
+   "start": 69.61,
+   "end": 75.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "How high above the surface do cirrus clouds typically form?",
+   "options": [
+    "Between 16,000 and 50,000 feet",
+    "Between 1,000 and 5,000 feet",
+    "Between 50,000 and 100,000 feet"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 권운은 지표면 위 16,000피트에서 50,000피트 사이에서 형성된다고 말합니다."
+  },
+  {
+   "q": "What does the Latin word 'cirro' mean?",
+   "options": [
+    "Curl of hair",
+    "Cold air",
+    "High cloud"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 라틴어 'cirro'는 머리카락의 곱슬을 의미한다고 설명합니다."
+  },
+  {
+   "q": "Why can cirrus clouds mimic curls of hair?",
+   "options": [
+    "Because of their thin, wispy structure",
+    "Because they are very dark",
+    "Because they move very fast"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 얇고 하늘하늘한 구조 때문에 머리카락의 곱슬을 닮을 수 있다고 설명합니다."
+  },
+  {
+   "q": "How is 'cirro' also used, according to the segment?",
+   "options": [
+    "As a prefix to describe high level clouds",
+    "As a unit of measurement for altitude",
+    "As the name of a specific storm"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 'cirro'는 고고도 구름을 나타내는 접두사로도 쓰인다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "cirrus clouds",
+   "ko": "권운(새털구름)",
+   "note": "높은 고도에서 생기는 가늘고 흰 구름이에요."
+  },
+  {
+   "term": "curl of hair",
+   "ko": "머리카락의 곱슬",
+   "note": "곱슬곱슬하게 말린 머리카락 모양을 뜻해요."
+  },
+  {
+   "term": "wispy",
+   "ko": "하늘하늘한, 가느다란",
+   "note": "가볍고 성긴 느낌을 묘사할 때 써요."
+  },
+  {
+   "term": "prefix",
+   "ko": "접두사",
+   "note": "단어 앞에 붙어 의미를 더하는 부분이에요."
+  }
+ ]
+}

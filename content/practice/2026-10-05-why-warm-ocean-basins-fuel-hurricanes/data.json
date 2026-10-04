@@ -1,0 +1,322 @@
+{
+ "video_id": "6vgvTeuoDWY",
+ "source_title": "NASA | The Ocean: A Driving Force for Weather and Climate",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 243.43,
+  "end": 271.81
+ },
+ "sentences": [
+  {
+   "text": "Tropical ocean basins like the Caribbean and the Gulf of Mexico retain substantial heat, making these regions favorable for rapid storm intensification.",
+   "chunks": [
+    {
+     "en": "Tropical ocean basins",
+     "ko": "열대 해양 분지는"
+    },
+    {
+     "en": "like the Caribbean and the Gulf of Mexico",
+     "ko": "카리브해와 멕시코만 같은"
+    },
+    {
+     "en": "retain substantial heat,",
+     "ko": "상당한 열을 보유해서,"
+    },
+    {
+     "en": "making these regions favorable for",
+     "ko": "이 지역들을 유리하게 만든다"
+    },
+    {
+     "en": "rapid storm intensification.",
+     "ko": "급속한 폭풍 강화에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Tropical",
+     "strong": true,
+     "link": true,
+     "syl": "TROP"
+    },
+    {
+     "w": "ocean",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basins",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Caribbean",
+     "strong": true,
+     "link": false,
+     "syl": "BE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Gulf",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mexico",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "retain",
+     "strong": true,
+     "link": false,
+     "syl": "TAIN"
+    },
+    {
+     "w": "substantial",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heat,",
+     "strong": true,
+     "link": false,
+     "syl": "HEAT"
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "regions",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorable",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rapid",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "intensification.",
+     "strong": true,
+     "link": false,
+     "syl": "CA"
+    }
+   ],
+   "tip": "Tropical ocean, Gulf of처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 243.43,
+   "end": 259.68
+  },
+  {
+   "text": "By extracting large amounts of heat from the ocean, storms can become massive and destructive hurricanes.",
+   "chunks": [
+    {
+     "en": "By extracting large amounts of heat",
+     "ko": "많은 양의 열을 추출함으로써"
+    },
+    {
+     "en": "from the ocean,",
+     "ko": "바다로부터,"
+    },
+    {
+     "en": "storms can become massive and destructive hurricanes.",
+     "ko": "폭풍은 거대하고 파괴적인 허리케인이 될 수 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "By",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "extracting",
+     "strong": true,
+     "link": false,
+     "syl": "TRACT"
+    },
+    {
+     "w": "large",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amounts",
+     "strong": true,
+     "link": true,
+     "syl": "MOUNTS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heat",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ocean,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storms",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "massive",
+     "strong": true,
+     "link": true,
+     "syl": "MAS"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "destructive",
+     "strong": true,
+     "link": false,
+     "syl": "STRUC"
+    },
+    {
+     "w": "hurricanes.",
+     "strong": true,
+     "link": false,
+     "syl": "HUR"
+    }
+   ],
+   "tip": "amounts of, massive and처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 259.68,
+   "end": 271.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which ocean basins does the segment mention as retaining substantial heat?",
+   "options": [
+    "The Caribbean and the Gulf of Mexico",
+    "The Arctic Ocean and the Baltic Sea",
+    "The Mediterranean and the Black Sea"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 카리브해와 멕시코만 같은 열대 해양 분지가 상당한 열을 보유한다고 말합니다."
+  },
+  {
+   "q": "Why are these regions favorable for rapid storm intensification?",
+   "options": [
+    "Because they retain substantial heat",
+    "Because they have very cold water",
+    "Because they are far from the equator"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 상당한 열을 보유하기 때문에 급속한 폭풍 강화에 유리하다고 설명합니다."
+  },
+  {
+   "q": "What happens when storms extract large amounts of heat from the ocean?",
+   "options": [
+    "They can become massive, destructive hurricanes",
+    "They weaken and dissipate quickly",
+    "They turn into gentle rain showers"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 바다에서 많은 열을 추출하면 폭풍이 거대하고 파괴적인 허리케인이 될 수 있다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "ocean basin",
+   "ko": "해양 분지",
+   "note": "바닷물이 모여 있는 넓은 저지대 지역을 뜻해요."
+  },
+  {
+   "term": "retain",
+   "ko": "보유하다, 유지하다",
+   "note": "열이나 수분 등을 잃지 않고 간직한다는 뜻이에요."
+  },
+  {
+   "term": "favorable for",
+   "ko": "~에 유리한",
+   "note": "어떤 일이 일어나기 좋은 조건을 설명할 때 써요."
+  },
+  {
+   "term": "intensification",
+   "ko": "강화, 심화",
+   "note": "폭풍 등이 더 강력해지는 과정을 가리켜요."
+  },
+  {
+   "term": "extracting",
+   "ko": "추출하는, 뽑아내는",
+   "note": "무언가에서 열이나 자원을 뽑아낸다는 의미예요."
+  }
+ ]
+}

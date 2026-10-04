@@ -1,0 +1,475 @@
+{
+ "video_id": "_AW4e9JZTXA",
+ "source_title": "Gain a Competitive Edge: Learn Hindi in India!",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 7.14,
+  "end": 31.94
+ },
+ "sentences": [
+  {
+   "text": "I participated in CLS Hindi in India in 2012 and 2013.",
+   "chunks": [
+    {
+     "en": "I participated in CLS Hindi",
+     "ko": "저는 CLS 힌디어 프로그램에 참여했습니다"
+    },
+    {
+     "en": "in India in 2012 and 2013.",
+     "ko": "2012년과 2013년에 인도에서요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "participated",
+     "strong": true,
+     "link": false,
+     "syl": "TIC"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "CLS",
+     "strong": true,
+     "link": false,
+     "syl": "CLS"
+    },
+    {
+     "w": "Hindi",
+     "strong": true,
+     "link": false,
+     "syl": "HIN"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "India",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "2012",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2013.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "participated, CLS, Hindi, India에 강세를 주고 in India처럼 전치사는 뒤 모음과 이어 읽으세요.",
+   "start": 7.14,
+   "end": 12.73
+  },
+  {
+   "text": "The Critical Language Scholarship is a fully funded U.S. Department of State program.",
+   "chunks": [
+    {
+     "en": "The Critical Language Scholarship",
+     "ko": "크리티컬 랭귀지 스칼라십(CLS)은"
+    },
+    {
+     "en": "is a fully funded U.S. Department of State program.",
+     "ko": "미국 국무부가 전액 지원하는 프로그램입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Critical",
+     "strong": true,
+     "link": false,
+     "syl": "CRIT"
+    },
+    {
+     "w": "Language",
+     "strong": true,
+     "link": false,
+     "syl": "LAN"
+    },
+    {
+     "w": "Scholarship",
+     "strong": true,
+     "link": false,
+     "syl": "SCHOL"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fully",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "funded",
+     "strong": true,
+     "link": false,
+     "syl": "FUND"
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Department",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "State",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "program.",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    }
+   ],
+   "tip": "Critical, Language, Scholarship, funded, program에 강세를 주세요.",
+   "start": 12.73,
+   "end": 17.79
+  },
+  {
+   "text": "And allows students from all over the U.S., graduate and undergrad, to attentively study languages and immerse themselves in culture in their host country.",
+   "chunks": [
+    {
+     "en": "And allows students from all over the U.S.,",
+     "ko": "그리고 미국 전역의 학생들이 참여할 수 있는데,"
+    },
+    {
+     "en": "graduate and undergrad,",
+     "ko": "대학원생과 학부생 모두 포함해서,"
+    },
+    {
+     "en": "to attentively study languages and immerse themselves in culture in their host country.",
+     "ko": "언어를 집중해서 공부하고 현지 문화에 몰입하도록 해줍니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "allows",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": true,
+     "link": false,
+     "syl": "STU"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "graduate",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "undergrad,",
+     "strong": true,
+     "link": false,
+     "syl": "GRAD"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "attentively",
+     "strong": true,
+     "link": false,
+     "syl": "TEN"
+    },
+    {
+     "w": "study",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "languages",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "immerse",
+     "strong": true,
+     "link": false,
+     "syl": "MERSE"
+    },
+    {
+     "w": "themselves",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "culture",
+     "strong": true,
+     "link": false,
+     "syl": "CUL"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "host",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "country.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "students, undergrad, attentively, immerse, culture에 강세를 주고 all over는 이어서 읽으세요.",
+   "start": 17.79,
+   "end": 26.74
+  },
+  {
+   "text": "Starting the Critical Language Scholarship, I started as a mid-novice or mid-beginner.",
+   "chunks": [
+    {
+     "en": "Starting the Critical Language Scholarship,",
+     "ko": "CLS를 시작할 당시,"
+    },
+    {
+     "en": "I started as a mid-novice or mid-beginner.",
+     "ko": "저는 초급에 가까운 초보자 수준이었습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Starting",
+     "strong": true,
+     "link": false,
+     "syl": "START"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Critical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Language",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Scholarship,",
+     "strong": true,
+     "link": false,
+     "syl": "SCHOL"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "START"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mid-novice",
+     "strong": true,
+     "link": false,
+     "syl": "NOV"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mid-beginner.",
+     "strong": true,
+     "link": false,
+     "syl": "GIN"
+    }
+   ],
+   "tip": "Starting, Scholarship, started, mid-novice, mid-beginner에 강세를 주세요.",
+   "start": 26.74,
+   "end": 31.94
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the Critical Language Scholarship?",
+   "options": [
+    "A fully funded U.S. Department of State program",
+    "A private tutoring company",
+    "A university degree"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 미국 국무부가 전액 지원하는 프로그램이라고 설명합니다."
+  },
+  {
+   "q": "Who can apply for the program, according to the segment?",
+   "options": [
+    "Only graduate students",
+    "Only undergraduate students",
+    "Both graduate and undergraduate students"
+   ],
+   "answer": 2,
+   "why": "세 번째 문장에서 대학원생과 학부생 모두 포함된다고 말합니다."
+  },
+  {
+   "q": "What level did the speaker start at?",
+   "options": [
+    "Advanced",
+    "Mid-novice or mid-beginner",
+    "Native speaker"
+   ],
+   "answer": 1,
+   "why": "마지막 문장에서 초급에 가까운 수준으로 시작했다고 말합니다."
+  },
+  {
+   "q": "Besides studying language, what else does the program help students do?",
+   "options": [
+    "Immerse themselves in the host country's culture",
+    "Find a job abroad",
+    "Get a visa faster"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 현지 문화에 몰입하도록 돕는다고 했습니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fully funded",
+   "ko": "전액 지원되는",
+   "note": "비용 전부를 지원받는다는 뜻입니다."
+  },
+  {
+   "term": "Department of State",
+   "ko": "미국 국무부",
+   "note": "미국의 외교 업무를 담당하는 정부 부처입니다."
+  },
+  {
+   "term": "graduate and undergrad",
+   "ko": "대학원생과 학부생",
+   "note": "학위 과정의 두 단계를 가리킵니다."
+  },
+  {
+   "term": "immerse themselves in",
+   "ko": "~에 몰입하다",
+   "note": "어떤 환경에 깊이 빠져드는 것을 뜻합니다."
+  },
+  {
+   "term": "mid-novice",
+   "ko": "초급 수준",
+   "note": "초보보다 조금 나은 초기 단계를 말합니다."
+  }
+ ]
+}

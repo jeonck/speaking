@@ -1,0 +1,633 @@
+{
+ "video_id": "JqX1_ZPPVS8",
+ "source_title": "Pennsylvania Snow Squall Public Safety Message",
+ "source_channel": "National Weather Service",
+ "segment": {
+  "start": 152.15,
+  "end": 176.76
+ },
+ "sentences": [
+  {
+   "text": "If you do find yourself still on a highway during a snow squall, here are some safety tips to follow.",
+   "chunks": [
+    {
+     "en": "If you do find yourself still on a highway during a snow squall,",
+     "ko": "혹시 눈보라 속에서도 여전히 고속도로에 있다면,"
+    },
+    {
+     "en": "here are some safety tips to follow.",
+     "ko": "여기 따라야 할 안전 수칙들이 있습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": true,
+     "link": true,
+     "syl": "FIND"
+    },
+    {
+     "w": "yourself",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "highway",
+     "strong": true,
+     "link": false,
+     "syl": "HIGH"
+    },
+    {
+     "w": "during",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "snow",
+     "strong": true,
+     "link": false,
+     "syl": "SNOW"
+    },
+    {
+     "w": "squall,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safety",
+     "strong": true,
+     "link": false,
+     "syl": "SAFE"
+    },
+    {
+     "w": "tips",
+     "strong": true,
+     "link": false,
+     "syl": "TIPS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "follow.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "highway, snow, safety, tips 같은 핵심 단어에 강세를 주고 on a, during a는 가볍게 이어서 읽으세요.",
+   "start": 152.15,
+   "end": 157.81
+  },
+  {
+   "text": "Avoid slamming on your brakes.",
+   "chunks": [
+    {
+     "en": "Avoid slamming on your brakes.",
+     "ko": "브레이크를 급하게 밟지 마세요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Avoid",
+     "strong": true,
+     "link": false,
+     "syl": "VOID"
+    },
+    {
+     "w": "slamming",
+     "strong": true,
+     "link": true,
+     "syl": "SLAM"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brakes.",
+     "strong": true,
+     "link": false,
+     "syl": "BRAKES"
+    }
+   ],
+   "tip": "Avoid와 brakes에 강세를 주며 짧고 단호하게 읽으세요.",
+   "start": 157.81,
+   "end": 159.45
+  },
+  {
+   "text": "Instead, slow down gradually to avoid spinning out, or having others hit you from behind.",
+   "chunks": [
+    {
+     "en": "Instead, slow down gradually",
+     "ko": "대신, 천천히 속도를 줄여서"
+    },
+    {
+     "en": "to avoid spinning out,",
+     "ko": "미끄러지는 것을 피하고,"
+    },
+    {
+     "en": "or having others hit you from behind.",
+     "ko": "또는 뒤에서 다른 차가 들이받는 것을 피하세요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Instead,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "slow",
+     "strong": true,
+     "link": false,
+     "syl": "SLOW"
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gradually",
+     "strong": true,
+     "link": false,
+     "syl": "GRAD"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "avoid",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spinning",
+     "strong": true,
+     "link": true,
+     "syl": "SPIN"
+    },
+    {
+     "w": "out,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "having",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "others",
+     "strong": true,
+     "link": false,
+     "syl": "OTH"
+    },
+    {
+     "w": "hit",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "behind.",
+     "strong": true,
+     "link": false,
+     "syl": "HIND"
+    }
+   ],
+   "tip": "spinning out은 ng 소리를 다음 모음과 이어서 부드럽게 읽으세요.",
+   "start": 159.45,
+   "end": 163.66
+  },
+  {
+   "text": "Turn on your hazard lights to help others see you on the roadway.",
+   "chunks": [
+    {
+     "en": "Turn on your hazard lights",
+     "ko": "비상등을 켜서"
+    },
+    {
+     "en": "to help others see you on the roadway.",
+     "ko": "도로 위의 다른 사람들이 당신을 볼 수 있도록 하세요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Turn",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hazard",
+     "strong": true,
+     "link": false,
+     "syl": "HAZ"
+    },
+    {
+     "w": "lights",
+     "strong": true,
+     "link": false,
+     "syl": "LIGHTS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "others",
+     "strong": true,
+     "link": false,
+     "syl": "OTH"
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roadway.",
+     "strong": true,
+     "link": false,
+     "syl": "ROAD"
+    }
+   ],
+   "tip": "Turn on은 이어 읽고 hazard, lights, roadway에서 강세를 주세요.",
+   "start": 163.66,
+   "end": 167.14111111111112
+  },
+  {
+   "text": "And turn on your headlights to not only help you see, but also to help others see you.",
+   "chunks": [
+    {
+     "en": "And turn on your headlights",
+     "ko": "그리고 전조등도 켜서"
+    },
+    {
+     "en": "to not only help you see,",
+     "ko": "당신이 보는 것을 도울 뿐만 아니라"
+    },
+    {
+     "en": "but also to help others see you.",
+     "ko": "다른 사람들이 당신을 보는 것도 도와줍니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turn",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "headlights",
+     "strong": true,
+     "link": false,
+     "syl": "HEAD"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false,
+     "syl": "NOT"
+    },
+    {
+     "w": "only",
+     "strong": true,
+     "link": false,
+     "syl": "ON"
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": true,
+     "link": false,
+     "syl": "AL"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "others",
+     "strong": true,
+     "link": false,
+     "syl": "OTH"
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "not only... but also 구조에서 not과 also에 강하게 강세를 주세요.",
+   "start": 167.14111111111112,
+   "end": 172.07
+  },
+  {
+   "text": "As long as you can safely do so, stay in your lane.",
+   "chunks": [
+    {
+     "en": "As long as you can safely do so,",
+     "ko": "안전하게 할 수 있는 한,"
+    },
+    {
+     "en": "stay in your lane.",
+     "ko": "차선을 유지하세요."
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "link": false,
+     "syl": "LONG"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safely",
+     "strong": true,
+     "link": false,
+     "syl": "SAFE"
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": true,
+     "link": true,
+     "syl": "STAY"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lane.",
+     "strong": true,
+     "link": false,
+     "syl": "LANE"
+    }
+   ],
+   "tip": "stay in은 이어 읽고 long, safely, lane에 강세를 주세요.",
+   "start": 172.07,
+   "end": 176.76
+  }
+ ],
+ "questions": [
+  {
+   "q": "What should you avoid doing when you need to slow down during a snow squall?",
+   "options": [
+    "Slamming on your brakes",
+    "Turning on your headlights",
+    "Staying in your lane"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 브레이크를 급하게 밟지 말라고 말합니다."
+  },
+  {
+   "q": "Why does the speaker recommend turning on your hazard lights?",
+   "options": [
+    "To help others see you on the roadway",
+    "To save battery power",
+    "To signal a complete stop"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 비상등을 켜는 이유가 다른 사람들이 보게 하기 위함이라고 설명합니다."
+  },
+  {
+   "q": "What does turning on your headlights help with, according to the segment?",
+   "options": [
+    "Only helping you see the road",
+    "Helping you see and helping others see you",
+    "Making the car warmer"
+   ],
+   "answer": 1,
+   "why": "헤드라이트는 당신이 보는 것뿐 아니라 다른 사람이 당신을 보는 것도 돕는다고 했습니다."
+  },
+  {
+   "q": "What should you do if you are still on the highway during a snow squall?",
+   "options": [
+    "Speed up to get off the highway quickly",
+    "Slow down gradually and stay in your lane",
+    "Stop immediately in the middle of the road"
+   ],
+   "answer": 1,
+   "why": "전체 내용은 서서히 속도를 줄이고 차선을 유지하라는 안전 수칙입니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "snow squall",
+   "ko": "순간적인 폭설/눈보라",
+   "note": "짧고 강하게 몰아치는 눈보라를 뜻합니다."
+  },
+  {
+   "term": "slam on the brakes",
+   "ko": "급브레이크를 밟다",
+   "note": "갑자기 세게 브레이크를 밟는 행동입니다."
+  },
+  {
+   "term": "spin out",
+   "ko": "차가 미끄러져 돌다",
+   "note": "운전 중 차량이 통제력을 잃고 도는 상황입니다."
+  },
+  {
+   "term": "hazard lights",
+   "ko": "비상등",
+   "note": "위험을 알리기 위해 켜는 깜빡이는 등입니다."
+  },
+  {
+   "term": "stay in your lane",
+   "ko": "차선을 유지하다",
+   "note": "차선을 바꾸지 않고 그대로 달리는 것입니다."
+  }
+ ]
+}

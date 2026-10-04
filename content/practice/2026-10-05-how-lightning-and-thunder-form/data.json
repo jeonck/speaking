@@ -1,0 +1,612 @@
+{
+ "video_id": "Vh4T-Wqrgvs",
+ "source_title": "Lightning Safety - Updated",
+ "source_channel": "National Weather Service",
+ "segment": {
+  "start": 21.28,
+  "end": 46.72
+ },
+ "sentences": [
+  {
+   "text": "We know that lightning forms from the separation of charges in a thunderstorm cloud.",
+   "chunks": [
+    {
+     "en": "We know",
+     "ko": "우리는 안다"
+    },
+    {
+     "en": "that lightning forms",
+     "ko": "번개가 형성된다는 것을"
+    },
+    {
+     "en": "from the separation of charges",
+     "ko": "전하의 분리로부터"
+    },
+    {
+     "en": "in a thunderstorm cloud.",
+     "ko": "뇌우 구름 속에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lightning",
+     "strong": true,
+     "link": false,
+     "syl": "LIGHT"
+    },
+    {
+     "w": "forms",
+     "strong": true,
+     "link": false,
+     "syl": "FORMS"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "separation",
+     "strong": true,
+     "link": true,
+     "syl": "RA"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "charges",
+     "strong": true,
+     "link": true,
+     "syl": "CHAR"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thunderstorm",
+     "strong": true,
+     "link": false,
+     "syl": "THUN"
+    },
+    {
+     "w": "cloud.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "separation of, in a처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 21.28,
+   "end": 25.694117647058825
+  },
+  {
+   "text": "A step leader then develops downward towards tall objects on the ground, and a streamer reaches upward to meet it, and the resulting pulse is called a return stroke that we see as a lightning flash.",
+   "chunks": [
+    {
+     "en": "A step leader",
+     "ko": "스텝 리더가"
+    },
+    {
+     "en": "then develops downward towards tall objects on the ground,",
+     "ko": "그 다음 지상의 높은 물체를 향해 아래로 발달해 가고,"
+    },
+    {
+     "en": "and a streamer reaches upward to meet it,",
+     "ko": "그리고 스트리머가 그것을 만나기 위해 위로 뻗어 올라가며,"
+    },
+    {
+     "en": "and the resulting pulse is called a return stroke",
+     "ko": "그리고 그 결과로 생기는 펄스는 귀환 스트로크라고 불리는데"
+    },
+    {
+     "en": "that we see as a lightning flash.",
+     "ko": "우리는 그것을 번개 섬광으로 본다"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "step",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leader",
+     "strong": true,
+     "link": false,
+     "syl": "LEAD"
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "develops",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "downward",
+     "strong": true,
+     "link": false,
+     "syl": "DOWN"
+    },
+    {
+     "w": "towards",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tall",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "objects",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "streamer",
+     "strong": true,
+     "link": false,
+     "syl": "STREAM"
+    },
+    {
+     "w": "reaches",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "upward",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meet",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "resulting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pulse",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "return",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stroke",
+     "strong": true,
+     "link": false,
+     "syl": "STROKE"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lightning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flash.",
+     "strong": true,
+     "link": false,
+     "syl": "FLASH"
+    }
+   ],
+   "tip": "tall objects, meet it, called a처럼 자음과 모음이 만나면 이어서 발음하세요.",
+   "start": 25.694117647058825,
+   "end": 35.99
+  },
+  {
+   "text": "A flash can be made up of a single stroke, or tens of strokes.",
+   "chunks": [
+    {
+     "en": "A flash",
+     "ko": "섬광 하나는"
+    },
+    {
+     "en": "can be made up of a single stroke,",
+     "ko": "하나의 스트로크로 이루어질 수도 있고,"
+    },
+    {
+     "en": "or tens of strokes.",
+     "ko": "혹은 수십 개의 스트로크로 이루어질 수도 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flash",
+     "strong": true,
+     "link": false,
+     "syl": "FLASH"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "single",
+     "strong": true,
+     "link": false,
+     "syl": "SIN"
+    },
+    {
+     "w": "stroke,",
+     "strong": true,
+     "link": false,
+     "syl": "STROKE"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tens",
+     "strong": true,
+     "link": true,
+     "syl": "TENS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strokes.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "made up of처럼 약한 음절이 이어질 때는 빠르게 붙여서 발음하세요.",
+   "start": 35.99,
+   "end": 40.96
+  },
+  {
+   "text": "Thunder is the result of a lightning strike and is created when lightning heats up the air around it.",
+   "chunks": [
+    {
+     "en": "Thunder is the result",
+     "ko": "천둥은 결과이다"
+    },
+    {
+     "en": "of a lightning strike",
+     "ko": "번개 스트라이크의"
+    },
+    {
+     "en": "and is created",
+     "ko": "그리고 발생한다"
+    },
+    {
+     "en": "when lightning heats up the air around it.",
+     "ko": "번개가 그 주변의 공기를 가열할 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "Thunder",
+     "strong": true,
+     "link": true,
+     "syl": "THUN"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "result",
+     "strong": true,
+     "link": true,
+     "syl": "SULT"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lightning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strike",
+     "strong": true,
+     "link": true,
+     "syl": "STRIKE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "created",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lightning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heats",
+     "strong": true,
+     "link": true,
+     "syl": "HEATS"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "air",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Thunder is, strike and, heats up처럼 자음에서 모음으로 자연스럽게 이어집니다.",
+   "start": 40.96,
+   "end": 46.72
+  }
+ ],
+ "questions": [
+  {
+   "q": "What causes lightning to form, according to the segment?",
+   "options": [
+    "The separation of charges in a thunderstorm cloud",
+    "The friction between raindrops",
+    "The movement of tall objects on the ground"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 번개는 뇌우 구름 속 전하의 분리로부터 형성된다고 설명합니다."
+  },
+  {
+   "q": "What happens when a step leader and a streamer meet?",
+   "options": [
+    "A return stroke occurs, seen as a lightning flash",
+    "The thunderstorm cloud dissipates",
+    "Thunder is heard before any flash appears"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 둘이 만나 생기는 펄스를 귀환 스트로크, 즉 번개 섬광이라고 부른다고 설명합니다."
+  },
+  {
+   "q": "How many strokes can make up a single flash?",
+   "options": [
+    "Anywhere from one stroke to tens of strokes",
+    "Always exactly two strokes",
+    "Only a single stroke, never more"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 플래시는 하나의 스트로크부터 수십 개의 스트로크로 이루어질 수 있다고 말합니다."
+  },
+  {
+   "q": "What creates thunder, according to the segment?",
+   "options": [
+    "Lightning heating up the air around it",
+    "Wind moving through the cloud",
+    "The ground absorbing electrical charge"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 천둥은 번개가 주변 공기를 가열할 때 발생한다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "step leader",
+   "ko": "스텝 리더(하강 선도)",
+   "note": "번개가 치기 전 구름에서 땅 쪽으로 내려오는 전하의 경로예요."
+  },
+  {
+   "term": "streamer",
+   "ko": "스트리머(상승 선도)",
+   "note": "땅에서 위로 올라가 스텝 리더를 맞이하는 전하의 흐름이에요."
+  },
+  {
+   "term": "return stroke",
+   "ko": "귀환 스트로크",
+   "note": "우리 눈에 보이는 밝은 번개 섬광을 만드는 방전이에요."
+  },
+  {
+   "term": "be made up of",
+   "ko": "~로 이루어지다",
+   "note": "무언가의 구성 요소를 설명할 때 자주 쓰는 표현이에요."
+  }
+ ]
+}

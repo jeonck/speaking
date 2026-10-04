@@ -1,0 +1,645 @@
+{
+ "video_id": "rYWFrePFv3w",
+ "source_title": "Critical Language Scholarship: Start your Language Adventure!",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 111.74,
+  "end": 137.12
+ },
+ "sentences": [
+  {
+   "text": "What you get is what you put in.",
+   "chunks": [
+    {
+     "en": "What you get",
+     "ko": "당신이 얻는 것은"
+    },
+    {
+     "en": "is what you put in.",
+     "ko": "당신이 투자한 만큼입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": true,
+     "link": false,
+     "syl": "GET"
+    },
+    {
+     "w": "is",
+     "strong": true,
+     "link": false,
+     "syl": "IS"
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": true,
+     "link": true,
+     "syl": "PUT"
+    },
+    {
+     "w": "in.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "get, is, put에 또렷하게 강세를 주며 리듬을 살려 읽으세요.",
+   "start": 111.74,
+   "end": 113.38
+  },
+  {
+   "text": "And CLS helped me to put in a lot of time and effort, to make sure that I was focused on learning the language, learning the culture, and being dedicated to that overall goal and mission.",
+   "chunks": [
+    {
+     "en": "And CLS helped me to put in a lot of time and effort,",
+     "ko": "CLS는 제가 많은 시간과 노력을 쏟도록 도와주었고,"
+    },
+    {
+     "en": "to make sure that I was focused on learning the language, learning the culture,",
+     "ko": "언어를 배우고 문화를 배우는 데 집중하도록 해주었으며,"
+    },
+    {
+     "en": "and being dedicated to that overall goal and mission.",
+     "ko": "그 전체적인 목표와 사명에 헌신하도록 해주었습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "CLS",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helped",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "effort,",
+     "strong": true,
+     "link": false,
+     "syl": "EF"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "focused",
+     "strong": true,
+     "link": false,
+     "syl": "FO"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "language,",
+     "strong": true,
+     "link": false,
+     "syl": "LAN"
+    },
+    {
+     "w": "learning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "culture,",
+     "strong": true,
+     "link": false,
+     "syl": "CUL"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dedicated",
+     "strong": true,
+     "link": false,
+     "syl": "DED"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "overall",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "goal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mission.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "effort, focused, language, culture, dedicated에 강세를 주세요.",
+   "start": 113.38,
+   "end": 124.72
+  },
+  {
+   "text": "I would really encourage anyone and everyone to apply if they can.",
+   "chunks": [
+    {
+     "en": "I would really encourage anyone and everyone",
+     "ko": "저는 모든 사람에게 정말로 권하고 싶습니다"
+    },
+    {
+     "en": "to apply if they can.",
+     "ko": "할 수 있다면 지원해보라고요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "encourage",
+     "strong": true,
+     "link": false,
+     "syl": "COUR"
+    },
+    {
+     "w": "anyone",
+     "strong": true,
+     "link": false,
+     "syl": "AN"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everyone",
+     "strong": true,
+     "link": false,
+     "syl": "EV"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "apply",
+     "strong": true,
+     "link": true,
+     "syl": "PLY"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "encourage, anyone, everyone, apply에 강세를 주세요.",
+   "start": 124.72,
+   "end": 127.89
+  },
+  {
+   "text": "It's really important both personally, and for the United States as a whole.",
+   "chunks": [
+    {
+     "en": "It's really important both personally,",
+     "ko": "이것은 개인적으로도 정말 중요하고,"
+    },
+    {
+     "en": "and for the United States as a whole.",
+     "ko": "미국 전체에도 중요합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important",
+     "strong": true,
+     "link": false,
+     "syl": "POR"
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "personally,",
+     "strong": true,
+     "link": false,
+     "syl": "PER"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "United",
+     "strong": true,
+     "link": false,
+     "syl": "NIT"
+    },
+    {
+     "w": "States",
+     "strong": true,
+     "link": false,
+     "syl": "STATES"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whole.",
+     "strong": true,
+     "link": false,
+     "syl": "WHOLE"
+    }
+   ],
+   "tip": "important, personally, United States, whole에 강세를 주세요.",
+   "start": 127.89,
+   "end": 131.57
+  },
+  {
+   "text": "If you have the opportunity to challenge yourself, and study a critical language, then I encourage you to do so.",
+   "chunks": [
+    {
+     "en": "If you have the opportunity to challenge yourself,",
+     "ko": "스스로에게 도전할 기회가 있다면,"
+    },
+    {
+     "en": "and study a critical language,",
+     "ko": "그리고 중요한 언어를 공부할 기회가 있다면,"
+    },
+    {
+     "en": "then I encourage you to do so.",
+     "ko": "꼭 그렇게 해보시길 권합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opportunity",
+     "strong": true,
+     "link": false,
+     "syl": "TU"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "challenge",
+     "strong": true,
+     "link": false,
+     "syl": "CHAL"
+    },
+    {
+     "w": "yourself,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "critical",
+     "strong": true,
+     "link": false,
+     "syl": "CRIT"
+    },
+    {
+     "w": "language,",
+     "strong": true,
+     "link": false,
+     "syl": "LAN"
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "encourage",
+     "strong": true,
+     "link": false,
+     "syl": "COUR"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "opportunity, challenge, critical, language, encourage에 강세를 주세요.",
+   "start": 131.57,
+   "end": 137.12
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the speaker, what determines what you get from the program?",
+   "options": [
+    "How much time and effort you put in",
+    "Your natural talent for languages",
+    "Your age"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 얻는 것은 투자한 만큼이라고 말합니다."
+  },
+  {
+   "q": "What did CLS help the speaker focus on, besides language?",
+   "options": [
+    "Learning the culture",
+    "Finding a job",
+    "Making money"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 언어뿐 아니라 문화를 배우는 데도 집중했다고 말합니다."
+  },
+  {
+   "q": "Why does the speaker say studying a critical language is important?",
+   "options": [
+    "It is important both personally and for the United States",
+    "It is only useful for travel",
+    "It is required for graduation"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 개인적으로도, 미국 전체에도 중요하다고 말합니다."
+  },
+  {
+   "q": "What does the speaker encourage listeners to do?",
+   "options": [
+    "Apply to the program and challenge themselves",
+    "Avoid studying abroad",
+    "Wait until they are fluent before applying"
+   ],
+   "answer": 0,
+   "why": "세 번째와 다섯 번째 문장에서 지원하고 도전해보라고 권합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "put in (time and effort)",
+   "ko": "(시간과 노력을) 들이다",
+   "note": "무언가에 투자하는 것을 뜻합니다."
+  },
+  {
+   "term": "be dedicated to",
+   "ko": "~에 헌신하다",
+   "note": "어떤 목표에 전념하는 태도를 나타냅니다."
+  },
+  {
+   "term": "as a whole",
+   "ko": "전체적으로",
+   "note": "부분이 아니라 전체를 가리킬 때 씁니다."
+  },
+  {
+   "term": "challenge yourself",
+   "ko": "스스로에게 도전하다",
+   "note": "자신의 한계를 넘어서려는 시도를 뜻합니다."
+  },
+  {
+   "term": "critical language",
+   "ko": "(국가 전략상) 중요한 언어",
+   "note": "미국 정부가 전략적으로 중요하다고 지정한 언어입니다."
+  }
+ ]
+}

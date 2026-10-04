@@ -1,0 +1,398 @@
+{
+ "video_id": "yF_I6D6pyZs",
+ "source_title": "A Peace Corps Volunteer Shares About the Close Connections She's Formed in Her Host Community",
+ "source_channel": "Peace Corps",
+ "segment": {
+  "start": 8.31,
+  "end": 31.01
+ },
+ "sentences": [
+  {
+   "text": "Some of my best friends here, they range from my 10-year-old next door neighbor to a woman who I call \"mama,\" my mom, but she's an 80-year-old woman who speaks very little Spanish.",
+   "chunks": [
+    {
+     "en": "Some of my best friends here,",
+     "ko": "여기 제 가장 친한 친구들 중에는,"
+    },
+    {
+     "en": "they range from my 10-year-old next door neighbor",
+     "ko": "제 어린 옆집 이웃부터"
+    },
+    {
+     "en": "to a woman who I call \"mama,\" my mom,",
+     "ko": "제가 '엄마'라고 부르는, 제 엄마인 분까지 다양한데,"
+    },
+    {
+     "en": "but she's an 80-year-old woman who speaks very little Spanish.",
+     "ko": "그분은 스페인어를 거의 못 하시는 어르신입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends",
+     "strong": true,
+     "link": false,
+     "syl": "FRIENDS"
+    },
+    {
+     "w": "here,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "range",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10-year-old",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "door",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighbor",
+     "strong": true,
+     "link": false,
+     "syl": "NEIGH"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "woman",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "call",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "\"mama,\"",
+     "strong": true,
+     "link": false,
+     "syl": "MA"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mom,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "she's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "80-year-old",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "woman",
+     "strong": true,
+     "link": false,
+     "syl": "WOM"
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speaks",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Spanish.",
+     "strong": true,
+     "link": false,
+     "syl": "SPAN"
+    }
+   ],
+   "tip": "friends, neighbor, woman, Spanish 같은 핵심 명사에 강세를 주고 she's an은 이어서 읽으세요.",
+   "start": 8.31,
+   "end": 22.30333333333333
+  },
+  {
+   "text": "So, it's really interesting how language is not always the most important thing to have a strong connection with someone.",
+   "chunks": [
+    {
+     "en": "So, it's really interesting",
+     "ko": "그래서 정말 흥미로운 점은"
+    },
+    {
+     "en": "how language is not always the most important thing",
+     "ko": "언어가 항상 가장 중요한 것은 아니라는 점입니다"
+    },
+    {
+     "en": "to have a strong connection with someone.",
+     "ko": "누군가와 강한 유대감을 갖는 데 있어서요."
+    }
+   ],
+   "words": [
+    {
+     "w": "So,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "interesting",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "language",
+     "strong": true,
+     "link": false,
+     "syl": "LAN"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important",
+     "strong": true,
+     "link": false,
+     "syl": "POR"
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strong",
+     "strong": true,
+     "link": false,
+     "syl": "STRONG"
+    },
+    {
+     "w": "connection",
+     "strong": true,
+     "link": false,
+     "syl": "NEC"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "interesting, language, important, strong, connection에 강세를 주고 have a는 이어서 읽으세요.",
+   "start": 22.30333333333333,
+   "end": 31.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker describe her next-door neighbor?",
+   "options": [
+    "As a close friend who is a child",
+    "As a coworker",
+    "As a tour guide"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 옆집에 사는 어린 이웃을 가장 친한 친구 중 하나로 언급합니다."
+  },
+  {
+   "q": "What does the speaker call the older woman she is close with?",
+   "options": [
+    "Mama",
+    "Teacher",
+    "Boss"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 그녀를 '마마'라고 부른다고 했습니다."
+  },
+  {
+   "q": "According to the speaker, how much Spanish does the older woman speak?",
+   "options": [
+    "Very little",
+    "Fluently",
+    "It is not mentioned"
+   ],
+   "answer": 0,
+   "why": "첫 문장 끝부분에서 그 여성이 스페인어를 거의 하지 못한다고 말합니다."
+  },
+  {
+   "q": "What is the main point the speaker makes about language and connection?",
+   "options": [
+    "Language is not always the most important thing for a strong connection",
+    "You must speak the same language to be friends",
+    "Language skill matters more than friendship"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 언어가 항상 가장 중요한 것은 아니라고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "range from X to Y",
+   "ko": "X부터 Y까지 다양하다",
+   "note": "다양성을 나타낼 때 쓰는 표현입니다."
+  },
+  {
+   "term": "next door neighbor",
+   "ko": "옆집 이웃",
+   "note": "바로 옆집에 사는 사람을 가리킵니다."
+  },
+  {
+   "term": "strong connection",
+   "ko": "강한 유대감",
+   "note": "사람 사이의 깊은 친밀감을 뜻합니다."
+  },
+  {
+   "term": "speaks very little",
+   "ko": "거의 하지 못하다",
+   "note": "어떤 언어를 아주 조금만 할 수 있다는 뜻입니다."
+  }
+ ]
+}
