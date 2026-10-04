@@ -15,9 +15,10 @@ export function mountStage3(panel, ctx) {
     ${goalCard("화면 없이 듣고 이해하기", "읽고 스피킹해 본 문장이 실제로 들리는지 확인해요. 전체를 듣고 문제를 푼 뒤, 한 문장씩 받아써 봅니다.")}
     <div class="pr-listen-card">
       ${redactedLines(data.sentences)}
+      <div class="pr-listen-progress" style="--dur:${(data.segment.end - data.segment.start).toFixed(1)}s" aria-hidden="true"><div></div></div>
       <p class="pr-listen-hint">스크립트는 가려져 있어요. 소리에만 집중해 보세요.</p>
       <button class="pr-listen-all pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 전체 듣기</button>
-      <span class="pr-play-count">아직 듣지 않았어요</span>
+      <span class="pr-play-count pr-badge">아직 듣지 않았어요</span>
     </div>
     <div class="pr-notice" data-notice="player" hidden></div>
     <h3 class="pr-section-title">① 내용 이해 문제</h3>

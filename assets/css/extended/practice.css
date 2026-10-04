@@ -357,7 +357,7 @@ body.list { background: var(--pr-desk); }
 
 /* ---------- 3단계 가리고 듣기: 파스텔 구슬 카드 ---------- */
 .pr-listen-card {
-  position: relative; isolation: isolate; overflow: hidden;
+  position: relative; isolation: isolate; overflow: clip; /* hidden은 내부 스크롤이 생겨 구슬 때문에 내용이 밀린다 */
   display: flex; flex-direction: column; align-items: center; gap: 1rem;
   padding: 2.25rem 1.75rem; border-radius: 24px; text-align: center;
   background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
@@ -379,7 +379,12 @@ body.list { background: var(--pr-desk); }
 .pr-listen-card.is-playing .pr-redacted span:nth-child(2n) { animation-delay: -0.8s; }
 @keyframes pr-sweep { from { background-position: 100% 0; } to { background-position: -120% 0; } }
 .pr-listen-hint { margin: 0; color: var(--pr-body); font-size: 0.9375rem; }
-.pr-play-count { font-size: 0.875rem; color: var(--secondary); }
+.pr-play-count { font-size: 0.8125rem; }
+/* 재생 진행선 — 구간 길이(--dur)만큼 차오른다. 버퍼링이 있으면 소리보다 조금 앞설 수 있다 */
+.pr-listen-progress { align-self: stretch; height: 3px; border-radius: 9999px; background: var(--pr-rule-strong); overflow: hidden; }
+.pr-listen-progress > div { width: 0; height: 100%; border-radius: inherit; background: var(--pr-ink); }
+.pr-listen-card.is-playing .pr-listen-progress > div { animation: pr-fill var(--dur, 20s) linear forwards; }
+@keyframes pr-fill { from { width: 0; } to { width: 100%; } }
 
 .pr-questions { display: flex; flex-direction: column; gap: 0.9rem; }
 .pr-question { margin: 0; padding: 1.25rem 1.5rem; border-radius: 16px; border: 1px solid var(--pr-rule); background: var(--pr-paper); }
@@ -399,7 +404,19 @@ body.list { background: var(--pr-desk); }
 }
 .pr-option:hover { border-color: var(--primary); }
 .pr-option:has(input:checked) { border-color: var(--primary); background: var(--pr-ink-soft); }
-.pr-option input { accent-color: var(--pr-ink); }
+/* 기본 라디오 대신 디자인에 맞춘 원 — 고르면 잉크 점, 채점 후 정답 초록·오답 빨강 */
+.pr-option input {
+  appearance: none; -webkit-appearance: none; flex: none; width: 20px; height: 20px; margin: 0;
+  border-radius: 50%; border: 1.5px solid var(--pr-rule-strong); background: var(--pr-paper); cursor: pointer;
+}
+.pr-option input:checked { border-color: var(--pr-ink); background: radial-gradient(var(--pr-ink) 0 42%, var(--pr-paper) 46%); }
+.pr-option input:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 2px; }
+.pr-option input:disabled { cursor: default; }
+/* 고른 답이 정답이면 '선택됨'보다 '정답' 색이 이긴다 */
+.pr-option.is-answer, .pr-option.is-answer:has(input:checked) { border-color: var(--pr-ok); background: var(--pr-ok-soft); }
+.pr-option.is-answer input { border-color: var(--pr-ok); background: radial-gradient(var(--pr-ok) 0 42%, var(--pr-paper) 46%); }
+.pr-question.is-wrong .pr-option:not(.is-answer):has(input:checked) { border-color: var(--pr-pencil); }
+.pr-question.is-wrong .pr-option:not(.is-answer) input:checked { border-color: var(--pr-pencil); background: radial-gradient(var(--pr-pencil) 0 42%, var(--pr-paper) 46%); }
 .pr-question.is-correct { border-color: var(--pr-ok); }
 .pr-question.is-wrong { border-color: var(--pr-pencil); }
 .pr-option.is-answer { border-color: var(--pr-ok); background: var(--pr-ok-soft); }
@@ -409,7 +426,10 @@ body.list { background: var(--pr-desk); }
 .pr-dict-row { padding: 1rem 1.25rem; border-radius: 16px; border: 1px solid var(--pr-rule); background: var(--pr-paper); transition: background-color 0.2s ease; }
 .pr-dict-row.is-correct { border-color: var(--pr-ok); }
 .pr-dict-inputs { display: flex; align-items: center; gap: 0.6rem; }
-.pr-dict-inputs .pr-q-num { margin: 0; min-width: 1.1em; }
+.pr-dict-inputs .pr-q-num {
+  display: inline-flex; align-items: center; justify-content: center; flex: none; width: 26px; height: 26px; margin: 0;
+  border-radius: 50%; background: var(--pr-surface); color: var(--primary); font-size: 0.75rem;
+}
 .pr-dict-inputs .pr-btn--play { margin-top: 0; }
 .pr-dict-input {
   flex: 1; min-width: 0; min-height: 44px; padding: 0.5rem 1rem;
@@ -420,8 +440,9 @@ body.list { background: var(--pr-desk); }
 .pr-dict-result:empty { display: none; }
 .pr-dict-result { margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.45rem; align-items: flex-start; }
 .pr-dict-result p { margin: 0; font-family: var(--pr-serif); font-size: 1.1rem; line-height: 1.75; }
-.pr-dict-score { font-size: 0.8125rem; font-weight: 600; color: var(--secondary); }
-.pr-dict-row.is-correct .pr-dict-score { color: var(--pr-ok); }
+/* 일치율 배지 — 90% 이상이면 초록 */
+.pr-dict-score { display: inline-flex; padding: 0.2rem 0.65rem; border-radius: 9999px; background: var(--pr-surface); font-size: 0.75rem; font-weight: 600; color: var(--primary); }
+.pr-dict-row.is-correct .pr-dict-score { background: var(--pr-ok-soft); color: var(--pr-ok); }
 
 .pr-dict-word { padding: 0 0.15em; border-radius: 4px; }
 .pr-dict-match { color: var(--pr-ok); }
@@ -469,7 +490,7 @@ body.list { background: var(--pr-desk); }
 
 /* ---------- 1단계 시작 전: 가려진 원고 ---------- */
 .pr-cover {
-  position: relative; isolation: isolate; overflow: hidden;
+  position: relative; isolation: isolate; overflow: clip; /* hidden은 내부 스크롤이 생겨 구슬 때문에 내용이 밀린다 */
   display: flex; flex-direction: column; align-items: center; gap: 1.1rem;
   padding: 2rem 1.75rem; border-radius: 24px; text-align: center;
   background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
@@ -593,7 +614,7 @@ body.list { background: var(--pr-desk); }
 
 /* 원고 한 줄: 구슬 카드 안에 가운데 정렬 */
 .home-specimen {
-  position: relative; isolation: isolate; overflow: hidden;
+  position: relative; isolation: isolate; overflow: clip; /* hidden은 내부 스크롤이 생겨 구슬 때문에 내용이 밀린다 */
   margin: 2rem 0 0; padding: 3rem 2rem 2.25rem; border-radius: 24px; text-align: center;
   background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
 }
@@ -714,7 +735,7 @@ body.list { background: var(--pr-desk); }
 .tag-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.75rem; margin: 0; padding: 0; list-style: none; }
 .tag-cards li { margin: 0; }
 .tag-card {
-  position: relative; isolation: isolate; overflow: hidden;
+  position: relative; isolation: isolate; overflow: clip; /* hidden은 내부 스크롤이 생겨 구슬 때문에 내용이 밀린다 */
   display: flex; flex-direction: column; justify-content: space-between; gap: 1.5rem; min-height: 170px;
   padding: 1.35rem 1.4rem; border-radius: 20px; background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
   color: inherit; text-decoration: none; box-shadow: none; transition: border-color 0.2s ease, box-shadow 0.2s ease;
