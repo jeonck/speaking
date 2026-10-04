@@ -1,0 +1,481 @@
+{
+ "video_id": "O9vPNjlqHBc",
+ "source_title": "Preventing Foodborne Illness: Talking to Patients About Food Safety",
+ "source_channel": "U.S. Food and Drug Administration",
+ "segment": {
+  "start": 291.91,
+  "end": 316.36
+ },
+ "sentences": [
+  {
+   "text": "You should refrigerate or freeze meat, poultry, eggs, seafood, and other perishables within two hours of purchasing or cooking.",
+   "chunks": [
+    {
+     "en": "You should refrigerate or freeze",
+     "ko": "냉장 또는 냉동 보관해야 해요"
+    },
+    {
+     "en": "meat, poultry, eggs, seafood,",
+     "ko": "고기, 가금류, 계란, 해산물,"
+    },
+    {
+     "en": "and other perishables",
+     "ko": "그리고 기타 상하기 쉬운 식품을"
+    },
+    {
+     "en": "within two hours",
+     "ko": "두 시간 안에"
+    },
+    {
+     "en": "of purchasing or cooking.",
+     "ko": "구매하거나 요리한 후에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "refrigerate",
+     "strong": true,
+     "link": true,
+     "syl": "frig"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "freeze",
+     "strong": true,
+     "link": false,
+     "syl": "freeze"
+    },
+    {
+     "w": "meat,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "poultry,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eggs,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seafood,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "perishables",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    },
+    {
+     "w": "within",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": true,
+     "link": true,
+     "syl": "two"
+    },
+    {
+     "w": "hours",
+     "strong": true,
+     "link": true,
+     "syl": "hours"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "purchasing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "two hours는 연음으로 /투아워즈/처럼 이어서 발음해요.",
+   "start": 291.91,
+   "end": 300.66
+  },
+  {
+   "text": "Cold temperatures slow the growth of harmful bacteria, but don't overstuff the fridge.",
+   "chunks": [
+    {
+     "en": "Cold temperatures slow",
+     "ko": "차가운 온도는 늦춰줘요"
+    },
+    {
+     "en": "the growth of harmful bacteria,",
+     "ko": "해로운 박테리아의 증식을,"
+    },
+    {
+     "en": "but don't overstuff the fridge.",
+     "ko": "하지만 냉장고를 너무 채우지 마세요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Cold",
+     "strong": true,
+     "link": false,
+     "syl": "cold"
+    },
+    {
+     "w": "temperatures",
+     "strong": true,
+     "link": false,
+     "syl": "tem"
+    },
+    {
+     "w": "slow",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "growth",
+     "strong": true,
+     "link": true,
+     "syl": "growth"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "harmful",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bacteria,",
+     "strong": true,
+     "link": false,
+     "syl": "te"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "overstuff",
+     "strong": true,
+     "link": false,
+     "syl": "stuff"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fridge.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 300.66,
+   "end": 306.23
+  },
+  {
+   "text": "Cold air needs to circulate to keep food safe.",
+   "chunks": [
+    {
+     "en": "Cold air needs to circulate",
+     "ko": "차가운 공기가 순환해야 해요"
+    },
+    {
+     "en": "to keep food safe.",
+     "ko": "음식을 안전하게 지키려면요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Cold",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "air",
+     "strong": true,
+     "link": false,
+     "syl": "air"
+    },
+    {
+     "w": "needs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "circulate",
+     "strong": true,
+     "link": false,
+     "syl": "cir"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    },
+    {
+     "w": "safe.",
+     "strong": true,
+     "link": false,
+     "syl": "safe"
+    }
+   ],
+   "tip": "Cold air는 d가 모음으로 연음되어 자연스럽게 이어져요.",
+   "start": 306.23,
+   "end": 309.32
+  },
+  {
+   "text": "Your refrigerator should be 40 degrees Fahrenheit or colder, and your freezer should be zero degrees Fahrenheit or colder.",
+   "chunks": [
+    {
+     "en": "Your refrigerator should be 40 degrees Fahrenheit or colder,",
+     "ko": "냉장고는 화씨 40도 이하여야 하고,"
+    },
+    {
+     "en": "and your freezer should be zero degrees Fahrenheit or colder.",
+     "ko": "냉동고는 화씨 0도 이하여야 해요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "refrigerator",
+     "strong": true,
+     "link": false,
+     "syl": "frig"
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "40",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "degrees",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Fahrenheit",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colder,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "freezer",
+     "strong": true,
+     "link": false,
+     "syl": "free"
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "zero",
+     "strong": true,
+     "link": false,
+     "syl": "ze"
+    },
+    {
+     "w": "degrees",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Fahrenheit",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colder.",
+     "strong": true,
+     "link": false,
+     "syl": "col"
+    }
+   ],
+   "tip": "40, zero 같은 숫자는 또렷하게, degrees Fahrenheit는 한 호흡에 이어 발음해요.",
+   "start": 309.32,
+   "end": 316.36
+  }
+ ],
+ "questions": [
+  {
+   "q": "Within how many hours should perishable food be refrigerated or frozen after purchasing or cooking?",
+   "options": [
+    "Two hours",
+    "Ten hours",
+    "One hour"
+   ],
+   "answer": 0,
+   "why": "\"within two hours of purchasing or cooking\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "Why shouldn't you overstuff the fridge?",
+   "options": [
+    "Cold air needs to circulate to keep food safe",
+    "It uses more electricity",
+    "It makes the fridge heavier"
+   ],
+   "answer": 0,
+   "why": "\"Cold air needs to circulate to keep food safe\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "What should the refrigerator temperature be?",
+   "options": [
+    "40 degrees Fahrenheit or colder",
+    "Room temperature",
+    "100 degrees Fahrenheit"
+   ],
+   "answer": 0,
+   "why": "\"Your refrigerator should be 40 degrees Fahrenheit or colder\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "What do cold temperatures do to bacteria?",
+   "options": [
+    "Slow their growth",
+    "Make them grow faster",
+    "Have no effect on them"
+   ],
+   "answer": 0,
+   "why": "\"Cold temperatures slow the growth of harmful bacteria\" 문장에서 알 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "perishables",
+   "ko": "상하기 쉬운 식품",
+   "note": "빨리 상할 수 있는 음식을 가리키는 말이에요."
+  },
+  {
+   "term": "overstuff",
+   "ko": "너무 많이 채우다",
+   "note": "don't overstuff the fridge처럼 과하게 채우지 말라는 뜻이에요."
+  },
+  {
+   "term": "circulate",
+   "ko": "순환하다",
+   "note": "공기나 물 등이 고르게 흐른다는 뜻이에요."
+  },
+  {
+   "term": "degrees Fahrenheit",
+   "ko": "화씨 ~도",
+   "note": "미국식 온도 단위 표현이에요."
+  }
+ ]
+}

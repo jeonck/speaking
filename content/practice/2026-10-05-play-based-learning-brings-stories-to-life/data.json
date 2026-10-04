@@ -1,0 +1,492 @@
+{
+ "video_id": "-fNm4aa3Hr0",
+ "source_title": "Integrating Play Into Literacy Instruction: Strategies For Your Classroom (REL Midwest)",
+ "source_channel": "Institute of Education Sciences",
+ "segment": {
+  "start": 725.8,
+  "end": 751.0
+ },
+ "sentences": [
+  {
+   "text": "Play-based learning helps bring literacy concepts to life through actually having children engage and tell their own stories, and connecting it to their community, their families, their own experiences.",
+   "chunks": [
+    {
+     "en": "Play-based learning helps bring literacy concepts to life",
+     "ko": "놀이 중심 학습은 문해력 개념에 생명을 불어넣는다"
+    },
+    {
+     "en": "through actually having children engage and tell their own stories,",
+     "ko": "아이들이 직접 참여하고 자신의 이야기를 말하게 함으로써"
+    },
+    {
+     "en": "and connecting it to their community, their families, their own experiences.",
+     "ko": "그리고 그것을 그들의 공동체, 가족, 자신의 경험과 연결함으로써"
+    }
+   ],
+   "words": [
+    {
+     "w": "Play-based",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learning",
+     "strong": true,
+     "link": false,
+     "syl": "LEARN"
+    },
+    {
+     "w": "helps",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "literacy",
+     "strong": true,
+     "link": false,
+     "syl": "LIT"
+    },
+    {
+     "w": "concepts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "having",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "children",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "engage",
+     "strong": true,
+     "link": false,
+     "syl": "GAGE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stories,",
+     "strong": true,
+     "link": false,
+     "syl": "STOR"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "connecting",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "community,",
+     "strong": true,
+     "link": false,
+     "syl": "MU"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "families,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experiences.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "literacy concepts처럼 명사구가 이어질 때 각 단어 앞머리에 강세를 두세요.",
+   "start": 725.8,
+   "end": 736.2
+  },
+  {
+   "text": "So, asking children to act out a story will actually show a lot of what they've experienced and what they bring to the classroom, and how they actually are understanding what's happening, and their comprehension of the story in and of itself.",
+   "chunks": [
+    {
+     "en": "So, asking children to act out a story",
+     "ko": "그래서 아이들에게 이야기를 몸으로 표현해보게 하면"
+    },
+    {
+     "en": "will actually show a lot of what they've experienced",
+     "ko": "그들이 실제로 경험한 것을 많이 보여준다"
+    },
+    {
+     "en": "and what they bring to the classroom,",
+     "ko": "그리고 교실에 가져오는 것도"
+    },
+    {
+     "en": "and how they actually are understanding what's happening,",
+     "ko": "그리고 실제로 무슨 일이 일어나고 있는지를 이해하는 방식도"
+    },
+    {
+     "en": "and their comprehension of the story in and of itself.",
+     "ko": "그리고 이야기 자체에 대한 이해도도"
+    }
+   ],
+   "words": [
+    {
+     "w": "So,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "asking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "children",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "act",
+     "strong": true,
+     "link": true,
+     "syl": "ACT"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "story",
+     "strong": true,
+     "link": false,
+     "syl": "STOR"
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "show",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experienced",
+     "strong": true,
+     "link": false,
+     "syl": "PE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "classroom,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "understanding",
+     "strong": true,
+     "link": false,
+     "syl": "STAND"
+    },
+    {
+     "w": "what's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happening,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comprehension",
+     "strong": true,
+     "link": false,
+     "syl": "HEN"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "story",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "itself.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "act out, lot of처럼 자음과 모음이 자연스럽게 이어져요.",
+   "start": 736.2,
+   "end": 751.0
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does play-based learning help bring to life, according to the speaker?",
+   "options": [
+    "Literacy concepts",
+    "Math formulas",
+    "Science experiments"
+   ],
+   "answer": 0,
+   "why": "'Play-based learning helps bring literacy concepts to life'에서 나옴."
+  },
+  {
+   "q": "What do children connect their stories to?",
+   "options": [
+    "Their community, families, and own experiences",
+    "Only their textbooks",
+    "Their teacher's life"
+   ],
+   "answer": 0,
+   "why": "'connecting it to their community, their families, their own experiences'에서 나옴."
+  },
+  {
+   "q": "What does acting out a story show about children?",
+   "options": [
+    "What they've experienced and bring to the classroom",
+    "Only their reading speed",
+    "Their handwriting skill"
+   ],
+   "answer": 0,
+   "why": "'will actually show a lot of what they've experienced and what they bring to the classroom'에서 나옴."
+  },
+  {
+   "q": "What else does acting out a story reveal?",
+   "options": [
+    "Their comprehension of the story itself",
+    "Their math ability",
+    "Their drawing skill"
+   ],
+   "answer": 0,
+   "why": "'their comprehension of the story in and of itself'에서 나옴."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "play-based learning",
+   "ko": "놀이 중심 학습",
+   "note": "놀이를 통해 배우는 교육 방식."
+  },
+  {
+   "term": "bring ... to life",
+   "ko": "~에 생명을 불어넣다, 실감나게 하다",
+   "note": "개념을 생동감 있게 만든다는 뜻."
+  },
+  {
+   "term": "act out",
+   "ko": "몸으로 표현하다, 연기하다",
+   "note": "이야기를 몸짓과 역할극으로 표현하는 것."
+  },
+  {
+   "term": "comprehension",
+   "ko": "이해력",
+   "note": "글이나 이야기를 이해하는 능력."
+  }
+ ]
+}

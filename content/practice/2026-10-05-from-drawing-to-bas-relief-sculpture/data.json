@@ -1,0 +1,369 @@
+{
+ "video_id": "NgLNi4s4cc0",
+ "source_title": "The Sculpting Process at the U.S. Mint",
+ "source_channel": "U.S. Mint",
+ "segment": {
+  "start": 32.72,
+  "end": 55.44
+ },
+ "sentences": [
+  {
+   "text": "When I am tasked with the sculpt, whether it's based on my design or someone from the Artistic Infusion Program, I have to imagine and execute the sculpt so that the areas of shadow and light in the drawing translate to areas of shadow and light in the bas relief sculpture.",
+   "chunks": [
+    {
+     "en": "When I am tasked with the sculpt,",
+     "ko": "제가 조각 작업을 맡게 되면,"
+    },
+    {
+     "en": "whether it's based on my design or someone from the Artistic Infusion Program,",
+     "ko": "그게 제 디자인이든 아티스틱 인퓨전 프로그램의 다른 사람 디자인이든,"
+    },
+    {
+     "en": "I have to imagine and execute the sculpt",
+     "ko": "저는 그 조각을 구상하고 실행해야 해요"
+    },
+    {
+     "en": "so that the areas of shadow and light in the drawing",
+     "ko": "그래서 그림 속 명암 부분이"
+    },
+    {
+     "en": "translate to areas of shadow and light in the bas relief sculpture.",
+     "ko": "저부조 조각에서도 똑같은 명암으로 옮겨지도록이요."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "am",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tasked",
+     "strong": true,
+     "link": false,
+     "syl": "task"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sculpt,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whether",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "based",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "design",
+     "strong": true,
+     "link": false,
+     "syl": "sign"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Artistic",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Infusion",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Program,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "imagine",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "execute",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sculpt",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "areas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shadow",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drawing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "translate",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "areas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shadow",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relief",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sculpture.",
+     "strong": true,
+     "link": false,
+     "syl": "sculp"
+    }
+   ],
+   "tip": "긴 문장이라 쉼표마다 끊어 호흡하고, shadow and light 는 자연스럽게 이어 말해요.",
+   "start": 32.72,
+   "end": 55.44
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the sculptor's main task?",
+   "options": [
+    "Turning a drawing's shadow and light into a bas-relief sculpture",
+    "Designing new coin shapes from scratch only",
+    "Painting murals"
+   ],
+   "answer": 0,
+   "why": "\"areas of shadow and light in the drawing translate to areas of shadow and light in the bas relief sculpture\" 에서 알 수 있어요."
+  },
+  {
+   "q": "Where might the original design come from, besides the sculptor's own work?",
+   "options": [
+    "The Artistic Infusion Program",
+    "A museum archive",
+    "A public vote"
+   ],
+   "answer": 0,
+   "why": "\"someone from the Artistic Infusion Program\" 에서 확인할 수 있어요."
+  },
+  {
+   "q": "What two visual elements must match between the drawing and the sculpture?",
+   "options": [
+    "Shadow and light",
+    "Color and texture",
+    "Size and weight"
+   ],
+   "answer": 0,
+   "why": "\"areas of shadow and light\" 가 두 번 반복되는 데서 알 수 있어요."
+  },
+  {
+   "q": "What type of sculpture is being discussed?",
+   "options": [
+    "A bas relief sculpture",
+    "A full round statue",
+    "A digital 3D model"
+   ],
+   "answer": 0,
+   "why": "\"in the bas relief sculpture\" 에서 확인할 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "tasked with",
+   "ko": "~을 맡은",
+   "note": "be tasked with something 형태로 '그 일을 맡았다'는 뜻이에요."
+  },
+  {
+   "term": "bas relief",
+   "ko": "저부조 (얕게 돋아 새긴 조각)",
+   "note": "표면에서 살짝 튀어나오게 새기는 조각 기법이에요."
+  },
+  {
+   "term": "based on",
+   "ko": "~을 바탕으로 한",
+   "note": "디자인이나 작품의 출처를 말할 때 써요."
+  },
+  {
+   "term": "translate to",
+   "ko": "~로 옮겨지다, 반영되다",
+   "note": "한 형태의 특징이 다른 형태로 그대로 이어진다는 뜻이에요."
+  },
+  {
+   "term": "execute the sculpt",
+   "ko": "조각을 실행하다, 제작하다",
+   "note": "구상한 디자인을 실제로 만들어내는 과정을 말해요."
+  }
+ ]
+}

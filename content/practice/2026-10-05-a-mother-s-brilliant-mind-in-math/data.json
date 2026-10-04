@@ -1,0 +1,441 @@
+{
+ "video_id": "-OKCsaksamI",
+ "source_title": "Commissioner for Patents Welcome Remarks for Design Day 2024",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 134.04,
+  "end": 159.08
+ },
+ "sentences": [
+  {
+   "text": "I never believed a woman could not excel in math or science because I saw on a daily basis how my mother's brilliant mind worked.",
+   "chunks": [
+    {
+     "en": "I never believed",
+     "ko": "나는 결코 믿지 않았다"
+    },
+    {
+     "en": "a woman could not excel in math or science",
+     "ko": "여성이 수학이나 과학에서 뛰어날 수 없다는 것을"
+    },
+    {
+     "en": "because I saw on a daily basis",
+     "ko": "왜냐하면 나는 매일 보았기 때문에"
+    },
+    {
+     "en": "how my mother's brilliant mind worked.",
+     "ko": "내 어머니의 똑똑한 머리가 어떻게 작동하는지를"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "believed",
+     "strong": true,
+     "link": false,
+     "syl": "LIEVED"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "woman",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "excel",
+     "strong": true,
+     "link": false,
+     "syl": "CEL"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "math",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science",
+     "strong": true,
+     "link": false,
+     "syl": "SCI"
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saw",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "daily",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basis",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mother's",
+     "strong": true,
+     "link": false,
+     "syl": "MOTH"
+    },
+    {
+     "w": "brilliant",
+     "strong": true,
+     "link": false,
+     "syl": "BRIL"
+    },
+    {
+     "w": "mind",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worked.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "mother's brilliant처럼 핵심 명사 앞 형용사에 강세를 주며 리듬을 살리세요.",
+   "start": 134.04,
+   "end": 143.38
+  },
+  {
+   "text": "Whatever math class I was taking in high school, whether it was algebra, geometry, or even differential equations, if I ever got stumped, she explained those concepts so beautifully that everything always made sense.",
+   "chunks": [
+    {
+     "en": "Whatever math class I was taking in high school,",
+     "ko": "고등학교에서 어떤 수학 수업을 듣든"
+    },
+    {
+     "en": "whether it was algebra, geometry, or even differential equations,",
+     "ko": "그게 대수든 기하든 심지어 미분방정식이든"
+    },
+    {
+     "en": "if I ever got stumped,",
+     "ko": "내가 막힐 때마다"
+    },
+    {
+     "en": "she explained those concepts so beautifully",
+     "ko": "그녀는 그 개념들을 너무 아름답게 설명해줘서"
+    },
+    {
+     "en": "that everything always made sense.",
+     "ko": "모든 것이 항상 이해가 되었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Whatever",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "math",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class",
+     "strong": true,
+     "link": false,
+     "syl": "CLASS"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "school,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whether",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "algebra,",
+     "strong": true,
+     "link": false,
+     "syl": "AL"
+    },
+    {
+     "w": "geometry,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "differential",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "equations,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ever",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stumped,",
+     "strong": true,
+     "link": false,
+     "syl": "STUMPED"
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "explained",
+     "strong": true,
+     "link": false,
+     "syl": "PLAINED"
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "concepts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beautifully",
+     "strong": true,
+     "link": false,
+     "syl": "BEAU"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "everything",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sense.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "콤마마다 짧게 끊어 읽고 beautifully에 강세를 주며 리듬을 살리세요.",
+   "start": 143.38,
+   "end": 159.08
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker never believe?",
+   "options": [
+    "That a woman could not excel in math or science",
+    "That math is harder than science",
+    "That her mother was a teacher"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 'I never believed a woman could not excel in math or science'라고 말함."
+  },
+  {
+   "q": "Why did the speaker say her mother's mind worked so well?",
+   "options": [
+    "She saw it on a daily basis",
+    "She read about it in a book",
+    "A teacher told her"
+   ],
+   "answer": 0,
+   "why": "'because I saw on a daily basis how my mother's brilliant mind worked'에서 확인됨."
+  },
+  {
+   "q": "Which subjects does the speaker mention from high school?",
+   "options": [
+    "Algebra, geometry, and differential equations",
+    "Biology and chemistry",
+    "History and literature"
+   ],
+   "answer": 0,
+   "why": "'whether it was algebra, geometry, or even differential equations'에서 언급됨."
+  },
+  {
+   "q": "What happened when the speaker got stumped?",
+   "options": [
+    "Her mother explained the concepts beautifully",
+    "She gave up on the class",
+    "She asked a classmate for help"
+   ],
+   "answer": 0,
+   "why": "'she explained those concepts so beautifully that everything always made sense'에서 나옴."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "excel",
+   "ko": "뛰어나다",
+   "note": "in/at과 함께 쓰여 '~에서 뛰어나다'는 뜻."
+  },
+  {
+   "term": "on a daily basis",
+   "ko": "매일, 일상적으로",
+   "note": "every day와 같은 뜻의 다소 formal한 표현."
+  },
+  {
+   "term": "stumped",
+   "ko": "막힌, 당황한",
+   "note": "문제가 안 풀려 막막할 때 쓰는 구어체 표현."
+  },
+  {
+   "term": "differential equations",
+   "ko": "미분방정식",
+   "note": "수학 전공에서 쓰는 용어."
+  },
+  {
+   "term": "made sense",
+   "ko": "이해가 되다",
+   "note": "make sense는 '말이 되다, 이해되다'라는 뜻."
+  }
+ ]
+}

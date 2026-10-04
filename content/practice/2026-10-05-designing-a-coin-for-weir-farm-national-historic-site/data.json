@@ -1,0 +1,501 @@
+{
+ "video_id": "GNMJe72q0pc",
+ "source_title": "Weir Farm Quarter (2020)",
+ "source_channel": "U.S. Mint",
+ "segment": {
+  "start": 17.43,
+  "end": 42.92
+ },
+ "sentences": [
+  {
+   "text": "I've been a member of the Artistic Infusion Program since 2004.",
+   "chunks": [
+    {
+     "en": "I've been a member",
+     "ko": "저는 회원이었어요"
+    },
+    {
+     "en": "of the Artistic Infusion Program",
+     "ko": "아티스틱 인퓨전 프로그램의"
+    },
+    {
+     "en": "since 2004.",
+     "ko": "2004년부터."
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "member",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Artistic",
+     "strong": true,
+     "link": false,
+     "syl": "tis"
+    },
+    {
+     "w": "Infusion",
+     "strong": true,
+     "link": false,
+     "syl": "fu"
+    },
+    {
+     "w": "Program",
+     "strong": true,
+     "link": false,
+     "syl": "pro"
+    },
+    {
+     "w": "since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2004.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "2004 는 'two thousand FOUR'처럼 마지막 부분에 강세를 둬요.",
+   "start": 17.43,
+   "end": 21.69
+  },
+  {
+   "text": "Weir Farm is the old residence of Julian Alden Weir, who was a great American painter.",
+   "chunks": [
+    {
+     "en": "Weir Farm is the old residence",
+     "ko": "위어 팜은 옛 저택이에요"
+    },
+    {
+     "en": "of Julian Alden Weir,",
+     "ko": "줄리언 올든 위어의,"
+    },
+    {
+     "en": "who was a great American painter.",
+     "ko": "그는 위대한 미국 화가였어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Weir",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Farm",
+     "strong": true,
+     "link": false,
+     "syl": "farm"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "old",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "residence",
+     "strong": true,
+     "link": false,
+     "syl": "res"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Julian",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Alden",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Weir,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": true,
+     "syl": "great"
+    },
+    {
+     "w": "American",
+     "strong": true,
+     "link": false,
+     "syl": "mer"
+    },
+    {
+     "w": "painter.",
+     "strong": true,
+     "link": false,
+     "syl": "paint"
+    }
+   ],
+   "tip": "great American 은 t 소리를 다음 모음에 이어서 발음해요.",
+   "start": 21.69,
+   "end": 29.36
+  },
+  {
+   "text": "Recently I had the opportunity to work on a design for the Weir Farm National Historic Site.",
+   "chunks": [
+    {
+     "en": "Recently I had the opportunity",
+     "ko": "최근에 저는 기회를 얻었어요"
+    },
+    {
+     "en": "to work on a design",
+     "ko": "디자인 작업을 할"
+    },
+    {
+     "en": "for the Weir Farm National Historic Site.",
+     "ko": "위어 팜 국립 사적지를 위한."
+    }
+   ],
+   "words": [
+    {
+     "w": "Recently",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opportunity",
+     "strong": true,
+     "link": false,
+     "syl": "tu"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "design",
+     "strong": true,
+     "link": false,
+     "syl": "sign"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Weir",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Farm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Historic",
+     "strong": true,
+     "link": false,
+     "syl": "tor"
+    },
+    {
+     "w": "Site.",
+     "strong": true,
+     "link": false,
+     "syl": "site"
+    }
+   ],
+   "tip": "work on 은 k 소리를 뒤의 모음에 이어 '워컨'처럼 발음해요.",
+   "start": 29.36,
+   "end": 34.95
+  },
+  {
+   "text": "And that was really special to me because it is a farm that is dedicated to art and painting.",
+   "chunks": [
+    {
+     "en": "And that was really special to me",
+     "ko": "그리고 그건 저에게 정말 특별했어요"
+    },
+    {
+     "en": "because it is a farm",
+     "ko": "왜냐하면 그곳은 농장이니까요"
+    },
+    {
+     "en": "that is dedicated to art and painting.",
+     "ko": "예술과 그림에 전념하는."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "special",
+     "strong": true,
+     "link": false,
+     "syl": "spe"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "farm",
+     "strong": true,
+     "link": false,
+     "syl": "farm"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dedicated",
+     "strong": true,
+     "link": false,
+     "syl": "ded"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "art",
+     "strong": true,
+     "link": false,
+     "syl": "art"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "painting.",
+     "strong": true,
+     "link": false,
+     "syl": "paint"
+    }
+   ],
+   "tip": "is a 는 이어서 '이저'처럼 자연스럽게 연결해요.",
+   "start": 34.95,
+   "end": 42.92
+  }
+ ],
+ "questions": [
+  {
+   "q": "Since when has the speaker been a member of the Artistic Infusion Program?",
+   "options": [
+    "Since 2004",
+    "Since 1994",
+    "Since 2014"
+   ],
+   "answer": 0,
+   "why": "\"I've been a member of the Artistic Infusion Program since 2004.\" 에서 확인할 수 있어요."
+  },
+  {
+   "q": "Who was Julian Alden Weir?",
+   "options": [
+    "A great American painter",
+    "A U.S. President",
+    "A film director"
+   ],
+   "answer": 0,
+   "why": "\"who was a great American painter\" 에서 알 수 있어요."
+  },
+  {
+   "q": "What site did the speaker design for?",
+   "options": [
+    "Weir Farm National Historic Site",
+    "Yellowstone National Park",
+    "The Lincoln Memorial"
+   ],
+   "answer": 0,
+   "why": "\"for the Weir Farm National Historic Site\" 에서 확인할 수 있어요."
+  },
+  {
+   "q": "Why was the project especially meaningful to the speaker?",
+   "options": [
+    "Because the farm is dedicated to art and painting",
+    "Because it paid very well",
+    "Because it was close to home"
+   ],
+   "answer": 0,
+   "why": "\"because it is a farm that is dedicated to art and painting\" 에서 알 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Artistic Infusion Program",
+   "ko": "아티스틱 인퓨전 프로그램",
+   "note": "외부 디자이너가 참여하는 미국 조폐국의 디자인 프로그램 이름이에요."
+  },
+  {
+   "term": "residence",
+   "ko": "거주지, 저택",
+   "note": "사람이 실제로 살았던 집을 formal하게 가리키는 말이에요."
+  },
+  {
+   "term": "opportunity",
+   "ko": "기회",
+   "note": "have the opportunity to 는 '~할 기회를 얻다'는 뜻이에요."
+  },
+  {
+   "term": "National Historic Site",
+   "ko": "국립 사적지",
+   "note": "역사적으로 중요한 장소를 보존하는 미국의 지정 명칭이에요."
+  },
+  {
+   "term": "dedicated to",
+   "ko": "~에 전념하는, 헌신하는",
+   "note": "be dedicated to + 명사/동명사 형태로 자주 써요."
+  }
+ ]
+}

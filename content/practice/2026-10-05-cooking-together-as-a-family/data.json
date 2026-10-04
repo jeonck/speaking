@@ -1,0 +1,682 @@
+{
+ "video_id": "1xdJTFmLpE0",
+ "source_title": "MyPlate Stories: Real Families Share Their Healthy Eating Tips and Solutions",
+ "source_channel": "USDA Food and Nutrition Administration",
+ "segment": {
+  "start": 146.24,
+  "end": 172.96
+ },
+ "sentences": [
+  {
+   "text": "When Dad's not home, Mom does it all, and it's tough.",
+   "chunks": [
+    {
+     "en": "When Dad's not home,",
+     "ko": "아빠가 집에 없을 때,"
+    },
+    {
+     "en": "Mom does it all,",
+     "ko": "엄마가 모든 걸 다 하는데,"
+    },
+    {
+     "en": "and it's tough.",
+     "ko": "그게 힘들어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Dad's",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home,",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "Mom",
+     "strong": true,
+     "link": false,
+     "syl": "mom"
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tough.",
+     "strong": true,
+     "link": false,
+     "syl": "tough"
+    }
+   ],
+   "tip": "does it all은 연음으로 /더즈이톨/처럼 이어서 발음해요.",
+   "start": 146.24,
+   "end": 150.0288888888889
+  },
+  {
+   "text": "They love to help me cook.",
+   "chunks": [
+    {
+     "en": "They love",
+     "ko": "그들은 좋아해요"
+    },
+    {
+     "en": "to help me cook.",
+     "ko": "제가 요리하는 걸 돕는 걸."
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": true,
+     "link": false,
+     "syl": "love"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": true,
+     "link": false,
+     "syl": "help"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cook.",
+     "strong": true,
+     "link": false,
+     "syl": "cook"
+    }
+   ],
+   "tip": "",
+   "start": 150.0288888888889,
+   "end": 152.09555555555556
+  },
+  {
+   "text": "So, I like to give them jobs, and they feel very important.",
+   "chunks": [
+    {
+     "en": "So, I like to give them jobs,",
+     "ko": "그래서 저는 그들에게 할 일을 주는 게 좋아요,"
+    },
+    {
+     "en": "and they feel very important.",
+     "ko": "그러면 그들은 스스로가 아주 중요하다고 느껴요."
+    }
+   ],
+   "words": [
+    {
+     "w": "So,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": false,
+     "syl": "like"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "give",
+     "strong": true,
+     "link": false,
+     "syl": "give"
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jobs,",
+     "strong": true,
+     "link": false,
+     "syl": "jobs"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false,
+     "syl": "feel"
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important.",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    }
+   ],
+   "tip": "",
+   "start": 152.09555555555556,
+   "end": 154.96266666666665
+  },
+  {
+   "text": "Having them involved in the dinner process to me, it's what's important.",
+   "chunks": [
+    {
+     "en": "Having them involved in the dinner process",
+     "ko": "그들을 저녁 준비 과정에 참여시키는 게"
+    },
+    {
+     "en": "to me, it's what's important.",
+     "ko": "저에게는 그게 중요한 거예요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Having",
+     "strong": true,
+     "link": false,
+     "syl": "hav"
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "involved",
+     "strong": true,
+     "link": true,
+     "syl": "volved"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dinner",
+     "strong": true,
+     "link": false,
+     "syl": "din"
+    },
+    {
+     "w": "process",
+     "strong": true,
+     "link": false,
+     "syl": "pro"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "important.",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    }
+   ],
+   "tip": "involved in은 연음으로 이어 읽어요.",
+   "start": 154.96266666666665,
+   "end": 158.13777777777779
+  },
+  {
+   "text": "It makes them know that we eat our food together, we make our food together, we know what we're eating.",
+   "chunks": [
+    {
+     "en": "It makes them know",
+     "ko": "그건 그들이 알게 해줘요"
+    },
+    {
+     "en": "that we eat our food together,",
+     "ko": "우리가 음식을 함께 먹는다는 걸,"
+    },
+    {
+     "en": "we make our food together,",
+     "ko": "우리가 음식을 함께 만든다는 걸,"
+    },
+    {
+     "en": "we know what we're eating.",
+     "ko": "우리가 뭘 먹는지 안다는 걸요."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eat",
+     "strong": true,
+     "link": true,
+     "syl": "eat"
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together,",
+     "strong": true,
+     "link": false,
+     "syl": "gether"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": true,
+     "link": true,
+     "syl": "make"
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "eating.",
+     "strong": true,
+     "link": false,
+     "syl": "eat"
+    }
+   ],
+   "tip": "eat our, make our는 모음으로 연결되어 자연스럽게 이어져요.",
+   "start": 158.13777777777779,
+   "end": 163.48
+  },
+  {
+   "text": "The value of nutrition is something that they'll take with them, and it'll last a lifetime, as well as hopefully they pass it on to their kids as well.",
+   "chunks": [
+    {
+     "en": "The value of nutrition is something",
+     "ko": "영양의 가치는 바로"
+    },
+    {
+     "en": "that they'll take with them,",
+     "ko": "그들이 평생 지니고 갈 어떤 것이에요,"
+    },
+    {
+     "en": "and it'll last a lifetime,",
+     "ko": "그리고 그건 평생 동안 이어질 거예요,"
+    },
+    {
+     "en": "as well as hopefully they pass it on",
+     "ko": "그리고 바라건대 그들이 그걸 물려주기를 바라요"
+    },
+    {
+     "en": "to their kids as well.",
+     "ko": "자기 아이들에게도요."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "value",
+     "strong": true,
+     "link": false,
+     "syl": "val"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nutrition",
+     "strong": true,
+     "link": false,
+     "syl": "tri"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "them,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lifetime,",
+     "strong": true,
+     "link": false,
+     "syl": "life"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hopefully",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pass",
+     "strong": true,
+     "link": true,
+     "syl": "pass"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kids",
+     "strong": true,
+     "link": true,
+     "syl": "kids"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "they'll, it'll은 축약해서 짧게 발음하고, pass it on은 이어서 /패시론/처럼 발음해요.",
+   "start": 163.48,
+   "end": 172.96
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why does the speaker give the children jobs in the kitchen?",
+   "options": [
+    "To make them feel important and involved",
+    "To finish cooking faster",
+    "To keep them out of the kitchen"
+   ],
+   "answer": 0,
+   "why": "\"I like to give them jobs, and they feel very important\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "What does cooking together help the family understand?",
+   "options": [
+    "What they are eating",
+    "How to save money on groceries",
+    "How to bake bread"
+   ],
+   "answer": 0,
+   "why": "\"we know what we're eating\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "According to the speaker, what will stay with the children for life?",
+   "options": [
+    "The value of nutrition",
+    "Expensive kitchen tools",
+    "A specific recipe"
+   ],
+   "answer": 0,
+   "why": "\"The value of nutrition is something that they'll take with them... last a lifetime\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "What does the speaker hope happens with the next generation?",
+   "options": [
+    "That the kids will pass the value of nutrition on to their own kids",
+    "That the kids will become professional chefs",
+    "That the kids will stop helping in the kitchen"
+   ],
+   "answer": 0,
+   "why": "\"hopefully they pass it on to their kids as well\" 문장에서 알 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "pass it on",
+   "ko": "물려주다, 전해주다",
+   "note": "지식이나 가치를 다음 세대에 전달할 때 써요."
+  },
+  {
+   "term": "take ... with them",
+   "ko": "지니고 가다",
+   "note": "경험이나 가치를 평생 간직한다는 뜻이에요."
+  },
+  {
+   "term": "involved in",
+   "ko": "~에 참여하는",
+   "note": "having them involved in처럼 사람과 과정을 연결해요."
+  },
+  {
+   "term": "last a lifetime",
+   "ko": "평생 지속되다",
+   "note": "last가 동사로 '지속되다'라는 뜻으로 쓰여요."
+  }
+ ]
+}

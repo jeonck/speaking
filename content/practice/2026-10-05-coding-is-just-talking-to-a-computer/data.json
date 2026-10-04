@@ -1,0 +1,591 @@
+{
+ "video_id": "_bvSFJ5RI7c",
+ "source_title": "Hack Into Computer Science With NASA",
+ "source_channel": "NASA",
+ "segment": {
+  "start": 605.14,
+  "end": 631.3
+ },
+ "sentences": [
+  {
+   "text": "When I got older, I realized that the brain of a robot is really a computer, and the way to make it smarter is to code programs in it.",
+   "chunks": [
+    {
+     "en": "When I got older,",
+     "ko": "내가 나이가 들면서"
+    },
+    {
+     "en": "I realized that the brain of a robot is really a computer,",
+     "ko": "로봇의 두뇌가 사실은 컴퓨터라는 것을 깨달았다"
+    },
+    {
+     "en": "and the way to make it smarter",
+     "ko": "그리고 그것을 더 똑똑하게 만드는 방법은"
+    },
+    {
+     "en": "is to code programs in it.",
+     "ko": "그 안에 프로그램을 코딩하는 것이라는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "older,",
+     "strong": true,
+     "link": false,
+     "syl": "OLD"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "realized",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain",
+     "strong": true,
+     "link": false,
+     "syl": "BRAIN"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "robot",
+     "strong": true,
+     "link": true,
+     "syl": "RO"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "computer,",
+     "strong": true,
+     "link": false,
+     "syl": "PU"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smarter",
+     "strong": true,
+     "link": false,
+     "syl": "SMART"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "code",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "programs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "robot is처럼 자음 뒤 is는 '즈'로 가볍게 이어 발음하세요.",
+   "start": 605.14,
+   "end": 616.72
+  },
+  {
+   "text": "Coding is a way of just communicating with the machine to get it to do what you want to do.",
+   "chunks": [
+    {
+     "en": "Coding is a way",
+     "ko": "코딩은 하나의 방법이다"
+    },
+    {
+     "en": "of just communicating with the machine",
+     "ko": "그저 기계와 소통하는"
+    },
+    {
+     "en": "to get it to do what you want to do.",
+     "ko": "당신이 원하는 것을 하게 만드는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Coding",
+     "strong": true,
+     "link": false,
+     "syl": "CO"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "WAY"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "communicating",
+     "strong": true,
+     "link": false,
+     "syl": "MU"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "machine",
+     "strong": true,
+     "link": false,
+     "syl": "CHINE"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": true,
+     "link": false,
+     "syl": "WANT"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "get it에서 t가 약해지며 it과 이어져 '게릿'처럼 들려요.",
+   "start": 616.72,
+   "end": 621.85
+  },
+  {
+   "text": "You're just speaking in that computer's language, so you just have to learn how to speak to that computer.",
+   "chunks": [
+    {
+     "en": "You're just speaking in that computer's language,",
+     "ko": "당신은 그 컴퓨터의 언어로 말하고 있는 것이다"
+    },
+    {
+     "en": "so you just have to learn",
+     "ko": "그러니 당신은 그냥 배워야 한다"
+    },
+    {
+     "en": "how to speak to that computer.",
+     "ko": "그 컴퓨터에게 말하는 법을"
+    }
+   ],
+   "words": [
+    {
+     "w": "You're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speaking",
+     "strong": true,
+     "link": false,
+     "syl": "SPEAK"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "computer's",
+     "strong": true,
+     "link": false,
+     "syl": "PU"
+    },
+    {
+     "w": "language,",
+     "strong": true,
+     "link": false,
+     "syl": "LAN"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": false,
+     "syl": "LEARN"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speak",
+     "strong": true,
+     "link": false,
+     "syl": "SPEAK"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "computer.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "computer's language에서 's는 짧게 흘려 발음하세요.",
+   "start": 621.85,
+   "end": 627.36
+  },
+  {
+   "text": "And once you do that, it's really just a matter of communicating with it.",
+   "chunks": [
+    {
+     "en": "And once you do that,",
+     "ko": "그리고 그것을 하면"
+    },
+    {
+     "en": "it's really just a matter of communicating with it.",
+     "ko": "그것은 결국 소통하는 문제일 뿐이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "once",
+     "strong": true,
+     "link": false,
+     "syl": "ONCE"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "matter",
+     "strong": true,
+     "link": true,
+     "syl": "MAT"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "communicating",
+     "strong": true,
+     "link": false,
+     "syl": "MU"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "matter of처럼 r 뒤 모음이 이어져 부드럽게 연결돼요.",
+   "start": 627.36,
+   "end": 631.3
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say a robot's brain really is?",
+   "options": [
+    "A computer",
+    "A human brain copy",
+    "A simple switch"
+   ],
+   "answer": 0,
+   "why": "'the brain of a robot is really a computer'에서 확인됨."
+  },
+  {
+   "q": "According to the speaker, what makes a robot smarter?",
+   "options": [
+    "Coding programs into it",
+    "Giving it more batteries",
+    "Making it bigger"
+   ],
+   "answer": 0,
+   "why": "'the way to make it smarter is to code programs in it'에서 나옴."
+  },
+  {
+   "q": "How does the speaker describe coding?",
+   "options": [
+    "A way of communicating with the machine",
+    "A way of building hardware",
+    "A way of drawing diagrams"
+   ],
+   "answer": 0,
+   "why": "'Coding is a way of just communicating with the machine'에서 나옴."
+  },
+  {
+   "q": "What does the speaker say you must learn to do?",
+   "options": [
+    "Speak to the computer in its language",
+    "Build your own robot",
+    "Memorize math formulas"
+   ],
+   "answer": 0,
+   "why": "'you just have to learn how to speak to that computer'에서 나옴."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "code programs",
+   "ko": "프로그램을 짜다/코딩하다",
+   "note": "code를 동사로 쓰면 '프로그램을 작성하다'는 뜻."
+  },
+  {
+   "term": "communicating with",
+   "ko": "~와 소통하다",
+   "note": "machine, computer 같은 대상과도 쓸 수 있음."
+  },
+  {
+   "term": "a matter of",
+   "ko": "~의 문제",
+   "note": "it's a matter of는 '그것은 ~의 문제다'라는 뜻."
+  },
+  {
+   "term": "computer's language",
+   "ko": "컴퓨터의 언어",
+   "note": "프로그래밍 언어를 비유적으로 표현한 말."
+  }
+ ]
+}

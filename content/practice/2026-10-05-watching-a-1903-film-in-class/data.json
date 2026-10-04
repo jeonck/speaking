@@ -1,0 +1,535 @@
+{
+ "video_id": "RKC88CW3h00",
+ "source_title": "Engaging Young Learners with Primary Sources",
+ "source_channel": "Library of Congress",
+ "segment": {
+  "start": 157.37,
+  "end": 182.19
+ },
+ "sentences": [
+  {
+   "text": "All students gathered on the carpet.",
+   "chunks": [
+    {
+     "en": "All students",
+     "ko": "모든 학생들이"
+    },
+    {
+     "en": "gathered on the carpet.",
+     "ko": "카펫 위에 모여 앉았다"
+    }
+   ],
+   "words": [
+    {
+     "w": "All",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": true,
+     "link": false,
+     "syl": "STU"
+    },
+    {
+     "w": "gathered",
+     "strong": true,
+     "link": false,
+     "syl": "GATH"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carpet.",
+     "strong": true,
+     "link": false,
+     "syl": "CAR"
+    }
+   ],
+   "tip": "gathered on the carpet에서 on은 약하게 흘려 발음하세요.",
+   "start": 157.37,
+   "end": 159.54
+  },
+  {
+   "text": "The classroom lights were turned off and the boys and girls began wondering what they were going to watch.",
+   "chunks": [
+    {
+     "en": "The classroom lights were turned off",
+     "ko": "교실 불이 꺼졌다"
+    },
+    {
+     "en": "and the boys and girls began wondering",
+     "ko": "그리고 남학생과 여학생들은 궁금해하기 시작했다"
+    },
+    {
+     "en": "what they were going to watch.",
+     "ko": "그들이 무엇을 보게 될지"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "classroom",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lights",
+     "strong": true,
+     "link": false,
+     "syl": "LIGHTS"
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turned",
+     "strong": true,
+     "link": true,
+     "syl": "TURNED"
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "boys",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "girls",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "began",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wondering",
+     "strong": true,
+     "link": false,
+     "syl": "WON"
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "watch.",
+     "strong": true,
+     "link": false,
+     "syl": "WATCH"
+    }
+   ],
+   "tip": "turned off는 d와 off가 이어져 '턴돕'처럼 들려요.",
+   "start": 159.54,
+   "end": 165.35
+  },
+  {
+   "text": "They saw a short film from 1903 titled Collecting Mail.",
+   "chunks": [
+    {
+     "en": "They saw a short film from 1903",
+     "ko": "그들은 1903년의 짧은 영화를 보았다"
+    },
+    {
+     "en": "titled Collecting Mail.",
+     "ko": "제목은 '우편물 수거'였다"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saw",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "short",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "film",
+     "strong": true,
+     "link": false,
+     "syl": "FILM"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1903",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "titled",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Collecting",
+     "strong": true,
+     "link": false,
+     "syl": "LECT"
+    },
+    {
+     "w": "Mail.",
+     "strong": true,
+     "link": false,
+     "syl": "MAIL"
+    }
+   ],
+   "tip": "1903은 nineteen oh three로 읽고 oh는 짧게 발음하세요.",
+   "start": 165.35,
+   "end": 170.17
+  },
+  {
+   "text": "Some students couldn't contain themselves and called out what they saw or a connection they made with the film.",
+   "chunks": [
+    {
+     "en": "Some students couldn't contain themselves",
+     "ko": "몇몇 학생들은 참지 못하고"
+    },
+    {
+     "en": "and called out what they saw",
+     "ko": "자신이 본 것을 소리쳐 말했다"
+    },
+    {
+     "en": "or a connection they made with the film.",
+     "ko": "또는 영화와 연결지은 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "couldn't",
+     "strong": true,
+     "link": false,
+     "syl": "COULDN'T"
+    },
+    {
+     "w": "contain",
+     "strong": true,
+     "link": false,
+     "syl": "TAIN"
+    },
+    {
+     "w": "themselves",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": true,
+     "link": true,
+     "syl": "CALLED"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saw",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "connection",
+     "strong": true,
+     "link": false,
+     "syl": "NEC"
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "film.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "called out처럼 called의 d와 out이 이어져 '콜드아웃'처럼 들려요.",
+   "start": 170.17,
+   "end": 177.08
+  },
+  {
+   "text": "One girl called out, my dad watches black and white movies all the time!",
+   "chunks": [
+    {
+     "en": "One girl called out,",
+     "ko": "한 여학생이 이렇게 소리쳤다"
+    },
+    {
+     "en": "my dad watches black and white movies",
+     "ko": "우리 아빠는 흑백 영화를 본다고"
+    },
+    {
+     "en": "all the time!",
+     "ko": "항상!"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "girl",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dad",
+     "strong": true,
+     "link": false,
+     "syl": "DAD"
+    },
+    {
+     "w": "watches",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "black",
+     "strong": true,
+     "link": true,
+     "syl": "BLACK"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "white",
+     "strong": true,
+     "link": false,
+     "syl": "WHITE"
+    },
+    {
+     "w": "movies",
+     "strong": true,
+     "link": false,
+     "syl": "MOV"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time!",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "black and white에서 and는 'n'으로 축약돼 짧게 발음돼요.",
+   "start": 177.08,
+   "end": 182.19
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did the students gather?",
+   "options": [
+    "On the carpet",
+    "At their desks",
+    "In the hallway"
+   ],
+   "answer": 0,
+   "why": "'All students gathered on the carpet.'에서 나옴."
+  },
+  {
+   "q": "What was the title of the short film they watched?",
+   "options": [
+    "Collecting Mail",
+    "The Great Train Robbery",
+    "A Trip to the Moon"
+   ],
+   "answer": 0,
+   "why": "'a short film from 1903 titled Collecting Mail'에서 확인됨."
+  },
+  {
+   "q": "What did some students do while watching the film?",
+   "options": [
+    "Called out what they saw or connections they made",
+    "Left the classroom",
+    "Fell asleep"
+   ],
+   "answer": 0,
+   "why": "'called out what they saw or a connection they made with the film'에서 나옴."
+  },
+  {
+   "q": "What did one girl say about her dad?",
+   "options": [
+    "He watches black and white movies all the time",
+    "He made the film",
+    "He is a teacher"
+   ],
+   "answer": 0,
+   "why": "'my dad watches black and white movies all the time'에서 나옴."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "gathered on the carpet",
+   "ko": "카펫에 모여 앉다",
+   "note": "초등 교실에서 아이들이 바닥에 모여 앉는 상황을 묘사."
+  },
+  {
+   "term": "contain themselves",
+   "ko": "참다, 억누르다",
+   "note": "흥분이나 감정을 억누르지 못할 때 couldn't contain themselves로 씀."
+  },
+  {
+   "term": "called out",
+   "ko": "소리쳐 말하다",
+   "note": "갑자기 크게 말하는 것을 뜻함."
+  },
+  {
+   "term": "connection",
+   "ko": "연결, 관련성",
+   "note": "make a connection은 '관련짓다'는 의미."
+  }
+ ]
+}

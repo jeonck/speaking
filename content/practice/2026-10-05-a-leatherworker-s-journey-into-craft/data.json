@@ -1,0 +1,469 @@
+{
+ "video_id": "3f-hIL5HXUY",
+ "source_title": "Cary Schwarz: National Heritage Fellowship Tribute Video",
+ "source_channel": "National Endowment for the Arts",
+ "segment": {
+  "start": 64.48,
+  "end": 89.47
+ },
+ "sentences": [
+  {
+   "text": "Every once in a while people will ask me, \"So did you grow up riding?\"",
+   "chunks": [
+    {
+     "en": "Every once in a while",
+     "ko": "가끔씩, 때때로"
+    },
+    {
+     "en": "people will ask me,",
+     "ko": "사람들이 저에게 물어요,"
+    },
+    {
+     "en": "\"So did you grow up riding?\"",
+     "ko": "\"그래서 당신은 말을 타면서 자랐나요?\" 라고"
+    }
+   ],
+   "words": [
+    {
+     "w": "Every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "once",
+     "strong": true,
+     "link": false,
+     "syl": "once"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "while",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ask",
+     "strong": true,
+     "link": false,
+     "syl": "ask"
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "\"So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "did",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grow",
+     "strong": true,
+     "link": true,
+     "syl": "grow"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "riding?\"",
+     "strong": true,
+     "link": false,
+     "syl": "ri"
+    }
+   ],
+   "tip": "every once in a while 는 한 단어처럼 빠르게 이어 말해요.",
+   "start": 64.48,
+   "end": 68.98
+  },
+  {
+   "text": "Well, actually I did.",
+   "chunks": [
+    {
+     "en": "Well,",
+     "ko": "음,"
+    },
+    {
+     "en": "actually I did.",
+     "ko": "사실 저는 그랬어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Well,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": true,
+     "link": false,
+     "syl": "ac"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "did.",
+     "strong": true,
+     "link": false,
+     "syl": "did"
+    }
+   ],
+   "tip": "did 를 세게 눌러서 대비(contrast)의 의미를 살려주세요.",
+   "start": 68.98,
+   "end": 70.24
+  },
+  {
+   "text": "I grew up riding a tractor.",
+   "chunks": [
+    {
+     "en": "I grew up",
+     "ko": "저는 자랐어요"
+    },
+    {
+     "en": "riding a tractor.",
+     "ko": "트랙터를 타면서."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grew",
+     "strong": true,
+     "link": true,
+     "syl": "grew"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "riding",
+     "strong": true,
+     "link": true,
+     "syl": "ri"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tractor.",
+     "strong": true,
+     "link": false,
+     "syl": "trac"
+    }
+   ],
+   "tip": "grew up 은 끊지 않고 하나처럼 이어 발음해요.",
+   "start": 70.24,
+   "end": 74.82
+  },
+  {
+   "text": "I developed an interest in leather in 1971 when I got gifted a Tandy leather kit.",
+   "chunks": [
+    {
+     "en": "I developed an interest in leather",
+     "ko": "저는 가죽에 관심이 생겼어요"
+    },
+    {
+     "en": "in 1971",
+     "ko": "1971년에"
+    },
+    {
+     "en": "when I got gifted",
+     "ko": "제가 선물로 받았을 때"
+    },
+    {
+     "en": "a Tandy leather kit.",
+     "ko": "탠디 가죽 공예 키트를."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "developed",
+     "strong": true,
+     "link": false,
+     "syl": "vel"
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "interest",
+     "strong": true,
+     "link": false,
+     "syl": "in"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leather",
+     "strong": true,
+     "link": false,
+     "syl": "lea"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1971",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gifted",
+     "strong": true,
+     "link": false,
+     "syl": "gift"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Tandy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kit.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "an interest 는 n 소리를 연결해서 '언 인터레스트'처럼 이어 말해요.",
+   "start": 74.82,
+   "end": 82.83
+  },
+  {
+   "text": "That pretty much lit the fire, and then started just doing my own design.",
+   "chunks": [
+    {
+     "en": "That pretty much lit the fire,",
+     "ko": "그게 거의 불을 붙인 셈이죠,"
+    },
+    {
+     "en": "and then started just doing my own design.",
+     "ko": "그리고 그냥 제 디자인을 직접 만들기 시작했어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lit",
+     "strong": true,
+     "link": false,
+     "syl": "lit"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fire,",
+     "strong": true,
+     "link": false,
+     "syl": "fire"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "design.",
+     "strong": true,
+     "link": false,
+     "syl": "sign"
+    }
+   ],
+   "tip": "lit the fire 는 숙어로, 열정에 불이 붙었다는 뜻이에요.",
+   "start": 82.83,
+   "end": 89.47
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker say he actually grew up riding?",
+   "options": [
+    "On a tractor",
+    "On a horse",
+    "In a car"
+   ],
+   "answer": 0,
+   "why": "\"I grew up riding a tractor.\" 라는 문장에서 확인할 수 있어요."
+  },
+  {
+   "q": "In what year did the speaker develop an interest in leather?",
+   "options": [
+    "1971",
+    "1981",
+    "1991"
+   ],
+   "answer": 0,
+   "why": "\"I developed an interest in leather in 1971\" 에서 나와요."
+  },
+  {
+   "q": "What gift sparked his interest in leatherworking?",
+   "options": [
+    "A Tandy leather kit",
+    "A sewing machine",
+    "A pair of boots"
+   ],
+   "answer": 0,
+   "why": "\"when I got gifted a Tandy leather kit\" 에서 확인할 수 있어요."
+  },
+  {
+   "q": "What did the speaker start doing after that?",
+   "options": [
+    "Designing his own leather pieces",
+    "Teaching leather classes",
+    "Selling tractors"
+   ],
+   "answer": 0,
+   "why": "\"then started just doing my own design\" 에서 알 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "every once in a while",
+   "ko": "가끔씩, 때때로",
+   "note": "빈도를 나타내는 표현으로 문장 맨 앞이나 뒤에 자주 와요."
+  },
+  {
+   "term": "lit the fire",
+   "ko": "불을 붙이다, 열정을 불러일으키다",
+   "note": "관심이나 열정이 시작됐다는 뜻의 비유적 표현이에요."
+  },
+  {
+   "term": "gifted",
+   "ko": "선물로 받은",
+   "note": "got gifted something 형태로 '~을 선물로 받았다'는 뜻이에요."
+  },
+  {
+   "term": "pretty much",
+   "ko": "거의, 대체로",
+   "note": "구어체에서 정도를 완화해 말할 때 자주 써요."
+  }
+ ]
+}

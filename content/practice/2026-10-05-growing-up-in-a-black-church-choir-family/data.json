@@ -1,0 +1,549 @@
+{
+ "video_id": "PSp5dR4azp4",
+ "source_title": "NEA Jazz Masters: Carmen Lundy (2026)",
+ "source_channel": "National Endowment for the Arts",
+ "segment": {
+  "start": 15.77,
+  "end": 40.58
+ },
+ "sentences": [
+  {
+   "text": "I was born in Miami, Florida.",
+   "chunks": [
+    {
+     "en": "I was born",
+     "ko": "저는 태어났어요"
+    },
+    {
+     "en": "in Miami, Florida.",
+     "ko": "마이애미, 플로리다에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "born",
+     "strong": true,
+     "link": true,
+     "syl": "born"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Miami,",
+     "strong": true,
+     "link": false,
+     "syl": "am"
+    },
+    {
+     "w": "Florida.",
+     "strong": true,
+     "link": false,
+     "syl": "flor"
+    }
+   ],
+   "tip": "born in 은 n 소리를 이어서 '본 인'처럼 연결해 말해요.",
+   "start": 15.77,
+   "end": 17.52
+  },
+  {
+   "text": "The family life was really centered around church, the community.",
+   "chunks": [
+    {
+     "en": "The family life was really centered around church,",
+     "ko": "가족 생활은 정말 교회를 중심으로 돌아갔어요,"
+    },
+    {
+     "en": "the community.",
+     "ko": "그리고 공동체요."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "link": false,
+     "syl": "fa"
+    },
+    {
+     "w": "life",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "centered",
+     "strong": true,
+     "link": false,
+     "syl": "cen"
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "church,",
+     "strong": true,
+     "link": false,
+     "syl": "church"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "community.",
+     "strong": true,
+     "link": false,
+     "syl": "mu"
+    }
+   ],
+   "tip": "centered around 처럼 전치사는 약하게, 핵심 명사는 세게 읽어요.",
+   "start": 17.52,
+   "end": 21.98
+  },
+  {
+   "text": "In the black church things sort of happened spontaneously.",
+   "chunks": [
+    {
+     "en": "In the black church",
+     "ko": "흑인 교회에서는"
+    },
+    {
+     "en": "things sort of happened",
+     "ko": "일들이 어느 정도 그냥 일어났어요"
+    },
+    {
+     "en": "spontaneously.",
+     "ko": "자연스럽게 말이에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "black",
+     "strong": true,
+     "link": false,
+     "syl": "black"
+    },
+    {
+     "w": "church",
+     "strong": true,
+     "link": false,
+     "syl": "church"
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sort",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happened",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "spontaneously.",
+     "strong": true,
+     "link": false,
+     "syl": "ta"
+    }
+   ],
+   "tip": "sort of 는 빠르게 줄여서 '소러브'처럼 발음해요.",
+   "start": 21.98,
+   "end": 24.77
+  },
+  {
+   "text": "So it could be any moment someone would have this moment to sing or start the song.",
+   "chunks": [
+    {
+     "en": "So it could be any moment",
+     "ko": "그래서 그건 언제든 일어날 수 있었어요"
+    },
+    {
+     "en": "someone would have this moment to sing",
+     "ko": "누군가 노래할 순간을 갖게 되거나"
+    },
+    {
+     "en": "or start the song.",
+     "ko": "노래를 시작하게 되는 거예요."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "any",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moment",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    },
+    {
+     "w": "someone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moment",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sing",
+     "strong": true,
+     "link": false,
+     "syl": "sing"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "song.",
+     "strong": true,
+     "link": false,
+     "syl": "song"
+    }
+   ],
+   "tip": "moment 가 두 번 나오는데, 처음 나온 것만 세게 강조해요.",
+   "start": 24.77,
+   "end": 33.12
+  },
+  {
+   "text": "My mother sang with the Apostolic Singers.",
+   "chunks": [
+    {
+     "en": "My mother sang",
+     "ko": "저희 어머니는 노래했어요"
+    },
+    {
+     "en": "with the Apostolic Singers.",
+     "ko": "아포스톨릭 싱어즈와 함께."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mother",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    },
+    {
+     "w": "sang",
+     "strong": true,
+     "link": false,
+     "syl": "sang"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Apostolic",
+     "strong": true,
+     "link": false,
+     "syl": "sto"
+    },
+    {
+     "w": "Singers.",
+     "strong": true,
+     "link": false,
+     "syl": "sing"
+    }
+   ],
+   "tip": "Apostolic 은 세 번째 음절(sto)에 강세가 있어요.",
+   "start": 33.12,
+   "end": 35.66
+  },
+  {
+   "text": "They were together for more than 40 years.",
+   "chunks": [
+    {
+     "en": "They were together",
+     "ko": "그들은 함께였어요"
+    },
+    {
+     "en": "for more than 40 years.",
+     "ko": "40년 넘게."
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together",
+     "strong": true,
+     "link": false,
+     "syl": "geth"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "40",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    }
+   ],
+   "tip": "40 은 'FOR-ty'처럼 앞 음절에 강세를 둬요.",
+   "start": 35.66,
+   "end": 38.08
+  },
+  {
+   "text": "The same women, the same voices.",
+   "chunks": [
+    {
+     "en": "The same women,",
+     "ko": "같은 여성들이,"
+    },
+    {
+     "en": "the same voices.",
+     "ko": "같은 목소리들이었어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": true,
+     "link": false,
+     "syl": "same"
+    },
+    {
+     "w": "women,",
+     "strong": true,
+     "link": false,
+     "syl": "wo"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": true,
+     "link": false,
+     "syl": "same"
+    },
+    {
+     "w": "voices.",
+     "strong": true,
+     "link": false,
+     "syl": "voi"
+    }
+   ],
+   "tip": "same 을 두 번 다 세게 눌러 대칭을 살려주세요.",
+   "start": 38.08,
+   "end": 40.58
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where was the speaker born?",
+   "options": [
+    "Miami, Florida",
+    "Atlanta, Georgia",
+    "Chicago, Illinois"
+   ],
+   "answer": 0,
+   "why": "\"I was born in Miami, Florida.\" 에서 확인할 수 있어요."
+  },
+  {
+   "q": "What was family life centered around?",
+   "options": [
+    "Church and community",
+    "School activities",
+    "Sports"
+   ],
+   "answer": 0,
+   "why": "\"centered around church, the community\" 에서 알 수 있어요."
+  },
+  {
+   "q": "How did singing happen in the black church, according to the speaker?",
+   "options": [
+    "Spontaneously, at any moment",
+    "Only during scheduled performances",
+    "Only on holidays"
+   ],
+   "answer": 0,
+   "why": "\"things sort of happened spontaneously\" 와 \"it could be any moment\" 에서 나와요."
+  },
+  {
+   "q": "How long were the singers together?",
+   "options": [
+    "More than 40 years",
+    "About 10 years",
+    "Only a few months"
+   ],
+   "answer": 0,
+   "why": "\"They were together for more than 40 years.\" 에서 확인할 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "centered around",
+   "ko": "~을 중심으로 하다",
+   "note": "삶이나 활동의 중심이 되는 대상을 말할 때 써요."
+  },
+  {
+   "term": "sort of",
+   "ko": "어느 정도, 일종의",
+   "note": "말을 부드럽게 흐리는 구어체 표현이에요."
+  },
+  {
+   "term": "spontaneously",
+   "ko": "자연스럽게, 즉흥적으로",
+   "note": "계획 없이 저절로 일어나는 일을 묘사해요."
+  },
+  {
+   "term": "together for",
+   "ko": "~동안 함께",
+   "note": "기간을 나타낼 때 for 뒤에 기간을 붙여요."
+  }
+ ]
+}

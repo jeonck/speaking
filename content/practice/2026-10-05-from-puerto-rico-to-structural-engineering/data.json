@@ -1,0 +1,509 @@
+{
+ "video_id": "S49l1P-d8rg",
+ "source_title": "STEM All-Stars",
+ "source_channel": "NASA",
+ "segment": {
+  "start": 77.28,
+  "end": 98.2
+ },
+ "sentences": [
+  {
+   "text": "I grew up in Mayaguez, Puerto Rico and I currently live in Orlando, Florida.",
+   "chunks": [
+    {
+     "en": "I grew up in Mayaguez, Puerto Rico",
+     "ko": "나는 마야궤스, 푸에르토리코에서 자랐고"
+    },
+    {
+     "en": "and I currently live in Orlando, Florida.",
+     "ko": "현재는 플로리다 올랜도에 살고 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grew",
+     "strong": true,
+     "link": false,
+     "syl": "GREW"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mayaguez,",
+     "strong": true,
+     "link": false,
+     "syl": "GUEZ"
+    },
+    {
+     "w": "Puerto",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Rico",
+     "strong": true,
+     "link": false,
+     "syl": "RI"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "currently",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": true,
+     "syl": "LIVE"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Orlando,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Florida.",
+     "strong": true,
+     "link": false,
+     "syl": "FLOR"
+    }
+   ],
+   "tip": "live in처럼 동사가 전치사와 만날 때 자연스럽게 이어 읽으세요.",
+   "start": 77.28,
+   "end": 81.71
+  },
+  {
+   "text": "My grandfather was the first person to introduce me to engineering and I discovered I can combine my love for math and space in this field.",
+   "chunks": [
+    {
+     "en": "My grandfather was the first person to introduce me to engineering",
+     "ko": "할아버지가 나에게 공학을 처음 소개해 준 사람이었고"
+    },
+    {
+     "en": "and I discovered I can combine my love for math",
+     "ko": "수학에 대한 사랑을 결합할 수 있다는 것을 나는 발견했다"
+    },
+    {
+     "en": "and space in this field.",
+     "ko": "그리고 우주에 대한 사랑도 이 분야에서 말이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grandfather",
+     "strong": true,
+     "link": false,
+     "syl": "GRAND"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "person",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "introduce",
+     "strong": true,
+     "link": true,
+     "syl": "DUCE"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "engineering",
+     "strong": true,
+     "link": false,
+     "syl": "NEER"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "discovered",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "combine",
+     "strong": true,
+     "link": false,
+     "syl": "BINE"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "math",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "space",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "field.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "introduce me, and I처럼 자음 끝 단어가 모음으로 시작하는 단어와 이어질 때 부드럽게 연결하세요.",
+   "start": 81.71,
+   "end": 89.32
+  },
+  {
+   "text": "I earned my bachelor's degree in civil engineering and my master's degree in structural engineering.",
+   "chunks": [
+    {
+     "en": "I earned my bachelor's degree in civil engineering",
+     "ko": "나는 토목공학 학사 학위를 받았고"
+    },
+    {
+     "en": "and my master's degree in structural engineering.",
+     "ko": "구조공학 석사 학위도 받았다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "earned",
+     "strong": true,
+     "link": false,
+     "syl": "EARNED"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bachelor's",
+     "strong": true,
+     "link": false,
+     "syl": "BACH"
+    },
+    {
+     "w": "degree",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "civil",
+     "strong": true,
+     "link": false,
+     "syl": "CIV"
+    },
+    {
+     "w": "engineering",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "master's",
+     "strong": true,
+     "link": false,
+     "syl": "MAS"
+    },
+    {
+     "w": "degree",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "structural",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "engineering.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "bachelor's와 master's가 대조되는 자리이니 두 단어 모두 힘을 주어 읽으세요.",
+   "start": 89.32,
+   "end": 94.29
+  },
+  {
+   "text": "My advice to students?",
+   "chunks": [
+    {
+     "en": "My advice to students?",
+     "ko": "학생들에게 해주고 싶은 조언은?"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "advice",
+     "strong": true,
+     "link": false,
+     "syl": "VICE"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students?",
+     "strong": true,
+     "link": false,
+     "syl": "STU"
+    }
+   ],
+   "tip": "문장 끝을 올려 읽으며 질문처럼 들리게 하세요.",
+   "start": 94.29,
+   "end": 95.73
+  },
+  {
+   "text": "Never give up on your dreams.",
+   "chunks": [
+    {
+     "en": "Never give up on your dreams.",
+     "ko": "절대 꿈을 포기하지 마라"
+    }
+   ],
+   "words": [
+    {
+     "w": "Never",
+     "strong": true,
+     "link": false,
+     "syl": "NEV"
+    },
+    {
+     "w": "give",
+     "strong": true,
+     "link": true,
+     "syl": "GIVE"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dreams.",
+     "strong": true,
+     "link": false,
+     "syl": "DREAMS"
+    }
+   ],
+   "tip": "give up은 한 덩어리처럼 붙여 읽는 구동사입니다.",
+   "start": 95.73,
+   "end": 98.2
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did the speaker grow up?",
+   "options": [
+    "In Mayaguez, Puerto Rico",
+    "In Orlando, Florida",
+    "In Michigan"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 마야궤스, 푸에르토리코에서 자랐다고 말함"
+  },
+  {
+   "q": "Who first introduced the speaker to engineering?",
+   "options": [
+    "The speaker's grandfather",
+    "A teacher",
+    "A classmate"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 할아버지가 처음 공학을 소개해 주었다고 말함"
+  },
+  {
+   "q": "What two degrees did the speaker earn?",
+   "options": [
+    "Civil engineering and structural engineering",
+    "Computer science and math",
+    "Biology and chemistry"
+   ],
+   "answer": 0,
+   "why": "문장 3에서 토목공학 학사와 구조공학 석사를 받았다고 말함"
+  },
+  {
+   "q": "What advice does the speaker give to students?",
+   "options": [
+    "Never give up on your dreams",
+    "Study every subject equally",
+    "Move to a big city"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 꿈을 포기하지 말라고 말함"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "introduce someone to",
+   "ko": "~을 ~에게 소개하다, 접하게 하다",
+   "note": "introduce me to engineering처럼 사람과 분야를 연결할 때 씀"
+  },
+  {
+   "term": "combine A with B",
+   "ko": "A와 B를 결합하다",
+   "note": "combine my love for math and space in this field처럼 둘 이상을 합칠 때 씀"
+  },
+  {
+   "term": "bachelor's degree",
+   "ko": "학사 학위",
+   "note": "4년제 대학 졸업 학위를 가리킴"
+  },
+  {
+   "term": "master's degree",
+   "ko": "석사 학위",
+   "note": "bachelor's degree 다음 단계의 학위"
+  },
+  {
+   "term": "give up on",
+   "ko": "~을 포기하다",
+   "note": "give up on your dreams처럼 목표나 희망을 포기할 때 씀"
+  }
+ ]
+}

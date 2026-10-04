@@ -1,0 +1,647 @@
+{
+ "video_id": "gpFCqsoDIp8",
+ "source_title": "Get to Know Your Seafood from Ocean to Plate",
+ "source_channel": "NOAA Fisheries",
+ "segment": {
+  "start": 225.79,
+  "end": 251.05
+ },
+ "sentences": [
+  {
+   "text": "No matter where you are, if you're in the Gulf, buy local shrimp.",
+   "chunks": [
+    {
+     "en": "No matter where you are,",
+     "ko": "어디에 있든,"
+    },
+    {
+     "en": "if you're in the Gulf,",
+     "ko": "만약 걸프에 있다면,"
+    },
+    {
+     "en": "buy local shrimp.",
+     "ko": "현지 새우를 사라."
+    }
+   ],
+   "words": [
+    {
+     "w": "No",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "matter",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Gulf,",
+     "strong": true,
+     "link": false,
+     "syl": "GULF"
+    },
+    {
+     "w": "buy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "shrimp.",
+     "strong": true,
+     "link": false,
+     "syl": "SHRIMP"
+    }
+   ],
+   "tip": "",
+   "start": 225.79,
+   "end": 228.26
+  },
+  {
+   "text": "If you're in the Northeast, buy local haddock, local cod or flounders or scallops in the Northeast, the same with lobster.",
+   "chunks": [
+    {
+     "en": "If you're in the Northeast,",
+     "ko": "만약 노스이스트에 있다면,"
+    },
+    {
+     "en": "buy local haddock, local cod or flounders or scallops in the Northeast,",
+     "ko": "현지 해덕, 현지 대구나 가자미 또는 가리비를 노스이스트에서 사라,"
+    },
+    {
+     "en": "the same with lobster.",
+     "ko": "바닷가재도 마찬가지다."
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Northeast,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "buy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "haddock,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cod",
+     "strong": true,
+     "link": true,
+     "syl": "COD"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flounders",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scallops",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Northeast,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lobster.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "cod or, flounders or, scallops in처럼 자음 뒤 모음으로 이어 읽어요.",
+   "start": 228.26,
+   "end": 235.51
+  },
+  {
+   "text": "I mean we have a really good fishery with good fresh fish.",
+   "chunks": [
+    {
+     "en": "I mean we have",
+     "ko": "그러니까 우리는 가지고 있다"
+    },
+    {
+     "en": "a really good fishery",
+     "ko": "정말 좋은 어장을"
+    },
+    {
+     "en": "with good fresh fish.",
+     "ko": "좋고 신선한 생선과 함께."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mean",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fishery",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fresh",
+     "strong": true,
+     "link": false,
+     "syl": "FRESH"
+    },
+    {
+     "w": "fish.",
+     "strong": true,
+     "link": false,
+     "syl": "FISH"
+    }
+   ],
+   "tip": "",
+   "start": 235.51,
+   "end": 239.31
+  },
+  {
+   "text": "I mean, local is the way to go.",
+   "chunks": [
+    {
+     "en": "I mean,",
+     "ko": "그러니까,"
+    },
+    {
+     "en": "local is the way to go.",
+     "ko": "현지가 답이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mean,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "WAY"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go.",
+     "strong": true,
+     "link": false,
+     "syl": "GO"
+    }
+   ],
+   "tip": "",
+   "start": 239.31,
+   "end": 242.24
+  },
+  {
+   "text": "We're giving back to the community already just by buying our product locally.",
+   "chunks": [
+    {
+     "en": "We're giving back to the community",
+     "ko": "우리는 지역사회에 환원하고 있다"
+    },
+    {
+     "en": "already just by buying our product locally.",
+     "ko": "이미 우리 제품을 현지에서 구매함으로써."
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "giving",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "community",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "already",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buying",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "product",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "locally.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "buying our는 이어서 발음돼요.",
+   "start": 242.24,
+   "end": 245.54
+  },
+  {
+   "text": "We're supporting the same people that are coming in and supporting us back, and it creates a cycle there, a circle.",
+   "chunks": [
+    {
+     "en": "We're supporting the same people",
+     "ko": "우리는 같은 사람들을 지원하고 있다"
+    },
+    {
+     "en": "that are coming in and supporting us back,",
+     "ko": "들어와서 우리를 다시 지원해주는,"
+    },
+    {
+     "en": "and it creates a cycle there, a circle.",
+     "ko": "그리고 그것이 거기서 순환, 하나의 원을 만든다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supporting",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coming",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supporting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back,",
+     "strong": true,
+     "link": false,
+     "syl": "BACK"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "creates",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cycle",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "there,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "circle.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "coming in, it creates처럼 자음 뒤 모음이 이어져요.",
+   "start": 245.54,
+   "end": 251.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the segment recommend buying if you're in the Gulf?",
+   "options": [
+    "Local shrimp",
+    "Imported shrimp",
+    "Canned tuna"
+   ],
+   "answer": 0,
+   "why": "'if you're in the Gulf, buy local shrimp'라는 문장에 근거함."
+  },
+  {
+   "q": "Which seafood does the segment mention for the Northeast?",
+   "options": [
+    "Haddock and lobster",
+    "Tropical fruit",
+    "Beef"
+   ],
+   "answer": 0,
+   "why": "'buy local haddock... the same with lobster'라는 문장에 근거함."
+  },
+  {
+   "q": "According to the speaker, what does buying local seafood do for the community?",
+   "options": [
+    "It gives back to the community",
+    "It raises prices for everyone",
+    "It has no effect"
+   ],
+   "answer": 0,
+   "why": "'We're giving back to the community already just by buying our product locally.' 문장에 근거함."
+  },
+  {
+   "q": "What does the speaker say this local buying and selling creates?",
+   "options": [
+    "A shortage",
+    "A cycle of support",
+    "A monopoly"
+   ],
+   "answer": 1,
+   "why": "'it creates a cycle there, a circle'라는 문장에 근거함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fishery",
+   "ko": "어장, 수산업",
+   "note": "물고기를 잡거나 기르는 곳이나 산업을 가리킴."
+  },
+  {
+   "term": "the way to go",
+   "ko": "최선의 방법",
+   "note": "가장 좋은 선택이라는 뜻의 구어 표현."
+  },
+  {
+   "term": "give back to the community",
+   "ko": "지역사회에 환원하다",
+   "note": "받은 것을 지역사회에 되돌려준다는 뜻."
+  },
+  {
+   "term": "create a cycle",
+   "ko": "순환을 만들다",
+   "note": "서로 주고받는 구조가 반복됨을 말함."
+  }
+ ]
+}

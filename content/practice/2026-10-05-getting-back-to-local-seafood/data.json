@@ -1,0 +1,654 @@
+{
+ "video_id": "ZCfF2LoiqO0",
+ "source_title": "Getting Back to Local: Your Fishermen & Seafood",
+ "source_channel": "NOAA Fisheries",
+ "segment": {
+  "start": 113.64,
+  "end": 139.47
+ },
+ "sentences": [
+  {
+   "text": "Here at Waterfront Grill our menu is made up of about 90 percent of seafood.",
+   "chunks": [
+    {
+     "en": "Here at Waterfront Grill",
+     "ko": "여기 워터프론트 그릴에서는"
+    },
+    {
+     "en": "our menu is made up of",
+     "ko": "우리 메뉴는 구성되어 있다"
+    },
+    {
+     "en": "about 90 percent of seafood.",
+     "ko": "약 90퍼센트가 해산물로."
+    }
+   ],
+   "words": [
+    {
+     "w": "Here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Waterfront",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Grill",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "menu",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "90",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "percent",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seafood.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "made up of는 모두 이어서 한 호흡으로 읽어요.",
+   "start": 113.64,
+   "end": 119.73
+  },
+  {
+   "text": "That is a huge portion of our purchasing, of our sales, of what we are.",
+   "chunks": [
+    {
+     "en": "That is a huge portion",
+     "ko": "그것은 큰 부분을 차지한다"
+    },
+    {
+     "en": "of our purchasing, of our sales,",
+     "ko": "우리 구매의, 우리 매출의,"
+    },
+    {
+     "en": "of what we are.",
+     "ko": "우리 자체의."
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "huge",
+     "strong": true,
+     "link": false,
+     "syl": "HUGE"
+    },
+    {
+     "w": "portion",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "purchasing,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sales,",
+     "strong": true,
+     "link": false,
+     "syl": "SALES"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "portion of는 이어서 발음돼요.",
+   "start": 119.73,
+   "end": 123.63
+  },
+  {
+   "text": "I mean that's essentially our culture.",
+   "chunks": [
+    {
+     "en": "I mean",
+     "ko": "그러니까"
+    },
+    {
+     "en": "that's essentially our culture.",
+     "ko": "그게 본질적으로 우리 문화다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mean",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "essentially",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "culture.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 123.63,
+   "end": 126.1
+  },
+  {
+   "text": "We get a lot of the local fishermen that come in here.",
+   "chunks": [
+    {
+     "en": "We get a lot of",
+     "ko": "우리는 많이 얻는다"
+    },
+    {
+     "en": "the local fishermen",
+     "ko": "지역 어민들을"
+    },
+    {
+     "en": "that come in here.",
+     "ko": "여기 오는."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": true,
+     "syl": "LOT"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "fishermen",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "here.",
+     "strong": true,
+     "link": false,
+     "syl": "HERE"
+    }
+   ],
+   "tip": "lot of, come in은 자연스럽게 이어 읽어요.",
+   "start": 126.1,
+   "end": 128.44
+  },
+  {
+   "text": "To have those relationships with them and be able to talk to them about the best product coming in and top of the catch and getting all of those great quality products in makes a huge impact on what we're able to serve.",
+   "chunks": [
+    {
+     "en": "To have those relationships with them",
+     "ko": "그들과 그런 관계를 가지고"
+    },
+    {
+     "en": "and be able to talk to them about the best product coming in",
+     "ko": "그리고 들어오는 최고의 상품에 대해 그들과 이야기할 수 있다는 것,"
+    },
+    {
+     "en": "and top of the catch",
+     "ko": "그리고 최상급 어획물,"
+    },
+    {
+     "en": "and getting all of those great quality products in",
+     "ko": "그리고 그런 훌륭한 품질의 제품들을 들여오는 것이"
+    },
+    {
+     "en": "makes a huge impact on what we're able to serve.",
+     "ko": "우리가 제공할 수 있는 것에 큰 영향을 미친다."
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relationships",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "able",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talk",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "product",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "coming",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "top",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "catch",
+     "strong": true,
+     "link": false,
+     "syl": "CATCH"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "getting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quality",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "products",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "huge",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "impact",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "able",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "serve.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "길게 이어지는 문장이라 top of, products in, makes a, impact on처럼 자음-모음 연결에 유의해요.",
+   "start": 128.44,
+   "end": 139.47
+  }
+ ],
+ "questions": [
+  {
+   "q": "About what percentage of the restaurant's menu is seafood?",
+   "options": [
+    "About 50 percent",
+    "About 90 percent",
+    "About 10 percent"
+   ],
+   "answer": 1,
+   "why": "'about 90 percent of seafood'라는 문장에 근거함."
+  },
+  {
+   "q": "Where does the restaurant get much of its seafood from?",
+   "options": [
+    "Overseas importers",
+    "Local fishermen",
+    "A single large supplier"
+   ],
+   "answer": 1,
+   "why": "'We get a lot of the local fishermen that come in here.' 문장에 근거함."
+  },
+  {
+   "q": "How does the speaker describe the importance of seafood to the restaurant?",
+   "options": [
+    "It's just one item on the menu",
+    "It's essentially their culture",
+    "It's a minor side dish"
+   ],
+   "answer": 1,
+   "why": "'that's essentially our culture'라는 문장에 근거함."
+  },
+  {
+   "q": "What does the speaker say the relationship with fishermen allows them to do?",
+   "options": [
+    "Lower their prices",
+    "Talk about the best product coming in",
+    "Avoid buying seafood"
+   ],
+   "answer": 1,
+   "why": "'talk to them about the best product coming in'이라는 문장에 근거함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a huge portion of",
+   "ko": "큰 부분을 차지하는",
+   "note": "전체 중 상당한 비율을 나타낼 때 씀."
+  },
+  {
+   "term": "essentially",
+   "ko": "본질적으로, 사실상",
+   "note": "핵심을 요약해서 말할 때 씀."
+  },
+  {
+   "term": "relationship with",
+   "ko": "~와의 관계",
+   "note": "사람이나 집단과의 유대 관계를 말함."
+  },
+  {
+   "term": "top of the catch",
+   "ko": "최상급 어획물",
+   "note": "그날 잡은 것 중 최고 품질을 가리키는 표현."
+  },
+  {
+   "term": "make an impact on",
+   "ko": "~에 영향을 미치다",
+   "note": "결과나 성과에 영향을 끼친다는 뜻."
+  }
+ ]
+}

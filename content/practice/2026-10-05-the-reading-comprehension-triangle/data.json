@@ -1,0 +1,406 @@
+{
+ "video_id": "ooEq08Gs1IU",
+ "source_title": "Improving Reading Comprehension in Kindergarten Through 3rd Grade-- Pt. 4",
+ "source_channel": "Institute of Education Sciences",
+ "segment": {
+  "start": 14.41,
+  "end": 31.45
+ },
+ "sentences": [
+  {
+   "text": "We really think of reading comprehension in a triangle with three different pieces.",
+   "chunks": [
+    {
+     "en": "We really think of reading comprehension in a triangle",
+     "ko": "우리는 독해를 삼각형처럼 생각하는데"
+    },
+    {
+     "en": "with three different pieces.",
+     "ko": "세 가지 다른 요소로 이루어져 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": false,
+     "syl": "THINK"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reading",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comprehension",
+     "strong": true,
+     "link": false,
+     "syl": "HEN"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "triangle",
+     "strong": true,
+     "link": false,
+     "syl": "TRI"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pieces.",
+     "strong": true,
+     "link": false,
+     "syl": "PIE"
+    }
+   ],
+   "tip": "comprehension의 강세는 HEN 음절에 있습니다.",
+   "start": 14.41,
+   "end": 18.72
+  },
+  {
+   "text": "So one is the activity that is involved in the reading comprehension, the context around which someone is reading.",
+   "chunks": [
+    {
+     "en": "So one is the activity that is involved in the reading comprehension,",
+     "ko": "하나는 독해에 관여하는 활동인데"
+    },
+    {
+     "en": "the context around which someone is reading.",
+     "ko": "즉 누군가가 읽고 있는 맥락이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "activity",
+     "strong": true,
+     "link": false,
+     "syl": "TIV"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "involved",
+     "strong": true,
+     "link": true,
+     "syl": "VOLVED"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reading",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comprehension,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "context",
+     "strong": true,
+     "link": false,
+     "syl": "CON"
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reading.",
+     "strong": true,
+     "link": false,
+     "syl": "READ"
+    }
+   ],
+   "tip": "involved in처럼 자음 끝 단어가 모음으로 이어질 때 부드럽게 연결하세요.",
+   "start": 18.72,
+   "end": 24.82
+  },
+  {
+   "text": "The second is the reader, all the different characteristics that the reader brings, the knowledge the reader brings to the reading comprehension process.",
+   "chunks": [
+    {
+     "en": "The second is the reader, all the different characteristics that the reader brings,",
+     "ko": "두 번째는 독자인데, 독자가 지니고 있는 다양한 특성들"
+    },
+    {
+     "en": "the knowledge the reader brings",
+     "ko": "그리고 독자가 가진 지식"
+    },
+    {
+     "en": "to the reading comprehension process.",
+     "ko": "독해 과정에 가져오는 것이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "second",
+     "strong": true,
+     "link": false,
+     "syl": "SEC"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reader,",
+     "strong": true,
+     "link": false,
+     "syl": "READ"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "characteristics",
+     "strong": true,
+     "link": false,
+     "syl": "IS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reader",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brings,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "knowledge",
+     "strong": true,
+     "link": false,
+     "syl": "NOWL"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reader",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brings",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reading",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comprehension",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "process.",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    }
+   ],
+   "tip": "reader와 brings가 반복되니 리듬을 타며 읽으세요.",
+   "start": 24.82,
+   "end": 31.45
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker describe reading comprehension?",
+   "options": [
+    "As a triangle with three different pieces",
+    "As a single simple skill",
+    "As unrelated to context"
+   ],
+   "answer": 0,
+   "why": "문장 3에서 독해를 삼각형이라고 설명함"
+  },
+  {
+   "q": "What is the first piece of the triangle, according to the speaker?",
+   "options": [
+    "The activity and context involved in reading",
+    "The reader's age",
+    "The length of the book"
+   ],
+   "answer": 0,
+   "why": "문장 4에서 독해에 관여하는 활동과 맥락이 첫 번째라고 설명함"
+  },
+  {
+   "q": "What is the second piece of the triangle?",
+   "options": [
+    "The reader, including the characteristics and knowledge they bring",
+    "The teacher's lesson plan",
+    "The classroom size"
+   ],
+   "answer": 0,
+   "why": "문장 5에서 독자가 가진 특성과 지식이 두 번째 요소라고 설명함"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "comprehension",
+   "ko": "이해(력)",
+   "note": "reading comprehension은 '독해력'이라는 뜻의 세트 표현"
+  },
+  {
+   "term": "characteristics",
+   "ko": "특성, 특징",
+   "note": "사람이나 사물이 지닌 여러 속성을 가리킴"
+  },
+  {
+   "term": "involved in",
+   "ko": "~에 관여된, ~에 포함된",
+   "note": "the activity that is involved in처럼 활동이나 과정의 일부임을 나타냄"
+  }
+ ]
+}

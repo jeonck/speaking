@@ -1,0 +1,508 @@
+{
+ "video_id": "3Oi9GARr-Xc",
+ "source_title": "Exploring U.S. Aquaculture",
+ "source_channel": "NOAA Fisheries",
+ "segment": {
+  "start": 118.18,
+  "end": 143.54
+ },
+ "sentences": [
+  {
+   "text": "One advantage of aquaculture is it's a very, very efficient way to produce protein.",
+   "chunks": [
+    {
+     "en": "One advantage of aquaculture",
+     "ko": "양식업의 한 가지 장점은"
+    },
+    {
+     "en": "is it's a very, very efficient way",
+     "ko": "그것이 매우, 매우 효율적인 방법이라는 것이다"
+    },
+    {
+     "en": "to produce protein.",
+     "ko": "단백질을 생산하는."
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "advantage",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "aquaculture",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "efficient",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "produce",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protein.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "advantage of는 이어 발음하고, very가 두 번 반복되며 강조돼요.",
+   "start": 118.18,
+   "end": 123.34
+  },
+  {
+   "text": "Fish are cold-blooded.",
+   "chunks": [
+    {
+     "en": "Fish are cold-blooded.",
+     "ko": "물고기는 냉혈동물이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Fish",
+     "strong": true,
+     "link": true,
+     "syl": "FISH"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cold-blooded.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "Fish are는 자음-모음으로 이어져요.",
+   "start": 123.34,
+   "end": 125.59
+  },
+  {
+   "text": "They don't have to stand on two feet.",
+   "chunks": [
+    {
+     "en": "They don't have to stand",
+     "ko": "그들은 설 필요가 없다"
+    },
+    {
+     "en": "on two feet.",
+     "ko": "두 발로."
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": true,
+     "link": false,
+     "syl": "DON'T"
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stand",
+     "strong": true,
+     "link": true,
+     "syl": "STAND"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feet.",
+     "strong": true,
+     "link": false,
+     "syl": "FEET"
+    }
+   ],
+   "tip": "stand on은 이어서 발음돼요.",
+   "start": 125.59,
+   "end": 127.42
+  },
+  {
+   "text": "So they're in the water, so they are very efficient at converting feed into final product, much more so than most terrestrial animals.",
+   "chunks": [
+    {
+     "en": "So they're in the water,",
+     "ko": "그래서 그들은 물속에 있으니,"
+    },
+    {
+     "en": "so they are very efficient at converting feed into final product,",
+     "ko": "그래서 사료를 최종 제품으로 전환하는 데 매우 효율적이며,"
+    },
+    {
+     "en": "much more so than most terrestrial animals.",
+     "ko": "대부분의 육상 동물보다 훨씬 더 그렇다."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "efficient",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "converting",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "feed",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "final",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "product,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "terrestrial",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "animals.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "feed into는 자음-모음으로 이어져요.",
+   "start": 127.42,
+   "end": 135.27
+  },
+  {
+   "text": "Mollusks, or oysters, clams, and mussels, actually filter the water and even don't have to be fed.",
+   "chunks": [
+    {
+     "en": "Mollusks, or oysters, clams, and mussels,",
+     "ko": "연체동물, 즉 굴, 조개, 홍합은,"
+    },
+    {
+     "en": "actually filter the water",
+     "ko": "실제로 물을 걸러내고"
+    },
+    {
+     "en": "and even don't have to be fed.",
+     "ko": "심지어 먹이를 줄 필요도 없다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Mollusks,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "oysters,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "clams,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mussels,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "filter",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fed.",
+     "strong": true,
+     "link": false,
+     "syl": "FED"
+    }
+   ],
+   "tip": "water and는 이어서 발음돼요.",
+   "start": 135.27,
+   "end": 143.54
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why is fish farming described as efficient at producing protein?",
+   "options": [
+    "Fish are cold-blooded and don't have to stand",
+    "Fish eat very little food",
+    "Fish grow faster than any animal"
+   ],
+   "answer": 0,
+   "why": "'Fish are cold-blooded. They don't have to stand on two feet.' 문장에 근거함."
+  },
+  {
+   "q": "What do mollusks like oysters and mussels do on their own?",
+   "options": [
+    "They swim long distances",
+    "They filter the water and don't need to be fed",
+    "They produce their own protein"
+   ],
+   "answer": 1,
+   "why": "'actually filter the water and even don't have to be fed'라는 문장에 근거함."
+  },
+  {
+   "q": "How does the efficiency of farmed fish compare to land animals?",
+   "options": [
+    "Less efficient",
+    "About the same",
+    "Much more efficient"
+   ],
+   "answer": 2,
+   "why": "'much more so than most terrestrial animals'라는 문장에 근거함."
+  },
+  {
+   "q": "How does the segment describe aquaculture overall?",
+   "options": [
+    "A very efficient way to produce protein",
+    "A risky business",
+    "A new trend"
+   ],
+   "answer": 0,
+   "why": "'a very, very efficient way to produce protein'라는 문장에 근거함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "aquaculture",
+   "ko": "수생 생물 양식(업)",
+   "note": "물고기, 조개 등을 길러서 생산하는 산업을 말함."
+  },
+  {
+   "term": "cold-blooded",
+   "ko": "냉혈의",
+   "note": "체온을 스스로 조절하지 않는 동물을 가리킴."
+  },
+  {
+   "term": "terrestrial",
+   "ko": "육지의, 육상의",
+   "note": "바다/물이 아닌 땅에 사는 동물을 가리킬 때 씀."
+  },
+  {
+   "term": "mollusk",
+   "ko": "연체동물",
+   "note": "굴, 조개, 홍합처럼 껍데기가 있는 동물을 통칭함."
+  },
+  {
+   "term": "convert feed into",
+   "ko": "사료를 ~로 전환하다",
+   "note": "먹이를 에너지나 제품으로 바꾸는 과정을 말함."
+  }
+ ]
+}

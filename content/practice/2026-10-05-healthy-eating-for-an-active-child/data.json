@@ -1,0 +1,551 @@
+{
+ "video_id": "_ZHbnBU5gM8",
+ "source_title": "MyPlate Stories: Bryan and Keah’s Healthy Eating Solutions",
+ "source_channel": "USDA Food and Nutrition Administration",
+ "segment": {
+  "start": 8.64,
+  "end": 35.28
+ },
+ "sentences": [
+  {
+   "text": "Healthy eating means eating a balanced diet.",
+   "chunks": [
+    {
+     "en": "Healthy eating",
+     "ko": "건강하게 먹는다는 건"
+    },
+    {
+     "en": "means eating a balanced diet.",
+     "ko": "균형 잡힌 식단을 먹는다는 뜻이에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Healthy",
+     "strong": true,
+     "link": false,
+     "syl": "heal"
+    },
+    {
+     "w": "eating",
+     "strong": true,
+     "link": false,
+     "syl": "eat"
+    },
+    {
+     "w": "means",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "eating",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "balanced",
+     "strong": true,
+     "link": false,
+     "syl": "bal"
+    },
+    {
+     "w": "diet.",
+     "strong": true,
+     "link": false,
+     "syl": "di"
+    }
+   ],
+   "tip": "",
+   "start": 8.64,
+   "end": 11.418461538461539
+  },
+  {
+   "text": "Eating in a way that complements your lifestyle and making sure all of the food groups are hit.",
+   "chunks": [
+    {
+     "en": "Eating in a way",
+     "ko": "먹는 방식이"
+    },
+    {
+     "en": "that complements your lifestyle",
+     "ko": "당신의 생활 방식에 잘 맞고"
+    },
+    {
+     "en": "and making sure all of the food groups are hit.",
+     "ko": "그리고 모든 식품군을 다 챙기는 방식이에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Eating",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "complements",
+     "strong": true,
+     "link": false,
+     "syl": "ple"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lifestyle",
+     "strong": true,
+     "link": false,
+     "syl": "life"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    },
+    {
+     "w": "groups",
+     "strong": true,
+     "link": true,
+     "syl": "groups"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hit.",
+     "strong": true,
+     "link": false,
+     "syl": "hit"
+    }
+   ],
+   "tip": "all of the는 이어서 /올러브더/처럼 빠르게 발음해요.",
+   "start": 11.418461538461539,
+   "end": 20.08
+  },
+  {
+   "text": "Even at 6 years old she's very active.",
+   "chunks": [
+    {
+     "en": "Even at 6 years old",
+     "ko": "겨우 6살인데도"
+    },
+    {
+     "en": "she's very active.",
+     "ko": "그 아이는 아주 활동적이에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "6",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "link": true,
+     "syl": "years"
+    },
+    {
+     "w": "old",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    },
+    {
+     "w": "she's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "active.",
+     "strong": true,
+     "link": false,
+     "syl": "ac"
+    }
+   ],
+   "tip": "",
+   "start": 20.08,
+   "end": 23.44
+  },
+  {
+   "text": "She plays soccer, she does dance, she does swimming,",
+   "chunks": [
+    {
+     "en": "She plays soccer,",
+     "ko": "그 아이는 축구를 하고,"
+    },
+    {
+     "en": "she does dance,",
+     "ko": "댄스를 하고,"
+    },
+    {
+     "en": "she does swimming,",
+     "ko": "수영을 해요,"
+    }
+   ],
+   "words": [
+    {
+     "w": "She",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plays",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "soccer,",
+     "strong": true,
+     "link": false,
+     "syl": "soc"
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dance,",
+     "strong": true,
+     "link": false,
+     "syl": "dance"
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "swimming,",
+     "strong": true,
+     "link": false,
+     "syl": "swim"
+    }
+   ],
+   "tip": "",
+   "start": 23.44,
+   "end": 26.95692307692308
+  },
+  {
+   "text": "and she knows that in order to have the energy to do all of these things that I want to do, I have to keep my body healthy.",
+   "chunks": [
+    {
+     "en": "and she knows",
+     "ko": "그리고 그 아이는 알아요"
+    },
+    {
+     "en": "that in order to have the energy",
+     "ko": "그런 일들을 할 에너지를 가지려면"
+    },
+    {
+     "en": "to do all of these things that I want to do,",
+     "ko": "자기가 하고 싶은 이 모든 걸 하려면,"
+    },
+    {
+     "en": "I have to keep my body healthy.",
+     "ko": "제 몸을 건강하게 유지해야 한다는 걸요."
+    }
+   ],
+   "words": [
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "knows",
+     "strong": true,
+     "link": false,
+     "syl": "knows"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "order",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "energy",
+     "strong": true,
+     "link": false,
+     "syl": "en"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": true,
+     "link": false,
+     "syl": "things"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "link": false,
+     "syl": "keep"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "healthy.",
+     "strong": true,
+     "link": false,
+     "syl": "heal"
+    }
+   ],
+   "tip": "want to는 /원너/처럼 축약해서 발음해요.",
+   "start": 26.95692307692308,
+   "end": 35.28
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say healthy eating means?",
+   "options": [
+    "Eating a balanced diet that fits your lifestyle",
+    "Eating only fruits and vegetables",
+    "Skipping meals to lose weight"
+   ],
+   "answer": 0,
+   "why": "\"Healthy eating means eating a balanced diet... complements your lifestyle\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "What does the speaker say should happen with food groups?",
+   "options": [
+    "All of the food groups should be included",
+    "Only one food group should be eaten",
+    "Food groups don't matter"
+   ],
+   "answer": 0,
+   "why": "\"making sure all of the food groups are hit\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "What activities does the child do?",
+   "options": [
+    "Soccer, dance, and swimming",
+    "Only soccer",
+    "Painting and reading"
+   ],
+   "answer": 0,
+   "why": "\"She plays soccer, she does dance, she does swimming\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "Why does the child need to keep her body healthy?",
+   "options": [
+    "To have the energy for all the activities she wants to do",
+    "To grow taller",
+    "To avoid going to school"
+   ],
+   "answer": 0,
+   "why": "\"in order to have the energy to do all of these things... I have to keep my body healthy\" 문장에서 알 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "balanced diet",
+   "ko": "균형 잡힌 식단",
+   "note": "다양한 영양소를 고르게 섭취하는 식단을 말해요."
+  },
+  {
+   "term": "complements",
+   "ko": "~에 잘 맞다, 보완하다",
+   "note": "complements your lifestyle처럼 생활 방식과 잘 어울린다는 뜻이에요."
+  },
+  {
+   "term": "hit (a target)",
+   "ko": "다 채우다, 충족시키다",
+   "note": "food groups are hit처럼 기준을 다 맞춘다는 뜻으로 쓰여요."
+  },
+  {
+   "term": "in order to",
+   "ko": "~하기 위해서",
+   "note": "목적을 말할 때 쓰는 표현이에요."
+  }
+ ]
+}

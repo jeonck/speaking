@@ -1,0 +1,392 @@
+{
+ "video_id": "YatVvz66jPs",
+ "source_title": "Improving Reading Comprehension in Kindergarten Through 3rd Grade-- Pt. 5",
+ "source_channel": "Institute of Education Sciences",
+ "segment": {
+  "start": 24.61,
+  "end": 49.83
+ },
+ "sentences": [
+  {
+   "text": "The first absolutely crucial element in helping the students build confidence is to have easy texts: texts they can handle or words that they can read or tasks, like phonics tasks, that they can do successfully.",
+   "chunks": [
+    {
+     "en": "The first absolutely crucial element in helping the students build confidence is",
+     "ko": "학생들이 자신감을 기르도록 돕는 데 있어 가장 중요한 첫 요소는"
+    },
+    {
+     "en": "to have easy texts: texts they can handle",
+     "ko": "다룰 수 있는 쉬운 글, 즉 다룰 수 있는 텍스트를 갖는 것이다"
+    },
+    {
+     "en": "or words that they can read",
+     "ko": "또는 읽을 수 있는 단어"
+    },
+    {
+     "en": "or tasks, like phonics tasks,",
+     "ko": "또는 파닉스 과제 같은 것"
+    },
+    {
+     "en": "that they can do successfully.",
+     "ko": "성공적으로 해낼 수 있는 과제 말이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "absolutely",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crucial",
+     "strong": true,
+     "link": false,
+     "syl": "CRU"
+    },
+    {
+     "w": "element",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helping",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "build",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "confidence",
+     "strong": true,
+     "link": false,
+     "syl": "CON"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "easy",
+     "strong": true,
+     "link": false,
+     "syl": "EA"
+    },
+    {
+     "w": "texts:",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "texts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "handle",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "words",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "read",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tasks,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phonics",
+     "strong": true,
+     "link": false,
+     "syl": "PHON"
+    },
+    {
+     "w": "tasks,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "successfully.",
+     "strong": true,
+     "link": false,
+     "syl": "CESS"
+    }
+   ],
+   "tip": "texts, words, tasks처럼 같은 구조가 반복되는 나열은 or 앞에서 살짝 끊어 읽으세요.",
+   "start": 24.61,
+   "end": 42.69
+  },
+  {
+   "text": "Many kids are faced with books that are too hard, tasks that are marginally beyond them.",
+   "chunks": [
+    {
+     "en": "Many kids are faced with books that are too hard,",
+     "ko": "많은 아이들이 너무 어려운 책을 마주하게 되고"
+    },
+    {
+     "en": "tasks that are marginally beyond them.",
+     "ko": "그들의 수준을 약간 넘어서는 과제도 마찬가지다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kids",
+     "strong": true,
+     "link": false,
+     "syl": "KIDS"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "faced",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "books",
+     "strong": true,
+     "link": false,
+     "syl": "BOOKS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard,",
+     "strong": true,
+     "link": false,
+     "syl": "HARD"
+    },
+    {
+     "w": "tasks",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "marginally",
+     "strong": true,
+     "link": false,
+     "syl": "MAR"
+    },
+    {
+     "w": "beyond",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "too hard, marginally beyond처럼 정도를 나타내는 말에 강세를 주면 의미가 더 또렷해집니다.",
+   "start": 42.69,
+   "end": 49.83
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say is a crucial element in building students' confidence?",
+   "options": [
+    "Giving them easy texts, words, or tasks they can succeed at",
+    "Giving them long novels",
+    "Skipping phonics tasks entirely"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 쉬운 텍스트, 단어, 과제를 주는 것이 자신감 형성에 중요하다고 말함"
+  },
+  {
+   "q": "What kind of task does the speaker mention as an example of something students can handle?",
+   "options": [
+    "Phonics tasks",
+    "Research papers",
+    "Timed exams"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 파닉스 과제(phonics tasks)를 예로 들었음"
+  },
+  {
+   "q": "What problem does the speaker describe many kids facing?",
+   "options": [
+    "Books and tasks that are too hard for them",
+    "Too much free reading time",
+    "Not enough homework"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 너무 어려운 책과 과제를 마주한다고 설명함"
+  },
+  {
+   "q": "How does the speaker describe tasks that are beyond many kids' level?",
+   "options": [
+    "Marginally beyond them",
+    "Far below their level",
+    "Exactly at their level"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 marginally beyond them이라고 표현함"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "crucial",
+   "ko": "매우 중요한, 결정적인",
+   "note": "강조하고 싶은 핵심 요소를 말할 때 자주 씀"
+  },
+  {
+   "term": "confidence",
+   "ko": "자신감",
+   "note": "build confidence처럼 build와 함께 자주 쓰임"
+  },
+  {
+   "term": "phonics",
+   "ko": "파닉스(발음 중심 읽기 학습법)",
+   "note": "초기 읽기 교육에서 자주 나오는 용어"
+  },
+  {
+   "term": "marginally",
+   "ko": "약간, 근소하게",
+   "note": "marginally beyond처럼 정도가 살짝 넘는 상황을 설명할 때 씀"
+  }
+ ]
+}

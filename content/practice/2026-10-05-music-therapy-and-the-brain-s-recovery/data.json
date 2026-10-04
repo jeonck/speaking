@@ -1,0 +1,562 @@
+{
+ "video_id": "MgJNx3Xb5QE",
+ "source_title": "Arts and Healing: Creative Forces at Joint Base Elmendorf-Richardson Hospital",
+ "source_channel": "National Endowment for the Arts",
+ "segment": {
+  "start": 337.68,
+  "end": 364.08
+ },
+ "sentences": [
+  {
+   "text": "We start with learning chords on the guitar and then we start tapping our foot.",
+   "chunks": [
+    {
+     "en": "We start with learning chords on the guitar",
+     "ko": "우리는 기타로 코드를 배우는 것부터 시작해요"
+    },
+    {
+     "en": "and then we start tapping our foot.",
+     "ko": "그리고 발로 박자를 맞추기 시작하죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chords",
+     "strong": true,
+     "link": false,
+     "syl": "chords"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "guitar",
+     "strong": true,
+     "link": false,
+     "syl": "tar"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tapping",
+     "strong": true,
+     "link": false,
+     "syl": "tap"
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foot.",
+     "strong": true,
+     "link": false,
+     "syl": "foot"
+    }
+   ],
+   "tip": "guitar 는 두 번째 음절(tar)에 강세가 있어요.",
+   "start": 337.68,
+   "end": 344.4
+  },
+  {
+   "text": "We work on adding in singing.",
+   "chunks": [
+    {
+     "en": "We work on adding in singing.",
+     "ko": "우리는 노래를 더하는 작업도 해요."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "adding",
+     "strong": true,
+     "link": false,
+     "syl": "add"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "singing.",
+     "strong": true,
+     "link": false,
+     "syl": "sing"
+    }
+   ],
+   "tip": "adding in 은 자연스럽게 이어서 한 호흡으로 말해요.",
+   "start": 344.4,
+   "end": 347.2
+  },
+  {
+   "text": "We're accessing the motor cortex.",
+   "chunks": [
+    {
+     "en": "We're accessing the motor cortex.",
+     "ko": "우리는 운동 피질을 활성화시켜요."
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "accessing",
+     "strong": true,
+     "link": false,
+     "syl": "cess"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "motor",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    },
+    {
+     "w": "cortex.",
+     "strong": true,
+     "link": false,
+     "syl": "cor"
+    }
+   ],
+   "tip": "motor cortex 두 단어 모두 각자 강세를 살려 읽어요.",
+   "start": 347.2,
+   "end": 348.70588235294116
+  },
+  {
+   "text": "We're accessing the frontal lobe.",
+   "chunks": [
+    {
+     "en": "We're accessing the frontal lobe.",
+     "ko": "전두엽도 활성화시켜요."
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "accessing",
+     "strong": true,
+     "link": false,
+     "syl": "cess"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "frontal",
+     "strong": true,
+     "link": false,
+     "syl": "fron"
+    },
+    {
+     "w": "lobe.",
+     "strong": true,
+     "link": false,
+     "syl": "lobe"
+    }
+   ],
+   "tip": "frontal lobe 는 두 단어 다 또렷하게 강조해요.",
+   "start": 348.70588235294116,
+   "end": 350.21176470588233
+  },
+  {
+   "text": "And we know that if you can stimulate those areas, the more new things you can do with the brain, it will form new neural synapses.",
+   "chunks": [
+    {
+     "en": "And we know that if you can stimulate those areas,",
+     "ko": "그리고 우리는 그 영역들을 자극할 수 있다면,"
+    },
+    {
+     "en": "the more new things you can do with the brain,",
+     "ko": "뇌로 더 많은 새로운 것들을 할수록,"
+    },
+    {
+     "en": "it will form new neural synapses.",
+     "ko": "새로운 신경 연접이 형성된다는 걸 알아요."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stimulate",
+     "strong": true,
+     "link": false,
+     "syl": "stim"
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "areas,",
+     "strong": true,
+     "link": true,
+     "syl": "ar"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain,",
+     "strong": true,
+     "link": false,
+     "syl": "brain"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "form",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neural",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "synapses.",
+     "strong": true,
+     "link": false,
+     "syl": "nap"
+    }
+   ],
+   "tip": "areas 끝 소리와 뒤 단어를 자연스럽게 이어 말해요.",
+   "start": 350.21176470588233,
+   "end": 359.1573333333333
+  },
+  {
+   "text": "And I think that is recovery.",
+   "chunks": [
+    {
+     "en": "And I think that is recovery.",
+     "ko": "그리고 저는 그게 회복이라고 생각해요."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": false,
+     "syl": "think"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recovery.",
+     "strong": true,
+     "link": false,
+     "syl": "cov"
+    }
+   ],
+   "tip": "recovery 는 두 번째 음절(cov)에 강세가 있어요.",
+   "start": 359.1573333333333,
+   "end": 361.4293333333333
+  },
+  {
+   "text": "That's what helps people move through this.",
+   "chunks": [
+    {
+     "en": "That's what helps people move through this.",
+     "ko": "그게 사람들이 이걸 극복하도록 돕는 거예요."
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helps",
+     "strong": true,
+     "link": false,
+     "syl": "helps"
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "move",
+     "strong": true,
+     "link": false,
+     "syl": "move"
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "helps people 처럼 핵심 동사와 명사를 둘 다 세게 읽어요.",
+   "start": 361.4293333333333,
+   "end": 364.08
+  }
+ ],
+ "questions": [
+  {
+   "q": "What instrument do they start with?",
+   "options": [
+    "Guitar",
+    "Piano",
+    "Drums"
+   ],
+   "answer": 0,
+   "why": "\"We start with learning chords on the guitar\" 에서 확인할 수 있어요."
+  },
+  {
+   "q": "Which brain region is mentioned alongside the motor cortex?",
+   "options": [
+    "The frontal lobe",
+    "The cerebellum",
+    "The spinal cord"
+   ],
+   "answer": 0,
+   "why": "\"We're accessing the frontal lobe.\" 에서 나와요."
+  },
+  {
+   "q": "According to the speaker, what happens when those brain areas are stimulated?",
+   "options": [
+    "The brain forms new neural synapses",
+    "The brain shuts down other functions",
+    "Nothing changes"
+   ],
+   "answer": 0,
+   "why": "\"it will form new neural synapses\" 에서 알 수 있어요."
+  },
+  {
+   "q": "What does the speaker call the process that helps people move through this?",
+   "options": [
+    "Recovery",
+    "Relaxation",
+    "Competition"
+   ],
+   "answer": 0,
+   "why": "\"I think that is recovery.\" 에서 확인할 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "motor cortex",
+   "ko": "운동 피질",
+   "note": "움직임을 조절하는 뇌 영역을 가리켜요."
+  },
+  {
+   "term": "frontal lobe",
+   "ko": "전두엽",
+   "note": "뇌의 앞부분으로 사고와 운동 조절에 관여해요."
+  },
+  {
+   "term": "stimulate",
+   "ko": "자극하다",
+   "note": "특정 부위나 기능을 활성화시킬 때 써요."
+  },
+  {
+   "term": "neural synapses",
+   "ko": "신경 연접(시냅스)",
+   "note": "뇌세포 사이의 연결을 뜻해요."
+  },
+  {
+   "term": "tapping our foot",
+   "ko": "발로 박자를 맞추기",
+   "note": "리듬을 몸으로 익히는 동작을 묘사해요."
+  }
+ ]
+}

@@ -1,0 +1,472 @@
+{
+ "video_id": "mRzugLiJpd4",
+ "source_title": "Ancient Food",
+ "source_channel": "Aztec Ruins",
+ "segment": {
+  "start": 24.84,
+  "end": 54.58
+ },
+ "sentences": [
+  {
+   "text": "To begin with, many people know that corn, beans, and squash were a very important staple of the ancestral Pueblo diet,",
+   "chunks": [
+    {
+     "en": "To begin with,",
+     "ko": "먼저 말하자면,"
+    },
+    {
+     "en": "many people know",
+     "ko": "많은 사람들이 알듯이"
+    },
+    {
+     "en": "that corn, beans, and squash",
+     "ko": "옥수수, 콩, 호박이"
+    },
+    {
+     "en": "were a very important staple",
+     "ko": "아주 중요한 주식이었다는 걸요"
+    },
+    {
+     "en": "of the ancestral Pueblo diet,",
+     "ko": "조상 푸에블로족의 식단에서요,"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "begin",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "corn,",
+     "strong": true,
+     "link": false,
+     "syl": "corn"
+    },
+    {
+     "w": "beans,",
+     "strong": true,
+     "link": false,
+     "syl": "beans"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "squash",
+     "strong": true,
+     "link": false,
+     "syl": "squash"
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "staple",
+     "strong": true,
+     "link": true,
+     "syl": "sta"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ancestral",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Pueblo",
+     "strong": true,
+     "link": false,
+     "syl": "pueb"
+    },
+    {
+     "w": "diet,",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "corn, beans, squash처럼 나열할 때 각 단어를 또렷하게 끊어 발음해요.",
+   "start": 24.84,
+   "end": 33.365
+  },
+  {
+   "text": "and here we have four different varieties growing that represent flour corn for grinding, flint corn for storage, sweet corn for eating right off the cob,",
+   "chunks": [
+    {
+     "en": "and here we have four different varieties growing",
+     "ko": "그리고 여기 네 가지 다른 품종이 자라고 있는데"
+    },
+    {
+     "en": "that represent flour corn for grinding,",
+     "ko": "그건 제분용 밀가루 옥수수,"
+    },
+    {
+     "en": "flint corn for storage,",
+     "ko": "저장용 플린트 옥수수,"
+    },
+    {
+     "en": "sweet corn for eating right off the cob,",
+     "ko": "바로 따서 먹는 스위트콘을 나타내요,"
+    }
+   ],
+   "words": [
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "four",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "varieties",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "growing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "represent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flour",
+     "strong": true,
+     "link": false,
+     "syl": "flour"
+    },
+    {
+     "w": "corn",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grinding,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flint",
+     "strong": true,
+     "link": false,
+     "syl": "flint"
+    },
+    {
+     "w": "corn",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storage,",
+     "strong": true,
+     "link": false,
+     "syl": "stor"
+    },
+    {
+     "w": "sweet",
+     "strong": true,
+     "link": false,
+     "syl": "sweet"
+    },
+    {
+     "w": "corn",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eating",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cob,",
+     "strong": true,
+     "link": false,
+     "syl": "cob"
+    }
+   ],
+   "tip": "for grinding, for storage처럼 전치사구마다 리듬을 살려 끊어 읽어요.",
+   "start": 33.365,
+   "end": 48.73866666666667
+  },
+  {
+   "text": "and we've even got a popcorn that's good for flour and yes popcorn.",
+   "chunks": [
+    {
+     "en": "and we've even got a popcorn",
+     "ko": "그리고 팝콘도 있는데,"
+    },
+    {
+     "en": "that's good for flour",
+     "ko": "가루로도 좋고"
+    },
+    {
+     "en": "and yes popcorn.",
+     "ko": "그리고 네, 그냥 팝콘이기도 해요."
+    }
+   ],
+   "words": [
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "popcorn",
+     "strong": true,
+     "link": false,
+     "syl": "pop"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flour",
+     "strong": true,
+     "link": false,
+     "syl": "flour"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "popcorn.",
+     "strong": true,
+     "link": false,
+     "syl": "pop"
+    }
+   ],
+   "tip": "",
+   "start": 48.73866666666667,
+   "end": 54.58
+  }
+ ],
+ "questions": [
+  {
+   "q": "What three foods were a staple of the ancestral Pueblo diet?",
+   "options": [
+    "Corn, beans, and squash",
+    "Wheat, rice, and barley",
+    "Potatoes, tomatoes, and peppers"
+   ],
+   "answer": 0,
+   "why": "\"corn, beans, and squash were a very important staple of the ancestral Pueblo diet\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "How many different corn varieties are mentioned?",
+   "options": [
+    "Four",
+    "Two",
+    "Six"
+   ],
+   "answer": 0,
+   "why": "\"we have four different varieties growing\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "What is flint corn used for?",
+   "options": [
+    "Storage",
+    "Grinding into flour",
+    "Eating fresh off the cob"
+   ],
+   "answer": 0,
+   "why": "\"flint corn for storage\" 문장에서 알 수 있어요."
+  },
+  {
+   "q": "What can the popcorn variety also be used for?",
+   "options": [
+    "Flour",
+    "Only popping",
+    "Animal feed"
+   ],
+   "answer": 0,
+   "why": "\"a popcorn that's good for flour and yes popcorn\" 문장에서 알 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "staple",
+   "ko": "주식(主食)",
+   "note": "식단에서 기본이 되는 식재료를 뜻해요."
+  },
+  {
+   "term": "ancestral",
+   "ko": "조상의",
+   "note": "ancestral Pueblo diet처럼 과거 조상과 관련된 것을 가리켜요."
+  },
+  {
+   "term": "varieties",
+   "ko": "품종, 종류",
+   "note": "같은 작물의 다른 종류를 말할 때 써요."
+  },
+  {
+   "term": "flint corn",
+   "ko": "플린트 옥수수 (저장용 옥수수)",
+   "note": "껍질이 단단해 저장에 적합한 옥수수 품종이에요."
+  },
+  {
+   "term": "right off the cob",
+   "ko": "옥수수 속대에서 바로",
+   "note": "가공 없이 바로 먹는다는 표현이에요."
+  }
+ ]
+}

@@ -1,0 +1,469 @@
+{
+ "video_id": "XBfGX8hsLN4",
+ "source_title": "Seafood - Something For Everyone",
+ "source_channel": "NOAA Fisheries",
+ "segment": {
+  "start": 5.1,
+  "end": 29.02
+ },
+ "sentences": [
+  {
+   "text": "From finfish to shellfish, Americans love their seafood.",
+   "chunks": [
+    {
+     "en": "From finfish to shellfish,",
+     "ko": "민물생선부터 조개류까지,"
+    },
+    {
+     "en": "Americans love their seafood.",
+     "ko": "미국인들은 해산물을 좋아한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "From",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finfish",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shellfish,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Americans",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": true,
+     "link": false,
+     "syl": "LOVE"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seafood.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "finfish와 shellfish를 대비해서 둘 다 강세를 주며 읽어요.",
+   "start": 5.1,
+   "end": 9.48
+  },
+  {
+   "text": "What's so great about seafood?",
+   "chunks": [
+    {
+     "en": "What's so great",
+     "ko": "뭐가 그렇게 좋은가"
+    },
+    {
+     "en": "about seafood?",
+     "ko": "해산물에 대해?"
+    }
+   ],
+   "words": [
+    {
+     "w": "What's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": true,
+     "link": false,
+     "syl": "SO"
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": true,
+     "syl": "GREAT"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seafood?",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "great about는 이어서 발음돼요.",
+   "start": 9.48,
+   "end": 11.03
+  },
+  {
+   "text": "A lot!",
+   "chunks": [
+    {
+     "en": "A lot!",
+     "ko": "엄청 많지!"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": true,
+     "link": false,
+     "syl": "A"
+    },
+    {
+     "w": "lot!",
+     "strong": true,
+     "link": false,
+     "syl": "LOT"
+    }
+   ],
+   "tip": "짧은 감탄문이라 두 단어 모두 힘주어 말해요.",
+   "start": 11.03,
+   "end": 12.04
+  },
+  {
+   "text": "It's a healthy food choice providing key nutrients and healthy protein for everyone from children to adults.",
+   "chunks": [
+    {
+     "en": "It's a healthy food choice",
+     "ko": "그것은 건강한 식품 선택이다"
+    },
+    {
+     "en": "providing key nutrients",
+     "ko": "주요 영양소를 제공하며"
+    },
+    {
+     "en": "and healthy protein for everyone",
+     "ko": "그리고 모두를 위한 건강한 단백질을"
+    },
+    {
+     "en": "from children to adults.",
+     "ko": "어린이부터 성인까지."
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "healthy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false,
+     "syl": "FOOD"
+    },
+    {
+     "w": "choice",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "providing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "key",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nutrients",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "healthy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protein",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "everyone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "children",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "adults.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "It's와 for는 뒤 단어와 자연스럽게 이어져요.",
+   "start": 12.04,
+   "end": 18.92
+  },
+  {
+   "text": "From scallops and haddock to grouper, hake, salmon, clams and oysters, Americans enjoy a variety of seafood caught and farmed right here in the U.S.",
+   "chunks": [
+    {
+     "en": "From scallops and haddock to grouper, hake, salmon, clams and oysters,",
+     "ko": "가리비와 해덕에서 그루퍼, 헤이크, 연어, 조개와 굴까지,"
+    },
+    {
+     "en": "Americans enjoy a variety of seafood",
+     "ko": "미국인들은 다양한 해산물을 즐긴다"
+    },
+    {
+     "en": "caught and farmed right here in the U.S.",
+     "ko": "바로 이곳 미국에서 잡히고 양식된."
+    }
+   ],
+   "words": [
+    {
+     "w": "From",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scallops",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "haddock",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grouper,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hake,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "salmon,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clams",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "oysters,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Americans",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "enjoy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "variety",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seafood",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "caught",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "farmed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "나열되는 생선 이름들은 쉼표마다 끊어 읽고, caught와 here는 다음 단어와 이어줘요.",
+   "start": 18.92,
+   "end": 29.02
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the segment, what kind of food choice is seafood?",
+   "options": [
+    "A healthy food choice",
+    "An expensive luxury",
+    "A seasonal treat"
+   ],
+   "answer": 0,
+   "why": "'It's a healthy food choice providing key nutrients...' 문장에 근거함."
+  },
+  {
+   "q": "Who can benefit from the protein in seafood, according to the segment?",
+   "options": [
+    "Only athletes",
+    "Everyone, from children to adults",
+    "Only adults"
+   ],
+   "answer": 1,
+   "why": "'for everyone from children to adults'라는 문장에 근거함."
+  },
+  {
+   "q": "Which of these seafood types is mentioned in the segment?",
+   "options": [
+    "Grouper",
+    "Chicken",
+    "Beef"
+   ],
+   "answer": 0,
+   "why": "그루퍼(grouper)가 언급된 문장에 근거함."
+  },
+  {
+   "q": "Where is the seafood mentioned in the segment caught and farmed?",
+   "options": [
+    "Overseas only",
+    "Right here in the U.S.",
+    "Only in the Gulf"
+   ],
+   "answer": 1,
+   "why": "'caught and farmed right here in the U.S.'라는 문장에 근거함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "finfish",
+   "ko": "지느러미가 있는 어류",
+   "note": "조개류(shellfish)와 대비되는 어류 전체를 가리킴."
+  },
+  {
+   "term": "shellfish",
+   "ko": "조개·갑각류 등 껍데기 있는 해산물",
+   "note": "새우, 조개, 굴 등을 포함함."
+  },
+  {
+   "term": "key nutrients",
+   "ko": "주요 영양소",
+   "note": "건강에 필수적인 영양 성분을 말할 때 씀."
+  },
+  {
+   "term": "a variety of",
+   "ko": "다양한",
+   "note": "뒤에 복수 명사가 와서 종류의 다양성을 강조함."
+  },
+  {
+   "term": "grouper",
+   "ko": "그루퍼(농어목 생선)",
+   "note": "미국에서 흔히 먹는 흰살 생선 이름."
+  }
+ ]
+}
