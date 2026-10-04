@@ -1,0 +1,29 @@
+{{- /* 유튜브 채널 이름 → 기관 이름. 같은 기관의 채널(NASA Goddard, NOAA Fisheries …)을 거르기 칩 하나로 묶는다.
+       목록에 없는 채널은 이름 그대로 쓴다. */ -}}
+{{- $map := dict
+  "NASA Goddard" "NASA"
+  "NOAA National Ocean Service" "NOAA"
+  "NOAA/NWS National Hurricane Center" "NOAA"
+  "NOAA Fisheries" "NOAA"
+  "Bureau of Educational and Cultural Affairs" "State Department"
+  "U.S. Department of State" "State Department"
+  "Travel.State.Gov" "State Department"
+  "American English" "State Department"
+  "US Department of Transportation" "Transportation"
+  "Federal Highway Administration" "Transportation"
+  "Federal Aviation Administration" "Transportation"
+  "Aztec Ruins" "National Park Service"
+  "National Institutes of Health (NIH)" "NIH"
+  "U.S. Fish & Wildlife Service" "Fish & Wildlife Service"
+  "National Endowment for the Arts" "NEA"
+  "U.S. Small Business Administration" "SBA"
+  "Institute of Education Sciences" "Education Department"
+  "USDA Food and Nutrition Administration" "USDA"
+  "U.S. Food and Drug Administration" "FDA"
+  "National Science Foundation" "NSF"
+  "VOA Learning English" "VOA"
+  "U.S. Department of Veterans Affairs" "Veterans Affairs"
+  "The U.S. Army" "U.S. Army"
+-}}
+{{- $name := index $map . }}{{ if not $name }}{{ $name = . }}{{ end -}}
+{{- return $name -}}

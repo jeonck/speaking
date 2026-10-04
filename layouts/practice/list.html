@@ -5,24 +5,28 @@
     {{ partial "breadcrumbs.html" . }}
     <p class="practice-meta"><span class="pr-badge" data-list-count>실습 {{ len $pages }}개</span></p>
     <h1 class="home-title">실습 목록</h1>
-    <p class="home-lede">유튜브 구간마다 한 장씩 모았어요. 채널로 거르거나 짧은 구간부터 골라 보세요.</p>
+    <p class="home-lede">유튜브 구간마다 한 장씩 모았어요. 기관으로 거르거나 짧은 구간부터 골라 보세요.</p>
   </header>
 
-  {{- /* 채널로 거르기 — 실습 원본 채널마다 칩 하나(실습 수). 스크립트가 있을 때만 보인다 */}}
+  {{- /* 기관으로 거르기 — 같은 기관의 채널은 칩 하나로(실습 수). 많은 순 8개만 먼저, 나머지는 '더 보기'로.
+         스크립트가 있을 때만 보인다 */}}
   {{- $channels := slice }}
-  {{- range $pages }}{{ with .Resources.Get "data.json" }}{{ with (. | transform.Unmarshal).source_channel }}{{ $channels = $channels | append . }}{{ end }}{{ end }}{{ end }}
+  {{- range $pages }}{{ with .Resources.Get "data.json" }}{{ with (. | transform.Unmarshal).source_channel }}{{ $channels = $channels | append (partial "agency.html" .) }}{{ end }}{{ end }}{{ end }}
   {{- $counts := slice }}
   {{- range uniq $channels }}
     {{- $name := . }}{{ $n := 0 }}{{ range $channels }}{{ if eq . $name }}{{ $n = add $n 1 }}{{ end }}{{ end }}
     {{- $counts = $counts | append (dict "name" $name "n" $n) }}
   {{- end }}
   {{- with $counts }}
-  <nav class="list-topics" aria-label="채널로 거르기" data-list-filter hidden>
-    <span class="list-topics-title">채널로 거르기</span>
+  <nav class="list-topics" aria-label="기관으로 거르기" data-list-filter hidden>
+    <span class="list-topics-title">기관으로 거르기</span>
     <button type="button" class="tag-chip is-active" data-filter="" aria-pressed="true">전체 {{ len $pages }}</button>
     {{- /* 실습 많은 채널부터 */}}
-    {{- range sort . "n" "desc" }}
-    <button type="button" class="tag-chip" data-filter="{{ urlize .name }}" aria-pressed="false">{{ .name }} <span class="tag-chip-count">{{ .n }}</span></button>
+    {{- range $k, $c := sort . "n" "desc" }}
+    <button type="button" class="tag-chip{{ if ge $k 8 }} is-extra{{ end }}" data-filter="{{ urlize $c.name }}" aria-pressed="false">{{ $c.name }} <span class="tag-chip-count">{{ $c.n }}</span></button>
+    {{- end }}
+    {{- if gt (len .) 8 }}
+    <button type="button" class="tag-chip tag-chip--more" data-more aria-expanded="false" data-more-label="+{{ sub (len .) 8 }}곳 더 보기">+{{ sub (len .) 8 }}곳 더 보기</button>
     {{- end }}
     {{- with site.Taxonomies.tags }}<a class="tag-chip tag-chip--more" href="{{ "tags/" | relURL }}">주제별로 보기 {{ len . }}개</a>{{ end }}
   </nav>
@@ -102,6 +106,14 @@
     if (nav) {
       nav.hidden = false;
       nav.addEventListener("click", function (e) {
+        var more = e.target.closest("[data-more]");
+        if (more) {
+          var open = more.getAttribute("aria-expanded") !== "true";
+          more.setAttribute("aria-expanded", String(open));
+          nav.classList.toggle("is-open", open);
+          more.textContent = open ? "접기" : more.dataset.moreLabel;
+          return;
+        }
         var chip = e.target.closest("[data-filter]");
         if (!chip) return; // '주제별로 보기' 링크는 그대로 이동
         state.channel = chip.dataset.filter || "";
