@@ -11,7 +11,7 @@
   {{- /* 1. 무엇을 하는 곳인가 + 최신 실습 미리보기 */}}
   <section class="home-band home-hero" aria-labelledby="home-title">
     {{- with $latest }}
-    <a class="home-pill" href="{{ .RelPermalink }}"><span class="home-pill-tag">새 실습</span>{{ .Title }}</a>
+    <a class="home-pill" href="{{ .RelPermalink }}" data-today-link><span class="home-pill-tag" data-today-label>새 실습</span><span data-today-title>{{ .Title }}</span></a>
     {{- end }}
     <h1 id="home-title" class="home-display">말할 수 있는 문장은 들립니다</h1>
     <p class="home-lede">
@@ -20,7 +20,7 @@
     </p>
     <div class="home-actions">
       {{- with $latest }}
-      <a class="pr-btn pr-btn--primary pr-btn--lg" href="{{ .RelPermalink }}">최신 실습 시작하기</a>
+      <a class="pr-btn pr-btn--primary pr-btn--lg" href="{{ .RelPermalink }}" data-today-link data-today-cta>최신 실습 시작하기</a>
       {{- end }}
       {{- if site.Params.showAddSegment }}
       <a class="pr-btn pr-btn--secondary pr-btn--lg" href="#home-add">내 구간 추가하는 법</a>
@@ -31,12 +31,12 @@
 
     {{- with $latest }}
     {{- /* 오디오 파형 카드 — 실습이 어떤 모습인지 첫 화면에서 보여준다 */}}
-    <a class="home-preview{{ if gt (len $pages) 1 }} home-preview--stack{{ end }}" href="{{ .RelPermalink }}" aria-label="{{ .Title }} 실습 열기">
+    <a class="home-preview{{ if gt (len $pages) 1 }} home-preview--stack{{ end }}" href="{{ .RelPermalink }}" aria-label="{{ .Title }} 실습 열기" data-today-link data-today-card>
       <span class="home-preview-head">
         <span class="home-preview-icon" aria-hidden="true">EN</span>
         <span class="home-preview-main">
-          <span class="home-preview-title">{{ .Title }}</span>
-          <span class="home-preview-badges">
+          <span class="home-preview-title" data-today-title>{{ .Title }}</span>
+          <span class="home-preview-badges" data-today-badges>
             {{- with $data }}<span class="pr-badge">{{ len .sentences }}문장</span>{{ end }}
             {{- with .Params.duration }}<span class="pr-badge">{{ . }}초</span>{{ end }}
             {{- range .Params.tags }}<span class="practice-card-tag">{{ partial "tag_name.html" . }}</span>{{ end }}
@@ -46,7 +46,7 @@
       </span>
       {{- /* 원고 첫 문장 — 음성 합성 화면의 입력 글처럼, 이 소리가 무슨 말인지 */}}
       {{- with $data }}{{ with index .sentences 0 }}
-      <span class="home-preview-line" lang="en">{{ .text }}</span>
+      <span class="home-preview-line" lang="en" data-today-line>{{ .text }}</span>
       {{- end }}{{ end }}
       <span class="home-preview-wave" aria-hidden="true">
         {{- partial "pr_wave.html" 56 -}}
@@ -56,10 +56,19 @@
 
     {{- with site.Params.sources }}
     <p class="home-sources">
-      <span class="home-sources-title">공개 자료로 만든 실습</span>
+      <span class="home-sources-title">공개 자료로 만든 실습 {{ len $pages }}개</span>
       {{- range . }}<span class="home-source">{{ . }}</span>{{ end }}
     </p>
     {{- end }}
+    {{- /* 오늘의 실습 후보 — 날마다 하나를 골라 위 알약·카드·버튼을 바꾼다(스크립트 없으면 최신 실습 그대로) */}}
+    {{- $picks := slice }}
+    {{- range $pages.ByDate.Reverse }}
+      {{- $d := false }}{{ with .Resources.Get "data.json" }}{{ $d = . | transform.Unmarshal }}{{ end }}
+      {{- $tags := slice }}{{ range .Params.tags }}{{ $tags = $tags | append (partial "tag_name.html" .) }}{{ end }}
+      {{- $n := 0 }}{{ $line := "" }}{{ with $d }}{{ $n = len .sentences }}{{ $line = (index .sentences 0).text }}{{ end }}
+      {{- $picks = $picks | append (dict "url" .RelPermalink "title" .Title "secs" (.Params.duration | default 0) "tags" $tags "n" $n "line" $line) }}
+    {{- end }}
+    <script type="application/json" id="home-today">{{ $picks | jsonify | safeJS }}</script>
   </section>
 
   {{- /* 2. 원고의 표시를 읽는 법 */}}
@@ -176,4 +185,29 @@
   {{- end }}
 
 </div>
+<script>
+  /* 오늘의 실습: 한국 날짜로 하루에 하나, 모든 실습을 고르게 돈다(날짜 × 큰 소수 % 개수) */
+  (function () {
+    var el = document.getElementById("home-today");
+    if (!el) return;
+    var picks = JSON.parse(el.textContent || "[]");
+    if (picks.length < 2) return;
+    var day = Math.floor((Date.now() + 9 * 3600 * 1000) / 86400000);
+    var p = picks[(day * 7919) % picks.length];
+    document.querySelectorAll("[data-today-link]").forEach(function (a) { a.href = p.url; });
+    document.querySelectorAll("[data-today-title]").forEach(function (t) { t.textContent = p.title; });
+    var label = document.querySelector("[data-today-label]"); if (label) label.textContent = "오늘의 실습";
+    var cta = document.querySelector("[data-today-cta]"); if (cta) cta.textContent = "오늘의 실습 시작하기";
+    var card = document.querySelector("[data-today-card]"); if (card) card.setAttribute("aria-label", p.title + " 실습 열기");
+    var line = document.querySelector("[data-today-line]"); if (line) line.textContent = p.line;
+    var badges = document.querySelector("[data-today-badges]");
+    if (badges) {
+      badges.textContent = "";
+      function add(cls, text) { var s = document.createElement("span"); s.className = cls; s.textContent = text; badges.appendChild(s); }
+      if (p.n) add("pr-badge", p.n + "문장");
+      if (p.secs) add("pr-badge", p.secs + "초");
+      p.tags.forEach(function (t) { add("practice-card-tag", t); });
+    }
+  })();
+</script>
 {{- end }}
