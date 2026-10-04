@@ -17,7 +17,7 @@ function delta(now, prev, { better = true, unit = "" } = {}) {
 function statCard(label, value, deltaHtml, stageId) {
   if (value == null) {
     return `<div class="stat is-empty"><div class="label">${label}</div><div class="value">—</div>
-      <button class="pr-link-btn" type="button" data-goto="${stageId}">지금 하기</button></div>`;
+      <button class="pr-btn pr-btn--secondary pr-btn--sm" type="button" data-goto="${stageId}">지금 하기</button></div>`;
   }
   return `<div class="stat"><div class="label">${label}</div><div class="value">${value}</div>${deltaHtml}</div>`;
 }
@@ -32,9 +32,10 @@ export function mountStage4(panel, ctx) {
   const p3 = prev && prev.stage3;
 
   const setsDone = Math.min(attemptNumber, DAILY_SETS);
-  const dots = Array.from(
+  // 하루 세트 진행 막대 — 칸마다 한 세트
+  const segments = Array.from(
     { length: DAILY_SETS },
-    (_, i) => `<span class="pr-set-dot${i < setsDone ? " is-on" : ""}"></span>`
+    (_, i) => `<span class="pr-set-seg${i < setsDone ? " is-on" : ""}"></span>`
   ).join("");
 
   const cards = [
@@ -71,8 +72,8 @@ export function mountStage4(panel, ctx) {
   panel.innerHTML = `
     ${goalCard("오늘의 정리", "강세가 표시된 전체 원고로 마지막 스피킹을 하고, 기록을 저장하세요.")}
     <div class="pr-sets">
-      <div><b>오늘 ${attemptNumber}회째</b> 연습이에요. 하루 ${DAILY_SETS}번 반복을 권해요.</div>
-      <div class="pr-set-dots">${dots}</div>
+      <p class="pr-sets-text"><b>오늘 ${attemptNumber}회째</b> 연습이에요<span>하루 ${DAILY_SETS}번 반복을 권해요.</span></p>
+      <div class="pr-set-bar" role="img" aria-label="오늘 ${setsDone}/${DAILY_SETS}세트">${segments}</div>
     </div>
     <h3 class="pr-section-title">이번 결과${prev ? ` <small>(직전 ${escapeHtml(String(prev.date))} 대비)</small>` : ""}</h3>
     <div class="practice-result-grid">${cards}</div>
@@ -102,7 +103,9 @@ export function mountStage4(panel, ctx) {
         )
         .join("")}
     </div>
-    <div class="pr-actions pr-actions--center">
+    <div class="pr-finish">
+      <p class="pr-finish-title">오늘 연습을 기록할까요?</p>
+      <p class="pr-finish-why">저장하면 다음 연습 때 이번 결과와 비교해 보여 드려요.</p>
       <button class="pr-restart pr-btn pr-btn--primary pr-btn--lg" type="button">✓ 기록 저장하고 다시 하기</button>
     </div>
   `;

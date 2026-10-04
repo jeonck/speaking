@@ -459,34 +459,49 @@ body.list { background: var(--pr-desk); }
 .practice-result-grid .stat { padding: 1.1rem 1.25rem; background: var(--pr-paper); }
 .practice-result-grid .stat .label { font-size: 0.8125rem; color: var(--secondary); }
 .practice-result-grid .stat .value {
-  margin-top: 0.3rem; font-family: var(--pr-serif); font-size: 2rem; font-weight: 300; letter-spacing: -0.02em;
+  margin-top: 0.3rem; font-family: var(--pr-serif); font-size: 2.4rem; font-weight: 300; letter-spacing: -0.02em;
   font-variant-numeric: tabular-nums; color: var(--primary);
 }
 .practice-result-grid .stat .value small { font-family: var(--pr-sans); font-size: 0.875rem; color: var(--secondary); font-weight: 400; letter-spacing: 0; }
 .practice-result-grid .stat.is-pass .value { color: var(--pr-ok); }
 .practice-result-grid .stat.is-empty .value { color: var(--pr-rule-strong); }
-.pr-delta { display: block; margin-top: 0.25rem; font-size: 0.8125rem; font-weight: 600; color: var(--secondary); }
-.pr-delta.is-up { color: var(--pr-ok); }
-.pr-delta.is-down { color: var(--pr-pencil); }
+/* 직전 대비 변화 배지 — 좋아졌으면 초록, 나빠졌으면 빨강 */
+.pr-delta { display: inline-flex; margin-top: 0.4rem; padding: 0.15rem 0.55rem; border-radius: 9999px; background: var(--pr-surface); font-size: 0.75rem; font-weight: 600; color: var(--secondary); }
+.pr-delta.is-up { background: var(--pr-ok-soft); color: var(--pr-ok); }
+.pr-delta.is-down { background: color-mix(in srgb, var(--pr-pencil) 10%, transparent); color: var(--pr-pencil); }
+.practice-result-grid .stat.is-empty .pr-btn { margin-top: 0.6rem; }
 
 /* ---------- 4단계 ---------- */
+/* 하루 세트 — 은은한 구슬 카드 + 세 칸 진행 막대 */
 .pr-sets {
-  display: flex; justify-content: space-between; align-items: center; gap: 0.8rem; flex-wrap: wrap;
-  padding: 1rem 1.25rem; border-radius: 16px; background: var(--pr-surface); color: var(--pr-body);
+  position: relative; isolation: isolate; overflow: clip;
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem 2rem; flex-wrap: wrap;
+  padding: 1.25rem 1.5rem; border-radius: 20px; background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
 }
-.pr-sets b { font-weight: 600; color: var(--primary); }
-.pr-set-dots { display: flex; gap: 6px; }
-.pr-set-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--pr-rule-strong); }
-.pr-set-dot.is-on { background: var(--pr-ink); }
-/* 어휘: 보이스 목록처럼 헤어라인 행 — 왼쪽 표현 / 오른쪽 뜻 */
-.pr-vocab { border-top: 1px solid var(--pr-rule); }
-.pr-vocab-card {
-  display: grid; grid-template-columns: minmax(9rem, 2fr) 3fr; column-gap: 1.5rem;
-  padding: 1rem 0; border-bottom: 1px solid var(--pr-rule);
+.pr-sets::before {
+  content: ""; position: absolute; z-index: -1; inset: -40% -10% -40% 40%; opacity: var(--pr-orb-opacity); filter: blur(40px);
+  background: radial-gradient(40% 50% at 60% 50%, var(--pr-orb-mint), transparent 70%);
 }
-.pr-vocab-term { grid-row: span 2; font-family: var(--pr-serif); font-size: 1.25rem; font-weight: 400; color: var(--primary); }
-.pr-vocab-ko { font-weight: 500; color: var(--primary); }
-.pr-vocab-note { font-size: 0.875rem; color: var(--secondary); margin-top: 0.25rem; line-height: 1.55; }
+.pr-sets-text { margin: 0; font-size: 1.0625rem; color: var(--primary); }
+.pr-sets-text b { font-weight: 600; }
+.pr-sets-text span { display: block; margin-top: 0.15rem; font-size: 0.875rem; color: var(--secondary); }
+.pr-set-bar { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; width: min(220px, 100%); }
+.pr-set-seg { height: 8px; border-radius: 9999px; background: var(--pr-rule-strong); }
+.pr-set-seg.is-on { background: var(--pr-ink); }
+/* 어휘·표현 — 두 열 카드 */
+.pr-vocab { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
+.pr-vocab-card { display: flex; flex-direction: column; gap: 0.3rem; padding: 1.25rem 1.4rem; border-radius: 16px; background: var(--pr-paper); border: 1px solid var(--pr-rule); }
+.pr-vocab-term { font-family: var(--pr-serif); font-size: 1.4rem; font-weight: 300; letter-spacing: -0.01em; color: var(--primary); }
+.pr-vocab-ko { font-weight: 600; color: var(--primary); }
+.pr-vocab-note { font-size: 0.875rem; color: var(--secondary); line-height: 1.55; }
+
+/* 마지막 — 기록 저장 카드 */
+.pr-finish {
+  display: flex; flex-direction: column; align-items: center; gap: 0.5rem; margin-top: 2rem; text-align: center;
+  padding: 2.25rem 1.5rem; border-radius: 24px; background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
+}
+.pr-finish-title { margin: 0; font-family: var(--pr-serif); font-size: 1.75rem; font-weight: 300; letter-spacing: -0.01em; color: var(--primary); }
+.pr-finish-why { margin: 0 0 1rem; font-size: 0.9375rem; color: var(--pr-body); }
 
 /* ---------- 1단계 시작 전: 가려진 원고 ---------- */
 .pr-cover {
@@ -524,8 +539,7 @@ body.list { background: var(--pr-desk); }
   .pr-actions { justify-content: stretch; }
   .pr-actions .pr-btn { flex: 1; }
   .pr-btn--lg { width: 100%; }
-  .pr-vocab-card { grid-template-columns: 1fr; }
-  .pr-vocab-term { grid-row: auto; }
+  .pr-vocab { grid-template-columns: 1fr; }
 }
 @media (prefers-reduced-motion: reduce) {
   #practice-root *, #practice-root *::before, #practice-root *::after { animation: none !important; transition: none !important; }
