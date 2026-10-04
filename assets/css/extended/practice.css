@@ -1042,6 +1042,13 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
 .search-hits { align-self: stretch; display: flex; flex-direction: column; gap: 0.4rem; margin-top: 0.2rem; padding-top: 0.8rem; border-top: 1px solid var(--pr-rule); }
 .search-hit-line, .search-hit-summary { margin: 0; font-size: 1.05rem; font-weight: 400; line-height: 1.6; color: var(--pr-body); }
 .search-hit-summary { font-family: var(--pr-sans); font-size: 0.9375rem; letter-spacing: 0; }
+.search-card-channel { margin-bottom: -0.4rem; font-family: var(--pr-sans); font-size: 0.8125rem; font-weight: 500; letter-spacing: 0; color: var(--secondary); }
+/* 맞은 어휘 — 영어 표현과 뜻을 한 칸씩, 검색어는 같은 복숭아색 */
+.search-vocab { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.2rem; font-family: var(--pr-sans); letter-spacing: 0; }
+.search-vocab-item { display: inline-flex; align-items: baseline; gap: 0.5rem; padding: 0.35rem 0.75rem; border-radius: 9999px; background: var(--pr-surface); }
+.search-vocab-term { font-size: 0.875rem; font-weight: 600; color: var(--primary); }
+.search-vocab-ko { font-size: 0.8125rem; color: var(--pr-body); }
+.search-vocab mark { padding: 0 0.1em; border-radius: 3px; background: var(--pr-mark); color: var(--primary); }
 .search-hit-line mark { padding: 0 0.1em; border-radius: 3px; background: var(--pr-mark); color: var(--primary); }
 
 /* ---------- 바닥글 (ElevenLabs: 캔버스, 다단 링크, 64px 위아래 여백) ---------- */

@@ -80,8 +80,8 @@
       return null;
     }
     // 맞은 곳마다 <mark>로 감싼 문장
-    function hitLine(line, re) {
-      var p = el("p", "search-hit-line");
+    function hitLine(line, re, tag) {
+      var p = el(tag || "p", "search-hit-line");
       p.lang = "en";
       var last = 0, m;
       re.lastIndex = 0;
@@ -106,15 +106,35 @@
         if (m.duration) badges.append(el("span", "pr-badge", m.duration + "초"));
         var h = q && hits(m, q);
         if (h) badges.append(el("span", "pr-badge pr-badge--hit", "원고 " + h.lines.length + "곳"));
-        li.append(badges, el("span", "search-card-title", m.title));
+        // 어휘: 영어 표현이나 한국어 뜻에 검색어가 든 것 — '해일'처럼 우리말로 찾을 때 보인다
+        var ql = q.toLowerCase();
+        var words = q ? (m.vocab || []).filter(function (v) {
+          return (v.term + " " + v.ko).toLowerCase().indexOf(ql) >= 0;
+        }) : [];
+        if (words.length) badges.append(el("span", "pr-badge pr-badge--hit", "어휘 " + words.length + "개"));
+        li.append(badges);
+        if (m.channel) li.append(el("span", "search-card-channel", m.channel));
+        li.append(el("span", "search-card-title", m.title));
         if (m.tags && m.tags.length) {
           var tags = el("span", "practice-card-tags");
           m.tags.forEach(function (t) { tags.append(el("span", "practice-card-tag", t)); });
           li.append(tags);
         }
-        if (h) {
+        if (h || words.length) {
           var box = el("div", "search-hits");
-          h.lines.slice(0, 2).forEach(function (l) { box.append(hitLine(l, h.re)); });
+          if (h) h.lines.slice(0, 2).forEach(function (l) { box.append(hitLine(l, h.re)); });
+          if (words.length) {
+            var re = new RegExp(esc(q), "gi");
+            var row = el("div", "search-vocab");
+            words.slice(0, 3).forEach(function (v) {
+              var chip = el("span", "search-vocab-item");
+              var en = hitLine(v.term, re, "span"); en.className = "search-vocab-term";
+              var ko = hitLine(v.ko, re, "span"); ko.className = "search-vocab-ko"; ko.lang = "ko";
+              chip.append(en, ko);
+              row.append(chip);
+            });
+            box.append(row);
+          }
           li.append(box);
         } else if (m.summary) {
           li.append(el("p", "search-hit-summary", m.summary));
