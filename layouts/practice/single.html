@@ -21,7 +21,7 @@
     {{- end }}
     {{- /* 출처 카드: 채널 + 원본 영상 제목 + 쓰는 구간. 누르면 그 구간 시작부터 유튜브에서 */}}
     {{- with $data }}{{ if .source_title }}
-    {{- $s := int .segment.start }}{{ $e := int (math.Ceil .segment.end) }}
+    {{- $s := int .segment.start }}{{ $e := int .segment.end }}
     <a class="practice-source" href="https://www.youtube.com/watch?v={{ .video_id }}&t={{ $s }}s" rel="noopener" target="_blank">
       <span class="practice-source-play" aria-hidden="true"><svg width="12" height="12" viewBox="0 0 12 12"><path d="M3 1.8v8.4L10 6z" fill="currentColor"/></svg></span>
       <span class="practice-source-main">
