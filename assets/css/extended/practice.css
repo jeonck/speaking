@@ -932,7 +932,7 @@ html { scroll-padding-top: 80px; }
 button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: pointer; }
 .search-recent-title { margin: 3rem 0 1rem; font-size: 0.9375rem; font-weight: 600; color: var(--primary); }
 .search-status { margin: 1.5rem 0 0; font-size: 0.875rem; color: var(--secondary); }
-/* 결과 카드 — 배지, 제목, 검색어가 든 원고 문장 */
+/* 결과 카드 — 배지, 제목, 주제, 검색어가 든 원고 문장 */
 #searchResults { display: flex; flex-direction: column; gap: 0.75rem; margin: 0.75rem 0 0; padding: 0; list-style: none; }
 #searchResults:empty { margin: 0; }
 #searchResults li {
@@ -948,6 +948,10 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
 .search-card-badges { display: flex; flex-wrap: wrap; gap: 0.35rem; font-family: var(--pr-sans); letter-spacing: 0; }
 .search-card-badges .pr-badge { font-size: 0.75rem; }
 .search-card-title { line-height: 1.2; }
+.search-card-badges .pr-badge--hit { border-color: transparent; background: var(--pr-mark); color: var(--primary); }
+#searchResults .practice-card-tags { font-family: var(--pr-sans); letter-spacing: 0; }
+/* 맞은 문장들 — 카드 아래쪽, 실선 위에 원고 인용처럼 */
+.search-hits { align-self: stretch; display: flex; flex-direction: column; gap: 0.4rem; margin-top: 0.2rem; padding-top: 0.8rem; border-top: 1px solid var(--pr-rule); }
 .search-hit-line, .search-hit-summary { margin: 0; font-size: 1.05rem; font-weight: 400; line-height: 1.6; color: var(--pr-body); }
 .search-hit-summary { font-family: var(--pr-sans); font-size: 0.9375rem; letter-spacing: 0; }
 .search-hit-line mark { padding: 0 0.1em; border-radius: 3px; background: var(--pr-mark); color: var(--primary); }

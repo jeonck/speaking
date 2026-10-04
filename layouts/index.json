@@ -1,5 +1,5 @@
 {{- /* PaperMod 검색 색인. 실습 페이지는 본문이 data.json에 있으므로 원고 문장(+주제 이름)을 content로 넣는다.
-       lines·date·duration은 검색 결과 카드(layouts/search.html)가 쓴다 — 검색 대상 키는 아니다.
+       lines·tags·date·duration은 검색 결과 카드(layouts/search.html)가 쓴다 — 검색 대상 키는 아니다.
        테마의 .Scratch 대신 지역 변수 — 서버 재빌드마다 누적되지 않게. */ -}}
 {{- $index := slice -}}
 {{- range site.RegularPages -}}
@@ -11,10 +11,11 @@
         {{- $content = delimit $lines " " }}
     {{- end }}
     {{- /* 주제 이름도 넣어 주제로 찾아도 걸리게 */}}
-    {{- range .Params.tags }}{{ $content = printf "%s %s" $content (partial "tag_name.html" .) }}{{ end }}
+    {{- $tags := slice }}
+    {{- range .Params.tags }}{{ $t := partial "tag_name.html" . }}{{ $tags = $tags | append $t }}{{ $content = printf "%s %s" $content $t }}{{ end }}
     {{- $index = $index | append (dict
         "title" .Title "content" $content "permalink" .Permalink "summary" .Summary
-        "lines" $lines "date" (.Date.Format "2006-01-02") "duration" (.Params.duration | default 0)) -}}
+        "lines" $lines "tags" $tags "date" (.Date.Format "2006-01-02") "duration" (.Params.duration | default 0)) -}}
     {{- end }}
 {{- end -}}
 {{- $index | jsonify -}}

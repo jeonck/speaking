@@ -34,7 +34,7 @@
       {{- end }}
       {{- with first 4 $practices }}
       <h2 class="search-recent-title">최근 실습</h2>
-      {{- partial "practice_rows.html" . }}
+      {{- partial "practice_cards.html" . }}
       {{- end }}
     </div>
     <p class="search-status" data-search-status aria-live="polite" hidden></p>
@@ -43,7 +43,7 @@
 </div>
 <script>
   /* 테마 검색(fastsearch.js)은 제목만 그린다. 결과가 그려지면 색인(index.json)의 정보로
-     카드를 채운다: 날짜·길이 배지, 제목, 검색어가 든 원고 문장(검색어 강조).
+     카드를 채운다: 날짜·길이·맞은 문장 수 배지, 제목, 주제, 검색어가 든 원고 문장 2개(검색어 강조).
      테마의 ↑↓ 이동이 쓰는 li > a.entry-link 구조는 그대로 둔다. */
   (function () {
     var input = document.getElementById("searchInput");
@@ -64,23 +64,24 @@
       if (text != null) n.textContent = text;
       return n;
     }
-    // 검색어가 든 문장을 찾고, 검색어 부분만 <mark>로 감싼다
-    function snippet(m, q) {
+    // 검색어가 든 원고 문장들 — 전체 검색어가 먼저, 없으면 3글자 이상 낱말로
+    function hits(m, q) {
       var lines = m.lines || [];
       var words = [q].concat(q.split(/\s+/).filter(function (w) { return w.length >= 3; }));
       for (var i = 0; i < words.length; i++) {
         var w = words[i].toLowerCase();
-        for (var j = 0; j < lines.length; j++) {
-          var at = lines[j].toLowerCase().indexOf(w);
-          if (at >= 0) {
-            var p = el("p", "search-hit-line");
-            p.lang = "en";
-            p.append(lines[j].slice(0, at), el("mark", null, lines[j].slice(at, at + w.length)), lines[j].slice(at + w.length));
-            return p;
-          }
-        }
+        var found = lines.filter(function (l) { return l.toLowerCase().indexOf(w) >= 0; });
+        if (found.length) return { word: w, lines: found };
       }
-      return m.summary ? el("p", "search-hit-summary", m.summary) : null;
+      return null;
+    }
+    // 검색어 부분만 <mark>로 감싼 문장
+    function hitLine(line, w) {
+      var at = line.toLowerCase().indexOf(w);
+      var p = el("p", "search-hit-line");
+      p.lang = "en";
+      p.append(line.slice(0, at), el("mark", null, line.slice(at, at + w.length)), line.slice(at + w.length));
+      return p;
     }
     function enrich() {
       var q = input.value.trim();
@@ -94,9 +95,21 @@
         var d = (m.date || "").split("-");
         if (d.length === 3) badges.append(el("span", "pr-badge", Number(d[1]) + "월 " + Number(d[2]) + "일"));
         if (m.duration) badges.append(el("span", "pr-badge", m.duration + "초"));
+        var h = q && hits(m, q);
+        if (h) badges.append(el("span", "pr-badge pr-badge--hit", "원고 " + h.lines.length + "곳"));
         li.append(badges, el("span", "search-card-title", m.title));
-        var s = q && snippet(m, q);
-        if (s) li.append(s);
+        if (m.tags && m.tags.length) {
+          var tags = el("span", "practice-card-tags");
+          m.tags.forEach(function (t) { tags.append(el("span", "practice-card-tag", t)); });
+          li.append(tags);
+        }
+        if (h) {
+          var box = el("div", "search-hits");
+          h.lines.slice(0, 2).forEach(function (l) { box.append(hitLine(l, h.word)); });
+          li.append(box);
+        } else if (m.summary) {
+          li.append(el("p", "search-hit-summary", m.summary));
+        }
         li.append(a);
       });
     }
