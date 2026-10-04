@@ -1,0 +1,516 @@
+{
+ "video_id": "yF8mdshGyFU",
+ "source_title": "Safety in Bear Country - Yellowstone",
+ "source_channel": "Yellowstone National Park",
+ "segment": {
+  "start": 57.15,
+  "end": 81.47
+ },
+ "sentences": [
+  {
+   "text": "If the bear has seen you, the proper response depends on what the bear does next.",
+   "chunks": [
+    {
+     "en": "If the bear has seen you,",
+     "ko": "곰이 너를 봤다면,"
+    },
+    {
+     "en": "the proper response depends on",
+     "ko": "적절한 대응은 ~에 달려있다"
+    },
+    {
+     "en": "what the bear does next.",
+     "ko": "곰이 다음에 무엇을 하는지에"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bear",
+     "strong": true,
+     "link": false,
+     "syl": "BEAR"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seen",
+     "strong": true,
+     "link": false,
+     "syl": "SEEN"
+    },
+    {
+     "w": "you,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "proper",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "response",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "depends",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bear",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next.",
+     "strong": true,
+     "link": false,
+     "syl": "NEXT"
+    }
+   ],
+   "tip": "depends on은 '디펜전'처럼 자음과 모음을 이어서 발음해요.",
+   "start": 57.15,
+   "end": 63.06125
+  },
+  {
+   "text": "Slowly walk backwards while talking to the bear in a non-aggressive voice.",
+   "chunks": [
+    {
+     "en": "Slowly walk backwards",
+     "ko": "천천히 뒷걸음질 치세요"
+    },
+    {
+     "en": "while talking to the bear",
+     "ko": "곰에게 말을 걸면서"
+    },
+    {
+     "en": "in a non-aggressive voice.",
+     "ko": "공격적이지 않은 목소리로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Slowly",
+     "strong": true,
+     "link": false,
+     "syl": "SLOW"
+    },
+    {
+     "w": "walk",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "backwards",
+     "strong": true,
+     "link": false,
+     "syl": "BACK"
+    },
+    {
+     "w": "while",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talking",
+     "strong": true,
+     "link": false,
+     "syl": "TALK"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bear",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "non-aggressive",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "voice.",
+     "strong": true,
+     "link": false,
+     "syl": "VOICE"
+    }
+   ],
+   "tip": "in a는 '이너'처럼 이어서 발음해요.",
+   "start": 63.06125,
+   "end": 67.29
+  },
+  {
+   "text": "Most likely the bear will run away, but not always.",
+   "chunks": [
+    {
+     "en": "Most likely",
+     "ko": "아마도"
+    },
+    {
+     "en": "the bear will run away,",
+     "ko": "곰은 도망갈 것이다,"
+    },
+    {
+     "en": "but not always.",
+     "ko": "하지만 항상 그런 것은 아니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": true,
+     "link": false,
+     "syl": "MOST"
+    },
+    {
+     "w": "likely",
+     "strong": true,
+     "link": false,
+     "syl": "LIKE"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bear",
+     "strong": true,
+     "link": false,
+     "syl": "BEAR"
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "run",
+     "strong": true,
+     "link": true,
+     "syl": "RUN"
+    },
+    {
+     "w": "away,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always.",
+     "strong": true,
+     "link": false,
+     "syl": "AL"
+    }
+   ],
+   "tip": "run away는 '러너웨이'처럼 이어서 말해요.",
+   "start": 67.29,
+   "end": 71.43666666666667
+  },
+  {
+   "text": "Never run from a bear.",
+   "chunks": [
+    {
+     "en": "Never run",
+     "ko": "절대 뛰지 마라"
+    },
+    {
+     "en": "from a bear.",
+     "ko": "곰으로부터"
+    }
+   ],
+   "words": [
+    {
+     "w": "Never",
+     "strong": true,
+     "link": false,
+     "syl": "NEV"
+    },
+    {
+     "w": "run",
+     "strong": true,
+     "link": false,
+     "syl": "RUN"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bear.",
+     "strong": true,
+     "link": false,
+     "syl": "BEAR"
+    }
+   ],
+   "tip": "from a는 '프러머'처럼 가볍게 이어져요.",
+   "start": 71.43666666666667,
+   "end": 73.7625
+  },
+  {
+   "text": "If the bear charges you, stop retreating and hold your ground.",
+   "chunks": [
+    {
+     "en": "If the bear charges you,",
+     "ko": "곰이 돌진해오면,"
+    },
+    {
+     "en": "stop retreating",
+     "ko": "물러서던 것을 멈추고"
+    },
+    {
+     "en": "and hold your ground.",
+     "ko": "제자리를 지켜라."
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bear",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "charges",
+     "strong": true,
+     "link": false,
+     "syl": "CHAR"
+    },
+    {
+     "w": "you,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stop",
+     "strong": true,
+     "link": false,
+     "syl": "STOP"
+    },
+    {
+     "w": "retreating",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hold",
+     "strong": true,
+     "link": false,
+     "syl": "HOLD"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground.",
+     "strong": true,
+     "link": false,
+     "syl": "GROUND"
+    }
+   ],
+   "tip": "charges you는 'z' 소리가 다음 모음으로 살짝 이어져요.",
+   "start": 73.7625,
+   "end": 79.49
+  },
+  {
+   "text": "Most charges are bluff charges.",
+   "chunks": [
+    {
+     "en": "Most charges",
+     "ko": "대부분의 돌진은"
+    },
+    {
+     "en": "are bluff charges.",
+     "ko": "위협용 돌진이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": true,
+     "link": false,
+     "syl": "MOST"
+    },
+    {
+     "w": "charges",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bluff",
+     "strong": true,
+     "link": false,
+     "syl": "BLUFF"
+    },
+    {
+     "w": "charges.",
+     "strong": true,
+     "link": false,
+     "syl": "CHAR"
+    }
+   ],
+   "tip": "bluff charges를 또박또박 강조해서 말해요.",
+   "start": 79.49,
+   "end": 81.47
+  }
+ ],
+ "questions": [
+  {
+   "q": "What should a hiker do if a bear notices them?",
+   "options": [
+    "Run away as fast as possible",
+    "Slowly walk backward while talking calmly",
+    "Climb the nearest tree"
+   ],
+   "answer": 1,
+   "why": "두 번째 문장에서 천천히 뒷걸음질하며 말하라고 설명합니다."
+  },
+  {
+   "q": "What should you never do when you see a bear?",
+   "options": [
+    "Talk to it",
+    "Run from it",
+    "Stand still"
+   ],
+   "answer": 1,
+   "why": "'Never run from a bear.' 문장에 명시되어 있습니다."
+  },
+  {
+   "q": "What should you do if a bear charges at you?",
+   "options": [
+    "Run away immediately",
+    "Stop retreating and hold your ground",
+    "Lie down and play dead"
+   ],
+   "answer": 1,
+   "why": "다섯 번째 문장에서 물러서지 말고 자리를 지키라고 합니다."
+  },
+  {
+   "q": "What are most bear charges described as?",
+   "options": [
+    "Bluff charges",
+    "Fatal attacks",
+    "Territorial displays"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 대부분의 돌진은 위협용(bluff) 돌진이라고 합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "bluff charge",
+   "ko": "위협성 돌진",
+   "note": "실제 공격이 아니라 겁을 주기 위한 가짜 돌진을 뜻해요."
+  },
+  {
+   "term": "hold your ground",
+   "ko": "자리를 지키다, 물러서지 않다",
+   "note": "위협적인 상황에서도 버티고 서 있다는 뜻이에요."
+  },
+  {
+   "term": "non-aggressive",
+   "ko": "공격적이지 않은",
+   "note": "목소리나 태도가 위협적이지 않음을 나타내요."
+  },
+  {
+   "term": "retreating",
+   "ko": "물러서는 것",
+   "note": "뒤로 천천히 물러나는 행동을 가리켜요."
+  }
+ ]
+}

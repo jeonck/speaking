@@ -1,0 +1,523 @@
+{
+ "video_id": "pvZVZnFTUCI",
+ "source_title": "Getting More Food From Local Farms To Schools",
+ "source_channel": "USDA",
+ "segment": {
+  "start": 9.33,
+  "end": 34.78
+ },
+ "sentences": [
+  {
+   "text": "American children are getting more of their food in school from local farms and gardens thanks to the U.S. Department of Agriculture's Farm to School program.",
+   "chunks": [
+    {
+     "en": "American children are getting more of their food in school",
+     "ko": "미국 아이들은 더 많은 음식을 학교에서 얻고 있다"
+    },
+    {
+     "en": "from local farms and gardens",
+     "ko": "지역 농장과 정원으로부터"
+    },
+    {
+     "en": "thanks to the U.S. Department of Agriculture's Farm to School program.",
+     "ko": "미국 농무부의 '농장에서 학교로' 프로그램 덕분에"
+    }
+   ],
+   "words": [
+    {
+     "w": "American",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "children",
+     "strong": true,
+     "link": false,
+     "syl": "CHIL"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "getting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": true,
+     "syl": "FOOD"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "school",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": true,
+     "link": false,
+     "syl": "LO"
+    },
+    {
+     "w": "farms",
+     "strong": true,
+     "link": true,
+     "syl": "FARMS"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gardens",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thanks",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Department",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Agriculture's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Farm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "School",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "program.",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    }
+   ],
+   "tip": "'more of'와 'food in'처럼 자음 뒤 모음은 이어서 발음돼요.",
+   "start": 9.33,
+   "end": 17.13
+  },
+  {
+   "text": "A new USDA survey shows that over thirty-eight thousand schools with twenty-one million students are serving over three hundred fifty million dollars in healthy local food.",
+   "chunks": [
+    {
+     "en": "A new USDA survey shows",
+     "ko": "새로운 USDA 조사가 보여준다"
+    },
+    {
+     "en": "that over thirty-eight thousand schools",
+     "ko": "3만 8천 개가 넘는 학교에서"
+    },
+    {
+     "en": "with twenty-one million students",
+     "ko": "2100만 명의 학생이 있는"
+    },
+    {
+     "en": "are serving over three hundred fifty million dollars",
+     "ko": "3억 5천만 달러어치를 제공하고 있다"
+    },
+    {
+     "en": "in healthy local food.",
+     "ko": "건강한 지역 음식으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "USDA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "survey",
+     "strong": true,
+     "link": false,
+     "syl": "SUR"
+    },
+    {
+     "w": "shows",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thirty-eight",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thousand",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "schools",
+     "strong": true,
+     "link": false,
+     "syl": "SCHOOLS"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "twenty-one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "million",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": true,
+     "link": false,
+     "syl": "STU"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "serving",
+     "strong": true,
+     "link": false,
+     "syl": "SERV"
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hundred",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fifty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "million",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dollars",
+     "strong": true,
+     "link": false,
+     "syl": "DOL"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "healthy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'thirty-eight thousand', 'twenty-one million'처럼 큰 숫자는 끊어 읽는 연습을 해보세요.",
+   "start": 17.13,
+   "end": 27.73
+  },
+  {
+   "text": "With every local food purchase, more money goes directly back to farmers and ranchers and stays in local communities.",
+   "chunks": [
+    {
+     "en": "With every local food purchase,",
+     "ko": "지역 식품을 구매할 때마다"
+    },
+    {
+     "en": "more money goes directly back",
+     "ko": "더 많은 돈이 곧바로 돌아간다"
+    },
+    {
+     "en": "to farmers and ranchers",
+     "ko": "농부와 목장주들에게"
+    },
+    {
+     "en": "and stays in local communities.",
+     "ko": "그리고 지역 사회에 남는다"
+    }
+   ],
+   "words": [
+    {
+     "w": "With",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "purchase,",
+     "strong": true,
+     "link": false,
+     "syl": "PUR"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "link": false,
+     "syl": "MON"
+    },
+    {
+     "w": "goes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "directly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "farmers",
+     "strong": true,
+     "link": true,
+     "syl": "FARM"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ranchers",
+     "strong": true,
+     "link": true,
+     "syl": "RANCH"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stays",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "communities.",
+     "strong": true,
+     "link": false,
+     "syl": "MU"
+    }
+   ],
+   "tip": "'farmers and', 'stays in'처럼 자음 뒤 모음은 이어서 발음돼요.",
+   "start": 27.73,
+   "end": 34.78
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where are American children increasingly getting their school food from?",
+   "options": [
+    "Local farms and gardens",
+    "Imported food companies",
+    "Only school cafeterias' own gardens"
+   ],
+   "answer": 0,
+   "why": "첫 문장 'getting more of their food in school from local farms and gardens'에서 알 수 있어요."
+  },
+  {
+   "q": "What program is driving this change?",
+   "options": [
+    "The Farm to School program",
+    "The National School Lunch Act",
+    "A private charity"
+   ],
+   "answer": 0,
+   "why": "'thanks to the U.S. Department of Agriculture's Farm to School program.'에서 확인돼요."
+  },
+  {
+   "q": "About how many schools does the USDA survey cover?",
+   "options": [
+    "Over thirty-eight thousand",
+    "About twenty-one thousand",
+    "Fewer than ten thousand"
+   ],
+   "answer": 0,
+   "why": "'over thirty-eight thousand schools' 부분에서 알 수 있어요."
+  },
+  {
+   "q": "Besides students, who benefits from local food purchases?",
+   "options": [
+    "Farmers and ranchers",
+    "Only school administrators",
+    "Food delivery companies"
+   ],
+   "answer": 0,
+   "why": "'more money goes directly back to farmers and ranchers' 부분에서 알 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Farm to School program",
+   "ko": "농장에서 학교로 프로그램",
+   "note": "지역 농산물을 학교 급식에 공급하는 미국 농무부 프로그램이에요."
+  },
+  {
+   "term": "USDA",
+   "ko": "미국 농무부",
+   "note": "U.S. Department of Agriculture의 줄임말이에요."
+  },
+  {
+   "term": "local food purchase",
+   "ko": "지역 식품 구매",
+   "note": "학교가 지역에서 생산된 식품을 사는 것을 말해요."
+  },
+  {
+   "term": "ranchers",
+   "ko": "목장주, 축산업자",
+   "note": "소·양 등을 기르는 농장을 운영하는 사람들이에요."
+  }
+ ]
+}

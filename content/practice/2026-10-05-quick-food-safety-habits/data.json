@@ -1,0 +1,522 @@
+{
+ "video_id": "iguM_pqetzo",
+ "source_title": "Food Safety in Seconds",
+ "source_channel": "U.S. Food and Drug Administration",
+ "segment": {
+  "start": 15.28,
+  "end": 41.93
+ },
+ "sentences": [
+  {
+   "text": "Some food safe habits can take just a few seconds.",
+   "chunks": [
+    {
+     "en": "Some food safe habits",
+     "ko": "몇몇 식품 안전 습관은"
+    },
+    {
+     "en": "can take",
+     "ko": "걸릴 수 있다"
+    },
+    {
+     "en": "just a few seconds.",
+     "ko": "단 몇 초밖에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false,
+     "syl": "FOOD"
+    },
+    {
+     "w": "safe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "habits",
+     "strong": true,
+     "link": false,
+     "syl": "HAB"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": true,
+     "link": false,
+     "syl": "FEW"
+    },
+    {
+     "w": "seconds.",
+     "strong": true,
+     "link": false,
+     "syl": "SEC"
+    }
+   ],
+   "tip": "'just a'는 '저스터'처럼 자음과 모음이 이어져요.",
+   "start": 15.28,
+   "end": 18.82
+  },
+  {
+   "text": "Like washing your hands with soap and water for at least 20 seconds before touching food.",
+   "chunks": [
+    {
+     "en": "Like washing your hands",
+     "ko": "너의 손을 씻는 것처럼"
+    },
+    {
+     "en": "with soap and water",
+     "ko": "비누와 물로"
+    },
+    {
+     "en": "for at least 20 seconds",
+     "ko": "적어도 20초 동안"
+    },
+    {
+     "en": "before touching food.",
+     "ko": "음식을 만지기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "washing",
+     "strong": true,
+     "link": false,
+     "syl": "WASH"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hands",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soap",
+     "strong": true,
+     "link": false,
+     "syl": "SOAP"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": true,
+     "link": false,
+     "syl": "WA"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "20",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seconds",
+     "strong": true,
+     "link": false,
+     "syl": "SEC"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "touching",
+     "strong": true,
+     "link": false,
+     "syl": "TOUCH"
+    },
+    {
+     "w": "food.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'for at'는 '포랫'처럼 이어서 발음돼요.",
+   "start": 18.82,
+   "end": 25.23
+  },
+  {
+   "text": "And washing fruits and vegetables before you eat them.",
+   "chunks": [
+    {
+     "en": "And washing fruits and vegetables",
+     "ko": "그리고 과일과 채소를 씻는 것도"
+    },
+    {
+     "en": "before you eat them.",
+     "ko": "너가 그것들을 먹기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "washing",
+     "strong": true,
+     "link": false,
+     "syl": "WASH"
+    },
+    {
+     "w": "fruits",
+     "strong": true,
+     "link": false,
+     "syl": "FRUITS"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vegetables",
+     "strong": true,
+     "link": false,
+     "syl": "VEG"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eat",
+     "strong": true,
+     "link": false,
+     "syl": "EAT"
+    },
+    {
+     "w": "them.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'eat them'은 '이름'처럼 부드럽게 이어질 수 있어요.",
+   "start": 25.23,
+   "end": 28.7
+  },
+  {
+   "text": "And it only takes a moment to separate raw meat from produce that won't be cooked.",
+   "chunks": [
+    {
+     "en": "And it only takes a moment",
+     "ko": "그리고 그것은 잠깐이면 된다"
+    },
+    {
+     "en": "to separate raw meat",
+     "ko": "날고기를 분리하는 데"
+    },
+    {
+     "en": "from produce that won't be cooked.",
+     "ko": "요리되지 않을 농산물로부터"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "takes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moment",
+     "strong": true,
+     "link": false,
+     "syl": "MO"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "separate",
+     "strong": true,
+     "link": false,
+     "syl": "SEP"
+    },
+    {
+     "w": "raw",
+     "strong": true,
+     "link": false,
+     "syl": "RAW"
+    },
+    {
+     "w": "meat",
+     "strong": true,
+     "link": false,
+     "syl": "MEAT"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "produce",
+     "strong": true,
+     "link": false,
+     "syl": "PROD"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "won't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooked.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'it only'는 '잇온리'처럼 이어져요.",
+   "start": 28.7,
+   "end": 37.64
+  },
+  {
+   "text": "Testing the temperature of cooked foods with a food thermometer before serving.",
+   "chunks": [
+    {
+     "en": "Testing the temperature of cooked foods",
+     "ko": "조리된 음식의 온도를 재는 것은"
+    },
+    {
+     "en": "with a food thermometer",
+     "ko": "식품용 온도계로"
+    },
+    {
+     "en": "before serving.",
+     "ko": "제공하기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Testing",
+     "strong": true,
+     "link": false,
+     "syl": "TEST"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "temperature",
+     "strong": true,
+     "link": false,
+     "syl": "TEM"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooked",
+     "strong": true,
+     "link": false,
+     "syl": "COOKED"
+    },
+    {
+     "w": "foods",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thermometer",
+     "strong": true,
+     "link": false,
+     "syl": "MOM"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "serving.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'with a'는 '위더'처럼 자연스럽게 이어져요.",
+   "start": 37.64,
+   "end": 41.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long should you wash your hands with soap and water?",
+   "options": [
+    "At least 20 seconds",
+    "At least 5 seconds",
+    "About 1 minute"
+   ],
+   "answer": 0,
+   "why": "'with soap and water for at least 20 seconds before touching food.'에서 확인할 수 있어요."
+  },
+  {
+   "q": "What should be kept separate from produce that won't be cooked?",
+   "options": [
+    "Raw meat",
+    "Cooked rice",
+    "Frozen vegetables"
+   ],
+   "answer": 0,
+   "why": "'to separate raw meat from produce that won't be cooked.'에서 알 수 있어요."
+  },
+  {
+   "q": "What tool is used to check if cooked food is ready to serve?",
+   "options": [
+    "A food thermometer",
+    "A kitchen scale",
+    "A timer"
+   ],
+   "answer": 0,
+   "why": "'with a food thermometer before serving.'에서 확인됩니다."
+  },
+  {
+   "q": "When should you wash fruits and vegetables?",
+   "options": [
+    "Before you eat them",
+    "After you eat them",
+    "Only before cooking them"
+   ],
+   "answer": 0,
+   "why": "'washing fruits and vegetables before you eat them.'에서 알 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "food safe habits",
+   "ko": "식품 안전 습관",
+   "note": "식중독을 예방하기 위한 생활 습관을 뜻해요."
+  },
+  {
+   "term": "separate ... from",
+   "ko": "~에서 분리하다",
+   "note": "교차 오염을 막기 위해 날고기와 다른 식품을 나눠두는 표현이에요."
+  },
+  {
+   "term": "produce",
+   "ko": "농산물(과일·채소)",
+   "note": "여기서는 동사가 아니라 명사로, 과일과 채소를 가리켜요."
+  },
+  {
+   "term": "food thermometer",
+   "ko": "식품용 온도계",
+   "note": "조리된 음식의 내부 온도를 재는 도구예요."
+  }
+ ]
+}

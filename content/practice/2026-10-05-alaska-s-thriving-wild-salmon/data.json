@@ -1,0 +1,547 @@
+{
+ "video_id": "wo3bPOkeqYY",
+ "source_title": "Climate Science Champions, Season 1: Vanessa von Biela, Research Fish Biologist",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 15.77,
+  "end": 40.04
+ },
+ "sentences": [
+  {
+   "text": "Alaska is nearly synonymous with wild salmon.",
+   "chunks": [
+    {
+     "en": "Alaska is nearly synonymous",
+     "ko": "알래스카는 거의 동의어다"
+    },
+    {
+     "en": "with wild salmon.",
+     "ko": "야생 연어와"
+    }
+   ],
+   "words": [
+    {
+     "w": "Alaska",
+     "strong": true,
+     "link": false,
+     "syl": "LAS"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "synonymous",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wild",
+     "strong": true,
+     "link": false,
+     "syl": "WILD"
+    },
+    {
+     "w": "salmon.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "synonymous with는 부드럽게 이어 읽어 자연스러운 리듬을 만듭니다.",
+   "start": 15.77,
+   "end": 19.14
+  },
+  {
+   "text": "We have plentiful, very productive populations of salmon in an era when a lot of other parts of our country have listed their salmon populations under the Endangered Species Act.",
+   "chunks": [
+    {
+     "en": "We have plentiful, very productive populations of salmon",
+     "ko": "우리는 풍부하고 아주 생산적인 연어 개체군을 가지고 있다"
+    },
+    {
+     "en": "in an era when a lot of other parts of our country",
+     "ko": "우리나라의 다른 많은 지역들이"
+    },
+    {
+     "en": "have listed their salmon populations under the Endangered Species Act.",
+     "ko": "자기네 연어 개체군을 멸종위기종보호법 아래 등재한 시대에"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plentiful,",
+     "strong": true,
+     "link": false,
+     "syl": "PLEN"
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "productive",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "populations",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "salmon",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "era",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "country",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listed",
+     "strong": true,
+     "link": true,
+     "syl": "LIST"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "salmon",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "populations",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "under",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Endangered",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Species",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Act.",
+     "strong": true,
+     "link": false,
+     "syl": "ACT"
+    }
+   ],
+   "tip": "a lot of는 빠르게 이어져 '얼라러브'처럼 들립니다.",
+   "start": 19.14,
+   "end": 29.74
+  },
+  {
+   "text": "And typically, we're not so worried about it getting too hot or too dry for them, because it is colder here compared to other parts of their range.",
+   "chunks": [
+    {
+     "en": "And typically, we're not so worried about it getting too hot or too dry for them,",
+     "ko": "보통은, 너무 덥거나 건조해질까 봐 크게 걱정하지 않는다,"
+    },
+    {
+     "en": "because it is colder here compared to other parts of their range.",
+     "ko": "왜냐하면 이곳이 그들 서식 범위의 다른 지역보다 더 춥기 때문이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "typically,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worried",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "getting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hot",
+     "strong": true,
+     "link": false,
+     "syl": "HOT"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dry",
+     "strong": true,
+     "link": false,
+     "syl": "DRY"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colder",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compared",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "range.",
+     "strong": true,
+     "link": false,
+     "syl": "RANGE"
+    }
+   ],
+   "tip": "too hot or too dry는 각 단어를 끊어서 강조해 읽습니다.",
+   "start": 29.74,
+   "end": 37.16
+  },
+  {
+   "text": "And we do have a lot of freshwater on our landscape.",
+   "chunks": [
+    {
+     "en": "And we do have a lot of freshwater",
+     "ko": "우리는 담수도 많이 가지고 있다"
+    },
+    {
+     "en": "on our landscape.",
+     "ko": "우리 땅에"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": true,
+     "syl": "LOT"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "freshwater",
+     "strong": true,
+     "link": false,
+     "syl": "FRESH"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "landscape.",
+     "strong": true,
+     "link": false,
+     "syl": "LAND"
+    }
+   ],
+   "tip": "a lot of는 빠르게 이어져 '얼라러브'처럼 들립니다.",
+   "start": 37.16,
+   "end": 40.04
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is Alaska closely associated with, according to the speaker?",
+   "options": [
+    "Wild salmon",
+    "Wild bears",
+    "Glaciers"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 알래스카는 '거의 야생 연어의 동의어'라고 말한다."
+  },
+  {
+   "q": "What has happened to salmon populations in other parts of the country?",
+   "options": [
+    "They have been listed under the Endangered Species Act",
+    "They have doubled in size",
+    "They have moved to Alaska"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 다른 지역의 연어가 멸종위기종보호법에 등재되었다고 말한다."
+  },
+  {
+   "q": "Why isn't the speaker as worried about heat or dryness affecting Alaska's salmon?",
+   "options": [
+    "Because it is colder there compared to other parts of their range",
+    "Because Alaska has no salmon predators",
+    "Because Alaska salmon are a different species"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 그들의 서식 범위 중 이곳이 더 춥기 때문이라고 설명한다."
+  },
+  {
+   "q": "What other resource does Alaska have a lot of, according to the speaker?",
+   "options": [
+    "Freshwater",
+    "Oil",
+    "Farmland"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 담수가 많다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "synonymous with",
+   "ko": "~와 동의어인, ~을 상징하는",
+   "note": "거의 같은 뜻으로 여겨질 만큼 밀접하다는 뜻."
+  },
+  {
+   "term": "plentiful",
+   "ko": "풍부한",
+   "note": "양이 많다는 뜻."
+  },
+  {
+   "term": "Endangered Species Act",
+   "ko": "멸종위기종보호법",
+   "note": "미국의 멸종위기종 보호 법률."
+  },
+  {
+   "term": "range",
+   "ko": "서식 범위",
+   "note": "동물이 분포해 사는 지역 전체를 가리킨다."
+  },
+  {
+   "term": "freshwater",
+   "ko": "담수",
+   "note": "소금기 없는 민물을 가리킨다."
+  }
+ ]
+}

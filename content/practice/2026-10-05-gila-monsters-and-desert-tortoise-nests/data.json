@@ -1,0 +1,491 @@
+{
+ "video_id": "a5UG97nfov8",
+ "source_title": "Gila Monster",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 97.6,
+  "end": 122.42
+ },
+ "sentences": [
+  {
+   "text": "There have been at least two observations of a Gila monster attempting to dig up Desert tortoise eggs, with the female Desert tortoise there trying to defend the nest.",
+   "chunks": [
+    {
+     "en": "There have been at least two observations",
+     "ko": "적어도 두 번의 관찰이 있었다"
+    },
+    {
+     "en": "of a Gila monster attempting to dig up Desert tortoise eggs,",
+     "ko": "힐라몬스터가 사막거북 알을 파내려고 하는,"
+    },
+    {
+     "en": "with the female Desert tortoise there trying to defend the nest.",
+     "ko": "암컷 사막거북이 둥지를 지키려 하는 가운데"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "least",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "observations",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Gila",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "monster",
+     "strong": true,
+     "link": false,
+     "syl": "MON"
+    },
+    {
+     "w": "attempting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dig",
+     "strong": true,
+     "link": true,
+     "syl": "DIG"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Desert",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tortoise",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eggs,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "female",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Desert",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tortoise",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "defend",
+     "strong": true,
+     "link": false,
+     "syl": "FEND"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nest.",
+     "strong": true,
+     "link": false,
+     "syl": "NEST"
+    }
+   ],
+   "tip": "dig up은 g가 다음 모음과 연결되어 '디겁'처럼 들립니다.",
+   "start": 97.6,
+   "end": 111.36
+  },
+  {
+   "text": "And in one case, the Gila monster and the tortoise were biting at each other, and there's an incredible series of photographs.",
+   "chunks": [
+    {
+     "en": "And in one case, the Gila monster and the tortoise were biting at each other,",
+     "ko": "한 경우에는, 힐라몬스터와 거북이 서로 물어뜯고 있었고,"
+    },
+    {
+     "en": "and there's an incredible series of photographs.",
+     "ko": "놀라운 사진 시리즈도 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "case,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Gila",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "monster",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tortoise",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biting",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "incredible",
+     "strong": true,
+     "link": false,
+     "syl": "CRED"
+    },
+    {
+     "w": "series",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "photographs.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "biting at는 g가 다음 모음과 연결되어 자연스럽게 이어집니다.",
+   "start": 111.36,
+   "end": 117.00999999999999
+  },
+  {
+   "text": "And in one case the Gila monster was successful and got an egg, and the other one it didn't.",
+   "chunks": [
+    {
+     "en": "And in one case the Gila monster was successful and got an egg,",
+     "ko": "한 경우에는 힐라몬스터가 성공해서 알을 얻었고,"
+    },
+    {
+     "en": "and the other one it didn't.",
+     "ko": "다른 한 경우에는 그러지 못했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "case",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Gila",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "monster",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "successful",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": true,
+     "link": true,
+     "syl": "GOT"
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "egg,",
+     "strong": true,
+     "link": false,
+     "syl": "EGG"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't.",
+     "strong": true,
+     "link": false,
+     "syl": "DID"
+    }
+   ],
+   "tip": "got an은 t가 다음 모음과 연결되어 '가탠'처럼 들립니다.",
+   "start": 117.00999999999999,
+   "end": 122.42
+  }
+ ],
+ "questions": [
+  {
+   "q": "How many observations of this behavior does the speaker mention?",
+   "options": [
+    "At least two",
+    "Exactly five",
+    "Only one"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 '적어도 두 번'의 관찰이 있었다고 말한다."
+  },
+  {
+   "q": "What was the Gila monster trying to dig up?",
+   "options": [
+    "Desert tortoise eggs",
+    "Bird eggs",
+    "Snake eggs"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 사막거북의 알을 파내려 했다고 설명한다."
+  },
+  {
+   "q": "Who was trying to defend the nest?",
+   "options": [
+    "The female Desert tortoise",
+    "A park ranger",
+    "Another Gila monster"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 암컷 사막거북이 둥지를 지키려 했다고 말한다."
+  },
+  {
+   "q": "In the two cases described, how did the outcome differ?",
+   "options": [
+    "The Gila monster got an egg in one case but not the other",
+    "The Gila monster failed both times",
+    "The tortoise won both times"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 한 번은 알을 얻었고 다른 한 번은 얻지 못했다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Gila monster",
+   "ko": "힐라몬스터",
+   "note": "미국 남서부에 사는 독이 있는 도마뱀."
+  },
+  {
+   "term": "Desert tortoise",
+   "ko": "사막거북",
+   "note": "미국 사막 지역에 사는 거북 종."
+  },
+  {
+   "term": "defend the nest",
+   "ko": "둥지를 지키다",
+   "note": "둥지나 알을 보호한다는 뜻."
+  },
+  {
+   "term": "incredible series of photographs",
+   "ko": "놀라운 연속 사진",
+   "note": "한 장면을 연속으로 찍은 여러 장의 사진."
+  }
+ ]
+}

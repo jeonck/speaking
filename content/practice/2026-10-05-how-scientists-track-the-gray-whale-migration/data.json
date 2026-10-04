@@ -1,0 +1,532 @@
+{
+ "video_id": "Cq2rALmjtsg",
+ "source_title": "Gray Whale Research Part 1: Born to Migrate",
+ "source_channel": "NOAA Fisheries",
+ "segment": {
+  "start": 174.87,
+  "end": 200.08
+ },
+ "sentences": [
+  {
+   "text": "The southbound migration is led by near-term pregnant females, so these are the females that are going to calve this year.",
+   "chunks": [
+    {
+     "en": "The southbound migration is led by",
+     "ko": "남쪽으로 가는 이동을 이끄는 것은"
+    },
+    {
+     "en": "near-term pregnant females,",
+     "ko": "출산이 임박한 임신한 암컷들이다,"
+    },
+    {
+     "en": "so these are the females",
+     "ko": "그러니까 이들이 바로 암컷들이다"
+    },
+    {
+     "en": "that are going to calve this year.",
+     "ko": "올해 새끼를 낳을"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "southbound",
+     "strong": true,
+     "link": false,
+     "syl": "SOUTH"
+    },
+    {
+     "w": "migration",
+     "strong": true,
+     "link": false,
+     "syl": "GRA"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "led",
+     "strong": true,
+     "link": false,
+     "syl": "LED"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "near-term",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pregnant",
+     "strong": true,
+     "link": false,
+     "syl": "PREG"
+    },
+    {
+     "w": "females,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "females",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "calve",
+     "strong": true,
+     "link": false,
+     "syl": "CALVE"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "that are는 '대타are'처럼 자음과 모음이 이어져요.",
+   "start": 174.87,
+   "end": 181.32
+  },
+  {
+   "text": "They're followed by a mix of adults and juveniles, with primarily yearlings and young juveniles making up the tail of the migration.",
+   "chunks": [
+    {
+     "en": "They're followed by a mix",
+     "ko": "그 뒤를 따르는 것은 섞인 무리이다"
+    },
+    {
+     "en": "of adults and juveniles,",
+     "ko": "성체와 새끼 고래들이 섞인,"
+    },
+    {
+     "en": "with primarily yearlings and young juveniles",
+     "ko": "주로 한 살짜리와 어린 새끼 고래들이"
+    },
+    {
+     "en": "making up the tail of the migration.",
+     "ko": "이동 행렬의 꼬리를 이룬다."
+    }
+   ],
+   "words": [
+    {
+     "w": "They're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "followed",
+     "strong": true,
+     "link": false,
+     "syl": "FOL"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mix",
+     "strong": true,
+     "link": true,
+     "syl": "MIX"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "adults",
+     "strong": true,
+     "link": false,
+     "syl": "A"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "juveniles,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "primarily",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yearlings",
+     "strong": true,
+     "link": false,
+     "syl": "YEAR"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "young",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "juveniles",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tail",
+     "strong": true,
+     "link": true,
+     "syl": "TAIL"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "migration.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "mix of처럼 자음 뒤 모음은 '믹서브'로 이어 발음해요.",
+   "start": 181.32,
+   "end": 190.01
+  },
+  {
+   "text": "In order to monitor the overall number of whales migrating south, a team of NOAA scientists observe and count the whales from a field station in Granite Canyon, California.",
+   "chunks": [
+    {
+     "en": "In order to monitor",
+     "ko": "확인하기 위해서"
+    },
+    {
+     "en": "the overall number of whales migrating south,",
+     "ko": "남쪽으로 이동하는 고래의 전체 수를"
+    },
+    {
+     "en": "a team of NOAA scientists",
+     "ko": "NOAA 과학자들로 구성된 팀이"
+    },
+    {
+     "en": "observe and count the whales",
+     "ko": "고래들을 관찰하고 세는 것은"
+    },
+    {
+     "en": "from a field station in Granite Canyon, California.",
+     "ko": "캘리포니아 그래닛 캐니언의 현장 관측소에서이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "order",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "monitor",
+     "strong": true,
+     "link": false,
+     "syl": "MON"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "overall",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "number",
+     "strong": true,
+     "link": true,
+     "syl": "NUM"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whales",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "migrating",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "south,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "team",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NOAA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scientists",
+     "strong": true,
+     "link": false,
+     "syl": "SCI"
+    },
+    {
+     "w": "observe",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "count",
+     "strong": true,
+     "link": false,
+     "syl": "COUNT"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whales",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "field",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "station",
+     "strong": true,
+     "link": true,
+     "syl": "STA"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Granite",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Canyon,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "California.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "number of는 '넘버러브'처럼 이어서 발음해요.",
+   "start": 190.01,
+   "end": 200.08
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who leads the southbound gray whale migration?",
+   "options": [
+    "Young juveniles",
+    "Near-term pregnant females",
+    "Adult males"
+   ],
+   "answer": 1,
+   "why": "첫 문장에서 임신한 암컷들이 이동을 이끈다고 합니다."
+  },
+  {
+   "q": "What makes up the tail end of the migration?",
+   "options": [
+    "Mostly yearlings and young juveniles",
+    "Only adult males",
+    "Newborn calves"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 한 살짜리와 어린 새끼들이 행렬의 꼬리를 이룬다고 합니다."
+  },
+  {
+   "q": "Who counts the whales during the migration?",
+   "options": [
+    "Local fishermen",
+    "A team of NOAA scientists",
+    "Tour boat operators"
+   ],
+   "answer": 1,
+   "why": "세 번째 문장에서 NOAA 과학자 팀이 고래를 관찰하고 센다고 합니다."
+  },
+  {
+   "q": "Where is the field station located?",
+   "options": [
+    "Granite Canyon, California",
+    "Yellowstone National Park",
+    "A ship at sea"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장 마지막에 캘리포니아 그래닛 캐니언의 현장 관측소라고 나옵니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "southbound",
+   "ko": "남쪽으로 향하는",
+   "note": "방향을 나타내는 -bound와 함께 자주 쓰여요."
+  },
+  {
+   "term": "near-term pregnant",
+   "ko": "출산이 임박한",
+   "note": "곧 새끼를 낳을 상태를 뜻해요."
+  },
+  {
+   "term": "calve",
+   "ko": "(고래 등이) 새끼를 낳다",
+   "note": "동물의 출산을 가리키는 동사예요."
+  },
+  {
+   "term": "field station",
+   "ko": "현장 관측소",
+   "note": "연구자들이 현지에서 머물며 조사하는 기지를 뜻해요."
+  }
+ ]
+}

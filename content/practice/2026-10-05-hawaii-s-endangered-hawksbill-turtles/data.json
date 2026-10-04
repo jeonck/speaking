@@ -1,0 +1,534 @@
+{
+ "video_id": "tR31LroBJU8",
+ "source_title": "Hawaiian Hawksbills: An Endangered Sea Turtle Population",
+ "source_channel": "NOAA Fisheries",
+ "segment": {
+  "start": 54.5,
+  "end": 79.6
+ },
+ "sentences": [
+  {
+   "text": "Global populations have declined by an estimated 90% over the last 100 years, having a major impact on the ability of hawksbills to fulfill their ecological roles, as they are the only species of sea turtles that eats sponges.",
+   "chunks": [
+    {
+     "en": "Global populations have declined by an estimated 90%",
+     "ko": "전 세계 개체수는 추정치로 90% 감소했다"
+    },
+    {
+     "en": "over the last 100 years,",
+     "ko": "지난 100년에 걸쳐,"
+    },
+    {
+     "en": "having a major impact on the ability of hawksbills",
+     "ko": "대모거북류의 능력에 큰 영향을 미쳤다"
+    },
+    {
+     "en": "to fulfill their ecological roles,",
+     "ko": "자신들의 생태적 역할을 수행하는"
+    },
+    {
+     "en": "as they are the only species of sea turtles",
+     "ko": "이들이 유일한 바다거북 종이기 때문이다"
+    },
+    {
+     "en": "that eats sponges.",
+     "ko": "해면을 먹는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Global",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "populations",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "declined",
+     "strong": true,
+     "link": false,
+     "syl": "CLINED"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "estimated",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "90%",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "100",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "having",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "major",
+     "strong": true,
+     "link": true,
+     "syl": "MA"
+    },
+    {
+     "w": "impact",
+     "strong": true,
+     "link": false,
+     "syl": "IM"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ability",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hawksbills",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fulfill",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ecological",
+     "strong": true,
+     "link": false,
+     "syl": "LOG"
+    },
+    {
+     "w": "roles,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "species",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turtles",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eats",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sponges.",
+     "strong": true,
+     "link": false,
+     "syl": "SPON"
+    }
+   ],
+   "tip": "an estimated처럼 자음 뒤 모음은 '어네스티메이티드'로 이어 발음해요.",
+   "start": 54.5,
+   "end": 67.78
+  },
+  {
+   "text": "They help ensure sponges don't overtake the reef.",
+   "chunks": [
+    {
+     "en": "They help ensure sponges",
+     "ko": "그들은 해면이 ~하지 않도록 돕는다"
+    },
+    {
+     "en": "don't overtake the reef.",
+     "ko": "암초를 뒤덮지 않도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ensure",
+     "strong": true,
+     "link": false,
+     "syl": "SURE"
+    },
+    {
+     "w": "sponges",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "overtake",
+     "strong": true,
+     "link": false,
+     "syl": "TAKE"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reef.",
+     "strong": true,
+     "link": false,
+     "syl": "REEF"
+    }
+   ],
+   "tip": "don't overtake처럼 t 뒤 모음은 가볍게 이어져요.",
+   "start": 67.78,
+   "end": 71.04
+  },
+  {
+   "text": "The Main Hawaiian Islands host the largest and only consistent nesting colony in the U.S. Pacific, but still only receive about 14 nesting females each year.",
+   "chunks": [
+    {
+     "en": "The Main Hawaiian Islands host the largest",
+     "ko": "하와이 본섬들은 가장 크고"
+    },
+    {
+     "en": "and only consistent nesting colony",
+     "ko": "유일하게 꾸준한 산란 군락을 보유한다"
+    },
+    {
+     "en": "in the U.S. Pacific,",
+     "ko": "미국 태평양 지역에서,"
+    },
+    {
+     "en": "but still only receive about 14 nesting females",
+     "ko": "하지만 여전히 매년 약 14마리의 산란 암컷만을 받는다"
+    },
+    {
+     "en": "each year.",
+     "ko": "매년"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Main",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hawaiian",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Islands",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "host",
+     "strong": true,
+     "link": false,
+     "syl": "HOST"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "largest",
+     "strong": true,
+     "link": false,
+     "syl": "LARGE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "consistent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nesting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colony",
+     "strong": true,
+     "link": false,
+     "syl": "COL"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Pacific,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "receive",
+     "strong": true,
+     "link": true,
+     "syl": "CEIVE"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "14",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "nesting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "females",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "receive about처럼 v 뒤 모음은 이어 발음해요.",
+   "start": 71.04,
+   "end": 79.6
+  }
+ ],
+ "questions": [
+  {
+   "q": "By how much have global hawksbill populations declined over the last 100 years?",
+   "options": [
+    "About 50%",
+    "About 90%",
+    "About 25%"
+   ],
+   "answer": 1,
+   "why": "첫 문장에서 지난 100년간 약 90% 감소했다고 합니다."
+  },
+  {
+   "q": "What is unique about hawksbill turtles among sea turtle species?",
+   "options": [
+    "They are the only species that eats sponges",
+    "They are the fastest swimmers",
+    "They live only in freshwater"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 해면을 먹는 유일한 바다거북 종이라고 합니다."
+  },
+  {
+   "q": "What could happen to the reef without hawksbills eating sponges?",
+   "options": [
+    "Sponges could overtake the reef",
+    "Coral would grow faster",
+    "Fish populations would double"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 해면이 암초를 뒤덮지 않도록 돕는다고 합니다."
+  },
+  {
+   "q": "About how many nesting females does the Main Hawaiian Islands colony receive each year?",
+   "options": [
+    "About 14",
+    "About 140",
+    "About 1,400"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 매년 약 14마리의 산란 암컷만 받는다고 합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "ecological role",
+   "ko": "생태적 역할",
+   "note": "생태계 안에서 한 종이 맡는 기능을 뜻해요."
+  },
+  {
+   "term": "overtake",
+   "ko": "뒤덮다, 잠식하다",
+   "note": "한 곳을 빠르게 차지해버린다는 뜻이에요."
+  },
+  {
+   "term": "nesting colony",
+   "ko": "산란 군락",
+   "note": "같은 장소에 모여 알을 낳는 무리를 가리켜요."
+  },
+  {
+   "term": "consistent",
+   "ko": "꾸준한, 일관된",
+   "note": "매년 변함없이 유지되는 상태를 뜻해요."
+  }
+ ]
+}

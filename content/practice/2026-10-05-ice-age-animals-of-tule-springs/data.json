@@ -1,0 +1,418 @@
+{
+ "video_id": "e7iNYNmwckg",
+ "source_title": "National Parks in the History of Science: Radiocarbon Dating",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 93.54,
+  "end": 114.08
+ },
+ "sentences": [
+  {
+   "text": "One of the largest animals that used to live at Tule Springs was the Columbian mammoth.",
+   "chunks": [
+    {
+     "en": "One of the largest animals",
+     "ko": "가장 큰 동물들 중 하나는"
+    },
+    {
+     "en": "that used to live at Tule Springs",
+     "ko": "툴 스프링스에 살았던"
+    },
+    {
+     "en": "was the Columbian mammoth.",
+     "ko": "콜럼비아매머드였다"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "largest",
+     "strong": true,
+     "link": true,
+     "syl": "LAR"
+    },
+    {
+     "w": "animals",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": true,
+     "syl": "LIVE"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Tule",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Springs",
+     "strong": true,
+     "link": false,
+     "syl": "SPRINGS"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Columbian",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mammoth.",
+     "strong": true,
+     "link": false,
+     "syl": "MAM"
+    }
+   ],
+   "tip": "largest animals처럼 자음으로 끝나는 단어 뒤에 모음으로 시작하는 단어가 오면 부드럽게 이어 읽으세요.",
+   "start": 93.54,
+   "end": 98.25
+  },
+  {
+   "text": "We also had extinct camels.",
+   "chunks": [
+    {
+     "en": "We also had",
+     "ko": "우리는 또한 가지고 있었다"
+    },
+    {
+     "en": "extinct camels.",
+     "ko": "멸종된 낙타들을"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "extinct",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "camels.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "had extinct는 d가 다음 모음과 연결되어 자연스럽게 이어집니다.",
+   "start": 98.25,
+   "end": 100.79
+  },
+  {
+   "text": "We had bison, sometimes even a long-horned bison.",
+   "chunks": [
+    {
+     "en": "We had bison,",
+     "ko": "우리는 바이슨도 있었다,"
+    },
+    {
+     "en": "sometimes even a long-horned bison.",
+     "ko": "때로는 뿔이 긴 바이슨도"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bison,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "sometimes",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long-horned",
+     "strong": true,
+     "link": false,
+     "syl": "LONG"
+    },
+    {
+     "w": "bison.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "sometimes even은 z 소리가 다음 모음과 이어져 부드럽게 들립니다.",
+   "start": 100.79,
+   "end": 105.33
+  },
+  {
+   "text": "There were also some really interesting predators, including the Smilodon, or the saber-toothed cat, as well as the dire wolf.",
+   "chunks": [
+    {
+     "en": "There were also some really interesting predators,",
+     "ko": "정말 흥미로운 포식자들도 있었다,"
+    },
+    {
+     "en": "including the Smilodon, or the saber-toothed cat,",
+     "ko": "스밀로돈, 즉 검치호랑이를 포함해서,"
+    },
+    {
+     "en": "as well as the dire wolf.",
+     "ko": "다이어울프도 마찬가지였다"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "interesting",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "predators,",
+     "strong": true,
+     "link": false,
+     "syl": "PRED"
+    },
+    {
+     "w": "including",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Smilodon,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saber-toothed",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "cat,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dire",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wolf.",
+     "strong": true,
+     "link": false,
+     "syl": "WOLF"
+    }
+   ],
+   "tip": "well as는 l이 다음 모음과 연결되어 '웰래즈'처럼 이어집니다.",
+   "start": 105.33,
+   "end": 114.08
+  }
+ ],
+ "questions": [
+  {
+   "q": "What was one of the largest animals that lived at Tule Springs?",
+   "options": [
+    "The Columbian mammoth",
+    "The saber-toothed cat",
+    "The dire wolf"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 '가장 큰 동물 중 하나'가 콜럼비아매머드였다고 말한다."
+  },
+  {
+   "q": "Besides mammoths, what other animals once lived there?",
+   "options": [
+    "Camels and bison",
+    "Horses and sheep",
+    "Elephants and tigers"
+   ],
+   "answer": 0,
+   "why": "두 번째와 세 번째 문장에서 낙타와 바이슨을 언급한다."
+  },
+  {
+   "q": "What was the Smilodon also known as?",
+   "options": [
+    "The saber-toothed cat",
+    "The dire wolf",
+    "The long-horned bison"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 스밀로돈을 '검치호랑이'라고 설명한다."
+  },
+  {
+   "q": "What animal is mentioned alongside the Smilodon as a predator?",
+   "options": [
+    "The dire wolf",
+    "The Columbian mammoth",
+    "The long-horned bison"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장은 스밀로돈과 함께 다이어울프를 포식자로 언급한다."
+  },
+  {
+   "q": "What kind of bison is mentioned?",
+   "options": [
+    "A long-horned bison",
+    "A short-horned bison",
+    "A woolly bison"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 '뿔이 긴 바이슨'을 언급한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Columbian mammoth",
+   "ko": "콜럼비아매머드",
+   "note": "멸종된 거대 매머드 종."
+  },
+  {
+   "term": "saber-toothed cat",
+   "ko": "검치호랑이(스밀로돈)",
+   "note": "날카로운 송곳니를 가진 멸종된 고양잇과 동물."
+  },
+  {
+   "term": "dire wolf",
+   "ko": "다이어울프",
+   "note": "지금은 멸종된 대형 늑대."
+  },
+  {
+   "term": "long-horned bison",
+   "ko": "뿔이 긴 들소",
+   "note": "지금의 들소보다 뿔이 훨씬 길었던 종."
+  }
+ ]
+}
