@@ -116,6 +116,11 @@ export function initPractice(root, data, slug) {
     if (document.readyState === "complete") scrollToStages("auto");
     else window.addEventListener("load", () => scrollToStages("auto"), { once: true });
   }
+  // 같은 페이지에서 주소의 #stageN만 바뀌어도 그 단계로 옮긴다
+  window.addEventListener("hashchange", () => {
+    const stage = STAGES.find((s) => `#${s.id}` === location.hash);
+    if (stage) showStage(stage.id);
+  });
 
   return ctx;
 }

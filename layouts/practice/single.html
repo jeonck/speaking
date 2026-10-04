@@ -48,12 +48,19 @@
   {{- end }}
 </article>
 
-{{- /* 다 끝낸 뒤 이어 갈 실습 — 최신 순 두 개 */}}
-{{- $others := where (where site.RegularPages "Section" "practice").ByDate.Reverse "RelPermalink" "ne" .RelPermalink }}
-{{- with first 2 $others }}
+{{- /* 다 끝낸 뒤 이어 갈 실습 네 개 — 주제가 많이 겹치는 순, 같으면 최신 순.
+       점수와 날짜를 한 수로 묶어(겹친 주제 수 × 10^10 + 날짜) 한 번에 정렬한다 */}}
+{{- $mine := .Params.tags | default slice }}
+{{- $scored := slice }}
+{{- range where (where site.RegularPages "Section" "practice") "RelPermalink" "ne" .RelPermalink }}
+  {{- $shared := len (intersect $mine (.Params.tags | default slice)) }}
+  {{- $scored = $scored | append (dict "page" . "key" (add (mul $shared 10000000000) .Date.Unix)) }}
+{{- end }}
+{{- $next := slice }}{{ range first 4 (sort $scored "key" "desc") }}{{ $next = $next | append .page }}{{ end }}
+{{- with $next }}
 <section class="practice-next" aria-labelledby="practice-next-title">
   <div class="practice-next-head">
-    <h2 id="practice-next-title" class="pr-section-title">다른 실습</h2>
+    <h2 id="practice-next-title" class="pr-section-title">비슷한 실습</h2>
     {{- with site.GetPage "/practice" }}<a class="pr-btn pr-btn--secondary pr-btn--sm" href="{{ .RelPermalink }}">모든 실습</a>{{ end }}
   </div>
   {{- partial "practice_cards.html" . }}
