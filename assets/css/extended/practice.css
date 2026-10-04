@@ -225,6 +225,18 @@ body.list { background: var(--pr-desk); }
 .pr-feedback--keep { background: var(--pr-warn-soft); }
 @keyframes pr-pop { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
 
+/* 직독직해 읽기 막대 — 화면 아래에 붙는 알약: 남은 시간·줄어드는 막대·다 읽었어요 */
+.pr-read-bar {
+  position: sticky; bottom: 12px; z-index: 5;
+  display: flex; align-items: center; gap: 1.25rem;
+  padding: 0.6rem 0.6rem 0.6rem 1.5rem; border-radius: 9999px;
+  border: 1px solid var(--pr-rule); background: var(--pr-paper);
+  box-shadow: 0 -2px 0 var(--pr-desk), 0 12px 40px rgba(0, 0, 0, 0.12);
+}
+.pr-read-bar .pr-timer-row { flex: 1; min-width: 0; flex-direction: row; }
+.pr-read-bar .practice-timer { order: -1; min-width: 2.6em; text-align: left; font-size: 1.5rem; }
+.pr-read-bar .pr-done { flex: none; }
+
 /* ---------- 타이머 ---------- */
 .pr-timer-row { display: flex; align-items: center; gap: 1rem; }
 .pr-timebar { flex: 1; height: 4px; border-radius: 9999px; background: var(--pr-rule); overflow: hidden; }
@@ -537,6 +549,8 @@ body.list { background: var(--pr-desk); }
   .pr-script > .pr-sentence-row:not(.pr-play-row)::before { line-height: calc(1.15rem * 1.85); }
   .pr-sentence-row.is-stuck, .pr-play-row.is-playing { box-shadow: -1.1rem 0 0 var(--pr-band), 1.1rem 0 0 var(--pr-band); }
   .pr-actions { justify-content: stretch; }
+  .pr-read-bar { gap: 0.9rem; padding: 0.5rem 0.5rem 0.5rem 1.1rem; bottom: 8px; }
+  .pr-read-bar .practice-timer { font-size: 1.25rem; }
   .pr-actions .pr-btn { flex: 1; }
   .pr-btn--lg { width: 100%; }
   .pr-vocab { grid-template-columns: 1fr; }

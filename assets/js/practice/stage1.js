@@ -13,18 +13,22 @@ export function mountStage1(panel, ctx) {
       <button class="pr-start pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 직독직해 시작</button>
       <p class="pr-cover-hint">누르면 원고가 보이고 ${seconds}초 타이머가 흐르기 시작해요.</p>
     </div>
-    <div class="pr-timer-row" hidden>
-      <div class="pr-timebar"><div></div></div>
-      <span class="practice-timer"></span>
-    </div>
     <div class="pr-script" hidden></div>
-    <button class="pr-done pr-btn pr-btn--primary" type="button" hidden>다 읽었어요</button>
+    <!-- 읽는 동안 화면 아래에 붙는 막대: 남은 시간 + 다 읽었어요 (긴 원고에서도 둘 다 보이게) -->
+    <div class="pr-read-bar" hidden>
+      <div class="pr-timer-row">
+        <span class="practice-timer"></span>
+        <div class="pr-timebar"><div></div></div>
+      </div>
+      <button class="pr-done pr-btn pr-btn--primary" type="button">다 읽었어요</button>
+    </div>
     <div class="pr-check" hidden></div>
     <div class="pr-result" hidden></div>
   `;
 
   const startBtn = panel.querySelector(".pr-start");
   const coverEl = panel.querySelector(".pr-cover");
+  const readBar = panel.querySelector(".pr-read-bar");
   const timerRow = panel.querySelector(".pr-timer-row");
   const timerEl = panel.querySelector(".practice-timer");
   const barEl = panel.querySelector(".pr-timebar > div");
@@ -43,9 +47,8 @@ export function mountStage1(panel, ctx) {
   startBtn.addEventListener("click", () => {
     startedAt = performance.now();
     coverEl.hidden = true;
-    timerRow.hidden = false;
+    readBar.hidden = false;
     scriptEl.hidden = false;
-    doneBtn.hidden = false;
     cancelCountdown = startCountdown(seconds, {
       onTick: (r) => {
         timerEl.textContent = formatSeconds(r);
@@ -62,8 +65,7 @@ export function mountStage1(panel, ctx) {
 
   function finish(elapsed, inTime) {
     if (cancelCountdown) cancelCountdown();
-    doneBtn.hidden = true;
-    timerRow.hidden = true;
+    readBar.hidden = true;
     scriptEl.classList.add("pr-blurred");
     checkEl.hidden = false;
     checkEl.innerHTML = `
