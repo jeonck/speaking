@@ -68,13 +68,15 @@ export function initPractice(root, data, slug) {
       mounted.add(id);
       stage.mount(panelEls[id], ctx);
     }
-    if (scroll) {
-      // 상단 메뉴가 고정(sticky)일 때만 그 높이만큼 더 내려서 단계 탭이 가리지 않게
-      const header = document.querySelector(".header");
-      const sticky = header && getComputedStyle(header).position === "sticky";
-      const offset = (sticky ? header.offsetHeight : 0) + 16;
-      window.scrollTo({ top: root.getBoundingClientRect().top + window.scrollY - offset, behavior: "smooth" });
-    }
+    if (scroll) scrollToStages();
+  }
+
+  function scrollToStages(behavior = "smooth") {
+    // 상단 메뉴가 고정(sticky)일 때만 그 높이만큼 더 내려서 단계 탭이 가리지 않게
+    const header = document.querySelector(".header");
+    const sticky = header && getComputedStyle(header).position === "sticky";
+    const offset = (sticky ? header.offsetHeight : 0) + 16;
+    window.scrollTo({ top: root.getBoundingClientRect().top + window.scrollY - offset, behavior });
   }
 
   function renderProgress() {
@@ -106,7 +108,14 @@ export function initPractice(root, data, slug) {
   ctx.attemptNumber = todayCount(slug, todayISO()) + 1;
   renderProgress();
 
-  showStage(STAGES[0].id, false);
+  // 주소 끝이 #stage2 같으면 그 단계로 바로 연다 (홈의 단계 카드가 쓰는 링크)
+  const fromHash = STAGES.find((s) => `#${s.id}` === location.hash);
+  showStage((fromHash || STAGES[0]).id, false);
+  // 페이지가 다 그려진 뒤에 내려가야 브라우저의 첫 스크롤 위치에 덮이지 않는다
+  if (fromHash) {
+    if (document.readyState === "complete") scrollToStages("auto");
+    else window.addEventListener("load", () => scrollToStages("auto"), { once: true });
+  }
 
   return ctx;
 }

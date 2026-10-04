@@ -722,13 +722,36 @@ body.list { background: var(--pr-desk); }
 
 /* 네 단계 — 단계마다 한 장의 카드 (2×2) */
 .home-steps { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 0; padding: 0; list-style: none; }
-.home-steps li {
-  display: flex; flex-direction: column; gap: 0.5rem; margin: 0;
+.home-steps li { margin: 0; }
+.home-step {
+  display: flex; flex-direction: column; gap: 0.5rem; height: 100%;
   padding: 1.75rem; border-radius: 16px; background: var(--pr-paper); border: 1px solid var(--pr-rule);
+  color: inherit; text-decoration: none; box-shadow: none; transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
+a.home-step:hover { border-color: var(--pr-rule-strong); box-shadow: var(--pr-shadow); }
+a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4px; }
 .home-steps .pr-step-num { width: 32px; height: 32px; margin-bottom: 0.75rem; font-size: 0.875rem; background: var(--pr-ink); color: var(--pr-ink-on); }
 .home-steps b { font-family: var(--pr-serif); font-size: 1.6rem; font-weight: 300; letter-spacing: -0.01em; color: var(--primary); }
-.home-steps span:last-child { font-size: 0.9375rem; line-height: 1.6; color: var(--pr-body); }
+.home-step-text { font-size: 0.9375rem; line-height: 1.6; color: var(--pr-body); }
+/* 단계 화면을 줄인 그림 — 회색 판 위에 그 단계의 핵심 요소 하나 */
+.home-step-visual {
+  display: flex; align-items: center; gap: 0.75rem; height: 88px; margin-bottom: 1.25rem; padding: 0 1.25rem;
+  border-radius: 12px; background: var(--pr-surface);
+}
+.hv-time { flex: none; font-size: 0.875rem; font-weight: 600; font-variant-numeric: tabular-nums; color: var(--primary); }
+.hv-bar { flex: 1; height: 6px; border-radius: 9999px; background: var(--pr-rule-strong); overflow: hidden; }
+.hv-bar span { display: block; width: 62%; height: 100%; border-radius: inherit; background: var(--pr-ink); }
+.hv-rec { flex: none; width: 14px; height: 14px; border-radius: 50%; background: var(--pr-pencil); box-shadow: 0 0 0 5px color-mix(in srgb, var(--pr-pencil) 18%, transparent); }
+.hv-wave { flex: 1; display: flex; align-items: center; justify-content: space-between; height: 44px; }
+.hv-wave span { flex: none; width: 3px; height: var(--h); border-radius: 9999px; background: var(--pr-ink); }
+.hv-wave span:nth-child(n + 13) { background: var(--pr-rule-strong); }
+.hv-lines { flex: 1; display: flex; flex-direction: column; gap: 9px; }
+.hv-lines span { height: 9px; border-radius: 9999px; background: var(--pr-rule-strong); }
+.hv-lines span:nth-child(2) { width: 78%; }
+.hv-lines span:nth-child(3) { width: 52%; }
+.hv-segs { flex: 1; display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+.hv-segs span { height: 6px; border-radius: 9999px; background: var(--pr-ink); }
+.hv-segs span:last-child { background: var(--pr-rule-strong); }
 
 /* 마지막 띠: 가운데 정렬 CTA 밴드 */
 .home-band--cta { text-align: center; }
