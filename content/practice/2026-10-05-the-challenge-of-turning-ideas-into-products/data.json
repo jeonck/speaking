@@ -1,0 +1,322 @@
+{
+ "video_id": "b-msGs6UH6U",
+ "source_title": "Sticking to it",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 282.36,
+  "end": 308.79
+ },
+ "sentences": [
+  {
+   "text": "A person can have a thousand ideas a day, but making them into a business, that's a whole other ball game.",
+   "chunks": [
+    {
+     "en": "A person can have a thousand ideas a day,",
+     "ko": "한 사람이 하루에 천 개의 아이디어를 가질 수 있다"
+    },
+    {
+     "en": "but making them into a business,",
+     "ko": "하지만 그것들을 사업으로 만드는 것은"
+    },
+    {
+     "en": "that's a whole other ball game.",
+     "ko": "완전히 다른 이야기다"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "person",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thousand",
+     "strong": true,
+     "link": true,
+     "syl": "THOU"
+    },
+    {
+     "w": "ideas",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whole",
+     "strong": true,
+     "link": true,
+     "syl": "WHOLE"
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ball",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "game.",
+     "strong": true,
+     "link": false,
+     "syl": "GAME"
+    }
+   ],
+   "tip": "have a, thousand ideas처럼 자음과 모음을 이어 읽어요.",
+   "start": 282.36,
+   "end": 296.7
+  },
+  {
+   "text": "Post-it Notes is a very precision product and is very simple to use, but very difficult to make.",
+   "chunks": [
+    {
+     "en": "Post-it Notes is a very precision product",
+     "ko": "포스트잇 노트는 매우 정밀한 제품이며"
+    },
+    {
+     "en": "and is very simple to use,",
+     "ko": "사용하기는 매우 간단하지만"
+    },
+    {
+     "en": "but very difficult to make.",
+     "ko": "만들기는 매우 어렵다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Post-it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Notes",
+     "strong": true,
+     "link": false,
+     "syl": "NOTES"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "precision",
+     "strong": true,
+     "link": false,
+     "syl": "CI"
+    },
+    {
+     "w": "product",
+     "strong": true,
+     "link": false,
+     "syl": "PROD"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "simple",
+     "strong": true,
+     "link": false,
+     "syl": "SIM"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "difficult",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and is처럼 자음과 모음은 이어서 발음해요.",
+   "start": 296.7,
+   "end": 308.79
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about having ideas?",
+   "options": [
+    "A person can have a thousand ideas a day.",
+    "Ideas are very rare.",
+    "Only experts can have good ideas."
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 확인할 수 있어요."
+  },
+  {
+   "q": "According to the speaker, what is harder than having ideas?",
+   "options": [
+    "Turning ideas into a business",
+    "Explaining ideas to others",
+    "Writing ideas down"
+   ],
+   "answer": 0,
+   "why": "that's a whole other ball game 부분에서 알 수 있어요."
+  },
+  {
+   "q": "What kind of product is Post-it Notes described as?",
+   "options": [
+    "A very precision product",
+    "A cheap, low-quality product",
+    "A complicated electronic device"
+   ],
+   "answer": 0,
+   "why": "Post-it Notes is a very precision product에서 나와요."
+  },
+  {
+   "q": "What does the speaker say about making Post-it Notes?",
+   "options": [
+    "It's very difficult to make.",
+    "It's very easy to make.",
+    "It's impossible to make."
+   ],
+   "answer": 0,
+   "why": "but very difficult to make에서 확인돼요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a whole other ball game",
+   "ko": "완전히 다른 이야기/상황",
+   "note": "상황이 전혀 다르다는 뜻의 관용구예요."
+  },
+  {
+   "term": "precision product",
+   "ko": "정밀 제품",
+   "note": "정확도가 매우 중요한 제품을 뜻해요."
+  },
+  {
+   "term": "turn ideas into a business",
+   "ko": "아이디어를 사업으로 만들다",
+   "note": "창업과 관련해서 자주 쓰는 표현이에요."
+  },
+  {
+   "term": "simple to use",
+   "ko": "사용하기 쉬운",
+   "note": "제품의 사용성을 설명할 때 써요."
+  }
+ ]
+}

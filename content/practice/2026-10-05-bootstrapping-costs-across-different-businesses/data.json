@@ -1,0 +1,412 @@
+{
+ "video_id": "JV39gIQTHss",
+ "source_title": "Financial Support: Bootstrapping (English for Business)",
+ "source_channel": "American English",
+ "segment": {
+  "start": 6.0,
+  "end": 31.5
+ },
+ "sentences": [
+  {
+   "text": "Bootstrapping is easier for some businesses than others.",
+   "chunks": [
+    {
+     "en": "Bootstrapping is easier",
+     "ko": "부트스트래핑(자력 창업)은 더 쉽다"
+    },
+    {
+     "en": "for some businesses than others.",
+     "ko": "다른 사업들보다 어떤 사업들에게는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Bootstrapping",
+     "strong": true,
+     "link": false,
+     "syl": "BOOT"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "easier",
+     "strong": true,
+     "link": false,
+     "syl": "EAS"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "businesses",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "others.",
+     "strong": true,
+     "link": false,
+     "syl": "OTH"
+    }
+   ],
+   "tip": "is easier처럼 자음과 모음은 이어서 발음해요.",
+   "start": 6.0,
+   "end": 11.5
+  },
+  {
+   "text": "This depends a lot on startup and operating cost.",
+   "chunks": [
+    {
+     "en": "This depends a lot",
+     "ko": "이것은 많이 좌우된다"
+    },
+    {
+     "en": "on startup and operating cost.",
+     "ko": "창업 비용과 운영 비용에"
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "depends",
+     "strong": true,
+     "link": true,
+     "syl": "PENDS"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "startup",
+     "strong": true,
+     "link": false,
+     "syl": "START"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "operating",
+     "strong": true,
+     "link": false,
+     "syl": "OP"
+    },
+    {
+     "w": "cost.",
+     "strong": true,
+     "link": false,
+     "syl": "COST"
+    }
+   ],
+   "tip": "depends a, lot on처럼 자음과 모음 연결에 신경 써요.",
+   "start": 11.5,
+   "end": 16.5
+  },
+  {
+   "text": "A simple bicycle delivery service has lower startup and operating costs.",
+   "chunks": [
+    {
+     "en": "A simple bicycle delivery service",
+     "ko": "간단한 자전거 배달 서비스는"
+    },
+    {
+     "en": "has lower startup and operating costs.",
+     "ko": "더 낮은 창업 및 운영 비용을 가진다"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "simple",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bicycle",
+     "strong": true,
+     "link": false,
+     "syl": "BI"
+    },
+    {
+     "w": "delivery",
+     "strong": true,
+     "link": false,
+     "syl": "LIV"
+    },
+    {
+     "w": "service",
+     "strong": true,
+     "link": false,
+     "syl": "SER"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lower",
+     "strong": true,
+     "link": false,
+     "syl": "LOW"
+    },
+    {
+     "w": "startup",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "operating",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "costs.",
+     "strong": true,
+     "link": false,
+     "syl": "COSTS"
+    }
+   ],
+   "tip": "and operating처럼 자음과 모음은 이어서 발음해요.",
+   "start": 16.5,
+   "end": 22.5
+  },
+  {
+   "text": "We can imagine that those same costs would be higher for a business selling specialty food products, like cricket flour.",
+   "chunks": [
+    {
+     "en": "We can imagine",
+     "ko": "우리는 상상할 수 있다"
+    },
+    {
+     "en": "that those same costs would be higher",
+     "ko": "그 같은 비용이 더 높아질 것이라고"
+    },
+    {
+     "en": "for a business selling specialty food products,",
+     "ko": "특수 식품을 판매하는 사업의 경우"
+    },
+    {
+     "en": "like cricket flour.",
+     "ko": "귀뚜라미 가루 같은"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "imagine",
+     "strong": true,
+     "link": false,
+     "syl": "MAG"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "costs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "higher",
+     "strong": true,
+     "link": false,
+     "syl": "HIGH"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "selling",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "specialty",
+     "strong": true,
+     "link": false,
+     "syl": "CIAL"
+    },
+    {
+     "w": "food",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "products,",
+     "strong": true,
+     "link": false,
+     "syl": "PROD"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cricket",
+     "strong": true,
+     "link": false,
+     "syl": "CRICK"
+    },
+    {
+     "w": "flour.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "for a는 자음과 모음이 이어져요.",
+   "start": 22.5,
+   "end": 31.5
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the segment say about bootstrapping?",
+   "options": [
+    "It's easier for some businesses than others.",
+    "It's equally easy for every business.",
+    "It's impossible for small businesses."
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 확인할 수 있어요."
+  },
+  {
+   "q": "What does the difficulty of bootstrapping depend on?",
+   "options": [
+    "Startup and operating cost",
+    "The founder's age",
+    "The number of employees"
+   ],
+   "answer": 0,
+   "why": "This depends a lot on startup and operating cost에서 나와요."
+  },
+  {
+   "q": "Which business is given as an example of lower startup and operating costs?",
+   "options": [
+    "A simple bicycle delivery service",
+    "A specialty food company",
+    "A car rental company"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 확인됩니다."
+  },
+  {
+   "q": "What kind of business is used as an example of higher costs?",
+   "options": [
+    "A business selling specialty food products, like cricket flour",
+    "A bicycle delivery service",
+    "A retail chain"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 cricket flour 예시로 나와요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "bootstrapping",
+   "ko": "자력으로 창업/자금 조달",
+   "note": "외부 투자 없이 자기 돈으로 사업을 시작하는 것이에요."
+  },
+  {
+   "term": "startup cost",
+   "ko": "창업 비용",
+   "note": "사업을 시작할 때 드는 초기 비용이에요."
+  },
+  {
+   "term": "operating cost",
+   "ko": "운영 비용",
+   "note": "사업을 운영하는 데 드는 지속적인 비용이에요."
+  },
+  {
+   "term": "specialty food products",
+   "ko": "특수/전문 식품",
+   "note": "일반적이지 않은 특화된 식품을 말해요."
+  }
+ ]
+}

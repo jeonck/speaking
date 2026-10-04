@@ -1,0 +1,566 @@
+{
+ "video_id": "SbWmtWkDLmo",
+ "source_title": "Made in America: Veterans Powering American Manufacturing",
+ "source_channel": "U.S. Small Business Administration",
+ "segment": {
+  "start": 117.15,
+  "end": 142.21
+ },
+ "sentences": [
+  {
+   "text": "A World War II veteran who served in the U.S. Army Intelligence Corps founded a major retail chain now in nearly every town in America.",
+   "chunks": [
+    {
+     "en": "A World War II veteran",
+     "ko": "2차 대전 참전 군인 한 명이"
+    },
+    {
+     "en": "who served in the U.S. Army Intelligence Corps",
+     "ko": "미 육군 정보부대에서 복무했는데"
+    },
+    {
+     "en": "founded a major retail chain",
+     "ko": "대형 유통 체인을 설립했다"
+    },
+    {
+     "en": "now in nearly every town in America.",
+     "ko": "지금은 미국 거의 모든 마을에 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "World",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "War",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "II",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "veteran",
+     "strong": true,
+     "link": false,
+     "syl": "VET"
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "served",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Army",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Intelligence",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Corps",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "founded",
+     "strong": true,
+     "link": false,
+     "syl": "FOUND"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "major",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "retail",
+     "strong": true,
+     "link": false,
+     "syl": "RE"
+    },
+    {
+     "w": "chain",
+     "strong": true,
+     "link": false,
+     "syl": "CHAIN"
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearly",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "town",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "America.",
+     "strong": true,
+     "link": false,
+     "syl": "MER"
+    }
+   ],
+   "tip": "served in처럼 자음과 모음은 이어서 발음해요.",
+   "start": 117.15,
+   "end": 126.86
+  },
+  {
+   "text": "A World War II Hellcat pilot founded a car rental company after serving in the U.S. Navy.",
+   "chunks": [
+    {
+     "en": "A World War II Hellcat pilot",
+     "ko": "2차 대전 헬캣 조종사가"
+    },
+    {
+     "en": "founded a car rental company",
+     "ko": "자동차 렌터카 회사를 설립했다"
+    },
+    {
+     "en": "after serving in the U.S. Navy.",
+     "ko": "미 해군에서 복무한 후"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "World",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "War",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "II",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hellcat",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pilot",
+     "strong": true,
+     "link": false,
+     "syl": "PI"
+    },
+    {
+     "w": "founded",
+     "strong": true,
+     "link": true,
+     "syl": "FOUND"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car",
+     "strong": true,
+     "link": false,
+     "syl": "CAR"
+    },
+    {
+     "w": "rental",
+     "strong": true,
+     "link": false,
+     "syl": "REN"
+    },
+    {
+     "w": "company",
+     "strong": true,
+     "link": false,
+     "syl": "COM"
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "serving",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Navy.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "founded a처럼 끝자음과 모음은 이어서 발음해요.",
+   "start": 126.86,
+   "end": 132.2
+  },
+  {
+   "text": "He started with a small fleet of seven cars.",
+   "chunks": [
+    {
+     "en": "He started",
+     "ko": "그는 시작했다"
+    },
+    {
+     "en": "with a small fleet of seven cars.",
+     "ko": "차 7대의 작은 차량으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "He",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "STAR"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fleet",
+     "strong": true,
+     "link": true,
+     "syl": "FLEET"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seven",
+     "strong": true,
+     "link": false,
+     "syl": "SEV"
+    },
+    {
+     "w": "cars.",
+     "strong": true,
+     "link": false,
+     "syl": "CARS"
+    }
+   ],
+   "tip": "fleet of처럼 자음과 모음은 연결해서 읽어요.",
+   "start": 132.2,
+   "end": 134.57
+  },
+  {
+   "text": "It's now a global company.",
+   "chunks": [
+    {
+     "en": "It's now",
+     "ko": "지금은"
+    },
+    {
+     "en": "a global company.",
+     "ko": "세계적인 회사다"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "global",
+     "strong": true,
+     "link": false,
+     "syl": "GLO"
+    },
+    {
+     "w": "company.",
+     "strong": true,
+     "link": false,
+     "syl": "COM"
+    }
+   ],
+   "tip": "It's는 짧게 축약해서 빠르게 발음해요.",
+   "start": 134.57,
+   "end": 137.24
+  },
+  {
+   "text": "In manufacturing, a tool and equipment company was first started to support the war effort.",
+   "chunks": [
+    {
+     "en": "In manufacturing,",
+     "ko": "제조업에서는"
+    },
+    {
+     "en": "a tool and equipment company",
+     "ko": "도구 및 장비 회사가"
+    },
+    {
+     "en": "was first started",
+     "ko": "처음 시작되었다"
+    },
+    {
+     "en": "to support the war effort.",
+     "ko": "전쟁 지원을 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "manufacturing,",
+     "strong": true,
+     "link": false,
+     "syl": "FAC"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tool",
+     "strong": true,
+     "link": false,
+     "syl": "TOOL"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "equipment",
+     "strong": true,
+     "link": false,
+     "syl": "QUIP"
+    },
+    {
+     "w": "company",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "STAR"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "support",
+     "strong": true,
+     "link": false,
+     "syl": "PORT"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "war",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "effort.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and equipment처럼 자음과 모음은 이어서 발음해요.",
+   "start": 137.24,
+   "end": 142.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the World War II Army veteran go on to found?",
+   "options": [
+    "A major retail chain",
+    "A car rental company",
+    "A tool and equipment company"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 대형 유통 체인을 설립했다고 나와요."
+  },
+  {
+   "q": "How did the Hellcat pilot's car rental company start?",
+   "options": [
+    "With a small fleet of seven cars",
+    "With a fleet of fifty cars",
+    "With no cars at all"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장(He started with a small fleet of seven cars)에서 알 수 있어요."
+  },
+  {
+   "q": "What is the car rental company like today?",
+   "options": [
+    "It's now a global company.",
+    "It stayed a small local business.",
+    "It closed down after the war."
+   ],
+   "answer": 0,
+   "why": "네 번째 문장(It's now a global company)에서 확인됩니다."
+  },
+  {
+   "q": "Why was the tool and equipment company first started?",
+   "options": [
+    "To support the war effort",
+    "To compete with retail chains",
+    "To build cars for the navy"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장(was first started to support the war effort)에서 나와요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "retail chain",
+   "ko": "유통/소매 체인",
+   "note": "같은 브랜드의 매장이 여러 지역에 있는 것을 말해요."
+  },
+  {
+   "term": "fleet",
+   "ko": "차량 전체, 선단",
+   "note": "자동차나 선박의 무리를 가리켜요."
+  },
+  {
+   "term": "tool and equipment company",
+   "ko": "공구 및 장비 회사",
+   "note": "제조업에서 쓰는 기기를 만드는 회사예요."
+  },
+  {
+   "term": "war effort",
+   "ko": "전쟁 지원 활동",
+   "note": "전쟁을 돕기 위한 생산이나 활동을 의미해요."
+  },
+  {
+   "term": "global company",
+   "ko": "글로벌 기업",
+   "note": "세계 여러 나라에서 사업하는 회사예요."
+  }
+ ]
+}

@@ -1,0 +1,517 @@
+{
+ "video_id": "tYrViB9qNZo",
+ "source_title": "Chip's Chocolate Factory- An SBA Success Story",
+ "source_channel": "U.S. Small Business Administration",
+ "segment": {
+  "start": 116.9,
+  "end": 140.76
+ },
+ "sentences": [
+  {
+   "text": "We make everything from chocolates to kinds of candy to cotton candy to caramel apples.",
+   "chunks": [
+    {
+     "en": "We make everything",
+     "ko": "우리는 모든 것을 만든다"
+    },
+    {
+     "en": "from chocolates",
+     "ko": "초콜릿부터"
+    },
+    {
+     "en": "to kinds of candy",
+     "ko": "여러 종류의 캔디까지"
+    },
+    {
+     "en": "to cotton candy",
+     "ko": "솜사탕까지"
+    },
+    {
+     "en": "to caramel apples.",
+     "ko": "캐러멜 사과까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everything",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chocolates",
+     "strong": true,
+     "link": false,
+     "syl": "CHOC"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kinds",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "candy",
+     "strong": true,
+     "link": false,
+     "syl": "CAN"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cotton",
+     "strong": true,
+     "link": false,
+     "syl": "COT"
+    },
+    {
+     "w": "candy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "caramel",
+     "strong": true,
+     "link": false,
+     "syl": "CAR"
+    },
+    {
+     "w": "apples.",
+     "strong": true,
+     "link": false,
+     "syl": "AP"
+    }
+   ],
+   "tip": "to chocolates, to candy처럼 열거할 때는 각 항목에 리듬을 주며 읽어요.",
+   "start": 116.9,
+   "end": 124.78647058823529
+  },
+  {
+   "text": "You name it, it covers the gamut.",
+   "chunks": [
+    {
+     "en": "You name it,",
+     "ko": "뭐든 말해 봐,"
+    },
+    {
+     "en": "it covers the gamut.",
+     "ko": "모든 것을 다 다룬다."
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "name",
+     "strong": true,
+     "link": false,
+     "syl": "NAME"
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "covers",
+     "strong": true,
+     "link": false,
+     "syl": "COV"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gamut.",
+     "strong": true,
+     "link": false,
+     "syl": "GAM"
+    }
+   ],
+   "tip": "you name it는 관용구라 끊지 않고 한 번에 이어 읽어요.",
+   "start": 124.78647058823529,
+   "end": 127.64
+  },
+  {
+   "text": "Our core product, though, what we started on thirty years ago, the part that we have had trademarked and copyrighted, is our Kansas City fudge.",
+   "chunks": [
+    {
+     "en": "Our core product, though,",
+     "ko": "우리의 핵심 제품은, 그런데,"
+    },
+    {
+     "en": "what we started on thirty years ago,",
+     "ko": "30년 전에 시작한 것인데,"
+    },
+    {
+     "en": "the part that we have had trademarked and copyrighted,",
+     "ko": "우리가 상표 등록하고 저작권을 받은 부분인데,"
+    },
+    {
+     "en": "is our Kansas City fudge.",
+     "ko": "바로 우리의 캔자스시티 퍼지이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "core",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "product,",
+     "strong": true,
+     "link": false,
+     "syl": "PROD"
+    },
+    {
+     "w": "though,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thirty",
+     "strong": true,
+     "link": false,
+     "syl": "THIR"
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ago,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "part",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trademarked",
+     "strong": true,
+     "link": false,
+     "syl": "TRADE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "copyrighted,",
+     "strong": true,
+     "link": false,
+     "syl": "COP"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Kansas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "City",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fudge.",
+     "strong": true,
+     "link": false,
+     "syl": "FUDGE"
+    }
+   ],
+   "tip": "Kansas City fudge는 복합명사라 한 단어처럼 묶어 읽어요.",
+   "start": 127.64,
+   "end": 136.11
+  },
+  {
+   "text": "And that is the meat of our business.",
+   "chunks": [
+    {
+     "en": "And that is",
+     "ko": "그리고 그것이"
+    },
+    {
+     "en": "the meat of our business.",
+     "ko": "우리 사업의 핵심이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meat",
+     "strong": true,
+     "link": true,
+     "syl": "MEAT"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business.",
+     "strong": true,
+     "link": false,
+     "syl": "BUS"
+    }
+   ],
+   "tip": "meat of는 자음+모음이라 '미잇옵'처럼 이어 읽어요.",
+   "start": 136.11,
+   "end": 137.86
+  },
+  {
+   "text": "That's the core of what we do.",
+   "chunks": [
+    {
+     "en": "That's the core",
+     "ko": "그것이 핵심이다"
+    },
+    {
+     "en": "of what we do.",
+     "ko": "우리가 하는 일의"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "core",
+     "strong": true,
+     "link": true,
+     "syl": "CORE"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do.",
+     "strong": true,
+     "link": false,
+     "syl": "DO"
+    }
+   ],
+   "tip": "core of는 이어서 '코어롭'처럼 부드럽게 읽어요.",
+   "start": 137.86,
+   "end": 140.76
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kinds of products does the business make, according to the speaker?",
+   "options": [
+    "Only chocolate bars",
+    "Everything from chocolates to candy, cotton candy, and caramel apples",
+    "Only baked goods"
+   ],
+   "answer": 1,
+   "why": "첫 문장에서 다양한 캔디류를 나열함."
+  },
+  {
+   "q": "What is described as the business's core product?",
+   "options": [
+    "Their Kansas City fudge",
+    "Their cotton candy",
+    "Their caramel apples"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 캔자스시티 퍼지가 핵심 제품이라고 말함."
+  },
+  {
+   "q": "What has the business done with its fudge recipe?",
+   "options": [
+    "Trademarked and copyrighted it",
+    "Sold the recipe to a competitor",
+    "Changed it every year"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 상표 등록하고 저작권을 받았다고 언급함."
+  },
+  {
+   "q": "How does the speaker describe the importance of the fudge to the business?",
+   "options": [
+    "It is the meat/core of the business",
+    "It is a minor side product",
+    "It was discontinued"
+   ],
+   "answer": 0,
+   "why": "네 번째와 다섯 번째 문장에서 핵심(core)이라고 두 번 강조함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "you name it",
+   "ko": "뭐든 말해 봐 (원하는 건 다 있다)",
+   "note": "다양한 종류가 있음을 강조하는 구어체 표현."
+  },
+  {
+   "term": "cover the gamut",
+   "ko": "전 범위를 다루다",
+   "note": "모든 종류를 포함한다는 뜻의 관용구."
+  },
+  {
+   "term": "trademark",
+   "ko": "상표 등록하다",
+   "note": "법적으로 브랜드나 이름을 보호하는 것."
+  },
+  {
+   "term": "the meat of",
+   "ko": "~의 핵심",
+   "note": "가장 중요한 부분을 가리키는 관용 표현."
+  },
+  {
+   "term": "core product",
+   "ko": "핵심 제품",
+   "note": "사업에서 가장 중요한 주력 상품."
+  }
+ ]
+}

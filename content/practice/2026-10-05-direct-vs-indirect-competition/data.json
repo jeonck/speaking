@@ -1,0 +1,360 @@
+{
+ "video_id": "l7Q3P6dXxbM",
+ "source_title": "Business Plans - Part 1 (Business English)",
+ "source_channel": "American English",
+ "segment": {
+  "start": 143.5,
+  "end": 168.5
+ },
+ "sentences": [
+  {
+   "text": "Therefore, it is important for entrepreneurs to do a competitive analysis by examining their market for competition, which can come in two forms, direct and indirect.",
+   "chunks": [
+    {
+     "en": "Therefore,",
+     "ko": "그러므로,"
+    },
+    {
+     "en": "it is important for entrepreneurs",
+     "ko": "중요하다, 기업가들에게는"
+    },
+    {
+     "en": "to do a competitive analysis",
+     "ko": "경쟁 분석을 하는 것이"
+    },
+    {
+     "en": "by examining their market for competition,",
+     "ko": "경쟁을 위해 시장을 조사함으로써,"
+    },
+    {
+     "en": "which can come in two forms,",
+     "ko": "이는 두 가지 형태로 나타날 수 있는데,"
+    },
+    {
+     "en": "direct and indirect.",
+     "ko": "직접적인 것과 간접적인 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Therefore,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important",
+     "strong": true,
+     "link": false,
+     "syl": "POR"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "entrepreneurs",
+     "strong": true,
+     "link": false,
+     "syl": "NEURS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "competitive",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "analysis",
+     "strong": true,
+     "link": false,
+     "syl": "NAL"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "examining",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "market",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "competition,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forms,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "direct",
+     "strong": true,
+     "link": false,
+     "syl": "RECT"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "indirect.",
+     "strong": true,
+     "link": false,
+     "syl": "RECT"
+    }
+   ],
+   "tip": "for entrepreneurs처럼 전치사+명사는 끊지 않고 빠르게 이어 읽어요.",
+   "start": 143.5,
+   "end": 159.0
+  },
+  {
+   "text": "Direct competition comes from businesses that offer products with the same or very similar, almost the same, function.",
+   "chunks": [
+    {
+     "en": "Direct competition comes from businesses",
+     "ko": "직접 경쟁은 비즈니스에서 나온다"
+    },
+    {
+     "en": "that offer products",
+     "ko": "제품을 제공하는"
+    },
+    {
+     "en": "with the same or very similar, almost the same, function.",
+     "ko": "거의 같은, 매우 유사하거나 동일한 기능을 가진"
+    }
+   ],
+   "words": [
+    {
+     "w": "Direct",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "competition",
+     "strong": true,
+     "link": false,
+     "syl": "TI"
+    },
+    {
+     "w": "comes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "businesses",
+     "strong": true,
+     "link": false,
+     "syl": "BUS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "offer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "products",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "similar,",
+     "strong": true,
+     "link": false,
+     "syl": "SIM"
+    },
+    {
+     "w": "almost",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "function.",
+     "strong": true,
+     "link": false,
+     "syl": "FUNC"
+    }
+   ],
+   "tip": "same or very similar는 한 호흡으로 리듬감 있게 읽어요.",
+   "start": 159.0,
+   "end": 168.5
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say entrepreneurs should do?",
+   "options": [
+    "Do a competitive analysis of their market",
+    "Lower their prices immediately",
+    "Hire more employees"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 경쟁 분석의 중요성을 언급함."
+  },
+  {
+   "q": "How many forms of competition does the speaker mention?",
+   "options": [
+    "One",
+    "Two",
+    "Three"
+   ],
+   "answer": 1,
+   "why": "경쟁이 직접과 간접, 두 가지 형태로 나타난다고 말함."
+  },
+  {
+   "q": "What is direct competition, according to the segment?",
+   "options": [
+    "Businesses offering products with the same or very similar function",
+    "Businesses in a completely different industry",
+    "Businesses that do not sell anything similar"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 직접 경쟁의 정의를 설명함."
+  },
+  {
+   "q": "Why is a competitive analysis useful for entrepreneurs?",
+   "options": [
+    "It helps them examine their market for competition",
+    "It guarantees higher profits",
+    "It replaces the need for a business plan"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 시장의 경쟁을 조사하기 위한 것이라고 설명함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "competitive analysis",
+   "ko": "경쟁 분석",
+   "note": "시장의 경쟁자를 조사하는 것을 뜻하는 비즈니스 용어."
+  },
+  {
+   "term": "entrepreneur",
+   "ko": "기업가",
+   "note": "사업을 시작하고 운영하는 사람."
+  },
+  {
+   "term": "direct competition",
+   "ko": "직접 경쟁",
+   "note": "동일하거나 매우 유사한 제품을 파는 경쟁자."
+  },
+  {
+   "term": "indirect competition",
+   "ko": "간접 경쟁",
+   "note": "다른 방식으로 같은 고객의 필요를 충족시키는 경쟁자."
+  }
+ ]
+}

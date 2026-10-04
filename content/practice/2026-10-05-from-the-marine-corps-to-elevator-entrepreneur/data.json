@@ -1,0 +1,381 @@
+{
+ "video_id": "dT0ESOQQKH0",
+ "source_title": "SBA Success Story: Elevated Technologies",
+ "source_channel": "U.S. Small Business Administration",
+ "segment": {
+  "start": 25.12,
+  "end": 44.65
+ },
+ "sentences": [
+  {
+   "text": "I came into the elevator industry from the Marine Corps.",
+   "chunks": [
+    {
+     "en": "I came into the elevator industry",
+     "ko": "나는 엘리베이터 업계에 들어왔다"
+    },
+    {
+     "en": "from the Marine Corps.",
+     "ko": "해병대에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "came",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "elevator",
+     "strong": true,
+     "link": false,
+     "syl": "EL"
+    },
+    {
+     "w": "industry",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Marine",
+     "strong": true,
+     "link": false,
+     "syl": "RINE"
+    },
+    {
+     "w": "Corps.",
+     "strong": true,
+     "link": false,
+     "syl": "CORPS"
+    }
+   ],
+   "tip": "came into는 자음+모음이라 '케임인투'처럼 이어 읽어요.",
+   "start": 25.12,
+   "end": 28.96
+  },
+  {
+   "text": "I was an infantry officer for nearly 10 years, and when I separated from active service, I joined one of the global elevator corporations and really learned the ropes for about 10 years before acquiring my own elevator company.",
+   "chunks": [
+    {
+     "en": "I was an infantry officer for nearly 10 years,",
+     "ko": "나는 거의 10년 동안 보병 장교였다,"
+    },
+    {
+     "en": "and when I separated from active service,",
+     "ko": "그리고 현역에서 전역했을 때,"
+    },
+    {
+     "en": "I joined one of the global elevator corporations",
+     "ko": "나는 글로벌 엘리베이터 기업 중 한 곳에 입사했다"
+    },
+    {
+     "en": "and really learned the ropes",
+     "ko": "그리고 정말로 일을 제대로 배웠다"
+    },
+    {
+     "en": "for about 10 years",
+     "ko": "약 10년 동안"
+    },
+    {
+     "en": "before acquiring my own elevator company.",
+     "ko": "내 소유의 엘리베이터 회사를 인수하기 전까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "infantry",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "officer",
+     "strong": true,
+     "link": false,
+     "syl": "OF"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "separated",
+     "strong": true,
+     "link": false,
+     "syl": "SEP"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "active",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "service,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "joined",
+     "strong": true,
+     "link": true,
+     "syl": "JOINED"
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "global",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "elevator",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "corporations",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ropes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "acquiring",
+     "strong": true,
+     "link": false,
+     "syl": "QUIR"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "elevator",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "company.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "joined one은 자음+모음이 이어져 '조인드원'처럼 들려요.",
+   "start": 28.96,
+   "end": 44.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker do before entering the elevator industry?",
+   "options": [
+    "Served as an infantry officer in the Marine Corps",
+    "Worked as a sales manager",
+    "Studied engineering at university"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 해병대 출신이라고 밝힘."
+  },
+  {
+   "q": "What did the speaker do after leaving active service?",
+   "options": [
+    "Started a chocolate factory",
+    "Joined one of the global elevator corporations",
+    "Retired immediately"
+   ],
+   "answer": 1,
+   "why": "두 번째 문장에서 글로벌 엘리베이터 기업에 입사했다고 말함."
+  },
+  {
+   "q": "About how long did the speaker work at the elevator corporation before acquiring their own company?",
+   "options": [
+    "About 10 years",
+    "About 1 year",
+    "About 25 years"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 '약 10년 동안'이라고 언급함."
+  },
+  {
+   "q": "How did the speaker ultimately start their own business?",
+   "options": [
+    "By acquiring their own elevator company",
+    "By inheriting a family business",
+    "By winning a government contract"
+   ],
+   "answer": 0,
+   "why": "문장 마지막 부분에서 자신의 엘리베이터 회사를 인수했다고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "infantry officer",
+   "ko": "보병 장교",
+   "note": "군대에서 전투 부대를 지휘하는 장교."
+  },
+  {
+   "term": "active service",
+   "ko": "현역 복무",
+   "note": "군대에서 현재 복무 중인 상태."
+  },
+  {
+   "term": "learn the ropes",
+   "ko": "일을 배우다, 요령을 익히다",
+   "note": "새로운 일의 기본을 배운다는 뜻의 관용구."
+  },
+  {
+   "term": "acquire",
+   "ko": "인수하다",
+   "note": "비즈니스에서 회사나 사업체를 사들인다는 뜻."
+  }
+ ]
+}
