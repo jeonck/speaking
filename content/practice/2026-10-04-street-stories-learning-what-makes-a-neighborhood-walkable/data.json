@@ -1,0 +1,439 @@
+{
+ "video_id": "aGIe-BA2b0k",
+ "source_title": "Seattle's Beacon Hill Street Stories",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 46.22,
+  "end": 70.64
+ },
+ "sentences": [
+  {
+   "text": "The Street Stories project took place over 5 weeks.",
+   "chunks": [
+    {
+     "en": "The Street Stories project took place",
+     "ko": "스트리트 스토리즈 프로젝트는 진행되었다"
+    },
+    {
+     "en": "over 5 weeks.",
+     "ko": "5주에 걸쳐"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Street",
+     "strong": true,
+     "link": false,
+     "syl": "street"
+    },
+    {
+     "w": "Stories",
+     "strong": true,
+     "link": false,
+     "syl": "sto"
+    },
+    {
+     "w": "project",
+     "strong": true,
+     "link": false,
+     "syl": "proj"
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "5",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weeks.",
+     "strong": true,
+     "link": false,
+     "syl": "weeks"
+    }
+   ],
+   "tip": "",
+   "start": 46.22,
+   "end": 49.83
+  },
+  {
+   "text": "Youth learned the how, why and what makes a neighborhood walkable.",
+   "chunks": [
+    {
+     "en": "Youth learned the how, why and what makes",
+     "ko": "청소년들은 어떻게, 왜, 그리고 무엇이 ~하게 만드는지를 배웠다"
+    },
+    {
+     "en": "a neighborhood walkable.",
+     "ko": "동네를 걷기 좋게 만드는지"
+    }
+   ],
+   "words": [
+    {
+     "w": "Youth",
+     "strong": true,
+     "link": false,
+     "syl": "youth"
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": false,
+     "syl": "learned"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "why",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "walkable.",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    }
+   ],
+   "tip": "",
+   "start": 49.83,
+   "end": 53.96666666666667
+  },
+  {
+   "text": "They shared their newfound knowledge and passion through storytelling and creating short videos.",
+   "chunks": [
+    {
+     "en": "They shared their newfound knowledge and passion",
+     "ko": "그들은 새로 얻은 지식과 열정을 나누었다"
+    },
+    {
+     "en": "through storytelling and creating short videos.",
+     "ko": "이야기하기와 짧은 영상 만들기를 통해"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shared",
+     "strong": true,
+     "link": false,
+     "syl": "shared"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "newfound",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "knowledge",
+     "strong": true,
+     "link": true,
+     "syl": "knowl"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "passion",
+     "strong": true,
+     "link": false,
+     "syl": "pas"
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storytelling",
+     "strong": true,
+     "link": false,
+     "syl": "tell"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "creating",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "short",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "videos.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 53.96666666666667,
+   "end": 59.74
+  },
+  {
+   "text": "We are excited to bring Street Stories to Beacon Hill as well as other neighborhoods in Seattle and across Washington State.",
+   "chunks": [
+    {
+     "en": "We are excited to bring Street Stories to Beacon Hill",
+     "ko": "우리는 스트리트 스토리즈를 비컨 힐에 가져오게 되어 기쁘다"
+    },
+    {
+     "en": "as well as other neighborhoods in Seattle",
+     "ko": "그리고 시애틀의 다른 동네들에도"
+    },
+    {
+     "en": "and across Washington State.",
+     "ko": "워싱턴주 전역에도"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "excited",
+     "strong": true,
+     "link": false,
+     "syl": "cit"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Street",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Stories",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Beacon",
+     "strong": true,
+     "link": false,
+     "syl": "bea"
+    },
+    {
+     "w": "Hill",
+     "strong": true,
+     "link": false,
+     "syl": "hill"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhoods",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Seattle",
+     "strong": true,
+     "link": false,
+     "syl": "at"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "across",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Washington",
+     "strong": true,
+     "link": false,
+     "syl": "wash"
+    },
+    {
+     "w": "State.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "지명(Beacon Hill, Seattle, Washington)은 한 단어처럼 붙여서 리듬 있게 읽어보세요.",
+   "start": 59.74,
+   "end": 70.64
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long did the Street Stories project take place?",
+   "options": [
+    "Over 5 weeks",
+    "Over 5 days",
+    "Over 5 months"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 5주에 걸쳐 진행되었다고 말한다."
+  },
+  {
+   "q": "What did youth learn through the project?",
+   "options": [
+    "What makes a neighborhood walkable",
+    "How to drive safely",
+    "How to build bridges"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 무엇이 동네를 걷기 좋게 만드는지 배웠다고 말한다."
+  },
+  {
+   "q": "How did participants share what they learned?",
+   "options": [
+    "Through storytelling and creating short videos",
+    "Through writing textbooks",
+    "Through giving speeches at city hall"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 이야기하기와 짧은 영상 만들기를 통해 나누었다고 말한다."
+  },
+  {
+   "q": "Where is the program expanding to next, according to the segment?",
+   "options": [
+    "Beacon Hill and other neighborhoods in Seattle and Washington State",
+    "Only New York City",
+    "Only rural farm towns"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 비컨 힐과 시애틀의 다른 동네들, 워싱턴주 전역으로 확장한다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "walkable",
+   "ko": "걷기 좋은",
+   "note": "걸어 다니기 편한 동네를 설명할 때 씁니다."
+  },
+  {
+   "term": "newfound knowledge",
+   "ko": "새로 얻은 지식",
+   "note": "최근에 알게 된 것을 강조하는 표현입니다."
+  },
+  {
+   "term": "storytelling",
+   "ko": "이야기하기, 스토리텔링",
+   "note": "경험을 이야기 형식으로 전달하는 것입니다."
+  },
+  {
+   "term": "as well as",
+   "ko": "~뿐만 아니라",
+   "note": "추가되는 대상을 연결할 때 씁니다."
+  }
+ ]
+}

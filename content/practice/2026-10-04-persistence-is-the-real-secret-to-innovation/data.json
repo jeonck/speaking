@@ -1,0 +1,483 @@
+{
+ "video_id": "aGDNAbNoLHY",
+ "source_title": "Focusing energy",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 173.42,
+  "end": 197.83
+ },
+ "sentences": [
+  {
+   "text": "If your invention is just too early in its time, it's never going to succeed.",
+   "chunks": [
+    {
+     "en": "If your invention is just too early in its time,",
+     "ko": "만약 당신의 발명품이 시대보다 너무 앞서 있다면,"
+    },
+    {
+     "en": "it's never going to succeed.",
+     "ko": "절대 성공하지 못할 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "invention",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "early",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time,",
+     "strong": true,
+     "link": false,
+     "syl": "TIME"
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "succeed.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "in its는 n이 다음 모음 its로 이어진다.",
+   "start": 173.42,
+   "end": 177.75
+  },
+  {
+   "text": "Great ideas are easy.",
+   "chunks": [
+    {
+     "en": "Great ideas are easy.",
+     "ko": "훌륭한 아이디어는 쉽다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Great",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ideas",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "easy.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "are easy는 모음끼리 매끄럽게 이어진다.",
+   "start": 177.75,
+   "end": 179.54
+  },
+  {
+   "text": "Making those ideas real in the world requires persistence.",
+   "chunks": [
+    {
+     "en": "Making those ideas real",
+     "ko": "그 아이디어를 현실로 만드는 것은"
+    },
+    {
+     "en": "in the world requires persistence.",
+     "ko": "세상에서 인내를 필요로 한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Making",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ideas",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "real",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world",
+     "strong": true,
+     "link": false,
+     "syl": "WORLD"
+    },
+    {
+     "w": "requires",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "persistence.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "real in은 l이 다음 모음 in으로 이어진다.",
+   "start": 179.54,
+   "end": 183.83
+  },
+  {
+   "text": "And persistence is about failure.",
+   "chunks": [
+    {
+     "en": "And persistence is about failure.",
+     "ko": "그리고 인내는 실패에 관한 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "persistence",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "failure.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "is about은 s가 다음 모음 about으로 이어진다.",
+   "start": 183.83,
+   "end": 187.04
+  },
+  {
+   "text": "It's about picking yourself up and doing something over and over and over and over again 'til finally you get it right.",
+   "chunks": [
+    {
+     "en": "It's about picking yourself up",
+     "ko": "그것은 스스로 다시 일어나는 것이다"
+    },
+    {
+     "en": "and doing something over and over and over and over again",
+     "ko": "그리고 계속해서 반복하는 것이다"
+    },
+    {
+     "en": "'til finally you get it right.",
+     "ko": "마침내 제대로 될 때까지."
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "picking",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "yourself",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "again",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "'til",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finally",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right.",
+     "strong": true,
+     "link": false,
+     "syl": "RIGHT"
+    }
+   ],
+   "tip": "get it은 t가 다음 모음 it으로 이어진다.",
+   "start": 187.04,
+   "end": 195.5
+  },
+  {
+   "text": "Innovation is being human.",
+   "chunks": [
+    {
+     "en": "Innovation is being human.",
+     "ko": "혁신은 인간다움이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Innovation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "human.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "Innovation의 강세는 va에 온다.",
+   "start": 195.5,
+   "end": 197.83
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happens if an invention is too early for its time, according to the segment?",
+   "options": [
+    "It's never going to succeed",
+    "It always succeeds immediately",
+    "It becomes more popular later"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 너무 시대보다 앞서면 절대 성공하지 못한다고 말한다."
+  },
+  {
+   "q": "How does the segment describe great ideas?",
+   "options": [
+    "Easy",
+    "Impossible",
+    "Rare"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 Great ideas are easy라고 말한다."
+  },
+  {
+   "q": "What does making ideas real in the world require?",
+   "options": [
+    "Persistence",
+    "Luck",
+    "Money"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 requires persistence라고 말한다."
+  },
+  {
+   "q": "What is persistence described as being about?",
+   "options": [
+    "Failure, and getting up again and again",
+    "Winning every single time",
+    "Avoiding all risk"
+   ],
+   "answer": 0,
+   "why": "네 번째와 다섯 번째 문장에서 persistence is about failure이고 반복해서 다시 일어나는 것이라 말한다."
+  },
+  {
+   "q": "How does the segment define innovation at the end?",
+   "options": [
+    "Being human",
+    "Being lucky",
+    "Being rich"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 Innovation is being human이라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "too early in its time",
+   "ko": "시대보다 너무 앞선",
+   "note": "아이디어가 시기상조일 때 쓰는 표현."
+  },
+  {
+   "term": "requires persistence",
+   "ko": "인내를 필요로 한다",
+   "note": "꾸준함이 있어야 가능하다는 뜻."
+  },
+  {
+   "term": "picking yourself up",
+   "ko": "다시 일어서다",
+   "note": "실패 후에 다시 도전하는 모습을 가리킨다."
+  },
+  {
+   "term": "'til finally",
+   "ko": "마침내 ~할 때까지",
+   "note": "until finally의 구어체 축약형."
+  }
+ ]
+}

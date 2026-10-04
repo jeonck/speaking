@@ -1,0 +1,456 @@
+{
+ "video_id": "5uNc_ZUeQrs",
+ "source_title": "Life, Liberty, and the Pursuit of Innovation",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 415.53,
+  "end": 440.63
+ },
+ "sentences": [
+  {
+   "text": "Innovators contributed to the war effort from the beginning.",
+   "chunks": [
+    {
+     "en": "Innovators contributed to the war effort",
+     "ko": "전쟁 활동에 기여한 혁신가들은"
+    },
+    {
+     "en": "from the beginning.",
+     "ko": "처음부터."
+    }
+   ],
+   "words": [
+    {
+     "w": "Innovators",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "contributed",
+     "strong": true,
+     "link": true,
+     "syl": "TRIB"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "war",
+     "strong": true,
+     "link": true,
+     "syl": "WAR"
+    },
+    {
+     "w": "effort",
+     "strong": true,
+     "link": false,
+     "syl": "EF"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beginning.",
+     "strong": true,
+     "link": false,
+     "syl": "GIN"
+    }
+   ],
+   "tip": "war effort처럼 자음 뒤에 모음이 오면 부드럽게 이어서 발음해요.",
+   "start": 415.53,
+   "end": 419.67
+  },
+  {
+   "text": "Andrew Higgins patented an amphibious landing craft that was used during the D-Day landing.",
+   "chunks": [
+    {
+     "en": "Andrew Higgins patented an amphibious landing craft",
+     "ko": "앤드루 히긴스는 수륙양용 상륙정에 대한 특허를 냈는데"
+    },
+    {
+     "en": "that was used during the D-Day landing.",
+     "ko": "그것은 디데이 상륙작전 때 사용되었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Andrew",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Higgins",
+     "strong": true,
+     "link": false,
+     "syl": "HIG"
+    },
+    {
+     "w": "patented",
+     "strong": true,
+     "link": true,
+     "syl": "PAT"
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "amphibious",
+     "strong": true,
+     "link": false,
+     "syl": "PHIB"
+    },
+    {
+     "w": "landing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "craft",
+     "strong": true,
+     "link": false,
+     "syl": "CRAFT"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "during",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "D-Day",
+     "strong": true,
+     "link": false,
+     "syl": "DAY"
+    },
+    {
+     "w": "landing.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "patented an처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 419.67,
+   "end": 425.79
+  },
+  {
+   "text": "American actress and inventor Hedy Lamarr's frequency hopping system provided the foundation of modern wireless technologies.",
+   "chunks": [
+    {
+     "en": "American actress and inventor Hedy Lamarr's frequency hopping system",
+     "ko": "미국 배우이자 발명가인 헤디 라마의 주파수 도약 시스템은"
+    },
+    {
+     "en": "provided the foundation of modern wireless technologies.",
+     "ko": "현대 무선 기술의 기초를 제공했다."
+    }
+   ],
+   "words": [
+    {
+     "w": "American",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actress",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "inventor",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hedy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lamarr's",
+     "strong": true,
+     "link": false,
+     "syl": "MARR"
+    },
+    {
+     "w": "frequency",
+     "strong": true,
+     "link": false,
+     "syl": "FRE"
+    },
+    {
+     "w": "hopping",
+     "strong": true,
+     "link": false,
+     "syl": "HOP"
+    },
+    {
+     "w": "system",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "provided",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foundation",
+     "strong": true,
+     "link": false,
+     "syl": "DA"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "modern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wireless",
+     "strong": true,
+     "link": false,
+     "syl": "WIRE"
+    },
+    {
+     "w": "technologies.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "American actress처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 425.79,
+   "end": 433.95
+  },
+  {
+   "text": "And the now iconic Jeep brand has its roots as a general purpose vehicle for the U.S. Army.",
+   "chunks": [
+    {
+     "en": "And the now iconic Jeep brand has its roots",
+     "ko": "그리고 지금은 상징적인 지프 브랜드는 그 뿌리를 두고 있다"
+    },
+    {
+     "en": "as a general purpose vehicle for the U.S. Army.",
+     "ko": "미군을 위한 다목적 차량으로서."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "iconic",
+     "strong": true,
+     "link": false,
+     "syl": "CON"
+    },
+    {
+     "w": "Jeep",
+     "strong": true,
+     "link": false,
+     "syl": "JEEP"
+    },
+    {
+     "w": "brand",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roots",
+     "strong": true,
+     "link": true,
+     "syl": "ROOTS"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "general",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "purpose",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vehicle",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Army.",
+     "strong": true,
+     "link": false,
+     "syl": "AR"
+    }
+   ],
+   "tip": "has its처럼 자음 뒤에 모음이 오면 부드럽게 연결돼요.",
+   "start": 433.95,
+   "end": 440.63
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did Andrew Higgins patent?",
+   "options": [
+    "An amphibious landing craft",
+    "A radio transmitter",
+    "A type of aircraft engine"
+   ],
+   "answer": 0,
+   "why": "\"Andrew Higgins patented an amphibious landing craft\"에서 확인됩니다."
+  },
+  {
+   "q": "When was Higgins's landing craft used?",
+   "options": [
+    "During the D-Day landing",
+    "During the moon landing",
+    "During a hurricane rescue"
+   ],
+   "answer": 0,
+   "why": "\"that was used during the D-Day landing\"에서 확인됩니다."
+  },
+  {
+   "q": "What did Hedy Lamarr's frequency hopping system lead to?",
+   "options": [
+    "The foundation of modern wireless technologies",
+    "The invention of the telephone",
+    "A new type of aircraft"
+   ],
+   "answer": 0,
+   "why": "\"provided the foundation of modern wireless technologies\"에서 확인됩니다."
+  },
+  {
+   "q": "What were the origins of the Jeep brand?",
+   "options": [
+    "A general purpose vehicle for the U.S. Army",
+    "A luxury passenger car",
+    "A farm tractor"
+   ],
+   "answer": 0,
+   "why": "\"has its roots as a general purpose vehicle for the U.S. Army\"에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "amphibious landing craft",
+   "ko": "수륙양용 상륙정",
+   "note": "물과 육지 모두에서 움직일 수 있는 상륙용 선박을 말해요."
+  },
+  {
+   "term": "frequency hopping",
+   "ko": "주파수 도약",
+   "note": "통신 신호가 여러 주파수를 빠르게 바꿔가며 전송되는 방식이에요."
+  },
+  {
+   "term": "provided the foundation of",
+   "ko": "~의 기초를 제공했다",
+   "note": "어떤 기술이나 분야가 시작되는 토대가 되었다는 뜻이에요."
+  },
+  {
+   "term": "has its roots as",
+   "ko": "~로서 뿌리를 두고 있다",
+   "note": "현재 모습의 기원이 무엇인지 설명할 때 쓰는 표현이에요."
+  },
+  {
+   "term": "general purpose vehicle",
+   "ko": "다목적 차량",
+   "note": "특정 용도에 한정되지 않고 여러 목적으로 쓰이는 차량을 가리켜요."
+  }
+ ]
+}

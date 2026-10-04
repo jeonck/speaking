@@ -1,0 +1,425 @@
+{
+ "video_id": "LcqlDjxPVE4",
+ "source_title": "Patrick Olwell: National Heritage Fellowship Tribute Video",
+ "source_channel": "National Endowment for the Arts",
+ "segment": {
+  "start": 24.4,
+  "end": 49.42
+ },
+ "sentences": [
+  {
+   "text": "Where does my obsession with the flute come from?",
+   "chunks": [
+    {
+     "en": "Where does my obsession with the flute",
+     "ko": "내가 플루트에 집착하는 이유는"
+    },
+    {
+     "en": "come from?",
+     "ko": "어디서 왔을까?"
+    }
+   ],
+   "words": [
+    {
+     "w": "Where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "obsession",
+     "strong": true,
+     "link": false,
+     "syl": "SES"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flute",
+     "strong": true,
+     "link": false,
+     "syl": "FLUTE"
+    },
+    {
+     "w": "come",
+     "strong": true,
+     "link": false,
+     "syl": "COME"
+    },
+    {
+     "w": "from?",
+     "strong": true,
+     "link": false,
+     "syl": "FROM"
+    }
+   ],
+   "tip": "with the를 이어서 부드럽게 발음하세요.",
+   "start": 24.4,
+   "end": 29.28
+  },
+  {
+   "text": "It's partly that it's the instrument that's closest to the human voice.",
+   "chunks": [
+    {
+     "en": "It's partly that it's the instrument",
+     "ko": "그건 부분적으로 그 악기가"
+    },
+    {
+     "en": "that's closest to the human voice.",
+     "ko": "인간의 목소리에 가장 가깝기 때문이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "partly",
+     "strong": true,
+     "link": false,
+     "syl": "PART"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "instrument",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "closest",
+     "strong": true,
+     "link": false,
+     "syl": "CLOS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "human",
+     "strong": true,
+     "link": false,
+     "syl": "HU"
+    },
+    {
+     "w": "voice.",
+     "strong": true,
+     "link": false,
+     "syl": "VOICE"
+    }
+   ],
+   "tip": "that's closest를 끊지 않고 이어서 발음하세요.",
+   "start": 29.28,
+   "end": 37.41
+  },
+  {
+   "text": "And playing the flute is like that – you play a flute and it talks back to you.",
+   "chunks": [
+    {
+     "en": "And playing the flute is like that –",
+     "ko": "그리고 플루트를 연주하는 것도 그렇다 –"
+    },
+    {
+     "en": "you play a flute",
+     "ko": "플루트를 연주하면"
+    },
+    {
+     "en": "and it talks back to you.",
+     "ko": "그것이 나에게 말을 걸어온다"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "playing",
+     "strong": true,
+     "link": false,
+     "syl": "PLAY"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flute",
+     "strong": true,
+     "link": false,
+     "syl": "FLUTE"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flute",
+     "strong": true,
+     "link": false,
+     "syl": "FLUTE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talks",
+     "strong": true,
+     "link": false,
+     "syl": "TALKS"
+    },
+    {
+     "w": "back",
+     "strong": true,
+     "link": false,
+     "syl": "BACK"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and it처럼 자음+모음은 이어서 발음합니다.",
+   "start": 37.41,
+   "end": 45.88
+  },
+  {
+   "text": "You stop worrying about what you should be doing or shouldn't be doing.",
+   "chunks": [
+    {
+     "en": "You stop worrying about",
+     "ko": "~에 대한 걱정을 멈추게 된다"
+    },
+    {
+     "en": "what you should be doing or shouldn't be doing.",
+     "ko": "무엇을 해야 하고 하지 말아야 하는지에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stop",
+     "strong": true,
+     "link": false,
+     "syl": "STOP"
+    },
+    {
+     "w": "worrying",
+     "strong": true,
+     "link": false,
+     "syl": "WOR"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": true,
+     "link": true,
+     "syl": "DO"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shouldn't",
+     "strong": true,
+     "link": false,
+     "syl": "SHOULD"
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing.",
+     "strong": true,
+     "link": false,
+     "syl": "DO"
+    }
+   ],
+   "tip": "doing or를 이어서 발음하세요.",
+   "start": 45.88,
+   "end": 49.42
+  }
+ ],
+ "questions": [
+  {
+   "q": "What instrument is the speaker obsessed with?",
+   "options": [
+    "The violin",
+    "The flute",
+    "The piano"
+   ],
+   "answer": 1,
+   "why": "\"my obsession with the flute\"라고 말한다."
+  },
+  {
+   "q": "Why does the speaker say the flute is special?",
+   "options": [
+    "It is the loudest instrument",
+    "It is closest to the human voice",
+    "It is the easiest to learn"
+   ],
+   "answer": 1,
+   "why": "\"that's closest to the human voice\"라고 설명한다."
+  },
+  {
+   "q": "What happens when the speaker plays the flute, according to the segment?",
+   "options": [
+    "It talks back to them",
+    "It breaks easily",
+    "It needs no practice"
+   ],
+   "answer": 0,
+   "why": "\"it talks back to you\"라고 말한다."
+  },
+  {
+   "q": "What effect does playing the flute have on the speaker's mind?",
+   "options": [
+    "It makes them worry more",
+    "It stops them from worrying about what they should be doing",
+    "It puts them to sleep"
+   ],
+   "answer": 1,
+   "why": "\"You stop worrying about what you should be doing\"라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "obsession",
+   "ko": "집착, 몰입",
+   "note": "obsession with ~ 형태로 대상을 나타냄"
+  },
+  {
+   "term": "closest to",
+   "ko": "가장 가까운",
+   "note": "closest to the human voice처럼 최상급 비교로 쓰임"
+  },
+  {
+   "term": "talk back",
+   "ko": "말을 걸어오다, 반응하다",
+   "note": "악기가 반응하듯 답한다는 비유적 표현"
+  },
+  {
+   "term": "worry about",
+   "ko": "~에 대해 걱정하다",
+   "note": "stop worrying about처럼 동명사와 함께 쓰임"
+  }
+ ]
+}

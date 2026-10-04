@@ -1,0 +1,521 @@
+{
+ "video_id": "J6zAHXlI4Dc",
+ "source_title": "SBA Success Story: Northern Wings",
+ "source_channel": "U.S. Small Business Administration",
+ "segment": {
+  "start": 48.34,
+  "end": 73.24
+ },
+ "sentences": [
+  {
+   "text": "Revenue for Northern Wings in the first year of business was not much.",
+   "chunks": [
+    {
+     "en": "Revenue for Northern Wings",
+     "ko": "노던 윙스의 수익은"
+    },
+    {
+     "en": "in the first year of business",
+     "ko": "사업 첫 해에"
+    },
+    {
+     "en": "was not much.",
+     "ko": "많지 않았다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Revenue",
+     "strong": true,
+     "link": false,
+     "syl": "REV"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Northern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Wings",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year",
+     "strong": true,
+     "link": true,
+     "syl": "YEAR"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much.",
+     "strong": true,
+     "link": false,
+     "syl": "MUCH"
+    }
+   ],
+   "tip": "year of처럼 자음 뒤에 모음이 오면 이어서 발음한다.",
+   "start": 48.34,
+   "end": 52.26
+  },
+  {
+   "text": "We made enough to cover the salaries, the rent, expenses, and anything that was left was plowed right back into the business.",
+   "chunks": [
+    {
+     "en": "We made enough to cover",
+     "ko": "우리는 충당할 만큼 벌었다"
+    },
+    {
+     "en": "the salaries, the rent, expenses,",
+     "ko": "월급, 임대료, 경비를,"
+    },
+    {
+     "en": "and anything that was left",
+     "ko": "그리고 남은 것은 무엇이든"
+    },
+    {
+     "en": "was plowed right back into the business.",
+     "ko": "다시 사업에 재투자되었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "enough",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cover",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "salaries,",
+     "strong": true,
+     "link": false,
+     "syl": "SAL"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rent,",
+     "strong": true,
+     "link": false,
+     "syl": "RENT"
+    },
+    {
+     "w": "expenses,",
+     "strong": true,
+     "link": false,
+     "syl": "PEN"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "anything",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "left",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plowed",
+     "strong": true,
+     "link": false,
+     "syl": "PLOWED"
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "made enough, back into처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 52.26,
+   "end": 60.35
+  },
+  {
+   "text": "My first real contact with the SBA was when I received an invitation to attend a one-day per-month course at a university in lower Michigan.",
+   "chunks": [
+    {
+     "en": "My first real contact with the SBA",
+     "ko": "SBA와의 나의 첫 진짜 접촉은"
+    },
+    {
+     "en": "was when I received an invitation",
+     "ko": "내가 초청을 받았을 때였다"
+    },
+    {
+     "en": "to attend a one-day per-month course",
+     "ko": "한 달에 하루짜리 과정에 참석하라는"
+    },
+    {
+     "en": "at a university in lower Michigan.",
+     "ko": "미시간 남부의 한 대학교에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "real",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "contact",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "SBA",
+     "strong": true,
+     "link": false,
+     "syl": "SBA"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "received",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "invitation",
+     "strong": true,
+     "link": false,
+     "syl": "TA"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "attend",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one-day",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "per-month",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "course",
+     "strong": true,
+     "link": true,
+     "syl": "COURSE"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "university",
+     "strong": true,
+     "link": false,
+     "syl": "VER"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lower",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Michigan.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "an invitation, attend a처럼 자음 뒤 모음이 오면 이어서 발음한다.",
+   "start": 60.35,
+   "end": 70.07
+  },
+  {
+   "text": "It was a Fundamentals of Government Contracting 101.",
+   "chunks": [
+    {
+     "en": "It was a Fundamentals",
+     "ko": "그것은 기초 과정이었다"
+    },
+    {
+     "en": "of Government Contracting 101.",
+     "ko": "정부 계약 101의."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Fundamentals",
+     "strong": true,
+     "link": true,
+     "syl": "MEN"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Government",
+     "strong": true,
+     "link": false,
+     "syl": "GOV"
+    },
+    {
+     "w": "Contracting",
+     "strong": true,
+     "link": false,
+     "syl": "TRACT"
+    },
+    {
+     "w": "101.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Fundamentals of처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 70.07,
+   "end": 73.24
+  }
+ ],
+ "questions": [
+  {
+   "q": "How much revenue did Northern Wings make in its first year?",
+   "options": [
+    "Not much",
+    "A huge profit",
+    "Exactly double the costs"
+   ],
+   "answer": 0,
+   "why": "Revenue for Northern Wings in the first year of business was not much라고 언급됨."
+  },
+  {
+   "q": "What did the business do with any money left over?",
+   "options": [
+    "Covered salaries, rent, and expenses, then reinvested the rest",
+    "Paid it out as bonuses",
+    "Donated it to charity"
+   ],
+   "answer": 0,
+   "why": "anything that was left was plowed right back into the business라고 말함."
+  },
+  {
+   "q": "How did the speaker first connect with the SBA?",
+   "options": [
+    "Through an invitation to a government contracting course",
+    "Through a bank loan application",
+    "Through a job fair"
+   ],
+   "answer": 0,
+   "why": "received an invitation to attend a one-day per-month course라고 설명됨."
+  },
+  {
+   "q": "What was the course about?",
+   "options": [
+    "Fundamentals of Government Contracting",
+    "Marketing basics",
+    "Tax filing"
+   ],
+   "answer": 0,
+   "why": "It was a Fundamentals of Government Contracting 101라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "plowed back into the business",
+   "ko": "사업에 재투자하다",
+   "note": "번 돈을 다시 사업에 투입한다는 뜻"
+  },
+  {
+   "term": "Fundamentals of Government Contracting",
+   "ko": "정부 계약의 기초",
+   "note": "정부와 계약하는 방법을 가르치는 과정명"
+  },
+  {
+   "term": "revenue",
+   "ko": "수익, 매출",
+   "note": "사업에서 벌어들인 돈"
+  },
+  {
+   "term": "invitation",
+   "ko": "초청, 초대",
+   "note": "공식적으로 참석을 요청받는 것"
+  }
+ ]
+}

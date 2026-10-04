@@ -1,0 +1,653 @@
+{
+ "video_id": "_RTP_3zrvQs",
+ "source_title": "NIL and trademarks: What student-athletes and parents should know",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 4.46,
+  "end": 31.11
+ },
+ "sentences": [
+  {
+   "text": "Are you aware of the potential value of your name, image or likeness?",
+   "chunks": [
+    {
+     "en": "Are you aware of the potential value",
+     "ko": "여러분은 잠재적 가치를 알고 있나요"
+    },
+    {
+     "en": "of your name, image or likeness?",
+     "ko": "바로 이름, 이미지, 외모의 가치 말이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "aware",
+     "strong": true,
+     "link": false,
+     "syl": "WARE"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "potential",
+     "strong": true,
+     "link": false,
+     "syl": "TEN"
+    },
+    {
+     "w": "value",
+     "strong": true,
+     "link": false,
+     "syl": "VAL"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "name,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "image",
+     "strong": true,
+     "link": false,
+     "syl": "IM"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "likeness?",
+     "strong": true,
+     "link": false,
+     "syl": "LIKE"
+    }
+   ],
+   "tip": "name, image or likeness는 뒤에서 NIL로 줄여 부르니 억양 변화에 유의하세요.",
+   "start": 4.46,
+   "end": 8.22
+  },
+  {
+   "text": "That's right.",
+   "chunks": [
+    {
+     "en": "That's right.",
+     "ko": "맞습니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": true,
+     "link": false,
+     "syl": "THAT"
+    },
+    {
+     "w": "right.",
+     "strong": true,
+     "link": false,
+     "syl": "RIGHT"
+    }
+   ],
+   "tip": "That's right는 리듬감 있게 두 단어 모두 강조해보세요.",
+   "start": 8.22,
+   "end": 8.97
+  },
+  {
+   "text": "As you progress through your athletic career, from high school to college to the pros, your name, image and likeness, or NIL, has value.",
+   "chunks": [
+    {
+     "en": "As you progress through your athletic career,",
+     "ko": "여러분이 운동 경력을 쌓아가면서"
+    },
+    {
+     "en": "from high school to college to the pros,",
+     "ko": "고등학교에서 대학교, 그리고 프로까지 가는 동안"
+    },
+    {
+     "en": "your name, image and likeness, or NIL, has value.",
+     "ko": "이름, 이미지, 외모, 즉 NIL은 가치를 갖게 됩니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "progress",
+     "strong": true,
+     "link": false,
+     "syl": "PROG"
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "athletic",
+     "strong": true,
+     "link": false,
+     "syl": "LET"
+    },
+    {
+     "w": "career,",
+     "strong": true,
+     "link": false,
+     "syl": "REER"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "school",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college",
+     "strong": true,
+     "link": false,
+     "syl": "COL"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pros,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "name,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "image",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "likeness,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NIL,",
+     "strong": true,
+     "link": false,
+     "syl": "NIL"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "value.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "high school to college to the pros는 단계를 나열하듯 리듬감 있게 읽어보세요.",
+   "start": 8.97,
+   "end": 17.56
+  },
+  {
+   "text": "Like, maybe your favorite pizza shop agrees to give you a free pizza each week you post on social media about how much you love their deep dish double cheese.",
+   "chunks": [
+    {
+     "en": "Like, maybe your favorite pizza shop agrees",
+     "ko": "예를 들어 좋아하는 피자 가게가 동의해서"
+    },
+    {
+     "en": "to give you a free pizza each week",
+     "ko": "매주 무료 피자를 준다고 해볼까요"
+    },
+    {
+     "en": "you post on social media",
+     "ko": "여러분이 소셜 미디어에 올리는 대가로요"
+    },
+    {
+     "en": "about how much you love their deep dish double cheese.",
+     "ko": "그 가게의 딥 디쉬 더블 치즈를 얼마나 좋아하는지에 대해서요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Like,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "maybe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "link": false,
+     "syl": "FAV"
+    },
+    {
+     "w": "pizza",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "shop",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "agrees",
+     "strong": true,
+     "link": true,
+     "syl": "GREES"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "give",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "free",
+     "strong": true,
+     "link": false,
+     "syl": "FREE"
+    },
+    {
+     "w": "pizza",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "post",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "social",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "media",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deep",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dish",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "double",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cheese.",
+     "strong": true,
+     "link": false,
+     "syl": "CHEESE"
+    }
+   ],
+   "tip": "deep dish double cheese처럼 음식 이름은 하나의 리듬 단위로 붙여 읽어보세요.",
+   "start": 17.56,
+   "end": 25.65
+  },
+  {
+   "text": "Or maybe a local car dealer pays you to do an appearance in their showroom and sign autographs for your fans.",
+   "chunks": [
+    {
+     "en": "Or maybe a local car dealer pays you",
+     "ko": "또는 지역 자동차 딜러가 여러분에게 돈을 주고"
+    },
+    {
+     "en": "to do an appearance in their showroom",
+     "ko": "전시장에 와서 모습을 보여달라고 할 수도 있고"
+    },
+    {
+     "en": "and sign autographs for your fans.",
+     "ko": "팬들에게 사인을 해달라고 할 수도 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "maybe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dealer",
+     "strong": true,
+     "link": false,
+     "syl": "DEAL"
+    },
+    {
+     "w": "pays",
+     "strong": true,
+     "link": false,
+     "syl": "PAYS"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "appearance",
+     "strong": true,
+     "link": false,
+     "syl": "PEAR"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "showroom",
+     "strong": true,
+     "link": false,
+     "syl": "SHOW"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sign",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "autographs",
+     "strong": true,
+     "link": false,
+     "syl": "AU"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fans.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "autographs의 강세는 첫 음절 AU에 있다는 점에 유의해보세요.",
+   "start": 25.65,
+   "end": 31.11
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does NIL stand for?",
+   "options": [
+    "Name, image, and likeness",
+    "National Independent League",
+    "New Investment License"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 이름, 이미지, 외모를 NIL이라고 부른다고 설명합니다."
+  },
+  {
+   "q": "When does an athlete's NIL start to have value, according to the segment?",
+   "options": [
+    "As they progress through their athletic career",
+    "Only after turning professional",
+    "Only in college, never in high school"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 고등학교부터 프로까지 이어지는 경력 전체를 언급합니다."
+  },
+  {
+   "q": "What example is given of a pizza shop deal?",
+   "options": [
+    "A free pizza each week in exchange for social media posts",
+    "A lifetime supply of pizza",
+    "A job at the pizza shop"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 소셜 미디어에 올리는 대가로 매주 무료 피자를 준다고 합니다."
+  },
+  {
+   "q": "What might a local car dealer pay an athlete to do?",
+   "options": [
+    "Make an appearance and sign autographs",
+    "Repair cars",
+    "Drive a delivery truck"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 전시장 방문과 사인을 언급합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "name, image or likeness (NIL)",
+   "ko": "이름, 이미지, 외모(NIL)",
+   "note": "선수 개인의 상업적 가치를 뜻하는 용어예요."
+  },
+  {
+   "term": "athletic career",
+   "ko": "운동 경력",
+   "note": "선수로 활동하는 기간을 말해요."
+  },
+  {
+   "term": "agree to",
+   "ko": "~하기로 동의하다",
+   "note": "상대방의 제안에 합의한다는 뜻이에요."
+  },
+  {
+   "term": "appearance",
+   "ko": "공개 행사 참석",
+   "note": "행사나 매장 등에 모습을 보이는 것을 뜻해요."
+  },
+  {
+   "term": "sign autographs",
+   "ko": "사인해주다",
+   "note": "팬들에게 서명을 해주는 행위예요."
+  }
+ ]
+}

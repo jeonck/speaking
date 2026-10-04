@@ -1,0 +1,506 @@
+{
+ "video_id": "vmXQt6wghe0",
+ "source_title": "Citation for Workplace- Conrad B. Duberstein U.S. Post Office and Courthouse, Brooklyn, NY",
+ "source_channel": "GSA",
+ "segment": {
+  "start": 71.44,
+  "end": 96.53
+ },
+ "sentences": [
+  {
+   "text": "I think one of the things that all designers and architects struggle with when designing these types of spaces is do we design it in the period that it was built, do we design it in a more contemporary version of that.",
+   "chunks": [
+    {
+     "en": "I think one of the things",
+     "ko": "나는 ~한 것들 중 하나라고 생각한다"
+    },
+    {
+     "en": "that all designers and architects struggle with",
+     "ko": "모든 디자이너와 건축가들이 어려움을 겪는"
+    },
+    {
+     "en": "when designing these types of spaces",
+     "ko": "이런 종류의 공간을 설계할 때"
+    },
+    {
+     "en": "is do we design it in the period that it was built,",
+     "ko": "그것이 지어진 시대 그대로 설계할 것인지"
+    },
+    {
+     "en": "do we design it in a more contemporary version of that.",
+     "ko": "아니면 더 현대적인 버전으로 설계할 것인지(고민한다)"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "designers",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "architects",
+     "strong": true,
+     "link": false,
+     "syl": "ar"
+    },
+    {
+     "w": "struggle",
+     "strong": true,
+     "link": false,
+     "syl": "strug"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "designing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "types",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spaces",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "design",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "period",
+     "strong": true,
+     "link": false,
+     "syl": "pe"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "built,",
+     "strong": true,
+     "link": false,
+     "syl": "built"
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "design",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "contemporary",
+     "strong": true,
+     "link": false,
+     "syl": "tem"
+    },
+    {
+     "w": "version",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "period와 contemporary를 대조해서 더 강하게 읽어보세요.",
+   "start": 71.44,
+   "end": 82.75
+  },
+  {
+   "text": "And I think this project is an excellent example of both respecting the historic nature but designing the spaces in a contemporary way that feel fresh, that feel relevant but harmonious.",
+   "chunks": [
+    {
+     "en": "And I think this project is an excellent example",
+     "ko": "그리고 나는 이 프로젝트가 훌륭한 예라고 생각한다"
+    },
+    {
+     "en": "of both respecting the historic nature but designing",
+     "ko": "역사적 특성을 존중하면서도 설계한다는 점에서"
+    },
+    {
+     "en": "the spaces in a contemporary way that feel fresh,",
+     "ko": "공간을 현대적인 방식으로, 신선하게 느껴지도록"
+    },
+    {
+     "en": "that feel relevant but harmonious.",
+     "ko": "관련성 있으면서도 조화롭게 느껴지도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "project",
+     "strong": true,
+     "link": false,
+     "syl": "proj"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "excellent",
+     "strong": true,
+     "link": false,
+     "syl": "ex"
+    },
+    {
+     "w": "example",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "respecting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "historic",
+     "strong": true,
+     "link": false,
+     "syl": "tor"
+    },
+    {
+     "w": "nature",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "designing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spaces",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "contemporary",
+     "strong": true,
+     "link": false,
+     "syl": "tem"
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fresh,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relevant",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "harmonious.",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    }
+   ],
+   "tip": "historic와 contemporary의 대조를 강조해서 읽어보세요.",
+   "start": 82.75,
+   "end": 96.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What challenge do designers and architects face according to the speaker?",
+   "options": [
+    "Deciding whether to design in the original period or in a more contemporary style",
+    "Finding affordable building materials",
+    "Getting permits from the city"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 시대 그대로 설계할지, 현대적으로 설계할지 고민한다고 말한다."
+  },
+  {
+   "q": "How does the speaker describe the project mentioned?",
+   "options": [
+    "As an excellent example of balancing historic respect with contemporary design",
+    "As a failed renovation",
+    "As a purely modern building with no historic elements"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 역사적 특성을 존중하면서도 현대적으로 설계한 훌륭한 예라고 말한다."
+  },
+  {
+   "q": "What qualities does the speaker say the contemporary spaces have?",
+   "options": [
+    "Fresh, relevant, and harmonious",
+    "Cold and sterile",
+    "Expensive and impractical"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 fresh, relevant but harmonious라고 표현한다."
+  },
+  {
+   "q": "What is the main topic the speaker is discussing?",
+   "options": [
+    "How to design spaces inside historic buildings",
+    "How to price construction materials",
+    "How to get zoning approval"
+   ],
+   "answer": 0,
+   "why": "전체 내용이 역사적 공간을 설계하는 방식에 관한 것이다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "struggle with",
+   "ko": "~로 어려움을 겪다",
+   "note": "뒤에 명사나 동명사가 와서 '~와 씨름하다'는 뜻으로 쓰입니다."
+  },
+  {
+   "term": "contemporary",
+   "ko": "현대적인",
+   "note": "'modern'과 비슷하지만 '현재 시대의'라는 뉘앙스가 강합니다."
+  },
+  {
+   "term": "excellent example",
+   "ko": "훌륭한 예시",
+   "note": "무언가를 강조해서 소개할 때 자주 쓰는 표현입니다."
+  },
+  {
+   "term": "harmonious",
+   "ko": "조화로운",
+   "note": "서로 잘 어울려 균형 잡힌 느낌을 묘사할 때 씁니다."
+  }
+ ]
+}

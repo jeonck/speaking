@@ -1,0 +1,454 @@
+{
+ "video_id": "hiw0dKatbI4",
+ "source_title": "SBA Success Story: Bold Mariner Brewing - Where Are They Now?",
+ "source_channel": "U.S. Small Business Administration",
+ "segment": {
+  "start": 115.68,
+  "end": 139.71
+ },
+ "sentences": [
+  {
+   "text": "From opening to now, we've exceeded our expectations in our business plan.",
+   "chunks": [
+    {
+     "en": "From opening to now,",
+     "ko": "문을 연 이후 지금까지,"
+    },
+    {
+     "en": "we've exceeded our expectations in our business plan.",
+     "ko": "우리는 사업 계획에서의 기대치를 뛰어넘었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "From",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "opening",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we've",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "exceeded",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "expectations",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "plan.",
+     "strong": true,
+     "link": false,
+     "syl": "PLAN"
+    }
+   ],
+   "tip": "exceeded our처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 115.68,
+   "end": 120.3
+  },
+  {
+   "text": "The brewery sees growth of over 30% each year.",
+   "chunks": [
+    {
+     "en": "The brewery sees growth of over 30% each year.",
+     "ko": "그 양조장은 매년 30퍼센트 이상의 성장을 보인다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brewery",
+     "strong": true,
+     "link": false,
+     "syl": "BREW"
+    },
+    {
+     "w": "sees",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "growth",
+     "strong": true,
+     "link": true,
+     "syl": "GROWTH"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "30%",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year.",
+     "strong": true,
+     "link": false,
+     "syl": "YEAR"
+    }
+   ],
+   "tip": "growth of처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 120.3,
+   "end": 124.23
+  },
+  {
+   "text": "We've moved locations and we have plans to create a new production facility in order to keep up with demand.",
+   "chunks": [
+    {
+     "en": "We've moved locations and we have plans",
+     "ko": "우리는 장소를 옮겼고 계획도 가지고 있다"
+    },
+    {
+     "en": "to create a new production facility",
+     "ko": "새로운 생산 시설을 만들려는"
+    },
+    {
+     "en": "in order to keep up with demand.",
+     "ko": "수요를 따라가기 위해서."
+    }
+   ],
+   "words": [
+    {
+     "w": "We've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moved",
+     "strong": true,
+     "link": false,
+     "syl": "MOVED"
+    },
+    {
+     "w": "locations",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plans",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "create",
+     "strong": true,
+     "link": true,
+     "syl": "ATE"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "production",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "facility",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "order",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "demand.",
+     "strong": true,
+     "link": false,
+     "syl": "MAND"
+    }
+   ],
+   "tip": "keep up처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 124.23,
+   "end": 131.64
+  },
+  {
+   "text": "During COVID, we shifted all of our production into cans at that time, and that's continued to grow.",
+   "chunks": [
+    {
+     "en": "During COVID, we shifted all of our production into cans",
+     "ko": "코로나 기간 동안, 우리는 생산 전부를 캔으로 전환했고"
+    },
+    {
+     "en": "at that time, and that's continued to grow.",
+     "ko": "그 이후로 계속 성장해왔다."
+    }
+   ],
+   "words": [
+    {
+     "w": "During",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "COVID,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shifted",
+     "strong": true,
+     "link": true,
+     "syl": "SHIFT"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "production",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cans",
+     "strong": true,
+     "link": true,
+     "syl": "CANS"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "continued",
+     "strong": true,
+     "link": false,
+     "syl": "TIN"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grow.",
+     "strong": true,
+     "link": false,
+     "syl": "GROW"
+    }
+   ],
+   "tip": "all of처럼 자음 뒤에 모음이 연이어 오면 이어서 발음해요.",
+   "start": 131.64,
+   "end": 139.71
+  }
+ ],
+ "questions": [
+  {
+   "q": "How has the business performed since opening?",
+   "options": [
+    "It has exceeded expectations in its business plan",
+    "It has stayed flat",
+    "It has shrunk every year"
+   ],
+   "answer": 0,
+   "why": "\"we've exceeded our expectations in our business plan\"에서 확인됩니다."
+  },
+  {
+   "q": "About how much does the brewery grow each year?",
+   "options": [
+    "Over 30%",
+    "Over 3%",
+    "Over 300%"
+   ],
+   "answer": 0,
+   "why": "\"The brewery sees growth of over 30% each year\"에서 확인됩니다."
+  },
+  {
+   "q": "Why is the business creating a new production facility?",
+   "options": [
+    "To keep up with demand",
+    "To reduce costs",
+    "To close an old location"
+   ],
+   "answer": 0,
+   "why": "\"we have plans to create a new production facility in order to keep up with demand\"에서 확인됩니다."
+  },
+  {
+   "q": "What change did the business make during COVID?",
+   "options": [
+    "It shifted all of its production into cans",
+    "It stopped production entirely",
+    "It switched to glass bottles only"
+   ],
+   "answer": 0,
+   "why": "\"During COVID, we shifted all of our production into cans\"에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "exceeded our expectations",
+   "ko": "기대치를 뛰어넘다",
+   "note": "예상했던 것보다 더 좋은 결과를 얻었다는 뜻이에요."
+  },
+  {
+   "term": "growth of over 30%",
+   "ko": "30퍼센트 이상의 성장",
+   "note": "수치로 성장률을 표현하는 방식이에요."
+  },
+  {
+   "term": "keep up with demand",
+   "ko": "수요를 따라가다",
+   "note": "늘어나는 요구량에 맞춰 생산을 늘린다는 뜻이에요."
+  },
+  {
+   "term": "shifted ... into cans",
+   "ko": "~을 캔으로 전환했다",
+   "note": "포장 방식을 바꾸었다는 뜻이에요."
+  }
+ ]
+}

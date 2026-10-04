@@ -1,0 +1,389 @@
+{
+ "video_id": "ejQ-QF2SvKM",
+ "source_title": "African American Trailblazers - Building the Alaska Highway",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 36.93,
+  "end": 59.31
+ },
+ "sentences": [
+  {
+   "text": "The following year, after basic training in construction engineering, 11,000 men shipped north.",
+   "chunks": [
+    {
+     "en": "The following year,",
+     "ko": "그 다음 해에,"
+    },
+    {
+     "en": "after basic training in construction engineering,",
+     "ko": "건설 공학 기초 훈련을 받은 후,"
+    },
+    {
+     "en": "11,000 men shipped north.",
+     "ko": "11,000명의 병사가 북쪽으로 파견되었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "following",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basic",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "training",
+     "strong": true,
+     "link": true,
+     "syl": "train"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "construction",
+     "strong": true,
+     "link": false,
+     "syl": "struc"
+    },
+    {
+     "w": "engineering,",
+     "strong": true,
+     "link": false,
+     "syl": "neer"
+    },
+    {
+     "w": "11,000",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "men",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shipped",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "north.",
+     "strong": true,
+     "link": false,
+     "syl": "north"
+    }
+   ],
+   "tip": "training in처럼 자음을 모음에 이어 읽고, 11,000은 eleven thousand로 읽어요.",
+   "start": 37.36333333333333,
+   "end": 43.573076923076925
+  },
+  {
+   "text": "More than a third came from three all-black regiments, the 93rd, the 95th, and the 97th Engineers.",
+   "chunks": [
+    {
+     "en": "More than a third came",
+     "ko": "3분의 1 이상이 왔다"
+    },
+    {
+     "en": "from three all-black regiments,",
+     "ko": "세 개의 흑인으로만 구성된 연대에서,"
+    },
+    {
+     "en": "the 93rd, the 95th, and the 97th Engineers.",
+     "ko": "93공병연대, 95공병연대, 그리고 97공병연대."
+    }
+   ],
+   "words": [
+    {
+     "w": "More",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "third",
+     "strong": true,
+     "link": false,
+     "syl": "third"
+    },
+    {
+     "w": "came",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all-black",
+     "strong": true,
+     "link": false,
+     "syl": "black"
+    },
+    {
+     "w": "regiments,",
+     "strong": true,
+     "link": false,
+     "syl": "reg"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "93rd,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "95th,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "97th",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Engineers.",
+     "strong": true,
+     "link": false,
+     "syl": "neers"
+    }
+   ],
+   "tip": "93rd, 95th, 97th는 ninety-third, ninety-fifth, ninety-seventh로 읽어요.",
+   "start": 43.573076923076925,
+   "end": 52.682857142857145
+  },
+  {
+   "text": "Black soldiers were rarely sent into combat, but rather were put into labor battalions, at lower pay.",
+   "chunks": [
+    {
+     "en": "Black soldiers were rarely sent into combat,",
+     "ko": "흑인 병사들은 전투에는 거의 투입되지 않았고,"
+    },
+    {
+     "en": "but rather were put into labor battalions,",
+     "ko": "대신 노동 대대에 배치되었다,"
+    },
+    {
+     "en": "at lower pay.",
+     "ko": "더 적은 임금을 받으며."
+    }
+   ],
+   "words": [
+    {
+     "w": "Black",
+     "strong": true,
+     "link": false,
+     "syl": "Black"
+    },
+    {
+     "w": "soldiers",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rarely",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sent",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "combat,",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "labor",
+     "strong": true,
+     "link": false,
+     "syl": "la"
+    },
+    {
+     "w": "battalions,",
+     "strong": true,
+     "link": false,
+     "syl": "tal"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lower",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pay.",
+     "strong": true,
+     "link": false,
+     "syl": "pay"
+    }
+   ],
+   "tip": "sent into, put into처럼 끝자음 t를 다음 모음에 이어 읽어요.",
+   "start": 52.682857142857145,
+   "end": 59.31
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of training did the men receive before heading north?",
+   "options": [
+    "Basic training in construction engineering",
+    "Training as combat pilots",
+    "Officer leadership training"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: after basic training in construction engineering."
+  },
+  {
+   "q": "How many men shipped north the following year?",
+   "options": [
+    "1,100",
+    "11,000",
+    "110,000"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: 11,000 men shipped north."
+  },
+  {
+   "q": "What made up more than a third of the men?",
+   "options": [
+    "Three all-black engineer regiments",
+    "Volunteers from Canada",
+    "Experienced civilian contractors"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: came from three all-black regiments."
+  },
+  {
+   "q": "How were most Black soldiers used instead of combat?",
+   "options": [
+    "They were discharged early",
+    "They were put into labor battalions at lower pay",
+    "They were promoted to officers"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: put into labor battalions, at lower pay."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "ship north",
+   "ko": "북쪽으로 보내지다/파견되다",
+   "note": "군대나 물자가 이동할 때 ship을 동사로 써요."
+  },
+  {
+   "term": "regiment",
+   "ko": "연대 (군부대 단위)",
+   "note": "all-black regiment = 흑인으로만 구성된 연대."
+  },
+  {
+   "term": "be sent into combat",
+   "ko": "전투에 투입되다",
+   "note": "rarely sent into combat = 전투에는 거의 투입되지 않다."
+  },
+  {
+   "term": "labor battalion",
+   "ko": "노동 대대",
+   "note": "전투 대신 노동 작업을 맡은 부대를 가리켜요."
+  }
+ ]
+}

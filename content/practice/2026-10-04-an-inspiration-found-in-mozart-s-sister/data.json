@@ -1,0 +1,516 @@
+{
+ "video_id": "6R4lzujsxzs",
+ "source_title": "\"Second Chances\" by Elaina Stuppler",
+ "source_channel": "National Endowment for the Arts",
+ "segment": {
+  "start": 82.36,
+  "end": 108.56
+ },
+ "sentences": [
+  {
+   "text": "My inspiration for this piece came to me when I was listening to a composition by Mozart on the radio.",
+   "chunks": [
+    {
+     "en": "My inspiration for this piece",
+     "ko": "이 곡에 대한 나의 영감은"
+    },
+    {
+     "en": "came to me",
+     "ko": "나에게 왔다"
+    },
+    {
+     "en": "when I was listening",
+     "ko": "내가 듣고 있을 때"
+    },
+    {
+     "en": "to a composition by Mozart on the radio.",
+     "ko": "모차르트의 작품을 라디오에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inspiration",
+     "strong": true,
+     "link": false,
+     "syl": "spi"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "piece",
+     "strong": true,
+     "link": false,
+     "syl": "piece"
+    },
+    {
+     "w": "came",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listening",
+     "strong": true,
+     "link": false,
+     "syl": "lis"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "composition",
+     "strong": true,
+     "link": false,
+     "syl": "po"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mozart",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "radio.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 82.36,
+   "end": 90.02
+  },
+  {
+   "text": "It made me wonder if he had any siblings, because living up to someone like Wolfgang Amadeus Mozart would be challenging.",
+   "chunks": [
+    {
+     "en": "It made me wonder",
+     "ko": "그것은 나를 궁금하게 만들었다"
+    },
+    {
+     "en": "if he had any siblings,",
+     "ko": "그에게 형제가 있었는지"
+    },
+    {
+     "en": "because living up to someone",
+     "ko": "왜냐하면 그런 사람처럼 살아가는 것은"
+    },
+    {
+     "en": "like Wolfgang Amadeus Mozart would be challenging.",
+     "ko": "볼프강 아마데우스 모차르트 같으면 힘들었을 것이기 때문이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wonder",
+     "strong": true,
+     "link": false,
+     "syl": "won"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "any",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "siblings,",
+     "strong": true,
+     "link": false,
+     "syl": "sib"
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "living",
+     "strong": true,
+     "link": false,
+     "syl": "liv"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Wolfgang",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Amadeus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mozart",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "challenging.",
+     "strong": true,
+     "link": false,
+     "syl": "chal"
+    }
+   ],
+   "tip": "living up to는 한 덩어리로 빠르게 이어 발음합니다.",
+   "start": 90.02,
+   "end": 96.78
+  },
+  {
+   "text": "I was surprised to learn that Mozart had an older sister by five years named Maria Anna Mozart, and she was just as talented, maybe even more so.",
+   "chunks": [
+    {
+     "en": "I was surprised to learn",
+     "ko": "나는 알게 되어서 놀랐다"
+    },
+    {
+     "en": "that Mozart had an older sister by five years",
+     "ko": "모차르트에게 다섯 살 많은 누나가 있었다는 것을"
+    },
+    {
+     "en": "named Maria Anna Mozart,",
+     "ko": "마리아 안나 모차르트라는 이름의,"
+    },
+    {
+     "en": "and she was just as talented, maybe even more so.",
+     "ko": "그리고 그녀도 못지않게 재능이 있었다, 오히려 더 그럴지도 모른다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surprised",
+     "strong": true,
+     "link": false,
+     "syl": "prised"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mozart",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "older",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sister",
+     "strong": true,
+     "link": false,
+     "syl": "sis"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "named",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Maria",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Anna",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mozart,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talented,",
+     "strong": true,
+     "link": false,
+     "syl": "tal"
+    },
+    {
+     "w": "maybe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": true,
+     "link": false,
+     "syl": "more"
+    },
+    {
+     "w": "so.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 96.78,
+   "end": 108.56
+  }
+ ],
+ "questions": [
+  {
+   "q": "What gave the speaker inspiration for this piece?",
+   "options": [
+    "Listening to a composition by Mozart on the radio",
+    "Reading a biography of Mozart",
+    "Visiting a museum exhibit"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 라디오로 모차르트의 곡을 듣다가 영감을 얻었다고 한다."
+  },
+  {
+   "q": "What did the speaker wonder about Mozart?",
+   "options": [
+    "If he had any siblings",
+    "If he could play the violin",
+    "If he wrote operas"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 그에게 형제가 있었는지 궁금해졌다고 한다."
+  },
+  {
+   "q": "What did the speaker learn about Mozart's sister?",
+   "options": [
+    "She was five years older and just as talented",
+    "She never learned music",
+    "She was younger than Mozart"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 다섯 살 많은 누나가 있었고 못지않게 재능이 있었다고 한다."
+  },
+  {
+   "q": "What was the sister's name?",
+   "options": [
+    "Maria Anna Mozart",
+    "Maria Theresa Mozart",
+    "Anna Maria Bach"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 이름이 마리아 안나 모차르트라고 나온다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "composition",
+   "ko": "작품, 작곡",
+   "note": "음악 작품을 가리키는 말"
+  },
+  {
+   "term": "siblings",
+   "ko": "형제자매",
+   "note": "형, 누나, 동생을 통칭하는 말"
+  },
+  {
+   "term": "living up to",
+   "ko": "~에 걸맞게 살다, ~에 부응하다",
+   "note": "기대나 명성에 맞춰 살아간다는 뜻의 구동사"
+  },
+  {
+   "term": "older sister by five years",
+   "ko": "다섯 살 많은 누나",
+   "note": "나이 차이를 표현하는 'by + 기간' 패턴"
+  },
+  {
+   "term": "talented",
+   "ko": "재능 있는",
+   "note": "타고난 능력이 있다는 뜻의 형용사"
+  }
+ ]
+}

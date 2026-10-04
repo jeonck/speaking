@@ -1,0 +1,636 @@
+{
+ "video_id": "w6ASAs3siFg",
+ "source_title": "How the 1876 World's Fair Launched the Telephone Revolution",
+ "source_channel": "Library of Congress",
+ "segment": {
+  "start": 76.66,
+  "end": 100.9
+ },
+ "sentences": [
+  {
+   "text": "We have an image here of the main exhibit hall, the largest building in the world by area at the time, over 21 acres.",
+   "chunks": [
+    {
+     "en": "We have an image here of the main exhibit hall,",
+     "ko": "우리는 여기 중앙 전시관 사진을 가지고 있는데,"
+    },
+    {
+     "en": "the largest building in the world by area at the time,",
+     "ko": "그 당시 면적 기준으로 세계에서 가장 큰 건물이었고,"
+    },
+    {
+     "en": "over 21 acres.",
+     "ko": "21에이커가 넘었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "image",
+     "strong": true,
+     "link": false,
+     "syl": "IM"
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "main",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exhibit",
+     "strong": true,
+     "link": false,
+     "syl": "HIB"
+    },
+    {
+     "w": "hall,",
+     "strong": true,
+     "link": false,
+     "syl": "HALL"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "largest",
+     "strong": true,
+     "link": false,
+     "syl": "LAR"
+    },
+    {
+     "w": "building",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "area",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "21",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "acres.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "have an처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 76.66,
+   "end": 83.324
+  },
+  {
+   "text": "We have some commemorative cards that show the outsides of some of the other 200 buildings at the fair.",
+   "chunks": [
+    {
+     "en": "We have some commemorative cards that show",
+     "ko": "우리는 보여주는 기념 카드들을 가지고 있는데"
+    },
+    {
+     "en": "the outsides of some of the other 200 buildings at the fair.",
+     "ko": "박람회의 다른 200개 건물 중 일부의 외관을 보여준다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "commemorative",
+     "strong": true,
+     "link": false,
+     "syl": "MEM"
+    },
+    {
+     "w": "cards",
+     "strong": true,
+     "link": false,
+     "syl": "CARDS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "show",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "outsides",
+     "strong": true,
+     "link": true,
+     "syl": "OUT"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "200",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buildings",
+     "strong": true,
+     "link": false,
+     "syl": "BUILD"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fair.",
+     "strong": true,
+     "link": false,
+     "syl": "FAIR"
+    }
+   ],
+   "tip": "outsides of처럼 자음 뒤에 모음이 오면 부드럽게 연결해요.",
+   "start": 83.324,
+   "end": 88.78
+  },
+  {
+   "text": "The Centennial Exposition was full of inventors.",
+   "chunks": [
+    {
+     "en": "The Centennial Exposition",
+     "ko": "센테니얼 박람회는"
+    },
+    {
+     "en": "was full of inventors.",
+     "ko": "발명가들로 가득했다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Centennial",
+     "strong": true,
+     "link": false,
+     "syl": "TEN"
+    },
+    {
+     "w": "Exposition",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "full",
+     "strong": true,
+     "link": true,
+     "syl": "FULL"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "inventors.",
+     "strong": true,
+     "link": false,
+     "syl": "VEN"
+    }
+   ],
+   "tip": "full of처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 88.78,
+   "end": 91.3
+  },
+  {
+   "text": "They were demonstrating their devices.",
+   "chunks": [
+    {
+     "en": "They were demonstrating their devices.",
+     "ko": "그들은 자신들의 장치를 시연하고 있었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "demonstrating",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "devices.",
+     "strong": true,
+     "link": false,
+     "syl": "VI"
+    }
+   ],
+   "tip": "",
+   "start": 91.3,
+   "end": 92.64999999999999
+  },
+  {
+   "text": "They were competing with one another.",
+   "chunks": [
+    {
+     "en": "They were competing with one another.",
+     "ko": "그들은 서로 경쟁하고 있었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "competing",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "another.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "with one처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 92.64999999999999,
+   "end": 94.345
+  },
+  {
+   "text": "Alexander Graham Bell was there.",
+   "chunks": [
+    {
+     "en": "Alexander Graham Bell was there.",
+     "ko": "알렉산더 그레이엄 벨도 그곳에 있었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Alexander",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Graham",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Bell",
+     "strong": true,
+     "link": false,
+     "syl": "BELL"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there.",
+     "strong": true,
+     "link": false,
+     "syl": "THERE"
+    }
+   ],
+   "tip": "",
+   "start": 94.345,
+   "end": 95.82
+  },
+  {
+   "text": "Thomas Edison was there, Elisha Gray was there also, all three of them actually demonstrating telegraphs.",
+   "chunks": [
+    {
+     "en": "Thomas Edison was there, Elisha Gray was there also,",
+     "ko": "토머스 에디슨도 그곳에 있었고, 엘리샤 그레이도 그곳에 있었으며,"
+    },
+    {
+     "en": "all three of them actually demonstrating telegraphs.",
+     "ko": "그 셋 모두 실제로 전신기를 시연하고 있었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Thomas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Edison",
+     "strong": true,
+     "link": false,
+     "syl": "ED"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Elisha",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Gray",
+     "strong": true,
+     "link": false,
+     "syl": "GRAY"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "also,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "demonstrating",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "telegraphs.",
+     "strong": true,
+     "link": false,
+     "syl": "TEL"
+    }
+   ],
+   "tip": "three of처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 95.82,
+   "end": 100.9
+  }
+ ],
+ "questions": [
+  {
+   "q": "How large was the main exhibit hall?",
+   "options": [
+    "The largest building in the world by area at the time",
+    "The smallest building at the fair",
+    "A temporary tent structure"
+   ],
+   "answer": 0,
+   "why": "\"the largest building in the world by area at the time\"에서 확인됩니다."
+  },
+  {
+   "q": "What do the commemorative cards show?",
+   "options": [
+    "The outsides of other buildings at the fair",
+    "Portraits of the inventors",
+    "Maps of the city"
+   ],
+   "answer": 0,
+   "why": "\"commemorative cards that show the outsides of some of the other 200 buildings\"에서 확인됩니다."
+  },
+  {
+   "q": "What was the Centennial Exposition full of?",
+   "options": [
+    "Inventors",
+    "Farmers",
+    "Soldiers"
+   ],
+   "answer": 0,
+   "why": "\"The Centennial Exposition was full of inventors\"에서 확인됩니다."
+  },
+  {
+   "q": "Which inventors were mentioned as being at the fair?",
+   "options": [
+    "Alexander Graham Bell, Thomas Edison, and Elisha Gray",
+    "Isaac Newton and Albert Einstein",
+    "The Wright brothers"
+   ],
+   "answer": 0,
+   "why": "\"Alexander Graham Bell was there. Thomas Edison was there, Elisha Gray was there also\"에서 확인됩니다."
+  },
+  {
+   "q": "What were the three inventors demonstrating?",
+   "options": [
+    "Telegraphs",
+    "Telephones only",
+    "Light bulbs"
+   ],
+   "answer": 0,
+   "why": "\"all three of them actually demonstrating telegraphs\"에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "commemorative cards",
+   "ko": "기념 카드",
+   "note": "특별한 행사를 기리기 위해 만든 카드를 뜻해요."
+  },
+  {
+   "term": "by area",
+   "ko": "면적 기준으로",
+   "note": "크기를 비교할 때 면적을 기준으로 삼는다는 뜻이에요."
+  },
+  {
+   "term": "full of",
+   "ko": "~로 가득한",
+   "note": "어떤 장소나 상황이 무엇으로 가득 차 있다는 뜻이에요."
+  },
+  {
+   "term": "competing with one another",
+   "ko": "서로 경쟁하다",
+   "note": "여러 명이 같은 목표를 두고 경쟁하는 상황을 말해요."
+  },
+  {
+   "term": "demonstrating telegraphs",
+   "ko": "전신기를 시연하다",
+   "note": "새로운 발명품을 사람들 앞에서 작동시켜 보여주는 것을 뜻해요."
+  }
+ ]
+}

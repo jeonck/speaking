@@ -1,0 +1,538 @@
+{
+ "video_id": "B-9gQEbCgHI",
+ "source_title": "How Did the Discovery of Gold Help the U.S. Mint Expand?",
+ "source_channel": "U.S. Mint",
+ "segment": {
+  "start": 37.11,
+  "end": 62.0
+ },
+ "sentences": [
+  {
+   "text": "In the early 1800s, America experienced its first two gold rushes in North Carolina and Georgia.",
+   "chunks": [
+    {
+     "en": "In the early 1800s,",
+     "ko": "1800년대 초,"
+    },
+    {
+     "en": "America experienced its first two gold rushes",
+     "ko": "미국은 첫 두 번의 골드러시를 겪었다"
+    },
+    {
+     "en": "in North Carolina and Georgia.",
+     "ko": "노스캐롤라이나와 조지아에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "early",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1800s,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "America",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "experienced",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gold",
+     "strong": true,
+     "link": false,
+     "syl": "GOLD"
+    },
+    {
+     "w": "rushes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "North",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Carolina",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Georgia.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "experienced its는 d가 다음 모음 its로 이어진다.",
+   "start": 37.11,
+   "end": 43.42
+  },
+  {
+   "text": "Mining took off in central North Carolina after 1799.",
+   "chunks": [
+    {
+     "en": "Mining took off",
+     "ko": "광업이 활기를 띠었다"
+    },
+    {
+     "en": "in central North Carolina",
+     "ko": "노스캐롤라이나 중부에서"
+    },
+    {
+     "en": "after 1799.",
+     "ko": "1799년 이후."
+    }
+   ],
+   "words": [
+    {
+     "w": "Mining",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": true,
+     "link": true,
+     "syl": "TOOK"
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "central",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "North",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Carolina",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1799.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "took off는 '투콮'처럼 자연스럽게 이어진다.",
+   "start": 43.42,
+   "end": 47.52
+  },
+  {
+   "text": "Less than 20 years later, even more gold was discovered in northern Georgia.",
+   "chunks": [
+    {
+     "en": "Less than 20 years later,",
+     "ko": "20년도 지나지 않아,"
+    },
+    {
+     "en": "even more gold was discovered",
+     "ko": "더 많은 금이 발견되었다"
+    },
+    {
+     "en": "in northern Georgia.",
+     "ko": "조지아 북부에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "Less",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "20",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "link": false,
+     "syl": "YEARS"
+    },
+    {
+     "w": "later,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gold",
+     "strong": true,
+     "link": false,
+     "syl": "GOLD"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "discovered",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "northern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Georgia.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "discovered in은 d가 다음 모음으로 이어진다.",
+   "start": 47.52,
+   "end": 52.12
+  },
+  {
+   "text": "Thousands of people moved to these areas, forming new towns and industry.",
+   "chunks": [
+    {
+     "en": "Thousands of people moved to these areas,",
+     "ko": "수천 명의 사람들이 이 지역으로 이주했다,"
+    },
+    {
+     "en": "forming new towns and industry.",
+     "ko": "새로운 마을과 산업을 형성하며."
+    }
+   ],
+   "words": [
+    {
+     "w": "Thousands",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moved",
+     "strong": true,
+     "link": false,
+     "syl": "MOVED"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "areas,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forming",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "towns",
+     "strong": true,
+     "link": false,
+     "syl": "TOWNS"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "industry.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "Thousands of는 s가 다음 모음 of로 이어진다.",
+   "start": 52.12,
+   "end": 56.39
+  },
+  {
+   "text": "Mining continued until miners left the area in the 1850s for the country's next big gold rush.",
+   "chunks": [
+    {
+     "en": "Mining continued",
+     "ko": "광업은 계속되었다"
+    },
+    {
+     "en": "until miners left the area",
+     "ko": "광부들이 그 지역을 떠날 때까지"
+    },
+    {
+     "en": "in the 1850s",
+     "ko": "1850년대에"
+    },
+    {
+     "en": "for the country's next big gold rush.",
+     "ko": "나라의 다음 큰 골드러시를 위해."
+    }
+   ],
+   "words": [
+    {
+     "w": "Mining",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "continued",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "until",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miners",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "left",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "area",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1850s",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "country's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gold",
+     "strong": true,
+     "link": false,
+     "syl": "GOLD"
+    },
+    {
+     "w": "rush.",
+     "strong": true,
+     "link": false,
+     "syl": "RUSH"
+    }
+   ],
+   "tip": "continued until은 d가 다음 모음 until로 이어진다.",
+   "start": 56.39,
+   "end": 62.0
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did America's first two gold rushes happen?",
+   "options": [
+    "North Carolina and Georgia",
+    "California and Alaska",
+    "Texas and Nevada"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 North Carolina와 Georgia에서 처음 두 번의 골드러시가 일어났다고 말한다."
+  },
+  {
+   "q": "When did mining take off in central North Carolina?",
+   "options": [
+    "After 1799",
+    "After 1900",
+    "Before 1700"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 after 1799라고 말한다."
+  },
+  {
+   "q": "What happened less than 20 years after the North Carolina gold rush?",
+   "options": [
+    "More gold was discovered in northern Georgia",
+    "All mining stopped completely",
+    "Gold prices collapsed"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 northern Georgia에서 더 많은 금이 발견되었다고 말한다."
+  },
+  {
+   "q": "What did thousands of people do when they moved to these areas?",
+   "options": [
+    "Formed new towns and industry",
+    "Built only farms",
+    "Left immediately after arriving"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 new towns and industry를 형성했다고 말한다."
+  },
+  {
+   "q": "What happened to mining in the 1850s?",
+   "options": [
+    "Miners left for the country's next gold rush",
+    "Mining expanded permanently",
+    "The government banned mining"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 miners left the area in the 1850s for the next gold rush라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "gold rush",
+   "ko": "골드러시",
+   "note": "금이 발견되어 사람들이 몰려드는 현상을 말한다."
+  },
+  {
+   "term": "took off",
+   "ko": "활기를 띠다, 급성장하다",
+   "note": "어떤 활동이 갑자기 활발해질 때 쓰는 표현."
+  },
+  {
+   "term": "discovered",
+   "ko": "발견되었다",
+   "note": "새로운 것이 처음 발견된 상황을 나타낸다."
+  },
+  {
+   "term": "forming new towns",
+   "ko": "새로운 마을을 형성하며",
+   "note": "사람들이 모여 새 정착지를 만드는 과정을 뜻한다."
+  }
+ ]
+}

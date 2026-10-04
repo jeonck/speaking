@@ -1,0 +1,463 @@
+{
+ "video_id": "BJMqs9vETo4",
+ "source_title": "Adrienne Reiko Iwanaga—NEA National Heritage Fellowship Tribute Video (2025)",
+ "source_channel": "National Endowment for the Arts",
+ "segment": {
+  "start": 189.63,
+  "end": 214.7
+ },
+ "sentences": [
+  {
+   "text": "After I started, I eventually became a teacher of Japanese Obon.",
+   "chunks": [
+    {
+     "en": "After I started,",
+     "ko": "제가 시작한 이후"
+    },
+    {
+     "en": "I eventually became a teacher of Japanese Obon.",
+     "ko": "저는 결국 일본 오봉 춤의 교사가 되었습니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "After",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started,",
+     "strong": true,
+     "link": false,
+     "syl": "START"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eventually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "became",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teacher",
+     "strong": true,
+     "link": false,
+     "syl": "TEACH"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Japanese",
+     "strong": true,
+     "link": false,
+     "syl": "NESE"
+    },
+    {
+     "w": "Obon.",
+     "strong": true,
+     "link": false,
+     "syl": "BON"
+    }
+   ],
+   "tip": "teacher of처럼 of는 약하게 흘려 발음하세요.",
+   "start": 189.63,
+   "end": 194.4
+  },
+  {
+   "text": "And in 1998, the Obon chair asked me to become the head teacher, and that's when I took over.",
+   "chunks": [
+    {
+     "en": "And in 1998, the Obon chair asked me",
+     "ko": "그리고 1998년에 오봉 회장이 저에게 부탁했습니다"
+    },
+    {
+     "en": "to become the head teacher,",
+     "ko": "수석 교사가 되어달라고"
+    },
+    {
+     "en": "and that's when I took over.",
+     "ko": "그때부터 제가 맡게 되었습니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1998,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Obon",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chair",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "asked",
+     "strong": true,
+     "link": false,
+     "syl": "ASKED"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "head",
+     "strong": true,
+     "link": false,
+     "syl": "HEAD"
+    },
+    {
+     "w": "teacher,",
+     "strong": true,
+     "link": false,
+     "syl": "TEACH"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over.",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    }
+   ],
+   "tip": "asked me를 이어서 발음하세요.",
+   "start": 194.4,
+   "end": 202.35
+  },
+  {
+   "text": "Being the head teacher for 25 years or so, I certainly kept many of the dances, but tried to simplify new dances so that it was easier for everyone to join in.",
+   "chunks": [
+    {
+     "en": "Being the head teacher for 25 years or so,",
+     "ko": "약 25년 동안 수석 교사로 지내면서"
+    },
+    {
+     "en": "I certainly kept many of the dances,",
+     "ko": "저는 분명 많은 춤을 그대로 유지했지만"
+    },
+    {
+     "en": "but tried to simplify new dances",
+     "ko": "새로운 춤은 단순화하려 했습니다"
+    },
+    {
+     "en": "so that it was easier for everyone to join in.",
+     "ko": "모두가 더 쉽게 참여할 수 있도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "Being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "head",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teacher",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "25",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "certainly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kept",
+     "strong": true,
+     "link": false,
+     "syl": "KEPT"
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dances,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tried",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "simplify",
+     "strong": true,
+     "link": false,
+     "syl": "SIM"
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dances",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "easier",
+     "strong": true,
+     "link": false,
+     "syl": "EA"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everyone",
+     "strong": true,
+     "link": false,
+     "syl": "EV"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "join",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "join in을 이어서 발음하세요.",
+   "start": 202.35,
+   "end": 214.7
+  }
+ ],
+ "questions": [
+  {
+   "q": "What dance tradition does the speaker teach?",
+   "options": [
+    "Japanese Obon",
+    "Irish step dance",
+    "Flamenco"
+   ],
+   "answer": 0,
+   "why": "\"became a teacher of Japanese Obon\"이라고 말한다."
+  },
+  {
+   "q": "In what year did the speaker become the head teacher?",
+   "options": [
+    "1988",
+    "1998",
+    "2008"
+   ],
+   "answer": 1,
+   "why": "\"in 1998, the Obon chair asked me to become the head teacher\"에서 알 수 있다."
+  },
+  {
+   "q": "About how long has the speaker been head teacher?",
+   "options": [
+    "5 years",
+    "15 years",
+    "25 years"
+   ],
+   "answer": 2,
+   "why": "\"Being the head teacher for 25 years or so\"라고 말한다."
+  },
+  {
+   "q": "Why did the speaker simplify some new dances?",
+   "options": [
+    "To make them harder",
+    "To make them easier for everyone to join in",
+    "To shorten the performance time"
+   ],
+   "answer": 1,
+   "why": "\"so that it was easier for everyone to join in\"이라고 설명한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "head teacher",
+   "ko": "수석 교사, 대표 지도자",
+   "note": "한 그룹을 이끄는 책임 교사를 뜻함"
+  },
+  {
+   "term": "took over",
+   "ko": "맡다, 인수하다",
+   "note": "that's when I took over처럼 역할을 이어받을 때 씀"
+  },
+  {
+   "term": "simplify",
+   "ko": "단순화하다",
+   "note": "복잡한 것을 더 쉽게 만들 때 씀"
+  },
+  {
+   "term": "join in",
+   "ko": "함께 참여하다",
+   "note": "easier for everyone to join in처럼 참여를 뜻함"
+  }
+ ]
+}

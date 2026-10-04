@@ -1,0 +1,450 @@
+{
+ "video_id": "5uNc_ZUeQrs",
+ "source_title": "Life, Liberty, and the Pursuit of Innovation",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 227.82,
+  "end": 253.38
+ },
+ "sentences": [
+  {
+   "text": "Clara Barton would go on to found the American Red Cross.",
+   "chunks": [
+    {
+     "en": "Clara Barton would go on",
+     "ko": "클라라 바턴은 나중에"
+    },
+    {
+     "en": "to found the American Red Cross.",
+     "ko": "미국 적십자를 설립하게 된다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Clara",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Barton",
+     "strong": true,
+     "link": false,
+     "syl": "bar"
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": true,
+     "link": false,
+     "syl": "found"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "American",
+     "strong": true,
+     "link": false,
+     "syl": "mer"
+    },
+    {
+     "w": "Red",
+     "strong": true,
+     "link": false,
+     "syl": "red"
+    },
+    {
+     "w": "Cross.",
+     "strong": true,
+     "link": false,
+     "syl": "cross"
+    }
+   ],
+   "tip": "go on처럼 모음으로 끝나고 시작하는 단어는 가볍게 이어 읽어요.",
+   "start": 227.82,
+   "end": 232.32
+  },
+  {
+   "text": "During the Civil War, the Patent Office was used as a barracks, a hospital, and the site of Lincoln's second inaugural ball.",
+   "chunks": [
+    {
+     "en": "During the Civil War,",
+     "ko": "남북전쟁 동안,"
+    },
+    {
+     "en": "the Patent Office was used as a barracks, a hospital,",
+     "ko": "특허청은 병영으로, 병원으로 쓰였고,"
+    },
+    {
+     "en": "and the site of Lincoln's second inaugural ball.",
+     "ko": "링컨의 두 번째 취임 무도회장으로도 쓰였다."
+    }
+   ],
+   "words": [
+    {
+     "w": "During",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Civil",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "War,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Patent",
+     "strong": true,
+     "link": false,
+     "syl": "pat"
+    },
+    {
+     "w": "Office",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "barracks,",
+     "strong": true,
+     "link": false,
+     "syl": "bar"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hospital,",
+     "strong": true,
+     "link": false,
+     "syl": "hos"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "site",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lincoln's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "second",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "inaugural",
+     "strong": true,
+     "link": false,
+     "syl": "au"
+    },
+    {
+     "w": "ball.",
+     "strong": true,
+     "link": false,
+     "syl": "ball"
+    }
+   ],
+   "tip": "used as a, site of, second inaugural처럼 자음을 모음에 이어 읽어요.",
+   "start": 232.32,
+   "end": 241.98
+  },
+  {
+   "text": "Patent grants slowed during the conflict, but inventors continued to create, and when peace came in 1865, it ushered in a golden age of American innovation.",
+   "chunks": [
+    {
+     "en": "Patent grants slowed during the conflict,",
+     "ko": "특허 승인은 그 갈등 동안 둔화되었지만,"
+    },
+    {
+     "en": "but inventors continued to create,",
+     "ko": "발명가들은 계속해서 창작했다,"
+    },
+    {
+     "en": "and when peace came in 1865,",
+     "ko": "그리고 1865년에 평화가 찾아왔을 때,"
+    },
+    {
+     "en": "it ushered in a golden age of American innovation.",
+     "ko": "그것은 미국 혁신의 황금기를 열었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Patent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grants",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "slowed",
+     "strong": true,
+     "link": true,
+     "syl": "slowed"
+    },
+    {
+     "w": "during",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "conflict,",
+     "strong": true,
+     "link": false,
+     "syl": "con"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inventors",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "continued",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "create,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "peace",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "came",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "1865,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ushered",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "golden",
+     "strong": true,
+     "link": false,
+     "syl": "gold"
+    },
+    {
+     "w": "age",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "American",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "innovation.",
+     "strong": true,
+     "link": false,
+     "syl": "va"
+    }
+   ],
+   "tip": "slowed during는 같은 d 소리를 겹쳐 읽고, came in, ushered in은 모음으로 이어 읽어요.",
+   "start": 241.98,
+   "end": 253.38
+  }
+ ],
+ "questions": [
+  {
+   "q": "What organization did Clara Barton go on to found?",
+   "options": [
+    "The American Red Cross",
+    "The Smithsonian Institution",
+    "The U.S. Patent Office"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: found the American Red Cross."
+  },
+  {
+   "q": "How was the Patent Office used during the Civil War?",
+   "options": [
+    "As a museum only",
+    "As a barracks and a hospital",
+    "As a military prison"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: used as a barracks, a hospital."
+  },
+  {
+   "q": "What else took place at the Patent Office?",
+   "options": [
+    "Lincoln's second inaugural ball",
+    "A presidential funeral",
+    "A constitutional convention"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: the site of Lincoln's second inaugural ball."
+  },
+  {
+   "q": "What happened to patent grants during the conflict?",
+   "options": [
+    "They increased sharply",
+    "They slowed down",
+    "They stopped completely"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: Patent grants slowed during the conflict."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "go on to do",
+   "ko": "나중에 ~하게 되다",
+   "note": "앞으로 일어날 일을 가리킬 때 써요."
+  },
+  {
+   "term": "barracks",
+   "ko": "병영, 막사",
+   "note": "복수형처럼 보이지만 단수로도 써요."
+  },
+  {
+   "term": "inaugural ball",
+   "ko": "취임 축하 무도회",
+   "note": "대통령 취임식 후 열리는 행사예요."
+  },
+  {
+   "term": "usher in",
+   "ko": "(새로운 시대 등을) 열다, 이끌어오다",
+   "note": "usher in a golden age = 황금기를 열다."
+  }
+ ]
+}

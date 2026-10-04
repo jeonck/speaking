@@ -1,0 +1,328 @@
+{
+ "video_id": "m-4fgp7iIMQ",
+ "source_title": "Share Your Transportation Story: Silas",
+ "source_channel": "US Department of Transportation",
+ "segment": {
+  "start": 14.28,
+  "end": 37.92
+ },
+ "sentences": [
+  {
+   "text": "We're in the Edgewood community right now, at the site of the new pedestrian bridge alongside the Metropolitan Branch Trail.",
+   "chunks": [
+    {
+     "en": "We're in the Edgewood community right now,",
+     "ko": "우리는 지금 에지우드 커뮤니티에 있다"
+    },
+    {
+     "en": "at the site of the new pedestrian bridge",
+     "ko": "새로운 보행자 다리가 들어설 자리에서"
+    },
+    {
+     "en": "alongside the Metropolitan Branch Trail.",
+     "ko": "메트로폴리탄 브랜치 트레일 옆에"
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Edgewood",
+     "strong": true,
+     "link": false,
+     "syl": "edge"
+    },
+    {
+     "w": "community",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "site",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pedestrian",
+     "strong": true,
+     "link": false,
+     "syl": "des"
+    },
+    {
+     "w": "bridge",
+     "strong": true,
+     "link": false,
+     "syl": "bridge"
+    },
+    {
+     "w": "alongside",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Metropolitan",
+     "strong": true,
+     "link": false,
+     "syl": "pol"
+    },
+    {
+     "w": "Branch",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Trail.",
+     "strong": true,
+     "link": false,
+     "syl": "trail"
+    }
+   ],
+   "tip": "",
+   "start": 14.28,
+   "end": 29.48
+  },
+  {
+   "text": "I've been here for 36 years, and this neighborhood has changed a lot in the past, I would say 10 to 15 years.",
+   "chunks": [
+    {
+     "en": "I've been here for 36 years,",
+     "ko": "나는 여기서 36년을 살았다"
+    },
+    {
+     "en": "and this neighborhood has changed a lot in the past,",
+     "ko": "그리고 이 동네는 과거에 많이 변했다"
+    },
+    {
+     "en": "I would say 10 to 15 years.",
+     "ko": "말하자면 10년에서 15년 사이에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "36",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years,",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": false,
+     "syl": "changed"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "past,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "say",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "15",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    }
+   ],
+   "tip": "숫자(36, 10, 15)는 years와 자연스럽게 묶어서 한 호흡으로 읽어보세요.",
+   "start": 29.48,
+   "end": 37.92
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the speaker standing?",
+   "options": [
+    "At the site of a new pedestrian bridge alongside the Metropolitan Branch Trail",
+    "Inside a shopping mall",
+    "At a train station downtown"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 새로운 보행자 다리가 들어설 자리, 메트로폴리탄 브랜치 트레일 옆이라고 말한다."
+  },
+  {
+   "q": "How long has the speaker lived in the neighborhood?",
+   "options": [
+    "36 years",
+    "3 years",
+    "6 years"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 36년을 살았다고 말한다."
+  },
+  {
+   "q": "Over roughly what time period does the speaker say the neighborhood has changed the most?",
+   "options": [
+    "The past 10 to 15 years",
+    "The past 50 years",
+    "The past month"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 10년에서 15년 사이라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "pedestrian bridge",
+   "ko": "보행자 다리",
+   "note": "사람이 걸어서 건너는 다리를 말합니다."
+  },
+  {
+   "term": "alongside",
+   "ko": "~옆에, ~와 나란히",
+   "note": "바로 옆에 붙어 있다는 뜻입니다."
+  },
+  {
+   "term": "changed a lot",
+   "ko": "많이 변했다",
+   "note": "변화의 정도를 강조하는 표현입니다."
+  }
+ ]
+}

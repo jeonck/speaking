@@ -1,0 +1,533 @@
+{
+ "video_id": "4TsEeFhrV-k",
+ "source_title": "Transportation Planning Process and Requirements",
+ "source_channel": "Federal Highway Administration",
+ "segment": {
+  "start": 281.3,
+  "end": 310.73
+ },
+ "sentences": [
+  {
+   "text": "Transportation planning plays a fundamental role in a community's vision for the future.",
+   "chunks": [
+    {
+     "en": "Transportation planning",
+     "ko": "교통 계획은"
+    },
+    {
+     "en": "plays a fundamental role",
+     "ko": "핵심적인 역할을 한다"
+    },
+    {
+     "en": "in a community's vision for the future.",
+     "ko": "한 지역사회의 미래 비전에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Transportation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "planning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plays",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fundamental",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "role",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "community's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vision",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "future.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "community's의 's는 약하게 흘려서 발음한다.",
+   "start": 281.3,
+   "end": 287.75
+  },
+  {
+   "text": "Your involvement throughout the process is a key component for what we want our communities to be.",
+   "chunks": [
+    {
+     "en": "Your involvement throughout the process",
+     "ko": "그 과정 전반에 걸친 당신의 참여는"
+    },
+    {
+     "en": "is a key component",
+     "ko": "핵심 요소이다"
+    },
+    {
+     "en": "for what we want our communities to be.",
+     "ko": "우리가 되고자 하는 지역사회의 모습에 있어"
+    }
+   ],
+   "words": [
+    {
+     "w": "Your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "involvement",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "throughout",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "process",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "key",
+     "strong": true,
+     "link": false,
+     "syl": "KEY"
+    },
+    {
+     "w": "component",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "communities",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "want our는 '원아워'처럼 연음으로 이어진다.",
+   "start": 287.75,
+   "end": 292.92307692307696
+  },
+  {
+   "text": "Go to public meetings, express your opinion about a proposed project, or volunteer for a transportation Advisory Committee.",
+   "chunks": [
+    {
+     "en": "Go to public meetings,",
+     "ko": "공개 회의에 가거나,"
+    },
+    {
+     "en": "express your opinion about a proposed project,",
+     "ko": "제안된 프로젝트에 대한 의견을 표현하거나,"
+    },
+    {
+     "en": "or volunteer for a transportation Advisory Committee.",
+     "ko": "또는 교통 자문 위원회에 자원하라."
+    }
+   ],
+   "words": [
+    {
+     "w": "Go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "public",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meetings,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "express",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opinion",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "proposed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "project,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "volunteer",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transportation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Advisory",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Committee.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "volunteer는 마지막 teer에 강세가 온다.",
+   "start": 292.92307692307696,
+   "end": 299.6015384615385
+  },
+  {
+   "text": "To find out how to get involved, contact your local transportation planning organization, your state DOT, or the FHWA Division office in your state.",
+   "chunks": [
+    {
+     "en": "To find out how to get involved,",
+     "ko": "참여하는 방법을 알아보려면,"
+    },
+    {
+     "en": "contact your local transportation planning organization,",
+     "ko": "지역 교통 계획 기관에 연락하거나,"
+    },
+    {
+     "en": "your state DOT,",
+     "ko": "주 교통부(DOT)에,"
+    },
+    {
+     "en": "or the FHWA Division office in your state.",
+     "ko": "또는 해당 주의 FHWA 지역사무소에 연락하라."
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "involved,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "contact",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transportation",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "planning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "organization,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "state",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "DOT,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "FHWA",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Division",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "office",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "state.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "FHWA는 철자를 하나씩 끊어서 F-H-W-A로 읽는다.",
+   "start": 299.6015384615385,
+   "end": 310.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the segment say transportation planning plays a role in?",
+   "options": [
+    "A community's vision for the future",
+    "A company's annual budget",
+    "A sports team's schedule"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 transportation planning이 community's vision for the future에 핵심 역할을 한다고 말한다."
+  },
+  {
+   "q": "Which of these is NOT mentioned as a way to get involved?",
+   "options": [
+    "Going to public meetings",
+    "Volunteering for a transportation Advisory Committee",
+    "Running for mayor"
+   ],
+   "answer": 2,
+   "why": "세 번째 문장은 공개 회의 참석, 의견 표현, 자문 위원회 자원봉사만 언급한다."
+  },
+  {
+   "q": "Who can you contact to learn how to get involved?",
+   "options": [
+    "Your local transportation planning organization or state DOT",
+    "A private travel agency",
+    "A national weather service"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 지역 교통 계획 기관, 주 DOT, FHWA 지역사무소에 연락하라고 안내한다."
+  },
+  {
+   "q": "What is the FHWA described as in the segment?",
+   "options": [
+    "A division office you can contact in your state",
+    "A type of public meeting",
+    "A transportation vehicle"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 FHWA Division office를 연락처 중 하나로 언급한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fundamental role",
+   "ko": "핵심적인 역할",
+   "note": "어떤 일의 토대가 되는 중요한 역할을 말할 때 쓴다."
+  },
+  {
+   "term": "key component",
+   "ko": "핵심 요소",
+   "note": "전체에서 빠질 수 없는 중요한 부분을 가리킨다."
+  },
+  {
+   "term": "Advisory Committee",
+   "ko": "자문 위원회",
+   "note": "전문적인 의견을 제공하는 위원회를 뜻한다."
+  },
+  {
+   "term": "get involved",
+   "ko": "참여하다",
+   "note": "어떤 활동이나 과정에 동참한다는 뜻의 일상 표현."
+  },
+  {
+   "term": "Division office",
+   "ko": "지역 사무소",
+   "note": "더 큰 기관 산하의 지역 단위 사무소를 가리킨다."
+  }
+ ]
+}

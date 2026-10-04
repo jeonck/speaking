@@ -1,0 +1,485 @@
+{
+ "video_id": "AtSnZKesd1U",
+ "source_title": "State in 60 Seconds - Sports Diplomacy",
+ "source_channel": "U.S. Department of State",
+ "segment": {
+  "start": 27.85,
+  "end": 51.92
+ },
+ "sentences": [
+  {
+   "text": "Since I began traveling internationally, I've developed lifelong friendships with athletes from around the globe.",
+   "chunks": [
+    {
+     "en": "Since I began traveling internationally,",
+     "ko": "제가 해외를 다니기 시작한 이후로"
+    },
+    {
+     "en": "I've developed lifelong friendships with athletes",
+     "ko": "선수들과 평생 가는 우정을 쌓아왔습니다"
+    },
+    {
+     "en": "from around the globe.",
+     "ko": "전 세계 곳곳에서요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "began",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traveling",
+     "strong": true,
+     "link": false,
+     "syl": "TRAV"
+    },
+    {
+     "w": "internationally,",
+     "strong": true,
+     "link": false,
+     "syl": "NA"
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "developed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lifelong",
+     "strong": true,
+     "link": false,
+     "syl": "LIFE"
+    },
+    {
+     "w": "friendships",
+     "strong": true,
+     "link": false,
+     "syl": "FRIEND"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "athletes",
+     "strong": true,
+     "link": false,
+     "syl": "ATH"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "globe.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "internationally처럼 긴 단어는 강세 위치(inter-NA-tion-ally)에 유의해보세요.",
+   "start": 27.85,
+   "end": 34.08
+  },
+  {
+   "text": "As a young person with a disability, sport kept me fit while strengthening my skills off the field.",
+   "chunks": [
+    {
+     "en": "As a young person with a disability,",
+     "ko": "장애가 있는 어린 시절에"
+    },
+    {
+     "en": "sport kept me fit while strengthening my skills",
+     "ko": "스포츠는 저를 건강하게 해주면서 기술도 키워주었고"
+    },
+    {
+     "en": "off the field.",
+     "ko": "경기장 밖에서도 그랬습니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "young",
+     "strong": true,
+     "link": false,
+     "syl": "YOUNG"
+    },
+    {
+     "w": "person",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disability,",
+     "strong": true,
+     "link": false,
+     "syl": "BIL"
+    },
+    {
+     "w": "sport",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kept",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fit",
+     "strong": true,
+     "link": false,
+     "syl": "FIT"
+    },
+    {
+     "w": "while",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strengthening",
+     "strong": true,
+     "link": false,
+     "syl": "STRENGTH"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "skills",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "field.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "strengthening은 3음절로 '스트렝쓰닝'처럼 빠르게 이어 발음해보세요.",
+   "start": 34.08,
+   "end": 41.19
+  },
+  {
+   "text": "Sport is a great tool to prepare young people for lifelong success in the work place, in the community, and in achieving their goals.",
+   "chunks": [
+    {
+     "en": "Sport is a great tool to prepare young people",
+     "ko": "스포츠는 청소년들을 준비시키는 훌륭한 도구인데"
+    },
+    {
+     "en": "for lifelong success in the work place,",
+     "ko": "직장에서 평생 성공을 거두도록"
+    },
+    {
+     "en": "in the community,",
+     "ko": "지역사회에서도"
+    },
+    {
+     "en": "and in achieving their goals.",
+     "ko": "그리고 목표를 이루는 데에도 도움을 줍니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sport",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false,
+     "syl": "GREAT"
+    },
+    {
+     "w": "tool",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prepare",
+     "strong": true,
+     "link": false,
+     "syl": "PARE"
+    },
+    {
+     "w": "young",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lifelong",
+     "strong": true,
+     "link": false,
+     "syl": "LIFE"
+    },
+    {
+     "w": "success",
+     "strong": true,
+     "link": false,
+     "syl": "CESS"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "community,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "achieving",
+     "strong": true,
+     "link": false,
+     "syl": "CHIEV"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "goals.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "lifelong success처럼 두 단어를 하나의 리듬 단위로 묶어 읽어보세요.",
+   "start": 41.19,
+   "end": 50.09
+  },
+  {
+   "text": "How can you get involved?",
+   "chunks": [
+    {
+     "en": "How can you get involved?",
+     "ko": "여러분은 어떻게 참여할 수 있을까요"
+    }
+   ],
+   "words": [
+    {
+     "w": "How",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": true,
+     "link": true,
+     "syl": "GET"
+    },
+    {
+     "w": "involved?",
+     "strong": true,
+     "link": false,
+     "syl": "VOLVED"
+    }
+   ],
+   "tip": "get involved는 '게리볼브드'처럼 자연스럽게 이어 읽어보세요.",
+   "start": 50.09,
+   "end": 51.92
+  }
+ ],
+ "questions": [
+  {
+   "q": "What has international travel given the speaker?",
+   "options": [
+    "Lifelong friendships with athletes around the world",
+    "A new coaching job",
+    "A collection of medals"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 전 세계 선수들과 평생 가는 우정을 쌓았다고 합니다."
+  },
+  {
+   "q": "How did sport help the speaker as a young person with a disability?",
+   "options": [
+    "It kept them fit and strengthened their skills off the field",
+    "It replaced their schooling",
+    "It paid for their travel"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 건강을 유지하고 기술을 키웠다고 설명합니다."
+  },
+  {
+   "q": "According to the speaker, what can sport prepare young people for?",
+   "options": [
+    "Success in the workplace, community, and their goals",
+    "Only becoming professional athletes",
+    "Avoiding higher education"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 직장, 지역사회, 목표 달성을 언급합니다."
+  },
+  {
+   "q": "What question does the speaker end with?",
+   "options": [
+    "How can you get involved?",
+    "When does the program start?",
+    "Where is the next event?"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 참여 방법을 묻습니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "lifelong",
+   "ko": "평생의",
+   "note": "자막의 오타 livelong을 lifelong으로 바로잡았어요."
+  },
+  {
+   "term": "off the field",
+   "ko": "경기장 밖에서",
+   "note": "스포츠 활동 이외의 상황을 뜻해요."
+  },
+  {
+   "term": "workplace",
+   "ko": "직장",
+   "note": "일하는 장소를 가리켜요."
+  },
+  {
+   "term": "get involved",
+   "ko": "참여하다",
+   "note": "어떤 활동에 동참한다는 뜻이에요."
+  }
+ ]
+}

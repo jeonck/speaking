@@ -1,0 +1,401 @@
+{
+ "video_id": "SA7BQ6XqsEE",
+ "source_title": "The U.S. Poet Laureate Explains the Role—and Why It Matters",
+ "source_channel": "Library of Congress",
+ "segment": {
+  "start": 32.08,
+  "end": 57.04
+ },
+ "sentences": [
+  {
+   "text": "I learned my craft through translation, and I discovered that for me, translation is the deepest form of reading.",
+   "chunks": [
+    {
+     "en": "I learned my craft through translation,",
+     "ko": "나는 내 기술을 번역을 통해 배웠다,"
+    },
+    {
+     "en": "and I discovered that for me,",
+     "ko": "그리고 나는 깨달았다 나에게는,"
+    },
+    {
+     "en": "translation is the deepest form of reading.",
+     "ko": "번역이 가장 깊은 형태의 독서라는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": false,
+     "syl": "learned"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "craft",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "translation,",
+     "strong": true,
+     "link": false,
+     "syl": "la"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "discovered",
+     "strong": true,
+     "link": false,
+     "syl": "cov"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "translation",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deepest",
+     "strong": true,
+     "link": false,
+     "syl": "deep"
+    },
+    {
+     "w": "form",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reading.",
+     "strong": true,
+     "link": false,
+     "syl": "read"
+    }
+   ],
+   "tip": "",
+   "start": 32.08,
+   "end": 40.39
+  },
+  {
+   "text": "Literary translation shows us that we're all interconnected.",
+   "chunks": [
+    {
+     "en": "Literary translation shows us",
+     "ko": "문학적 번역은 우리에게 보여준다"
+    },
+    {
+     "en": "that we're all interconnected.",
+     "ko": "우리 모두가 서로 연결되어 있다는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Literary",
+     "strong": true,
+     "link": false,
+     "syl": "lit"
+    },
+    {
+     "w": "translation",
+     "strong": true,
+     "link": false,
+     "syl": "la"
+    },
+    {
+     "w": "shows",
+     "strong": true,
+     "link": false,
+     "syl": "shows"
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "interconnected.",
+     "strong": true,
+     "link": false,
+     "syl": "nect"
+    }
+   ],
+   "tip": "",
+   "start": 40.39,
+   "end": 46.56
+  },
+  {
+   "text": "We may speak and read different languages, but the human experience is universal, and great poetry ignites and reignites our shared humanity.",
+   "chunks": [
+    {
+     "en": "We may speak and read different languages,",
+     "ko": "우리는 서로 다른 언어로 말하고 읽을지 모른다,"
+    },
+    {
+     "en": "but the human experience is universal,",
+     "ko": "하지만 인간의 경험은 보편적이다,"
+    },
+    {
+     "en": "and great poetry ignites and reignites our shared humanity.",
+     "ko": "그리고 위대한 시는 우리의 공유된 인류애를 불러일으키고 다시 불러일으킨다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speak",
+     "strong": true,
+     "link": false,
+     "syl": "speak"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "read",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "languages,",
+     "strong": true,
+     "link": false,
+     "syl": "lan"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "human",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experience",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "universal,",
+     "strong": true,
+     "link": false,
+     "syl": "ver"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "poetry",
+     "strong": true,
+     "link": false,
+     "syl": "po"
+    },
+    {
+     "w": "ignites",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reignites",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shared",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "humanity.",
+     "strong": true,
+     "link": false,
+     "syl": "man"
+    }
+   ],
+   "tip": "ignites and reignites는 비슷한 단어가 반복되므로 리듬을 살려 읽어보세요.",
+   "start": 46.56,
+   "end": 57.04
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the speaker learn their craft?",
+   "options": [
+    "Through translation",
+    "Through formal poetry classes only",
+    "By memorizing classic poems"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 번역을 통해 기술을 배웠다고 한다."
+  },
+  {
+   "q": "What does the speaker call translation?",
+   "options": [
+    "A simple word-for-word task",
+    "The deepest form of reading",
+    "A less important skill"
+   ],
+   "answer": 1,
+   "why": "첫 문장 마지막에서 번역이 가장 깊은 독서 형태라고 한다."
+  },
+  {
+   "q": "What does literary translation show us, according to the speaker?",
+   "options": [
+    "That we're all interconnected",
+    "That languages should not mix",
+    "That translation is impossible"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 문학적 번역이 서로 연결되어 있음을 보여준다고 한다."
+  },
+  {
+   "q": "What does the speaker say is universal despite different languages?",
+   "options": [
+    "The human experience",
+    "Grammar rules",
+    "Vocabulary size"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 인간의 경험은 보편적이라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "craft",
+   "ko": "기술, 솜씨",
+   "note": "여기서는 시를 쓰는 기술을 의미한다"
+  },
+  {
+   "term": "interconnected",
+   "ko": "서로 연결된",
+   "note": "문학적 번역이 사람들을 연결한다는 뜻으로 쓰였다"
+  },
+  {
+   "term": "universal",
+   "ko": "보편적인",
+   "note": "모든 사람에게 공통되는 것을 말한다"
+  },
+  {
+   "term": "ignite / reignite",
+   "ko": "불을 붙이다 / 다시 불을 붙이다",
+   "note": "감정이나 관심을 불러일으킨다는 비유적 표현"
+  },
+  {
+   "term": "shared humanity",
+   "ko": "공유된 인류애",
+   "note": "모든 인간이 함께 지니는 본질적인 연결감"
+  }
+ ]
+}

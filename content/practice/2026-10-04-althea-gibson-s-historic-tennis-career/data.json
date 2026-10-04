@@ -1,0 +1,529 @@
+{
+ "video_id": "SU3xOewOWdU",
+ "source_title": "Althea Gibson Snapchat Story",
+ "source_channel": "USAGov",
+ "segment": {
+  "start": 21.1,
+  "end": 45.8
+ },
+ "sentences": [
+  {
+   "text": "At age 13, she took her first lesson and won her first title one year later.",
+   "chunks": [
+    {
+     "en": "At age 13,",
+     "ko": "13살에,"
+    },
+    {
+     "en": "she took her first lesson",
+     "ko": "그녀는 첫 수업을 들었고"
+    },
+    {
+     "en": "and won her first title one year later.",
+     "ko": "그리고 1년 후에 첫 타이틀을 땄다."
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "age",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "13,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "her",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lesson",
+     "strong": true,
+     "link": false,
+     "syl": "LES"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "won",
+     "strong": true,
+     "link": true,
+     "syl": "WON"
+    },
+    {
+     "w": "her",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "title",
+     "strong": true,
+     "link": false,
+     "syl": "TI"
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "later.",
+     "strong": true,
+     "link": false,
+     "syl": "LA"
+    }
+   ],
+   "tip": "13, lesson, won, title, later에 강세를 두고, won her는 자연스럽게 이어 읽어요.",
+   "start": 21.1,
+   "end": 27.05
+  },
+  {
+   "text": "In 1950, she became the first African American player to compete in the US Open.",
+   "chunks": [
+    {
+     "en": "In 1950,",
+     "ko": "1950년에,"
+    },
+    {
+     "en": "she became the first African American player",
+     "ko": "그녀는 최초의 아프리카계 미국인 선수가 되었다"
+    },
+    {
+     "en": "to compete in the US Open.",
+     "ko": "US 오픈에 출전한."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1950,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "became",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "African",
+     "strong": true,
+     "link": false,
+     "syl": "AF"
+    },
+    {
+     "w": "American",
+     "strong": true,
+     "link": false,
+     "syl": "MER"
+    },
+    {
+     "w": "player",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compete",
+     "strong": true,
+     "link": false,
+     "syl": "PETE"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "US",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Open.",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    }
+   ],
+   "tip": "African American은 한 단위로 이어서, compete와 Open에 강세를 줘요.",
+   "start": 27.05,
+   "end": 32.05
+  },
+  {
+   "text": "In 1956, she became the first to win a Grand Slam.",
+   "chunks": [
+    {
+     "en": "In 1956,",
+     "ko": "1956년에,"
+    },
+    {
+     "en": "she became the first",
+     "ko": "그녀는 최초가 되었다"
+    },
+    {
+     "en": "to win a Grand Slam.",
+     "ko": "그랜드 슬램에서 우승한."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1956,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "became",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "FIRST"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "win",
+     "strong": true,
+     "link": false,
+     "syl": "WIN"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Grand",
+     "strong": true,
+     "link": false,
+     "syl": "GRAND"
+    },
+    {
+     "w": "Slam.",
+     "strong": true,
+     "link": false,
+     "syl": "SLAM"
+    }
+   ],
+   "tip": "Grand Slam은 두 단어를 거의 붙여서 한 단위로 읽어요.",
+   "start": 32.05,
+   "end": 36.86
+  },
+  {
+   "text": "She won 11 total Grand Slam titles.",
+   "chunks": [
+    {
+     "en": "She won 11 total",
+     "ko": "그녀는 총 11개를 땄다"
+    },
+    {
+     "en": "Grand Slam titles.",
+     "ko": "그랜드 슬램 타이틀을."
+    }
+   ],
+   "words": [
+    {
+     "w": "She",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "won",
+     "strong": true,
+     "link": false,
+     "syl": "WON"
+    },
+    {
+     "w": "11",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "total",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Grand",
+     "strong": true,
+     "link": false,
+     "syl": "GRAND"
+    },
+    {
+     "w": "Slam",
+     "strong": true,
+     "link": false,
+     "syl": "SLAM"
+    },
+    {
+     "w": "titles.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "11과 Grand Slam에 강세를 주며 숫자를 분명히 말해요.",
+   "start": 36.86,
+   "end": 40.12
+  },
+  {
+   "text": "In 2013, the United States Postal Service issued the Althea Gibson Forever stamp to honor her legacy.",
+   "chunks": [
+    {
+     "en": "In 2013,",
+     "ko": "2013년에,"
+    },
+    {
+     "en": "the United States Postal Service issued the Althea Gibson Forever stamp",
+     "ko": "미국 우정청은 알시아 깁슨 포에버 우표를 발행했다"
+    },
+    {
+     "en": "to honor her legacy.",
+     "ko": "그녀의 유산을 기리기 위해."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2013,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "United",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "States",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Postal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Service",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "issued",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Althea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Gibson",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Forever",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stamp",
+     "strong": true,
+     "link": false,
+     "syl": "STAMP"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "honor",
+     "strong": true,
+     "link": false,
+     "syl": "HON"
+    },
+    {
+     "w": "her",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "legacy.",
+     "strong": true,
+     "link": false,
+     "syl": "LEG"
+    }
+   ],
+   "tip": "issued, stamp, honor, legacy에 강세를 두어 핵심 정보를 전달해요.",
+   "start": 40.12,
+   "end": 45.8
+  }
+ ],
+ "questions": [
+  {
+   "q": "How old was she when she took her first tennis lesson?",
+   "options": [
+    "11",
+    "13",
+    "15"
+   ],
+   "answer": 1,
+   "why": "문장 1에서 'At age 13'이라고 언급됨."
+  },
+  {
+   "q": "What historic milestone did she achieve in 1950?",
+   "options": [
+    "First African American to compete in the US Open",
+    "First woman to win Wimbledon",
+    "First African American Olympic gold medalist"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 1950년 US 오픈 출전 최초 기록을 언급함."
+  },
+  {
+   "q": "How many total Grand Slam titles did she win?",
+   "options": [
+    "9",
+    "11",
+    "13"
+   ],
+   "answer": 1,
+   "why": "문장 4에서 '11 total Grand Slam titles'라고 명시됨."
+  },
+  {
+   "q": "What did the United States Postal Service do in 2013?",
+   "options": [
+    "Issued a stamp honoring her",
+    "Held a tennis exhibition",
+    "Opened a museum exhibit"
+   ],
+   "answer": 0,
+   "why": "문장 5에서 2013년 우표 발행을 언급함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Grand Slam",
+   "ko": "그랜드슬램(4대 메이저 테니스 대회)",
+   "note": "테니스의 4대 메이저 대회를 가리키는 표현."
+  },
+  {
+   "term": "Forever stamp",
+   "ko": "포에버 우표(영구 사용 가능한 우표)",
+   "note": "미국 우체국이 발행하는, 가치가 변하지 않는 우표 종류."
+  },
+  {
+   "term": "honor her legacy",
+   "ko": "그녀의 유산을 기리다",
+   "note": "업적을 기념한다는 뜻의 표현."
+  },
+  {
+   "term": "compete in",
+   "ko": "~에 출전하다",
+   "note": "대회 등에 참가한다는 뜻."
+  }
+ ]
+}

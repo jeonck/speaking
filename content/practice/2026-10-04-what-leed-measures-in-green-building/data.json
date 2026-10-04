@@ -1,0 +1,469 @@
+{
+ "video_id": "4XhAYJk2zAQ",
+ "source_title": "GSA Creating Great Workplaces for Great People",
+ "source_channel": "GSA",
+ "segment": {
+  "start": 87.03,
+  "end": 111.3
+ },
+ "sentences": [
+  {
+   "text": "LEED sets the standard in green building.",
+   "chunks": [
+    {
+     "en": "LEED sets the standard",
+     "ko": "LEED는 기준을 세운다"
+    },
+    {
+     "en": "in green building.",
+     "ko": "녹색 건축 분야에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "LEED",
+     "strong": true,
+     "link": false,
+     "syl": "leed"
+    },
+    {
+     "w": "sets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "standard",
+     "strong": true,
+     "link": true,
+     "syl": "stan"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "green",
+     "strong": true,
+     "link": false,
+     "syl": "green"
+    },
+    {
+     "w": "building.",
+     "strong": true,
+     "link": false,
+     "syl": "build"
+    }
+   ],
+   "tip": "",
+   "start": 87.03,
+   "end": 89.66
+  },
+  {
+   "text": "The LEED Criteria covers six distinct categories of sustainable construction.",
+   "chunks": [
+    {
+     "en": "The LEED Criteria covers six distinct categories",
+     "ko": "LEED 기준은 여섯 개의 뚜렷한 범주를 다룬다"
+    },
+    {
+     "en": "of sustainable construction.",
+     "ko": "지속 가능한 건설에 대한"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "LEED",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Criteria",
+     "strong": true,
+     "link": false,
+     "syl": "te"
+    },
+    {
+     "w": "covers",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "six",
+     "strong": true,
+     "link": false,
+     "syl": "six"
+    },
+    {
+     "w": "distinct",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "categories",
+     "strong": true,
+     "link": true,
+     "syl": "cat"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sustainable",
+     "strong": true,
+     "link": false,
+     "syl": "tain"
+    },
+    {
+     "w": "construction.",
+     "strong": true,
+     "link": false,
+     "syl": "struc"
+    }
+   ],
+   "tip": "",
+   "start": 89.66,
+   "end": 94.7
+  },
+  {
+   "text": "It takes into account a site that has excellent access to public transportation, making sure the building is as energy and water efficient as possible with minimal environmental impact, using as much recycled material as you can and producing as little waste as possible.",
+   "chunks": [
+    {
+     "en": "It takes into account",
+     "ko": "그것은 다음을 고려한다"
+    },
+    {
+     "en": "a site that has excellent access to public transportation,",
+     "ko": "대중교통 접근성이 뛰어난 부지인지"
+    },
+    {
+     "en": "making sure the building is as energy and water efficient as possible",
+     "ko": "건물이 최대한 에너지와 물을 효율적으로 쓰는지 확인하는 것"
+    },
+    {
+     "en": "with minimal environmental impact,",
+     "ko": "환경에 미치는 영향을 최소화하면서"
+    },
+    {
+     "en": "using as much recycled material as you can",
+     "ko": "최대한 재활용 자재를 쓰는 것"
+    },
+    {
+     "en": "and producing as little waste as possible.",
+     "ko": "그리고 폐기물을 최대한 적게 내는 것"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "takes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "account",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "site",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "excellent",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "access",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "public",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transportation,",
+     "strong": true,
+     "link": false,
+     "syl": "ta"
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "energy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "efficient",
+     "strong": true,
+     "link": false,
+     "syl": "fi"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possible",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minimal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "environmental",
+     "strong": true,
+     "link": false,
+     "syl": "men"
+    },
+    {
+     "w": "impact,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "using",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recycled",
+     "strong": true,
+     "link": false,
+     "syl": "cy"
+    },
+    {
+     "w": "material",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "producing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "waste",
+     "strong": true,
+     "link": false,
+     "syl": "waste"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possible.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "긴 문장이지만 energy, water, efficient, recycled, waste 같은 핵심 단어만 또렷하게 강조하세요.",
+   "start": 94.7,
+   "end": 111.3
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does LEED do, according to the segment?",
+   "options": [
+    "It sets the standard in green building",
+    "It builds affordable housing",
+    "It regulates public transportation"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 LEED sets the standard in green building라고 말한다."
+  },
+  {
+   "q": "How many distinct categories does the LEED Criteria cover?",
+   "options": [
+    "Six",
+    "Three",
+    "Ten"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 covers six distinct categories라고 말한다."
+  },
+  {
+   "q": "Which of the following is NOT mentioned as part of what LEED takes into account?",
+   "options": [
+    "Access to public transportation",
+    "Energy and water efficiency",
+    "The price of land"
+   ],
+   "answer": 2,
+   "why": "부지 접근성과 에너지·물 효율성은 언급되지만 땅값은 언급되지 않는다."
+  },
+  {
+   "q": "What does the segment say about waste?",
+   "options": [
+    "Producing as little waste as possible is a goal",
+    "Waste should be burned on site",
+    "Waste is not a concern for LEED"
+   ],
+   "answer": 0,
+   "why": "마지막 부분에서 producing as little waste as possible이라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sets the standard",
+   "ko": "기준을 세우다",
+   "note": "어떤 분야에서 모범이 된다는 뜻입니다."
+  },
+  {
+   "term": "sustainable construction",
+   "ko": "지속 가능한 건설",
+   "note": "환경을 해치지 않는 건축 방식을 말합니다."
+  },
+  {
+   "term": "energy and water efficient",
+   "ko": "에너지와 물을 효율적으로 쓰는",
+   "note": "자원을 아껴 쓴다는 의미입니다."
+  },
+  {
+   "term": "minimal environmental impact",
+   "ko": "환경에 미치는 영향을 최소화",
+   "note": "환경 피해를 줄인다는 뜻입니다."
+  },
+  {
+   "term": "recycled material",
+   "ko": "재활용 자재",
+   "note": "다시 쓸 수 있게 처리한 재료입니다."
+  }
+ ]
+}

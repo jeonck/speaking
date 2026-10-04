@@ -1,0 +1,492 @@
+{
+ "video_id": "-21tV-IYufw",
+ "source_title": "Burning of the Capitol During the War of 1812",
+ "source_channel": "Architect of the Capitol",
+ "segment": {
+  "start": 16.45,
+  "end": 38.97
+ },
+ "sentences": [
+  {
+   "text": "Word of their impending arrival reached Washington, and most of the city's population fled, leaving the area vulnerable.",
+   "chunks": [
+    {
+     "en": "Word of their impending arrival",
+     "ko": "그들의 임박한 도착 소식이"
+    },
+    {
+     "en": "reached Washington,",
+     "ko": "워싱턴에 전해졌고,"
+    },
+    {
+     "en": "and most of the city's population fled,",
+     "ko": "그리고 도시 인구 대부분이 도망쳤다,"
+    },
+    {
+     "en": "leaving the area vulnerable.",
+     "ko": "그 지역을 취약한 상태로 남겨두었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Word",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "impending",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "arrival",
+     "strong": true,
+     "link": false,
+     "syl": "riv"
+    },
+    {
+     "w": "reached",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Washington,",
+     "strong": true,
+     "link": false,
+     "syl": "Wash"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "population",
+     "strong": true,
+     "link": false,
+     "syl": "la"
+    },
+    {
+     "w": "fled,",
+     "strong": true,
+     "link": false,
+     "syl": "fled"
+    },
+    {
+     "w": "leaving",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "area",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vulnerable.",
+     "strong": true,
+     "link": false,
+     "syl": "vul"
+    }
+   ],
+   "tip": "Word of와 most of는 끝자음을 다음 모음에 이어 '워러브', '모스터브'처럼 읽어요.",
+   "start": 16.45,
+   "end": 23.55
+  },
+  {
+   "text": "Those who remained were witness to a horrifying spectacle.",
+   "chunks": [
+    {
+     "en": "Those who remained",
+     "ko": "남아있던 사람들은"
+    },
+    {
+     "en": "were witness to a horrifying spectacle.",
+     "ko": "끔찍한 광경을 목격했다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remained",
+     "strong": true,
+     "link": false,
+     "syl": "mained"
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "witness",
+     "strong": true,
+     "link": false,
+     "syl": "wit"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "horrifying",
+     "strong": true,
+     "link": false,
+     "syl": "hor"
+    },
+    {
+     "w": "spectacle.",
+     "strong": true,
+     "link": false,
+     "syl": "spec"
+    }
+   ],
+   "tip": "witness to a는 '투어'처럼 가볍게 이어 읽어요.",
+   "start": 23.55,
+   "end": 27.21
+  },
+  {
+   "text": "The British troops set fire to nearly every public building in the city, including the United States Capitol, which was still being constructed.",
+   "chunks": [
+    {
+     "en": "The British troops set fire",
+     "ko": "영국군은 불을 질렀다"
+    },
+    {
+     "en": "to nearly every public building in the city,",
+     "ko": "도시 안의 거의 모든 공공 건물에,"
+    },
+    {
+     "en": "including the United States Capitol,",
+     "ko": "미국 국회의사당을 포함해서,"
+    },
+    {
+     "en": "which was still being constructed.",
+     "ko": "그것은 아직 건설 중이었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "British",
+     "strong": true,
+     "link": false,
+     "syl": "Brit"
+    },
+    {
+     "w": "troops",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "set",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fire",
+     "strong": true,
+     "link": false,
+     "syl": "fire"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearly",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "public",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building",
+     "strong": true,
+     "link": true,
+     "syl": "build"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "including",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "United",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "States",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Capitol,",
+     "strong": true,
+     "link": false,
+     "syl": "cap"
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "constructed.",
+     "strong": true,
+     "link": false,
+     "syl": "struct"
+    }
+   ],
+   "tip": "building in처럼 g를 다음 모음에 이어 읽고, 강세는 BRITish와 conSTRUCTed에 둬요.",
+   "start": 27.21,
+   "end": 34.88
+  },
+  {
+   "text": "It consisted of North and South wings, connected by a wooden walkway.",
+   "chunks": [
+    {
+     "en": "It consisted of North and South wings,",
+     "ko": "그것은 북쪽과 남쪽 동으로 구성되었다,"
+    },
+    {
+     "en": "connected by a wooden walkway.",
+     "ko": "나무로 된 통로로 연결되어 있었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "consisted",
+     "strong": true,
+     "link": true,
+     "syl": "sist"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "North",
+     "strong": true,
+     "link": false,
+     "syl": "North"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "South",
+     "strong": true,
+     "link": false,
+     "syl": "South"
+    },
+    {
+     "w": "wings,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "connected",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wooden",
+     "strong": true,
+     "link": false,
+     "syl": "wood"
+    },
+    {
+     "w": "walkway.",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    }
+   ],
+   "tip": "consisted of와 by a는 자음을 다음 모음에 가볍게 이어 읽어요.",
+   "start": 34.88,
+   "end": 38.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happened to most of Washington's population before the British arrived?",
+   "options": [
+    "They stayed to fight",
+    "They fled the city",
+    "They hid in the Capitol"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: most of the city's population fled."
+  },
+  {
+   "q": "What did the British troops do to public buildings in the city?",
+   "options": [
+    "They repaired them",
+    "They set fire to them",
+    "They sold them"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: set fire to nearly every public building."
+  },
+  {
+   "q": "What was true about the Capitol at the time of the attack?",
+   "options": [
+    "It was already finished",
+    "It was still being constructed",
+    "It had just been demolished"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: which was still being constructed."
+  },
+  {
+   "q": "How were the Capitol's two wings connected?",
+   "options": [
+    "By an underground tunnel",
+    "By a wooden walkway",
+    "By a stone bridge"
+   ],
+   "answer": 1,
+   "why": "4번째 문장: connected by a wooden walkway."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "impending",
+   "ko": "임박한",
+   "note": "곧 일어날 일, 주로 나쁜 일 앞에 써요."
+  },
+  {
+   "term": "set fire to",
+   "ko": "~에 불을 지르다",
+   "note": "set fire to + 대상 형태로 자주 써요."
+  },
+  {
+   "term": "witness to",
+   "ko": "~을 목격하다",
+   "note": "be witness to = ~을 목격하다, see보다 격식 있어요."
+  },
+  {
+   "term": "vulnerable",
+   "ko": "취약한, 공격받기 쉬운",
+   "note": "leave something vulnerable = 무언가를 취약하게 만들다."
+  }
+ ]
+}

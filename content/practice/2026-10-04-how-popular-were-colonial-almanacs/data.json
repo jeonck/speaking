@@ -1,0 +1,466 @@
+{
+ "video_id": "S4-lSOQV9p0",
+ "source_title": "Early American Almanacs",
+ "source_channel": "Library of Congress",
+ "segment": {
+  "start": 113.69,
+  "end": 139.11
+ },
+ "sentences": [
+  {
+   "text": "In short order, almanac sales in colonial America reached the hundreds of thousands, more than the sales of all other types of books combined.",
+   "chunks": [
+    {
+     "en": "In short order,",
+     "ko": "순식간에,"
+    },
+    {
+     "en": "almanac sales in colonial America reached the hundreds of thousands,",
+     "ko": "식민지 시대 미국에서 연감 판매량은 수십만 부에 달했는데,"
+    },
+    {
+     "en": "more than the sales of all other types of books combined.",
+     "ko": "다른 모든 종류의 책 판매량을 합친 것보다 많았다."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "short",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "order,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almanac",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "sales",
+     "strong": true,
+     "link": true,
+     "syl": "sales"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colonial",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "America",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reached",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hundreds",
+     "strong": true,
+     "link": true,
+     "syl": "hun"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thousands,",
+     "strong": true,
+     "link": false,
+     "syl": "thou"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sales",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "types",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "books",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "combined.",
+     "strong": true,
+     "link": false,
+     "syl": "bined"
+    }
+   ],
+   "tip": "short order, sales in, hundreds of처럼 끝자음을 다음 모음에 이어 읽어요.",
+   "start": 113.69,
+   "end": 122.97
+  },
+  {
+   "text": "While an almanac writer could add some local color or regionally specific information, the form and content of almanacs were more or less standardized.",
+   "chunks": [
+    {
+     "en": "While an almanac writer could add some local color",
+     "ko": "연감 작가가 약간의 지역색을 더할 수는 있었지만"
+    },
+    {
+     "en": "or regionally specific information,",
+     "ko": "혹은 지역별 특수 정보를,"
+    },
+    {
+     "en": "the form and content of almanacs",
+     "ko": "연감의 형식과 내용은"
+    },
+    {
+     "en": "were more or less standardized.",
+     "ko": "거의 표준화되어 있었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "While",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "almanac",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "writer",
+     "strong": true,
+     "link": false,
+     "syl": "writ"
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "add",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": true,
+     "link": false,
+     "syl": "lo"
+    },
+    {
+     "w": "color",
+     "strong": true,
+     "link": false,
+     "syl": "col"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "regionally",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "specific",
+     "strong": true,
+     "link": true,
+     "syl": "cif"
+    },
+    {
+     "w": "information,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "form",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "content",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "almanacs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "less",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "standardized.",
+     "strong": true,
+     "link": false,
+     "syl": "stan"
+    }
+   ],
+   "tip": "an almanac, specific information, content of처럼 자음을 모음에 이어 읽어요.",
+   "start": 122.97,
+   "end": 133.07
+  },
+  {
+   "text": "An almanac's weather predictions helped farmers plan the planting and harvesting of their crops.",
+   "chunks": [
+    {
+     "en": "An almanac's weather predictions helped farmers",
+     "ko": "연감의 날씨 예측은 농부들을 도왔다"
+    },
+    {
+     "en": "plan the planting and harvesting of their crops.",
+     "ko": "농작물의 파종과 수확을 계획하도록."
+    }
+   ],
+   "words": [
+    {
+     "w": "An",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almanac's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weather",
+     "strong": true,
+     "link": false,
+     "syl": "weath"
+    },
+    {
+     "w": "predictions",
+     "strong": true,
+     "link": false,
+     "syl": "dic"
+    },
+    {
+     "w": "helped",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "farmers",
+     "strong": true,
+     "link": false,
+     "syl": "farm"
+    },
+    {
+     "w": "plan",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "planting",
+     "strong": true,
+     "link": true,
+     "syl": "plant"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "harvesting",
+     "strong": true,
+     "link": true,
+     "syl": "har"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crops.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "planting and, harvesting of처럼 끝자음을 다음 모음에 이어 읽어요.",
+   "start": 133.07,
+   "end": 139.11
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did colonial almanac sales compare to other books?",
+   "options": [
+    "They were lower than most books",
+    "They were about the same as novels",
+    "They were higher than all other types of books combined"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: more than the sales of all other types of books combined."
+  },
+  {
+   "q": "What could an almanac writer add to a local edition?",
+   "options": [
+    "Local color or regionally specific information",
+    "A completely different calendar system",
+    "Advertisements for other books"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: could add some local color or regionally specific information."
+  },
+  {
+   "q": "Overall, how standardized was the form and content of almanacs?",
+   "options": [
+    "Completely random from year to year",
+    "More or less standardized",
+    "Identical in every region"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: were more or less standardized."
+  },
+  {
+   "q": "What did an almanac's weather predictions help farmers do?",
+   "options": [
+    "Choose which crops were most profitable",
+    "Plan the planting and harvesting of their crops",
+    "Decide where to build their farms"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: helped farmers plan the planting and harvesting of their crops."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "in short order",
+   "ko": "순식간에, 곧",
+   "note": "일이 빠르게 일어났음을 나타내는 표현이에요."
+  },
+  {
+   "term": "local color",
+   "ko": "지역색, 지역 특색",
+   "note": "글이나 이야기에 담긴 그 지역만의 분위기를 뜻해요."
+  },
+  {
+   "term": "more or less",
+   "ko": "거의, 대체로",
+   "note": "완전히는 아니지만 거의 그렇다는 뜻이에요."
+  },
+  {
+   "term": "planting and harvesting",
+   "ko": "파종과 수확",
+   "note": "농사의 두 단계를 가리켜요."
+  }
+ ]
+}

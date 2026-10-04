@@ -1,0 +1,408 @@
+{
+ "video_id": "URojjqtH2CA",
+ "source_title": "Modernizing the Cannon House Office Building",
+ "source_channel": "Architect of the Capitol",
+ "segment": {
+  "start": 70.32,
+  "end": 95.99
+ },
+ "sentences": [
+  {
+   "text": "Rebuilding entailed demolishing the walls and roof of the existing attic level, then rebuilding an entirely new fifth floor complete with higher ceilings, energy efficient windows, new roof, and preserved original corridor floors.",
+   "chunks": [
+    {
+     "en": "Rebuilding entailed demolishing the walls and roof of the existing attic level,",
+     "ko": "재건축은 기존 다락층의 벽과 지붕을 철거하는 작업을 포함했고,"
+    },
+    {
+     "en": "then rebuilding an entirely new fifth floor",
+     "ko": "그런 다음 완전히 새로운 5층을 다시 짓는 것이었다"
+    },
+    {
+     "en": "complete with higher ceilings, energy efficient windows,",
+     "ko": "더 높은 천장과 에너지 효율 창문을 갖추고,"
+    },
+    {
+     "en": "new roof, and preserved original corridor floors.",
+     "ko": "새 지붕과 원래의 복도 바닥을 보존한 채로."
+    }
+   ],
+   "words": [
+    {
+     "w": "Rebuilding",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "entailed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "demolishing",
+     "strong": true,
+     "link": false,
+     "syl": "MOL"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walls",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roof",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "existing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "attic",
+     "strong": true,
+     "link": false,
+     "syl": "AT"
+    },
+    {
+     "w": "level,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rebuilding",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "entirely",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fifth",
+     "strong": true,
+     "link": false,
+     "syl": "FIFTH"
+    },
+    {
+     "w": "floor",
+     "strong": true,
+     "link": false,
+     "syl": "FLOOR"
+    },
+    {
+     "w": "complete",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "higher",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ceilings,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "energy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "efficient",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "windows,",
+     "strong": true,
+     "link": false,
+     "syl": "WIN"
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roof,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "preserved",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "original",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "corridor",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "floors.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "demolishing, attic, fifth floor, windows에 강세를 두고 숨을 끊어 구간별로 읽어요.",
+   "start": 70.32,
+   "end": 85.96
+  },
+  {
+   "text": "Project plans also include a usable courtyard, as all the mechanical equipment located within since the 1950s have been rebuilt and relocated.",
+   "chunks": [
+    {
+     "en": "Project plans also include a usable courtyard,",
+     "ko": "프로젝트 계획에는 사용 가능한 안뜰도 포함되는데,"
+    },
+    {
+     "en": "as all the mechanical equipment located within since the 1950s",
+     "ko": "1950년대부터 내부에 있던 모든 기계 설비가"
+    },
+    {
+     "en": "have been rebuilt and relocated.",
+     "ko": "재건축되어 이전되었기 때문이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Project",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plans",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "include",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usable",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "courtyard,",
+     "strong": true,
+     "link": false,
+     "syl": "COURT"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mechanical",
+     "strong": true,
+     "link": false,
+     "syl": "CHAN"
+    },
+    {
+     "w": "equipment",
+     "strong": true,
+     "link": false,
+     "syl": "QUIP"
+    },
+    {
+     "w": "located",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "within",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1950s",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rebuilt",
+     "strong": true,
+     "link": false,
+     "syl": "BUILT"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relocated.",
+     "strong": true,
+     "link": false,
+     "syl": "CAT"
+    }
+   ],
+   "tip": "courtyard, mechanical equipment, rebuilt, relocated에 강세를 둬요.",
+   "start": 85.96,
+   "end": 95.99
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happened to the existing attic level during rebuilding?",
+   "options": [
+    "It was demolished and replaced with a new fifth floor",
+    "It was left untouched",
+    "It was converted into a parking garage"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 다락층 철거와 5층 재건축을 설명함."
+  },
+  {
+   "q": "What was preserved during the renovation?",
+   "options": [
+    "Original corridor floors",
+    "The old roof",
+    "The old windows"
+   ],
+   "answer": 0,
+   "why": "문장 1 마지막 부분에서 언급됨."
+  },
+  {
+   "q": "Why is a usable courtyard now possible?",
+   "options": [
+    "Old mechanical equipment was rebuilt and relocated",
+    "A new wing was added",
+    "The courtyard was always empty"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 설명됨."
+  },
+  {
+   "q": "Since when had the mechanical equipment been located within the building?",
+   "options": [
+    "The 1950s",
+    "The 1920s",
+    "The 1980s"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 '1950s'라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "entailed",
+   "ko": "~을 수반했다",
+   "note": "어떤 작업이 필연적으로 포함함을 뜻함."
+  },
+  {
+   "term": "energy efficient",
+   "ko": "에너지 효율적인",
+   "note": "에너지를 절약하는 특성을 설명."
+  },
+  {
+   "term": "usable courtyard",
+   "ko": "사용 가능한 안뜰",
+   "note": "실제로 활용할 수 있는 마당 공간."
+  },
+  {
+   "term": "relocated",
+   "ko": "이전된",
+   "note": "장소를 옮겼다는 뜻."
+  }
+ ]
+}

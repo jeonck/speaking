@@ -1,0 +1,499 @@
+{
+ "video_id": "G2kPv7vBsII",
+ "source_title": "Sally Ride Snapchat",
+ "source_channel": "USAGov",
+ "segment": {
+  "start": 11.45,
+  "end": 36.99
+ },
+ "sentences": [
+  {
+   "text": "March is Women's History Month.",
+   "chunks": [
+    {
+     "en": "March is",
+     "ko": "3월은"
+    },
+    {
+     "en": "Women's History Month.",
+     "ko": "여성 역사의 달이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "March",
+     "strong": true,
+     "link": true,
+     "syl": "MARCH"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Women's",
+     "strong": true,
+     "link": false,
+     "syl": "WOM"
+    },
+    {
+     "w": "History",
+     "strong": true,
+     "link": false,
+     "syl": "HIS"
+    },
+    {
+     "w": "Month.",
+     "strong": true,
+     "link": false,
+     "syl": "MONTH"
+    }
+   ],
+   "tip": "Women's의 's는 약하게, History 첫음절에 강세를 두세요.",
+   "start": 11.45,
+   "end": 13.48
+  },
+  {
+   "text": "Let's take a look at one of America's greatest female trailblazers.",
+   "chunks": [
+    {
+     "en": "Let's take a look at",
+     "ko": "한 번 살펴보자"
+    },
+    {
+     "en": "one of America's greatest female trailblazers.",
+     "ko": "미국의 가장 위대한 여성 개척자 중 한 명을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": true,
+     "link": true,
+     "syl": "LOOK"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "America's",
+     "strong": true,
+     "link": false,
+     "syl": "MER"
+    },
+    {
+     "w": "greatest",
+     "strong": true,
+     "link": false,
+     "syl": "GREAT"
+    },
+    {
+     "w": "female",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trailblazers.",
+     "strong": true,
+     "link": false,
+     "syl": "TRAIL"
+    }
+   ],
+   "tip": "look at은 끊지 않고 이어서 발음하세요.",
+   "start": 13.48,
+   "end": 18.61
+  },
+  {
+   "text": "Today we look at Dr. Sally Ride, the first American woman to go to space.",
+   "chunks": [
+    {
+     "en": "Today we look at",
+     "ko": "오늘 우리는 살펴본다"
+    },
+    {
+     "en": "Dr. Sally Ride,",
+     "ko": "샐리 라이드 박사를"
+    },
+    {
+     "en": "the first American woman",
+     "ko": "최초의 미국인 여성인"
+    },
+    {
+     "en": "to go to space.",
+     "ko": "우주에 간"
+    }
+   ],
+   "words": [
+    {
+     "w": "Today",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Dr.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sally",
+     "strong": true,
+     "link": false,
+     "syl": "SAL"
+    },
+    {
+     "w": "Ride,",
+     "strong": true,
+     "link": false,
+     "syl": "RIDE"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "FIRST"
+    },
+    {
+     "w": "American",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "woman",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "space.",
+     "strong": true,
+     "link": false,
+     "syl": "SPACE"
+    }
+   ],
+   "tip": "Sally Ride처럼 이름은 두 단어 모두 강하게 발음합니다.",
+   "start": 18.61,
+   "end": 24.18
+  },
+  {
+   "text": "In 1977, she applied to the astronaut program.",
+   "chunks": [
+    {
+     "en": "In 1977,",
+     "ko": "1977년에"
+    },
+    {
+     "en": "she applied",
+     "ko": "그녀는 지원했다"
+    },
+    {
+     "en": "to the astronaut program.",
+     "ko": "우주비행사 프로그램에"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1977,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "applied",
+     "strong": true,
+     "link": false,
+     "syl": "PLIED"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "astronaut",
+     "strong": true,
+     "link": false,
+     "syl": "AS"
+    },
+    {
+     "w": "program.",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    }
+   ],
+   "tip": "1977은 nineteen seventy-seven으로 읽고 마지막 seven에 힘을 줍니다.",
+   "start": 24.18,
+   "end": 28.05
+  },
+  {
+   "text": "8,000 men and women applied, 35 were accepted, six were women.",
+   "chunks": [
+    {
+     "en": "8,000 men and women applied,",
+     "ko": "8,000명의 남녀가 지원했고"
+    },
+    {
+     "en": "35 were accepted,",
+     "ko": "35명이 선발되었으며"
+    },
+    {
+     "en": "six were women.",
+     "ko": "그중 여섯 명이 여성이었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "8,000",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "men",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "women",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "applied,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "35",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "accepted,",
+     "strong": true,
+     "link": false,
+     "syl": "CEP"
+    },
+    {
+     "w": "six",
+     "strong": true,
+     "link": false,
+     "syl": "SIX"
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "women.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "숫자 8,000과 35를 대비해서 강조하세요.",
+   "start": 28.05,
+   "end": 34.46
+  },
+  {
+   "text": "One of them was Sally Ride.",
+   "chunks": [
+    {
+     "en": "One of them",
+     "ko": "그들 중 한 명이"
+    },
+    {
+     "en": "was Sally Ride.",
+     "ko": "샐리 라이드였다"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": true,
+     "link": true,
+     "syl": "ONE"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sally",
+     "strong": true,
+     "link": false,
+     "syl": "SAL"
+    },
+    {
+     "w": "Ride.",
+     "strong": true,
+     "link": false,
+     "syl": "RIDE"
+    }
+   ],
+   "tip": "One of them에서 one을 강조해 대비를 살리세요.",
+   "start": 34.46,
+   "end": 36.99
+  }
+ ],
+ "questions": [
+  {
+   "q": "What month is highlighted as Women's History Month in the segment?",
+   "options": [
+    "March",
+    "May",
+    "July"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 \"March is Women's History Month.\"라고 밝힌다."
+  },
+  {
+   "q": "What achievement made Sally Ride historic?",
+   "options": [
+    "She was the first American woman to go to space.",
+    "She was the first woman mayor.",
+    "She invented a spacecraft."
+   ],
+   "answer": 0,
+   "why": "\"the first American woman to go to space\"라는 문장에서 확인된다."
+  },
+  {
+   "q": "In what year did Sally Ride apply to the astronaut program?",
+   "options": [
+    "1975",
+    "1977",
+    "1980"
+   ],
+   "answer": 1,
+   "why": "\"In 1977, she applied to the astronaut program.\"에서 알 수 있다."
+  },
+  {
+   "q": "How many of the accepted astronauts were women?",
+   "options": [
+    "Three",
+    "Six",
+    "Eight"
+   ],
+   "answer": 1,
+   "why": "\"35 were accepted, six were women.\"이라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "trailblazer",
+   "ko": "선구자",
+   "note": "앞서 길을 개척한 사람을 뜻함"
+  },
+  {
+   "term": "astronaut program",
+   "ko": "우주비행사 선발 프로그램",
+   "note": "나사의 우주인 선발 과정을 가리킴"
+  },
+  {
+   "term": "accepted",
+   "ko": "선발된, 합격한",
+   "note": "지원자 중 뽑혔다는 뜻"
+  },
+  {
+   "term": "apply to",
+   "ko": "~에 지원하다",
+   "note": "apply to the program처럼 기관/프로그램에 지원할 때 씀"
+  }
+ ]
+}

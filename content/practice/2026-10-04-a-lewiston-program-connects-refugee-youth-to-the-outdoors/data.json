@@ -1,0 +1,559 @@
+{
+ "video_id": "eXVz4tXUeJ4",
+ "source_title": "Androscoggin Land Trust, Tree Street Youth Center, & NPS",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 55.85,
+  "end": 82.65
+ },
+ "sentences": [
+  {
+   "text": "We're a new non-profit organization located in downtown Lewiston.",
+   "chunks": [
+    {
+     "en": "We're a new non-profit organization",
+     "ko": "우리는 새로운 비영리 단체이며"
+    },
+    {
+     "en": "located in downtown Lewiston.",
+     "ko": "루이스턴 시내에 위치해 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "non-profit",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "organization",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "located",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "downtown",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Lewiston.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "non-profit은 non에 먼저 강세를 주고 빠르게 이어 말한다.",
+   "start": 55.85,
+   "end": 59.643846153846155
+  },
+  {
+   "text": "During the summer time we serve upward of 200 students.",
+   "chunks": [
+    {
+     "en": "During the summer time",
+     "ko": "여름철 동안"
+    },
+    {
+     "en": "we serve upward of 200 students.",
+     "ko": "우리는 200명이 넘는 학생들을 돕는다."
+    }
+   ],
+   "words": [
+    {
+     "w": "During",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "summer",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "serve",
+     "strong": true,
+     "link": false,
+     "syl": "SERVE"
+    },
+    {
+     "w": "upward",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "200",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "upward of는 '어프워러브'처럼 자연스럽게 흘러간다.",
+   "start": 59.643846153846155,
+   "end": 63.692499999999995
+  },
+  {
+   "text": "The majority of our students are immigrant and refugee youth from Somalia.",
+   "chunks": [
+    {
+     "en": "The majority of our students",
+     "ko": "우리 학생들의 대다수는"
+    },
+    {
+     "en": "are immigrant and refugee youth",
+     "ko": "이민자와 난민 청소년이다"
+    },
+    {
+     "en": "from Somalia.",
+     "ko": "소말리아 출신인."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "majority",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "immigrant",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "refugee",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "youth",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Somalia.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "majority of는 끝소리 y가 다음 모음 of로 자연스럽게 이어진다.",
+   "start": 63.692499999999995,
+   "end": 68.30199999999999
+  },
+  {
+   "text": "They have come here to escape different turmoils and war and things going on in their country.",
+   "chunks": [
+    {
+     "en": "They have come here",
+     "ko": "그들은 이곳에 왔다"
+    },
+    {
+     "en": "to escape different turmoils and war",
+     "ko": "여러 혼란과 전쟁을 피해"
+    },
+    {
+     "en": "and things going on in their country.",
+     "ko": "그리고 그들 나라에서 벌어지는 일들을 피해 왔다."
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "escape",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turmoils",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "war",
+     "strong": true,
+     "link": false,
+     "syl": "WAR"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "country.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "going on은 '고우잉온'처럼 자연스럽게 이어 말한다.",
+   "start": 68.30199999999999,
+   "end": 73.91235294117648
+  },
+  {
+   "text": "Most of the kids, their experience with the outdoors is in Lewiston, so it's very limited in their perception of what real woods is.",
+   "chunks": [
+    {
+     "en": "Most of the kids, their experience with the outdoors",
+     "ko": "대부분 아이들의 자연에서의 경험은"
+    },
+    {
+     "en": "is in Lewiston,",
+     "ko": "루이스턴에 국한되어 있어서,"
+    },
+    {
+     "en": "so it's very limited",
+     "ko": "매우 제한적이다"
+    },
+    {
+     "en": "in their perception of what real woods is.",
+     "ko": "진짜 숲이 무엇인지에 대한 그들의 인식에 있어서."
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kids,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experience",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "outdoors",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lewiston,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "limited",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "perception",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "real",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "woods",
+     "strong": true,
+     "link": false,
+     "syl": "WOODS"
+    },
+    {
+     "w": "is.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "outdoors is는 's'가 다음 모음과 이어져 '아웃도어즈이즈'처럼 들린다.",
+   "start": 73.91235294117648,
+   "end": 82.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the non-profit organization located?",
+   "options": [
+    "Downtown Lewiston",
+    "A rural farm town",
+    "A coastal fishing village"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 downtown Lewiston에 위치해 있다고 말한다."
+  },
+  {
+   "q": "About how many students does the organization serve in the summer?",
+   "options": [
+    "Upward of 200 students",
+    "Around 20 students",
+    "Over 2,000 students"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 upward of 200 students를 돕는다고 말한다."
+  },
+  {
+   "q": "Where are most of the students' families originally from?",
+   "options": [
+    "Somalia",
+    "Mexico",
+    "Vietnam"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 immigrant and refugee youth from Somalia라고 설명한다."
+  },
+  {
+   "q": "Why does the speaker say many students came to this country?",
+   "options": [
+    "To escape turmoil and war",
+    "To attend a sports camp",
+    "To visit relatives"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 turmoils와 war를 피해 왔다고 말한다."
+  },
+  {
+   "q": "How does the speaker describe the students' experience with the outdoors?",
+   "options": [
+    "Very limited",
+    "Very extensive",
+    "Not mentioned"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 숲에 대한 인식이 very limited라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "non-profit organization",
+   "ko": "비영리 단체",
+   "note": "이윤을 목적으로 하지 않는 단체를 가리킨다."
+  },
+  {
+   "term": "upward of",
+   "ko": "~이 넘는",
+   "note": "어떤 수보다 많다는 뜻으로 숫자 앞에 쓴다."
+  },
+  {
+   "term": "immigrant and refugee youth",
+   "ko": "이민자 및 난민 청소년",
+   "note": "다른 나라에서 온 어린 학생들을 가리키는 표현."
+  },
+  {
+   "term": "turmoil",
+   "ko": "혼란, 격변",
+   "note": "사회적 혼란이나 분쟁 상황을 가리키는 단어."
+  },
+  {
+   "term": "perception",
+   "ko": "인식",
+   "note": "어떤 것을 이해하거나 받아들이는 방식을 뜻한다."
+  }
+ ]
+}

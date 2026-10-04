@@ -1,0 +1,608 @@
+{
+ "video_id": "11Rr7W4rRuk",
+ "source_title": "#SmartCityPitch: San Francisco",
+ "source_channel": "US Department of Transportation",
+ "segment": {
+  "start": 54.84,
+  "end": 79.62
+ },
+ "sentences": [
+  {
+   "text": "We're focusing on smaller parts across the region, the city, and particular neighborhoods, from an integrated mobility app that can allow you to route, book, and pay, to collision avoidance technology on our largest vehicles.",
+   "chunks": [
+    {
+     "en": "We're focusing on smaller parts across the region, the city, and particular neighborhoods,",
+     "ko": "우리는 지역, 도시, 그리고 특정 동네 등 더 작은 단위에 집중하고 있다"
+    },
+    {
+     "en": "from an integrated mobility app that can allow you to route, book, and pay,",
+     "ko": "경로 설정, 예약, 결제가 가능한 통합 모빌리티 앱부터"
+    },
+    {
+     "en": "to collision avoidance technology on our largest vehicles.",
+     "ko": "가장 큰 차량에 적용되는 충돌 방지 기술까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "focusing",
+     "strong": true,
+     "link": false,
+     "syl": "fo"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smaller",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "across",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "region,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "particular",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhoods,",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "integrated",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mobility",
+     "strong": true,
+     "link": false,
+     "syl": "bil"
+    },
+    {
+     "w": "app",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "allow",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "route,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "book,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pay,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "collision",
+     "strong": true,
+     "link": false,
+     "syl": "li"
+    },
+    {
+     "w": "avoidance",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "technology",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "largest",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vehicles.",
+     "strong": true,
+     "link": false,
+     "syl": "ve"
+    }
+   ],
+   "tip": "",
+   "start": 54.84,
+   "end": 65.52
+  },
+  {
+   "text": "Free Wi-Fi in the neighborhoods, improving bike sharing, car sharing, and electric vehicle charging access in the neighborhoods.",
+   "chunks": [
+    {
+     "en": "Free Wi-Fi in the neighborhoods,",
+     "ko": "동네에 무료 와이파이,"
+    },
+    {
+     "en": "improving bike sharing, car sharing,",
+     "ko": "자전거 공유와 자동차 공유 개선,"
+    },
+    {
+     "en": "and electric vehicle charging access in the neighborhoods.",
+     "ko": "그리고 동네 내 전기차 충전 접근성까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "Free",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Wi-Fi",
+     "strong": true,
+     "link": false,
+     "syl": "wi"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhoods,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "improving",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bike",
+     "strong": true,
+     "link": false,
+     "syl": "bike"
+    },
+    {
+     "w": "sharing,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car",
+     "strong": true,
+     "link": false,
+     "syl": "car"
+    },
+    {
+     "w": "sharing,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "electric",
+     "strong": true,
+     "link": false,
+     "syl": "lec"
+    },
+    {
+     "w": "vehicle",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "charging",
+     "strong": true,
+     "link": false,
+     "syl": "charg"
+    },
+    {
+     "w": "access",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhoods.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 65.52,
+   "end": 70.805
+  },
+  {
+   "text": "Having a street with five lanes of traffic is actually not helpful to anybody.",
+   "chunks": [
+    {
+     "en": "Having a street with five lanes of traffic",
+     "ko": "차선이 다섯 개인 도로는"
+    },
+    {
+     "en": "is actually not helpful to anybody.",
+     "ko": "사실 누구에게도 도움이 되지 않는다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Having",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "street",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": true,
+     "link": false,
+     "syl": "five"
+    },
+    {
+     "w": "lanes",
+     "strong": true,
+     "link": false,
+     "syl": "lanes"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traffic",
+     "strong": true,
+     "link": false,
+     "syl": "traf"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helpful",
+     "strong": true,
+     "link": false,
+     "syl": "help"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "anybody.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 70.805,
+   "end": 74.49
+  },
+  {
+   "text": "We're trying to bring balance to our streets for people who are walking, cycling, and taking transit and sharing.",
+   "chunks": [
+    {
+     "en": "We're trying to bring balance to our streets",
+     "ko": "우리는 도로에 균형을 가져오려 하고 있다"
+    },
+    {
+     "en": "for people who are walking, cycling,",
+     "ko": "걷거나 자전거를 타는 사람들을 위해"
+    },
+    {
+     "en": "and taking transit and sharing.",
+     "ko": "그리고 대중교통을 이용하거나 함께 타는 사람들을 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "balance",
+     "strong": true,
+     "link": false,
+     "syl": "bal"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "streets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walking,",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "cycling,",
+     "strong": true,
+     "link": false,
+     "syl": "cy"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transit",
+     "strong": true,
+     "link": false,
+     "syl": "tran"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sharing.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "walking, cycling, taking transit처럼 나열된 동사구는 리듬을 살려 하나씩 끊어 읽어보세요.",
+   "start": 74.49,
+   "end": 79.62
+  }
+ ],
+ "questions": [
+  {
+   "q": "What can the integrated mobility app mentioned in the segment do?",
+   "options": [
+    "Let users route, book, and pay for trips",
+    "Only show traffic cameras",
+    "Only play music"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 경로 설정, 예약, 결제가 가능한 앱이라고 말한다."
+  },
+  {
+   "q": "What technology is mentioned for the largest vehicles?",
+   "options": [
+    "Collision avoidance technology",
+    "Self-driving software",
+    "Solar charging panels"
+   ],
+   "answer": 0,
+   "why": "첫 문장 끝에서 가장 큰 차량에 적용되는 충돌 방지 기술이라고 말한다."
+  },
+  {
+   "q": "According to the speaker, what is the problem with a street that has five lanes of traffic?",
+   "options": [
+    "It is not actually helpful to anybody",
+    "It is too expensive to maintain",
+    "It attracts too many pedestrians"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 다섯 개 차선 도로는 사실 누구에게도 도움이 안 된다고 말한다."
+  },
+  {
+   "q": "Who does the speaker say the streets should bring balance for?",
+   "options": [
+    "People walking, cycling, and taking transit",
+    "Only delivery trucks",
+    "Only tourists"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 걷거나 자전거를 타거나 대중교통을 이용하는 사람들을 위해 균형을 가져오려 한다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "integrated mobility app",
+   "ko": "통합 모빌리티 앱",
+   "note": "여러 교통수단을 한 앱에서 관리한다는 뜻입니다."
+  },
+  {
+   "term": "collision avoidance technology",
+   "ko": "충돌 방지 기술",
+   "note": "사고를 막기 위한 기술을 말합니다."
+  },
+  {
+   "term": "bring balance to",
+   "ko": "~에 균형을 가져오다",
+   "note": "한쪽에 치우친 것을 고르게 만든다는 뜻입니다."
+  },
+  {
+   "term": "transit",
+   "ko": "대중교통",
+   "note": "버스, 지하철 등을 통칭하는 말입니다."
+  }
+ ]
+}

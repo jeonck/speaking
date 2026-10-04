@@ -1,0 +1,504 @@
+{
+ "video_id": "HxI4_IeTJh4",
+ "source_title": "Early Baseball in Print",
+ "source_channel": "Library of Congress",
+ "segment": {
+  "start": 139.41,
+  "end": 164.65
+ },
+ "sentences": [
+  {
+   "text": "Fielders could peg a runner with the ball to get him out, and there was no foul territory, so batters could smack the ball in all directions.",
+   "chunks": [
+    {
+     "en": "Fielders could peg a runner with the ball",
+     "ko": "야수들은 공으로 주자를 맞출 수 있었고"
+    },
+    {
+     "en": "to get him out,",
+     "ko": "그를 아웃시킬 수 있었으며"
+    },
+    {
+     "en": "and there was no foul territory,",
+     "ko": "그리고 파울 지역이 없어서"
+    },
+    {
+     "en": "so batters could smack the ball in all directions.",
+     "ko": "타자들은 공을 모든 방향으로 칠 수 있었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Fielders",
+     "strong": true,
+     "link": false,
+     "syl": "FIELD"
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "peg",
+     "strong": true,
+     "link": true,
+     "syl": "PEG"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "runner",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ball",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "him",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foul",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "territory,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "batters",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smack",
+     "strong": true,
+     "link": false,
+     "syl": "SMACK"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ball",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "directions.",
+     "strong": true,
+     "link": false,
+     "syl": "REC"
+    }
+   ],
+   "tip": "get him out은 이어서 '게딤아웃'처럼 자연스럽게 연결해 읽어보세요.",
+   "start": 139.41,
+   "end": 148.41
+  },
+  {
+   "text": "The Massachusetts Game was an athletic, high scoring sport, with 100 runs required to win a match.",
+   "chunks": [
+    {
+     "en": "The Massachusetts Game was",
+     "ko": "매사추세츠 게임은"
+    },
+    {
+     "en": "an athletic, high scoring sport,",
+     "ko": "격렬하고 점수가 많이 나는 스포츠였으며"
+    },
+    {
+     "en": "with 100 runs required to win a match.",
+     "ko": "경기를 이기려면 100점이 필요했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Massachusetts",
+     "strong": true,
+     "link": false,
+     "syl": "CHU"
+    },
+    {
+     "w": "Game",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "athletic,",
+     "strong": true,
+     "link": false,
+     "syl": "LET"
+    },
+    {
+     "w": "high",
+     "strong": true,
+     "link": false,
+     "syl": "HIGH"
+    },
+    {
+     "w": "scoring",
+     "strong": true,
+     "link": false,
+     "syl": "SCOR"
+    },
+    {
+     "w": "sport,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "100",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "runs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "required",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "win",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "match.",
+     "strong": true,
+     "link": false,
+     "syl": "MATCH"
+    }
+   ],
+   "tip": "high scoring처럼 붙어 쓰는 형용사는 둘 다 리듬감 있게 강조해보세요.",
+   "start": 148.41,
+   "end": 154.60999999999999
+  },
+  {
+   "text": "The rules of the Massachusetts Game vied for supremacy against a New York version of baseball, played by what was called the Knickerbocker Rules.",
+   "chunks": [
+    {
+     "en": "The rules of the Massachusetts Game",
+     "ko": "매사추세츠 게임의 규칙은"
+    },
+    {
+     "en": "vied for supremacy against a New York version of baseball,",
+     "ko": "뉴욕식 야구와 우위를 놓고 경쟁했으며"
+    },
+    {
+     "en": "played by what was called the Knickerbocker Rules.",
+     "ko": "그 야구는 니커보커 규칙이라 불리는 방식으로 행해졌다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rules",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Massachusetts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Game",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vied",
+     "strong": true,
+     "link": true,
+     "syl": "VIED"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supremacy",
+     "strong": true,
+     "link": false,
+     "syl": "PREM"
+    },
+    {
+     "w": "against",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "New",
+     "strong": true,
+     "link": false,
+     "syl": "NEW"
+    },
+    {
+     "w": "York",
+     "strong": true,
+     "link": false,
+     "syl": "YORK"
+    },
+    {
+     "w": "version",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "baseball,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "played",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Knickerbocker",
+     "strong": true,
+     "link": false,
+     "syl": "NICK"
+    },
+    {
+     "w": "Rules.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "vied for supremacy는 치열하게 경쟁했다는 뜻으로 자연스럽게 이어 읽어보세요.",
+   "start": 154.60999999999999,
+   "end": 164.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why could batters hit the ball in any direction in the Massachusetts Game?",
+   "options": [
+    "There was no foul territory",
+    "The field was round",
+    "Fielders were not allowed to catch the ball"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 파울 지역이 없었다고 설명합니다."
+  },
+  {
+   "q": "How could a fielder get a runner out?",
+   "options": [
+    "By pegging the runner with the ball",
+    "By tagging the base only",
+    "By catching a foul ball"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 공으로 주자를 맞춰 아웃시켰다고 합니다."
+  },
+  {
+   "q": "How many runs were needed to win a match in the Massachusetts Game?",
+   "options": [
+    "100",
+    "50",
+    "9"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 100점이 필요했다고 언급됩니다."
+  },
+  {
+   "q": "What rival version of baseball competed with the Massachusetts Game?",
+   "options": [
+    "The New York version played under the Knickerbocker Rules",
+    "The California version",
+    "The English cricket rules"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 뉴욕 버전과 경쟁했다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "peg (a runner)",
+   "ko": "공을 던져 맞추다",
+   "note": "초기 야구에서 공으로 주자를 맞혀 아웃시키는 것을 뜻해요."
+  },
+  {
+   "term": "foul territory",
+   "ko": "파울 지역",
+   "note": "타자가 친 공이 파울로 처리되는 구역이에요."
+  },
+  {
+   "term": "vie for",
+   "ko": "~을 놓고 경쟁하다",
+   "note": "두 대상이 우위를 다툴 때 쓰는 표현이에요."
+  },
+  {
+   "term": "supremacy",
+   "ko": "우위, 패권",
+   "note": "경쟁에서의 최고 지위를 뜻해요."
+  },
+  {
+   "term": "Knickerbocker Rules",
+   "ko": "니커보커 규칙",
+   "note": "초기 뉴욕식 야구 규칙의 이름이에요."
+  }
+ ]
+}

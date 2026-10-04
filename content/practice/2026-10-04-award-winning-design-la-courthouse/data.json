@@ -1,0 +1,507 @@
+{
+ "video_id": "vrc-ltr7_kI",
+ "source_title": "Honor Award for Architecture- U.S. Courthouse, Los Angeles, CA",
+ "source_channel": "GSA",
+ "segment": {
+  "start": 66.07,
+  "end": 90.66
+ },
+ "sentences": [
+  {
+   "text": "On the Los Angeles Courthouse, one of the things that intrigued the entire jury was the fact that we not only had the triangulated glass on the exterior skin on all 4 sides, but we had a core that actually allowed natural light to come in from the roof to the ground floor.",
+   "chunks": [
+    {
+     "en": "On the Los Angeles Courthouse, one of the things that intrigued the entire jury",
+     "ko": "로스앤젤레스 법원에서, 심사위원단 전체를 사로잡은 것 중 하나는"
+    },
+    {
+     "en": "was the fact that we not only had the triangulated glass on the exterior skin on all 4 sides,",
+     "ko": "외피 전체 4면에 삼각형 유리를 적용했을 뿐만 아니라"
+    },
+    {
+     "en": "but we had a core that actually allowed natural light",
+     "ko": "자연광이 들어올 수 있게 하는 코어도 있었다는 사실이었는데"
+    },
+    {
+     "en": "to come in from the roof to the ground floor.",
+     "ko": "지붕에서부터 1층까지 빛이 들어오도록 했다."
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Los",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Angeles",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Courthouse,",
+     "strong": true,
+     "link": false,
+     "syl": "COURT"
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "intrigued",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "entire",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jury",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fact",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "triangulated",
+     "strong": true,
+     "link": false,
+     "syl": "ANG"
+    },
+    {
+     "w": "glass",
+     "strong": true,
+     "link": false,
+     "syl": "GLASS"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exterior",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "skin",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "4",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sides,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "core",
+     "strong": true,
+     "link": false,
+     "syl": "CORE"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "allowed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "natural",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": true,
+     "link": false,
+     "syl": "LIGHT"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roof",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "floor.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Courthouse, triangulated glass, core, light에 강세를 두고 긴 문장은 구간별로 끊어 읽어요.",
+   "start": 66.07,
+   "end": 84.35
+  },
+  {
+   "text": "And it was done in such a way that they played off each other, the exterior skin and then the interior core.",
+   "chunks": [
+    {
+     "en": "And it was done in such a way",
+     "ko": "그리고 그것은 그런 방식으로 이루어졌는데"
+    },
+    {
+     "en": "that they played off each other,",
+     "ko": "서로 조화를 이루도록 했다"
+    },
+    {
+     "en": "the exterior skin and then the interior core.",
+     "ko": "외피와 내부 코어가."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "done",
+     "strong": true,
+     "link": false,
+     "syl": "DONE"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "such",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "played",
+     "strong": true,
+     "link": false,
+     "syl": "PLAYED"
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exterior",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "skin",
+     "strong": true,
+     "link": false,
+     "syl": "SKIN"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "interior",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "core.",
+     "strong": true,
+     "link": false,
+     "syl": "CORE"
+    }
+   ],
+   "tip": "done, played off, exterior skin, core에 강세를 둬요.",
+   "start": 84.35,
+   "end": 90.66
+  }
+ ],
+ "questions": [
+  {
+   "q": "What feature covers all four sides of the exterior skin?",
+   "options": [
+    "Triangulated glass",
+    "Solid concrete panels",
+    "Wooden slats"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 언급됨."
+  },
+  {
+   "q": "What does the core of the building allow?",
+   "options": [
+    "Natural light to reach the ground floor",
+    "Extra storage space",
+    "Better soundproofing"
+   ],
+   "answer": 0,
+   "why": "문장 1 마지막 부분에서 언급됨."
+  },
+  {
+   "q": "What impressed the jury about the design?",
+   "options": [
+    "The glass skin and the light-bringing core",
+    "The low construction cost",
+    "The building's height"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 언급됨."
+  },
+  {
+   "q": "How do the exterior skin and interior core relate to each other, according to the segment?",
+   "options": [
+    "They play off each other",
+    "They were designed with no connection",
+    "Only the core was awarded"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "triangulated glass",
+   "ko": "삼각형 패턴 유리",
+   "note": "삼각형 모양으로 분할된 유리 외피."
+  },
+  {
+   "term": "exterior skin",
+   "ko": "외피",
+   "note": "건물 외부를 감싸는 표면."
+  },
+  {
+   "term": "play off each other",
+   "ko": "서로 조화를 이루다",
+   "note": "두 요소가 상호작용하며 어우러짐을 뜻함."
+  },
+  {
+   "term": "intrigued",
+   "ko": "흥미를 끌다",
+   "note": "매력적으로 느껴 관심을 갖게 함."
+  }
+ ]
+}

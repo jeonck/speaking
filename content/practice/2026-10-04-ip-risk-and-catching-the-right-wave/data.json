@@ -1,0 +1,497 @@
+{
+ "video_id": "aGDNAbNoLHY",
+ "source_title": "Focusing energy",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 148.17,
+  "end": 173.42
+ },
+ "sentences": [
+  {
+   "text": "Without that IP, without that patent to protect us, to start a company, we could have never made it happen.",
+   "chunks": [
+    {
+     "en": "Without that IP,",
+     "ko": "그 지식재산권이 없었다면,"
+    },
+    {
+     "en": "without that patent to protect us,",
+     "ko": "우리를 보호해줄 특허가 없었다면,"
+    },
+    {
+     "en": "to start a company,",
+     "ko": "회사를 시작할,"
+    },
+    {
+     "en": "we could have never made it happen.",
+     "ko": "우리는 결코 그것을 해낼 수 없었을 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Without",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "IP,",
+     "strong": true,
+     "link": false,
+     "syl": "IP"
+    },
+    {
+     "w": "without",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patent",
+     "strong": true,
+     "link": false,
+     "syl": "PAT"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protect",
+     "strong": true,
+     "link": true,
+     "syl": "TECT"
+    },
+    {
+     "w": "us,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": false,
+     "syl": "START"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "company,",
+     "strong": true,
+     "link": false,
+     "syl": "COM"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happen.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "protect us, made it처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 148.17,
+   "end": 153.96
+  },
+  {
+   "text": "For me, ultimately, business is not about developing the biggest pile of money, but about changing the world in the most formative way.",
+   "chunks": [
+    {
+     "en": "For me, ultimately, business is not",
+     "ko": "나에게 있어서, 결국, 사업이란"
+    },
+    {
+     "en": "about developing the biggest pile of money,",
+     "ko": "가장 큰 돈더미를 쌓는 것에 관한 것이 아니라,"
+    },
+    {
+     "en": "but about changing the world",
+     "ko": "세상을 바꾸는 것에 관한 것이다"
+    },
+    {
+     "en": "in the most formative way.",
+     "ko": "가장 근본적인 방식으로."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ultimately,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "developing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biggest",
+     "strong": true,
+     "link": false,
+     "syl": "BIG"
+    },
+    {
+     "w": "pile",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "money,",
+     "strong": true,
+     "link": false,
+     "syl": "MON"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changing",
+     "strong": true,
+     "link": false,
+     "syl": "CHANG"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "formative",
+     "strong": true,
+     "link": false,
+     "syl": "FOR"
+    },
+    {
+     "w": "way.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "pile of처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 153.96,
+   "end": 166.08
+  },
+  {
+   "text": "One of the things the ocean teaches you and surfing teaches you, you have to catch the wave at the right time.",
+   "chunks": [
+    {
+     "en": "One of the things the ocean teaches you",
+     "ko": "바다가 당신에게 가르쳐주는 것들 중 하나는"
+    },
+    {
+     "en": "and surfing teaches you,",
+     "ko": "그리고 서핑이 가르쳐주는 것은,"
+    },
+    {
+     "en": "you have to catch the wave",
+     "ko": "파도를 잡아야 한다는 것이다"
+    },
+    {
+     "en": "at the right time.",
+     "ko": "바로 그 시점에."
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ocean",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    },
+    {
+     "w": "teaches",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surfing",
+     "strong": true,
+     "link": false,
+     "syl": "SURF"
+    },
+    {
+     "w": "teaches",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "catch",
+     "strong": true,
+     "link": false,
+     "syl": "CATCH"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wave",
+     "strong": true,
+     "link": false,
+     "syl": "WAVE"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": true,
+     "link": true,
+     "syl": "RIGHT"
+    },
+    {
+     "w": "time.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "right time처럼 같은 자음이 겹칠 때 하나로 뭉쳐 발음한다.",
+   "start": 166.08,
+   "end": 173.42
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say made the company possible?",
+   "options": [
+    "Having IP and a patent to protect them",
+    "A large bank loan",
+    "A famous business partner"
+   ],
+   "answer": 0,
+   "why": "Without that IP, without that patent to protect us...we could have never made it happen라고 말함."
+  },
+  {
+   "q": "According to the speaker, what should business ultimately be about?",
+   "options": [
+    "Changing the world in a meaningful way",
+    "Building the biggest pile of money",
+    "Winning against competitors"
+   ],
+   "answer": 0,
+   "why": "business is not about developing the biggest pile of money, but about changing the world라고 말함."
+  },
+  {
+   "q": "What does the speaker compare good business timing to?",
+   "options": [
+    "Catching a wave while surfing",
+    "Running a marathon",
+    "Playing chess"
+   ],
+   "answer": 0,
+   "why": "you have to catch the wave at the right time라고 비교됨."
+  },
+  {
+   "q": "What two things does the speaker say taught them about timing?",
+   "options": [
+    "The ocean and surfing",
+    "School and work",
+    "Reading and writing"
+   ],
+   "answer": 0,
+   "why": "the ocean teaches you and surfing teaches you라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "IP",
+   "ko": "지식재산권",
+   "note": "Intellectual Property의 약자"
+  },
+  {
+   "term": "patent",
+   "ko": "특허",
+   "note": "발명을 법적으로 보호받는 권리"
+  },
+  {
+   "term": "pile of money",
+   "ko": "돈더미, 큰 돈",
+   "note": "많이 쌓인 돈을 비유적으로 표현"
+  },
+  {
+   "term": "formative way",
+   "ko": "근본적인 방식으로",
+   "note": "어떤 것의 형성에 큰 영향을 미치는 방식"
+  },
+  {
+   "term": "catch the wave",
+   "ko": "파도를 잡다",
+   "note": "서핑 용어이자 좋은 기회를 포착한다는 비유"
+  }
+ ]
+}

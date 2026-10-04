@@ -1,0 +1,459 @@
+{
+ "video_id": "3VCvMplx7os",
+ "source_title": "USPTO honors pioneer and historic patent examiner Henry E. Baker",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 13.93,
+  "end": 39.62
+ },
+ "sentences": [
+  {
+   "text": "The USPTO's Public Search Facility was recently renamed to honor historic patent examiner and civil rights advocate Henry E. Baker.",
+   "chunks": [
+    {
+     "en": "The USPTO's Public Search Facility was recently renamed",
+     "ko": "USPTO의 공공 검색 시설이 최근 이름을 바꾸어"
+    },
+    {
+     "en": "to honor historic patent examiner and civil rights advocate",
+     "ko": "역사적인 특허 심사관이자 민권 운동가를 기리게 되었다"
+    },
+    {
+     "en": "Henry E. Baker.",
+     "ko": "헨리 E. 베이커를."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "USPTO's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Public",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Search",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Facility",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recently",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "renamed",
+     "strong": true,
+     "link": false,
+     "syl": "NAMED"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honor",
+     "strong": true,
+     "link": false,
+     "syl": "HON"
+    },
+    {
+     "w": "historic",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "examiner",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "civil",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "rights",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "advocate",
+     "strong": true,
+     "link": false,
+     "syl": "AD"
+    },
+    {
+     "w": "Henry",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "E.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Baker.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "rights advocate처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 13.93,
+   "end": 23.19
+  },
+  {
+   "text": "Baker curated the first known list of African American patent holders in the United States, now known as Baker's List.",
+   "chunks": [
+    {
+     "en": "Baker curated the first known list of African American patent holders",
+     "ko": "베이커는 최초로 알려진 아프리카계 미국인 특허 보유자 목록을 정리했다"
+    },
+    {
+     "en": "in the United States, now known as Baker's List.",
+     "ko": "미국에서, 지금은 '베이커 목록'으로 알려져 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Baker",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "curated",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "FIRST"
+    },
+    {
+     "w": "known",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "list",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "African",
+     "strong": true,
+     "link": true,
+     "syl": "AF"
+    },
+    {
+     "w": "American",
+     "strong": true,
+     "link": false,
+     "syl": "MER"
+    },
+    {
+     "w": "patent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "holders",
+     "strong": true,
+     "link": true,
+     "syl": "HOLD"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "United",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "States,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "known",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Baker's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "List.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "list of처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 23.19,
+   "end": 30.95
+  },
+  {
+   "text": "It includes prolific inventors like Miriam Benjamin and Lewis Latimer, whose work is featured in a National Inventors Hall of Fame exhibit.",
+   "chunks": [
+    {
+     "en": "It includes prolific inventors like Miriam Benjamin and Lewis Latimer,",
+     "ko": "여기에는 미리엄 벤자민과 루이스 레이티머 같은 다작 발명가들이 포함되는데,"
+    },
+    {
+     "en": "whose work is featured in a National Inventors Hall of Fame exhibit.",
+     "ko": "그들의 작품은 전미 발명가 명예의 전당 전시에서 소개된다."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "includes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prolific",
+     "strong": true,
+     "link": false,
+     "syl": "LIF"
+    },
+    {
+     "w": "inventors",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Miriam",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Benjamin",
+     "strong": true,
+     "link": false,
+     "syl": "BEN"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lewis",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Latimer,",
+     "strong": true,
+     "link": false,
+     "syl": "LAT"
+    },
+    {
+     "w": "whose",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "featured",
+     "strong": true,
+     "link": true,
+     "syl": "FEA"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Inventors",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hall",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Fame",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exhibit.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "work is처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 30.95,
+   "end": 39.62
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why was the USPTO's Public Search Facility renamed?",
+   "options": [
+    "To honor historic patent examiner and civil rights advocate Henry E. Baker",
+    "To celebrate a new building opening",
+    "To mark the USPTO's founding anniversary"
+   ],
+   "answer": 0,
+   "why": "\"was recently renamed to honor historic patent examiner and civil rights advocate Henry E. Baker\"에서 확인됩니다."
+  },
+  {
+   "q": "What did Baker curate?",
+   "options": [
+    "The first known list of African American patent holders in the United States",
+    "A collection of foreign patents",
+    "A list of USPTO employees"
+   ],
+   "answer": 0,
+   "why": "\"Baker curated the first known list of African American patent holders\"에서 확인됩니다."
+  },
+  {
+   "q": "What is Baker's list now known as?",
+   "options": [
+    "Baker's List",
+    "The Patent Registry",
+    "The Inventors Index"
+   ],
+   "answer": 0,
+   "why": "\"now known as Baker's List\"에서 확인됩니다."
+  },
+  {
+   "q": "Where is the work of inventors like Miriam Benjamin and Lewis Latimer featured?",
+   "options": [
+    "A National Inventors Hall of Fame exhibit",
+    "A city history museum",
+    "A university archive"
+   ],
+   "answer": 0,
+   "why": "\"whose work is featured in a National Inventors Hall of Fame exhibit\"에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "patent examiner",
+   "ko": "특허 심사관",
+   "note": "특허 출원을 검토하고 승인 여부를 판단하는 사람이에요."
+  },
+  {
+   "term": "civil rights advocate",
+   "ko": "민권 운동가",
+   "note": "평등한 권리를 위해 목소리를 내는 사람을 뜻해요."
+  },
+  {
+   "term": "curated",
+   "ko": "정리하다, 수집하다",
+   "note": "자료를 모아서 체계적으로 정리했다는 뜻이에요."
+  },
+  {
+   "term": "patent holders",
+   "ko": "특허 보유자",
+   "note": "특허권을 가지고 있는 사람을 가리켜요."
+  },
+  {
+   "term": "prolific inventors",
+   "ko": "다작 발명가들",
+   "note": "많은 발명을 한 사람들을 뜻해요."
+  }
+ ]
+}

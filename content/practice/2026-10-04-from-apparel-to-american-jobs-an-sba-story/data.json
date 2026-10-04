@@ -1,0 +1,706 @@
+{
+ "video_id": "8NtiCLhDsCA",
+ "source_title": "Made in the USA: One Veteran’s Mission to Bring Jobs Back Home",
+ "source_channel": "U.S. Small Business Administration",
+ "segment": {
+  "start": 7.41,
+  "end": 33.8
+ },
+ "sentences": [
+  {
+   "text": "The heart of our mission is our passion for creating American jobs.",
+   "chunks": [
+    {
+     "en": "The heart of our mission",
+     "ko": "우리 사명의 핵심은"
+    },
+    {
+     "en": "is our passion for creating",
+     "ko": "만들어내는 것에 대한 우리의 열정이다"
+    },
+    {
+     "en": "American jobs.",
+     "ko": "미국 일자리를."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heart",
+     "strong": true,
+     "link": false,
+     "syl": "HEART"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mission",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "passion",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "creating",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "American",
+     "strong": true,
+     "link": false,
+     "syl": "MER"
+    },
+    {
+     "w": "jobs.",
+     "strong": true,
+     "link": false,
+     "syl": "JOBS"
+    }
+   ],
+   "tip": "is our, creating American처럼 자음 뒤에 모음이 오면 이어서 발음한다.",
+   "start": 7.41,
+   "end": 10.94
+  },
+  {
+   "text": "We just happen to be in the apparel business.",
+   "chunks": [
+    {
+     "en": "We just happen to be",
+     "ko": "우리는 그냥 ~하게 되었을 뿐이다"
+    },
+    {
+     "en": "in the apparel business.",
+     "ko": "의류 사업에."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happen",
+     "strong": true,
+     "link": false,
+     "syl": "HAP"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "apparel",
+     "strong": true,
+     "link": false,
+     "syl": "PAR"
+    },
+    {
+     "w": "business.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "happen, apparel, business에 강세를 주며 담담하게 읽는다.",
+   "start": 10.94,
+   "end": 13.11
+  },
+  {
+   "text": "I bought a government contractor that produced thousands of uniforms for the military.",
+   "chunks": [
+    {
+     "en": "I bought a government contractor",
+     "ko": "나는 정부 계약업체를 샀다"
+    },
+    {
+     "en": "that produced thousands of uniforms",
+     "ko": "수천 개의 군복을 생산하던"
+    },
+    {
+     "en": "for the military.",
+     "ko": "군대를 위한."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bought",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "government",
+     "strong": true,
+     "link": false,
+     "syl": "GOV"
+    },
+    {
+     "w": "contractor",
+     "strong": true,
+     "link": false,
+     "syl": "CON"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "produced",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thousands",
+     "strong": true,
+     "link": true,
+     "syl": "THOU"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "uniforms",
+     "strong": true,
+     "link": false,
+     "syl": "U"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "military.",
+     "strong": true,
+     "link": false,
+     "syl": "MIL"
+    }
+   ],
+   "tip": "thousands of, of uniforms처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 13.11,
+   "end": 17.32
+  },
+  {
+   "text": "And that was the inspiration for me that said, \"I want to build a brand.\"",
+   "chunks": [
+    {
+     "en": "And that was the inspiration",
+     "ko": "그리고 그것이 나에게 영감이 되었다"
+    },
+    {
+     "en": "for me that said,",
+     "ko": "~라고 말하게 한 것은,"
+    },
+    {
+     "en": "\"I want to build a brand.\"",
+     "ko": "\"나는 브랜드를 만들고 싶다\"라고."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inspiration",
+     "strong": true,
+     "link": false,
+     "syl": "RA"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "said,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "\"I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "build",
+     "strong": true,
+     "link": true,
+     "syl": "BUILD"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brand.\"",
+     "strong": true,
+     "link": false,
+     "syl": "BRAND"
+    }
+   ],
+   "tip": "build a처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 17.32,
+   "end": 21.32
+  },
+  {
+   "text": "I want to create jobs.",
+   "chunks": [
+    {
+     "en": "I want to create jobs.",
+     "ko": "나는 일자리를 만들고 싶다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "create",
+     "strong": true,
+     "link": false,
+     "syl": "ATE"
+    },
+    {
+     "w": "jobs.",
+     "strong": true,
+     "link": false,
+     "syl": "JOBS"
+    }
+   ],
+   "tip": "create, jobs에 강세를 주며 명확히 말한다.",
+   "start": 21.32,
+   "end": 22.365454545454547
+  },
+  {
+   "text": "I want to make a difference.",
+   "chunks": [
+    {
+     "en": "I want to make a difference.",
+     "ko": "나는 변화를 만들고 싶다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": true,
+     "link": true,
+     "syl": "MAKE"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "difference.",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    }
+   ],
+   "tip": "make a처럼 자음 뒤 모음이 오면 이어서 발음한다.",
+   "start": 22.365454545454547,
+   "end": 23.62
+  },
+  {
+   "text": "When I first contacted the SBA, it was to survive when most businesses were closing as a result of COVID.",
+   "chunks": [
+    {
+     "en": "When I first contacted the SBA,",
+     "ko": "내가 SBA에 처음 연락했을 때,"
+    },
+    {
+     "en": "it was to survive",
+     "ko": "그것은 생존하기 위한 것이었다"
+    },
+    {
+     "en": "when most businesses were closing",
+     "ko": "대부분의 사업체들이 문을 닫던 시기에"
+    },
+    {
+     "en": "as a result of COVID.",
+     "ko": "코로나19의 결과로."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "contacted",
+     "strong": true,
+     "link": false,
+     "syl": "TACT"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "SBA,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "survive",
+     "strong": true,
+     "link": false,
+     "syl": "VIVE"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "businesses",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "closing",
+     "strong": true,
+     "link": false,
+     "syl": "CLOS"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "result",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "COVID.",
+     "strong": true,
+     "link": false,
+     "syl": "CO"
+    }
+   ],
+   "tip": "as a, result of처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 23.62,
+   "end": 29.86
+  },
+  {
+   "text": "I was introduced to the EIDL and Paycheck Protection Program.",
+   "chunks": [
+    {
+     "en": "I was introduced to the EIDL",
+     "ko": "나는 EIDL을 소개받았다"
+    },
+    {
+     "en": "and Paycheck Protection Program.",
+     "ko": "그리고 급여 보호 프로그램을."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "introduced",
+     "strong": true,
+     "link": false,
+     "syl": "DUCED"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "EIDL",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Paycheck",
+     "strong": true,
+     "link": false,
+     "syl": "PAY"
+    },
+    {
+     "w": "Protection",
+     "strong": true,
+     "link": false,
+     "syl": "TEC"
+    },
+    {
+     "w": "Program.",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    }
+   ],
+   "tip": "Paycheck Protection Program처럼 복합명사는 각 단어에 강세를 주며 읽는다.",
+   "start": 29.86,
+   "end": 33.8
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is described as the heart of the speaker's mission?",
+   "options": [
+    "A passion for creating American jobs",
+    "Expanding overseas sales",
+    "Winning design awards"
+   ],
+   "answer": 0,
+   "why": "The heart of our mission is our passion for creating American jobs라고 말함."
+  },
+  {
+   "q": "What did the speaker do with a government contractor?",
+   "options": [
+    "Bought one that produced uniforms for the military",
+    "Sold uniforms to it",
+    "Worked there as an employee"
+   ],
+   "answer": 0,
+   "why": "I bought a government contractor that produced thousands of uniforms for the military라고 설명됨."
+  },
+  {
+   "q": "Why did the speaker first contact the SBA?",
+   "options": [
+    "To survive when many businesses were closing during COVID",
+    "To apply for a design award",
+    "To hire new employees"
+   ],
+   "answer": 0,
+   "why": "it was to survive when most businesses were closing as a result of COVID라고 언급됨."
+  },
+  {
+   "q": "Which programs is the speaker said to have been introduced to?",
+   "options": [
+    "The EIDL and Paycheck Protection Program",
+    "A tax refund program",
+    "An export subsidy program"
+   ],
+   "answer": 0,
+   "why": "I was introduced to the EIDL and Paycheck Protection Program라고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "government contractor",
+   "ko": "정부 계약업체",
+   "note": "정부와 계약을 맺고 물품·서비스를 공급하는 회사"
+  },
+  {
+   "term": "make a difference",
+   "ko": "변화를 만들다, 긍정적인 영향을 주다",
+   "note": "좋은 영향을 끼친다는 뜻의 관용표현"
+  },
+  {
+   "term": "EIDL",
+   "ko": "재해 피해 경제 지원 대출",
+   "note": "Economic Injury Disaster Loan의 약자"
+  },
+  {
+   "term": "Paycheck Protection Program",
+   "ko": "급여 보호 프로그램",
+   "note": "코로나19 기간 직원 급여 유지를 돕던 미국 정부 지원 프로그램"
+  }
+ ]
+}

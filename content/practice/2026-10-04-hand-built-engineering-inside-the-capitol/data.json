@@ -1,0 +1,548 @@
+{
+ "video_id": "qvgq1awXNzs",
+ "source_title": "Virtual U.S. Capitol Tour",
+ "source_channel": "Architect of the Capitol",
+ "segment": {
+  "start": 141.24,
+  "end": 165.97
+ },
+ "sentences": [
+  {
+   "text": "There's a lot of engineering in there.",
+   "chunks": [
+    {
+     "en": "There's a lot of engineering",
+     "ko": "거기엔 많은 공학 기술이 들어있다"
+    },
+    {
+     "en": "in there.",
+     "ko": "그 안에."
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": false,
+     "syl": "LOT"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "engineering",
+     "strong": true,
+     "link": false,
+     "syl": "NEER"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there.",
+     "strong": true,
+     "link": false,
+     "syl": "THERE"
+    }
+   ],
+   "tip": "lot, engineering, there에 강세를 주며 of engineering은 이어서 읽어요.",
+   "start": 141.24,
+   "end": 144.23
+  },
+  {
+   "text": "And remember, in the 1800s, they did all of this without power tools or modern construction equipment.",
+   "chunks": [
+    {
+     "en": "And remember, in the 1800s,",
+     "ko": "그리고 기억하세요, 1800년대에는,"
+    },
+    {
+     "en": "they did all of this without power tools",
+     "ko": "그들은 동력 공구 없이 이 모든 것을 했다"
+    },
+    {
+     "en": "or modern construction equipment.",
+     "ko": "또는 현대식 건설 장비 없이."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remember,",
+     "strong": true,
+     "link": false,
+     "syl": "MEM"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1800s,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "did",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "without",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "power",
+     "strong": true,
+     "link": false,
+     "syl": "POW"
+    },
+    {
+     "w": "tools",
+     "strong": true,
+     "link": false,
+     "syl": "TOOLS"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "modern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "construction",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "equipment.",
+     "strong": true,
+     "link": false,
+     "syl": "QUIP"
+    }
+   ],
+   "tip": "remember, 1800s, power tools, equipment에 강세를 둬요.",
+   "start": 144.23,
+   "end": 149.98
+  },
+  {
+   "text": "You can still see the tool marks on one of the columns.",
+   "chunks": [
+    {
+     "en": "You can still see the tool marks",
+     "ko": "아직도 도구 흔적을 볼 수 있다"
+    },
+    {
+     "en": "on one of the columns.",
+     "ko": "기둥 중 하나에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "STILL"
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tool",
+     "strong": true,
+     "link": false,
+     "syl": "TOOL"
+    },
+    {
+     "w": "marks",
+     "strong": true,
+     "link": false,
+     "syl": "MARKS"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "columns.",
+     "strong": true,
+     "link": false,
+     "syl": "COL"
+    }
+   ],
+   "tip": "still, tool marks, columns에 강세를 주고 one of는 자연스럽게 이어 읽어요.",
+   "start": 149.98,
+   "end": 154.23
+  },
+  {
+   "text": "Imagine all of the work it took just to make one of these with hand tools.",
+   "chunks": [
+    {
+     "en": "Imagine all of the work it took",
+     "ko": "이것을 만드는 데 들었던 모든 수고를 상상해보세요"
+    },
+    {
+     "en": "just to make one of these with hand tools.",
+     "ko": "그저 손 도구로 이것 중 하나를 만드는 데 말이에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Imagine",
+     "strong": true,
+     "link": false,
+     "syl": "MAG"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": false,
+     "syl": "WORK"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": true,
+     "link": false,
+     "syl": "MAKE"
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hand",
+     "strong": true,
+     "link": false,
+     "syl": "HAND"
+    },
+    {
+     "w": "tools.",
+     "strong": true,
+     "link": false,
+     "syl": "TOOLS"
+    }
+   ],
+   "tip": "Imagine, work, make, hand tools에 강세를 두고 all of, one of는 이어 읽어요.",
+   "start": 154.23,
+   "end": 159.63
+  },
+  {
+   "text": "When Pierre L'Enfant designed the city of Washington, he put the Capitol building in the center of his design.",
+   "chunks": [
+    {
+     "en": "When Pierre L'Enfant designed the city of Washington,",
+     "ko": "피에르 랑팡이 워싱턴 시를 설계했을 때,"
+    },
+    {
+     "en": "he put the Capitol building",
+     "ko": "그는 국회의사당 건물을 두었다"
+    },
+    {
+     "en": "in the center of his design.",
+     "ko": "자신의 설계 중심에."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Pierre",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "L'Enfant",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "designed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Washington,",
+     "strong": true,
+     "link": false,
+     "syl": "WASH"
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Capitol",
+     "strong": true,
+     "link": false,
+     "syl": "CAP"
+    },
+    {
+     "w": "building",
+     "strong": true,
+     "link": false,
+     "syl": "BUILD"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "center",
+     "strong": true,
+     "link": false,
+     "syl": "CEN"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "his",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "design.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "L'Enfant, Washington, Capitol building, center에 강세를 둬요.",
+   "start": 159.63,
+   "end": 165.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did workers build the Capitol's columns in the 1800s?",
+   "options": [
+    "With hand tools, without power tools",
+    "With modern cranes",
+    "With prefabricated parts shipped in"
+   ],
+   "answer": 0,
+   "why": "문장 2와 4에서 손 도구로 작업했다고 언급됨."
+  },
+  {
+   "q": "What can still be seen on one of the columns?",
+   "options": [
+    "Tool marks",
+    "Paint chips",
+    "Carved names"
+   ],
+   "answer": 0,
+   "why": "문장 3에서 언급됨."
+  },
+  {
+   "q": "Who designed the city of Washington and placed the Capitol at its center?",
+   "options": [
+    "Pierre L'Enfant",
+    "George Washington",
+    "Benjamin Franklin"
+   ],
+   "answer": 0,
+   "why": "문장 5에서 언급됨."
+  },
+  {
+   "q": "What does the speaker say is present inside the Capitol's structure?",
+   "options": [
+    "A lot of engineering",
+    "A lot of modern electronics",
+    "Nothing unusual"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "power tools",
+   "ko": "전동 공구",
+   "note": "전기로 작동하는 공구."
+  },
+  {
+   "term": "construction equipment",
+   "ko": "건설 장비",
+   "note": "건축 작업에 쓰이는 대형 장비."
+  },
+  {
+   "term": "tool marks",
+   "ko": "도구 흔적",
+   "note": "수작업 도구가 남긴 자국."
+  },
+  {
+   "term": "put ... in the center of",
+   "ko": "~의 중심에 두다",
+   "note": "배치를 설명하는 표현."
+  }
+ ]
+}

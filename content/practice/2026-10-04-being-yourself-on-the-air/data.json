@@ -1,0 +1,613 @@
+{
+ "video_id": "Srgtl0ddmC0",
+ "source_title": "NEA Jazz Masters: Rhonda Hamilton (2026)",
+ "source_channel": "National Endowment for the Arts",
+ "segment": {
+  "start": 96.55,
+  "end": 120.45
+ },
+ "sentences": [
+  {
+   "text": "I would just listen to recordings that I hadn't heard before.",
+   "chunks": [
+    {
+     "en": "I would just listen",
+     "ko": "나는 그냥 듣곤 했다"
+    },
+    {
+     "en": "to recordings",
+     "ko": "녹음들을"
+    },
+    {
+     "en": "that I hadn't heard before.",
+     "ko": "내가 전에 들어본 적 없는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listen",
+     "strong": true,
+     "link": false,
+     "syl": "lis"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recordings",
+     "strong": true,
+     "link": false,
+     "syl": "cor"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hadn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heard",
+     "strong": true,
+     "link": false,
+     "syl": "heard"
+    },
+    {
+     "w": "before.",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    }
+   ],
+   "tip": "recordings는 두 번째 음절(cor)에 강세가 옵니다.",
+   "start": 96.55,
+   "end": 99.22
+  },
+  {
+   "text": "And I started reading a lot.",
+   "chunks": [
+    {
+     "en": "And I started reading",
+     "ko": "그리고 나는 시작했다 읽기를"
+    },
+    {
+     "en": "a lot.",
+     "ko": "많이"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "reading",
+     "strong": true,
+     "link": false,
+     "syl": "read"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot.",
+     "strong": true,
+     "link": false,
+     "syl": "lot"
+    }
+   ],
+   "tip": "",
+   "start": 99.22,
+   "end": 101.18
+  },
+  {
+   "text": "I got as many books on jazz and jazz artists that I could.",
+   "chunks": [
+    {
+     "en": "I got as many books",
+     "ko": "나는 가능한 많은 책들을 구했다"
+    },
+    {
+     "en": "on jazz and jazz artists",
+     "ko": "재즈와 재즈 아티스트들에 대한"
+    },
+    {
+     "en": "that I could.",
+     "ko": "내가 구할 수 있는 만큼"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": true,
+     "link": false,
+     "syl": "ma"
+    },
+    {
+     "w": "books",
+     "strong": true,
+     "link": false,
+     "syl": "books"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jazz",
+     "strong": true,
+     "link": false,
+     "syl": "jazz"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jazz",
+     "strong": true,
+     "link": false,
+     "syl": "jazz"
+    },
+    {
+     "w": "artists",
+     "strong": true,
+     "link": false,
+     "syl": "ar"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "jazz가 반복될 때 둘 다 힘주어 말하면 자연스럽습니다.",
+   "start": 101.18,
+   "end": 104.48
+  },
+  {
+   "text": "I just tried to be myself on the air.",
+   "chunks": [
+    {
+     "en": "I just tried",
+     "ko": "나는 그냥 노력했다"
+    },
+    {
+     "en": "to be myself",
+     "ko": "내 자신이 되려고"
+    },
+    {
+     "en": "on the air.",
+     "ko": "방송에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tried",
+     "strong": true,
+     "link": false,
+     "syl": "tried"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself",
+     "strong": true,
+     "link": true,
+     "syl": "self"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "air.",
+     "strong": true,
+     "link": false,
+     "syl": "air"
+    }
+   ],
+   "tip": "myself의 f가 다음 on의 모음으로 이어져 '마이셀폰' 처럼 들립니다.",
+   "start": 104.48,
+   "end": 108.98
+  },
+  {
+   "text": "I didn't feel like I was an on air personality, like some people are.",
+   "chunks": [
+    {
+     "en": "I didn't feel like",
+     "ko": "나는 느끼지 않았다"
+    },
+    {
+     "en": "I was an on air personality,",
+     "ko": "내가 방송 전용 인물이라고"
+    },
+    {
+     "en": "like some people are.",
+     "ko": "다른 사람들처럼"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false,
+     "syl": "feel"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "air",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "personality,",
+     "strong": true,
+     "link": false,
+     "syl": "nal"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "are.",
+     "strong": true,
+     "link": false,
+     "syl": "are"
+    }
+   ],
+   "tip": "",
+   "start": 108.98,
+   "end": 114.11
+  },
+  {
+   "text": "They really have a persona.",
+   "chunks": [
+    {
+     "en": "They really have",
+     "ko": "그들은 정말로 가지고 있다"
+    },
+    {
+     "en": "a persona.",
+     "ko": "하나의 페르소나를"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "have",
+     "strong": true,
+     "link": false,
+     "syl": "have"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "persona.",
+     "strong": true,
+     "link": false,
+     "syl": "so"
+    }
+   ],
+   "tip": "",
+   "start": 114.11,
+   "end": 116.03
+  },
+  {
+   "text": "And I was just trying to be myself, as if I was talking to a friend.",
+   "chunks": [
+    {
+     "en": "And I was just trying to be myself,",
+     "ko": "그리고 나는 그냥 노력하고 있었다 내 자신이 되려고,"
+    },
+    {
+     "en": "as if I was talking to a friend.",
+     "ko": "마치 친구에게 말하는 것처럼"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself,",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talking",
+     "strong": true,
+     "link": false,
+     "syl": "talk"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend.",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    }
+   ],
+   "tip": "",
+   "start": 116.03,
+   "end": 120.45
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker do besides listening to new recordings?",
+   "options": [
+    "Started reading a lot about jazz",
+    "Took singing lessons",
+    "Studied broadcasting at a university"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 책을 많이 읽기 시작했다고 말한다."
+  },
+  {
+   "q": "How did the speaker approach being on the air?",
+   "options": [
+    "By creating a dramatic on-air persona",
+    "By trying to be herself, as if talking to a friend",
+    "By imitating other radio hosts"
+   ],
+   "answer": 1,
+   "why": "마지막 문장에서 친구에게 말하듯 자기 자신이 되려 했다고 한다."
+  },
+  {
+   "q": "What did the speaker do to learn about jazz?",
+   "options": [
+    "Got as many books on jazz and jazz artists as she could",
+    "Only listened to interviews",
+    "Avoided reading about artists"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 재즈와 아티스트에 관한 책을 가능한 많이 구했다고 한다."
+  },
+  {
+   "q": "What does the speaker say is true of some other on-air personalities?",
+   "options": [
+    "They really have a persona",
+    "They never read books",
+    "They avoid listening to recordings"
+   ],
+   "answer": 0,
+   "why": "여섯 번째 문장에서 그들은 정말로 페르소나를 가지고 있다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "on air",
+   "ko": "방송 중",
+   "note": "라디오나 방송에서 진행 중이라는 뜻의 표현"
+  },
+  {
+   "term": "persona",
+   "ko": "페르소나, 꾸며낸 인격",
+   "note": "공적으로 보여주는 인위적인 이미지"
+  },
+  {
+   "term": "as many ... as I could",
+   "ko": "할 수 있는 만큼 많이",
+   "note": "가능한 최대치를 뜻하는 구문"
+  },
+  {
+   "term": "as if",
+   "ko": "마치 ~처럼",
+   "note": "비유적인 가정을 나타내는 접속사구"
+  }
+ ]
+}

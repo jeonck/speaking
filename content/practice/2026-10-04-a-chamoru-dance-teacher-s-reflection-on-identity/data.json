@@ -1,0 +1,494 @@
+{
+ "video_id": "-B47lvOdvI4",
+ "source_title": "Frank Rabon: National Heritage Fellowship Tribute Video",
+ "source_channel": "National Endowment for the Arts",
+ "segment": {
+  "start": 35.62,
+  "end": 61.52
+ },
+ "sentences": [
+  {
+   "text": "We are seafarers, so we build canoes.",
+   "chunks": [
+    {
+     "en": "We are seafarers,",
+     "ko": "우리는 뱃사람이다"
+    },
+    {
+     "en": "so we build canoes.",
+     "ko": "그래서 우리는 카누를 만든다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seafarers,",
+     "strong": true,
+     "link": false,
+     "syl": "FAR"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "build",
+     "strong": true,
+     "link": false,
+     "syl": "BUILD"
+    },
+    {
+     "w": "canoes.",
+     "strong": true,
+     "link": false,
+     "syl": "NOES"
+    }
+   ],
+   "tip": "seafarers의 둘째 음절 -far-에 강세를 두세요.",
+   "start": 35.62,
+   "end": 39.0
+  },
+  {
+   "text": "We tell stories about the whispers of the wind, and how we are connected to the spiritual and to the physical realm of our people.",
+   "chunks": [
+    {
+     "en": "We tell stories about the whispers of the wind,",
+     "ko": "우리는 바람의 속삭임에 관한 이야기를 전하고"
+    },
+    {
+     "en": "and how we are connected",
+     "ko": "우리가 어떻게 연결되어 있는지도 이야기한다"
+    },
+    {
+     "en": "to the spiritual and to the physical realm of our people.",
+     "ko": "우리 민족의 영적이고 물리적인 영역과"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stories",
+     "strong": true,
+     "link": false,
+     "syl": "STO"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whispers",
+     "strong": true,
+     "link": false,
+     "syl": "WHIS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wind,",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "connected",
+     "strong": true,
+     "link": false,
+     "syl": "NECT"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spiritual",
+     "strong": true,
+     "link": false,
+     "syl": "SPIR"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "physical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "realm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people.",
+     "strong": true,
+     "link": false,
+     "syl": "PEO"
+    }
+   ],
+   "tip": "wind,와 and를 이어서 발음하세요.",
+   "start": 39.0,
+   "end": 48.76
+  },
+  {
+   "text": "I realized that as I introduce them to CHamoru dance and get them to be proud of what they're doing, I also needed to expose them to the totality of what it means to be CHamoru.",
+   "chunks": [
+    {
+     "en": "I realized that as I introduce them to CHamoru dance",
+     "ko": "차모루 춤을 그들에게 소개하면서 깨달았다"
+    },
+    {
+     "en": "and get them to be proud of what they're doing,",
+     "ko": "그들이 하는 일에 자부심을 갖게 하는 동시에"
+    },
+    {
+     "en": "I also needed to expose them",
+     "ko": "나는 그들에게 보여줄 필요도 있다는 것을"
+    },
+    {
+     "en": "to the totality of what it means to be CHamoru.",
+     "ko": "차모루로 산다는 것의 전체적인 의미를"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "realized",
+     "strong": true,
+     "link": false,
+     "syl": "REAL"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "introduce",
+     "strong": true,
+     "link": false,
+     "syl": "DUCE"
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "CHamoru",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dance",
+     "strong": true,
+     "link": false,
+     "syl": "DANCE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "proud",
+     "strong": true,
+     "link": false,
+     "syl": "PROUD"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing,",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "needed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "expose",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "totality",
+     "strong": true,
+     "link": false,
+     "syl": "TAL"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "means",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "CHamoru.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "doing,과 I를 이어서 발음하며 realized와 needed를 대비해 강조하세요.",
+   "start": 48.76,
+   "end": 61.52
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do the speaker's people traditionally build?",
+   "options": [
+    "Canoes",
+    "Bridges",
+    "Houses"
+   ],
+   "answer": 0,
+   "why": "\"We are seafarers, so we build canoes.\"라고 말한다."
+  },
+  {
+   "q": "What does the speaker say storytelling is connected to?",
+   "options": [
+    "Modern technology",
+    "The spiritual and physical realm of their people",
+    "International trade"
+   ],
+   "answer": 1,
+   "why": "\"how we are connected to the spiritual and to the physical realm of our people\"에서 알 수 있다."
+  },
+  {
+   "q": "What does the speaker want students to feel about CHamoru dance?",
+   "options": [
+    "Embarrassment",
+    "Indifference",
+    "Pride"
+   ],
+   "answer": 2,
+   "why": "\"get them to be proud of what they're doing\"라고 말한다."
+  },
+  {
+   "q": "Besides pride, what else does the speaker want to give students through dance?",
+   "options": [
+    "A full sense of what it means to be CHamoru",
+    "A job in tourism",
+    "A new language"
+   ],
+   "answer": 0,
+   "why": "\"the totality of what it means to be CHamoru\"를 보여주고 싶다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "seafarers",
+   "ko": "뱃사람, 항해하는 사람들",
+   "note": "바다를 생활 터전으로 삼는 사람을 뜻함"
+  },
+  {
+   "term": "whispers of the wind",
+   "ko": "바람의 속삭임",
+   "note": "조상의 이야기나 자연의 소리를 가리키는 비유적 표현"
+  },
+  {
+   "term": "realm",
+   "ko": "영역, 세계",
+   "note": "spiritual realm처럼 추상적 영역을 가리킴"
+  },
+  {
+   "term": "totality",
+   "ko": "전체성, 전체",
+   "note": "the totality of what it means to be ~처럼 전체적 의미를 말할 때 씀"
+  }
+ ]
+}

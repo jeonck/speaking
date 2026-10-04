@@ -1,0 +1,422 @@
+{
+ "video_id": "G_0uk05Pz3w",
+ "source_title": "Patents accelerate the cycle of innovation",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 8.54,
+  "end": 33.5
+ },
+ "sentences": [
+  {
+   "text": "Just like coffee powers our mornings, the machines that make it are powered by patents.",
+   "chunks": [
+    {
+     "en": "Just like coffee powers our mornings,",
+     "ko": "커피가 우리 아침에 힘을 주는 것처럼,"
+    },
+    {
+     "en": "the machines that make it",
+     "ko": "그것을 만드는 기계들은"
+    },
+    {
+     "en": "are powered by patents.",
+     "ko": "특허로 작동된다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coffee",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "powers",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mornings,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "machines",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "powered",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patents.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "make it은 k가 다음 모음 it으로 이어진다.",
+   "start": 8.54,
+   "end": 15.08
+  },
+  {
+   "text": "Many parts of a coffee machine are separate inventions made by different people and combined over time to create something useful, while some other ideas become visionary advancements.",
+   "chunks": [
+    {
+     "en": "Many parts of a coffee machine are separate inventions",
+     "ko": "커피 기계의 많은 부분은 각각 별개의 발명품이다"
+    },
+    {
+     "en": "made by different people and combined over time",
+     "ko": "서로 다른 사람들이 만들어 시간이 지나며 결합된"
+    },
+    {
+     "en": "to create something useful,",
+     "ko": "유용한 것을 만들어내기 위해,"
+    },
+    {
+     "en": "while some other ideas become visionary advancements.",
+     "ko": "반면 다른 아이디어들은 혁신적인 발전이 된다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coffee",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "machine",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "separate",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inventions",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "combined",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "create",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "useful,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "while",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ideas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visionary",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "advancements.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "combined over는 d가 다음 모음 over로 이어진다.",
+   "start": 15.08,
+   "end": 27.66
+  },
+  {
+   "text": "And almost all inventions are small steps made to improve our everyday lives.",
+   "chunks": [
+    {
+     "en": "And almost all inventions are small steps",
+     "ko": "그리고 거의 모든 발명품은 작은 발걸음이다"
+    },
+    {
+     "en": "made to improve our everyday lives.",
+     "ko": "우리의 일상을 개선하기 위해 만들어진."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almost",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inventions",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "steps",
+     "strong": true,
+     "link": false,
+     "syl": "STEPS"
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "improve",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everyday",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "lives.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "improve our는 v가 다음 모음 our로 이어진다.",
+   "start": 27.66,
+   "end": 33.5
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the segment compare to the way coffee powers our mornings?",
+   "options": [
+    "How machines are powered by patents",
+    "How electricity is generated",
+    "How coffee beans are grown"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 coffee가 아침에 힘을 주는 것처럼 기계는 특허로 작동된다고 비교한다."
+  },
+  {
+   "q": "According to the segment, what are the parts of a coffee machine?",
+   "options": [
+    "Separate inventions made by different people",
+    "All designed by one single inventor",
+    "Copied from older machines without patents"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 각 부분이 서로 다른 사람들이 만든 별개의 발명품이라고 말한다."
+  },
+  {
+   "q": "What do some other ideas become, according to the segment?",
+   "options": [
+    "Visionary advancements",
+    "Complete failures",
+    "Illegal inventions"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 후반에서 some other ideas become visionary advancements라고 말한다."
+  },
+  {
+   "q": "How does the segment describe most inventions?",
+   "options": [
+    "Small steps made to improve everyday lives",
+    "Accidents with no real purpose",
+    "Only useful for scientists"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 inventions are small steps made to improve our everyday lives라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "powered by",
+   "ko": "~에 의해 작동되는",
+   "note": "어떤 힘이나 기술로 움직인다는 뜻."
+  },
+  {
+   "term": "separate inventions",
+   "ko": "별개의 발명품",
+   "note": "서로 독립적으로 만들어진 발명품을 가리킨다."
+  },
+  {
+   "term": "visionary advancements",
+   "ko": "혁신적인 발전",
+   "note": "미래를 내다보는 획기적인 발전을 뜻한다."
+  },
+  {
+   "term": "everyday lives",
+   "ko": "일상 생활",
+   "note": "매일의 평범한 생활을 가리키는 표현."
+  }
+ ]
+}

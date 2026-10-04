@@ -1,0 +1,602 @@
+{
+ "video_id": "NgE7ZVH6vjg",
+ "source_title": "2024 Liberty & Britannia",
+ "source_channel": "U.S. Mint",
+ "segment": {
+  "start": 59.44,
+  "end": 84.56
+ },
+ "sentences": [
+  {
+   "text": "I wanted people to be able to see themselves in this Liberty.",
+   "chunks": [
+    {
+     "en": "I wanted people",
+     "ko": "나는 원했다 사람들이"
+    },
+    {
+     "en": "to be able to see themselves",
+     "ko": "자신을 볼 수 있기를"
+    },
+    {
+     "en": "in this Liberty.",
+     "ko": "이 리버티상 안에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wanted",
+     "strong": true,
+     "link": false,
+     "syl": "want"
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "able",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": true,
+     "link": false,
+     "syl": "see"
+    },
+    {
+     "w": "themselves",
+     "strong": true,
+     "link": false,
+     "syl": "selves"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Liberty.",
+     "strong": true,
+     "link": false,
+     "syl": "lib"
+    }
+   ],
+   "tip": "",
+   "start": 59.44,
+   "end": 62.04
+  },
+  {
+   "text": "I want her to represent all Americans.",
+   "chunks": [
+    {
+     "en": "I want her",
+     "ko": "나는 원한다 그녀가"
+    },
+    {
+     "en": "to represent all Americans.",
+     "ko": "모든 미국인들을 대표하기를"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": true,
+     "link": false,
+     "syl": "want"
+    },
+    {
+     "w": "her",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "represent",
+     "strong": true,
+     "link": false,
+     "syl": "sent"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Americans.",
+     "strong": true,
+     "link": false,
+     "syl": "mer"
+    }
+   ],
+   "tip": "",
+   "start": 62.04,
+   "end": 66.2
+  },
+  {
+   "text": "Coins are art that you hold in your hand, and to really enjoy this coin and see it you need to rotate it.",
+   "chunks": [
+    {
+     "en": "Coins are art",
+     "ko": "동전은 예술이다"
+    },
+    {
+     "en": "that you hold in your hand,",
+     "ko": "손에 쥐고 있는"
+    },
+    {
+     "en": "and to really enjoy this coin and see it",
+     "ko": "그리고 이 동전을 정말로 즐기고 보려면"
+    },
+    {
+     "en": "you need to rotate it.",
+     "ko": "돌려볼 필요가 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Coins",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "art",
+     "strong": true,
+     "link": false,
+     "syl": "art"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hold",
+     "strong": true,
+     "link": false,
+     "syl": "hold"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hand,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoy",
+     "strong": true,
+     "link": false,
+     "syl": "joy"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coin",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rotate",
+     "strong": true,
+     "link": false,
+     "syl": "ro"
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "see it에서 see의 자음이 it의 모음으로 이어집니다.",
+   "start": 66.2,
+   "end": 71.92
+  },
+  {
+   "text": "There's a participatory element to this coin that's not a novelty, it's a necessity.",
+   "chunks": [
+    {
+     "en": "There's a participatory element",
+     "ko": "참여적인 요소가 있다"
+    },
+    {
+     "en": "to this coin",
+     "ko": "이 동전에는"
+    },
+    {
+     "en": "that's not a novelty,",
+     "ko": "그것은 신기함이 아니라,"
+    },
+    {
+     "en": "it's a necessity.",
+     "ko": "필수다"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "participatory",
+     "strong": true,
+     "link": false,
+     "syl": "par"
+    },
+    {
+     "w": "element",
+     "strong": true,
+     "link": false,
+     "syl": "el"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coin",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "novelty,",
+     "strong": true,
+     "link": false,
+     "syl": "nov"
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "necessity.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 71.92,
+   "end": 78.12
+  },
+  {
+   "text": "The reverse is the idea of the two oldest trees on each continent reaching out across the sea to each other.",
+   "chunks": [
+    {
+     "en": "The reverse is the idea",
+     "ko": "뒷면은 아이디어다"
+    },
+    {
+     "en": "of the two oldest trees",
+     "ko": "가장 오래된 두 나무의"
+    },
+    {
+     "en": "on each continent",
+     "ko": "각 대륙에 있는"
+    },
+    {
+     "en": "reaching out across the sea to each other.",
+     "ko": "서로를 향해 바다를 건너 뻗어나가는"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reverse",
+     "strong": true,
+     "link": false,
+     "syl": "verse"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "idea",
+     "strong": true,
+     "link": false,
+     "syl": "dea"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "oldest",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    },
+    {
+     "w": "trees",
+     "strong": true,
+     "link": false,
+     "syl": "trees"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "continent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reaching",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "across",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 78.12,
+   "end": 84.56
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why does the designer want people to rotate the coin?",
+   "options": [
+    "To really enjoy and see the whole design",
+    "To check if it is real gold",
+    "To read the mint mark"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 돌려봐야 동전을 즐길 수 있다고 한다."
+  },
+  {
+   "q": "What does the designer say the participatory element of the coin is?",
+   "options": [
+    "A novelty",
+    "A necessity",
+    "A mistake"
+   ],
+   "answer": 1,
+   "why": "네 번째 문장에서 그것은 신기함이 아니라 필수라고 말한다."
+  },
+  {
+   "q": "What does the reverse side of the coin show?",
+   "options": [
+    "Two oldest trees on each continent reaching toward each other",
+    "A map of the United States",
+    "A portrait of a president"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 뒷면은 각 대륙의 가장 오래된 두 나무에 대한 아이디어라고 한다."
+  },
+  {
+   "q": "Who does the designer want the figure of Liberty to represent?",
+   "options": [
+    "Only one specific group",
+    "All Americans",
+    "Only historical figures"
+   ],
+   "answer": 1,
+   "why": "두 번째 문장에서 모든 미국인을 대표하길 원한다고 한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "participatory element",
+   "ko": "참여를 이끄는 요소",
+   "note": "사용자가 직접 행동해야 의미가 드러나는 디자인 요소"
+  },
+  {
+   "term": "novelty",
+   "ko": "신기한 것, 참신함",
+   "note": "일시적인 흥미를 주는 것"
+  },
+  {
+   "term": "necessity",
+   "ko": "필수품, 필요성",
+   "note": "반드시 있어야 하는 것"
+  },
+  {
+   "term": "reverse",
+   "ko": "(동전의) 뒷면",
+   "note": "동전 앞면은 obverse, 뒷면은 reverse라고 한다"
+  },
+  {
+   "term": "rotate",
+   "ko": "돌리다, 회전시키다",
+   "note": "동전을 이리저리 돌려보는 동작을 가리킨다"
+  }
+ ]
+}

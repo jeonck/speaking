@@ -1,0 +1,510 @@
+{
+ "video_id": "0cudJh7vqgc",
+ "source_title": "Memorial Day Snap",
+ "source_channel": "USAGov",
+ "segment": {
+  "start": 25.41,
+  "end": 50.49
+ },
+ "sentences": [
+  {
+   "text": "Decoration Day, as it was called, involved laying flowers on soldiers' graves.",
+   "chunks": [
+    {
+     "en": "Decoration Day,",
+     "ko": "데커레이션 데이는,"
+    },
+    {
+     "en": "as it was called,",
+     "ko": "그렇게 불렸는데,"
+    },
+    {
+     "en": "involved laying flowers on soldiers' graves.",
+     "ko": "군인들의 무덤에 꽃을 놓는 것을 포함했다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Decoration",
+     "strong": true,
+     "link": false,
+     "syl": "ra"
+    },
+    {
+     "w": "Day,",
+     "strong": true,
+     "link": false,
+     "syl": "Day"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "involved",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laying",
+     "strong": true,
+     "link": false,
+     "syl": "lay"
+    },
+    {
+     "w": "flowers",
+     "strong": true,
+     "link": true,
+     "syl": "flow"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soldiers'",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "graves.",
+     "strong": true,
+     "link": false,
+     "syl": "graves"
+    }
+   ],
+   "tip": "flowers on처럼 끝자음을 다음 모음에 이어 '플라워존'이라고 읽어요.",
+   "start": 25.41,
+   "end": 30.65
+  },
+  {
+   "text": "It was first observed in 1868 at Arlington National Cemetery.",
+   "chunks": [
+    {
+     "en": "It was first observed in 1868",
+     "ko": "그것은 1868년에 처음 거행되었다"
+    },
+    {
+     "en": "at Arlington National Cemetery.",
+     "ko": "알링턴 국립묘지에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "observed",
+     "strong": true,
+     "link": true,
+     "syl": "served"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "1868",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Arlington",
+     "strong": true,
+     "link": false,
+     "syl": "Ar"
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Cemetery.",
+     "strong": true,
+     "link": false,
+     "syl": "cem"
+    }
+   ],
+   "tip": "observed in, in 1868, at Arlington처럼 자음을 모음에 이어 읽어요.",
+   "start": 30.65,
+   "end": 35.7
+  },
+  {
+   "text": "Civil War General and future president Ulysses S. Grant attended the ceremony.",
+   "chunks": [
+    {
+     "en": "Civil War General and future president",
+     "ko": "남북전쟁의 장군이자 미래의 대통령인"
+    },
+    {
+     "en": "Ulysses S. Grant attended the ceremony.",
+     "ko": "율리시스 S. 그랜트가 그 행사에 참석했다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Civil",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "War",
+     "strong": true,
+     "link": false,
+     "syl": "War"
+    },
+    {
+     "w": "General",
+     "strong": true,
+     "link": true,
+     "syl": "gen"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "future",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "president",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Ulysses",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Grant",
+     "strong": true,
+     "link": true,
+     "syl": "Grant"
+    },
+    {
+     "w": "attended",
+     "strong": true,
+     "link": false,
+     "syl": "tend"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ceremony.",
+     "strong": true,
+     "link": false,
+     "syl": "cer"
+    }
+   ],
+   "tip": "General and, president Ulysses, Grant attended처럼 자음 뒤 모음은 이어 읽어요.",
+   "start": 35.7,
+   "end": 40.96
+  },
+  {
+   "text": "It wasn't until 1971 that Memorial Day was moved to the last Monday of May.",
+   "chunks": [
+    {
+     "en": "It wasn't until 1971",
+     "ko": "1971년이 되어서야"
+    },
+    {
+     "en": "that Memorial Day was moved",
+     "ko": "메모리얼 데이가 옮겨진 것은"
+    },
+    {
+     "en": "to the last Monday of May.",
+     "ko": "5월의 마지막 월요일로."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wasn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "until",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "1971",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Memorial",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    },
+    {
+     "w": "Day",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moved",
+     "strong": true,
+     "link": false,
+     "syl": "moved"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Monday",
+     "strong": true,
+     "link": true,
+     "syl": "mon"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "May.",
+     "strong": true,
+     "link": false,
+     "syl": "may"
+    }
+   ],
+   "tip": "until 1971과 Monday of는 부드럽게 이어 읽어요.",
+   "start": 40.96,
+   "end": 45.54
+  },
+  {
+   "text": "On Memorial Day, the flag is flown at half-staff from sunrise until noon.",
+   "chunks": [
+    {
+     "en": "On Memorial Day,",
+     "ko": "메모리얼 데이에는,"
+    },
+    {
+     "en": "the flag is flown at half-staff",
+     "ko": "조기(半旗)로 게양된다"
+    },
+    {
+     "en": "from sunrise until noon.",
+     "ko": "해 뜰 때부터 정오까지."
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Memorial",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Day,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flag",
+     "strong": true,
+     "link": true,
+     "syl": "flag"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flown",
+     "strong": true,
+     "link": true,
+     "syl": "flown"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "half-staff",
+     "strong": true,
+     "link": false,
+     "syl": "half"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sunrise",
+     "strong": true,
+     "link": false,
+     "syl": "sun"
+    },
+    {
+     "w": "until",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "noon.",
+     "strong": true,
+     "link": false,
+     "syl": "noon"
+    }
+   ],
+   "tip": "flag is와 flown at처럼 끝자음을 다음 모음에 이어 읽어요.",
+   "start": 45.54,
+   "end": 50.49
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did Decoration Day originally involve?",
+   "options": [
+    "Laying flowers on soldiers' graves",
+    "Flying flags at half-staff",
+    "Giving speeches at the White House"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: involved laying flowers on soldiers' graves."
+  },
+  {
+   "q": "Where was Decoration Day first observed in 1868?",
+   "options": [
+    "Gettysburg National Cemetery",
+    "Arlington National Cemetery",
+    "The U.S. Capitol"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: first observed in 1868 at Arlington National Cemetery."
+  },
+  {
+   "q": "Who attended the first ceremony?",
+   "options": [
+    "A Civil War general and future president",
+    "A sitting U.S. senator",
+    "A famous poet"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: Ulysses S. Grant attended the ceremony."
+  },
+  {
+   "q": "When was Memorial Day moved to the last Monday of May?",
+   "options": [
+    "1868",
+    "1944",
+    "1971"
+   ],
+   "answer": 2,
+   "why": "4번째 문장: wasn't until 1971 that Memorial Day was moved."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Decoration Day",
+   "ko": "현충 기념일의 옛 이름",
+   "note": "지금의 Memorial Day를 예전엔 이렇게 불렀어요."
+  },
+  {
+   "term": "half-staff",
+   "ko": "조기(半旗) 상태",
+   "note": "flown at half-staff = 깃대 중간까지만 올려 게양하다."
+  },
+  {
+   "term": "attend the ceremony",
+   "ko": "행사에 참석하다",
+   "note": "attend는 go to보다 격식 있는 표현이에요."
+  },
+  {
+   "term": "wasn't until A that B",
+   "ko": "A가 되어서야 B했다",
+   "note": "It wasn't until 1971 that... 구문, A 전까지는 B가 일어나지 않았다는 뜻."
+  }
+ ]
+}

@@ -1,0 +1,484 @@
+{
+ "video_id": "8b6xdk8xEc4",
+ "source_title": "Inventor uses the USPTO’s Patent Pro Bono Program to help athletes perform better",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 9.92,
+  "end": 39.01
+ },
+ "sentences": [
+  {
+   "text": "My invention is a piece of fitness equipment to help athletes warm up.",
+   "chunks": [
+    {
+     "en": "My invention is a piece of fitness equipment",
+     "ko": "제 발명품은 운동 기구인데"
+    },
+    {
+     "en": "to help athletes warm up.",
+     "ko": "선수들이 몸을 풀 수 있도록 도와줍니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "invention",
+     "strong": true,
+     "link": false,
+     "syl": "VEN"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "piece",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fitness",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "equipment",
+     "strong": true,
+     "link": false,
+     "syl": "QUIP"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "athletes",
+     "strong": true,
+     "link": false,
+     "syl": "ATH"
+    },
+    {
+     "w": "warm",
+     "strong": true,
+     "link": true,
+     "syl": "WARM"
+    },
+    {
+     "w": "up.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "warm up은 '웜업'처럼 두 단어를 붙여서 발음해보세요.",
+   "start": 9.92,
+   "end": 14.53
+  },
+  {
+   "text": "And it consists of a knee brace, resistance cables and a half shoe that attaches to your own shoes.",
+   "chunks": [
+    {
+     "en": "And it consists of a knee brace,",
+     "ko": "그리고 무릎 보호대로 구성되어 있고"
+    },
+    {
+     "en": "resistance cables and a half shoe",
+     "ko": "저항 케이블과 신발 절반 정도 되는 덧신이 있어서"
+    },
+    {
+     "en": "that attaches to your own shoes.",
+     "ko": "자신의 신발에 부착하게 됩니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "consists",
+     "strong": true,
+     "link": true,
+     "syl": "SISTS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "knee",
+     "strong": true,
+     "link": false,
+     "syl": "KNEE"
+    },
+    {
+     "w": "brace,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "resistance",
+     "strong": true,
+     "link": false,
+     "syl": "SIS"
+    },
+    {
+     "w": "cables",
+     "strong": true,
+     "link": false,
+     "syl": "CA"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "half",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shoe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "attaches",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shoes.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "resistance cables는 끝을 흘리듯 이어서 '리지스턴스 케이블즈'처럼 읽어보세요.",
+   "start": 14.53,
+   "end": 21.72
+  },
+  {
+   "text": "They'll be able to improve their vertical jump, their speed, agility and mobility right after they finish using it because they're on their forefoot throughout the entire time they are performing their drills.",
+   "chunks": [
+    {
+     "en": "They'll be able to improve their vertical jump,",
+     "ko": "선수들은 수직 점프를 향상시킬 수 있고"
+    },
+    {
+     "en": "their speed, agility and mobility right after they finish using it",
+     "ko": "사용을 마친 직후부터 속도, 민첩성, 유연성도 좋아지는데"
+    },
+    {
+     "en": "because they're on their forefoot throughout the entire time",
+     "ko": "왜냐하면 그 내내 앞발로 서 있기 때문이며"
+    },
+    {
+     "en": "they are performing their drills.",
+     "ko": "드릴을 수행하는 동안 그렇게 됩니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "They'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "able",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "improve",
+     "strong": true,
+     "link": false,
+     "syl": "PROVE"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vertical",
+     "strong": true,
+     "link": false,
+     "syl": "VER"
+    },
+    {
+     "w": "jump,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speed,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "agility",
+     "strong": true,
+     "link": false,
+     "syl": "IL"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mobility",
+     "strong": true,
+     "link": false,
+     "syl": "BIL"
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finish",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "using",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forefoot",
+     "strong": true,
+     "link": false,
+     "syl": "FORE"
+    },
+    {
+     "w": "throughout",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "entire",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "performing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drills.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "they're on their forefoot는 '데어론데어포어풋'처럼 빠르게 연결해 읽어보세요.",
+   "start": 21.72,
+   "end": 39.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the invention designed to help athletes do?",
+   "options": [
+    "Warm up before performing",
+    "Record their scores",
+    "Travel to competitions"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 선수들이 몸을 풀도록 돕는다고 합니다."
+  },
+  {
+   "q": "What parts make up the invention?",
+   "options": [
+    "A knee brace, resistance cables, and a footwear attachment",
+    "A helmet and gloves",
+    "A stopwatch and a whistle"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 구성 요소를 설명합니다."
+  },
+  {
+   "q": "What does the invention attach to?",
+   "options": [
+    "The user's own shoes",
+    "A treadmill",
+    "A weight bench"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 자신의 신발에 부착한다고 합니다."
+  },
+  {
+   "q": "Why do users improve their speed and agility right after using it?",
+   "options": [
+    "Because they stay on their forefoot throughout their drills",
+    "Because it tracks their heart rate",
+    "Because it adds extra weight"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 앞발로 서 있기 때문이라고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "knee brace",
+   "ko": "무릎 보호대",
+   "note": "무릎을 지지해 주는 장비예요."
+  },
+  {
+   "term": "resistance cables",
+   "ko": "저항 케이블",
+   "note": "운동할 때 저항을 주는 케이블이에요."
+  },
+  {
+   "term": "vertical jump",
+   "ko": "수직 점프 능력",
+   "note": "위로 뛰어오르는 높이를 뜻해요."
+  },
+  {
+   "term": "agility",
+   "ko": "민첩성",
+   "note": "빠르게 방향을 바꾸는 능력이에요."
+  },
+  {
+   "term": "forefoot",
+   "ko": "앞발",
+   "note": "발의 앞쪽 부분을 가리켜요."
+  }
+ ]
+}

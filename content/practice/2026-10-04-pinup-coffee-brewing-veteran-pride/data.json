@@ -1,0 +1,661 @@
+{
+ "video_id": "f1K6s0QBvKg",
+ "source_title": "SBA Success Story: Pinup Coffee",
+ "source_channel": "U.S. Small Business Administration",
+ "segment": {
+  "start": 78.54,
+  "end": 105.27
+ },
+ "sentences": [
+  {
+   "text": "What I wanted to do was have a coffee shop that was great coffee, but was also welcoming.",
+   "chunks": [
+    {
+     "en": "What I wanted to do",
+     "ko": "내가 하고 싶었던 것은"
+    },
+    {
+     "en": "was have a coffee shop",
+     "ko": "커피숍을 갖는 것이었다"
+    },
+    {
+     "en": "that was great coffee,",
+     "ko": "훌륭한 커피를 파는,"
+    },
+    {
+     "en": "but was also welcoming.",
+     "ko": "하지만 또한 아늑한 곳이기도 한."
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wanted",
+     "strong": true,
+     "link": false,
+     "syl": "WANT"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coffee",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shop",
+     "strong": true,
+     "link": false,
+     "syl": "SHOP"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false,
+     "syl": "GREAT"
+    },
+    {
+     "w": "coffee,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "welcoming.",
+     "strong": true,
+     "link": false,
+     "syl": "WEL"
+    }
+   ],
+   "tip": "have a, was also처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 78.54,
+   "end": 83.5
+  },
+  {
+   "text": "And being an air crewman in the Navy, I decided to tie that to art that was on the World War II aircraft and kind of celebrate us being veterans a little bit more.",
+   "chunks": [
+    {
+     "en": "And being an air crewman in the Navy,",
+     "ko": "그리고 해군에서 항공 승무원으로 복무하면서,"
+    },
+    {
+     "en": "I decided to tie that to art",
+     "ko": "나는 그것을 예술과 연결하기로 했다"
+    },
+    {
+     "en": "that was on the World War II aircraft",
+     "ko": "2차 세계대전 항공기에 그려져 있던"
+    },
+    {
+     "en": "and kind of celebrate us being veterans",
+     "ko": "그리고 우리가 참전군인이라는 것을 좀 더 기념하기 위해"
+    },
+    {
+     "en": "a little bit more.",
+     "ko": "조금 더."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "air",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crewman",
+     "strong": true,
+     "link": false,
+     "syl": "CREW"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Navy,",
+     "strong": true,
+     "link": false,
+     "syl": "NA"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decided",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tie",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "art",
+     "strong": true,
+     "link": false,
+     "syl": "ART"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "World",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "War",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "II",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "aircraft",
+     "strong": true,
+     "link": false,
+     "syl": "AIR"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "celebrate",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "veterans",
+     "strong": true,
+     "link": false,
+     "syl": "VET"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bit",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "an air, kind of, celebrate us처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 83.5,
+   "end": 93.89
+  },
+  {
+   "text": "I first got connected with the SBA when I was on deployment, trying to learn all things business.",
+   "chunks": [
+    {
+     "en": "I first got connected with the SBA",
+     "ko": "나는 처음 SBA와 연결되었다"
+    },
+    {
+     "en": "when I was on deployment,",
+     "ko": "내가 파병 중이었을 때,"
+    },
+    {
+     "en": "trying to learn all things business.",
+     "ko": "사업에 관한 모든 것을 배우려고 하면서."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "connected",
+     "strong": true,
+     "link": false,
+     "syl": "NECT"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "SBA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deployment,",
+     "strong": true,
+     "link": false,
+     "syl": "PLOY"
+    },
+    {
+     "w": "trying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": false,
+     "syl": "LEARN"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "connected, deployment, learn, business에 강세를 주며 리듬을 살린다.",
+   "start": 93.89,
+   "end": 99.02
+  },
+  {
+   "text": "So that means I didn't know anything about cost of goods, how to write a business plan, how to run payroll.",
+   "chunks": [
+    {
+     "en": "So that means I didn't know anything",
+     "ko": "그래서 그것은 내가 아무것도 몰랐다는 뜻이다"
+    },
+    {
+     "en": "about cost of goods,",
+     "ko": "매출원가에 대해,"
+    },
+    {
+     "en": "how to write a business plan,",
+     "ko": "사업계획서를 쓰는 방법이나,"
+    },
+    {
+     "en": "how to run payroll.",
+     "ko": "급여를 관리하는 방법에 대해."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "means",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "anything",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cost",
+     "strong": true,
+     "link": true,
+     "syl": "COST"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "goods,",
+     "strong": true,
+     "link": false,
+     "syl": "GOODS"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "write",
+     "strong": true,
+     "link": true,
+     "syl": "WRITE"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plan,",
+     "strong": true,
+     "link": false,
+     "syl": "PLAN"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "run",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "payroll.",
+     "strong": true,
+     "link": false,
+     "syl": "PAY"
+    }
+   ],
+   "tip": "cost of, write a처럼 자음 뒤 모음이 이어질 때 연결해서 발음한다.",
+   "start": 99.02,
+   "end": 105.27
+  }
+ ],
+ "questions": [
+  {
+   "q": "What two qualities did the speaker want the coffee shop to have?",
+   "options": [
+    "Great coffee and a welcoming feel",
+    "Low prices and fast service",
+    "Loud music and bright colors"
+   ],
+   "answer": 0,
+   "why": "have a coffee shop that was great coffee, but was also welcoming라고 말함."
+  },
+  {
+   "q": "What did the speaker tie the coffee shop's art theme to?",
+   "options": [
+    "Art from World War II aircraft",
+    "Modern abstract art",
+    "Famous paintings"
+   ],
+   "answer": 0,
+   "why": "tie that to art that was on the World War II aircraft라고 언급됨."
+  },
+  {
+   "q": "When did the speaker first connect with the SBA?",
+   "options": [
+    "While on deployment",
+    "After opening the shop",
+    "Before joining the Navy"
+   ],
+   "answer": 0,
+   "why": "I first got connected with the SBA when I was on deployment라고 말함."
+  },
+  {
+   "q": "What business topics did the speaker not know about at first?",
+   "options": [
+    "Cost of goods, writing a business plan, and running payroll",
+    "Marketing and advertising",
+    "Hiring and firing employees"
+   ],
+   "answer": 0,
+   "why": "I didn't know anything about cost of goods, how to write a business plan, how to run payroll라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "welcoming",
+   "ko": "아늑하고 환영하는 느낌의",
+   "note": "분위기나 장소가 편안하고 친근함을 나타냄"
+  },
+  {
+   "term": "air crewman",
+   "ko": "항공 승무원(군대)",
+   "note": "군용기에 탑승해 임무를 수행하는 인원"
+  },
+  {
+   "term": "on deployment",
+   "ko": "파병 중인",
+   "note": "군인이 임무를 위해 해외 등으로 파견된 상태"
+  },
+  {
+   "term": "cost of goods",
+   "ko": "매출원가",
+   "note": "제품을 만들거나 제공하는 데 드는 직접 비용"
+  },
+  {
+   "term": "business plan",
+   "ko": "사업계획서",
+   "note": "사업의 목표와 전략을 정리한 문서"
+  },
+  {
+   "term": "payroll",
+   "ko": "급여 관리, 임금 지급",
+   "note": "직원들에게 급여를 지급하는 업무"
+  }
+ ]
+}

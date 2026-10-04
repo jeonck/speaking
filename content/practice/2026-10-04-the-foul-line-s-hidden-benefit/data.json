@@ -1,0 +1,461 @@
+{
+ "video_id": "HxI4_IeTJh4",
+ "source_title": "Early Baseball in Print",
+ "source_channel": "Library of Congress",
+ "segment": {
+  "start": 304.73,
+  "end": 329.98
+ },
+ "sentences": [
+  {
+   "text": "Another crucial benefit of the foul line was the creation of out of bounds space that was safe for the thousands of spectators and journalists who soon occupied foul territory behind home plate and all down the foul line to catch a view of the game.",
+   "chunks": [
+    {
+     "en": "Another crucial benefit of the foul line was",
+     "ko": "파울 라인의 또 다른 중요한 이점은"
+    },
+    {
+     "en": "the creation of out of bounds space",
+     "ko": "경기장 밖 안전 구역을 만든 것이었는데"
+    },
+    {
+     "en": "that was safe for the thousands of spectators and journalists",
+     "ko": "수천 명의 관중과 기자들에게 안전했다"
+    },
+    {
+     "en": "who soon occupied foul territory behind home plate",
+     "ko": "그들은 곧 홈 플레이트 뒤쪽 파울 지역을 차지했고"
+    },
+    {
+     "en": "and all down the foul line to catch a view of the game.",
+     "ko": "파울 라인을 따라 끝까지 내려가 경기를 보기 위해 자리했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Another",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crucial",
+     "strong": true,
+     "link": false,
+     "syl": "CRU"
+    },
+    {
+     "w": "benefit",
+     "strong": true,
+     "link": false,
+     "syl": "BEN"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foul",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "line",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "creation",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bounds",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "space",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thousands",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spectators",
+     "strong": true,
+     "link": false,
+     "syl": "SPEC"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "journalists",
+     "strong": true,
+     "link": false,
+     "syl": "JOUR"
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soon",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "occupied",
+     "strong": true,
+     "link": false,
+     "syl": "OC"
+    },
+    {
+     "w": "foul",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "territory",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "behind",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plate",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foul",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "line",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "catch",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "view",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "game.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "문장이 길어도 쉼 없이 숨 조절을 하며 끝까지 이어 읽는 연습을 해보세요.",
+   "start": 304.73,
+   "end": 320.67333333333335
+  },
+  {
+   "text": "As early as 1862, Brooklyn was home to a defined baseball facility with a capacity of roughly 6,500 spectators.",
+   "chunks": [
+    {
+     "en": "As early as 1862,",
+     "ko": "1862년 초에는"
+    },
+    {
+     "en": "Brooklyn was home to a defined baseball facility",
+     "ko": "브루클린에 지정된 야구 시설이 있었는데"
+    },
+    {
+     "en": "with a capacity of roughly 6,500 spectators.",
+     "ko": "약 6,500명을 수용할 수 있는 규모였다"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "early",
+     "strong": true,
+     "link": false,
+     "syl": "EAR"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1862,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Brooklyn",
+     "strong": true,
+     "link": false,
+     "syl": "BROOK"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "defined",
+     "strong": true,
+     "link": false,
+     "syl": "FINED"
+    },
+    {
+     "w": "baseball",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "facility",
+     "strong": true,
+     "link": false,
+     "syl": "CIL"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "capacity",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roughly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "6,500",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spectators.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "숫자 1862와 6,500은 또박또박 말하되 리듬은 끊지 않도록 하세요.",
+   "start": 320.67333333333335,
+   "end": 329.98
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the foul line create besides fair and foul territory?",
+   "options": [
+    "A safe out-of-bounds space for spectators",
+    "A second home plate",
+    "A new scoring system"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 관중을 위한 안전한 구역을 만들었다고 합니다."
+  },
+  {
+   "q": "Where did spectators and journalists gather to watch the game?",
+   "options": [
+    "Behind home plate and along the foul line",
+    "In the outfield grass",
+    "Underneath the pitcher's mound"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 홈 플레이트 뒤쪽과 파울 라인을 따라 자리했다고 설명합니다."
+  },
+  {
+   "q": "By what year did Brooklyn have a defined baseball facility?",
+   "options": [
+    "1862",
+    "1900",
+    "1776"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 1862년이라고 언급됩니다."
+  },
+  {
+   "q": "Roughly how many spectators could the Brooklyn facility hold?",
+   "options": [
+    "About 6,500",
+    "About 60,000",
+    "About 650"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 약 6,500명이라고 나옵니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "out of bounds",
+   "ko": "경기장 밖, 아웃 오브 바운즈",
+   "note": "경기 구역 바깥의 공간을 뜻해요."
+  },
+  {
+   "term": "occupy",
+   "ko": "차지하다, 점유하다",
+   "note": "공간을 차지한다는 뜻으로 자주 쓰여요."
+  },
+  {
+   "term": "capacity",
+   "ko": "수용 인원",
+   "note": "시설이 수용할 수 있는 인원수를 말해요."
+  },
+  {
+   "term": "facility",
+   "ko": "시설",
+   "note": "경기장 같은 구조물을 가리켜요."
+  }
+ ]
+}

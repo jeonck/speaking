@@ -1,0 +1,452 @@
+{
+ "video_id": "L_4bdC_oQdE",
+ "source_title": "Historic Preservation: Living Assets and the U.S. Capitol Grounds",
+ "source_channel": "Architect of the Capitol",
+ "segment": {
+  "start": 15.9,
+  "end": 40.22
+ },
+ "sentences": [
+  {
+   "text": "Frederick Law Olmsted is the father of American landscape architecture.",
+   "chunks": [
+    {
+     "en": "Frederick Law Olmsted",
+     "ko": "프레더릭 로 옴스테드는"
+    },
+    {
+     "en": "is the father of American landscape architecture.",
+     "ko": "미국 조경 건축의 아버지이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Frederick",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Law",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Olmsted",
+     "strong": true,
+     "link": false,
+     "syl": "OLM"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "father",
+     "strong": true,
+     "link": false,
+     "syl": "FA"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "American",
+     "strong": true,
+     "link": false,
+     "syl": "MER"
+    },
+    {
+     "w": "landscape",
+     "strong": true,
+     "link": false,
+     "syl": "LAND"
+    },
+    {
+     "w": "architecture.",
+     "strong": true,
+     "link": false,
+     "syl": "TEC"
+    }
+   ],
+   "tip": "father, American, landscape, architecture에 강세를 주고 of American은 이어 읽어요.",
+   "start": 15.9,
+   "end": 20.84
+  },
+  {
+   "text": "Most of his landscapes are large open landscapes and parks.",
+   "chunks": [
+    {
+     "en": "Most of his landscapes",
+     "ko": "그의 조경 작품 대부분은"
+    },
+    {
+     "en": "are large open landscapes and parks.",
+     "ko": "크고 개방된 조경지와 공원이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": true,
+     "link": false,
+     "syl": "MOST"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "his",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "landscapes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "large",
+     "strong": true,
+     "link": false,
+     "syl": "LARGE"
+    },
+    {
+     "w": "open",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    },
+    {
+     "w": "landscapes",
+     "strong": true,
+     "link": false,
+     "syl": "LAND"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parks.",
+     "strong": true,
+     "link": false,
+     "syl": "PARKS"
+    }
+   ],
+   "tip": "large, open, landscapes, parks에 강세를 주며 리듬감 있게 읽어요.",
+   "start": 20.84,
+   "end": 26.32
+  },
+  {
+   "text": "That's what makes the U.S. Capitol and the Capitol grounds so distinctly different from much of his other landscapes is because he designed this not as a park, but really as a place where the landscape is second to the building.",
+   "chunks": [
+    {
+     "en": "That's what makes the U.S. Capitol and the Capitol grounds so distinctly different",
+     "ko": "그것이 미 국회의사당과 그 부지를 그렇게 뚜렷하게 다르게 만드는 것인데"
+    },
+    {
+     "en": "from much of his other landscapes",
+     "ko": "그의 다른 조경 작품들과 비교해서"
+    },
+    {
+     "en": "is because he designed this not as a park,",
+     "ko": "그가 이곳을 공원이 아니라"
+    },
+    {
+     "en": "but really as a place where the landscape is second to the building.",
+     "ko": "오히려 건물보다 조경이 부차적인 장소로 설계했기 때문이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Capitol",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Capitol",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grounds",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "distinctly",
+     "strong": true,
+     "link": false,
+     "syl": "TINCT"
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "his",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "landscapes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "designed",
+     "strong": true,
+     "link": false,
+     "syl": "SIGNED"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "park,",
+     "strong": true,
+     "link": false,
+     "syl": "PARK"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "landscape",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "second",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building.",
+     "strong": true,
+     "link": false,
+     "syl": "BUILD"
+    }
+   ],
+   "tip": "distinctly, different, designed, park, building에 강세를 두고 길게 끌지 않고 읽어요.",
+   "start": 26.32,
+   "end": 40.22
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is Frederick Law Olmsted known as?",
+   "options": [
+    "The father of American landscape architecture",
+    "A famous U.S. senator",
+    "An architect of the Capitol building"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 '아버지'로 소개됨."
+  },
+  {
+   "q": "What do most of his landscapes typically look like?",
+   "options": [
+    "Large open landscapes and parks",
+    "Small enclosed gardens",
+    "Rooftop gardens"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 설명됨."
+  },
+  {
+   "q": "How is the Capitol grounds design different from his other work?",
+   "options": [
+    "The landscape is secondary to the building, not a park",
+    "It has no plants at all",
+    "It was designed by someone else"
+   ],
+   "answer": 0,
+   "why": "문장 3에서 설명됨."
+  },
+  {
+   "q": "What role does the landscape play at the Capitol grounds, according to the segment?",
+   "options": [
+    "It takes a back seat to the building",
+    "It is the main attraction",
+    "It was removed entirely"
+   ],
+   "answer": 0,
+   "why": "문장 3 마지막 부분에서 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "distinctly different",
+   "ko": "뚜렷하게 다른",
+   "note": "분명한 차이를 강조하는 표현."
+  },
+  {
+   "term": "second to",
+   "ko": "~보다 부차적인",
+   "note": "우선순위가 더 낮다는 뜻."
+  },
+  {
+   "term": "landscape architecture",
+   "ko": "조경 건축",
+   "note": "정원과 외부 공간을 설계하는 분야."
+  }
+ ]
+}

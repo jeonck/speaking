@@ -1,0 +1,503 @@
+{
+ "video_id": "hiw0dKatbI4",
+ "source_title": "SBA Success Story: Bold Mariner Brewing - Where Are They Now?",
+ "source_channel": "U.S. Small Business Administration",
+ "segment": {
+  "start": 260.5,
+  "end": 286.98
+ },
+ "sentences": [
+  {
+   "text": "We learn in the military to adapt and overcome, to not quit.",
+   "chunks": [
+    {
+     "en": "We learn in the military",
+     "ko": "우리는 군대에서 배운다"
+    },
+    {
+     "en": "to adapt and overcome,",
+     "ko": "적응하고 극복하는 것을,"
+    },
+    {
+     "en": "to not quit.",
+     "ko": "그만두지 않는 것을."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": true,
+     "syl": "LEARN"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "military",
+     "strong": true,
+     "link": false,
+     "syl": "MIL"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "adapt",
+     "strong": true,
+     "link": true,
+     "syl": "DAPT"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "overcome,",
+     "strong": true,
+     "link": false,
+     "syl": "COME"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quit.",
+     "strong": true,
+     "link": false,
+     "syl": "QUIT"
+    }
+   ],
+   "tip": "learn in, adapt and처럼 자음으로 끝나는 단어 뒤에 모음이 오면 이어서 발음한다.",
+   "start": 260.5,
+   "end": 265.8
+  },
+  {
+   "text": "Those are the characteristics of a successful entrepreneur.",
+   "chunks": [
+    {
+     "en": "Those are the characteristics",
+     "ko": "그것들이 바로 특징들이다"
+    },
+    {
+     "en": "of a successful entrepreneur.",
+     "ko": "성공한 기업가의."
+    }
+   ],
+   "words": [
+    {
+     "w": "Those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "characteristics",
+     "strong": true,
+     "link": false,
+     "syl": "IS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "successful",
+     "strong": true,
+     "link": false,
+     "syl": "CESS"
+    },
+    {
+     "w": "entrepreneur.",
+     "strong": true,
+     "link": false,
+     "syl": "NEUR"
+    }
+   ],
+   "tip": "characteristics, entrepreneur처럼 긴 단어는 강세 음절만 또렷하게 발음한다.",
+   "start": 265.8,
+   "end": 269.94
+  },
+  {
+   "text": "I think that Veterans and Veterans' families and spouses have those same characteristics.",
+   "chunks": [
+    {
+     "en": "I think that Veterans",
+     "ko": "나는 참전군인들이"
+    },
+    {
+     "en": "and Veterans' families and spouses",
+     "ko": "그리고 참전군인의 가족과 배우자들도"
+    },
+    {
+     "en": "have those same characteristics.",
+     "ko": "그런 똑같은 특징을 가지고 있다고 생각한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Veterans",
+     "strong": true,
+     "link": true,
+     "syl": "VET"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Veterans'",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "families",
+     "strong": true,
+     "link": false,
+     "syl": "FAM"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spouses",
+     "strong": true,
+     "link": false,
+     "syl": "SPOUS"
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "characteristics.",
+     "strong": true,
+     "link": false,
+     "syl": "IS"
+    }
+   ],
+   "tip": "Veterans and처럼 자음 뒤에 모음이 오면 이어서 발음한다.",
+   "start": 269.94,
+   "end": 275.49
+  },
+  {
+   "text": "Every day, every week brings new opportunities, new challenges, and you have to just continue to adapt and flex and continue to use the resources that are available to you.",
+   "chunks": [
+    {
+     "en": "Every day, every week",
+     "ko": "매일, 매주"
+    },
+    {
+     "en": "brings new opportunities, new challenges,",
+     "ko": "새로운 기회와 새로운 어려움을 가져온다,"
+    },
+    {
+     "en": "and you have to just continue",
+     "ko": "그리고 당신은 그저 계속해야 한다"
+    },
+    {
+     "en": "to adapt and flex",
+     "ko": "적응하고 유연하게 대처하는 것을"
+    },
+    {
+     "en": "and continue to use the resources",
+     "ko": "그리고 계속 자원을 활용하는 것을"
+    },
+    {
+     "en": "that are available to you.",
+     "ko": "당신이 이용할 수 있는."
+    }
+   ],
+   "words": [
+    {
+     "w": "Every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brings",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opportunities,",
+     "strong": true,
+     "link": false,
+     "syl": "TU"
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "challenges,",
+     "strong": true,
+     "link": false,
+     "syl": "CHAL"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "continue",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "adapt",
+     "strong": true,
+     "link": true,
+     "syl": "DAPT"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flex",
+     "strong": true,
+     "link": false,
+     "syl": "FLEX"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "continue",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "resources",
+     "strong": true,
+     "link": false,
+     "syl": "RE"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "available",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "adapt and처럼 자음 뒤에 모음이 이어질 때 자연스럽게 연결해서 발음한다.",
+   "start": 275.49,
+   "end": 286.98
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say people learn in the military?",
+   "options": [
+    "To adapt and overcome, and not quit",
+    "To follow strict schedules",
+    "To work alone"
+   ],
+   "answer": 0,
+   "why": "We learn in the military to adapt and overcome, to not quit라고 말함."
+  },
+  {
+   "q": "According to the speaker, who shares the same characteristics as successful entrepreneurs?",
+   "options": [
+    "Veterans and their families and spouses",
+    "Only business school graduates",
+    "Only company founders"
+   ],
+   "answer": 0,
+   "why": "I think that Veterans and Veterans' families and spouses have those same characteristics라고 언급됨."
+  },
+  {
+   "q": "What does the speaker say a person must keep doing to handle new opportunities and challenges?",
+   "options": [
+    "Continue to adapt, flex, and use available resources",
+    "Avoid taking any risks",
+    "Wait for instructions"
+   ],
+   "answer": 0,
+   "why": "continue to adapt and flex and continue to use the resources that are available to you라고 말함."
+  },
+  {
+   "q": "What are the 'characteristics' mentioned in the segment linked to?",
+   "options": [
+    "A successful entrepreneur",
+    "A professional athlete",
+    "A classroom teacher"
+   ],
+   "answer": 0,
+   "why": "the characteristics of a successful entrepreneur라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "adapt and overcome",
+   "ko": "적응하고 극복하다",
+   "note": "군대식 표현으로 어려움을 극복한다는 의미"
+  },
+  {
+   "term": "characteristics",
+   "ko": "특징, 특성",
+   "note": "사람이나 사물의 성질을 나타낼 때 사용"
+  },
+  {
+   "term": "entrepreneur",
+   "ko": "기업가",
+   "note": "사업을 시작하고 운영하는 사람"
+  },
+  {
+   "term": "available resources",
+   "ko": "이용 가능한 자원",
+   "note": "쓸 수 있는 도구나 지원을 가리킴"
+  }
+ ]
+}
