@@ -1,0 +1,503 @@
+{
+ "video_id": "8B2NlDUcAwY",
+ "source_title": "Tracking Fentanyl | Podcast Featurette",
+ "source_channel": "National Science Foundation",
+ "segment": {
+  "start": 77.94,
+  "end": 102.94
+ },
+ "sentences": [
+  {
+   "text": "Imagine if I was a computer.",
+   "chunks": [
+    {
+     "en": "Imagine",
+     "ko": "상상해봐"
+    },
+    {
+     "en": "if I was a computer.",
+     "ko": "내가 컴퓨터라면"
+    }
+   ],
+   "words": [
+    {
+     "w": "Imagine",
+     "strong": true,
+     "link": false,
+     "syl": "ma"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "computer.",
+     "strong": true,
+     "link": false,
+     "syl": "pu"
+    }
+   ],
+   "tip": "if I, was a처럼 자음과 모음이 자연스럽게 이어져요.",
+   "start": 77.94,
+   "end": 80.31
+  },
+  {
+   "text": "Let's create an algorithm that would teach me how to bake cookies.",
+   "chunks": [
+    {
+     "en": "Let's create an algorithm",
+     "ko": "알고리즘을 하나 만들어보자"
+    },
+    {
+     "en": "that would teach me",
+     "ko": "나에게 가르쳐줄"
+    },
+    {
+     "en": "how to bake cookies.",
+     "ko": "쿠키 굽는 법을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "create",
+     "strong": true,
+     "link": false,
+     "syl": "ate"
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "algorithm",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teach",
+     "strong": true,
+     "link": false,
+     "syl": "teach"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bake",
+     "strong": true,
+     "link": false,
+     "syl": "bake"
+    },
+    {
+     "w": "cookies.",
+     "strong": true,
+     "link": false,
+     "syl": "cook"
+    }
+   ],
+   "tip": "an algorithm처럼 n 다음에 모음이 오면 이어서 발음해요.",
+   "start": 80.31,
+   "end": 84.85
+  },
+  {
+   "text": "The first thing we need are the ingredients like eggs, flour, and chocolate chips.",
+   "chunks": [
+    {
+     "en": "The first thing we need",
+     "ko": "우리가 가장 먼저 필요한 건"
+    },
+    {
+     "en": "are the ingredients like eggs, flour,",
+     "ko": "계란, 밀가루 같은 재료들이야"
+    },
+    {
+     "en": "and chocolate chips.",
+     "ko": "그리고 초콜릿 칩도"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": true,
+     "link": true,
+     "syl": "need"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ingredients",
+     "strong": true,
+     "link": false,
+     "syl": "gre"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "eggs,",
+     "strong": true,
+     "link": false,
+     "syl": "eggs"
+    },
+    {
+     "w": "flour,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chocolate",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chips.",
+     "strong": true,
+     "link": false,
+     "syl": "chips"
+    }
+   ],
+   "tip": "need are, like eggs처럼 끝자음과 다음 모음이 이어져요.",
+   "start": 84.85,
+   "end": 91.32
+  },
+  {
+   "text": "We need to mix them together in a bowl, then put the pan into the oven to bake.",
+   "chunks": [
+    {
+     "en": "We need to mix them together in a bowl,",
+     "ko": "그것들을 그릇에 함께 섞어서"
+    },
+    {
+     "en": "then put the pan into the oven",
+     "ko": "그다음 팬을 오븐에 넣고"
+    },
+    {
+     "en": "to bake.",
+     "ko": "구워야 해"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mix",
+     "strong": true,
+     "link": false,
+     "syl": "mix"
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together",
+     "strong": true,
+     "link": true,
+     "syl": "ge"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bowl,",
+     "strong": true,
+     "link": false,
+     "syl": "bowl"
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pan",
+     "strong": true,
+     "link": true,
+     "syl": "pan"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "oven",
+     "strong": true,
+     "link": false,
+     "syl": "ov"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bake.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "together in, pan into처럼 자음과 모음이 이어져서 리듬감 있게 들려요.",
+   "start": 91.32,
+   "end": 97.5
+  },
+  {
+   "text": "So our algorithm would be step one, gather ingredients.",
+   "chunks": [
+    {
+     "en": "So our algorithm would be step one,",
+     "ko": "그러면 우리 알고리즘의 1단계는"
+    },
+    {
+     "en": "gather ingredients.",
+     "ko": "재료를 모으는 거야"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "algorithm",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "step",
+     "strong": true,
+     "link": false,
+     "syl": "step"
+    },
+    {
+     "w": "one,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gather",
+     "strong": true,
+     "link": true,
+     "syl": "ga"
+    },
+    {
+     "w": "ingredients.",
+     "strong": true,
+     "link": false,
+     "syl": "gre"
+    }
+   ],
+   "tip": "our algorithm, gather ingredients처럼 자음 뒤 모음이 이어져요.",
+   "start": 97.5,
+   "end": 102.94
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker imagine being, to explain how an algorithm works?",
+   "options": [
+    "A computer",
+    "A robot chef",
+    "A smartphone app"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 자신이 컴퓨터라고 상상해보라고 말해요."
+  },
+  {
+   "q": "What is the algorithm in this example designed to teach?",
+   "options": [
+    "How to bake cookies",
+    "How to clean a kitchen",
+    "How to grow vegetables"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 쿠키 굽는 법을 가르쳐줄 알고리즘을 만들자고 해요."
+  },
+  {
+   "q": "According to the segment, what is needed first to bake the cookies?",
+   "options": [
+    "Ingredients like eggs, flour, and chocolate chips",
+    "A recipe book",
+    "An oven timer"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 계란, 밀가루, 초콜릿 칩 같은 재료가 가장 먼저 필요하다고 해요."
+  },
+  {
+   "q": "Where does the pan go after the ingredients are mixed?",
+   "options": [
+    "Into the oven",
+    "Into the refrigerator",
+    "Onto the counter"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 팬을 오븐에 넣는다고 설명해요."
+  },
+  {
+   "q": "What is the first step of the algorithm described at the end of the segment?",
+   "options": [
+    "Gather ingredients",
+    "Preheat the oven",
+    "Mix the batter"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 1단계는 재료를 모으는 것이라고 말해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "algorithm",
+   "ko": "알고리즘",
+   "note": "순서대로 따라야 하는 단계들의 모음이에요."
+  },
+  {
+   "term": "ingredients",
+   "ko": "재료",
+   "note": "요리나 베이킹에 들어가는 각 재료를 말해요."
+  },
+  {
+   "term": "gather",
+   "ko": "모으다",
+   "note": "필요한 것들을 한곳에 모은다는 뜻이에요."
+  },
+  {
+   "term": "mix together",
+   "ko": "함께 섞다",
+   "note": "여러 재료를 하나로 섞는 동작을 말해요."
+  }
+ ]
+}

@@ -1,0 +1,388 @@
+{
+ "video_id": "CkOdrjI5dkU",
+ "source_title": "From GOES to GeoXO: Past Highlights to Future Horizons",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 19.15,
+  "end": 44.11
+ },
+ "sentences": [
+  {
+   "text": "For nearly 50 years, NOAA and NASA have partnered to develop and advance NOAA's geostationary satellites as part of the most sophisticated weather-observing, environmental monitoring, and space weather monitoring satellite system in the world.",
+   "chunks": [
+    {
+     "en": "For nearly 50 years, NOAA and NASA have partnered",
+     "ko": "거의 50년 동안 NOAA와 NASA는 협력해 왔습니다"
+    },
+    {
+     "en": "to develop and advance NOAA's geostationary satellites",
+     "ko": "NOAA의 정지궤도 위성을 개발하고 발전시키기 위해,"
+    },
+    {
+     "en": "as part of the most sophisticated weather-observing, environmental monitoring,",
+     "ko": "가장 정교한 기상 관측, 환경 감시,"
+    },
+    {
+     "en": "and space weather monitoring satellite system in the world.",
+     "ko": "그리고 우주기상 감시 위성 시스템의 일부로서, 세계에서 가장 뛰어난 것입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "50",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NOAA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NASA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "partnered",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "develop",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "advance",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NOAA's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "geostationary",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "satellites",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "part",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sophisticated",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "weather-observing,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "environmental",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "monitoring,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "space",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "monitoring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "satellite",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "system",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and advance, part of처럼 자음 뒤 모음은 이어서 발음합니다.",
+   "start": 19.15,
+   "end": 34.7
+  },
+  {
+   "text": "When GOES-U reaches orbit, it will be the culmination of nearly five decades of state-of-the-art geostationary Earth-observing satellites.",
+   "chunks": [
+    {
+     "en": "When GOES-U reaches orbit,",
+     "ko": "GOES-U가 궤도에 도달하면,"
+    },
+    {
+     "en": "it will be the culmination of nearly five decades",
+     "ko": "그것은 거의 50년의 정점이 될 것입니다,"
+    },
+    {
+     "en": "of state-of-the-art geostationary Earth-observing satellites.",
+     "ko": "최첨단 정지궤도 지구관측 위성들의."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "GOES-U",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "reaches",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "orbit,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "culmination",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decades",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "state-of-the-art",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "geostationary",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Earth-observing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "satellites.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "reaches orbit, culmination of처럼 자음 뒤 모음은 이어서 발음합니다.",
+   "start": 34.7,
+   "end": 44.11
+  }
+ ],
+ "questions": [
+  {
+   "q": "About how long have NOAA and NASA partnered on geostationary satellites?",
+   "options": [
+    "Nearly 50 years",
+    "About 10 years",
+    "About 100 years"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 거의 50년 동안 협력해왔다고 했습니다."
+  },
+  {
+   "q": "What kind of satellite system does the segment describe?",
+   "options": [
+    "The most sophisticated weather and space weather monitoring system in the world",
+    "A system for tracking ocean currents only",
+    "A system used only for military purposes"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 세계에서 가장 정교한 기상 및 우주기상 감시 위성 시스템이라고 했습니다."
+  },
+  {
+   "q": "What will GOES-U represent when it reaches orbit?",
+   "options": [
+    "The culmination of nearly five decades of geostationary satellites",
+    "The first ever weather satellite",
+    "The end of the NOAA-NASA partnership"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 GOES-U가 거의 50년에 걸친 정지궤도 위성의 정점이 될 것이라고 했습니다."
+  },
+  {
+   "q": "What type of orbit do these satellites use?",
+   "options": [
+    "Geostationary orbit",
+    "Low Earth orbit",
+    "Polar orbit"
+   ],
+   "answer": 0,
+   "why": "두 문장 모두 geostationary(정지궤도) 위성이라고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "geostationary",
+   "ko": "정지궤도의",
+   "note": "지구 자전과 같은 속도로 돌아 항상 같은 지점 위에 있는 위성 궤도입니다."
+  },
+  {
+   "term": "sophisticated",
+   "ko": "정교한, 첨단의",
+   "note": "기술적으로 매우 발전되고 복잡한 것을 말합니다."
+  },
+  {
+   "term": "culmination",
+   "ko": "정점, 결실",
+   "note": "오랜 과정의 최고 성과를 말할 때 씁니다."
+  },
+  {
+   "term": "state-of-the-art",
+   "ko": "최첨단의",
+   "note": "현재 가능한 가장 발전된 기술을 뜻합니다."
+  },
+  {
+   "term": "partner to develop",
+   "ko": "협력하여 개발하다",
+   "note": "두 기관이 함께 일하며 무언가를 만들어가는 것을 말합니다."
+  }
+ ]
+}

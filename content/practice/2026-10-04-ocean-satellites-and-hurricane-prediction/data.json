@@ -1,0 +1,490 @@
+{
+ "video_id": "eKJkcIKEQO0",
+ "source_title": "Satellites of the Sea: Observing the Ocean for Hurricane Research",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 5.3,
+  "end": 31.0
+ },
+ "sentences": [
+  {
+   "text": "When a hurricane is forming, we use a fleet of high-tech ocean observing tools to improve our predictions of the storm.",
+   "chunks": [
+    {
+     "en": "When a hurricane is forming,",
+     "ko": "허리케인이 형성될 때,"
+    },
+    {
+     "en": "we use a fleet of high-tech ocean observing tools",
+     "ko": "우리는 첨단 해양 관측 장비들을 사용한다"
+    },
+    {
+     "en": "to improve our predictions of the storm.",
+     "ko": "폭풍에 대한 예측을 개선하기 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hurricane",
+     "strong": true,
+     "link": false,
+     "syl": "HUR"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forming,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fleet",
+     "strong": true,
+     "link": true,
+     "syl": "FLEET"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high-tech",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ocean",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "observing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tools",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "improve",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "predictions",
+     "strong": true,
+     "link": false,
+     "syl": "DIC"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storm.",
+     "strong": true,
+     "link": false,
+     "syl": "STORM"
+    }
+   ],
+   "tip": "hurricane, fleet, predictions, storm에 강세를 주며 읽어요.",
+   "start": 5.3,
+   "end": 12.85
+  },
+  {
+   "text": "Let's take a look at some of this cool technology.",
+   "chunks": [
+    {
+     "en": "Let's take a look",
+     "ko": "한번 살펴보자"
+    },
+    {
+     "en": "at some of this cool technology.",
+     "ko": "이 멋진 기술 중 일부를"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": true,
+     "link": true,
+     "syl": "TAKE"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": true,
+     "link": true,
+     "syl": "LOOK"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cool",
+     "strong": true,
+     "link": false,
+     "syl": "COOL"
+    },
+    {
+     "w": "technology.",
+     "strong": true,
+     "link": false,
+     "syl": "NOL"
+    }
+   ],
+   "tip": "take, look, cool, technology에 강세를 주며 가볍게 읽어요.",
+   "start": 12.85,
+   "end": 17.62
+  },
+  {
+   "text": "The temperature of the ocean and its level of saltiness or salinity can tell us if a hurricane is going to quickly increase to a Category 5 or if it will weaken into a tropical storm.",
+   "chunks": [
+    {
+     "en": "The temperature of the ocean and its level of saltiness or salinity",
+     "ko": "바다의 온도와 그 짠 정도, 즉 염도는"
+    },
+    {
+     "en": "can tell us if a hurricane is going to quickly increase to a Category 5",
+     "ko": "허리케인이 빠르게 카테고리 5로 증가할지를 알려줄 수 있다"
+    },
+    {
+     "en": "or if it will weaken into a tropical storm.",
+     "ko": "아니면 열대성 폭풍으로 약해질지를"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "temperature",
+     "strong": true,
+     "link": false,
+     "syl": "TEM"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ocean",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saltiness",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "salinity",
+     "strong": true,
+     "link": false,
+     "syl": "LIN"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hurricane",
+     "strong": true,
+     "link": false,
+     "syl": "HUR"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quickly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "increase",
+     "strong": true,
+     "link": false,
+     "syl": "CREASE"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Category",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "5",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weaken",
+     "strong": true,
+     "link": true,
+     "syl": "WEAK"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tropical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storm.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "temperature, salinity, hurricane, increase, weaken에 강세를 주며 리듬을 살려 읽어요.",
+   "start": 17.62,
+   "end": 31.0
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why do scientists use a fleet of ocean observing tools?",
+   "options": [
+    "To improve predictions of a forming hurricane",
+    "To track fish migration",
+    "To measure air pollution"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 허리케인에 대한 예측을 개선하려고 사용한다고 해요."
+  },
+  {
+   "q": "What two ocean properties are mentioned as useful for predicting hurricanes?",
+   "options": [
+    "Temperature and salinity",
+    "Depth and color",
+    "Wind speed and pressure"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 바다의 온도와 염도를 언급해요."
+  },
+  {
+   "q": "What can these measurements predict about a hurricane?",
+   "options": [
+    "Whether it will increase to a Category 5 or weaken into a tropical storm",
+    "Exactly when it will make landfall",
+    "Its exact name"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 카테고리 5로 증가할지 열대성 폭풍으로 약해질지를 알 수 있다고 해요."
+  },
+  {
+   "q": "What does the speaker invite viewers to do?",
+   "options": [
+    "Take a look at some cool technology",
+    "Build their own satellite",
+    "Read a research paper"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 멋진 기술을 살펴보자고 해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a fleet of",
+   "ko": "~의 집합/무리",
+   "note": "여러 장비나 선박을 묶어 말할 때 써요."
+  },
+  {
+   "term": "high-tech",
+   "ko": "최첨단의",
+   "note": "기술이 발전한 것을 나타내요."
+  },
+  {
+   "term": "salinity",
+   "ko": "염도, 염분",
+   "note": "바닷물의 짠 정도를 가리켜요."
+  },
+  {
+   "term": "Category 5",
+   "ko": "5등급(최고 등급 허리케인)",
+   "note": "허리케인 강도를 나타내는 등급이에요."
+  },
+  {
+   "term": "weaken into",
+   "ko": "약해져서 ~이 되다",
+   "note": "강도가 줄어드는 변화를 나타내요."
+  }
+ ]
+}

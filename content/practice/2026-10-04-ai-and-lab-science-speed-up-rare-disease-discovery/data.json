@@ -1,0 +1,416 @@
+{
+ "video_id": "4HOvs3V-EFM",
+ "source_title": "NIH SciBites: A Cutting-Edge Combo for Rare Disease Research",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 107.99,
+  "end": 133.41
+ },
+ "sentences": [
+  {
+   "text": "Each prediction made by my AI-powered programs is tested in the lab, and those results are fed back into the computer algorithm to make them better.",
+   "chunks": [
+    {
+     "en": "Each prediction made by my AI-powered programs is tested in the lab,",
+     "ko": "AI 기반 프로그램이 내놓은 각 예측은 실험실에서 검증되고"
+    },
+    {
+     "en": "and those results are fed back into the computer algorithm to make them better.",
+     "ko": "그 결과는 다시 컴퓨터 알고리즘에 피드백되어 더 나아지게 만든다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prediction",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "AI-powered",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "programs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tested",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lab,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "results",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "computer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "algorithm",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "tested in, back into처럼 자음 뒤 모음은 이어 발음하세요.",
+   "start": 107.99,
+   "end": 118.69
+  },
+  {
+   "text": "By combining advanced laboratory methods and AI in this way, we can more quickly make new discoveries about rare diseases, paving the way for effective treatment and providing hope to patients and their families.",
+   "chunks": [
+    {
+     "en": "By combining advanced laboratory methods and AI in this way,",
+     "ko": "이렇게 첨단 실험실 기법과 AI를 결합함으로써"
+    },
+    {
+     "en": "we can more quickly make new discoveries about rare diseases,",
+     "ko": "우리는 희귀질환에 대한 새로운 발견을 더 빠르게 할 수 있고"
+    },
+    {
+     "en": "paving the way for effective treatment and providing hope to patients and their families.",
+     "ko": "효과적인 치료의 길을 열고 환자와 그 가족들에게 희망을 준다"
+    }
+   ],
+   "words": [
+    {
+     "w": "By",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "combining",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "advanced",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laboratory",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "methods",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "AI",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quickly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "discoveries",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rare",
+     "strong": true,
+     "link": false,
+     "syl": "RARE"
+    },
+    {
+     "w": "diseases,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "paving",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "effective",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "treatment",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "providing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hope",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patients",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "families.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "for effective, and providing처럼 자음 뒤 모음은 이어 발음하세요.",
+   "start": 118.69,
+   "end": 133.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happens to predictions made by the AI-powered programs?",
+   "options": [
+    "They are tested in the lab and the results improve the algorithm",
+    "They are published immediately without testing",
+    "They are discarded"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 실험실 검증 후 결과가 알고리즘에 피드백된다고 설명함."
+  },
+  {
+   "q": "What is the goal of combining lab methods and AI?",
+   "options": [
+    "To make discoveries about rare diseases more quickly",
+    "To reduce lab costs only",
+    "To replace doctors"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 희귀질환에 대한 발견을 더 빠르게 한다고 함."
+  },
+  {
+   "q": "What does this approach aim to provide to patients and their families?",
+   "options": [
+    "Hope through effective treatment",
+    "Free housing",
+    "Faster internet"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 마지막 부분에서 언급됨."
+  },
+  {
+   "q": "Where are the AI's predictions verified?",
+   "options": [
+    "In the lab",
+    "In a classroom",
+    "In a courtroom"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 실험실에서 검증된다고 명시됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fed back into",
+   "ko": "다시 입력되다, 피드백되다",
+   "note": "결과가 시스템에 다시 반영되는 과정을 뜻해요."
+  },
+  {
+   "term": "paving the way for",
+   "ko": "~을 위한 길을 열다",
+   "note": "앞으로의 발전이나 성과를 가능하게 한다는 뜻이에요."
+  },
+  {
+   "term": "rare diseases",
+   "ko": "희귀질환",
+   "note": "드물게 발생하는 질병을 가리켜요."
+  },
+  {
+   "term": "laboratory methods",
+   "ko": "실험실 기법",
+   "note": "실험이나 연구에 사용되는 방법을 뜻해요."
+  }
+ ]
+}

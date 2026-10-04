@@ -1,0 +1,461 @@
+{
+ "video_id": "vSILdQ6kt3Y",
+ "source_title": "Are Titan’s Lakes Teeming with Primitive Cells?",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 65.4,
+  "end": 90.62
+ },
+ "sentences": [
+  {
+   "text": "Here's how the process works:",
+   "chunks": [
+    {
+     "en": "Here's how the process works:",
+     "ko": "그 과정이 어떻게 진행되는지 살펴보겠습니다:"
+    }
+   ],
+   "words": [
+    {
+     "w": "Here's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "process",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "works:",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "Here's는 '히어즈'처럼 한 음절처럼 축약되어 발음됩니다.",
+   "start": 65.4,
+   "end": 67.5
+  },
+  {
+   "text": "In Titan's upper atmosphere, methane and molecular nitrogen are broken apart by sunlight and recombine into amphiphiles.",
+   "chunks": [
+    {
+     "en": "In Titan's upper atmosphere, methane and molecular nitrogen are broken apart",
+     "ko": "타이탄의 상층 대기에서 메탄과 분자 질소가 분해됩니다"
+    },
+    {
+     "en": "by sunlight and recombine into amphiphiles.",
+     "ko": "햇빛에 의해서요, 그리고 재결합해 양쪽성 분자(암피필)가 됩니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Titan's",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "upper",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "atmosphere,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "methane",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "molecular",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nitrogen",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "broken",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "apart",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sunlight",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recombine",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amphiphiles.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "broken apart에서 n이 다음 모음과 이어져 부드럽게 연결됩니다.",
+   "start": 67.5,
+   "end": 75.44
+  },
+  {
+   "text": "Rainfall transports the amphiphiles to a lake, where they form a thin film on the surface.",
+   "chunks": [
+    {
+     "en": "Rainfall transports the amphiphiles to a lake,",
+     "ko": "비가 양쪽성 분자를 호수로 옮겨줍니다,"
+    },
+    {
+     "en": "where they form a thin film on the surface.",
+     "ko": "그곳에서 표면에 얇은 막을 형성하지요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Rainfall",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "transports",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amphiphiles",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lake,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "form",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thin",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "film",
+     "strong": true,
+     "link": false,
+     "syl": "FILM"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surface.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "form a에서 m이 다음 모음 a와 이어져 발음됩니다.",
+   "start": 75.44,
+   "end": 81.71
+  },
+  {
+   "text": "Later, strong storms pelt the lake with large raindrops, throwing up a spray of methane droplets coated in a single layer of amphiphiles.",
+   "chunks": [
+    {
+     "en": "Later, strong storms pelt the lake with large raindrops,",
+     "ko": "나중에는 강한 폭풍이 큰 빗방울로 호수를 때립니다,"
+    },
+    {
+     "en": "throwing up a spray of methane droplets coated in a single layer of amphiphiles.",
+     "ko": "그러면서 양쪽성 분자 한 겹으로 코팅된 메탄 물방울 분무를 흩뿌리죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "Later,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strong",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storms",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "pelt",
+     "strong": true,
+     "link": false,
+     "syl": "PELT"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lake",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "large",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "raindrops,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "throwing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spray",
+     "strong": true,
+     "link": false,
+     "syl": "SPRAY"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "methane",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "droplets",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "coated",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "single",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "layer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amphiphiles.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "throwing up에서 g가 약화되어 up과 부드럽게 이어집니다.",
+   "start": 81.71,
+   "end": 90.62
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happens to methane and nitrogen in Titan's upper atmosphere?",
+   "options": [
+    "They are broken apart by sunlight and recombine into amphiphiles",
+    "They freeze into ice crystals",
+    "They escape into space"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 햇빛에 의해 분해되고 재결합한다고 설명합니다."
+  },
+  {
+   "q": "How do amphiphiles reach a lake on Titan?",
+   "options": [
+    "Rainfall transports them",
+    "Wind blows them directly",
+    "They form inside the lake itself"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 비가 양쪽성 분자를 호수로 옮긴다고 말합니다."
+  },
+  {
+   "q": "What do amphiphiles form on a lake's surface?",
+   "options": [
+    "A thin film",
+    "A thick layer of ice",
+    "A cloud of gas"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 표면에 얇은 막을 형성한다고 합니다."
+  },
+  {
+   "q": "What happens when strong storms pelt the lake with raindrops?",
+   "options": [
+    "They throw up a spray of methane droplets coated in amphiphiles",
+    "The lake freezes solid",
+    "The amphiphiles sink to the bottom"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 양쪽성 분자로 코팅된 물방울 분무가 흩뿌려진다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "amphiphiles",
+   "ko": "양쪽성 분자(암피필)",
+   "note": "한쪽은 물을 좋아하고 다른 쪽은 싫어하는 분자로, 세포막과 비슷한 구조를 만들 수 있습니다."
+  },
+  {
+   "term": "broken apart",
+   "ko": "분해되다",
+   "note": "큰 분자가 작은 조각으로 쪼개진다는 뜻입니다."
+  },
+  {
+   "term": "recombine into",
+   "ko": "재결합해 ~이 되다",
+   "note": "분해된 것들이 다시 합쳐져 새로운 물질이 된다는 뜻입니다."
+  },
+  {
+   "term": "transports",
+   "ko": "옮기다, 운반하다",
+   "note": "비가 물질을 다른 곳으로 이동시킨다는 의미로 쓰였습니다."
+  },
+  {
+   "term": "pelt",
+   "ko": "세차게 두드리다",
+   "note": "비나 눈 등이 거세게 쏟아진다는 뜻입니다."
+  },
+  {
+   "term": "a single layer of",
+   "ko": "한 겹의",
+   "note": "얇게 한 층만 덮여 있다는 뜻입니다."
+  }
+ ]
+}

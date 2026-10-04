@@ -1,0 +1,586 @@
+{
+ "video_id": "uLukSynTyqs",
+ "source_title": "Invasive species: Spotted Lanternfly in Missouri",
+ "source_channel": "U.S. Fish & Wildlife Service",
+ "segment": {
+  "start": 40.56,
+  "end": 65.16
+ },
+ "sentences": [
+  {
+   "text": "Spotted lanternflies are sap feeders, so they can weaken or kill the plants on which they're feeding upon.",
+   "chunks": [
+    {
+     "en": "Spotted lanternflies are sap feeders,",
+     "ko": "스팟드 랜턴플라이는 수액을 빨아먹는 곤충입니다,"
+    },
+    {
+     "en": "so they can weaken",
+     "ko": "그래서 식물을 약화시킬 수 있고"
+    },
+    {
+     "en": "or kill the plants on which they're feeding upon.",
+     "ko": "또는 그들이 먹고 있는 식물을 죽일 수도 있습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Spotted",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lanternflies",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sap",
+     "strong": true,
+     "link": false,
+     "syl": "SAP"
+    },
+    {
+     "w": "feeders,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weaken",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kill",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plants",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feeding",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "upon.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "weaken or에서 n이 다음 모음과 이어져 부드럽게 연결됩니다.",
+   "start": 40.56,
+   "end": 46.77
+  },
+  {
+   "text": "They secrete a sugary waste called honeydew, which promotes sooty mold to grow.",
+   "chunks": [
+    {
+     "en": "They secrete a sugary waste called honeydew,",
+     "ko": "그들은 허니듀라는 끈적한 단물을 분비합니다,"
+    },
+    {
+     "en": "which promotes sooty mold to grow.",
+     "ko": "이는 검은곰팡이(설티 몰드)가 자라게 합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "secrete",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sugary",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "waste",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honeydew,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "promotes",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "sooty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mold",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grow.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "called honeydew에서 d 발음이 약화되어 부드럽게 이어집니다.",
+   "start": 46.77,
+   "end": 51.57
+  },
+  {
+   "text": "To help prevent the spread of these pests, check smooth surfaces of outdoor equipment, firewood and trees for egg masses.",
+   "chunks": [
+    {
+     "en": "To help prevent the spread of these pests,",
+     "ko": "이 해충의 확산을 막기 위해,"
+    },
+    {
+     "en": "check smooth surfaces of outdoor equipment, firewood",
+     "ko": "야외 장비와 장작의 매끄러운 표면을 확인하세요"
+    },
+    {
+     "en": "and trees for egg masses.",
+     "ko": "그리고 나무에서도 알 무더기가 있는지 확인하세요."
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prevent",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spread",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pests,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "check",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "smooth",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surfaces",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "outdoor",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "equipment,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "firewood",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trees",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "egg",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "masses.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "check smooth에서 두 자음이 부딪혀 끊듯이 발음됩니다.",
+   "start": 51.57,
+   "end": 57.93
+  },
+  {
+   "text": "The egg masses look like a smear of mud that are about an inch long.",
+   "chunks": [
+    {
+     "en": "The egg masses look like a smear of mud",
+     "ko": "알 무더기는 진흙 얼룩처럼 보입니다"
+    },
+    {
+     "en": "that are about an inch long.",
+     "ko": "길이는 약 1인치 정도입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "egg",
+     "strong": true,
+     "link": false,
+     "syl": "EG"
+    },
+    {
+     "w": "masses",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smear",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mud",
+     "strong": true,
+     "link": false,
+     "syl": "MUD"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inch",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "about an에서 t가 다음 모음과 이어져 '어바우턴'처럼 들립니다.",
+   "start": 57.93,
+   "end": 61.02
+  },
+  {
+   "text": "Remember not to move firewood and to clean outdoor equipment if moving to new areas.",
+   "chunks": [
+    {
+     "en": "Remember not to move firewood",
+     "ko": "장작을 옮기지 말아야 한다는 것을 기억하세요"
+    },
+    {
+     "en": "and to clean outdoor equipment if moving to new areas.",
+     "ko": "그리고 새로운 지역으로 이동할 때는 야외 장비를 깨끗이 해야 합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Remember",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "move",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "firewood",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clean",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "outdoor",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "equipment",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moving",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "areas.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "not to move에서 to는 약화되어 빠르게 흘러갑니다.",
+   "start": 61.02,
+   "end": 65.16
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do spotted lanternflies feed on?",
+   "options": [
+    "Sap from plants",
+    "Other insects",
+    "Soil nutrients"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 수액을 빨아먹는 곤충이라고 설명합니다."
+  },
+  {
+   "q": "What does the sugary waste they secrete lead to?",
+   "options": [
+    "Sooty mold growth",
+    "Faster plant growth",
+    "Insect reproduction"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 허니듀가 검은곰팡이를 자라게 한다고 말합니다."
+  },
+  {
+   "q": "What should people check for egg masses?",
+   "options": [
+    "Smooth surfaces of outdoor equipment, firewood, and trees",
+    "Only the undersides of leaves",
+    "Only tree bark"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 야외 장비, 장작, 나무를 확인하라고 합니다."
+  },
+  {
+   "q": "What should people avoid doing to help stop the spread?",
+   "options": [
+    "Moving firewood to new areas",
+    "Watering plants too often",
+    "Planting new trees"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 장작을 옮기지 말라고 당부합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sap feeders",
+   "ko": "수액을 빨아먹는 곤충",
+   "note": "식물의 수액을 영양원으로 삼는 곤충을 뜻합니다."
+  },
+  {
+   "term": "secrete",
+   "ko": "분비하다",
+   "note": "몸에서 액체 물질을 내보낸다는 뜻입니다."
+  },
+  {
+   "term": "honeydew",
+   "ko": "허니듀(단물)",
+   "note": "곤충이 분비하는 끈적한 단물입니다."
+  },
+  {
+   "term": "sooty mold",
+   "ko": "검은곰팡이(설티 몰드)",
+   "note": "허니듀 위에 자라는 검은 곰팡이입니다."
+  },
+  {
+   "term": "egg masses",
+   "ko": "알 무더기",
+   "note": "곤충이 낳은 알들이 뭉쳐 있는 덩어리입니다."
+  }
+ ]
+}

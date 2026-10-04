@@ -1,0 +1,510 @@
+{
+ "video_id": "Ac36aovF8ZQ",
+ "source_title": "How NASA Uses Light to Detect Waste From Mines",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 79.25,
+  "end": 104.3
+ },
+ "sentences": [
+  {
+   "text": "There are an estimated 50,000 mines across the American West that have yet to be assessed for remediation, and can be very expensive to do so on the ground.",
+   "chunks": [
+    {
+     "en": "There are an estimated 50,000 mines across the American West",
+     "ko": "미국 서부 전역에 추정 5만 개의 광산이 있는데"
+    },
+    {
+     "en": "that have yet to be assessed for remediation,",
+     "ko": "아직 복원 평가가 이루어지지 않았고"
+    },
+    {
+     "en": "and can be very expensive to do so on the ground.",
+     "ko": "현장에서 그렇게 하기엔 비용이 많이 들 수 있어"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "estimated",
+     "strong": true,
+     "link": false,
+     "syl": "es"
+    },
+    {
+     "w": "50,000",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "mines",
+     "strong": true,
+     "link": true,
+     "syl": "mines"
+    },
+    {
+     "w": "across",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "American",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "West",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yet",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "assessed",
+     "strong": true,
+     "link": false,
+     "syl": "sessed"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "remediation,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "expensive",
+     "strong": true,
+     "link": false,
+     "syl": "pen"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "an estimated, mines across처럼 자음과 모음이 자연스럽게 이어져요.",
+   "start": 79.25,
+   "end": 89.22
+  },
+  {
+   "text": "Launched in 2022, NASA's EMIT instrument is an imaging spectrometer, a NASA invention that is used to measure light that is both in the visible and infrared wavelengths.",
+   "chunks": [
+    {
+     "en": "Launched in 2022,",
+     "ko": "2022년에 발사된"
+    },
+    {
+     "en": "NASA's EMIT instrument is an imaging spectrometer,",
+     "ko": "NASA의 EMIT 장비는 영상분광계인데"
+    },
+    {
+     "en": "a NASA invention that is used to measure light",
+     "ko": "빛을 측정하는 데 쓰이는 NASA의 발명품으로"
+    },
+    {
+     "en": "that is both in the visible and infrared wavelengths.",
+     "ko": "가시광선과 적외선 파장 모두를 측정해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Launched",
+     "strong": true,
+     "link": true,
+     "syl": "launched"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2022,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NASA's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "EMIT",
+     "strong": true,
+     "link": true,
+     "syl": "e"
+    },
+    {
+     "w": "instrument",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "imaging",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spectrometer,",
+     "strong": true,
+     "link": false,
+     "syl": "trom"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NASA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "invention",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "measure",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visible",
+     "strong": true,
+     "link": true,
+     "syl": "vis"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "infrared",
+     "strong": true,
+     "link": false,
+     "syl": "red"
+    },
+    {
+     "w": "wavelengths.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "is an, that is처럼 be동사 뒤에 모음이 자연스럽게 이어져요.",
+   "start": 89.22,
+   "end": 100.63
+  },
+  {
+   "text": "An imaging spectrometer is basically kind of like a really fancy camera.",
+   "chunks": [
+    {
+     "en": "An imaging spectrometer is basically",
+     "ko": "영상분광계는 기본적으로"
+    },
+    {
+     "en": "kind of like a really fancy camera.",
+     "ko": "꽤 멋진 카메라 같은 거야"
+    }
+   ],
+   "words": [
+    {
+     "w": "An",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "imaging",
+     "strong": true,
+     "link": false,
+     "syl": "im"
+    },
+    {
+     "w": "spectrometer",
+     "strong": true,
+     "link": true,
+     "syl": "trom"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basically",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "fancy",
+     "strong": true,
+     "link": false,
+     "syl": "fan"
+    },
+    {
+     "w": "camera.",
+     "strong": true,
+     "link": false,
+     "syl": "cam"
+    }
+   ],
+   "tip": "kind of, like a처럼 자음과 모음이 가볍게 이어져요.",
+   "start": 100.63,
+   "end": 104.3
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the segment, about how many mines across the American West still need to be assessed for remediation?",
+   "options": [
+    "About 50,000",
+    "About 5,000",
+    "About 500,000"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 추정 5만 개의 광산이 아직 평가되지 않았다고 해요."
+  },
+  {
+   "q": "Why is assessing these mines on the ground difficult?",
+   "options": [
+    "It can be very expensive",
+    "It is against the law",
+    "There is no equipment available"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 현장에서 평가하는 데 비용이 많이 들 수 있다고 말해요."
+  },
+  {
+   "q": "What is NASA's EMIT instrument?",
+   "options": [
+    "An imaging spectrometer",
+    "A radio telescope",
+    "A weather satellite"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 EMIT 장비가 영상분광계라고 설명해요."
+  },
+  {
+   "q": "What kinds of light can EMIT measure?",
+   "options": [
+    "Both visible and infrared light",
+    "Only ultraviolet light",
+    "Only radio waves"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 가시광선과 적외선 파장 모두를 측정한다고 해요."
+  },
+  {
+   "q": "How does the segment describe an imaging spectrometer in simple terms?",
+   "options": [
+    "Like a really fancy camera",
+    "Like a simple magnifying glass",
+    "Like a basic thermometer"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 꽤 멋진 카메라 같은 것이라고 비유해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "remediation",
+   "ko": "복원, 정화",
+   "note": "오염된 땅이나 환경을 복구하는 작업을 말해요."
+  },
+  {
+   "term": "imaging spectrometer",
+   "ko": "영상분광계",
+   "note": "빛의 파장을 분석해 이미지를 만드는 장비예요."
+  },
+  {
+   "term": "wavelengths",
+   "ko": "파장",
+   "note": "빛이나 전자기파가 가진 파동의 길이를 말해요."
+  },
+  {
+   "term": "estimated",
+   "ko": "추정된",
+   "note": "정확한 수치가 아니라 대략 계산된 값이라는 뜻이에요."
+  }
+ ]
+}

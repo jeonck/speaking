@@ -1,0 +1,489 @@
+{
+ "video_id": "0rVQHFPZfJk",
+ "source_title": "Landsat 9 - More Than Just A Picture",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 148.32,
+  "end": 173.06
+ },
+ "sentences": [
+  {
+   "text": "Landsat 9 quiets the static so we don't miss anything important.",
+   "chunks": [
+    {
+     "en": "Landsat 9 quiets the static",
+     "ko": "랜드샛 9호가 잡음을 줄여준다"
+    },
+    {
+     "en": "so we don't miss anything important.",
+     "ko": "그래서 우리가 중요한 것을 놓치지 않도록."
+    }
+   ],
+   "words": [
+    {
+     "w": "Landsat",
+     "strong": true,
+     "link": false,
+     "syl": "LAND"
+    },
+    {
+     "w": "9",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "static",
+     "strong": true,
+     "link": false,
+     "syl": "STAT"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miss",
+     "strong": true,
+     "link": false,
+     "syl": "MISS"
+    },
+    {
+     "w": "anything",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important.",
+     "strong": true,
+     "link": false,
+     "syl": "POR"
+    }
+   ],
+   "tip": "miss anything처럼 자음 뒤 모음이 오면 이어서 발음해요.",
+   "start": 148.32,
+   "end": 152.58
+  },
+  {
+   "text": "And that clarity makes a difference, especially over dark surfaces like water, which can harbor harmful algal blooms that can spread quickly, threatening drinking water supplies, local wildlife, and even human safety.",
+   "chunks": [
+    {
+     "en": "And that clarity makes a difference,",
+     "ko": "그리고 그 명확함이 차이를 만든다,"
+    },
+    {
+     "en": "especially over dark surfaces like water,",
+     "ko": "특히 물 같은 어두운 표면에서는,"
+    },
+    {
+     "en": "which can harbor harmful algal blooms that can spread quickly,",
+     "ko": "빠르게 번질 수 있는 유해한 조류 번식을 품을 수 있는데,"
+    },
+    {
+     "en": "threatening drinking water supplies, local wildlife,",
+     "ko": "식수 공급과 지역 야생동물을 위협하며,"
+    },
+    {
+     "en": "and even human safety.",
+     "ko": "그리고 심지어 인간의 안전까지도."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clarity",
+     "strong": true,
+     "link": false,
+     "syl": "CLAR"
+    },
+    {
+     "w": "makes",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "difference,",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    },
+    {
+     "w": "especially",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dark",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surfaces",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "harbor",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "harmful",
+     "strong": true,
+     "link": false,
+     "syl": "HARM"
+    },
+    {
+     "w": "algal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "blooms",
+     "strong": true,
+     "link": false,
+     "syl": "BLOOMS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spread",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quickly,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "threatening",
+     "strong": true,
+     "link": false,
+     "syl": "THREAT"
+    },
+    {
+     "w": "drinking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supplies,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wildlife,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "human",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safety.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "makes a는 끝자음 s가 다음 모음 a로 자연스럽게 이어져요.",
+   "start": 152.58,
+   "end": 164.25
+  },
+  {
+   "text": "By spotting these blooms with greater sensitivity, Landsat 9 gives communities and scientists more reliable and actionable information to respond.",
+   "chunks": [
+    {
+     "en": "By spotting these blooms with greater sensitivity,",
+     "ko": "더 높은 민감도로 이 번식을 포착함으로써,"
+    },
+    {
+     "en": "Landsat 9 gives communities and scientists",
+     "ko": "랜드샛 9호는 지역사회와 과학자들에게 제공한다"
+    },
+    {
+     "en": "more reliable and actionable information to respond.",
+     "ko": "대응할 수 있는 더 신뢰할 수 있고 실행 가능한 정보를."
+    }
+   ],
+   "words": [
+    {
+     "w": "By",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spotting",
+     "strong": true,
+     "link": false,
+     "syl": "SPOT"
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "blooms",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "greater",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sensitivity,",
+     "strong": true,
+     "link": false,
+     "syl": "TIV"
+    },
+    {
+     "w": "Landsat",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "9",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gives",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "communities",
+     "strong": true,
+     "link": false,
+     "syl": "MU"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scientists",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reliable",
+     "strong": true,
+     "link": false,
+     "syl": "LI"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actionable",
+     "strong": true,
+     "link": false,
+     "syl": "AC"
+    },
+    {
+     "w": "information",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "respond.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and actionable처럼 끝자음 d가 다음 모음으로 이어져요.",
+   "start": 164.25,
+   "end": 173.06
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does Landsat 9 reduce so important details aren't missed?",
+   "options": [
+    "Static, or noise, in the data",
+    "The size of the satellite",
+    "The cost of the mission"
+   ],
+   "answer": 0,
+   "why": "\"Landsat 9 quiets the static so we don't miss anything important\"에서 확인됩니다."
+  },
+  {
+   "q": "Where does the extra clarity make the biggest difference?",
+   "options": [
+    "Over dark surfaces like water",
+    "In deserts only",
+    "In outer space itself"
+   ],
+   "answer": 0,
+   "why": "\"especially over dark surfaces like water\"에서 확인됩니다."
+  },
+  {
+   "q": "What can harmful algal blooms threaten?",
+   "options": [
+    "Drinking water supplies, local wildlife, and human safety",
+    "Only satellite equipment",
+    "Air traffic control"
+   ],
+   "answer": 0,
+   "why": "\"threatening drinking water supplies, local wildlife, and even human safety\"에서 확인됩니다."
+  },
+  {
+   "q": "What does Landsat 9 give to communities and scientists?",
+   "options": [
+    "More reliable and actionable information",
+    "A free fishing permit",
+    "A weather forecast for next year"
+   ],
+   "answer": 0,
+   "why": "\"Landsat 9 gives communities and scientists more reliable and actionable information\"에서 확인됩니다."
+  },
+  {
+   "q": "How does Landsat 9 spot harmful algal blooms?",
+   "options": [
+    "With greater sensitivity",
+    "By sending a diver",
+    "By using sound waves only"
+   ],
+   "answer": 0,
+   "why": "\"By spotting these blooms with greater sensitivity\"에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "quiets the static",
+   "ko": "잡음을 줄이다",
+   "note": "static은 원래 '잡음/정전기'인데 여기선 데이터 노이즈를 뜻해요."
+  },
+  {
+   "term": "harmful algal blooms",
+   "ko": "유해 조류 번식(녹조/적조)",
+   "note": "algal bloom은 물속 조류가 급격히 번성하는 현상이에요."
+  },
+  {
+   "term": "threatening drinking water supplies",
+   "ko": "식수 공급을 위협하다",
+   "note": "threaten + 명사 형태로 위험을 가한다는 뜻이에요."
+  },
+  {
+   "term": "with greater sensitivity",
+   "ko": "더 높은 민감도로",
+   "note": "기기의 감지 성능이 좋아졌다는 의미예요."
+  },
+  {
+   "term": "actionable information",
+   "ko": "실행 가능한 정보",
+   "note": "바로 행동으로 옮길 수 있는 유용한 정보를 뜻해요."
+  }
+ ]
+}

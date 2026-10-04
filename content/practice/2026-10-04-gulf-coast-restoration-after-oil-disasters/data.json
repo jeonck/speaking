@@ -1,0 +1,390 @@
+{
+ "video_id": "3V2_OZRXZdM",
+ "source_title": "Over $114M Recovered From Polluters to Restore Waterways",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 45.61,
+  "end": 70.24
+ },
+ "sentences": [
+  {
+   "text": "In the Gulf of Mexico, projects will focus on the restoration of natural resources impacted when an oil platform collapsed during Hurricane Ivan in 2004.",
+   "chunks": [
+    {
+     "en": "In the Gulf of Mexico,",
+     "ko": "멕시코만에서는"
+    },
+    {
+     "en": "projects will focus on the restoration of natural resources impacted",
+     "ko": "사업이 훼손된 천연자원의 복원에 초점을 맞출 것이다"
+    },
+    {
+     "en": "when an oil platform collapsed during Hurricane Ivan in 2004.",
+     "ko": "2004년 허리케인 이반 때 석유 플랫폼이 붕괴하면서 생긴 (피해에 대해)"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Gulf",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mexico,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "projects",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "focus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "restoration",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "natural",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "resources",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "impacted",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "oil",
+     "strong": true,
+     "link": false,
+     "syl": "OIL"
+    },
+    {
+     "w": "platform",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "collapsed",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "during",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hurricane",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Ivan",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2004.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "an oil처럼 자음 뒤 모음은 이어서 '어노일'처럼 발음해요.",
+   "start": 45.61,
+   "end": 56.19
+  },
+  {
+   "text": "In Galveston Bay, restoration efforts will center on vital habitats, dolphins, birds, and outdoor recreation areas that were contaminated from an oil spill following a vessel collision in 2014.",
+   "chunks": [
+    {
+     "en": "In Galveston Bay,",
+     "ko": "갤버스턴 베이에서는"
+    },
+    {
+     "en": "restoration efforts will center on vital habitats, dolphins, birds, and outdoor recreation areas",
+     "ko": "복원 작업이 중요한 서식지, 돌핀, 새, 그리고 야외 레크리에이션 지역에 초점을 맞출 것이다"
+    },
+    {
+     "en": "that were contaminated from an oil spill following a vessel collision in 2014.",
+     "ko": "2014년 선박 충돌로 인한 기름 유출로 오염되었던 (지역들)"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Galveston",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Bay,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "restoration",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "efforts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "center",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vital",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "habitats,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "dolphins,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "birds,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "outdoor",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recreation",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "areas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "contaminated",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "oil",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spill",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "following",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vessel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "collision",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2014.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "from an oil처럼 자음 뒤 모음이 연속되면 끊지 말고 이어 읽어요.",
+   "start": 56.19,
+   "end": 70.24
+  }
+ ],
+ "questions": [
+  {
+   "q": "What caused the damage addressed by the Gulf of Mexico restoration projects?",
+   "options": [
+    "An oil platform collapsed during a hurricane",
+    "A wildfire destroyed coastal wetlands",
+    "A chemical factory exploded"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 2004년 허리케인 이반 때 석유 플랫폼이 붕괴했다고 언급됨."
+  },
+  {
+   "q": "What caused the contamination in Galveston Bay?",
+   "options": [
+    "A vessel collision led to an oil spill",
+    "A hurricane caused flooding",
+    "An oil platform collapsed"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 2014년 선박 충돌로 인한 기름 유출이라고 설명함."
+  },
+  {
+   "q": "Which of these is mentioned as a habitat affected in Galveston Bay?",
+   "options": [
+    "Dolphins and birds",
+    "Coral reefs",
+    "Mountain forests"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 돌핀과 새가 언급됨."
+  },
+  {
+   "q": "In what year did the oil platform collapse in the Gulf of Mexico?",
+   "options": [
+    "2004",
+    "2014",
+    "1990"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 2004년이라고 명시됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "restoration efforts",
+   "ko": "복원 작업",
+   "note": "환경이나 자원을 원래 상태로 되돌리는 노력을 뜻해요."
+  },
+  {
+   "term": "contaminated",
+   "ko": "오염된",
+   "note": "spill, chemical 등과 함께 자주 쓰여요."
+  },
+  {
+   "term": "vessel collision",
+   "ko": "선박 충돌",
+   "note": "배끼리 부딫히는 사고를 말해요."
+  },
+  {
+   "term": "outdoor recreation areas",
+   "ko": "야외 레크리에이션 지역",
+   "note": "사람들이 야외 활동을 하는 공간을 뜻해요."
+  }
+ ]
+}

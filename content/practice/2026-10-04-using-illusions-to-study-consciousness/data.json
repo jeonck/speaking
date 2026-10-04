@@ -1,0 +1,503 @@
+{
+ "video_id": "7bBXs8WcvFE",
+ "source_title": "NIH SciBites: Using Illusions to Probe the Origins of Consciousness",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 78.81,
+  "end": 105.02
+ },
+ "sentences": [
+  {
+   "text": "Your brain is causing you to see something that isn't really there.",
+   "chunks": [
+    {
+     "en": "Your brain is causing you",
+     "ko": "너의 뇌가 너에게 만들고 있어"
+    },
+    {
+     "en": "to see something",
+     "ko": "무언가를 보게"
+    },
+    {
+     "en": "that isn't really there.",
+     "ko": "실제로는 거기 없는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain",
+     "strong": true,
+     "link": true,
+     "syl": "brain"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "causing",
+     "strong": true,
+     "link": false,
+     "syl": "caus"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": true,
+     "link": false,
+     "syl": "see"
+    },
+    {
+     "w": "something",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "isn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there.",
+     "strong": true,
+     "link": false,
+     "syl": "there"
+    }
+   ],
+   "tip": "brain is와 that isn't는 자음과 모음이 이어져 한 단어처럼 들려요.",
+   "start": 78.81,
+   "end": 83.05
+  },
+  {
+   "text": "In our experiments, my colleagues and I track how brain activity changes when people see an image on a computer screen compared to when they see an afterimage.",
+   "chunks": [
+    {
+     "en": "In our experiments,",
+     "ko": "우리의 실험에서는"
+    },
+    {
+     "en": "my colleagues and I track",
+     "ko": "내 동료들과 내가 추적해"
+    },
+    {
+     "en": "how brain activity changes",
+     "ko": "뇌 활동이 어떻게 변하는지를"
+    },
+    {
+     "en": "when people see an image on a computer screen",
+     "ko": "사람들이 컴퓨터 화면에서 이미지를 볼 때와"
+    },
+    {
+     "en": "compared to when they see an afterimage.",
+     "ko": "그들이 잔상을 볼 때를 비교해서"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experiments,",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colleagues",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "track",
+     "strong": true,
+     "link": false,
+     "syl": "track"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "activity",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes",
+     "strong": true,
+     "link": false,
+     "syl": "chan"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "image",
+     "strong": true,
+     "link": true,
+     "syl": "im"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "computer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "screen",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compared",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "afterimage.",
+     "strong": true,
+     "link": false,
+     "syl": "af"
+    }
+   ],
+   "tip": "an image, an afterimage처럼 an 뒤 모음으로 시작하는 단어는 바로 이어서 발음해요.",
+   "start": 83.05,
+   "end": 93.73
+  },
+  {
+   "text": "Using this approach, we are revealing that both kinds of conscious perception involve overlapping and broad brain regions, both near the brain surface and deep within it.",
+   "chunks": [
+    {
+     "en": "Using this approach,",
+     "ko": "이 접근법을 사용해서"
+    },
+    {
+     "en": "we are revealing that both kinds of conscious perception",
+     "ko": "우리는 두 종류의 의식적 지각이 모두"
+    },
+    {
+     "en": "involve overlapping and broad brain regions,",
+     "ko": "겹치고 넓은 뇌 영역을 포함한다는 것을 보여주고 있어"
+    },
+    {
+     "en": "both near the brain surface and deep within it.",
+     "ko": "뇌 표면 근처뿐 아니라 그 안쪽 깊은 곳에서도"
+    }
+   ],
+   "words": [
+    {
+     "w": "Using",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "approach,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "revealing",
+     "strong": true,
+     "link": false,
+     "syl": "veal"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kinds",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "conscious",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "perception",
+     "strong": true,
+     "link": true,
+     "syl": "cep"
+    },
+    {
+     "w": "involve",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "overlapping",
+     "strong": true,
+     "link": true,
+     "syl": "lap"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "broad",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain",
+     "strong": true,
+     "link": false,
+     "syl": "brain"
+    },
+    {
+     "w": "regions,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "near",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surface",
+     "strong": true,
+     "link": true,
+     "syl": "sur"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "deep",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "within",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "surface and, and deep처럼 끝소리와 다음 소리가 자연스럽게 이어져요.",
+   "start": 93.73,
+   "end": 105.02
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the segment, what does your brain sometimes cause you to do?",
+   "options": [
+    "See something that isn't actually there",
+    "Hear sounds that aren't real",
+    "Forget a recent memory"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 뇌가 실제로 없는 것을 보게 만든다고 설명해요."
+  },
+  {
+   "q": "What do the researchers compare in their experiments?",
+   "options": [
+    "Seeing an image on a screen versus seeing an afterimage",
+    "Daytime vision versus nighttime vision",
+    "Memory versus imagination"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 컴퓨터 화면의 이미지를 볼 때와 잔상을 볼 때를 비교한다고 해요."
+  },
+  {
+   "q": "What do the researchers track during the experiments?",
+   "options": [
+    "How brain activity changes",
+    "How eye muscles move",
+    "How heart rate changes"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 뇌 활동이 어떻게 변하는지를 추적한다고 말해요."
+  },
+  {
+   "q": "Where are the brain regions involved in both kinds of conscious perception located?",
+   "options": [
+    "Both near the brain's surface and deep within it",
+    "Only near the brain's surface",
+    "Only in the spinal cord"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 뇌 표면 근처와 더 깊은 곳 모두에 영역이 있다고 설명해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "afterimage",
+   "ko": "잔상",
+   "note": "눈을 감거나 다른 곳을 봐도 잠깐 남아 보이는 이미지예요."
+  },
+  {
+   "term": "track",
+   "ko": "추적하다",
+   "note": "여기서는 변화하는 과정을 측정하며 따라간다는 뜻이에요."
+  },
+  {
+   "term": "overlapping",
+   "ko": "겹치는",
+   "note": "두 영역이나 범위가 서로 겹쳐 있다는 뜻이에요."
+  },
+  {
+   "term": "conscious perception",
+   "ko": "의식적 지각",
+   "note": "의식적으로 인지하고 알아차리는 과정을 가리켜요."
+  }
+ ]
+}

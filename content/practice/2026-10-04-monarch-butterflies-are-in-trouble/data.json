@@ -1,0 +1,421 @@
+{
+ "video_id": "D6n9rgwcGpw",
+ "source_title": "U.S. Fish & Wildlife Service - Monarch Announcement",
+ "source_channel": "U.S. Fish & Wildlife Service",
+ "segment": {
+  "start": 35.4,
+  "end": 60.2
+ },
+ "sentences": [
+  {
+   "text": "I wish it was different, but our beloved monarchs are in trouble and need our help.",
+   "chunks": [
+    {
+     "en": "I wish it was different,",
+     "ko": "다르면 좋겠지만,"
+    },
+    {
+     "en": "but our beloved monarchs are in trouble",
+     "ko": "우리가 사랑하는 제왕나비들이 위험에 처해 있고"
+    },
+    {
+     "en": "and need our help.",
+     "ko": "우리의 도움이 필요합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wish",
+     "strong": true,
+     "link": false,
+     "syl": "WISH"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beloved",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "monarchs",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trouble",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "are in, need our처럼 자음 뒤 모음은 이어서 발음합니다.",
+   "start": 35.4,
+   "end": 41.68
+  },
+  {
+   "text": "Migratory monarchs in North America are declining at a worrisome pace and are projected to continue declining over the next 60 years.",
+   "chunks": [
+    {
+     "en": "Migratory monarchs in North America",
+     "ko": "북미의 이동성 제왕나비들은"
+    },
+    {
+     "en": "are declining at a worrisome pace",
+     "ko": "우려스러운 속도로 줄어들고 있으며"
+    },
+    {
+     "en": "and are projected to continue declining",
+     "ko": "앞으로도 계속 줄어들 것으로 예측되는데,"
+    },
+    {
+     "en": "over the next 60 years.",
+     "ko": "앞으로 60년 동안."
+    }
+   ],
+   "words": [
+    {
+     "w": "Migratory",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "monarchs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "North",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "America",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "declining",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worrisome",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "pace",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "projected",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "continue",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "declining",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "60",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "at a, declining over처럼 자음 뒤 모음은 이어서 발음합니다.",
+   "start": 41.68,
+   "end": 51.625454545454545
+  },
+  {
+   "text": "Increased threats from climate change, insecticides, and loss of habitat are negatively impacting monarch survival.",
+   "chunks": [
+    {
+     "en": "Increased threats from climate change, insecticides,",
+     "ko": "기후 변화, 살충제로부터의 증가된 위협,"
+    },
+    {
+     "en": "and loss of habitat",
+     "ko": "그리고 서식지 손실이"
+    },
+    {
+     "en": "are negatively impacting monarch survival.",
+     "ko": "제왕나비의 생존에 부정적인 영향을 미치고 있습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Increased",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "threats",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "climate",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "change,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "insecticides,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "loss",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "habitat",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "negatively",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "impacting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "monarch",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "survival.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "loss of, habitat are처럼 자음 뒤 모음은 이어서 발음합니다.",
+   "start": 51.625454545454545,
+   "end": 60.2
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the speaker, what is happening to monarch butterflies?",
+   "options": [
+    "They are in trouble and need help",
+    "They are thriving",
+    "They have moved to a new habitat"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 제왕나비가 위험에 처해 도움이 필요하다고 했습니다."
+  },
+  {
+   "q": "How are migratory monarchs in North America changing?",
+   "options": [
+    "They are declining at a worrisome pace",
+    "They are increasing steadily",
+    "They are staying the same"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 우려스러운 속도로 줄어들고 있다고 했습니다."
+  },
+  {
+   "q": "Over what time period is the decline projected to continue?",
+   "options": [
+    "The next 60 years",
+    "The next 6 years",
+    "The next 600 years"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 앞으로 60년 동안 계속될 것으로 예측된다고 했습니다."
+  },
+  {
+   "q": "What threats are negatively impacting monarch survival?",
+   "options": [
+    "Climate change, insecticides, and loss of habitat",
+    "Only climate change",
+    "Only loss of habitat"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 기후 변화, 살충제, 서식지 손실이 함께 영향을 미친다고 했습니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "migratory",
+   "ko": "이동하는, 이주하는",
+   "note": "계절에 따라 먼 거리를 이동하는 동물을 설명할 때 씁니다."
+  },
+  {
+   "term": "worrisome pace",
+   "ko": "우려스러운 속도",
+   "note": "걱정될 정도로 빠르게 진행되는 속도를 말합니다."
+  },
+  {
+   "term": "be projected to",
+   "ko": "~할 것으로 예측되다",
+   "note": "미래에 일어날 것으로 예상되는 일을 말할 때 씁니다."
+  },
+  {
+   "term": "insecticide",
+   "ko": "살충제",
+   "note": "해충을 죽이는 데 쓰는 화학 약품입니다."
+  },
+  {
+   "term": "habitat",
+   "ko": "서식지",
+   "note": "동물이나 식물이 자연적으로 사는 장소입니다."
+  },
+  {
+   "term": "negatively impact",
+   "ko": "부정적인 영향을 미치다",
+   "note": "어떤 것에 나쁜 영향을 주는 것을 말합니다."
+  }
+ ]
+}

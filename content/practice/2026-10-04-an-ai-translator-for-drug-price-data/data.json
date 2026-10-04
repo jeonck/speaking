@@ -1,0 +1,481 @@
+{
+ "video_id": "19aQoUOuEkY",
+ "source_title": "NIH SciBites: Applying AI to Lower Healthcare Costs",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 33.72,
+  "end": 55.5
+ },
+ "sentences": [
+  {
+   "text": "The bad news is that this information is packed with dense, technical language that is hard to understand unless you're an expert.",
+   "chunks": [
+    {
+     "en": "The bad news is that this information is packed with dense, technical language",
+     "ko": "나쁜 소식은 이 정보가 빽빽하고 전문적인 용어로 가득하다는 것이다"
+    },
+    {
+     "en": "that is hard to understand unless you're an expert.",
+     "ko": "전문가가 아니면 이해하기 어렵다는 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bad",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "news",
+     "strong": true,
+     "link": false,
+     "syl": "NEWS"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "information",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "packed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dense,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "technical",
+     "strong": true,
+     "link": false,
+     "syl": "TECH"
+    },
+    {
+     "w": "language",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false,
+     "syl": "HARD"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "understand",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unless",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "expert.",
+     "strong": true,
+     "link": false,
+     "syl": "EX"
+    }
+   ],
+   "tip": "an expert처럼 끝자음 n이 다음 모음으로 이어져요.",
+   "start": 33.72,
+   "end": 41.37
+  },
+  {
+   "text": "That's where my lab's research project, MedicaidGPT, comes in.",
+   "chunks": [
+    {
+     "en": "That's where my lab's research project,",
+     "ko": "바로 거기서 내 연구실의 연구 프로젝트인,"
+    },
+    {
+     "en": "MedicaidGPT, comes in.",
+     "ko": "메디케이드GPT가 등장한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lab's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "research",
+     "strong": true,
+     "link": false,
+     "syl": "SEARCH"
+    },
+    {
+     "w": "project,",
+     "strong": true,
+     "link": false,
+     "syl": "PROJ"
+    },
+    {
+     "w": "MedicaidGPT,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comes",
+     "strong": true,
+     "link": false,
+     "syl": "COMES"
+    },
+    {
+     "w": "in.",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    }
+   ],
+   "tip": "comes in은 끝자음 s가 다음 모음 in으로 이어져요.",
+   "start": 41.37,
+   "end": 45.65
+  },
+  {
+   "text": "Think of it like a translator for data on drug prices.",
+   "chunks": [
+    {
+     "en": "Think of it like a translator",
+     "ko": "그것을 번역기라고 생각해보라"
+    },
+    {
+     "en": "for data on drug prices.",
+     "ko": "약물 가격에 대한 데이터를 위한."
+    }
+   ],
+   "words": [
+    {
+     "w": "Think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "translator",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "data",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drug",
+     "strong": true,
+     "link": false,
+     "syl": "DRUG"
+    },
+    {
+     "w": "prices.",
+     "strong": true,
+     "link": false,
+     "syl": "PRI"
+    }
+   ],
+   "tip": "like a는 끝자음 k가 다음 모음 a로 이어져요.",
+   "start": 45.65,
+   "end": 48.89
+  },
+  {
+   "text": "It allows you to ask questions about how much treatments cost in plain English instead of searching through a complicated database.",
+   "chunks": [
+    {
+     "en": "It allows you to ask questions about how much treatments cost in plain English",
+     "ko": "그것은 당신이 치료비가 얼마인지 평범한 영어로 질문할 수 있게 해준다"
+    },
+    {
+     "en": "instead of searching through a complicated database.",
+     "ko": "복잡한 데이터베이스를 뒤지는 대신에."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "allows",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ask",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "questions",
+     "strong": true,
+     "link": false,
+     "syl": "QUES"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "treatments",
+     "strong": true,
+     "link": false,
+     "syl": "TREAT"
+    },
+    {
+     "w": "cost",
+     "strong": true,
+     "link": false,
+     "syl": "COST"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plain",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "English",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "instead",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "searching",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "complicated",
+     "strong": true,
+     "link": false,
+     "syl": "PLI"
+    },
+    {
+     "w": "database.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "cost in, instead of처럼 끝자음이 뒤 모음으로 이어져요.",
+   "start": 48.89,
+   "end": 55.5
+  }
+ ],
+ "questions": [
+  {
+   "q": "What problem does the bad news describe?",
+   "options": [
+    "Healthcare information is packed with dense, technical language",
+    "There is no healthcare data available",
+    "Drug prices are too low"
+   ],
+   "answer": 0,
+   "why": "\"this information is packed with dense, technical language\"에서 확인됩니다."
+  },
+  {
+   "q": "What is the research project compared to?",
+   "options": [
+    "A translator for data on drug prices",
+    "A search engine for recipes",
+    "A tool for booking travel"
+   ],
+   "answer": 0,
+   "why": "\"Think of it like a translator for data on drug prices\"에서 확인됩니다."
+  },
+  {
+   "q": "What can users do with this tool?",
+   "options": [
+    "Ask questions about treatment costs in plain English",
+    "Only read static reports",
+    "Submit complaints to a hospital"
+   ],
+   "answer": 0,
+   "why": "\"ask questions about how much treatments cost in plain English\"에서 확인됩니다."
+  },
+  {
+   "q": "What does the tool let users avoid?",
+   "options": [
+    "Searching through a complicated database",
+    "Paying for treatment",
+    "Talking to a doctor"
+   ],
+   "answer": 0,
+   "why": "\"instead of searching through a complicated database\"에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "dense, technical language",
+   "ko": "빽빽하고 전문적인 용어",
+   "note": "dense는 '내용이 꽉 찬'이라는 뜻으로 어려운 글을 표현할 때 써요."
+  },
+  {
+   "term": "comes in",
+   "ko": "등장하다/개입하다",
+   "note": "that's where ~ comes in은 '바로 그 지점에서 ~가 필요해진다'는 뜻이에요."
+  },
+  {
+   "term": "a translator for",
+   "ko": "~을 위한 번역기",
+   "note": "translator는 언어뿐 아니라 복잡한 정보를 쉽게 바꿔주는 도구에도 비유로 쓰여요."
+  },
+  {
+   "term": "in plain English",
+   "ko": "쉬운 말로/평범한 영어로",
+   "note": "전문 용어 없이 이해하기 쉽게 설명한다는 뜻의 관용구예요."
+  },
+  {
+   "term": "a complicated database",
+   "ko": "복잡한 데이터베이스",
+   "note": "complicated는 complex보다 일상적으로 많이 쓰는 표현이에요."
+  }
+ ]
+}

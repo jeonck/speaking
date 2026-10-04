@@ -1,0 +1,553 @@
+{
+ "video_id": "YYFLUfuKwXs",
+ "source_title": "Women in Science - Deb Kirkland",
+ "source_channel": "U.S. Fish & Wildlife Service",
+ "segment": {
+  "start": 48.88,
+  "end": 74.0
+ },
+ "sentences": [
+  {
+   "text": "What surfing has given me is confidence in being assertive, because when you're a surfer, you actually have to go right toward a place where you think that you shouldn't go, right towards the breaking wave.",
+   "chunks": [
+    {
+     "en": "What surfing has given me is confidence in being assertive,",
+     "ko": "서핑이 나에게 준 것은 당당해지는 자신감인데,"
+    },
+    {
+     "en": "because when you're a surfer, you actually have to go right toward a place",
+     "ko": "서퍼가 되면 실제로 어떤 장소를 향해 곧장 나아가야 하기 때문이다"
+    },
+    {
+     "en": "where you think that you shouldn't go,",
+     "ko": "가면 안 된다고 생각하는 곳으로,"
+    },
+    {
+     "en": "right towards the breaking wave.",
+     "ko": "바로 부서지는 파도를 향해서 말이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surfing",
+     "strong": true,
+     "link": false,
+     "syl": "SURF"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "given",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "confidence",
+     "strong": true,
+     "link": false,
+     "syl": "CON"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "assertive,",
+     "strong": true,
+     "link": false,
+     "syl": "SER"
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surfer,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "toward",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shouldn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "towards",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "breaking",
+     "strong": true,
+     "link": false,
+     "syl": "BREAK"
+    },
+    {
+     "w": "wave.",
+     "strong": true,
+     "link": false,
+     "syl": "WAVE"
+    }
+   ],
+   "tip": "right toward는 같은 자음(t)이 이어져 부드럽게 연결된다.",
+   "start": 48.88,
+   "end": 59.76
+  },
+  {
+   "text": "And that's the way you're going to be successful and prove yourself out in the water.",
+   "chunks": [
+    {
+     "en": "And that's the way you're going to be successful",
+     "ko": "그리고 그렇게 성공할 수 있는 거고"
+    },
+    {
+     "en": "and prove yourself out in the water.",
+     "ko": "물속에서 스스로를 증명하게 되는 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "successful",
+     "strong": true,
+     "link": false,
+     "syl": "CESS"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prove",
+     "strong": true,
+     "link": false,
+     "syl": "PROVE"
+    },
+    {
+     "w": "yourself",
+     "strong": true,
+     "link": false,
+     "syl": "SELF"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water.",
+     "strong": true,
+     "link": false,
+     "syl": "WA"
+    }
+   ],
+   "tip": "going to는 'gonna'처럼 자연스럽게 축약된다.",
+   "start": 59.76,
+   "end": 63.72
+  },
+  {
+   "text": "I think what women bring to the field of conservation is a different perspective.",
+   "chunks": [
+    {
+     "en": "I think what women bring to the field of conservation",
+     "ko": "여성들이 보전 분야에 가져오는 것은"
+    },
+    {
+     "en": "is a different perspective.",
+     "ko": "다른 관점이라고 생각한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "women",
+     "strong": true,
+     "link": false,
+     "syl": "WO"
+    },
+    {
+     "w": "bring",
+     "strong": true,
+     "link": false,
+     "syl": "BRING"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "field",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "conservation",
+     "strong": true,
+     "link": false,
+     "syl": "VA"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    },
+    {
+     "w": "perspective.",
+     "strong": true,
+     "link": false,
+     "syl": "SPEC"
+    }
+   ],
+   "tip": "field of는 자음(d) 뒤에 모음이 와서 이어 발음된다.",
+   "start": 63.72,
+   "end": 69.04
+  },
+  {
+   "text": "Women tend to think about a broader landscape of people.",
+   "chunks": [
+    {
+     "en": "Women tend to think about",
+     "ko": "여성들은 생각하는 경향이 있다"
+    },
+    {
+     "en": "a broader landscape of people.",
+     "ko": "사람들이라는 더 넓은 범위를 말이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Women",
+     "strong": true,
+     "link": false,
+     "syl": "WO"
+    },
+    {
+     "w": "tend",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "broader",
+     "strong": true,
+     "link": false,
+     "syl": "BROAD"
+    },
+    {
+     "w": "landscape",
+     "strong": true,
+     "link": true,
+     "syl": "LAND"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people.",
+     "strong": true,
+     "link": false,
+     "syl": "PEO"
+    }
+   ],
+   "tip": "tend to는 약하게 이어져 '텐투'처럼 들린다.",
+   "start": 69.04,
+   "end": 74.0
+  }
+ ],
+ "questions": [
+  {
+   "q": "What has surfing given the speaker, according to the segment?",
+   "options": [
+    "Confidence in being assertive",
+    "A fear of deep water",
+    "A new career in science"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 서핑이 당당함(자신감)을 주었다고 말한다."
+  },
+  {
+   "q": "Where does a surfer sometimes have to go, based on the speaker's description?",
+   "options": [
+    "Right towards the breaking wave",
+    "Away from the shore entirely",
+    "Only in calm water"
+   ],
+   "answer": 0,
+   "why": "첫 문장 마지막 부분에서 부서지는 파도를 향해 간다고 설명한다."
+  },
+  {
+   "q": "What does the speaker say women bring to the field of conservation?",
+   "options": [
+    "A different perspective",
+    "More physical strength",
+    "Faster decision-making"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 다른 관점을 가져온다고 말한다."
+  },
+  {
+   "q": "According to the speaker, what do women tend to consider?",
+   "options": [
+    "A broader landscape of people",
+    "Only technical data",
+    "Short-term profits"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 더 넓은 사람들의 범위를 생각한다고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "assertive",
+   "ko": "자기주장이 강한, 당당한",
+   "note": "자신의 의견을 분명히 표현하는 태도를 뜻한다."
+  },
+  {
+   "term": "breaking wave",
+   "ko": "부서지는 파도",
+   "note": "서핑에서 부서지는 큰 파도를 가리킨다."
+  },
+  {
+   "term": "conservation",
+   "ko": "자연 보전",
+   "note": "환경이나 생태계를 보호하는 일을 뜻한다."
+  },
+  {
+   "term": "broader landscape",
+   "ko": "더 넓은 범위/시야",
+   "note": "더 폭넓은 관점이나 상황을 뜻하는 표현이다."
+  }
+ ]
+}

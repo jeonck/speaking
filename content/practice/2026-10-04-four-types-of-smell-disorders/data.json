@@ -1,0 +1,417 @@
+{
+ "video_id": "_Qyp157Az50",
+ "source_title": "Journey of Smell to the Brain",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 122.72,
+  "end": 147.2
+ },
+ "sentences": [
+  {
+   "text": "A reduced ability to detect odors is called hyposmia.",
+   "chunks": [
+    {
+     "en": "A reduced ability",
+     "ko": "줄어든 능력은"
+    },
+    {
+     "en": "to detect odors",
+     "ko": "냄새를 감지하는"
+    },
+    {
+     "en": "is called hyposmia.",
+     "ko": "하이포스미아라고 불린다"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reduced",
+     "strong": true,
+     "link": false,
+     "syl": "DUCED"
+    },
+    {
+     "w": "ability",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "detect",
+     "strong": true,
+     "link": true,
+     "syl": "TECT"
+    },
+    {
+     "w": "odors",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hyposmia.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "reduced, detect, odors, hyposmia에 강세를 두고 읽어요.",
+   "start": 122.72,
+   "end": 127.32
+  },
+  {
+   "text": "The complete inability to detect odors is called anosmia.",
+   "chunks": [
+    {
+     "en": "The complete inability",
+     "ko": "완전한 상실은"
+    },
+    {
+     "en": "to detect odors",
+     "ko": "냄새를 감지하는 능력의"
+    },
+    {
+     "en": "is called anosmia.",
+     "ko": "아노스미아라고 불린다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "complete",
+     "strong": true,
+     "link": false,
+     "syl": "PLETE"
+    },
+    {
+     "w": "inability",
+     "strong": true,
+     "link": false,
+     "syl": "BIL"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "detect",
+     "strong": true,
+     "link": true,
+     "syl": "TECT"
+    },
+    {
+     "w": "odors",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "anosmia.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "complete, inability, detect, anosmia에 강세를 주며 읽어요.",
+   "start": 127.32,
+   "end": 132.28
+  },
+  {
+   "text": "Smelling an odor that isn't actually present is called phantosmia.",
+   "chunks": [
+    {
+     "en": "Smelling an odor",
+     "ko": "냄새를 맡는 것은"
+    },
+    {
+     "en": "that isn't actually present",
+     "ko": "실제로 존재하지 않는 냄새를"
+    },
+    {
+     "en": "is called phantosmia.",
+     "ko": "판토스미아라고 불린다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Smelling",
+     "strong": true,
+     "link": false,
+     "syl": "SMELL"
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "odor",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "isn't",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "present",
+     "strong": true,
+     "link": false,
+     "syl": "PRES"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phantosmia.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "odor, present, phantosmia에 강세를 주며 읽어요.",
+   "start": 132.28,
+   "end": 137.44
+  },
+  {
+   "text": "And a change in the normal perception of odors—when warm cookies or roses smell awful instead of wonderful—is called parosmia.",
+   "chunks": [
+    {
+     "en": "And a change in the normal perception of odors—when warm cookies or roses smell",
+     "ko": "그리고 냄새에 대한 정상적인 인식에 변화가 생겨서, 따뜻한 쿠키나 장미 냄새가"
+    },
+    {
+     "en": "awful instead of wonderful—is called parosmia.",
+     "ko": "좋게 느껴지지 않고 끔찍하게 느껴지는 것은 파로스미아라고 불린다"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "link": false,
+     "syl": "CHANGE"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "normal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "perception",
+     "strong": true,
+     "link": false,
+     "syl": "CEP"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "odors—when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "warm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cookies",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "roses",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smell",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "awful",
+     "strong": true,
+     "link": false,
+     "syl": "AW"
+    },
+    {
+     "w": "instead",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wonderful—is",
+     "strong": true,
+     "link": false,
+     "syl": "WON"
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parosmia.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "change, perception, awful, wonderful, parosmia에 강세를 주고, 대시(—) 부분에서 살짝 끊어 읽어요.",
+   "start": 137.44,
+   "end": 147.2
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is hyposmia?",
+   "options": [
+    "A reduced ability to detect odors",
+    "A complete inability to detect odors",
+    "Smelling odors that aren't present"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 냄새 감지 능력이 줄어든 것을 하이포스미아라고 해요."
+  },
+  {
+   "q": "What is anosmia?",
+   "options": [
+    "The complete inability to detect odors",
+    "A change in how odors are perceived",
+    "A reduced sense of taste"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 냄새를 전혀 감지하지 못하는 것을 아노스미아라고 해요."
+  },
+  {
+   "q": "What is phantosmia?",
+   "options": [
+    "Smelling an odor that isn't actually present",
+    "Losing the sense of smell completely",
+    "Smelling only pleasant odors"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 실제로 없는 냄새를 맡는 것을 판토스미아라고 해요."
+  },
+  {
+   "q": "What is parosmia?",
+   "options": [
+    "A change in the normal perception of odors, like pleasant smells turning unpleasant",
+    "A total loss of smell",
+    "An increased sensitivity to all odors"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 좋은 냄새가 끔찍하게 느껴지는 변화를 파로스미아라고 해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "reduced ability",
+   "ko": "줄어든 능력",
+   "note": "감각이 약해졌을 때 쓰는 표현이에요."
+  },
+  {
+   "term": "inability",
+   "ko": "할 수 없음, 불능",
+   "note": "ability의 반대말이에요."
+  },
+  {
+   "term": "isn't actually present",
+   "ko": "실제로는 존재하지 않는",
+   "note": "실재하지 않는 것을 가리켜요."
+  },
+  {
+   "term": "perception",
+   "ko": "인식, 지각",
+   "note": "감각을 통해 느끼는 것을 말해요."
+  },
+  {
+   "term": "instead of",
+   "ko": "~대신에",
+   "note": "두 가지를 대조할 때 써요."
+  }
+ ]
+}

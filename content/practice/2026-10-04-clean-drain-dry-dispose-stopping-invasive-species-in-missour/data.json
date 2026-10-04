@@ -1,0 +1,577 @@
+{
+ "video_id": "RgweRWM1vIQ",
+ "source_title": "Invasive species: Clean Drain Dry Dispose in Missouri",
+ "source_channel": "U.S. Fish & Wildlife Service",
+ "segment": {
+  "start": 37.23,
+  "end": 63.51
+ },
+ "sentences": [
+  {
+   "text": "Drain all water before leaving a water access site, ensuring that drain plugs are left open to comply with Missouri law.",
+   "chunks": [
+    {
+     "en": "Drain all water before leaving a water access site,",
+     "ko": "수상 접근 지점을 떠나기 전에 모든 물을 빼고,"
+    },
+    {
+     "en": "ensuring that drain plugs are left open",
+     "ko": "배수 플러그가 열려 있도록 하여"
+    },
+    {
+     "en": "to comply with Missouri law.",
+     "ko": "미주리 주법을 준수한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Drain",
+     "strong": true,
+     "link": false,
+     "syl": "DRAIN"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leaving",
+     "strong": true,
+     "link": true,
+     "syl": "LEAV"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "access",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "site,",
+     "strong": true,
+     "link": false,
+     "syl": "SITE"
+    },
+    {
+     "w": "ensuring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drain",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plugs",
+     "strong": true,
+     "link": false,
+     "syl": "PLUGS"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "left",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "open",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comply",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Missouri",
+     "strong": true,
+     "link": false,
+     "syl": "SOU"
+    },
+    {
+     "w": "law.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "leaving a와 water access처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 37.23,
+   "end": 45.18
+  },
+  {
+   "text": "Allow equipment to dry completely before using at a different water body.",
+   "chunks": [
+    {
+     "en": "Allow equipment to dry completely",
+     "ko": "장비를 완전히 말린 후에"
+    },
+    {
+     "en": "before using at a different water body.",
+     "ko": "다른 수역에서 사용하기 전에."
+    }
+   ],
+   "words": [
+    {
+     "w": "Allow",
+     "strong": true,
+     "link": false,
+     "syl": "LOW"
+    },
+    {
+     "w": "equipment",
+     "strong": true,
+     "link": false,
+     "syl": "QUIP"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dry",
+     "strong": true,
+     "link": false,
+     "syl": "DRY"
+    },
+    {
+     "w": "completely",
+     "strong": true,
+     "link": false,
+     "syl": "PLETE"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "using",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "using at a처럼 자음 뒤에 모음이 연달아 오면 자연스럽게 이어서 발음해요.",
+   "start": 45.18,
+   "end": 49.77
+  },
+  {
+   "text": "If you don't have time to let it dry completely, decontaminate it with hot water.",
+   "chunks": [
+    {
+     "en": "If you don't have time to let it dry completely,",
+     "ko": "완전히 말릴 시간이 없다면,"
+    },
+    {
+     "en": "decontaminate it with hot water.",
+     "ko": "뜨거운 물로 소독하라."
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": false,
+     "syl": "TIME"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "let",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dry",
+     "strong": true,
+     "link": false,
+     "syl": "DRY"
+    },
+    {
+     "w": "completely,",
+     "strong": true,
+     "link": false,
+     "syl": "PLETE"
+    },
+    {
+     "w": "decontaminate",
+     "strong": true,
+     "link": true,
+     "syl": "TAM"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hot",
+     "strong": true,
+     "link": false,
+     "syl": "HOT"
+    },
+    {
+     "w": "water.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "let it와 decontaminate it처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 49.77,
+   "end": 54.54
+  },
+  {
+   "text": "Finally, if you're fishing with live bait, make sure you dispose of it by sealing it in a container, such as a plastic bag, and throw it in the trash.",
+   "chunks": [
+    {
+     "en": "Finally, if you're fishing with live bait,",
+     "ko": "마지막으로, 산 미끼를 가지고 낚시를 한다면,"
+    },
+    {
+     "en": "make sure you dispose of it",
+     "ko": "반드시 그것을 폐기하라"
+    },
+    {
+     "en": "by sealing it in a container,",
+     "ko": "용기에 밀봉해서,"
+    },
+    {
+     "en": "such as a plastic bag,",
+     "ko": "비닐봉지 같은 것에,"
+    },
+    {
+     "en": "and throw it in the trash.",
+     "ko": "그리고 쓰레기통에 버려라."
+    }
+   ],
+   "words": [
+    {
+     "w": "Finally,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fishing",
+     "strong": true,
+     "link": false,
+     "syl": "FISH"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bait,",
+     "strong": true,
+     "link": false,
+     "syl": "BAIT"
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dispose",
+     "strong": true,
+     "link": true,
+     "syl": "POSE"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sealing",
+     "strong": true,
+     "link": true,
+     "syl": "SEAL"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "container,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "such",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plastic",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bag,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "throw",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trash.",
+     "strong": true,
+     "link": false,
+     "syl": "TRASH"
+    }
+   ],
+   "tip": "dispose of it, sealing it처럼 자음 뒤에 모음이 오면 이어서 발음해요.",
+   "start": 54.54,
+   "end": 63.51
+  }
+ ],
+ "questions": [
+  {
+   "q": "What should you do with drain plugs when leaving a water access site?",
+   "options": [
+    "Leave them open so all water drains out",
+    "Leave them closed and sealed",
+    "Remove them and throw them away"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 배수 플러그가 열려 있도록 해서 미주리 주법을 준수한다고 설명합니다."
+  },
+  {
+   "q": "What should you do if you don't have time to dry equipment completely?",
+   "options": [
+    "Decontaminate it with hot water",
+    "Use it anyway without drying",
+    "Leave it in the water"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 완전히 말릴 시간이 없다면 뜨거운 물로 소독하라고 안내합니다."
+  },
+  {
+   "q": "How should live bait be disposed of?",
+   "options": [
+    "Seal it in a container, such as a plastic bag, and throw it in the trash",
+    "Release it back into the water",
+    "Feed it to other fish"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 용기에 밀봉해 쓰레기통에 버리라고 설명합니다."
+  },
+  {
+   "q": "What is the main purpose of these steps, based on the video title?",
+   "options": [
+    "To prevent the spread of invasive species",
+    "To catch more fish",
+    "To clean fishing boats for sale"
+   ],
+   "answer": 0,
+   "why": "영상 제목이 외래종 확산을 막기 위한 'Clean Drain Dry Dispose' 절차임을 알려줍니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "water access site",
+   "ko": "수상 접근 지점",
+   "note": "보트나 낚시 장비를 물에 넣고 꺼내는 장소"
+  },
+  {
+   "term": "drain plug",
+   "ko": "배수 플러그(마개)",
+   "note": "보트 등에서 물을 빼는 구멍을 막는 마개"
+  },
+  {
+   "term": "decontaminate",
+   "ko": "소독(오염 제거)하다",
+   "note": "장비에 남은 생물이나 오염물을 제거하는 것"
+  },
+  {
+   "term": "dispose of",
+   "ko": "~을 폐기하다, 처리하다",
+   "note": "뒤에 of가 꼭 따라오는 표현"
+  },
+  {
+   "term": "live bait",
+   "ko": "산 미끼",
+   "note": "살아있는 상태로 쓰는 낚시 미끼"
+  }
+ ]
+}

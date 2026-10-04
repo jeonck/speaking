@@ -1,0 +1,445 @@
+{
+ "video_id": "azD5lXx59Lg",
+ "source_title": "Vine by Vine - Conserving Water With Landsat",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 22.29,
+  "end": 47.18
+ },
+ "sentences": [
+  {
+   "text": "Like all crops, growing grapes takes water.",
+   "chunks": [
+    {
+     "en": "Like all crops,",
+     "ko": "모든 농작물처럼,"
+    },
+    {
+     "en": "growing grapes takes water.",
+     "ko": "포도를 재배하는 것도 물이 필요하다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crops,",
+     "strong": true,
+     "link": false,
+     "syl": "CROPS"
+    },
+    {
+     "w": "growing",
+     "strong": true,
+     "link": false,
+     "syl": "GROW"
+    },
+    {
+     "w": "grapes",
+     "strong": true,
+     "link": false,
+     "syl": "GRAPES"
+    },
+    {
+     "w": "takes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water.",
+     "strong": true,
+     "link": false,
+     "syl": "WA"
+    }
+   ],
+   "tip": "crops, growing, grapes, water에 강세를 주며 읽어요.",
+   "start": 22.29,
+   "end": 25.29
+  },
+  {
+   "text": "In California, where water shortages are not uncommon, every drop counts.",
+   "chunks": [
+    {
+     "en": "In California,",
+     "ko": "캘리포니아에서는,"
+    },
+    {
+     "en": "where water shortages are not uncommon,",
+     "ko": "물 부족이 드물지 않은 곳이라,"
+    },
+    {
+     "en": "every drop counts.",
+     "ko": "한 방울도 소중하다"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "California,",
+     "strong": true,
+     "link": false,
+     "syl": "FOR"
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shortages",
+     "strong": true,
+     "link": false,
+     "syl": "SHORT"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "uncommon,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drop",
+     "strong": true,
+     "link": false,
+     "syl": "DROP"
+    },
+    {
+     "w": "counts.",
+     "strong": true,
+     "link": false,
+     "syl": "COUNTS"
+    }
+   ],
+   "tip": "California, shortages, drop, counts에 강세를 주며 읽어요.",
+   "start": 25.29,
+   "end": 31.43
+  },
+  {
+   "text": "In 2008, E. & J. Gallo Winery, headquartered in Modesto, California and one of the largest wine producers in the world, set an ambitious target: cut water usage across their vineyards in half, without sacrificing grape quality.",
+   "chunks": [
+    {
+     "en": "In 2008,",
+     "ko": "2008년에,"
+    },
+    {
+     "en": "E. & J. Gallo Winery,",
+     "ko": "E. & J. 갤로 와이너리는,"
+    },
+    {
+     "en": "headquartered in Modesto, California",
+     "ko": "캘리포니아 모데스토에 본사를 둔"
+    },
+    {
+     "en": "and one of the largest wine producers in the world,",
+     "ko": "그리고 세계 최대 와인 생산업체 중 하나로,"
+    },
+    {
+     "en": "set an ambitious target:",
+     "ko": "야심찬 목표를 세웠다:"
+    },
+    {
+     "en": "cut water usage across their vineyards in half,",
+     "ko": "포도밭 전체의 물 사용량을 절반으로 줄이는 것,"
+    },
+    {
+     "en": "without sacrificing grape quality.",
+     "ko": "포도 품질을 희생시키지 않으면서"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2008,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "E.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "J.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Gallo",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Winery,",
+     "strong": true,
+     "link": false,
+     "syl": "WINE"
+    },
+    {
+     "w": "headquartered",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Modesto,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "California",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "largest",
+     "strong": true,
+     "link": false,
+     "syl": "LAR"
+    },
+    {
+     "w": "wine",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "producers",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "set",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ambitious",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "target:",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cut",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usage",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "across",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vineyards",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "half,",
+     "strong": true,
+     "link": false,
+     "syl": "HALF"
+    },
+    {
+     "w": "without",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sacrificing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grape",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quality.",
+     "strong": true,
+     "link": false,
+     "syl": "QUAL"
+    }
+   ],
+   "tip": "Winery, largest, ambitious, half, quality에 강세를 주고, 쉼표와 콜론에서 잠깐 끊어 읽어요.",
+   "start": 31.43,
+   "end": 47.18
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does growing grapes require, like all crops?",
+   "options": [
+    "Water",
+    "Sunlight only",
+    "Cold temperatures"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 포도 재배도 물이 필요하다고 해요."
+  },
+  {
+   "q": "What is said about water in California?",
+   "options": [
+    "Water shortages are not uncommon, so every drop counts",
+    "Water is always abundant",
+    "Water shortages never happen there"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 캘리포니아는 물 부족이 드물지 않다고 해요."
+  },
+  {
+   "q": "What ambitious target did the winery set?",
+   "options": [
+    "Cut water usage across vineyards in half without hurting grape quality",
+    "Double its vineyard size",
+    "Stop using water completely"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 포도밭 물 사용량을 절반으로 줄이는 목표를 세웠다고 해요."
+  },
+  {
+   "q": "What kind of company is described in the segment?",
+   "options": [
+    "One of the largest wine producers in the world",
+    "A small family farm",
+    "A government research lab"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 세계 최대 와인 생산업체 중 하나라고 해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "takes water",
+   "ko": "물이 필요하다/든다",
+   "note": "자원이 필요함을 나타내는 표현이에요."
+  },
+  {
+   "term": "not uncommon",
+   "ko": "드물지 않은, 흔한",
+   "note": "이중 부정으로 '흔하다'는 뜻이에요."
+  },
+  {
+   "term": "every drop counts",
+   "ko": "한 방울도 소중하다",
+   "note": "자원을 아껴야 함을 강조하는 표현이에요."
+  },
+  {
+   "term": "headquartered in",
+   "ko": "~에 본사를 둔",
+   "note": "회사의 본사 위치를 말할 때 써요."
+  },
+  {
+   "term": "ambitious target",
+   "ko": "야심찬 목표",
+   "note": "달성하기 쉽지 않은 목표를 가리켜요."
+  },
+  {
+   "term": "sacrificing",
+   "ko": "희생시키는",
+   "note": "품질 등을 포기하지 않는다는 맥락에서 자주 써요."
+  }
+ ]
+}

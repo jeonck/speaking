@@ -1,0 +1,372 @@
+{
+ "video_id": "mt6vcy-hssA",
+ "source_title": "Supercomputer Traces Neutron Stars’ Magnetic Tango",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 17.58,
+  "end": 42.54
+ },
+ "sentences": [
+  {
+   "text": "Neutron stars pack the mass of our Sun into a ball the size of a city.",
+   "chunks": [
+    {
+     "en": "Neutron stars pack the mass of our Sun",
+     "ko": "중성자별은 우리 태양의 질량을 압축해 담고 있습니다"
+    },
+    {
+     "en": "into a ball the size of a city.",
+     "ko": "도시 크기만 한 공 속에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Neutron",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stars",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "pack",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mass",
+     "strong": true,
+     "link": false,
+     "syl": "MASS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sun",
+     "strong": true,
+     "link": false,
+     "syl": "SUN"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ball",
+     "strong": true,
+     "link": false,
+     "syl": "BALL"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "size",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "of our, of a처럼 of는 다음 모음과 이어져 짧게 발음됩니다.",
+   "start": 17.58,
+   "end": 24.72
+  },
+  {
+   "text": "When two orbit each other, they'll eventually merge.",
+   "chunks": [
+    {
+     "en": "When two orbit each other,",
+     "ko": "두 천체가 서로의 궤도를 돌면,"
+    },
+    {
+     "en": "they'll eventually merge.",
+     "ko": "결국에는 합쳐집니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "orbit",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "they'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eventually",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "merge.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "they'll은 한 단어처럼 축약되어 빠르게 발음됩니다.",
+   "start": 24.72,
+   "end": 31.7
+  },
+  {
+   "text": "That event produces ripples in space-time, a blast of gamma rays and other light, and may leave behind a new black hole.",
+   "chunks": [
+    {
+     "en": "That event produces ripples in space-time,",
+     "ko": "그 사건은 시공간에 파동을 만들어냅니다,"
+    },
+    {
+     "en": "a blast of gamma rays and other light,",
+     "ko": "감마선과 다른 빛의 폭발도요,"
+    },
+    {
+     "en": "and may leave behind a new black hole.",
+     "ko": "그리고 새로운 블랙홀을 남길 수도 있습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "event",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "produces",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ripples",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "space-time,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "blast",
+     "strong": true,
+     "link": false,
+     "syl": "BLAST"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gamma",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rays",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leave",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "behind",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "black",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hole.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "of gamma에서 of는 약화되어 /əv/로 빠르게 발음됩니다.",
+   "start": 31.7,
+   "end": 42.54
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do neutron stars pack into a city-sized ball?",
+   "options": [
+    "The mass of our Sun",
+    "The mass of a planet",
+    "The mass of a black hole"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 태양의 질량을 압축해 담고 있다고 설명합니다."
+  },
+  {
+   "q": "What eventually happens when two neutron stars orbit each other?",
+   "options": [
+    "They merge",
+    "They explode separately",
+    "They slow down and stop"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 결국 합쳐진다고 말합니다."
+  },
+  {
+   "q": "What does the merger event produce, besides ripples in space-time?",
+   "options": [
+    "A blast of gamma rays and other light",
+    "A new star system",
+    "A shower of meteors"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 감마선과 다른 빛의 폭발을 언급합니다."
+  },
+  {
+   "q": "What might the merger leave behind?",
+   "options": [
+    "A new black hole",
+    "A new neutron star",
+    "A new galaxy"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 새로운 블랙홀을 남길 수 있다고 합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "pack",
+   "ko": "압축해 담다, 채워 넣다",
+   "note": "좁은 공간에 많은 질량을 담는다는 뜻으로 쓰였습니다."
+  },
+  {
+   "term": "orbit",
+   "ko": "궤도를 돌다",
+   "note": "두 천체가 서로의 둘레를 돈다는 의미입니다."
+  },
+  {
+   "term": "ripples in space-time",
+   "ko": "시공간의 파동(중력파)",
+   "note": "중력파를 비유적으로 표현한 말입니다."
+  },
+  {
+   "term": "a blast of",
+   "ko": "~의 폭발, 분출",
+   "note": "감마선 같은 에너지가 터져 나온다는 뜻입니다."
+  },
+  {
+   "term": "leave behind",
+   "ko": "남기다",
+   "note": "사건이 끝난 뒤 남는 결과를 가리킵니다."
+  }
+ ]
+}

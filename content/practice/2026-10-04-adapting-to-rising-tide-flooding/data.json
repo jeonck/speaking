@@ -1,0 +1,659 @@
+{
+ "video_id": "RPK50cw8_Bo",
+ "source_title": "Flooding on a Sunny Day? Here’s How. (1-Minute Watch)",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 41.34,
+  "end": 67.47
+ },
+ "sentences": [
+  {
+   "text": "The land can move due to underlying geology or human impacts.",
+   "chunks": [
+    {
+     "en": "The land",
+     "ko": "그 땅은"
+    },
+    {
+     "en": "can move",
+     "ko": "움직일 수 있다"
+    },
+    {
+     "en": "due to underlying geology",
+     "ko": "저변의 지질 때문에"
+    },
+    {
+     "en": "or human impacts.",
+     "ko": "또는 인간의 영향으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "land",
+     "strong": true,
+     "link": false,
+     "syl": "LAND"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "move",
+     "strong": true,
+     "link": false,
+     "syl": "MOVE"
+    },
+    {
+     "w": "due",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "underlying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "geology",
+     "strong": true,
+     "link": false,
+     "syl": "OL"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "human",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "impacts.",
+     "strong": true,
+     "link": false,
+     "syl": "IM"
+    }
+   ],
+   "tip": "land, move, geology, impacts처럼 핵심어에 강세를 주며 읽어요.",
+   "start": 41.34,
+   "end": 45.74
+  },
+  {
+   "text": "Sea level rise is expected to further increase the frequency and severity of high tide flooding.",
+   "chunks": [
+    {
+     "en": "Sea level rise",
+     "ko": "해수면 상승은"
+    },
+    {
+     "en": "is expected to further increase",
+     "ko": "더욱 증가시킬 것으로 예상된다"
+    },
+    {
+     "en": "the frequency and severity",
+     "ko": "빈도와 심각성을"
+    },
+    {
+     "en": "of high tide flooding.",
+     "ko": "고조 홍수의"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rise",
+     "strong": true,
+     "link": false,
+     "syl": "RISE"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "expected",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "further",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "increase",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "frequency",
+     "strong": true,
+     "link": false,
+     "syl": "FRE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "severity",
+     "strong": true,
+     "link": false,
+     "syl": "VER"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tide",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flooding.",
+     "strong": true,
+     "link": false,
+     "syl": "FLOOD"
+    }
+   ],
+   "tip": "rise, increase, frequency, severity, flooding에 강세를 주며 리듬을 살려 읽어요.",
+   "start": 45.74,
+   "end": 51.08
+  },
+  {
+   "text": "So what are people doing about it?",
+   "chunks": [
+    {
+     "en": "So",
+     "ko": "그래서"
+    },
+    {
+     "en": "what are people doing",
+     "ko": "사람들은 무엇을 하고 있을까"
+    },
+    {
+     "en": "about it?",
+     "ko": "그것에 대해?"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": true,
+     "link": false,
+     "syl": "WHAT"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "PEO"
+    },
+    {
+     "w": "doing",
+     "strong": true,
+     "link": false,
+     "syl": "DO"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "문장 끝 it?는 올려 읽는 의문 억양이에요.",
+   "start": 51.08,
+   "end": 52.99
+  },
+  {
+   "text": "Communities are installing costly water pumps to clear the streets of flood waters.",
+   "chunks": [
+    {
+     "en": "Communities are installing",
+     "ko": "지역사회들은 설치하고 있다"
+    },
+    {
+     "en": "costly water pumps",
+     "ko": "값비싼 급수 펌프를"
+    },
+    {
+     "en": "to clear the streets",
+     "ko": "거리를 치우기 위해"
+    },
+    {
+     "en": "of flood waters.",
+     "ko": "홍수 물로부터"
+    }
+   ],
+   "words": [
+    {
+     "w": "Communities",
+     "strong": true,
+     "link": false,
+     "syl": "MU"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "installing",
+     "strong": true,
+     "link": false,
+     "syl": "STALL"
+    },
+    {
+     "w": "costly",
+     "strong": true,
+     "link": false,
+     "syl": "COST"
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pumps",
+     "strong": true,
+     "link": false,
+     "syl": "PUMPS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clear",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "streets",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flood",
+     "strong": true,
+     "link": false,
+     "syl": "FLOOD"
+    },
+    {
+     "w": "waters.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "communities, installing, pumps, flood처럼 핵심어에서 강세가 느껴지도록 읽어요.",
+   "start": 52.99,
+   "end": 57.36
+  },
+  {
+   "text": "Some people are building on stilts or moving to higher ground.",
+   "chunks": [
+    {
+     "en": "Some people are building",
+     "ko": "어떤 사람들은 짓고 있다"
+    },
+    {
+     "en": "on stilts",
+     "ko": "말뚝 위에"
+    },
+    {
+     "en": "or moving",
+     "ko": "또는 이동하고 있다"
+    },
+    {
+     "en": "to higher ground.",
+     "ko": "더 높은 땅으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building",
+     "strong": true,
+     "link": true,
+     "syl": "BUILD"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stilts",
+     "strong": true,
+     "link": false,
+     "syl": "STILTS"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moving",
+     "strong": true,
+     "link": false,
+     "syl": "MOV"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "higher",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground.",
+     "strong": true,
+     "link": false,
+     "syl": "GROUND"
+    }
+   ],
+   "tip": "building, stilts, moving, ground에 강세를 주며 리듬감 있게 읽어요.",
+   "start": 57.36,
+   "end": 61.26
+  },
+  {
+   "text": "We can't push down the rising seas, but we can plan for the future and adapt to the new normal.",
+   "chunks": [
+    {
+     "en": "We can't push down the rising seas,",
+     "ko": "우리는 상승하는 바다를 밀어 내릴 수는 없다,"
+    },
+    {
+     "en": "but we can plan for the future",
+     "ko": "하지만 우리는 미래를 계획할 수 있다"
+    },
+    {
+     "en": "and adapt to the new normal.",
+     "ko": "그리고 새로운 일상에 적응할 수 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "push",
+     "strong": true,
+     "link": false,
+     "syl": "PUSH"
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rising",
+     "strong": true,
+     "link": false,
+     "syl": "RIS"
+    },
+    {
+     "w": "seas,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plan",
+     "strong": true,
+     "link": false,
+     "syl": "PLAN"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "future",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "adapt",
+     "strong": true,
+     "link": true,
+     "syl": "DAPT"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "normal.",
+     "strong": true,
+     "link": false,
+     "syl": "NOR"
+    }
+   ],
+   "tip": "but 앞에서 살짝 끊어 읽고, push, plan, adapt에 강세를 주세요.",
+   "start": 61.26,
+   "end": 67.47
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why can the land move, according to the segment?",
+   "options": [
+    "Because of underlying geology or human impacts",
+    "Because of ocean currents",
+    "Because of the moon's gravity"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 지질이나 인간 활동 때문에 땅이 움직인다고 설명해요."
+  },
+  {
+   "q": "What does sea level rise do to high tide flooding?",
+   "options": [
+    "It increases its frequency and severity",
+    "It stops it completely",
+    "It only affects it in winter"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 해수면 상승이 빈도와 심각성을 높인다고 해요."
+  },
+  {
+   "q": "What are some communities installing to deal with flooding?",
+   "options": [
+    "Costly water pumps",
+    "Dams",
+    "Seawalls"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 비용이 드는 급수 펌프를 설치한다고 해요."
+  },
+  {
+   "q": "What are some people doing to avoid flood waters?",
+   "options": [
+    "Building on stilts or moving to higher ground",
+    "Digging underground shelters",
+    "Building boats"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 말뚝 위에 짓거나 높은 곳으로 이동한다고 해요."
+  },
+  {
+   "q": "What can people do about rising seas, according to the final sentence?",
+   "options": [
+    "Plan for the future and adapt",
+    "Reverse the rise completely",
+    "Ignore it"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 바다를 밀어내릴 수는 없지만 미래를 계획하고 적응할 수 있다고 해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "underlying geology",
+   "ko": "저변의 지질(땅의 기초 구조)",
+   "note": "땅이 왜 움직이는지 설명할 때 쓰는 표현이에요."
+  },
+  {
+   "term": "high tide flooding",
+   "ko": "고조 홍수(밀물 때 생기는 침수)",
+   "note": "해안 지역에서 자주 쓰이는 용어예요."
+  },
+  {
+   "term": "costly",
+   "ko": "비용이 많이 드는",
+   "note": "cost(비용)에서 온 형용사예요."
+  },
+  {
+   "term": "on stilts",
+   "ko": "말뚝(기둥) 위에",
+   "note": "건물을 땅에서 띄워 짓는 방식을 가리켜요."
+  },
+  {
+   "term": "adapt to",
+   "ko": "~에 적응하다",
+   "note": "new normal과 함께 자주 쓰여요."
+  },
+  {
+   "term": "the new normal",
+   "ko": "새로운 일상/표준",
+   "note": "변화된 상황을 받아들이는 표현이에요."
+  }
+ ]
+}

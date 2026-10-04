@@ -1,0 +1,553 @@
+{
+ "video_id": "70n7riR6fCM",
+ "source_title": "Watch NOAA's Hurricane Hunters Fly Into the Eye of a Monster",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 47.55,
+  "end": 71.57
+ },
+ "sentences": [
+  {
+   "text": "The P-3s fly through the storm, encountering devastating winds that can be over 150 miles per hour.",
+   "chunks": [
+    {
+     "en": "The P-3s fly through the storm, encountering devastating winds",
+     "ko": "P-3 항공기는 폭풍 속을 날며 엄청난 강풍을 만나요"
+    },
+    {
+     "en": "that can be over 150 miles per hour.",
+     "ko": "시속 150마일이 넘을 수도 있는 강풍이죠"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "P-3s",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fly",
+     "strong": true,
+     "link": false,
+     "syl": "FLY"
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storm,",
+     "strong": true,
+     "link": false,
+     "syl": "STORM"
+    },
+    {
+     "w": "encountering",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "devastating",
+     "strong": true,
+     "link": false,
+     "syl": "VAS"
+    },
+    {
+     "w": "winds",
+     "strong": true,
+     "link": false,
+     "syl": "WINDS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "150",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miles",
+     "strong": true,
+     "link": false,
+     "syl": "MILES"
+    },
+    {
+     "w": "per",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "hour.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "per hour는 h가 거의 들리지 않아 '퍼라워'처럼 이어져요.",
+   "start": 47.55,
+   "end": 56.16
+  },
+  {
+   "text": "Well, the best way I could describe it is it's sort of like riding a roller coaster through a car wash because you can't see anything out the windows in the eyewall.",
+   "chunks": [
+    {
+     "en": "Well, the best way I could describe it is it's",
+     "ko": "음, 제가 설명할 수 있는 가장 좋은 방법은"
+    },
+    {
+     "en": "sort of like riding a roller coaster through a car wash",
+     "ko": "롤러코스터를 타고 세차장을 통과하는 것과 비슷하다는 거예요"
+    },
+    {
+     "en": "because you can't see anything out",
+     "ko": "왜냐하면 아무것도 보이지 않거든요"
+    },
+    {
+     "en": "the windows in the eyewall.",
+     "ko": "태풍의 눈 벽 창문 밖으로는 말이죠"
+    }
+   ],
+   "words": [
+    {
+     "w": "Well,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "describe",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sort",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "riding",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roller",
+     "strong": true,
+     "link": false,
+     "syl": "ROLL"
+    },
+    {
+     "w": "coaster",
+     "strong": true,
+     "link": false,
+     "syl": "COAST"
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car",
+     "strong": true,
+     "link": false,
+     "syl": "CAR"
+    },
+    {
+     "w": "wash",
+     "strong": true,
+     "link": false,
+     "syl": "WASH"
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": true,
+     "link": false,
+     "syl": "SEE"
+    },
+    {
+     "w": "anything",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "windows",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eyewall.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "describe it, is it's, sort of처럼 자음+모음은 이어서 발음해요.",
+   "start": 56.16,
+   "end": 64.5
+  },
+  {
+   "text": "It's just like a car wash.",
+   "chunks": [
+    {
+     "en": "It's just like a car wash.",
+     "ko": "딱 세차장 같아요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car",
+     "strong": true,
+     "link": false,
+     "syl": "CAR"
+    },
+    {
+     "w": "wash.",
+     "strong": true,
+     "link": false,
+     "syl": "WASH"
+    }
+   ],
+   "tip": "just like a처럼 짧은 기능어는 빠르게 이어 읽어요.",
+   "start": 64.5,
+   "end": 66.33
+  },
+  {
+   "text": "It actually even in the middle of the day gets dark inside the airplane.",
+   "chunks": [
+    {
+     "en": "It actually even in the middle of the day",
+     "ko": "심지어 한낮에도"
+    },
+    {
+     "en": "gets dark inside the airplane.",
+     "ko": "비행기 안이 어두워져요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "middle",
+     "strong": true,
+     "link": true,
+     "syl": "MID"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false,
+     "syl": "DAY"
+    },
+    {
+     "w": "gets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dark",
+     "strong": true,
+     "link": false,
+     "syl": "DARK"
+    },
+    {
+     "w": "inside",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "airplane.",
+     "strong": true,
+     "link": false,
+     "syl": "AIR"
+    }
+   ],
+   "tip": "middle of처럼 자음+모음은 이어 읽어요.",
+   "start": 66.33,
+   "end": 69.87
+  },
+  {
+   "text": "It's raining so hard.",
+   "chunks": [
+    {
+     "en": "It's raining so hard.",
+     "ko": "비가 엄청 심하게 와요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "raining",
+     "strong": true,
+     "link": false,
+     "syl": "RAIN"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard.",
+     "strong": true,
+     "link": false,
+     "syl": "HARD"
+    }
+   ],
+   "tip": "so hard는 강조하듯 또렷하게 읽어요.",
+   "start": 69.87,
+   "end": 71.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "How strong are the winds the P-3 aircraft encounters in the storm?",
+   "options": [
+    "Over 150 miles per hour",
+    "About 50 miles per hour",
+    "Around 10 miles per hour"
+   ],
+   "answer": 0,
+   "why": "\"winds that can be over 150 miles per hour\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "What does the speaker compare the ride through the eyewall to?",
+   "options": [
+    "Riding a roller coaster through a car wash",
+    "Driving slowly through a calm lake",
+    "Walking through a quiet forest"
+   ],
+   "answer": 0,
+   "why": "\"it's sort of like riding a roller coaster through a car wash\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "Why can't the crew see anything out the windows in the eyewall?",
+   "options": [
+    "Because it's raining so hard and it gets dark inside",
+    "Because the windows are covered with metal shutters",
+    "Because the plane flies at night"
+   ],
+   "answer": 0,
+   "why": "\"It's raining so hard\"와 \"gets dark inside the airplane\"라는 문장들에서 확인됩니다."
+  },
+  {
+   "q": "When does it get dark inside the airplane, according to the speaker?",
+   "options": [
+    "Even in the middle of the day",
+    "Only late at night",
+    "Only during takeoff"
+   ],
+   "answer": 0,
+   "why": "\"It actually even in the middle of the day gets dark inside the airplane\"라는 문장에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "devastating winds",
+   "ko": "엄청나게 강한 바람",
+   "note": "큰 피해를 줄 정도로 강한 바람을 말해요."
+  },
+  {
+   "term": "the eyewall",
+   "ko": "태풍의 눈 벽",
+   "note": "태풍 중심(눈)을 둘러싼 가장 강한 바람 구역이에요."
+  },
+  {
+   "term": "sort of like",
+   "ko": "~와 비슷한 느낌으로",
+   "note": "비유할 때 자연스럽게 쓰는 표현이에요."
+  },
+  {
+   "term": "a car wash",
+   "ko": "세차장",
+   "note": "물이 세차게 쏟아지는 모습을 비유할 때도 써요."
+  },
+  {
+   "term": "raining so hard",
+   "ko": "비가 엄청 심하게 오다",
+   "note": "so + 형용사로 강조하는 표현이에요."
+  }
+ ]
+}

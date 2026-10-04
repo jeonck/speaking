@@ -1,0 +1,550 @@
+{
+ "video_id": "EED54e23D5g",
+ "source_title": "Bake with Us(FWS) - Southern sea otter Swiss roll",
+ "source_channel": "U.S. Fish & Wildlife Service",
+ "segment": {
+  "start": 24.76,
+  "end": 48.76
+ },
+ "sentences": [
+  {
+   "text": "Before the fur trade, the species could be found along the entire North Pacific Rim, from the northern islands of Japan to midway down the Pacific Coast of Baja California, Mexico.",
+   "chunks": [
+    {
+     "en": "Before the fur trade,",
+     "ko": "모피 거래 이전에는,"
+    },
+    {
+     "en": "the species could be found along the entire North Pacific Rim,",
+     "ko": "그 종은 북태평양 연안 전체에서 발견될 수 있었다,"
+    },
+    {
+     "en": "from the northern islands of Japan",
+     "ko": "일본 북쪽 섬들로부터"
+    },
+    {
+     "en": "to midway down the Pacific Coast of Baja California, Mexico.",
+     "ko": "멕시코 바하칼리포르니아 태평양 연안 중간 지점까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "Before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fur",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trade,",
+     "strong": true,
+     "link": false,
+     "syl": "TRADE"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "species",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "along",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "entire",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "North",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Pacific",
+     "strong": true,
+     "link": false,
+     "syl": "Pacific"
+    },
+    {
+     "w": "Rim,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "northern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "islands",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Japan",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "midway",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Pacific",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Coast",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Baja",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "California,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mexico.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "trade, species, Japan, Mexico 같은 핵심어에 강세를 주고, found along/islands of/Coast of처럼 자음 뒤 모음은 이어서 발음하세요.",
+   "start": 24.76,
+   "end": 33.84
+  },
+  {
+   "text": "Today, the southern sea otters subspecies exists only in central California and at San Nicholas Island, and it's still absent for most of its historical range.",
+   "chunks": [
+    {
+     "en": "Today,",
+     "ko": "오늘날,"
+    },
+    {
+     "en": "the southern sea otters subspecies exists only in central California",
+     "ko": "남부 바다수달 하위종은 중부 캘리포니아에만 존재하며"
+    },
+    {
+     "en": "and at San Nicholas Island,",
+     "ko": "그리고 산 니콜라스 섬에만 존재하고,"
+    },
+    {
+     "en": "and it's still absent for most of its historical range.",
+     "ko": "과거 서식 범위 대부분에서는 여전히 사라진 상태다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Today,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "southern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "otters",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "subspecies",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "exists",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "central",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "California",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "San",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Nicholas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Island,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "absent",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "historical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "range.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "otters, subspecies, absent 같은 핵심어에 강세, exists only/still absent처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 33.84,
+   "end": 41.68
+  },
+  {
+   "text": "Oregon, Northern California, most of Southern California, and Baja California are all still missing the southern sea otters that once lived there.",
+   "chunks": [
+    {
+     "en": "Oregon, Northern California, most of Southern California,",
+     "ko": "오리건, 북부 캘리포니아, 남부 캘리포니아 대부분,"
+    },
+    {
+     "en": "and Baja California",
+     "ko": "그리고 바하칼리포르니아는"
+    },
+    {
+     "en": "are all still missing the southern sea otters",
+     "ko": "여전히 남부 바다수달이 없는 상태이다"
+    },
+    {
+     "en": "that once lived there.",
+     "ko": "한때 그곳에 살았던."
+    }
+   ],
+   "words": [
+    {
+     "w": "Oregon,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Northern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "California,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Southern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "California,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Baja",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "California",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "missing",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "southern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "otters",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lived",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Oregon, California, missing 같은 핵심어에 강세, are all/that once처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 41.68,
+   "end": 48.76
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where could southern sea otters be found before the fur trade?",
+   "options": [
+    "Only in central California",
+    "Along the entire North Pacific Rim from Japan to Baja California",
+    "Only in the Arctic Ocean"
+   ],
+   "answer": 1,
+   "why": "첫 문장에서 모피 거래 이전 북태평양 연안 전체에 서식했다고 설명."
+  },
+  {
+   "q": "Where does the southern sea otter subspecies live today?",
+   "options": [
+    "Central California and San Nicholas Island",
+    "Oregon and Northern California",
+    "All along the Pacific Coast of Mexico"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 현재는 중부 캘리포니아와 산 니콜라스 섬에만 존재한다고 언급."
+  },
+  {
+   "q": "Which areas are still missing southern sea otters?",
+   "options": [
+    "Oregon, Northern California, most of Southern California, and Baja California",
+    "Only Baja California",
+    "Only Oregon"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 해당 지역들에 바다수달이 없다고 명시."
+  },
+  {
+   "q": "What historical event reduced the sea otter's range?",
+   "options": [
+    "The fur trade",
+    "A natural disaster",
+    "Climate change"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 모피 거래 이전과 이후를 대비해서 설명."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fur trade",
+   "ko": "모피 거래",
+   "note": "동물 가죽을 사고파는 역사적 산업을 가리킴."
+  },
+  {
+   "term": "subspecies",
+   "ko": "하위종",
+   "note": "한 종 내에서 지역적으로 구분되는 집단."
+  },
+  {
+   "term": "historical range",
+   "ko": "과거 서식 범위",
+   "note": "한 동물이 예전에 살았던 지리적 영역."
+  },
+  {
+   "term": "still absent",
+   "ko": "여전히 없는",
+   "note": "원래 있었지만 지금은 없는 상태를 표현."
+  }
+ ]
+}

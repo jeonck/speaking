@@ -1,0 +1,476 @@
+{
+ "video_id": "LKMn-aDBWrA",
+ "source_title": "DinoSHIELD: A Natural Approach to Control Red Tide",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 148.27,
+  "end": 173.8
+ },
+ "sentences": [
+  {
+   "text": "Our coastlines stay healthy, and marine life are given a better chance to thrive.",
+   "chunks": [
+    {
+     "en": "Our coastlines stay healthy,",
+     "ko": "우리의 해안은 건강하게 유지되고,"
+    },
+    {
+     "en": "and marine life are given a better chance to thrive.",
+     "ko": "해양 생물은 더 잘 번성할 기회를 얻게 된다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coastlines",
+     "strong": true,
+     "link": false,
+     "syl": "COAST"
+    },
+    {
+     "w": "stay",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "healthy,",
+     "strong": true,
+     "link": false,
+     "syl": "HEAL"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "marine",
+     "strong": true,
+     "link": false,
+     "syl": "RINE"
+    },
+    {
+     "w": "life",
+     "strong": true,
+     "link": false,
+     "syl": "LIFE"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "given",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chance",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thrive.",
+     "strong": true,
+     "link": false,
+     "syl": "THRIVE"
+    }
+   ],
+   "tip": "coastlines와 healthy처럼 content word는 강하게, and/to 같은 기능어는 약하게 발음해요.",
+   "start": 148.27,
+   "end": 153.61
+  },
+  {
+   "text": "While multiple strategies are ultimately needed to combat harmful algal blooms, DinoSHIELD is proving to be a promising part of the solution.",
+   "chunks": [
+    {
+     "en": "While multiple strategies are ultimately needed",
+     "ko": "여러 전략이 궁극적으로 필요하지만"
+    },
+    {
+     "en": "to combat harmful algal blooms,",
+     "ko": "해로운 조류 대증식에 맞서기 위해,"
+    },
+    {
+     "en": "DinoSHIELD is proving to be",
+     "ko": "다이노실드는 ~임이 입증되고 있다"
+    },
+    {
+     "en": "a promising part of the solution.",
+     "ko": "해결책의 유망한 한 부분."
+    }
+   ],
+   "words": [
+    {
+     "w": "While",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "multiple",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strategies",
+     "strong": true,
+     "link": false,
+     "syl": "STRA"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ultimately",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "needed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "combat",
+     "strong": true,
+     "link": false,
+     "syl": "BAT"
+    },
+    {
+     "w": "harmful",
+     "strong": true,
+     "link": false,
+     "syl": "HARM"
+    },
+    {
+     "w": "algal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "blooms,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "DinoSHIELD",
+     "strong": true,
+     "link": false,
+     "syl": "SHIELD"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "proving",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "promising",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "part",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "solution.",
+     "strong": true,
+     "link": false,
+     "syl": "LU"
+    }
+   ],
+   "tip": "DinoSHIELD는 뒤쪽 SHIELD에 강세가 있고, part of처럼 자음+모음은 이어서 발음해요.",
+   "start": 153.61,
+   "end": 161.41
+  },
+  {
+   "text": "Following federal approval and local permitting, strategic deployment of DinoSHIELD can limit red tide and its impacts, and help protect beautiful beaches, coastal resources, and local economies.",
+   "chunks": [
+    {
+     "en": "Following federal approval and local permitting,",
+     "ko": "연방 승인과 지역 허가를 받은 후,"
+    },
+    {
+     "en": "strategic deployment of DinoSHIELD can limit red tide and its impacts,",
+     "ko": "다이노실드의 전략적 배치는 적조와 그 영향을 제한할 수 있고,"
+    },
+    {
+     "en": "and help protect beautiful beaches, coastal resources, and local economies.",
+     "ko": "아름다운 해변, 해안 자원, 지역 경제를 보호하는 데도 도움을 준다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Following",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "federal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "approval",
+     "strong": true,
+     "link": false,
+     "syl": "PROV"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "permitting,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strategic",
+     "strong": true,
+     "link": false,
+     "syl": "TE"
+    },
+    {
+     "w": "deployment",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "DinoSHIELD",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "limit",
+     "strong": true,
+     "link": false,
+     "syl": "LIM"
+    },
+    {
+     "w": "red",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tide",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "impacts,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protect",
+     "strong": true,
+     "link": false,
+     "syl": "TECT"
+    },
+    {
+     "w": "beautiful",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beaches,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coastal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "resources,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "economies.",
+     "strong": true,
+     "link": false,
+     "syl": "CON"
+    }
+   ],
+   "tip": "and its처럼 자음 뒤에 모음이 오면 이어서 발음하고, economies의 강세는 'con'에 있어요.",
+   "start": 161.41,
+   "end": 173.8
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does DinoSHIELD help limit?",
+   "options": [
+    "Red tide and its impacts",
+    "Air pollution",
+    "Freshwater flooding"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 다이노실드의 전략적 배치가 적조와 그 영향을 제한할 수 있다고 설명합니다."
+  },
+  {
+   "q": "What is needed before strategic deployment of DinoSHIELD, according to the segment?",
+   "options": [
+    "Federal approval and local permitting",
+    "A new coastal highway",
+    "An international treaty"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장이 '연방 승인과 지역 허가를 받은 후'라는 구절로 시작합니다."
+  },
+  {
+   "q": "What does the segment say is ultimately needed to combat harmful algal blooms?",
+   "options": [
+    "Multiple strategies",
+    "A single chemical",
+    "Nothing, blooms stop naturally"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 여러 전략이 궁극적으로 필요하다고 말합니다."
+  },
+  {
+   "q": "What benefit does a healthy coastline bring, per the segment?",
+   "options": [
+    "Better chances for marine life to thrive",
+    "Fewer tourists",
+    "Higher water temperatures"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 해안이 건강하면 해양 생물이 더 잘 번성할 기회를 얻는다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "red tide",
+   "ko": "적조",
+   "note": "해로운 조류가 급증해 물빛이 붉게 변하는 현상"
+  },
+  {
+   "term": "algal bloom",
+   "ko": "조류 대증식",
+   "note": "algae(조류)가 짧은 시간에 급격히 늘어나는 현상"
+  },
+  {
+   "term": "deployment",
+   "ko": "배치, 투입",
+   "note": "전략이나 장비를 실제로 사용하기 위해 배치하는 것"
+  },
+  {
+   "term": "permitting",
+   "ko": "허가(승인) 절차",
+   "note": "동사 permit의 명사형으로 '허가 과정'을 뜻함"
+  },
+  {
+   "term": "coastal resources",
+   "ko": "해안 자원",
+   "note": "해안 지역의 자연적·경제적 자원을 통칭"
+  }
+ ]
+}

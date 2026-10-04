@@ -1,0 +1,498 @@
+{
+ "video_id": "1gENfPoq3zg",
+ "source_title": "An Aquatic Science Journey: AmeriCorps Member Gains Experience with the U.S. Fish & Wildlife Service",
+ "source_channel": "U.S. Fish & Wildlife Service",
+ "segment": {
+  "start": 119.97,
+  "end": 145.09
+ },
+ "sentences": [
+  {
+   "text": "For beach seining, we have been able to help both tribal and agency partners deploy nets using boats to sample at certain locations in Port Angeles to understand the biodiversity, or lack thereof.",
+   "chunks": [
+    {
+     "en": "For beach seining, we have been able to help both tribal and agency partners",
+     "ko": "해변 자망 조업을 위해 우리는 부족 및 기관 협력자들을 도울 수 있었다"
+    },
+    {
+     "en": "deploy nets using boats to sample at certain locations in Port Angeles",
+     "ko": "보트를 이용해 그물을 설치하고 포트 앤젤레스의 특정 지점에서 샘플을 채취하여"
+    },
+    {
+     "en": "to understand the biodiversity, or lack thereof.",
+     "ko": "생물다양성, 혹은 그것의 부재를 이해하기 위해."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beach",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seining,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "able",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tribal",
+     "strong": true,
+     "link": false,
+     "syl": "TRI"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "agency",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "partners",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deploy",
+     "strong": true,
+     "link": false,
+     "syl": "PLOY"
+    },
+    {
+     "w": "nets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "using",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "boats",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sample",
+     "strong": true,
+     "link": false,
+     "syl": "SAM"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "certain",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "locations",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Port",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Angeles",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "understand",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biodiversity,",
+     "strong": true,
+     "link": false,
+     "syl": "VER"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lack",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thereof.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "sample at처럼 끝자음 l이 다음 모음 at으로 이어져요.",
+   "start": 119.97,
+   "end": 132.75
+  },
+  {
+   "text": "At the three national fish hatcheries around the Olympic Peninsula, we have also been able to assist with mass marking our hatchery salmon bio sampling for coded wire tags, as well as a variety of hatchery work.",
+   "chunks": [
+    {
+     "en": "At the three national fish hatcheries around the Olympic Peninsula,",
+     "ko": "올림픽 반도 주변의 세 개 국립 어류 부화장에서,"
+    },
+    {
+     "en": "we have also been able to assist with mass marking our hatchery salmon",
+     "ko": "우리는 부화장 연어의 대량 표식 작업도 도울 수 있었다"
+    },
+    {
+     "en": "bio sampling for coded wire tags, as well as a variety of hatchery work.",
+     "ko": "코드화된 철사 태그를 위한 생체 샘플링은 물론 다양한 부화장 업무까지."
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "national",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fish",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hatcheries",
+     "strong": true,
+     "link": false,
+     "syl": "HATCH"
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Olympic",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Peninsula,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "able",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "assist",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mass",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "marking",
+     "strong": true,
+     "link": false,
+     "syl": "MARK"
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hatchery",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "salmon",
+     "strong": true,
+     "link": false,
+     "syl": "SAL"
+    },
+    {
+     "w": "bio",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sampling",
+     "strong": true,
+     "link": false,
+     "syl": "SAM"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coded",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wire",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tags,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "variety",
+     "strong": true,
+     "link": false,
+     "syl": "RI"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hatchery",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "well as, as a처럼 끝자음이 다음 모음으로 자연스럽게 이어져요.",
+   "start": 132.75,
+   "end": 145.09
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does beach seining help the speaker's team understand?",
+   "options": [
+    "The biodiversity of certain locations",
+    "The water temperature only",
+    "The depth of the ocean floor"
+   ],
+   "answer": 0,
+   "why": "\"to sample at certain locations in Port Angeles to understand the biodiversity\"에서 확인됩니다."
+  },
+  {
+   "q": "Who do they work with to deploy nets using boats?",
+   "options": [
+    "Both tribal and agency partners",
+    "Only local fishermen",
+    "International scientists"
+   ],
+   "answer": 0,
+   "why": "\"help both tribal and agency partners deploy nets using boats\"에서 확인됩니다."
+  },
+  {
+   "q": "Where are the three national fish hatcheries located?",
+   "options": [
+    "Around the Olympic Peninsula",
+    "In the middle of a desert",
+    "Along a major river delta"
+   ],
+   "answer": 0,
+   "why": "\"the three national fish hatcheries around the Olympic Peninsula\"에서 확인됩니다."
+  },
+  {
+   "q": "What kind of fish do they mass mark at the hatcheries?",
+   "options": [
+    "Salmon",
+    "Trout",
+    "Tuna"
+   ],
+   "answer": 0,
+   "why": "\"mass marking our hatchery salmon\"에서 확인됩니다."
+  },
+  {
+   "q": "What are coded wire tags related to, besides bio sampling?",
+   "options": [
+    "A variety of other hatchery work",
+    "Measuring water pollution",
+    "Counting boats"
+   ],
+   "answer": 0,
+   "why": "\"bio sampling for coded wire tags, as well as a variety of hatchery work\"에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "beach seining",
+   "ko": "해변 자망 조업",
+   "note": "해안에서 그물을 끌어 물고기를 잡는 조사 방법이에요."
+  },
+  {
+   "term": "tribal and agency partners",
+   "ko": "부족 및 기관 협력자들",
+   "note": "원주민 부족과 정부 기관을 함께 가리키는 표현이에요."
+  },
+  {
+   "term": "biodiversity, or lack thereof",
+   "ko": "생물다양성, 혹은 그것의 부재",
+   "note": "\"or lack thereof\"는 '혹은 그것이 없는 상태'를 뜻하는 관용구예요."
+  },
+  {
+   "term": "fish hatcheries",
+   "ko": "어류 부화장",
+   "note": "알을 인공적으로 부화시켜 기르는 시설이에요."
+  },
+  {
+   "term": "mass marking",
+   "ko": "대량 표식 작업",
+   "note": "많은 개체에 한꺼번에 표식을 다는 작업이에요."
+  },
+  {
+   "term": "coded wire tags",
+   "ko": "코드화된 철사 태그",
+   "note": "물고기 추적을 위해 삽입하는 작은 금속 태그예요."
+  }
+ ]
+}

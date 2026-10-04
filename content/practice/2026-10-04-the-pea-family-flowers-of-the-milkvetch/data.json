@@ -1,0 +1,502 @@
+{
+ "video_id": "XRkhNXknJgs",
+ "source_title": "It's Out Here! - Fish Slough milkvetch",
+ "source_channel": "U.S. Fish & Wildlife Service",
+ "segment": {
+  "start": 79.56,
+  "end": 105.64
+ },
+ "sentences": [
+  {
+   "text": "Milkvetches are part of the Fabaceae, which is the pea family.",
+   "chunks": [
+    {
+     "en": "Milkvetches are part of the Fabaceae,",
+     "ko": "밀크베치는 파바케애(콩과)의 일부인데,"
+    },
+    {
+     "en": "which is the pea family.",
+     "ko": "그것은 콩과이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Milkvetches",
+     "strong": true,
+     "link": false,
+     "syl": "MILK"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "part",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Fabaceae,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pea",
+     "strong": true,
+     "link": false,
+     "syl": "PEA"
+    },
+    {
+     "w": "family.",
+     "strong": true,
+     "link": false,
+     "syl": "FAM"
+    }
+   ],
+   "tip": "part of는 자음+모음이 이어져 '파러브'처럼 들린다.",
+   "start": 79.56,
+   "end": 85.52
+  },
+  {
+   "text": "When you go home and you eat some green beans, it's all part of the same family.",
+   "chunks": [
+    {
+     "en": "When you go home and you eat some green beans,",
+     "ko": "집에 가서 그린빈을 먹을 때도,"
+    },
+    {
+     "en": "it's all part of the same family.",
+     "ko": "그것도 다 같은 과에 속한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "link": false,
+     "syl": "HOME"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eat",
+     "strong": true,
+     "link": true,
+     "syl": "EAT"
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "green",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beans,",
+     "strong": true,
+     "link": false,
+     "syl": "BEANS"
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "part",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family.",
+     "strong": true,
+     "link": false,
+     "syl": "FAM"
+    }
+   ],
+   "tip": "eat some은 t 뒤에 모음이 와서 이어 발음된다.",
+   "start": 85.52,
+   "end": 90.44
+  },
+  {
+   "text": "This plant is sprawling, and it is close to the ground, and it has these really beautiful pinkish-purple flowers.",
+   "chunks": [
+    {
+     "en": "This plant is sprawling,",
+     "ko": "이 식물은 땅으로 퍼져 자라고,"
+    },
+    {
+     "en": "and it is close to the ground,",
+     "ko": "땅에 가깝게 붙어 있으며,"
+    },
+    {
+     "en": "and it has these really beautiful pinkish-purple flowers.",
+     "ko": "정말 예쁜 분홍빛 자주색 꽃을 가지고 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plant",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sprawling,",
+     "strong": true,
+     "link": false,
+     "syl": "SPRAWL"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground,",
+     "strong": true,
+     "link": true,
+     "syl": "GROUND"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beautiful",
+     "strong": true,
+     "link": false,
+     "syl": "BEAU"
+    },
+    {
+     "w": "pinkish-purple",
+     "strong": true,
+     "link": false,
+     "syl": "PINK"
+    },
+    {
+     "w": "flowers.",
+     "strong": true,
+     "link": false,
+     "syl": "FLOW"
+    }
+   ],
+   "tip": "pinkish-purple는 두 형용사를 한 단위로 빠르게 이어 발음한다.",
+   "start": 90.44,
+   "end": 98.704
+  },
+  {
+   "text": "They're little pea flowers, and they make these really cute pods that have a lot of speckles on them.",
+   "chunks": [
+    {
+     "en": "They're little pea flowers,",
+     "ko": "그것들은 작은 콩꽃이고,"
+    },
+    {
+     "en": "and they make these really cute pods",
+     "ko": "정말 귀여운 꼬투리를 만드는데"
+    },
+    {
+     "en": "that have a lot of speckles on them.",
+     "ko": "그 꼬투리에는 반점이 많이 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "They're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "link": false,
+     "syl": "LIT"
+    },
+    {
+     "w": "pea",
+     "strong": true,
+     "link": false,
+     "syl": "PEA"
+    },
+    {
+     "w": "flowers,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cute",
+     "strong": true,
+     "link": false,
+     "syl": "CUTE"
+    },
+    {
+     "w": "pods",
+     "strong": true,
+     "link": false,
+     "syl": "PODS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speckles",
+     "strong": true,
+     "link": false,
+     "syl": "SPECK"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "a lot of는 한 덩어리로 빠르게 이어서 발음된다.",
+   "start": 98.704,
+   "end": 105.64
+  }
+ ],
+ "questions": [
+  {
+   "q": "What plant family do milkvetches belong to?",
+   "options": [
+    "The pea family (Fabaceae)",
+    "The rose family",
+    "The grass family"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 밀크베치가 Fabaceae(콩과)에 속한다고 설명한다."
+  },
+  {
+   "q": "What do milkvetch flowers look like, according to the speaker?",
+   "options": [
+    "Beautiful pinkish-purple flowers",
+    "Bright yellow flowers",
+    "White flowers"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 분홍빛 자주색 꽃이라고 설명한다."
+  },
+  {
+   "q": "How does the plant grow?",
+   "options": [
+    "It sprawls close to the ground",
+    "It grows as a tall tree",
+    "It climbs up other plants"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 땅에 가깝게 퍼져 자란다고 설명한다."
+  },
+  {
+   "q": "What is notable about the plant's seed pods?",
+   "options": [
+    "They have a lot of speckles",
+    "They are bright red",
+    "They are completely smooth"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 꼬투리에 반점이 많다고 설명한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sprawling",
+   "ko": "옆으로 퍼져 자라는",
+   "note": "식물이 땅을 따라 넓게 뻗어가는 모습을 표현한다."
+  },
+  {
+   "term": "pinkish-purple",
+   "ko": "분홍빛이 도는 자주색",
+   "note": "두 색을 합쳐 표현하는 복합 형용사다."
+  },
+  {
+   "term": "speckles",
+   "ko": "작은 반점들",
+   "note": "표면에 있는 작은 점무늬를 가리킨다."
+  },
+  {
+   "term": "pea family",
+   "ko": "콩과",
+   "note": "Fabaceae를 일상적으로 부르는 말이다."
+  }
+ ]
+}

@@ -1,0 +1,475 @@
+{
+ "video_id": "4nxvZTeUct4",
+ "source_title": "Think You Know How To Stay Safe in the Ocean? Boost Your Blue IQ!",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 11.85,
+  "end": 36.87
+ },
+ "sentences": [
+  {
+   "text": "With a little help from some of the best college athletes of the fields, courts, and pools we all know, our team is going to raise your Blue IQ so every beach visit stays safe and fun.",
+   "chunks": [
+    {
+     "en": "With a little help from some of the best college athletes",
+     "ko": "우리가 다 아는 최고의 대학 선수들의 작은 도움으로"
+    },
+    {
+     "en": "of the fields, courts, and pools we all know,",
+     "ko": "필드, 코트, 수영장 출신인"
+    },
+    {
+     "en": "our team is going to raise your Blue IQ",
+     "ko": "우리 팀이 당신의 '블루 IQ'를 높여줄 거예요"
+    },
+    {
+     "en": "so every beach visit stays safe and fun.",
+     "ko": "그래서 매번 해변 방문이 안전하고 즐겁도록 말이죠"
+    }
+   ],
+   "words": [
+    {
+     "w": "With",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "athletes",
+     "strong": true,
+     "link": false,
+     "syl": "ATH"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fields,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "courts,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pools",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "team",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "raise",
+     "strong": true,
+     "link": true,
+     "syl": "RAISE"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Blue",
+     "strong": true,
+     "link": false,
+     "syl": "BLUE"
+    },
+    {
+     "w": "IQ",
+     "strong": true,
+     "link": false,
+     "syl": "Q"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beach",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visit",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stays",
+     "strong": true,
+     "link": true,
+     "syl": "STAYS"
+    },
+    {
+     "w": "safe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fun.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "going to는 '거나(gonna)'처럼, raise your는 이어서 '레이저' 느낌으로 흘려 읽어요.",
+   "start": 11.85,
+   "end": 25.02
+  },
+  {
+   "text": "Where water, weather, and waves meet, be the smartest person on the beach.",
+   "chunks": [
+    {
+     "en": "Where water, weather, and waves meet,",
+     "ko": "물, 날씨, 파도가 만나는 곳에서는"
+    },
+    {
+     "en": "be the smartest person on the beach.",
+     "ko": "해변에서 가장 똑똑한 사람이 되세요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water,",
+     "strong": true,
+     "link": false,
+     "syl": "WA"
+    },
+    {
+     "w": "weather,",
+     "strong": true,
+     "link": false,
+     "syl": "WEA"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "waves",
+     "strong": true,
+     "link": false,
+     "syl": "WAVES"
+    },
+    {
+     "w": "meet,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smartest",
+     "strong": true,
+     "link": false,
+     "syl": "SMART"
+    },
+    {
+     "w": "person",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beach.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "water, weather, waves는 비슷한 w 소리라 리듬감 있게 읽으면 좋아요.",
+   "start": 25.02,
+   "end": 32.28
+  },
+  {
+   "text": "You know how to navigate and stay safe in the familiar world around you.",
+   "chunks": [
+    {
+     "en": "You know how to navigate and stay safe",
+     "ko": "당신은 어떻게 길을 찾고 안전하게 지내는지 알고 있어요"
+    },
+    {
+     "en": "in the familiar world around you.",
+     "ko": "당신 주변의 익숙한 세상에서 말이죠"
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "navigate",
+     "strong": true,
+     "link": false,
+     "syl": "NAV"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": true,
+     "link": true,
+     "syl": "STAY"
+    },
+    {
+     "w": "safe",
+     "strong": true,
+     "link": false,
+     "syl": "SAFE"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "familiar",
+     "strong": true,
+     "link": false,
+     "syl": "MIL"
+    },
+    {
+     "w": "world",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "stay safe는 s 소리가 겹쳐 하나처럼, around you는 '어라운쥬'처럼 이어져요.",
+   "start": 32.28,
+   "end": 36.87
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the main goal of the 'Blue IQ' team mentioned in the segment?",
+   "options": [
+    "To help people stay safe and have fun at the beach",
+    "To train people to become professional athletes",
+    "To teach people competitive swimming techniques"
+   ],
+   "answer": 0,
+   "why": "\"our team is going to raise your Blue IQ so every beach visit stays safe and fun\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "Who helps the team raise people's 'Blue IQ'?",
+   "options": [
+    "Some of the best college athletes",
+    "Local lifeguards only",
+    "Professional weather forecasters"
+   ],
+   "answer": 0,
+   "why": "\"With a little help from some of the best college athletes\"라는 문장에서 언급됩니다."
+  },
+  {
+   "q": "According to the segment, what three things meet at the beach?",
+   "options": [
+    "Water, weather, and waves",
+    "Sand, sun, and surf",
+    "Wind, rain, and tides"
+   ],
+   "answer": 0,
+   "why": "\"Where water, weather, and waves meet\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "What does the segment say people already know how to do?",
+   "options": [
+    "Navigate and stay safe in their familiar surroundings",
+    "Perform professional swimming techniques",
+    "Forecast ocean weather patterns"
+   ],
+   "answer": 0,
+   "why": "\"You know how to navigate and stay safe in the familiar world around you\"라는 문장에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Blue IQ",
+   "ko": "해변·바다 안전 지식 수준",
+   "note": "이 영상에서 만든 표현으로, 해변 안전 상식을 가리켜요."
+  },
+  {
+   "term": "raise your Blue IQ",
+   "ko": "당신의 해변 안전 지식을 높이다",
+   "note": "raise는 수준을 끌어올린다는 뜻이에요."
+  },
+  {
+   "term": "stays safe and fun",
+   "ko": "안전하고 즐겁게 유지되다",
+   "note": "safe and fun처럼 형용사 두 개를 and로 묶어 써요."
+  },
+  {
+   "term": "the smartest person on the beach",
+   "ko": "해변에서 가장 똑똑한 사람",
+   "note": "the + 최상급 + 명사 패턴이에요."
+  },
+  {
+   "term": "familiar world",
+   "ko": "익숙한 세상/환경",
+   "note": "자신에게 친숙한 환경을 가리킬 때 써요."
+  }
+ ]
+}

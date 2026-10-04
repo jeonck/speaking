@@ -1,0 +1,488 @@
+{
+ "video_id": "Ax-HFseR_Wc",
+ "source_title": "NIH SciBites: Liquid Gold For Kidney Research",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 25.33,
+  "end": 50.38
+ },
+ "sentences": [
+  {
+   "text": "While some of the exosomes floating around our bodies end up being absorbed by cells or broken down into pieces, others are expelled from the body in our urine.",
+   "chunks": [
+    {
+     "en": "While some of the exosomes floating around our bodies",
+     "ko": "우리 몸 속을 떠다니는 엑소좀 중 일부는"
+    },
+    {
+     "en": "end up being absorbed by cells or broken down into pieces,",
+     "ko": "세포에 흡수되거나 쪼개져서 없어지고"
+    },
+    {
+     "en": "others are expelled from the body in our urine.",
+     "ko": "다른 것들은 소변을 통해 몸 밖으로 배출돼"
+    }
+   ],
+   "words": [
+    {
+     "w": "While",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exosomes",
+     "strong": true,
+     "link": false,
+     "syl": "ex"
+    },
+    {
+     "w": "floating",
+     "strong": true,
+     "link": true,
+     "syl": "float"
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bodies",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "end",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "absorbed",
+     "strong": true,
+     "link": false,
+     "syl": "sorbed"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cells",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "broken",
+     "strong": true,
+     "link": false,
+     "syl": "bro"
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pieces,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "others",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "expelled",
+     "strong": true,
+     "link": false,
+     "syl": "pelled"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "urine.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "end up, broken down처럼 자음과 모음이 연음되어 부드럽게 들려요.",
+   "start": 25.33,
+   "end": 36.44
+  },
+  {
+   "text": "Because exosomes in our urine often carry important information about the cells in our kidneys, my lab is trying to figure out how to extract those exosomes from urine and use them to learn about how healthy someone's kidneys are.",
+   "chunks": [
+    {
+     "en": "Because exosomes in our urine often carry important information",
+     "ko": "소변 속 엑소좀은 종종 중요한 정보를 담고 있어서"
+    },
+    {
+     "en": "about the cells in our kidneys,",
+     "ko": "우리 콩팥 속 세포에 대한"
+    },
+    {
+     "en": "my lab is trying to figure out how to extract those exosomes from urine",
+     "ko": "우리 연구실은 소변에서 그 엑소좀을 추출하는 방법을 알아내려 하고 있어"
+    },
+    {
+     "en": "and use them to learn about how healthy someone's kidneys are.",
+     "ko": "그것으로 누군가의 콩팥이 얼마나 건강한지 알아보려고 해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Because",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "exosomes",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "urine",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "often",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carry",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important",
+     "strong": true,
+     "link": true,
+     "syl": "por"
+    },
+    {
+     "w": "information",
+     "strong": true,
+     "link": true,
+     "syl": "ma"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cells",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kidneys,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lab",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "figure",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "extract",
+     "strong": true,
+     "link": false,
+     "syl": "tract"
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "exosomes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "urine",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "healthy",
+     "strong": true,
+     "link": false,
+     "syl": "health"
+    },
+    {
+     "w": "someone's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kidneys",
+     "strong": true,
+     "link": true,
+     "syl": "kid"
+    },
+    {
+     "w": "are.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "in our, those exosomes처럼 자음과 모음이 자연스럽게 이어져요.",
+   "start": 36.44,
+   "end": 50.38
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happens to some exosomes inside the body, according to the segment?",
+   "options": [
+    "They end up absorbed by cells or broken down into pieces",
+    "They turn into new cells",
+    "They are destroyed by the immune system immediately"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 세포에 흡수되거나 쪼개져 없어진다고 설명해요."
+  },
+  {
+   "q": "How do other exosomes leave the body?",
+   "options": [
+    "They are expelled in urine",
+    "They are exhaled through breathing",
+    "They are removed through sweat"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 소변을 통해 몸 밖으로 배출된다고 해요."
+  },
+  {
+   "q": "Why are exosomes in urine useful for kidney research?",
+   "options": [
+    "They often carry important information about kidney cells",
+    "They contain no useful information",
+    "They are easier to see under a microscope than other cells"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 콩팥 세포에 대한 중요한 정보를 담고 있다고 해요."
+  },
+  {
+   "q": "What is the lab trying to figure out, according to the segment?",
+   "options": [
+    "How to extract exosomes from urine",
+    "How to create artificial kidneys",
+    "How to filter urine chemically"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 소변에서 엑소좀을 추출하는 방법을 알아내려 한다고 말해요."
+  },
+  {
+   "q": "What do the researchers hope to learn by studying these exosomes?",
+   "options": [
+    "How healthy someone's kidneys are",
+    "How to cure all kidney diseases",
+    "How much water a person drinks"
+   ],
+   "answer": 0,
+   "why": "마지막 부분에서 누군가의 콩팥이 얼마나 건강한지 알아보려 한다고 해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "exosomes",
+   "ko": "엑소좀",
+   "note": "세포가 내보내는 작은 소포로, 정보를 운반해요."
+  },
+  {
+   "term": "expelled",
+   "ko": "배출된",
+   "note": "몸 밖으로 내보내진다는 뜻이에요."
+  },
+  {
+   "term": "extract",
+   "ko": "추출하다",
+   "note": "무언가에서 원하는 물질을 뽑아낸다는 뜻이에요."
+  },
+  {
+   "term": "figure out",
+   "ko": "알아내다",
+   "note": "방법이나 답을 생각해서 찾아낸다는 뜻이에요."
+  }
+ ]
+}

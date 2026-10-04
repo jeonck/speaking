@@ -28,7 +28,7 @@ paginate = 10
   tocopen = false
   mainSections = ['practice']
   # 실습 원본 채널 — 홈 첫 화면 아래 줄에 표시. 저작권 걱정 없는 미국 정부 공개 자료만 쓴다.
-  sources = ['VOA Learning English', 'NASA', 'NOAA', 'National Park Service', 'USGS', 'NIH', 'American English']
+  sources = ['VOA Learning English', 'NASA', 'NOAA', 'National Park Service', 'USGS', 'NIH', 'Fish & Wildlife Service', 'NSF', 'American English']
   # 방문자에게 '구간 추가' 안내(홈 섹션·바닥글 링크)를 보일지. 메뉴 항목도 함께 되살린다.
   showAddSegment = false
 

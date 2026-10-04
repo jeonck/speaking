@@ -1,0 +1,510 @@
+{
+ "video_id": "BL-z9Y2pvnw",
+ "source_title": "NIH SciBites: A Glimpse Into Neuromuscular Disorders",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 71.1,
+  "end": 96.93
+ },
+ "sentences": [
+  {
+   "text": "In our research, ultrasound allows us to look at the muscles and nerves of people with ALS and other diseases.",
+   "chunks": [
+    {
+     "en": "In our research,",
+     "ko": "우리 연구에서,"
+    },
+    {
+     "en": "ultrasound allows us to look at the muscles and nerves",
+     "ko": "초음파는 우리가 근육과 신경을 들여다볼 수 있게 해줍니다"
+    },
+    {
+     "en": "of people with ALS and other diseases.",
+     "ko": "ALS를 비롯한 다른 질병을 가진 사람들의."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "research,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ultrasound",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "allows",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "muscles",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nerves",
+     "strong": true,
+     "link": false,
+     "syl": "NERVES"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ALS",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "diseases.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "allows us처럼 자음+모음은 이어 발음하고, ultrasound는 첫 음절에 강세가 옵니다.",
+   "start": 71.1,
+   "end": 78.11
+  },
+  {
+   "text": "In some studies, called natural history studies, patients visit us every six to 12 months, and we look at which of their muscles and nerves are changing over the span of multiple years.",
+   "chunks": [
+    {
+     "en": "In some studies, called natural history studies,",
+     "ko": "자연사 연구라고 불리는 몇몇 연구에서,"
+    },
+    {
+     "en": "patients visit us every six to 12 months,",
+     "ko": "환자들은 6개월에서 12개월마다 우리를 방문하고,"
+    },
+    {
+     "en": "and we look at which of their muscles and nerves are changing",
+     "ko": "우리는 그들의 근육과 신경 중 어떤 것이 변화하고 있는지 살펴봅니다"
+    },
+    {
+     "en": "over the span of multiple years.",
+     "ko": "여러 해에 걸쳐서."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "studies,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "natural",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "history",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "studies,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patients",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "visit",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "six",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "12",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "months,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "muscles",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nerves",
+     "strong": true,
+     "link": false,
+     "syl": "NERVES"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changing",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "span",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "multiple",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "look at는 k를 다음 모음과 이어서 발음합니다.",
+   "start": 78.11,
+   "end": 89.74
+  },
+  {
+   "text": "In clinical trials, on the other hand, we track how new experimental drugs affect patients' muscles and nerves.",
+   "chunks": [
+    {
+     "en": "In clinical trials, on the other hand,",
+     "ko": "반면에 임상시험에서는,"
+    },
+    {
+     "en": "we track how new experimental drugs",
+     "ko": "우리는 새로운 실험용 약물이 어떻게"
+    },
+    {
+     "en": "affect patients' muscles and nerves.",
+     "ko": "환자의 근육과 신경에 영향을 미치는지를 추적합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clinical",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "trials,",
+     "strong": true,
+     "link": false,
+     "syl": "TRIALS"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hand,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "track",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experimental",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "drugs",
+     "strong": true,
+     "link": true,
+     "syl": "DRUGS"
+    },
+    {
+     "w": "affect",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patients'",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "muscles",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nerves.",
+     "strong": true,
+     "link": false,
+     "syl": "NERVES"
+    }
+   ],
+   "tip": "drugs affect처럼 s 뒤에 모음이 오면 연결해서 발음합니다.",
+   "start": 89.74,
+   "end": 96.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "What technology does the speaker use to look at muscles and nerves?",
+   "options": [
+    "Ultrasound",
+    "X-ray",
+    "MRI"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 초음파(ultrasound)로 근육과 신경을 본다고 했습니다."
+  },
+  {
+   "q": "How often do patients visit for the natural history studies?",
+   "options": [
+    "Every six to 12 months",
+    "Every week",
+    "Once a year"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 환자들이 6~12개월마다 방문한다고 했습니다."
+  },
+  {
+   "q": "What do the natural history studies track over time?",
+   "options": [
+    "Changes in patients' muscles and nerves",
+    "Patients' diet",
+    "Patients' income"
+   ],
+   "answer": 0,
+   "why": "환자의 근육과 신경이 수년에 걸쳐 어떻게 변하는지 살펴본다고 했습니다."
+  },
+  {
+   "q": "In clinical trials, what does the speaker's team track?",
+   "options": [
+    "How experimental drugs affect muscles and nerves",
+    "How patients travel to the clinic",
+    "How patients pay for treatment"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 새로운 실험용 약물이 근육과 신경에 미치는 영향을 추적한다고 했습니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "natural history study",
+   "ko": "자연사 연구",
+   "note": "질병이 치료 없이 시간에 따라 어떻게 진행되는지 관찰하는 연구입니다."
+  },
+  {
+   "term": "clinical trial",
+   "ko": "임상시험",
+   "note": "신약이나 치료법의 효과와 안전성을 사람에게 시험하는 연구입니다."
+  },
+  {
+   "term": "experimental drug",
+   "ko": "실험용 약물",
+   "note": "아직 승인되지 않고 연구 중인 약물을 말합니다."
+  },
+  {
+   "term": "on the other hand",
+   "ko": "반면에",
+   "note": "앞 내용과 대조되는 내용을 말할 때 씁니다."
+  },
+  {
+   "term": "span of",
+   "ko": "~에 걸친 기간",
+   "note": "the span of multiple years처럼 시간의 길이를 나타낼 때 씁니다."
+  }
+ ]
+}

@@ -1,0 +1,502 @@
+{
+ "video_id": "gE6wcBSTiPA",
+ "source_title": "🎧 Increasing Domestic Critical Mineral Supply #news #science #criticalminerals #rareearth",
+ "source_channel": "National Science Foundation",
+ "segment": {
+  "start": 6.87,
+  "end": 31.66
+ },
+ "sentences": [
+  {
+   "text": "Critical minerals are essential ingredients for modern and emerging technologies.",
+   "chunks": [
+    {
+     "en": "Critical minerals are essential ingredients",
+     "ko": "핵심 광물은 필수적인 재료다"
+    },
+    {
+     "en": "for modern and emerging technologies.",
+     "ko": "현대 및 신흥 기술을 위한."
+    }
+   ],
+   "words": [
+    {
+     "w": "Critical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minerals",
+     "strong": true,
+     "link": false,
+     "syl": "MIN"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "essential",
+     "strong": true,
+     "link": false,
+     "syl": "SEN"
+    },
+    {
+     "w": "ingredients",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "modern",
+     "strong": true,
+     "link": false,
+     "syl": "MOD"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "emerging",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "technologies.",
+     "strong": true,
+     "link": false,
+     "syl": "NOL"
+    }
+   ],
+   "tip": "modern and, and emerging처럼 끝자음이 다음 모음으로 이어져요.",
+   "start": 6.87,
+   "end": 11.08
+  },
+  {
+   "text": "The United States currently imports a significant portion of the minerals from foreign countries, creating the possibility of supply chain disruption.",
+   "chunks": [
+    {
+     "en": "The United States currently imports a significant portion of the minerals",
+     "ko": "미국은 현재 그 광물의 상당 부분을 수입한다"
+    },
+    {
+     "en": "from foreign countries, creating the possibility of supply chain disruption.",
+     "ko": "외국으로부터, 공급망 붕괴의 가능성을 만들면서."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "United",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "States",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "currently",
+     "strong": true,
+     "link": false,
+     "syl": "CUR"
+    },
+    {
+     "w": "imports",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "significant",
+     "strong": true,
+     "link": false,
+     "syl": "NIF"
+    },
+    {
+     "w": "portion",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minerals",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foreign",
+     "strong": true,
+     "link": false,
+     "syl": "FOR"
+    },
+    {
+     "w": "countries,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "creating",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possibility",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supply",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chain",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disruption.",
+     "strong": true,
+     "link": false,
+     "syl": "RUP"
+    }
+   ],
+   "tip": "imports a, portion of처럼 끝자음이 다음 모음으로 이어져요.",
+   "start": 11.08,
+   "end": 19.09
+  },
+  {
+   "text": "But in a new study, U.S. National Science Foundation supported researchers are showing how domestic sources could meet nearly all U.S. critical minerals demands.",
+   "chunks": [
+    {
+     "en": "But in a new study, U.S. National Science Foundation supported researchers",
+     "ko": "하지만 새로운 연구에서, 미국 국립과학재단의 지원을 받은 연구자들이"
+    },
+    {
+     "en": "are showing how domestic sources could meet nearly all U.S.",
+     "ko": "국내 공급원이 거의 모든 미국의 수요를 충족할 수 있음을 보여주고 있다"
+    },
+    {
+     "en": "critical minerals demands.",
+     "ko": "핵심 광물에 대한."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study,",
+     "strong": true,
+     "link": false,
+     "syl": "STUD"
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Science",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Foundation",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supported",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "researchers",
+     "strong": true,
+     "link": false,
+     "syl": "SEARCH"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "showing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "domestic",
+     "strong": true,
+     "link": false,
+     "syl": "MES"
+    },
+    {
+     "w": "sources",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meet",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "critical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minerals",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "demands.",
+     "strong": true,
+     "link": false,
+     "syl": "MANDS"
+    }
+   ],
+   "tip": "in a처럼 끝자음 n이 다음 모음 a로 이어져요.",
+   "start": 19.09,
+   "end": 28.16
+  },
+  {
+   "text": "We could produce critical minerals by opening new mines.",
+   "chunks": [
+    {
+     "en": "We could produce critical minerals",
+     "ko": "우리는 핵심 광물을 생산할 수 있다"
+    },
+    {
+     "en": "by opening new mines.",
+     "ko": "새 광산을 열어서."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "produce",
+     "strong": true,
+     "link": false,
+     "syl": "DUCE"
+    },
+    {
+     "w": "critical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minerals",
+     "strong": true,
+     "link": false,
+     "syl": "MIN"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opening",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mines.",
+     "strong": true,
+     "link": false,
+     "syl": "MINES"
+    }
+   ],
+   "tip": "",
+   "start": 28.16,
+   "end": 31.66
+  }
+ ],
+ "questions": [
+  {
+   "q": "What are critical minerals essential for, according to the segment?",
+   "options": [
+    "Modern and emerging technologies",
+    "Only agriculture",
+    "Space tourism"
+   ],
+   "answer": 0,
+   "why": "\"Critical minerals are essential ingredients for modern and emerging technologies.\"에서 확인됩니다."
+  },
+  {
+   "q": "What risk does importing most minerals from foreign countries create?",
+   "options": [
+    "The possibility of supply chain disruption",
+    "A drop in local employment",
+    "An increase in local pollution"
+   ],
+   "answer": 0,
+   "why": "\"creating the possibility of supply chain disruption\"에서 확인됩니다."
+  },
+  {
+   "q": "Who supported the researchers behind the new study?",
+   "options": [
+    "The National Science Foundation",
+    "A private mining company",
+    "A foreign government"
+   ],
+   "answer": 0,
+   "why": "\"U.S. National Science Foundation supported researchers\"에서 확인됩니다."
+  },
+  {
+   "q": "What did the study find domestic sources could do?",
+   "options": [
+    "Meet nearly all U.S. critical minerals demands",
+    "Replace all foreign trade entirely",
+    "Lower global prices overnight"
+   ],
+   "answer": 0,
+   "why": "\"domestic sources could meet nearly all U.S. critical minerals demands\"에서 확인됩니다."
+  },
+  {
+   "q": "How could critical minerals be produced domestically?",
+   "options": [
+    "By opening new mines",
+    "By recycling only",
+    "By importing more raw ore"
+   ],
+   "answer": 0,
+   "why": "\"We could produce critical minerals by opening new mines.\"에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "critical minerals",
+   "ko": "핵심 광물",
+   "note": "첨단 기술에 필수적인 금속·광물 자원을 가리키는 용어예요."
+  },
+  {
+   "term": "a significant portion",
+   "ko": "상당한 부분",
+   "note": "significant는 '중요한'보다 '상당한 양'을 뜻할 때도 자주 쓰여요."
+  },
+  {
+   "term": "supply chain disruption",
+   "ko": "공급망 붕괴",
+   "note": "원자재나 부품의 흐름이 끊기는 상황을 가리켜요."
+  },
+  {
+   "term": "domestic sources",
+   "ko": "국내 공급원",
+   "note": "domestic은 '국내의'라는 뜻으로 foreign과 대비돼요."
+  },
+  {
+   "term": "opening new mines",
+   "ko": "새 광산을 여는 것",
+   "note": "open a mine은 광산 개발을 시작한다는 뜻의 흔한 표현이에요."
+  }
+ ]
+}

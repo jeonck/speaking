@@ -1,0 +1,486 @@
+{
+ "video_id": "K6u0DU_hDHs",
+ "source_title": "Chasing Solar Eclipses With NASA Pilots",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 34.29,
+  "end": 59.21
+ },
+ "sentences": [
+  {
+   "text": "On eclipse day, the WB-57 aircraft climbs more than 50,000 feet into the stratosphere.",
+   "chunks": [
+    {
+     "en": "On eclipse day,",
+     "ko": "개기일식 날에는,"
+    },
+    {
+     "en": "the WB-57 aircraft climbs more than 50,000 feet",
+     "ko": "WB-57 항공기가 5만 피트 이상 상승해"
+    },
+    {
+     "en": "into the stratosphere.",
+     "ko": "성층권까지 올라간다."
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eclipse",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "day,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "WB-57",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "aircraft",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "climbs",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "50,000",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "feet",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stratosphere.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "eclipse, climbs, 50,000, stratosphere에 강세, feet into처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 34.29,
+   "end": 40.7
+  },
+  {
+   "text": "That’s above most of Earth's atmosphere, where clouds, dust, and water vapor could obscure the view.",
+   "chunks": [
+    {
+     "en": "That’s above most of Earth's atmosphere,",
+     "ko": "그것은 지구 대기의 대부분보다 높은 곳으로,"
+    },
+    {
+     "en": "where clouds, dust, and water vapor",
+     "ko": "구름, 먼지, 수증기가"
+    },
+    {
+     "en": "could obscure the view.",
+     "ko": "시야를 가릴 수도 있는 곳이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "That’s",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "above",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Earth's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "atmosphere,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clouds,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "dust,",
+     "strong": true,
+     "link": false,
+     "syl": "DUST"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vapor",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "obscure",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "view.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "atmosphere, clouds, dust, vapor, obscure에 강세, could obscure처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 40.7,
+   "end": 46.38
+  },
+  {
+   "text": "Viewing an eclipse from 50,000 feet provides a really clear shot of the Sun and that allows the scientists to have confidence that the data they're seeing is from the Sun rather than distortions from the atmosphere.",
+   "chunks": [
+    {
+     "en": "Viewing an eclipse from 50,000 feet",
+     "ko": "5만 피트 상공에서 일식을 보는 것은"
+    },
+    {
+     "en": "provides a really clear shot of the Sun",
+     "ko": "태양을 정말 선명하게 볼 수 있게 해주고"
+    },
+    {
+     "en": "and that allows the scientists to have confidence",
+     "ko": "그것이 과학자들에게 확신을 갖게 해준다"
+    },
+    {
+     "en": "that the data they're seeing is from the Sun",
+     "ko": "그들이 보고 있는 데이터가 태양에서 온 것이라는 확신을"
+    },
+    {
+     "en": "rather than distortions from the atmosphere.",
+     "ko": "대기로 인한 왜곡이 아니라는."
+    }
+   ],
+   "words": [
+    {
+     "w": "Viewing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eclipse",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "50,000",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feet",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "provides",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clear",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "shot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sun",
+     "strong": true,
+     "link": false,
+     "syl": "SUN"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "allows",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scientists",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "confidence",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "data",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seeing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sun",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "distortions",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "atmosphere.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "eclipse, clear, Sun, confidence, distortions에 강세, shot of처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 46.38,
+   "end": 59.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "How high does the WB-57 aircraft climb on eclipse day?",
+   "options": [
+    "More than 50,000 feet",
+    "About 10,000 feet",
+    "Only 1,000 feet"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 5만 피트 이상 상승한다고 설명."
+  },
+  {
+   "q": "What could obscure the view of an eclipse from the ground?",
+   "options": [
+    "Clouds, dust, and water vapor",
+    "Only strong wind",
+    "Only bright sunlight"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 구름, 먼지, 수증기가 시야를 가릴 수 있다고 언급."
+  },
+  {
+   "q": "What does viewing the eclipse from 50,000 feet provide?",
+   "options": [
+    "A really clear shot of the Sun",
+    "A blurry, distant view",
+    "No view at all"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 매우 선명한 태양의 모습을 제공한다고 설명."
+  },
+  {
+   "q": "Why does flying high give scientists more confidence in their data?",
+   "options": [
+    "Because it reduces distortions from the atmosphere",
+    "Because it is cheaper than ground observation",
+    "Because it allows faster data transmission"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 대기로 인한 왜곡이 아니라는 확신을 준다고 설명."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "stratosphere",
+   "ko": "성층권",
+   "note": "지구 대기 중 오존층이 있는 높은 층을 가리킴."
+  },
+  {
+   "term": "water vapor",
+   "ko": "수증기",
+   "note": "공기 중의 기체 상태의 물을 뜻함."
+  },
+  {
+   "term": "obscure the view",
+   "ko": "시야를 가리다",
+   "note": "무언가가 잘 보이지 않게 막는다는 표현."
+  },
+  {
+   "term": "distortions",
+   "ko": "왜곡",
+   "note": "본래 모습이 뒤틀려 보이는 현상을 가리킴."
+  }
+ ]
+}

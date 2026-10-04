@@ -1,0 +1,373 @@
+{
+ "video_id": "6RRFOLqyqII",
+ "source_title": "🎧 Your Next Surgeon Could Be AI-Powered Robot #news #science #robot #surgeon",
+ "source_channel": "National Science Foundation",
+ "segment": {
+  "start": 4.17,
+  "end": 23.32
+ },
+ "sentences": [
+  {
+   "text": "US National Science Foundation supported engineers are developing autonomous health care solutions that may significantly improve efficiency, safety and consistency over current robot assisted surgical techniques.",
+   "chunks": [
+    {
+     "en": "US National Science Foundation supported engineers are developing",
+     "ko": "미국 국립과학재단의 지원을 받은 엔지니어들이 개발하고 있어요"
+    },
+    {
+     "en": "autonomous health care solutions",
+     "ko": "자율 의료 솔루션을"
+    },
+    {
+     "en": "that may significantly improve efficiency, safety and consistency",
+     "ko": "효율성, 안전성, 일관성을 크게 향상시킬 수 있는"
+    },
+    {
+     "en": "over current robot assisted surgical techniques.",
+     "ko": "현재의 로봇 보조 수술 기술보다 말이죠"
+    }
+   ],
+   "words": [
+    {
+     "w": "US",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Science",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Foundation",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supported",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "engineers",
+     "strong": true,
+     "link": false,
+     "syl": "NEERS"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "developing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "autonomous",
+     "strong": true,
+     "link": false,
+     "syl": "TON"
+    },
+    {
+     "w": "health",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "care",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "solutions",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "significantly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "improve",
+     "strong": true,
+     "link": true,
+     "syl": "PROVE"
+    },
+    {
+     "w": "efficiency,",
+     "strong": true,
+     "link": false,
+     "syl": "FI"
+    },
+    {
+     "w": "safety",
+     "strong": true,
+     "link": false,
+     "syl": "SAFE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "consistency",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "current",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "robot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "assisted",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surgical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "techniques.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "developing autonomous, improve efficiency, robot assisted처럼 자음 뒤 모음은 이어 읽어요.",
+   "start": 4.17,
+   "end": 15.71
+  },
+  {
+   "text": "The popularity of robot assisted laparoscopic surgical technologies has seen the devices used in more than 16 million procedures to date.",
+   "chunks": [
+    {
+     "en": "The popularity of robot assisted laparoscopic surgical technologies has seen",
+     "ko": "로봇 보조 복강경 수술 기술의 인기로 인해"
+    },
+    {
+     "en": "the devices used in more than 16 million procedures",
+     "ko": "그 기기들이 1600만 건이 넘는 수술 절차에 사용되어 왔어요"
+    },
+    {
+     "en": "to date.",
+     "ko": "지금까지 말이죠"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "popularity",
+     "strong": true,
+     "link": false,
+     "syl": "LAR"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "robot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "assisted",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laparoscopic",
+     "strong": true,
+     "link": false,
+     "syl": "SCOP"
+    },
+    {
+     "w": "surgical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "technologies",
+     "strong": true,
+     "link": false,
+     "syl": "NOL"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seen",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "devices",
+     "strong": true,
+     "link": false,
+     "syl": "VI"
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "16",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "million",
+     "strong": true,
+     "link": false,
+     "syl": "MIL"
+    },
+    {
+     "w": "procedures",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "date.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "robot assisted, used in처럼 자음 뒤 모음은 이어 읽어요.",
+   "start": 15.71,
+   "end": 23.32
+  }
+ ],
+ "questions": [
+  {
+   "q": "What are the engineers in the segment trying to improve?",
+   "options": [
+    "Efficiency, safety, and consistency in robot-assisted surgery",
+    "Hospital billing systems",
+    "Patient scheduling software"
+   ],
+   "answer": 0,
+   "why": "\"may significantly improve efficiency, safety and consistency over current robot assisted surgical techniques\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "Who supports the engineers developing these autonomous health care solutions?",
+   "options": [
+    "The US National Science Foundation",
+    "A private hospital chain",
+    "An international surgeons' association"
+   ],
+   "answer": 0,
+   "why": "\"US National Science Foundation supported engineers are developing autonomous health care solutions\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "What type of surgical technology has grown in popularity, according to the segment?",
+   "options": [
+    "Robot-assisted laparoscopic surgical technologies",
+    "Fully manual open surgery",
+    "Remote telephone consultations"
+   ],
+   "answer": 0,
+   "why": "\"The popularity of robot assisted laparoscopic surgical technologies has seen the devices used\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "About how many procedures have used these devices to date?",
+   "options": [
+    "More than 16 million",
+    "About 16 thousand",
+    "Exactly 16"
+   ],
+   "answer": 0,
+   "why": "\"the devices used in more than 16 million procedures to date\"라는 문장에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "autonomous health care solutions",
+   "ko": "자율 의료 솔루션",
+   "note": "사람 개입 없이 스스로 작동하는 의료 기술을 말해요."
+  },
+  {
+   "term": "robot assisted",
+   "ko": "로봇 보조의",
+   "note": "로봇이 수술 등을 돕는 방식을 가리켜요."
+  },
+  {
+   "term": "laparoscopic surgical technologies",
+   "ko": "복강경 수술 기술",
+   "note": "작은 절개로 진행하는 수술 기법이에요."
+  },
+  {
+   "term": "to date",
+   "ko": "지금까지",
+   "note": "현재까지의 누적 수치를 말할 때 써요."
+  },
+  {
+   "term": "significantly improve",
+   "ko": "크게 향상시키다",
+   "note": "의미 있는 수준으로 개선한다는 뜻이에요."
+  }
+ ]
+}

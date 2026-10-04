@@ -1,0 +1,481 @@
+{
+ "video_id": "QquPhtSOxas",
+ "source_title": "Moon Mascot Ready to Rise with Artemis II",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 148.25,
+  "end": 173.81
+ },
+ "sentences": [
+  {
+   "text": "You need clothes, food, a map, your favorite toy.",
+   "chunks": [
+    {
+     "en": "You need clothes, food, a map,",
+     "ko": "옷, 음식, 지도가 필요하고,"
+    },
+    {
+     "en": "your favorite toy.",
+     "ko": "가장 좋아하는 장난감도 필요하다."
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": true,
+     "link": false,
+     "syl": "NEED"
+    },
+    {
+     "w": "clothes,",
+     "strong": true,
+     "link": false,
+     "syl": "CLOTHES"
+    },
+    {
+     "w": "food,",
+     "strong": true,
+     "link": false,
+     "syl": "FOOD"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "map,",
+     "strong": true,
+     "link": false,
+     "syl": "MAP"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "toy.",
+     "strong": true,
+     "link": false,
+     "syl": "TOY"
+    }
+   ],
+   "tip": "need에 강세를 주어 필요성을 강조한다.",
+   "start": 148.25,
+   "end": 152.22
+  },
+  {
+   "text": "Really! Except this toy has a job to do up there because this is a zero-gravity indicator.",
+   "chunks": [
+    {
+     "en": "Really!",
+     "ko": "정말로요!"
+    },
+    {
+     "en": "Except this toy has a job to do up there",
+     "ko": "다만 이 장난감은 그곳에서 할 일이 있는데"
+    },
+    {
+     "en": "because this is a zero-gravity indicator.",
+     "ko": "이것이 바로 무중력 지시기이기 때문이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Really!",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Except",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "toy",
+     "strong": true,
+     "link": false,
+     "syl": "TOY"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "job",
+     "strong": true,
+     "link": false,
+     "syl": "JOB"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "zero-gravity",
+     "strong": true,
+     "link": false,
+     "syl": "ZERO"
+    },
+    {
+     "w": "indicator.",
+     "strong": true,
+     "link": false,
+     "syl": "CA"
+    }
+   ],
+   "tip": "zero-gravity는 한 단위로 빠르게 이어 발음된다.",
+   "start": 152.22,
+   "end": 158.76
+  },
+  {
+   "text": "While not a scientific instrument, this safe and soft object tells the strapped-in astronauts that they've reached weightlessness.",
+   "chunks": [
+    {
+     "en": "While not a scientific instrument,",
+     "ko": "과학 장비는 아니지만,"
+    },
+    {
+     "en": "this safe and soft object tells the strapped-in astronauts",
+     "ko": "이 안전하고 부드러운 물체가 안전벨트를 맨 우주비행사들에게 알려준다"
+    },
+    {
+     "en": "that they've reached weightlessness.",
+     "ko": "그들이 무중력 상태에 도달했다는 것을 말이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "While",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scientific",
+     "strong": true,
+     "link": false,
+     "syl": "TI"
+    },
+    {
+     "w": "instrument,",
+     "strong": true,
+     "link": false,
+     "syl": "IN"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soft",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "object",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tells",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strapped-in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "astronauts",
+     "strong": true,
+     "link": false,
+     "syl": "AS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reached",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weightlessness.",
+     "strong": true,
+     "link": false,
+     "syl": "WEIGHT"
+    }
+   ],
+   "tip": "not a는 이어서 '나러'처럼 발음된다.",
+   "start": 158.76,
+   "end": 166.1
+  },
+  {
+   "text": "For Artemis II, the crew wanted a one-of-a-kind ZGI, so we asked you to come up with it.",
+   "chunks": [
+    {
+     "en": "For Artemis II, the crew wanted a one-of-a-kind ZGI,",
+     "ko": "아르테미스 2호를 위해, 팀은 하나뿐인 ZGI(마스코트)를 원했고,"
+    },
+    {
+     "en": "so we asked you to come up with it.",
+     "ko": "그래서 여러분에게 그것을 만들어 달라고 요청했다."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Artemis",
+     "strong": true,
+     "link": false,
+     "syl": "AR"
+    },
+    {
+     "w": "II,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crew",
+     "strong": true,
+     "link": false,
+     "syl": "CREW"
+    },
+    {
+     "w": "wanted",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one-of-a-kind",
+     "strong": true,
+     "link": false,
+     "syl": "KIND"
+    },
+    {
+     "w": "ZGI,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "asked",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "come up with는 구동사로 이어서 발음된다.",
+   "start": 166.1,
+   "end": 173.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the zero-gravity indicator, as described in the segment?",
+   "options": [
+    "A soft toy that shows when astronauts reach weightlessness",
+    "A scientific measuring instrument",
+    "A type of spacesuit"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 과학 장비는 아니라고 하며 역할을 설명한다."
+  },
+  {
+   "q": "How was the Artemis II mascot's design chosen?",
+   "options": [
+    "The public was asked to come up with it",
+    "It was 3D printed by a robot",
+    "It was copied from a previous mission exactly"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장 마지막 부분에서 사람들에게 만들어 달라고 요청했다고 말한다."
+  },
+  {
+   "q": "What items does the speaker list as things you need, before mentioning the toy?",
+   "options": [
+    "Clothes, food, and a map",
+    "A laptop and a phone",
+    "Only food"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 옷, 음식, 지도를 언급한다."
+  },
+  {
+   "q": "Is the zero-gravity indicator a scientific instrument?",
+   "options": [
+    "No, it is not a scientific instrument",
+    "Yes, it measures radiation",
+    "Yes, it measures air pressure"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 과학 장비는 아니라고 분명히 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "zero-gravity indicator",
+   "ko": "무중력 지시기",
+   "note": "무중력 상태에 도달했음을 보여주는 작은 물체나 장난감을 뜻한다."
+  },
+  {
+   "term": "strapped-in",
+   "ko": "안전벨트를 맨",
+   "note": "좌석에 단단히 고정된 상태를 뜻한다."
+  },
+  {
+   "term": "weightlessness",
+   "ko": "무중력 상태",
+   "note": "중력을 느끼지 못하는 상태를 뜻한다."
+  },
+  {
+   "term": "one-of-a-kind",
+   "ko": "세상에 하나뿐인, 독특한",
+   "note": "다른 것과 똑같은 것이 없는 특별한 것을 뜻하는 표현이다."
+  }
+ ]
+}

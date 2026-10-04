@@ -1,0 +1,490 @@
+{
+ "video_id": "VUq3ClMyNUw",
+ "source_title": "NASA Will Explore Asteroid Apophis",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 8.17,
+  "end": 29.96
+ },
+ "sentences": [
+  {
+   "text": "On April 13th, 2029, Apophis is going to fly by the Earth at a distance of roughly 35,000km.",
+   "chunks": [
+    {
+     "en": "On April 13th, 2029,",
+     "ko": "2029년 4월 13일에,"
+    },
+    {
+     "en": "Apophis is going to fly by the Earth",
+     "ko": "아포피스는 지구 옆을 지나갈 것이다"
+    },
+    {
+     "en": "at a distance of roughly 35,000km.",
+     "ko": "대략 35,000km의 거리에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "April",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "13th,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2029,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Apophis",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fly",
+     "strong": true,
+     "link": false,
+     "syl": "FLY"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Earth",
+     "strong": true,
+     "link": false,
+     "syl": "EARTH"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "distance",
+     "strong": true,
+     "link": false,
+     "syl": "DIS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roughly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "35,000km.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Apophis, fly, Earth, distance에 강세를 주며 숫자는 또렷하게 읽어요.",
+   "start": 8.17,
+   "end": 16.02
+  },
+  {
+   "text": "It is very unusual for an object of this size to fly this close to the Earth.",
+   "chunks": [
+    {
+     "en": "It is very unusual",
+     "ko": "그것은 매우 특이하다"
+    },
+    {
+     "en": "for an object of this size",
+     "ko": "이 정도 크기의 물체가"
+    },
+    {
+     "en": "to fly this close",
+     "ko": "이렇게 가까이 날아오는 것은"
+    },
+    {
+     "en": "to the Earth.",
+     "ko": "지구에"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unusual",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "object",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "size",
+     "strong": true,
+     "link": false,
+     "syl": "SIZE"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": true,
+     "link": false,
+     "syl": "CLOSE"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Earth.",
+     "strong": true,
+     "link": false,
+     "syl": "EARTH"
+    }
+   ],
+   "tip": "unusual, size, close, Earth에 강세를 주며 읽어요.",
+   "start": 16.02,
+   "end": 20.52
+  },
+  {
+   "text": "An asteroid of that size only gets this close to the Earth, a tenth of the distance between the Earth and the Moon, about once every 7,500 years.",
+   "chunks": [
+    {
+     "en": "An asteroid of that size only gets this close to the Earth,",
+     "ko": "이 정도 크기의 소행성이 지구에 이렇게 가까이 오는 것은,"
+    },
+    {
+     "en": "a tenth of the distance",
+     "ko": "거리의 10분의 1만큼"
+    },
+    {
+     "en": "between the Earth and the Moon,",
+     "ko": "지구와 달 사이의,"
+    },
+    {
+     "en": "about once every 7,500 years.",
+     "ko": "약 7,500년에 한 번씩이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "An",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "asteroid",
+     "strong": true,
+     "link": false,
+     "syl": "AS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "size",
+     "strong": true,
+     "link": false,
+     "syl": "SIZE"
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Earth,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tenth",
+     "strong": true,
+     "link": false,
+     "syl": "TENTH"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "distance",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "between",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Earth",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Moon,",
+     "strong": true,
+     "link": false,
+     "syl": "MOON"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "7,500",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "YEARS"
+    }
+   ],
+   "tip": "asteroid, size, tenth, Moon, years에 강세를 주고, 쉼표에서 살짝 끊어 읽어요.",
+   "start": 20.52,
+   "end": 29.96
+  }
+ ],
+ "questions": [
+  {
+   "q": "When will Apophis fly by the Earth?",
+   "options": [
+    "On April 13th, 2029",
+    "On April 13th, 2030",
+    "On April 30th, 2029"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 2029년 4월 13일이라고 해요."
+  },
+  {
+   "q": "How close will Apophis come to the Earth?",
+   "options": [
+    "Roughly 35,000km",
+    "Roughly 350,000km",
+    "Roughly 3,500km"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 대략 35,000km라고 해요."
+  },
+  {
+   "q": "Why is this flyby unusual?",
+   "options": [
+    "Because an object this size rarely comes this close",
+    "Because asteroids never approach Earth",
+    "Because Apophis is the largest known asteroid"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 이 정도 크기의 물체가 이렇게 가까이 오는 것은 매우 특이하다고 해요."
+  },
+  {
+   "q": "How does the flyby distance compare to the Earth-Moon distance?",
+   "options": [
+    "It's about a tenth of that distance",
+    "It's about twice that distance",
+    "It's the same distance"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 지구와 달 사이 거리의 10분의 1이라고 해요."
+  },
+  {
+   "q": "How often does an asteroid this size get this close to Earth?",
+   "options": [
+    "About once every 7,500 years",
+    "About once every 75 years",
+    "About once every 750 years"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장 마지막에 약 7,500년에 한 번이라고 해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fly by",
+   "ko": "~옆을 지나가다",
+   "note": "천체가 가까이 지나갈 때 쓰는 표현이에요."
+  },
+  {
+   "term": "at a distance of",
+   "ko": "~의 거리에서",
+   "note": "수치와 함께 거리를 말할 때 써요."
+  },
+  {
+   "term": "unusual",
+   "ko": "특이한, 흔치 않은",
+   "note": "드문 일을 강조할 때 써요."
+  },
+  {
+   "term": "a tenth of",
+   "ko": "~의 10분의 1",
+   "note": "비율을 나타내는 표현이에요."
+  },
+  {
+   "term": "once every X years",
+   "ko": "X년에 한 번",
+   "note": "빈도를 말할 때 쓰는 패턴이에요."
+  }
+ ]
+}

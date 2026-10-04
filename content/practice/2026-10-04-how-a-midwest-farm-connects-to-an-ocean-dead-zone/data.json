@@ -1,0 +1,522 @@
+{
+ "video_id": "qVh_V72mcPQ",
+ "source_title": "Dead Zone in the Gulf of America",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 72.81,
+  "end": 97.53
+ },
+ "sentences": [
+  {
+   "text": "We end up with more food on our tables and more food to sell to the rest of the world.",
+   "chunks": [
+    {
+     "en": "We end up with more food on our tables",
+     "ko": "우리는 식탁에 더 많은 음식을 올리게 되고"
+    },
+    {
+     "en": "and more food to sell to the rest of the world.",
+     "ko": "세계 나머지 지역에 팔 음식도 더 많아집니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "end",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": true,
+     "syl": "FOOD"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tables",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sell",
+     "strong": true,
+     "link": false,
+     "syl": "SELL"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rest",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "end up, food on처럼 자음과 모음이 이어져 부드럽게 연결됩니다.",
+   "start": 72.81,
+   "end": 78.48
+  },
+  {
+   "text": "But what does a farm in the middle of the country have to do with fish dying in the ocean?",
+   "chunks": [
+    {
+     "en": "But what does a farm in the middle of the country",
+     "ko": "하지만 나라 한가운데 있는 농장이"
+    },
+    {
+     "en": "have to do with fish dying in the ocean?",
+     "ko": "바다에서 물고기가 죽어가는 것과 무슨 상관이 있을까요?"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "farm",
+     "strong": true,
+     "link": false,
+     "syl": "FARM"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "middle",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "country",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fish",
+     "strong": true,
+     "link": false,
+     "syl": "FISH"
+    },
+    {
+     "w": "dying",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ocean?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "have to는 '해프터'처럼 빠르게 이어집니다.",
+   "start": 78.48,
+   "end": 84.12
+  },
+  {
+   "text": "To answer that, we have to look at the Mississippi River.",
+   "chunks": [
+    {
+     "en": "To answer that,",
+     "ko": "그 답을 찾기 위해,"
+    },
+    {
+     "en": "we have to look at the Mississippi River.",
+     "ko": "미시시피강을 살펴봐야 합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "answer",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": true,
+     "link": false,
+     "syl": "LOOK"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mississippi",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "River.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "have to look에서 to는 약화되어 /tə/로 발음됩니다.",
+   "start": 84.12,
+   "end": 88.99
+  },
+  {
+   "text": "Think of the Mississippi River as a drainage system for your street, except it connects 31 U.S. states and even parts of Canada.",
+   "chunks": [
+    {
+     "en": "Think of the Mississippi River as a drainage system for your street,",
+     "ko": "미시시피강을 여러분 거리를 위한 배수 시스템이라고 생각해보세요,"
+    },
+    {
+     "en": "except it connects 31 U.S. states and even parts of Canada.",
+     "ko": "다만 그것은 31개 주와 캐나다 일부 지역까지 연결한다는 점이 다르죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "Think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Mississippi",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "River",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drainage",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "system",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "street,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "except",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "connects",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "31",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "states",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Canada.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "except it에서 t는 약화되어 it과 부드럽게 이어집니다.",
+   "start": 88.99,
+   "end": 97.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does more food production mean for food on tables, according to the segment?",
+   "options": [
+    "There is more food on our tables and more to sell abroad",
+    "There is less food available domestically",
+    "Food prices go down everywhere"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 식탁에 더 많은 음식과 수출할 음식이 늘어난다고 말합니다."
+  },
+  {
+   "q": "What question does the speaker raise about farms and the ocean?",
+   "options": [
+    "How a farm relates to fish dying in the ocean",
+    "How farms affect local weather",
+    "How farms affect soil erosion"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 농장과 바다의 물고기 죽음 사이의 관계를 묻습니다."
+  },
+  {
+   "q": "What river does the segment look at to answer the question?",
+   "options": [
+    "The Mississippi River",
+    "The Colorado River",
+    "The Missouri River"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 미시시피강을 살펴봐야 한다고 말합니다."
+  },
+  {
+   "q": "How many U.S. states does the Mississippi River's drainage system connect?",
+   "options": [
+    "31",
+    "13",
+    "50"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 31개 주를 연결한다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "end up with",
+   "ko": "결국 ~하게 되다",
+   "note": "결과적으로 어떤 상태가 된다는 뜻입니다."
+  },
+  {
+   "term": "have to do with",
+   "ko": "~와 관련이 있다",
+   "note": "두 가지 사이의 연관성을 물을 때 씁니다."
+  },
+  {
+   "term": "drainage system",
+   "ko": "배수 시스템",
+   "note": "물이 흘러 빠져나가는 체계를 뜻합니다."
+  },
+  {
+   "term": "connects",
+   "ko": "연결하다",
+   "note": "여기서는 여러 주를 하나의 강 유역으로 잇는다는 의미입니다."
+  }
+ ]
+}

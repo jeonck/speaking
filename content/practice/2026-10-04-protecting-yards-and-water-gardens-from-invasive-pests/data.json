@@ -1,0 +1,523 @@
+{
+ "video_id": "hKetKAPhqhI",
+ "source_title": "Invasive species: Homeowner best management practices in Missouri",
+ "source_channel": "U.S. Fish & Wildlife Service",
+ "segment": {
+  "start": 30.15,
+  "end": 54.57
+ },
+ "sentences": [
+  {
+   "text": "For homeowners with fire pits, sourcing local firewood is important to prevent the spread of pests that could create unnecessary costs from frequent tree trimmings or removals.",
+   "chunks": [
+    {
+     "en": "For homeowners with fire pits,",
+     "ko": "벽난로(화로)가 있는 주택 소유자라면,"
+    },
+    {
+     "en": "sourcing local firewood is important",
+     "ko": "현지에서 나는 장작을 구하는 것이 중요합니다"
+    },
+    {
+     "en": "to prevent the spread of pests",
+     "ko": "해충의 확산을 막기 위해서인데요"
+    },
+    {
+     "en": "that could create unnecessary costs",
+     "ko": "그런 해충은 불필요한 비용을 유발할 수 있습니다"
+    },
+    {
+     "en": "from frequent tree trimmings or removals.",
+     "ko": "빈번한 나무 가지치기나 제거 작업으로 인한 비용이죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "homeowners",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fire",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pits,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sourcing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "firewood",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "important",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prevent",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spread",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pests",
+     "strong": true,
+     "link": false,
+     "syl": "PESTS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "create",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unnecessary",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "costs",
+     "strong": true,
+     "link": false,
+     "syl": "COSTS"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "frequent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tree",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trimmings",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "removals.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "is important에서 is는 약화되어 다음 단어와 빠르게 이어집니다.",
+   "start": 30.15,
+   "end": 38.88
+  },
+  {
+   "text": "Finally, homeowners with ponds or water gardens should make sure that they select native options whenever possible for aquatic vegetation and fish.",
+   "chunks": [
+    {
+     "en": "Finally, homeowners with ponds or water gardens",
+     "ko": "마지막으로, 연못이나 수생 정원이 있는 주택 소유자는"
+    },
+    {
+     "en": "should make sure that they select native options",
+     "ko": "토착종을 선택하도록 해야 합니다"
+    },
+    {
+     "en": "whenever possible for aquatic vegetation and fish.",
+     "ko": "가능한 한 수생 식물과 어류에 대해서도요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Finally,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "homeowners",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ponds",
+     "strong": true,
+     "link": false,
+     "syl": "PONDS"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gardens",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "select",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "native",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "options",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "whenever",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possible",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "aquatic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "vegetation",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fish.",
+     "strong": true,
+     "link": false,
+     "syl": "FISH"
+    }
+   ],
+   "tip": "that they에서 that은 약하게 흘러갑니다.",
+   "start": 38.88,
+   "end": 46.5
+  },
+  {
+   "text": "Avoid releasing plants, fish, water, or other aquatic organisms into the wild or into storm drains that may lead into a river or stream.",
+   "chunks": [
+    {
+     "en": "Avoid releasing plants, fish, water,",
+     "ko": "식물, 물고기, 물,"
+    },
+    {
+     "en": "or other aquatic organisms into the wild",
+     "ko": "또는 다른 수생 생물을 야생에 풀어놓지 마세요"
+    },
+    {
+     "en": "or into storm drains that may lead into a river or stream.",
+     "ko": "또는 강이나 하천으로 이어질 수 있는 우수관에도요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Avoid",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "releasing",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "plants,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fish,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "aquatic",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "organisms",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wild",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drains",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lead",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "river",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stream.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "into the, into a처럼 into가 반복되며 약화되어 빠르게 지나갑니다.",
+   "start": 46.5,
+   "end": 54.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why should homeowners source local firewood?",
+   "options": [
+    "To prevent the spread of pests",
+    "To save money on delivery",
+    "To support local businesses"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 해충 확산을 막기 위해서라고 설명합니다."
+  },
+  {
+   "q": "What should homeowners with ponds or water gardens choose when possible?",
+   "options": [
+    "Native aquatic vegetation and fish",
+    "The cheapest available plants",
+    "Imported ornamental fish"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 가능한 한 토착종을 선택해야 한다고 말합니다."
+  },
+  {
+   "q": "What does the segment say NOT to do with aquatic organisms?",
+   "options": [
+    "Release them into the wild or storm drains",
+    "Keep them in a water garden",
+    "Buy them from a local store"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 야생이나 우수관에 풀어놓지 말라고 경고합니다."
+  },
+  {
+   "q": "Where might storm drains eventually lead, according to the segment?",
+   "options": [
+    "Into a river or stream",
+    "Into a water garden",
+    "Into a fire pit"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 우수관이 강이나 하천으로 이어질 수 있다고 합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sourcing",
+   "ko": "조달하다, 구해오다",
+   "note": "장작을 '현지에서' 구한다는 의미로 쓰였습니다."
+  },
+  {
+   "term": "spread of pests",
+   "ko": "해충의 확산",
+   "note": "spread는 질병이나 해충이 퍼지는 것을 뜻합니다."
+  },
+  {
+   "term": "native options",
+   "ko": "토착종 선택지",
+   "note": "그 지역 고유종을 가리킵니다."
+  },
+  {
+   "term": "aquatic organisms",
+   "ko": "수생 생물",
+   "note": "물속에 사는 생물 전체를 가리키는 표현입니다."
+  },
+  {
+   "term": "storm drains",
+   "ko": "우수관, 빗물 배수구",
+   "note": "빗물이 흘러가는 배수 시설입니다."
+  }
+ ]
+}

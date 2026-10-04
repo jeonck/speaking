@@ -1,0 +1,471 @@
+{
+ "video_id": "6AR2CHKy5FU",
+ "source_title": "NIH SciBites: Learning How Genetic Typos Escape Cells’ Editors",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 26.24,
+  "end": 51.28
+ },
+ "sentences": [
+  {
+   "text": "Cells write out copies of our genes into essential molecules called messenger RNAs, or mRNAs for short.",
+   "chunks": [
+    {
+     "en": "Cells write out copies of our genes",
+     "ko": "세포는 우리 유전자의 복사본을 만들어 내요"
+    },
+    {
+     "en": "into essential molecules called messenger RNAs,",
+     "ko": "메신저 RNA라고 불리는 필수 분자로"
+    },
+    {
+     "en": "or mRNAs for short.",
+     "ko": "줄여서 mRNA라고 하죠"
+    }
+   ],
+   "words": [
+    {
+     "w": "Cells",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "write",
+     "strong": true,
+     "link": true,
+     "syl": "WRITE"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "copies",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "genes",
+     "strong": true,
+     "link": false,
+     "syl": "GENES"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "essential",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "molecules",
+     "strong": true,
+     "link": false,
+     "syl": "MOL"
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "messenger",
+     "strong": true,
+     "link": false,
+     "syl": "MESS"
+    },
+    {
+     "w": "RNAs,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "mRNAs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "short.",
+     "strong": true,
+     "link": false,
+     "syl": "SHORT"
+    }
+   ],
+   "tip": "write out, copies of처럼 자음이 모음으로 이어질 때 부드럽게 연음하세요.",
+   "start": 26.24,
+   "end": 33.17
+  },
+  {
+   "text": "Afterwards, molecular editors identify extra-long sequences at the end of mRNAs, like run-on sentences in a book.",
+   "chunks": [
+    {
+     "en": "Afterwards, molecular editors identify extra-long sequences at the end",
+     "ko": "그 후, 분자 편집자들이 끝부분의 지나치게 긴 서열을 찾아내요"
+    },
+    {
+     "en": "of mRNAs, like run-on sentences in a book.",
+     "ko": "마치 책 속의 만연체 문장처럼, mRNA의 끝부분에서요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Afterwards,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "molecular",
+     "strong": true,
+     "link": false,
+     "syl": "LEC"
+    },
+    {
+     "w": "editors",
+     "strong": true,
+     "link": false,
+     "syl": "ED"
+    },
+    {
+     "w": "identify",
+     "strong": true,
+     "link": false,
+     "syl": "DEN"
+    },
+    {
+     "w": "extra-long",
+     "strong": true,
+     "link": false,
+     "syl": "LONG"
+    },
+    {
+     "w": "sequences",
+     "strong": true,
+     "link": false,
+     "syl": "SE"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "end",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "mRNAs,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "run-on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sentences",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "book.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "end of, in a처럼 자음으로 끝나고 모음으로 시작하는 단어는 이어서 읽어요.",
+   "start": 33.17,
+   "end": 41.91
+  },
+  {
+   "text": "They also find mistakes that would cause mRNAs to make shortened proteins that don't work right, like an author accidentally putting a period in the middle of a sentence.",
+   "chunks": [
+    {
+     "en": "They also find mistakes that would cause mRNAs to make shortened proteins",
+     "ko": "그들은 또한 mRNA가 짧아진 단백질을 만들게 하는 실수를 찾아내요"
+    },
+    {
+     "en": "that don't work right, like an author accidentally putting a period",
+     "ko": "제대로 작동하지 않게 만드는, 마치 작가가 실수로 마침표를 찍은 것처럼요"
+    },
+    {
+     "en": "in the middle of a sentence.",
+     "ko": "문장 중간에 말이죠"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mistakes",
+     "strong": true,
+     "link": false,
+     "syl": "TAKES"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cause",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "mRNAs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shortened",
+     "strong": true,
+     "link": false,
+     "syl": "SHORT"
+    },
+    {
+     "w": "proteins",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "author",
+     "strong": true,
+     "link": false,
+     "syl": "AU"
+    },
+    {
+     "w": "accidentally",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "putting",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "period",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "middle",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sentence.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "cause mRNAs, putting a, period in처럼 자음 뒤 모음은 이어서 발음해요.",
+   "start": 41.91,
+   "end": 51.28
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do cells make by writing out copies of our genes?",
+   "options": [
+    "Essential molecules called messenger RNAs",
+    "New proteins directly",
+    "Extra copies of DNA"
+   ],
+   "answer": 0,
+   "why": "\"Cells write out copies of our genes into essential molecules called messenger RNAs\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "What do molecular editors look for at the end of mRNAs?",
+   "options": [
+    "Extra-long sequences, like run-on sentences",
+    "Missing punctuation marks",
+    "Duplicate genes"
+   ],
+   "answer": 0,
+   "why": "\"molecular editors identify extra-long sequences at the end of mRNAs, like run-on sentences in a book\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "What kind of mistake is compared to an author putting a period in the middle of a sentence?",
+   "options": [
+    "A mistake that causes mRNAs to make shortened, non-working proteins",
+    "A mistake that duplicates a gene",
+    "A mistake that deletes an entire gene"
+   ],
+   "answer": 0,
+   "why": "\"cause mRNAs to make shortened proteins that don't work right, like an author accidentally putting a period in the middle of a sentence\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "What is mRNA short for?",
+   "options": [
+    "messenger RNA",
+    "molecular RNA",
+    "mutated RNA"
+   ],
+   "answer": 0,
+   "why": "\"molecules called messenger RNAs, or mRNAs for short\"라는 문장에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "messenger RNA (mRNA)",
+   "ko": "전달 RNA",
+   "note": "유전자 정보를 세포 안에서 옮기는 분자예요."
+  },
+  {
+   "term": "extra-long sequences",
+   "ko": "지나치게 긴 서열",
+   "note": "mRNA 끝에 불필요하게 길게 붙은 부분을 말해요."
+  },
+  {
+   "term": "run-on sentences",
+   "ko": "쉼표 없이 계속 이어지는 문장",
+   "note": "문법적으로 끝나야 할 곳에서 끝나지 않는 문장이에요."
+  },
+  {
+   "term": "shortened proteins",
+   "ko": "짧아진 단백질",
+   "note": "오류로 제대로 만들어지지 않은 단백질을 뜻해요."
+  },
+  {
+   "term": "for short",
+   "ko": "줄여서",
+   "note": "긴 이름을 줄여 부를 때 쓰는 표현이에요."
+  }
+ ]
+}

@@ -1,0 +1,468 @@
+{
+ "video_id": "7UqEGElLxfs",
+ "source_title": "High-Flying Balloons Give Students Unique Views of Solar Eclipses",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 27.83,
+  "end": 53.15
+ },
+ "sentences": [
+  {
+   "text": "One is the engineering track that has mostly engineering students that get to tinker on different payloads, and the other track is an atmospheric science track where they'll actually be launching weather sensors to study the impact of the eclipse.",
+   "chunks": [
+    {
+     "en": "One is the engineering track that has mostly engineering students",
+     "ko": "하나는 대부분 공학 전공 학생들로 이루어진 엔지니어링 트랙이에요"
+    },
+    {
+     "en": "that get to tinker on different payloads, and the other track",
+     "ko": "다양한 탑재물을 만져볼 수 있는 트랙이고, 다른 하나는"
+    },
+    {
+     "en": "is an atmospheric science track where they'll actually be launching",
+     "ko": "실제로 발사하게 되는 대기과학 트랙인데"
+    },
+    {
+     "en": "weather sensors to study the impact of the eclipse.",
+     "ko": "개기일식의 영향을 연구하기 위한 기상 센서를 발사해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "engineering",
+     "strong": true,
+     "link": false,
+     "syl": "NEER"
+    },
+    {
+     "w": "track",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mostly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "engineering",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tinker",
+     "strong": true,
+     "link": true,
+     "syl": "TINK"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "payloads,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "track",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "atmospheric",
+     "strong": true,
+     "link": false,
+     "syl": "SPHER"
+    },
+    {
+     "w": "science",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "track",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they'll",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "launching",
+     "strong": true,
+     "link": false,
+     "syl": "LAUNCH"
+    },
+    {
+     "w": "weather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sensors",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "impact",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eclipse.",
+     "strong": true,
+     "link": false,
+     "syl": "CLIPSE"
+    }
+   ],
+   "tip": "get to, tinker on, impact of처럼 자음+모음은 이어서 읽어요.",
+   "start": 27.83,
+   "end": 42.51
+  },
+  {
+   "text": "Atmospheric science teams launch helium-filled weather balloons — the same as those used by the National Weather Service — every hour for hours before and after an eclipse.",
+   "chunks": [
+    {
+     "en": "Atmospheric science teams launch helium-filled weather balloons —",
+     "ko": "대기과학 팀은 헬륨을 채운 기상 풍선을 발사해요"
+    },
+    {
+     "en": "the same as those used by the National Weather Service —",
+     "ko": "미국 국립기상청이 사용하는 것과 같은 풍선이죠"
+    },
+    {
+     "en": "every hour for hours before and after an eclipse.",
+     "ko": "개기일식 전후로 몇 시간 동안 매시간마다 말이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Atmospheric",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teams",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "launch",
+     "strong": true,
+     "link": false,
+     "syl": "LAUNCH"
+    },
+    {
+     "w": "helium-filled",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "balloons",
+     "strong": true,
+     "link": false,
+     "syl": "LOONS"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Weather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Service",
+     "strong": true,
+     "link": false,
+     "syl": "SER"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "hour",
+     "strong": true,
+     "link": false,
+     "syl": "HOUR"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "hours",
+     "strong": true,
+     "link": false,
+     "syl": "HOURS"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eclipse.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "every hour, for hours, before and, after an처럼 자음+모음은 이어서 읽어요.",
+   "start": 42.51,
+   "end": 53.15
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do students on the engineering track get to do?",
+   "options": [
+    "Tinker on different payloads",
+    "Write weather reports",
+    "Pilot research aircraft"
+   ],
+   "answer": 0,
+   "why": "\"students that get to tinker on different payloads\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "What will the atmospheric science track launch to study the eclipse's impact?",
+   "options": [
+    "Weather sensors",
+    "Telescopes",
+    "Drones"
+   ],
+   "answer": 0,
+   "why": "\"they'll actually be launching weather sensors to study the impact of the eclipse\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "What kind of balloons do atmospheric science teams launch?",
+   "options": [
+    "Helium-filled weather balloons, the same as the National Weather Service uses",
+    "Hot-air balloons for tourists",
+    "Balloons filled with plain air"
+   ],
+   "answer": 0,
+   "why": "\"Atmospheric science teams launch helium-filled weather balloons — the same as those used by the National Weather Service\"라는 문장에서 확인됩니다."
+  },
+  {
+   "q": "How often are the balloons launched around the eclipse?",
+   "options": [
+    "Every hour, for hours before and after the eclipse",
+    "Only once, right at the moment of the eclipse",
+    "Once a day for a week"
+   ],
+   "answer": 0,
+   "why": "\"every hour for hours before and after an eclipse\"라는 문장에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "tinker on different payloads",
+   "ko": "다양한 탑재물을 만지며 실험하다",
+   "note": "payload는 기구나 로켓에 싣는 장비를 뜻해요."
+  },
+  {
+   "term": "atmospheric science",
+   "ko": "대기 과학",
+   "note": "대기 현상을 연구하는 과학 분야예요."
+  },
+  {
+   "term": "helium-filled weather balloons",
+   "ko": "헬륨을 채운 기상 관측 풍선",
+   "note": "가볍게 떠오르도록 헬륨 가스를 채운 풍선이에요."
+  },
+  {
+   "term": "the impact of the eclipse",
+   "ko": "일식의 영향",
+   "note": "일식이 주는 영향을 가리켜요."
+  },
+  {
+   "term": "every hour",
+   "ko": "매시간",
+   "note": "일정한 간격으로 반복되는 일을 말할 때 써요."
+  }
+ ]
+}

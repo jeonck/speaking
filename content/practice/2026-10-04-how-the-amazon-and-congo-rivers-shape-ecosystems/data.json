@@ -1,0 +1,431 @@
+{
+ "video_id": "42PUJiJC65Q",
+ "source_title": "SWOT Mission Unlocks a New View of Our Waterways",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 133.07,
+  "end": 158.0
+ },
+ "sentences": [
+  {
+   "text": "Along the Amazon River, the surrounding ecosystems transform from a light green to a deep, rich green as the seasons change.",
+   "chunks": [
+    {
+     "en": "Along the Amazon River,",
+     "ko": "아마존강을 따라"
+    },
+    {
+     "en": "the surrounding ecosystems transform from a light green to a deep, rich green",
+     "ko": "주변 생태계가 연한 초록에서 깊고 풍부한 초록으로 바뀐다"
+    },
+    {
+     "en": "as the seasons change.",
+     "ko": "계절이 바뀌면서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Along",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Amazon",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "River,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surrounding",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ecosystems",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "transform",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": true,
+     "link": false,
+     "syl": "LIGHT"
+    },
+    {
+     "w": "green",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deep,",
+     "strong": true,
+     "link": false,
+     "syl": "DEEP,"
+    },
+    {
+     "w": "rich",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "green",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seasons",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "change.",
+     "strong": true,
+     "link": false,
+     "syl": "CHANGE."
+    }
+   ],
+   "tip": "light와 deep, rich는 색깔 대비를 강조하는 강세예요.",
+   "start": 133.07,
+   "end": 141.45
+  },
+  {
+   "text": "As the flood waters spread across the Amazon River basin, they enrich forests and wetlands, replenishing nutrients and sustaining one of the most vibrant ecosystems on Earth.",
+   "chunks": [
+    {
+     "en": "As the flood waters spread across the Amazon River basin,",
+     "ko": "홍수(범람)한 물이 아마존강 유역 전체로 퍼지면서"
+    },
+    {
+     "en": "they enrich forests and wetlands, replenishing nutrients and sustaining",
+     "ko": "숲과 습지를 비옥하게 하고, 영양분을 채우며 지속시킨다"
+    },
+    {
+     "en": "one of the most vibrant ecosystems on Earth.",
+     "ko": "지구상에서 가장 생동감 있는 생태계 중 하나를"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flood",
+     "strong": true,
+     "link": false,
+     "syl": "FLOOD"
+    },
+    {
+     "w": "waters",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spread",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "across",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Amazon",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "River",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basin,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enrich",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "forests",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wetlands,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "replenishing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nutrients",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sustaining",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vibrant",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "ecosystems",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Earth.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "one of, on Earth처럼 자음 뒤 모음은 이어 발음하세요.",
+   "start": 141.45,
+   "end": 152.35
+  },
+  {
+   "text": "Now turn to Central Africa and the powerful Congo River.",
+   "chunks": [
+    {
+     "en": "Now turn to Central Africa",
+     "ko": "이제 중앙 아프리카로 넘어가면"
+    },
+    {
+     "en": "and the powerful Congo River.",
+     "ko": "힘차게 흐르는 콩고강이 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turn",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Central",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "Africa",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "powerful",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Congo",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "River.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Central Africa는 자음 뒤 모음이 이어져 자연스럽게 발음돼요.",
+   "start": 152.35,
+   "end": 158.0
+  }
+ ],
+ "questions": [
+  {
+   "q": "What causes the Amazon ecosystem's color to change?",
+   "options": [
+    "Seasonal flooding",
+    "Wildfires",
+    "Deforestation"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 계절에 따라 색이 연한 초록에서 깊은 초록으로 바뀐다고 설명함."
+  },
+  {
+   "q": "What do the flood waters do to the forests and wetlands?",
+   "options": [
+    "They enrich them with nutrients",
+    "They destroy them completely",
+    "They freeze them"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 영양분을 채운다고 나옴."
+  },
+  {
+   "q": "Which river is introduced after the Amazon?",
+   "options": [
+    "The Congo River",
+    "The Nile River",
+    "The Mississippi River"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 콩고강이 언급됨."
+  },
+  {
+   "q": "Where is the Congo River located?",
+   "options": [
+    "Central Africa",
+    "South America",
+    "Southeast Asia"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 중앙 아프리카라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "replenishing nutrients",
+   "ko": "영양분을 다시 채우는 것",
+   "note": "자연이 스스로 회복하는 과정을 표현해요."
+  },
+  {
+   "term": "vibrant ecosystems",
+   "ko": "생동감 있는 생태계",
+   "note": "다양하고 활발한 생물들이 사는 환경을 뜻해요."
+  },
+  {
+   "term": "flood waters",
+   "ko": "홍수(범람)한 물",
+   "note": "강이 넘쳐서 생기는 물을 가리켜요."
+  },
+  {
+   "term": "basin",
+   "ko": "유역, 분지",
+   "note": "강물이 모이는 지역을 뜻해요."
+  }
+ ]
+}

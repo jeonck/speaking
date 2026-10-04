@@ -1,0 +1,382 @@
+{
+ "video_id": "EnzPNWDlSeM",
+ "source_title": "\"Dark Galaxy\" Identified by Hubble",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 56.38,
+  "end": 81.51
+ },
+ "sentences": [
+  {
+   "text": "Researchers found a small increase in the density of these clusters, suggesting the existence of an underlying faint galaxy pulling them together.",
+   "chunks": [
+    {
+     "en": "Researchers found a small increase in the density of these clusters,",
+     "ko": "연구자들은 이 성단들의 밀도가 작게 증가한 것을 발견했고,"
+    },
+    {
+     "en": "suggesting the existence of an underlying faint galaxy",
+     "ko": "이는 그 아래에 희미한 은하가 존재함을 암시하며"
+    },
+    {
+     "en": "pulling them together.",
+     "ko": "그것들을 서로 끌어당기고 있다는 것을."
+    }
+   ],
+   "words": [
+    {
+     "w": "Researchers",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "increase",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "density",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clusters,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "suggesting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "existence",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "underlying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "faint",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "galaxy",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "pulling",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "increase, density, faint, galaxy에 강세를 주고, found a/increase in처럼 자음 뒤 모음은 이어서 발음하세요.",
+   "start": 56.38,
+   "end": 66.21
+  },
+  {
+   "text": "Using NASA’s Hubble Space Telescope, ESA’s Euclid observatory, and the Subaru Telescope in Hawaii, astronomers confirmed CDG-2’s faint halo of diffuse light surrounding four of these compact globular clusters.",
+   "chunks": [
+    {
+     "en": "Using NASA’s Hubble Space Telescope,",
+     "ko": "NASA의 허블 우주망원경을 이용해,"
+    },
+    {
+     "en": "ESA’s Euclid observatory,",
+     "ko": "ESA의 유클리드 관측소,"
+    },
+    {
+     "en": "and the Subaru Telescope in Hawaii,",
+     "ko": "그리고 하와이의 스바루 망원경을 이용해,"
+    },
+    {
+     "en": "astronomers confirmed CDG-2’s faint halo of diffuse light surrounding",
+     "ko": "천문학자들은 CDG-2 주위를 둘러싼 희미한 산광 헤일로를 확인했다"
+    },
+    {
+     "en": "four of these compact globular clusters.",
+     "ko": "이 조밀한 구상성단 네 개를."
+    }
+   ],
+   "words": [
+    {
+     "w": "Using",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NASA’s",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hubble",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Space",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Telescope,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ESA’s",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Euclid",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "observatory,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Subaru",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Telescope",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hawaii,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "astronomers",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "confirmed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "CDG-2’s",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "faint",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "halo",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "diffuse",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surrounding",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "four",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compact",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "globular",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clusters.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Hubble, Euclid, Subaru, halo 같은 고유명사·핵심어에 강세, four of처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 66.21,
+   "end": 81.51
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did researchers find in the density of the clusters?",
+   "options": [
+    "A small increase",
+    "A sharp decrease",
+    "No change at all"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 밀도가 작게 증가한 것을 발견했다고 언급."
+  },
+  {
+   "q": "What does the density increase suggest?",
+   "options": [
+    "An underlying faint galaxy pulling the clusters together",
+    "A nearby star exploding",
+    "A new planet forming"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 희미한 은하의 존재를 암시한다고 설명."
+  },
+  {
+   "q": "Which telescopes were used to confirm the faint halo?",
+   "options": [
+    "Hubble, Euclid, and the Subaru Telescope",
+    "Only the Hubble Space Telescope",
+    "A ground-based telescope in Chile"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 세 망원경 이름을 모두 언급."
+  },
+  {
+   "q": "What did astronomers confirm around CDG-2?",
+   "options": [
+    "A faint halo of diffuse light surrounding four globular clusters",
+    "A bright ring of new stars",
+    "A black hole at its center"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 희미한 산광 헤일로가 네 개의 구상성단을 둘러싸고 있음을 확인했다고 설명."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "globular cluster",
+   "ko": "구상성단",
+   "note": "둥글게 모여 있는 별들의 집단."
+  },
+  {
+   "term": "faint halo",
+   "ko": "희미한 헤일로",
+   "note": "천체 주위를 둘러싼 옅은 빛의 층."
+  },
+  {
+   "term": "diffuse light",
+   "ko": "산광, 퍼진 빛",
+   "note": "한 점이 아니라 넓게 퍼져 보이는 빛."
+  },
+  {
+   "term": "underlying",
+   "ko": "근본적인, 기저의",
+   "note": "겉으로 드러나지 않지만 원인이 되는 것을 표현."
+  }
+ ]
+}

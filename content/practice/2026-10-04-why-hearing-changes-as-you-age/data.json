@@ -1,0 +1,516 @@
+{
+ "video_id": "HOAMhuxJ6ZM",
+ "source_title": "What is Age-Related Hearing Loss?",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 26.0,
+  "end": 50.8
+ },
+ "sentences": [
+  {
+   "text": "Many things affect your hearing as you age.",
+   "chunks": [
+    {
+     "en": "Many things affect your hearing",
+     "ko": "많은 것들이 당신의 청력에 영향을 미친다"
+    },
+    {
+     "en": "as you age.",
+     "ko": "나이가 들면서 말이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Many",
+     "strong": true,
+     "link": false,
+     "syl": "MA"
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "affect",
+     "strong": true,
+     "link": false,
+     "syl": "FECT"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hearing",
+     "strong": true,
+     "link": false,
+     "syl": "HEAR"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "age.",
+     "strong": true,
+     "link": false,
+     "syl": "AGE"
+    }
+   ],
+   "tip": "affect는 두 번째 음절에 강세가 있다.",
+   "start": 26.0,
+   "end": 29.157333333333334
+  },
+  {
+   "text": "These could include changes inside your ear or in the nerve pathways from your ear to your brain.",
+   "chunks": [
+    {
+     "en": "These could include changes inside your ear",
+     "ko": "이것에는 귀 안의 변화가 포함될 수 있고"
+    },
+    {
+     "en": "or in the nerve pathways from your ear to your brain.",
+     "ko": "또는 귀에서 뇌로 가는 신경 경로의 변화도 포함된다."
+    }
+   ],
+   "words": [
+    {
+     "w": "These",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "include",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes",
+     "strong": true,
+     "link": false,
+     "syl": "CHANG"
+    },
+    {
+     "w": "inside",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ear",
+     "strong": true,
+     "link": true,
+     "syl": "EAR"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nerve",
+     "strong": true,
+     "link": false,
+     "syl": "NERVE"
+    },
+    {
+     "w": "pathways",
+     "strong": true,
+     "link": false,
+     "syl": "PATH"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ear",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain.",
+     "strong": true,
+     "link": false,
+     "syl": "BRAIN"
+    }
+   ],
+   "tip": "could include는 d 뒤 모음이 와서 이어 발음된다.",
+   "start": 29.157333333333334,
+   "end": 36.216470588235296
+  },
+  {
+   "text": "Exposure to noise.",
+   "chunks": [
+    {
+     "en": "Exposure to noise.",
+     "ko": "소음 노출도 영향을 미친다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Exposure",
+     "strong": true,
+     "link": false,
+     "syl": "PO"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "noise.",
+     "strong": true,
+     "link": false,
+     "syl": "NOISE"
+    }
+   ],
+   "tip": "noise에 강세를 분명히 준다.",
+   "start": 36.216470588235296,
+   "end": 37.38823529411765
+  },
+  {
+   "text": "Some medical conditions that are more common in older people, such as high blood pressure or diabetes.",
+   "chunks": [
+    {
+     "en": "Some medical conditions that are more common in older people,",
+     "ko": "나이든 사람들에게 더 흔한 몇몇 질환들도 있는데,"
+    },
+    {
+     "en": "such as high blood pressure or diabetes.",
+     "ko": "고혈압이나 당뇨병 같은 것들이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "medical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "conditions",
+     "strong": true,
+     "link": false,
+     "syl": "DI"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "common",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "older",
+     "strong": true,
+     "link": false,
+     "syl": "OLD"
+    },
+    {
+     "w": "people,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "such",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "blood",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pressure",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "diabetes.",
+     "strong": true,
+     "link": false,
+     "syl": "BE"
+    }
+   ],
+   "tip": "such as는 이어서 발음된다.",
+   "start": 37.38823529411765,
+   "end": 43.39
+  },
+  {
+   "text": "Some types of medications.",
+   "chunks": [
+    {
+     "en": "Some types of medications.",
+     "ko": "몇몇 종류의 약물도 영향을 미친다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "types",
+     "strong": true,
+     "link": true,
+     "syl": "TYPES"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "medications.",
+     "strong": true,
+     "link": false,
+     "syl": "CA"
+    }
+   ],
+   "tip": "types of는 이어서 발음된다.",
+   "start": 43.39,
+   "end": 44.92
+  },
+  {
+   "text": "And genetic factors that can increase your risk for hearing loss as you age.",
+   "chunks": [
+    {
+     "en": "And genetic factors that can increase your risk",
+     "ko": "그리고 위험을 높일 수 있는 유전적 요인들도 있다"
+    },
+    {
+     "en": "for hearing loss as you age.",
+     "ko": "나이가 들면서 청력 손실에 대한 위험을 말이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "genetic",
+     "strong": true,
+     "link": false,
+     "syl": "NET"
+    },
+    {
+     "w": "factors",
+     "strong": true,
+     "link": false,
+     "syl": "FAC"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "increase",
+     "strong": true,
+     "link": false,
+     "syl": "CREASE"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "risk",
+     "strong": true,
+     "link": false,
+     "syl": "RISK"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hearing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "loss",
+     "strong": true,
+     "link": false,
+     "syl": "LOSS"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "age.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "can increase는 이어서 자연스럽게 발음된다.",
+   "start": 44.92,
+   "end": 50.8
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the segment, what can affect hearing besides changes inside the ear?",
+   "options": [
+    "Nerve pathways from the ear to the brain",
+    "Only diet",
+    "Only exercise habits"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 귀에서 뇌로 가는 신경 경로를 언급한다."
+  },
+  {
+   "q": "Which of these is listed as a risk factor for hearing loss?",
+   "options": [
+    "Exposure to noise",
+    "Drinking enough water",
+    "Wearing glasses"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 소음 노출을 언급한다."
+  },
+  {
+   "q": "Which medical conditions are mentioned as more common in older people?",
+   "options": [
+    "High blood pressure or diabetes",
+    "Broken bones",
+    "Common cold"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 고혈압이나 당뇨병을 언급한다."
+  },
+  {
+   "q": "Besides medical conditions, what other factor is mentioned that can increase hearing-loss risk?",
+   "options": [
+    "Genetic factors",
+    "Diet alone",
+    "Weather"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 유전적 요인을 언급한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "nerve pathways",
+   "ko": "신경 경로",
+   "note": "귀에서 뇌로 신호를 전달하는 신경의 경로를 뜻한다."
+  },
+  {
+   "term": "exposure to noise",
+   "ko": "소음 노출",
+   "note": "큰 소리에 지속적으로 노출되는 것을 뜻한다."
+  },
+  {
+   "term": "high blood pressure",
+   "ko": "고혈압",
+   "note": "혈압이 정상보다 높은 상태를 뜻한다."
+  },
+  {
+   "term": "genetic factors",
+   "ko": "유전적 요인",
+   "note": "부모로부터 물려받는 신체적 특성이나 위험 요소를 뜻한다."
+  }
+ ]
+}

@@ -1,0 +1,411 @@
+{
+ "video_id": "-tFs2-7OVD0",
+ "source_title": "Ancient Galaxy Amazes Scientists",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 13.52,
+  "end": 41.4
+ },
+ "sentences": [
+  {
+   "text": "The galaxy, called MXDFz4.4, appears during a critical period known as the Era of Reionization, when the universe transformed from a dense cosmic fog into the clear cosmos we see today.",
+   "chunks": [
+    {
+     "en": "The galaxy, called MXDFz4.4,",
+     "ko": "그 갤럭시는, MXDFz4.4라고 불리는데,"
+    },
+    {
+     "en": "appears during a critical period known as the Era of Reionization,",
+     "ko": "재이온화 시대라고 알려진 중요한 시기 동안 나타난다,"
+    },
+    {
+     "en": "when the universe transformed from a dense cosmic fog",
+     "ko": "그때 우주는 짙은 우주 안개로부터 변화했다"
+    },
+    {
+     "en": "into the clear cosmos we see today.",
+     "ko": "오늘날 우리가 보는 맑은 우주로."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "galaxy,",
+     "strong": true,
+     "link": false,
+     "syl": "GAL"
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "MXDFz4.4,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "appears",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "during",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "critical",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "period",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "known",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Era",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Reionization,",
+     "strong": true,
+     "link": false,
+     "syl": "ZA"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "universe",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transformed",
+     "strong": true,
+     "link": false,
+     "syl": "FORMED"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dense",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cosmic",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fog",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clear",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cosmos",
+     "strong": true,
+     "link": false,
+     "syl": "COS"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "today.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "known as처럼 자음+모음이 만나면 이어서 부드럽게 발음해요.",
+   "start": 13.52,
+   "end": 29.44
+  },
+  {
+   "text": "Hubble revealed tightly packed clusters of young, massive stars blasting energetic radiation into space, carving holes through thick clouds of hydrogen gas.",
+   "chunks": [
+    {
+     "en": "Hubble revealed tightly packed clusters",
+     "ko": "허블은 촘촘히 뭉친 성단들을 발견했다"
+    },
+    {
+     "en": "of young, massive stars blasting energetic radiation into space,",
+     "ko": "에너지 넘치는 방사선을 우주로 쏘아내는 어리고 거대한 별들의,"
+    },
+    {
+     "en": "carving holes through thick clouds of hydrogen gas.",
+     "ko": "수소 가스의 두꺼운 구름을 뚫어 구멍을 내면서."
+    }
+   ],
+   "words": [
+    {
+     "w": "Hubble",
+     "strong": true,
+     "link": false,
+     "syl": "HUB"
+    },
+    {
+     "w": "revealed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tightly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "packed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clusters",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "young,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "massive",
+     "strong": true,
+     "link": false,
+     "syl": "MAS"
+    },
+    {
+     "w": "stars",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "blasting",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "energetic",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "radiation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "space,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carving",
+     "strong": true,
+     "link": false,
+     "syl": "CARV"
+    },
+    {
+     "w": "holes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thick",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clouds",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hydrogen",
+     "strong": true,
+     "link": false,
+     "syl": "HY"
+    },
+    {
+     "w": "gas.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "clouds of처럼 끝자음이 다음 모음으로 넘어가며 이어져요.",
+   "start": 29.44,
+   "end": 41.4
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does MXDFz4.4 refer to?",
+   "options": [
+    "A newly observed ancient galaxy",
+    "A telescope instrument",
+    "A type of cosmic fog"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 \"The galaxy, called MXDFz4.4\"라고 설명합니다."
+  },
+  {
+   "q": "During which period does the galaxy appear?",
+   "options": [
+    "The Era of Reionization",
+    "The age of dinosaurs",
+    "The formation of the solar system"
+   ],
+   "answer": 0,
+   "why": "\"appears during a critical period known as the Era of Reionization\"에서 확인됩니다."
+  },
+  {
+   "q": "What did the universe transform from and into?",
+   "options": [
+    "From a dense cosmic fog into a clear cosmos",
+    "From ice into fire",
+    "From gas giants into stars"
+   ],
+   "answer": 0,
+   "why": "\"the universe transformed from a dense cosmic fog into the clear cosmos\"에서 확인됩니다."
+  },
+  {
+   "q": "What did Hubble reveal?",
+   "options": [
+    "Tightly packed clusters of young, massive stars",
+    "A single old star",
+    "Empty space with no stars"
+   ],
+   "answer": 0,
+   "why": "\"Hubble revealed tightly packed clusters of young, massive stars\"에서 확인됩니다."
+  },
+  {
+   "q": "What were the young, massive stars doing?",
+   "options": [
+    "Blasting energetic radiation that carved holes through hydrogen gas clouds",
+    "Freezing the surrounding gas",
+    "Absorbing all light around them"
+   ],
+   "answer": 0,
+   "why": "\"blasting energetic radiation into space, carving holes through thick clouds of hydrogen gas\"에서 확인됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Era of Reionization",
+   "ko": "재이온화 시대",
+   "note": "우주 초기, 중성 수소가 다시 이온화된 시기를 가리키는 천문학 용어예요."
+  },
+  {
+   "term": "cosmic fog",
+   "ko": "우주적 안개",
+   "note": "초기 우주를 가득 채운 불투명한 가스 상태를 비유적으로 표현해요."
+  },
+  {
+   "term": "tightly packed clusters",
+   "ko": "촘촘히 뭉친 성단",
+   "note": "별들이 빽빽하게 모여 있는 무리를 뜻해요."
+  },
+  {
+   "term": "carving holes through",
+   "ko": "~을 뚫어 구멍을 내다",
+   "note": "carve는 원래 '조각하다'지만 여기선 뚫고 지나간다는 뜻이에요."
+  },
+  {
+   "term": "blasting energetic radiation",
+   "ko": "강력한 방사선을 쏘아내다",
+   "note": "blast는 강하게 뿜어내는 동작을 강조해요."
+  }
+ ]
+}

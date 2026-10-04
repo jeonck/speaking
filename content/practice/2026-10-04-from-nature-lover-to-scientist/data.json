@@ -1,0 +1,638 @@
+{
+ "video_id": "Hzki38j_QRQ",
+ "source_title": "Christine Fox - Women in Science",
+ "source_channel": "U.S. Fish & Wildlife Service",
+ "segment": {
+  "start": 17.36,
+  "end": 42.96
+ },
+ "sentences": [
+  {
+   "text": "I've always seen nature as like a refuge and a place of solitude and I wanted to share that with others.",
+   "chunks": [
+    {
+     "en": "I've always seen nature as like a refuge",
+     "ko": "나는 늘 자연을 안식처처럼 여겼고"
+    },
+    {
+     "en": "and a place of solitude",
+     "ko": "그리고 고독의 장소로,"
+    },
+    {
+     "en": "and I wanted to share that with others.",
+     "ko": "그리고 그것을 다른 사람들과 나누고 싶었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seen",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nature",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "refuge",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "solitude",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wanted",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "share",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "others.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "nature, refuge, solitude, share에 강세, place of처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 17.36,
+   "end": 22.76
+  },
+  {
+   "text": "As I got older, I wasn't sure if I was smart enough to go into science.",
+   "chunks": [
+    {
+     "en": "As I got older,",
+     "ko": "나이가 들면서,"
+    },
+    {
+     "en": "I wasn't sure if I was smart enough",
+     "ko": "내가 충분히 똑똑한지 확신이 없었다"
+    },
+    {
+     "en": "to go into science.",
+     "ko": "과학으로 나아갈 만큼."
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "older,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wasn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smart",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "enough",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "older, sure, smart, enough, science에 강세, smart enough/go into처럼 자음·모음은 이어서 발음.",
+   "start": 22.76,
+   "end": 27.44
+  },
+  {
+   "text": "So I kind of skimmed around the science track and pursued a path in education and outreach so that I could share my love of nature with the public.",
+   "chunks": [
+    {
+     "en": "So I kind of skimmed around the science track",
+     "ko": "그래서 나는 과학 트랙을 좀 대충 훑고 지나갔고"
+    },
+    {
+     "en": "and pursued a path in education and outreach",
+     "ko": "교육과 홍보 쪽으로 길을 쫓아갔다"
+    },
+    {
+     "en": "so that I could share my love of nature with the public.",
+     "ko": "그렇게 해서 자연에 대한 나의 사랑을 대중과 나눌 수 있도록."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "skimmed",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "track",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pursued",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "path",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "education",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "outreach",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "share",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nature",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "public.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "skimmed, track, pursued, education에 강세, kind of/love of처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 27.44,
+   "end": 36.04
+  },
+  {
+   "text": "And over time I realized I am smart enough to do science.",
+   "chunks": [
+    {
+     "en": "And over time I realized",
+     "ko": "그리고 시간이 지나면서 나는 깨달았다"
+    },
+    {
+     "en": "I am smart enough to do science.",
+     "ko": "내가 과학을 할 만큼 충분히 똑똑하다는 것을."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "realized",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "am",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smart",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "enough",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "realized, smart, enough, science에 강세, smart enough처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 36.04,
+   "end": 39.4
+  },
+  {
+   "text": "And so I went back to school and here I am.",
+   "chunks": [
+    {
+     "en": "And so I went back to school",
+     "ko": "그래서 나는 다시 학교로 돌아갔고"
+    },
+    {
+     "en": "and here I am.",
+     "ko": "그리고 지금 여기 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": true,
+     "link": false,
+     "syl": "WENT"
+    },
+    {
+     "w": "back",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "school",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "am.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "went, back, school, here에 강세, here I처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 39.4,
+   "end": 42.96
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the speaker always see nature?",
+   "options": [
+    "As a refuge and a place of solitude",
+    "As a dangerous place to avoid",
+    "As something only scientists study"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 자연을 안식처와 고독의 장소로 여겼다고 말함."
+  },
+  {
+   "q": "Why did the speaker doubt going into science when older?",
+   "options": [
+    "She wasn't sure she was smart enough",
+    "She disliked nature",
+    "She had no interest in school"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 똑똑한지 확신이 없었다고 언급."
+  },
+  {
+   "q": "What path did the speaker pursue instead of a direct science track?",
+   "options": [
+    "Education and outreach",
+    "Business and finance",
+    "Medicine"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 교육과 홍보 쪽 길을 쫓았다고 설명."
+  },
+  {
+   "q": "What did the speaker eventually realize over time?",
+   "options": [
+    "That she is smart enough to do science",
+    "That she should give up on science",
+    "That nature was not important to her"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 과학을 할 만큼 충분히 똑똑하다는 것을 깨달았다고 말함."
+  },
+  {
+   "q": "What did the speaker do after realizing this?",
+   "options": [
+    "Went back to school",
+    "Moved to another country",
+    "Started a new career in business"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 다시 학교로 돌아갔다고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "refuge",
+   "ko": "안식처, 피난처",
+   "note": "편안하고 안전하게 느끼는 장소를 가리킴."
+  },
+  {
+   "term": "solitude",
+   "ko": "고독",
+   "note": "혼자 있는 상태를 뜻하는 단어."
+  },
+  {
+   "term": "skimmed around",
+   "ko": "대충 훑고 지나가다",
+   "note": "깊이 들어가지 않고 주변만 가볍게 다루었다는 의미."
+  },
+  {
+   "term": "outreach",
+   "ko": "홍보, 지역사회 활동",
+   "note": "전문 지식을 대중에게 알리는 활동을 가리킴."
+  },
+  {
+   "term": "smart enough",
+   "ko": "충분히 똑똑한",
+   "note": "어떤 일을 해낼 만한 능력이 있다는 뜻."
+  }
+ ]
+}

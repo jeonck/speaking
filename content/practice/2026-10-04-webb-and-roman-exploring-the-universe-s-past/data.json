@@ -1,0 +1,451 @@
+{
+ "video_id": "45kYrhr_bQo",
+ "source_title": "Far and Wide Part 2: Surveying the Universe",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 41.41,
+  "end": 66.43
+ },
+ "sentences": [
+  {
+   "text": "We have very little information about the cosmos’ infancy, and Webb will help us fill in many of the gaps by making direct observations of galaxies as far into the past as physically possible.",
+   "chunks": [
+    {
+     "en": "We have very little information about the cosmos’ infancy,",
+     "ko": "우리는 우주의 유아기에 대한 정보가 거의 없다"
+    },
+    {
+     "en": "and Webb will help us fill in many of the gaps by making direct observations of galaxies",
+     "ko": "그리고 웹 망원경이 은하를 직접 관측해 그 공백의 많은 부분을 채워줄 것이다"
+    },
+    {
+     "en": "as far into the past as physically possible.",
+     "ko": "물리적으로 가능한 한 과거로 멀리 거슬러"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "information",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cosmos’",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "infancy,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Webb",
+     "strong": true,
+     "link": false,
+     "syl": "WEBB"
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fill",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gaps",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "direct",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "observations",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "galaxies",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "far",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "past",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "physically",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possible.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "little information, fill in, far into처럼 자음 뒤 모음은 이어 발음하세요.",
+   "start": 41.41,
+   "end": 53.95
+  },
+  {
+   "text": "Roman, on the other hand, will use the power of its wide sky coverage to survey massive regions of space, documenting significant portions of the universe through its adolescent and early adult years.",
+   "chunks": [
+    {
+     "en": "Roman, on the other hand, will use the power of its wide sky coverage to survey massive regions of space,",
+     "ko": "반면 로먼 망원경은 넓은 하늘 관측 범위를 활용해 거대한 우주 영역을 탐사할 것이다"
+    },
+    {
+     "en": "documenting significant portions of the universe through its adolescent and early adult years.",
+     "ko": "우주의 청소년기와 초기 성인기에 해당하는 중요한 부분들을 기록하면서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Roman,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hand,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "power",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wide",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sky",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coverage",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "survey",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "massive",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "regions",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "space,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "documenting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "significant",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "portions",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "universe",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "adolescent",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "early",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "adult",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "adolescent and처럼 자음 뒤 모음은 끊지 말고 이어 읽어요.",
+   "start": 53.95,
+   "end": 66.43
+  }
+ ],
+ "questions": [
+  {
+   "q": "What will the Webb telescope help scientists do?",
+   "options": [
+    "Observe galaxies far into the past",
+    "Measure ocean temperatures",
+    "Track weather patterns"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 웹이 과거의 은하를 직접 관측한다고 설명함."
+  },
+  {
+   "q": "What is the Roman telescope designed to do?",
+   "options": [
+    "Survey massive regions of space using wide sky coverage",
+    "Land on Mars",
+    "Study deep-sea creatures"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 넓은 하늘 관측 범위로 거대한 우주 영역을 탐사한다고 함."
+  },
+  {
+   "q": "What part of the universe's history will Roman document?",
+   "options": [
+    "Its adolescent and early adult years",
+    "Only its infancy",
+    "Only its final stage"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 마지막 부분에서 언급됨."
+  },
+  {
+   "q": "Why is Webb's work on the cosmos' infancy important?",
+   "options": [
+    "There is currently very little information about it",
+    "The infancy stage no longer exists",
+    "It is the brightest period in the universe"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 유아기에 대한 정보가 거의 없다고 말하며 웹이 이를 메울 것이라 함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fill in the gaps",
+   "ko": "공백을 채우다",
+   "note": "부족한 정보나 지식을 보완한다는 뜻이에요."
+  },
+  {
+   "term": "wide sky coverage",
+   "ko": "넓은 하늘 관측 범위",
+   "note": "망원경이 하늘의 넓은 영역을 살필 수 있다는 의미예요."
+  },
+  {
+   "term": "documenting",
+   "ko": "기록하는 것",
+   "note": "관찰한 내용을 체계적으로 남기는 것을 뜻해요."
+  },
+  {
+   "term": "on the other hand",
+   "ko": "반면에",
+   "note": "대조되는 내용을 소개할 때 쓰는 표현이에요."
+  }
+ ]
+}

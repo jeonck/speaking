@@ -1,0 +1,357 @@
+{
+ "video_id": "K_ceKs5Iu0U",
+ "source_title": "Coral Comeback?: The Acid Test",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 138.78,
+  "end": 161.4
+ },
+ "sentences": [
+  {
+   "text": "In many parts of the world, fish are a basic food source for people.",
+   "chunks": [
+    {
+     "en": "In many parts of the world,",
+     "ko": "세계의 많은 지역에서,"
+    },
+    {
+     "en": "fish are a basic food source",
+     "ko": "물고기는 기본적인 식량 공급원이다"
+    },
+    {
+     "en": "for people.",
+     "ko": "사람들을 위한."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parts",
+     "strong": true,
+     "link": false,
+     "syl": "PARTS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world,",
+     "strong": true,
+     "link": false,
+     "syl": "WORLD"
+    },
+    {
+     "w": "fish",
+     "strong": true,
+     "link": false,
+     "syl": "FISH"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basic",
+     "strong": true,
+     "link": false,
+     "syl": "BA"
+    },
+    {
+     "w": "food",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "source",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people.",
+     "strong": true,
+     "link": false,
+     "syl": "PEO"
+    }
+   ],
+   "tip": "parts of처럼 자음+모음은 이어서 발음하고, basic의 강세는 'ba'에 있어요.",
+   "start": 138.78,
+   "end": 145.64
+  },
+  {
+   "text": "The only way to stop acidification is to emit less carbon dioxide.",
+   "chunks": [
+    {
+     "en": "The only way to stop acidification",
+     "ko": "산성화를 막는 유일한 방법은"
+    },
+    {
+     "en": "is to emit less carbon dioxide.",
+     "ko": "이산화탄소를 덜 배출하는 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "WAY"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stop",
+     "strong": true,
+     "link": true,
+     "syl": "STOP"
+    },
+    {
+     "w": "acidification",
+     "strong": true,
+     "link": false,
+     "syl": "CA"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "emit",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "less",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carbon",
+     "strong": true,
+     "link": false,
+     "syl": "CAR"
+    },
+    {
+     "w": "dioxide.",
+     "strong": true,
+     "link": false,
+     "syl": "OX"
+    }
+   ],
+   "tip": "stop acidification처럼 자음 뒤에 모음이 오면 끊지 않고 이어서 발음해요.",
+   "start": 145.64,
+   "end": 152.6030769230769
+  },
+  {
+   "text": "But the ocean can better defend itself against rising acidity in temperature if its systems are healthy.",
+   "chunks": [
+    {
+     "en": "But the ocean can better defend itself",
+     "ko": "하지만 바다는 스스로를 더 잘 방어할 수 있다"
+    },
+    {
+     "en": "against rising acidity in temperature",
+     "ko": "상승하는 산성도와 온도에 맞서"
+    },
+    {
+     "en": "if its systems are healthy.",
+     "ko": "그 체계가 건강하다면."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ocean",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "defend",
+     "strong": true,
+     "link": true,
+     "syl": "FEND"
+    },
+    {
+     "w": "itself",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "against",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rising",
+     "strong": true,
+     "link": false,
+     "syl": "RI"
+    },
+    {
+     "w": "acidity",
+     "strong": true,
+     "link": false,
+     "syl": "CID"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "temperature",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "systems",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "healthy.",
+     "strong": true,
+     "link": false,
+     "syl": "HEAL"
+    }
+   ],
+   "tip": "defend itself처럼 d 뒤에 모음이 오면 이어서 발음하고, healthy의 강세는 'heal'에 있어요.",
+   "start": 152.6030769230769,
+   "end": 161.4
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why are fish important to many people around the world?",
+   "options": [
+    "They are a basic food source",
+    "They are used only for tourism",
+    "They are kept only as pets"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 물고기가 사람들에게 기본적인 식량 공급원이라고 설명합니다."
+  },
+  {
+   "q": "According to the segment, what is the only way to stop ocean acidification?",
+   "options": [
+    "Emitting less carbon dioxide",
+    "Adding more fish to the ocean",
+    "Raising the water temperature"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 산성화를 막는 유일한 방법이 이산화탄소를 덜 배출하는 것이라고 말합니다."
+  },
+  {
+   "q": "What helps the ocean better resist rising acidity and temperature?",
+   "options": [
+    "Having healthy ocean systems",
+    "Having fewer fish",
+    "Having warmer water"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 체계가 건강하면 바다가 더 잘 방어할 수 있다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "acidification",
+   "ko": "산성화",
+   "note": "바닷물이 이산화탄소를 흡수해 산성을 띠게 되는 현상"
+  },
+  {
+   "term": "carbon dioxide",
+   "ko": "이산화탄소",
+   "note": "줄여서 CO2라고도 함"
+  },
+  {
+   "term": "defend itself against",
+   "ko": "~에 맞서 스스로를 방어하다",
+   "note": "against 뒤에는 위협이나 공격 대상이 옴"
+  },
+  {
+   "term": "rising acidity",
+   "ko": "상승하는 산성도",
+   "note": "rising은 '점점 증가하는'이라는 뜻의 형용사로도 자주 쓰임"
+  }
+ ]
+}

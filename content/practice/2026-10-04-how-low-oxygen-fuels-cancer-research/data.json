@@ -1,0 +1,510 @@
+{
+ "video_id": "H7W4tLfZAaI",
+ "source_title": "NIH SciBites: When Cancer Runs Out of Breath",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 77.85,
+  "end": 104.98
+ },
+ "sentences": [
+  {
+   "text": "For example, we can stain cells from these mice with special colored chemicals that reveal the types of proteins the cells are producing.",
+   "chunks": [
+    {
+     "en": "For example, we can stain cells from these mice",
+     "ko": "예를 들어, 우리는 이 쥐들의 세포를 염색할 수 있는데"
+    },
+    {
+     "en": "with special colored chemicals",
+     "ko": "특수한 색깔의 화학 물질로"
+    },
+    {
+     "en": "that reveal the types of proteins",
+     "ko": "그것이 단백질의 종류를 드러내 준다"
+    },
+    {
+     "en": "the cells are producing.",
+     "ko": "세포가 생성하고 있는."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "example,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stain",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "cells",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mice",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "special",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colored",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chemicals",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reveal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "types",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "proteins",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cells",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "producing.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "stain, chemicals, proteins 같은 명사에 강세, cells are처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 77.85,
+   "end": 87.03
+  },
+  {
+   "text": "Learning more about pheochromocytomas can shed light on how low oxygen levels and certain mutations contribute to many different types of cancer, which might help us create new treatments for them.",
+   "chunks": [
+    {
+     "en": "Learning more about pheochromocytomas",
+     "ko": "크롬친화세포종에 대해 더 알아보는 것은"
+    },
+    {
+     "en": "can shed light on how low oxygen levels and certain mutations",
+     "ko": "낮은 산소 수치와 특정 돌연변이가 어떻게"
+    },
+    {
+     "en": "contribute to many different types of cancer,",
+     "ko": "다양한 종류의 암에 영향을 미치는지 밝혀줄 수 있고,"
+    },
+    {
+     "en": "which might help us create new treatments for them.",
+     "ko": "이는 우리가 새로운 치료법을 만드는 데 도움이 될 수 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Learning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pheochromocytomas",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "low",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "oxygen",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "levels",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "certain",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mutations",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "contribute",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "types",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "might",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "create",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "treatments",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "pheochromocytomas, oxygen, mutations, cancer, treatments에 강세, low oxygen/help us처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 87.03,
+   "end": 100.58
+  },
+  {
+   "text": "I hope that this approach will be a breath of fresh air in the field of cancer research.",
+   "chunks": [
+    {
+     "en": "I hope that this approach",
+     "ko": "나는 이 접근법이"
+    },
+    {
+     "en": "will be a breath of fresh air",
+     "ko": "신선한 공기 같은 역할을 하기를 바란다"
+    },
+    {
+     "en": "in the field of cancer research.",
+     "ko": "암 연구 분야에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hope",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "approach",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "breath",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fresh",
+     "strong": true,
+     "link": true,
+     "syl": "FRESH"
+    },
+    {
+     "w": "air",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "field",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "research.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "hope, approach, breath, fresh, research에 강세, breath of/fresh air처럼 자음 뒤 모음은 이어서 발음.",
+   "start": 100.58,
+   "end": 104.98
+  }
+ ],
+ "questions": [
+  {
+   "q": "How do researchers find out what proteins cells are producing?",
+   "options": [
+    "By staining cells with special colored chemicals",
+    "By measuring the mouse's body temperature",
+    "By taking an X-ray of the mouse"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 특수 색깔 화학물질로 세포를 염색한다고 설명."
+  },
+  {
+   "q": "What might studying pheochromocytomas help explain?",
+   "options": [
+    "How low oxygen and mutations contribute to many cancers",
+    "How to cure the common cold",
+    "How bones heal after a fracture"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 저산소와 돌연변이가 암에 미치는 영향을 설명한다고 언급."
+  },
+  {
+   "q": "What does the speaker hope this approach will be for cancer research?",
+   "options": [
+    "A breath of fresh air",
+    "A complete failure",
+    "A minor distraction"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 이 접근이 신선한 공기 같기를 바란다고 말함."
+  },
+  {
+   "q": "What could learning about pheochromocytomas eventually lead to?",
+   "options": [
+    "New treatments for cancer",
+    "A new vaccine for the flu",
+    "A new type of surgery robot"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 새로운 치료법을 만드는 데 도움이 될 수 있다고 언급."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "stain cells",
+   "ko": "세포를 염색하다",
+   "note": "현미경으로 보기 쉽게 색을 입히는 실험 기법."
+  },
+  {
+   "term": "shed light on",
+   "ko": "~을 밝혀주다",
+   "note": "잘 몰랐던 것을 이해하게 해준다는 뜻의 관용구."
+  },
+  {
+   "term": "contribute to",
+   "ko": "~에 영향을 미치다",
+   "note": "원인의 일부가 된다는 의미."
+  },
+  {
+   "term": "breath of fresh air",
+   "ko": "신선한 변화, 새로운 활력",
+   "note": "지루하거나 답답한 상황에 활기를 주는 것을 비유."
+  }
+ ]
+}

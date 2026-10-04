@@ -1,0 +1,524 @@
+{
+ "video_id": "7suVdgfMjww",
+ "source_title": "Cool Careers: She's a Hurricane Scientist (1-Minute Watch)",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 5.12,
+  "end": 35.28
+ },
+ "sentences": [
+  {
+   "text": "The most fascinating thing about hurricanes, to me, is how the atmosphere and ocean work together to form these massive storms that can cause such great destruction.",
+   "chunks": [
+    {
+     "en": "The most fascinating thing about hurricanes, to me,",
+     "ko": "내게 허리케인에서 가장 흥미로운 점은"
+    },
+    {
+     "en": "is how the atmosphere and ocean work together",
+     "ko": "대기와 바다가 함께 작용해서"
+    },
+    {
+     "en": "to form these massive storms",
+     "ko": "이런 거대한 폭풍을 만들어낸다는 거야"
+    },
+    {
+     "en": "that can cause such great destruction.",
+     "ko": "그렇게 큰 피해를 일으킬 수 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fascinating",
+     "strong": true,
+     "link": false,
+     "syl": "nat"
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hurricanes,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "atmosphere",
+     "strong": true,
+     "link": true,
+     "syl": "at"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ocean",
+     "strong": true,
+     "link": false,
+     "syl": "o"
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "form",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "massive",
+     "strong": true,
+     "link": false,
+     "syl": "mas"
+    },
+    {
+     "w": "storms",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cause",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "such",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "destruction.",
+     "strong": true,
+     "link": false,
+     "syl": "struc"
+    }
+   ],
+   "tip": "thing about, atmosphere and처럼 끝소리가 다음 모음과 이어져서 부드럽게 들려요.",
+   "start": 5.12,
+   "end": 18.16
+  },
+  {
+   "text": "What got me interested in hurricanes was 1999 hurricane Floyd, powerful enough to actually knock a tree down, which actually fell on top of my room.",
+   "chunks": [
+    {
+     "en": "What got me interested in hurricanes",
+     "ko": "내가 허리케인에 관심을 갖게 된 건"
+    },
+    {
+     "en": "was 1999 hurricane Floyd, powerful enough",
+     "ko": "1999년 허리케인 플로이드 때문이었는데, 충분히 강력해서"
+    },
+    {
+     "en": "to actually knock a tree down,",
+     "ko": "실제로 나무를 쓰러뜨릴 정도였고"
+    },
+    {
+     "en": "which actually fell on top of my room.",
+     "ko": "그 나무가 실제로 내 방 위로 떨어졌어"
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "interested",
+     "strong": true,
+     "link": true,
+     "syl": "ter"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hurricanes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1999",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hurricane",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Floyd,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "powerful",
+     "strong": true,
+     "link": true,
+     "syl": "pow"
+    },
+    {
+     "w": "enough",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "knock",
+     "strong": true,
+     "link": true,
+     "syl": "knock"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tree",
+     "strong": true,
+     "link": false,
+     "syl": "tree"
+    },
+    {
+     "w": "down,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fell",
+     "strong": true,
+     "link": true,
+     "syl": "fell"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "top",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "interested in, knock a처럼 자음과 모음이 이어져서 리듬감 있게 들려요.",
+   "start": 18.16,
+   "end": 28.515555555555558
+  },
+  {
+   "text": "As a hurricane scientist, I get to be involved in hurricane observing systems that go straight into these hurricanes.",
+   "chunks": [
+    {
+     "en": "As a hurricane scientist,",
+     "ko": "허리케인 과학자로서"
+    },
+    {
+     "en": "I get to be involved in hurricane observing systems",
+     "ko": "나는 허리케인 관측 시스템에 참여할 수 있어"
+    },
+    {
+     "en": "that go straight into these hurricanes.",
+     "ko": "그 시스템들은 이 허리케인들 속으로 바로 들어가"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hurricane",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scientist,",
+     "strong": true,
+     "link": false,
+     "syl": "sci"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "involved",
+     "strong": true,
+     "link": true,
+     "syl": "volv"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hurricane",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "observing",
+     "strong": true,
+     "link": false,
+     "syl": "serv"
+    },
+    {
+     "w": "systems",
+     "strong": true,
+     "link": false,
+     "syl": "sys"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "straight",
+     "strong": true,
+     "link": true,
+     "syl": "straight"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hurricanes.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "get to, straight into처럼 같은 자음이나 자음+모음이 이어져서 매끄럽게 들려요.",
+   "start": 28.515555555555558,
+   "end": 35.28
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the speaker, what is most fascinating about hurricanes?",
+   "options": [
+    "How the atmosphere and ocean work together to form massive storms",
+    "How quickly hurricanes form overnight",
+    "How hurricanes get their names"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 대기와 바다가 함께 작용해 거대한 폭풍을 만든다는 점이 가장 흥미롭다고 해요."
+  },
+  {
+   "q": "What first got the speaker interested in hurricanes?",
+   "options": [
+    "A powerful hurricane that knocked down a tree near their home",
+    "A science class assignment",
+    "A documentary about hurricanes"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 1999년 허리케인 플로이드가 나무를 쓰러뜨린 일이 관심의 시작이었다고 해요."
+  },
+  {
+   "q": "What does the speaker get to do as a hurricane scientist?",
+   "options": [
+    "Be involved in hurricane observing systems that go into hurricanes",
+    "Design hurricane-proof buildings",
+    "Forecast daily weather on television"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 허리케인 속으로 바로 들어가는 관측 시스템에 참여한다고 말해요."
+  },
+  {
+   "q": "What can the massive storms described in the segment cause?",
+   "options": [
+    "Such great destruction",
+    "Mild rainfall only",
+    "No damage at all"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 그런 폭풍이 큰 피해를 일으킬 수 있다고 설명해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "destruction",
+   "ko": "파괴, 피해",
+   "note": "폭풍 등이 일으키는 큰 손상을 가리켜요."
+  },
+  {
+   "term": "observing systems",
+   "ko": "관측 시스템",
+   "note": "허리케인 내부로 들어가 자료를 수집하는 장비나 체계예요."
+  },
+  {
+   "term": "knock down",
+   "ko": "쓰러뜨리다",
+   "note": "강한 힘으로 무언가를 넘어뜨린다는 뜻이에요."
+  },
+  {
+   "term": "powerful enough to",
+   "ko": "~할 만큼 충분히 강력한",
+   "note": "뒤에 동사가 와서 결과를 설명해요."
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "video_id": "Pb36NsERXrU",
+ "source_title": "Coral Comeback?: Corals Under Threat",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 109.02,
+  "end": 134.02
+ },
+ "sentences": [
+  {
+   "text": "One of the wonders of the natural world.",
+   "chunks": [
+    {
+     "en": "One of the wonders",
+     "ko": "경이로운 것들 중 하나"
+    },
+    {
+     "en": "of the natural world.",
+     "ko": "자연계의."
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wonders",
+     "strong": true,
+     "link": false,
+     "syl": "WON"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "natural",
+     "strong": true,
+     "link": false,
+     "syl": "NAT"
+    },
+    {
+     "w": "world.",
+     "strong": true,
+     "link": false,
+     "syl": "WORLD"
+    }
+   ],
+   "tip": "wonders와 natural, world에 강세를 주고 나머지는 약하게 흘려 발음해요.",
+   "start": 109.02,
+   "end": 112.675
+  },
+  {
+   "text": "But in 2016, most of the Great Barrier Reef's corals bleached and almost 25% died from an astonishingly long period of intensely high water temperatures driven by global warming.",
+   "chunks": [
+    {
+     "en": "But in 2016, most of the Great Barrier Reef's corals bleached",
+     "ko": "하지만 2016년에, 그레이트 배리어 리프 산호 대부분이 백화되었고"
+    },
+    {
+     "en": "and almost 25% died",
+     "ko": "거의 25%가 죽었다"
+    },
+    {
+     "en": "from an astonishingly long period",
+     "ko": "놀랍도록 긴 기간으로 인해"
+    },
+    {
+     "en": "of intensely high water temperatures",
+     "ko": "극심하게 높은 수온이라는"
+    },
+    {
+     "en": "driven by global warming.",
+     "ko": "지구 온난화로 인해 발생한."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2016,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Great",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Barrier",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Reef's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "corals",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bleached",
+     "strong": true,
+     "link": false,
+     "syl": "BLEACHED"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almost",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "25%",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "died",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "astonishingly",
+     "strong": true,
+     "link": false,
+     "syl": "TON"
+    },
+    {
+     "w": "long",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "period",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "intensely",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "temperatures",
+     "strong": true,
+     "link": false,
+     "syl": "TEM"
+    },
+    {
+     "w": "driven",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "global",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "warming.",
+     "strong": true,
+     "link": false,
+     "syl": "WARM"
+    }
+   ],
+   "tip": "from an처럼 자음 뒤에 모음이 오면 이어서 발음하고, astonishingly의 강세는 'ton'에 있어요.",
+   "start": 112.675,
+   "end": 134.02
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happened to the Great Barrier Reef's corals in 2016?",
+   "options": [
+    "Most bleached and almost 25% died",
+    "They grew faster than usual",
+    "Nothing changed"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 2016년에 산호 대부분이 백화되고 거의 25%가 죽었다고 설명합니다."
+  },
+  {
+   "q": "What caused the long period of high water temperatures?",
+   "options": [
+    "Global warming",
+    "A volcanic eruption",
+    "Overfishing"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 마지막에서 '지구 온난화로 인해 발생한'이라고 명시합니다."
+  },
+  {
+   "q": "How is the Great Barrier Reef described at the start of the segment?",
+   "options": [
+    "One of the wonders of the natural world",
+    "A man-made structure",
+    "A small local pond"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 '자연이 만든 경이로운 것들 중 하나'라고 소개합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "bleached",
+   "ko": "백화되다(산호가 색을 잃다)",
+   "note": "산호가 스트레스를 받아 색소를 잃는 현상을 가리킴"
+  },
+  {
+   "term": "Great Barrier Reef",
+   "ko": "그레이트 배리어 리프(대보초)",
+   "note": "호주 북동부에 있는 세계 최대 산호초"
+  },
+  {
+   "term": "astonishingly",
+   "ko": "놀랍도록",
+   "note": "정도를 강조하는 부사로 긴 기간을 수식함"
+  },
+  {
+   "term": "driven by",
+   "ko": "~에 의해 유발된",
+   "note": "원인을 나타낼 때 쓰는 표현"
+  }
+ ]
+}

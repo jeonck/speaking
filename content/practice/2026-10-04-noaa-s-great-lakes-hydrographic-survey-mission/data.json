@@ -1,0 +1,503 @@
+{
+ "video_id": "4X9Qa7nTeOA",
+ "source_title": "Great Lakes Hydrographic Survey Cruise Missions",
+ "source_channel": "NOAA National Ocean Service",
+ "segment": {
+  "start": 14.06,
+  "end": 40.11
+ },
+ "sentences": [
+  {
+   "text": "Although NOAA has a significant presence in the Great Lakes, this was the first time a NOAA hydrographic ship was deployed to the region since the early 1990s.",
+   "chunks": [
+    {
+     "en": "Although NOAA has a significant presence in the Great Lakes,",
+     "ko": "NOAA가 오대호에 상당한 입지를 가지고 있지만"
+    },
+    {
+     "en": "this was the first time a NOAA hydrographic ship was deployed to the region",
+     "ko": "이번이 NOAA의 수로 측량선이 이 지역에 처음으로 파견된 것이었다"
+    },
+    {
+     "en": "since the early 1990s.",
+     "ko": "1990년대 초 이후로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Although",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NOAA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "significant",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "presence",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Great",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lakes,",
+     "strong": true,
+     "link": false,
+     "syl": "LAKES,"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NOAA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hydrographic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "ship",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deployed",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "region",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "early",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1990s.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "has a, time a처럼 자음 뒤 모음은 이어 발음하세요.",
+   "start": 14.06,
+   "end": 22.47
+  },
+  {
+   "text": "Modern data is critically important to identify hazards and protect economically important and ecologically sensitive regions, such as the Great Lakes.",
+   "chunks": [
+    {
+     "en": "Modern data is critically important to identify hazards",
+     "ko": "최신 데이터는 위험 요소를 파악하는 데 매우 중요하다"
+    },
+    {
+     "en": "and protect economically important and ecologically sensitive regions,",
+     "ko": "그리고 경제적으로 중요하고 생태적으로 민감한 지역을 보호하는 데에도 중요하다"
+    },
+    {
+     "en": "such as the Great Lakes.",
+     "ko": "오대호와 같은"
+    }
+   ],
+   "words": [
+    {
+     "w": "Modern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "data",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "critically",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "identify",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "hazards",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protect",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "economically",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "important",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ecologically",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "sensitive",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "regions,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "such",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Great",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lakes.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "economically와 ecologically는 비슷한 리듬으로 대조되는 강세예요.",
+   "start": 22.47,
+   "end": 30.9
+  },
+  {
+   "text": "These missions successfully provided modern data to the scientific and benthic mapping communities, as well as contributed to updating marine navigation products and services.",
+   "chunks": [
+    {
+     "en": "These missions successfully provided modern data to the scientific and benthic mapping communities,",
+     "ko": "이 임무들은 과학 및 저질(해저) 매핑 커뮤니티에 최신 데이터를 성공적으로 제공했다"
+    },
+    {
+     "en": "as well as contributed to updating marine navigation products and services.",
+     "ko": "뿐만 아니라 해양 항해 제품 및 서비스 갱신에도 기여했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "These",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "missions",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "successfully",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "provided",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "modern",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "data",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scientific",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "benthic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "mapping",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "communities,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "contributed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "updating",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "marine",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "navigation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "products",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "services.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "benthic mapping은 해저 지형을 조사하는 분야를 뜻해요.",
+   "start": 30.9,
+   "end": 40.11
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why was this NOAA mission notable?",
+   "options": [
+    "It was the first hydrographic ship deployment to the Great Lakes since the early 1990s",
+    "It was NOAA's very first mission ever",
+    "It focused on ocean currents in the Pacific"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 1990년대 초 이후 처음이라고 설명함."
+  },
+  {
+   "q": "What is modern data important for, according to the segment?",
+   "options": [
+    "Identifying hazards and protecting important regions",
+    "Predicting stock prices",
+    "Building new highways"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 위험 요소 파악과 지역 보호에 중요하다고 함."
+  },
+  {
+   "q": "Who did the missions provide data to?",
+   "options": [
+    "Scientific and benthic mapping communities",
+    "Only local fishermen",
+    "Airline companies"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 과학 및 저질 매핑 커뮤니티라고 언급됨."
+  },
+  {
+   "q": "What else did the missions contribute to?",
+   "options": [
+    "Updating marine navigation products and services",
+    "Building new ships",
+    "Training new pilots"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장 마지막 부분에서 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "hydrographic ship",
+   "ko": "수로 측량선",
+   "note": "바다나 호수의 수심과 지형을 측량하는 배를 뜻해요."
+  },
+  {
+   "term": "ecologically sensitive",
+   "ko": "생태적으로 민감한",
+   "note": "환경 변화에 취약한 지역을 설명할 때 써요."
+  },
+  {
+   "term": "benthic mapping",
+   "ko": "저질(해저) 매핑",
+   "note": "해저 바닥 지형을 조사하는 작업을 뜻해요."
+  },
+  {
+   "term": "marine navigation",
+   "ko": "해상 항해",
+   "note": "배가 안전하게 길을 찾도록 돕는 시스템을 말해요."
+  }
+ ]
+}

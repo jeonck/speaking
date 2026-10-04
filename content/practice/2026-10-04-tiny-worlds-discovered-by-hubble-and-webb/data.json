@@ -1,0 +1,396 @@
+{
+ "video_id": "KDQYSUR0F1o",
+ "source_title": "Tiny Worlds Discovered by Hubble and Webb",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 55.39,
+  "end": 80.28
+ },
+ "sentences": [
+  {
+   "text": "To study them, astronomers combined Hubble’s observations in visible light with Webb’s observations in infrared, providing a more complete picture of their sizes, orbits, and surface compositions.",
+   "chunks": [
+    {
+     "en": "To study them,",
+     "ko": "그것들을 연구하기 위해,"
+    },
+    {
+     "en": "astronomers combined Hubble’s observations in visible light",
+     "ko": "천문학자들은 허블의 가시광선 관측을 결합했다"
+    },
+    {
+     "en": "with Webb’s observations in infrared,",
+     "ko": "웹의 적외선 관측과"
+    },
+    {
+     "en": "providing a more complete picture",
+     "ko": "더 완전한 그림을 제공하며"
+    },
+    {
+     "en": "of their sizes, orbits, and surface compositions.",
+     "ko": "그것들의 크기, 궤도, 표면 구성에 대한."
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "astronomers",
+     "strong": true,
+     "link": false,
+     "syl": "STRON"
+    },
+    {
+     "w": "combined",
+     "strong": true,
+     "link": false,
+     "syl": "BINED"
+    },
+    {
+     "w": "Hubble’s",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "observations",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visible",
+     "strong": true,
+     "link": false,
+     "syl": "VIS"
+    },
+    {
+     "w": "light",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Webb’s",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "observations",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "infrared,",
+     "strong": true,
+     "link": false,
+     "syl": "RED"
+    },
+    {
+     "w": "providing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "complete",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "picture",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sizes,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "orbits,",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surface",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compositions.",
+     "strong": true,
+     "link": false,
+     "syl": "SI"
+    }
+   ],
+   "tip": "astronomers는 '-tron-'에, infrared는 'red'에 강세가 있고, in infrared처럼 자음+모음은 이어서 발음해요.",
+   "start": 55.39,
+   "end": 67.93
+  },
+  {
+   "text": "With 27 previously unknown objects discovered, including some of the smallest directly observed, the survey became the deepest search for Trans-Neptunian Objects ever conducted.",
+   "chunks": [
+    {
+     "en": "With 27 previously unknown objects discovered,",
+     "ko": "이전에 알려지지 않은 27개의 천체가 발견되면서,"
+    },
+    {
+     "en": "including some of the smallest directly observed,",
+     "ko": "직접 관측된 것 중 가장 작은 것들도 포함되어,"
+    },
+    {
+     "en": "the survey became the deepest search",
+     "ko": "이 조사는 가장 깊은 탐사가 되었다"
+    },
+    {
+     "en": "for Trans-Neptunian Objects ever conducted.",
+     "ko": "지금까지 수행된 해왕성 바깥 천체 탐사 중에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "With",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "27",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "previously",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unknown",
+     "strong": true,
+     "link": false,
+     "syl": "KNOWN"
+    },
+    {
+     "w": "objects",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "discovered,",
+     "strong": true,
+     "link": false,
+     "syl": "COV"
+    },
+    {
+     "w": "including",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smallest",
+     "strong": true,
+     "link": false,
+     "syl": "SMALL"
+    },
+    {
+     "w": "directly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "observed,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "survey",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "became",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deepest",
+     "strong": true,
+     "link": false,
+     "syl": "DEEP"
+    },
+    {
+     "w": "search",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Trans-Neptunian",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Objects",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ever",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "conducted.",
+     "strong": true,
+     "link": false,
+     "syl": "DUCT"
+    }
+   ],
+   "tip": "discovered처럼 -ed로 끝나는 동사는 약하게 흘려 발음하고, deepest의 강세는 'deep'에 있어요.",
+   "start": 67.93,
+   "end": 80.28
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did astronomers study these small objects?",
+   "options": [
+    "By combining Hubble's visible-light data with Webb's infrared data",
+    "By using only ground-based telescopes",
+    "By sending a probe to observe them directly"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 허블의 가시광선 관측과 웹의 적외선 관측을 결합했다고 설명합니다."
+  },
+  {
+   "q": "What did the combined observations help reveal?",
+   "options": [
+    "Their sizes, orbits, and surface compositions",
+    "Their exact distance from the sun only",
+    "Their chemical names"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 '더 완전한 그림'이 크기, 궤도, 표면 구성에 대한 것이라고 언급합니다."
+  },
+  {
+   "q": "How many previously unknown objects were discovered?",
+   "options": [
+    "27",
+    "17",
+    "72"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 '27개의 이전에 알려지지 않은 천체'라고 명시합니다."
+  },
+  {
+   "q": "What makes this survey notable, according to the segment?",
+   "options": [
+    "It became the deepest search for Trans-Neptunian Objects ever conducted",
+    "It was the shortest survey ever conducted",
+    "It only looked at Jupiter's moons"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 이 조사가 '가장 깊은 탐사'였다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Trans-Neptunian Object",
+   "ko": "해왕성 바깥 천체",
+   "note": "해왕성보다 먼 궤도를 도는 작은 천체를 뜻함"
+  },
+  {
+   "term": "previously unknown",
+   "ko": "이전에는 알려지지 않은",
+   "note": "새로 발견된 대상을 설명할 때 자주 쓰는 표현"
+  },
+  {
+   "term": "surface composition",
+   "ko": "표면 구성(성분)",
+   "note": "천체의 표면이 어떤 물질로 이루어졌는지를 말함"
+  },
+  {
+   "term": "deepest search",
+   "ko": "가장 깊은(철저한) 탐사",
+   "note": "deep은 '철저한, 폭넓은'이라는 비유적 의미로도 쓰임"
+  }
+ ]
+}

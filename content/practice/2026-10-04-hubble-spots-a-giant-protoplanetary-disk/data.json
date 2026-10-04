@@ -1,0 +1,422 @@
+{
+ "video_id": "C3nrk-vA_YE",
+ "source_title": "Hubble Spots Giant Vampire Sandwich?",
+ "source_channel": "NASA Goddard",
+ "segment": {
+  "start": 6.04,
+  "end": 31.2
+ },
+ "sentences": [
+  {
+   "text": "Located roughly 1,000 light-years from Earth.",
+   "chunks": [
+    {
+     "en": "Located roughly 1,000 light-years",
+     "ko": "지구에서 대략 1,000광년 떨어진 곳에"
+    },
+    {
+     "en": "from Earth.",
+     "ko": "위치해 있습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Located",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roughly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1,000",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "light-years",
+     "strong": true,
+     "link": false,
+     "syl": "LIGHT-years"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Earth.",
+     "strong": true,
+     "link": false,
+     "syl": "EARTH"
+    }
+   ],
+   "tip": "from Earth처럼 자음 m 뒤에 모음이 오면 이어서 발음합니다.",
+   "start": 6.04,
+   "end": 9.18
+  },
+  {
+   "text": "This protoplanetary disk, nicknamed Dracula's Chivito, spans nearly 400 billion miles, 40 times the diameter of the Solar System, to the outer edge of the Kuiper Belt of cometary bodies.",
+   "chunks": [
+    {
+     "en": "This protoplanetary disk, nicknamed Dracula's Chivito,",
+     "ko": "'드라큘라의 치비토'라는 별명이 붙은 이 원시행성계 디스크는"
+    },
+    {
+     "en": "spans nearly 400 billion miles,",
+     "ko": "거의 4,000억 마일에 걸쳐 있는데,"
+    },
+    {
+     "en": "40 times the diameter of the Solar System,",
+     "ko": "이는 태양계 지름의 40배로서"
+    },
+    {
+     "en": "to the outer edge of the Kuiper Belt of cometary bodies.",
+     "ko": "혜성체들이 모인 카이퍼 벨트의 바깥쪽 끝까지 이어집니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protoplanetary",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "disk,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nicknamed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Dracula's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Chivito,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spans",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "400",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "billion",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miles,",
+     "strong": true,
+     "link": false,
+     "syl": "MILES"
+    },
+    {
+     "w": "40",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "times",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "diameter",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Solar",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "System,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "outer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "edge",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Kuiper",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Belt",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cometary",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bodies.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "edge of, Belt of처럼 자음 뒤에 모음이 오면 이어서 발음합니다.",
+   "start": 9.18,
+   "end": 23.36
+  },
+  {
+   "text": "A protoplanetary disk is a giant ring of gas and dust, where material clumps together to form new worlds.",
+   "chunks": [
+    {
+     "en": "A protoplanetary disk is a giant ring of gas and dust,",
+     "ko": "원시행성계 디스크는 가스와 먼지로 이루어진 거대한 고리인데,"
+    },
+    {
+     "en": "where material clumps together to form new worlds.",
+     "ko": "그 안에서 물질이 뭉쳐서 새로운 천체를 만듭니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protoplanetary",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "disk",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "giant",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "ring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gas",
+     "strong": true,
+     "link": true,
+     "syl": "GAS"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dust,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "material",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "clumps",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "form",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worlds.",
+     "strong": true,
+     "link": false,
+     "syl": "WORLDS"
+    }
+   ],
+   "tip": "is a, gas and처럼 자음 뒤 모음은 이어서 발음합니다.",
+   "start": 23.36,
+   "end": 31.2
+  }
+ ],
+ "questions": [
+  {
+   "q": "How far away is the protoplanetary disk located?",
+   "options": [
+    "Roughly 1,000 light-years from Earth",
+    "Roughly 10 light-years from Earth",
+    "Roughly 1 million light-years from Earth"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 지구로부터 대략 1,000광년 떨어진 곳에 위치한다고 했습니다."
+  },
+  {
+   "q": "What is the disk's nickname?",
+   "options": [
+    "Dracula's Chivito",
+    "The Flying Saucer",
+    "The Ring of Fire"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 Dracula's Chivito라는 별명이 붙었다고 했습니다."
+  },
+  {
+   "q": "About how wide is the disk compared to the Solar System?",
+   "options": [
+    "About 40 times its diameter",
+    "About 4 times its diameter",
+    "About the same size"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 태양계 지름의 40배라고 했습니다."
+  },
+  {
+   "q": "What is a protoplanetary disk made of?",
+   "options": [
+    "Gas and dust",
+    "Rock and ice",
+    "Metal and water"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 가스와 먼지로 이루어진 고리라고 했습니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "protoplanetary disk",
+   "ko": "원시행성계 디스크",
+   "note": "별 주위를 도는 가스와 먼지로 된 고리 모양 구조로, 행성이 만들어지는 곳입니다."
+  },
+  {
+   "term": "light-year",
+   "ko": "광년",
+   "note": "빛이 1년간 이동하는 거리를 나타내는 단위입니다."
+  },
+  {
+   "term": "diameter",
+   "ko": "지름",
+   "note": "원이나 구의 중심을 지나는 폭을 말합니다."
+  },
+  {
+   "term": "Kuiper Belt",
+   "ko": "카이퍼 벨트",
+   "note": "해왕성 바깥쪽에서 얼음과 혜성체가 모여 있는 영역입니다."
+  },
+  {
+   "term": "clump together",
+   "ko": "뭉치다",
+   "note": "작은 입자들이 서로 모여 하나로 합쳐지는 것을 말합니다."
+  }
+ ]
+}
