@@ -18,6 +18,30 @@
   </header>
   {{- partial "practice_cards.html" .Pages.ByDate.Reverse }}
 
+  {{- /* 이 주제의 실습에 나온 어휘를 한데 — 표현마다 뜻과 나온 실습 */}}
+  {{- $words := slice }}
+  {{- range .Pages.ByDate.Reverse }}
+    {{- $p := . }}
+    {{- with .Resources.Get "data.json" }}{{ range (. | transform.Unmarshal).vocab }}
+      {{- $words = $words | append (dict "term" .term "ko" .ko "page" $p) }}
+    {{- end }}{{ end }}
+  {{- end }}
+  {{- with $words }}
+  <section class="tag-vocab" aria-labelledby="tag-vocab-title">
+    <h2 id="tag-vocab-title" class="pr-section-title">이 주제의 표현</h2>
+    <p class="home-sublede">실습 원고에 나온 표현이에요. 누르면 그 실습으로 가요.</p>
+    <ul class="tag-vocab-list">
+      {{- range . }}
+      <li><a class="tag-vocab-item" href="{{ .page.RelPermalink }}">
+        <span class="tag-vocab-term" lang="en">{{ .term }}</span>
+        <span class="tag-vocab-ko">{{ .ko }}</span>
+        <span class="tag-vocab-from">{{ .page.Title }}</span>
+      </a></li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+
   {{- /* 같은 실습에 함께 붙은 주제를 먼저, 나머지는 다른 주제로 */}}
   {{- $near := slice }}
   {{- range .Pages }}{{ range .Params.tags }}{{ if and (ne (urlize .) $current) (not (in $near (urlize .))) }}{{ $near = $near | append (urlize .) }}{{ end }}{{ end }}{{ end }}
