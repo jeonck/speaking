@@ -832,7 +832,17 @@ body.list { background: var(--pr-desk); }
 .tag-card-wave { display: flex; align-items: center; justify-content: space-between; height: 28px; margin-top: auto; }
 .tag-card-wave span { flex: none; width: 2px; height: var(--h); border-radius: 9999px; background: var(--pr-rule-strong); transition: background 0.2s ease; }
 .tag-card:hover .tag-card-wave span { background: var(--pr-ink); }
-.tag-card-list span { font-size: 0.8125rem; line-height: 1.4; color: var(--pr-body); display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.tag-card-list span { font-size: 0.8125rem; line-height: 1.4; color: var(--pr-body); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+/* 주제 찾기 — 검색 페이지 입력창을 한 단계 작게 */
+.tag-find { margin: -0.5rem 0 1.75rem; }
+.tag-find[hidden], .tag-cards > li[hidden] { display: none; }
+.tag-find-field { max-width: 480px; min-height: 48px; padding: 0 1rem; box-shadow: none; }
+.tag-find-field input[type="search"] {
+  flex: 1; min-width: 0; min-height: 46px; padding: 0; border: 0; background: transparent; box-shadow: none; outline: none;
+  color: var(--primary); font: inherit; font-size: 1rem;
+}
+.tag-find-status { margin: 0.75rem 0 0; font-size: 0.875rem; color: var(--secondary); }
+.tag-find-status:empty { display: none; }
 
 @media (max-width: 900px) { .tag-cards { grid-template-columns: repeat(3, 1fr); } }
 
