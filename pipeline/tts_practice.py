@@ -8,8 +8,9 @@ Usage:
     python pipeline/tts_practice.py CONTENT.json [--voice "Ava (Premium)"] [--rate 175] [--pause 0.8]
 
 CONTENT.json은 generate.py가 Claude에게 받는 결과와 같은 모양이다:
-    {"title", "summary", "tags", "sentences": [{"text", "chunks", "words", "tip"}], "questions", "vocab"}
-문장별 start/end는 이 스크립트가 실제 음성 길이로 계산해 채운다.
+    {"title", "summary", "tags", "sentences": [{"text", "chunks", "words", "tip", "voice"?}], "questions", "vocab"}
+문장별 start/end는 이 스크립트가 실제 음성 길이로 계산해 채운다. 문장에 "voice"가 있으면 그 문장만
+그 목소리로 — 면접 질문(면접관)과 답(지원자)처럼 화자가 둘인 실습에 쓴다.
 """
 
 import argparse
@@ -32,8 +33,8 @@ def duration(path: Path) -> float:
     return float(out.stdout.strip())
 
 
-def synthesize(sentences: list[str], voice: str, rate: int, pause: float, out: Path) -> list[dict]:
-    """문장마다 음성을 만들고 사이에 pause초 쉼을 넣어 한 파일로 잇는다. 문장별 {start, end}를 돌려준다."""
+def synthesize(sentences: list[tuple[str, str]], rate: int, pause: float, out: Path) -> list[dict]:
+    """(문장, 목소리)마다 음성을 만들고 사이에 pause초 쉼을 넣어 한 파일로 잇는다. 문장별 {start, end}를 돌려준다."""
     timings, parts = [], []
     with tempfile.TemporaryDirectory() as tmp:
         tmp = Path(tmp)
@@ -41,7 +42,7 @@ def synthesize(sentences: list[str], voice: str, rate: int, pause: float, out: P
         subprocess.run(["ffmpeg", "-v", "error", "-f", "lavfi", "-i", f"anullsrc=r={SAMPLE_RATE}:cl=mono",
                         "-t", str(pause), str(silence)], check=True)
         t = 0.0
-        for i, text in enumerate(sentences):
+        for i, (text, voice) in enumerate(sentences):
             aiff, wav = tmp / f"{i}.aiff", tmp / f"{i}.wav"
             subprocess.run(["say", "-v", voice, "-r", str(rate), "-o", str(aiff), text], check=True)
             subprocess.run(["ffmpeg", "-v", "error", "-i", str(aiff), "-ar", str(SAMPLE_RATE), "-ac", "1", str(wav)], check=True)
@@ -71,7 +72,8 @@ def main() -> int:
     now = datetime.now(KST)
     dir_path = CONTENT_DIR / f"{now.date().isoformat()}-{slugify(result['title'])}"
     dir_path.mkdir(parents=True, exist_ok=False)
-    timings = synthesize([s["text"] for s in result["sentences"]], args.voice, args.rate, args.pause, dir_path / "audio.m4a")
+    lines = [(s["text"], s.get("voice") or args.voice) for s in result["sentences"]]
+    timings = synthesize(lines, args.rate, args.pause, dir_path / "audio.m4a")
     for s, t in zip(result["sentences"], timings):
         s.update(t)
     total = timings[-1]["end"]
@@ -87,7 +89,7 @@ duration: {round(total)}
 """, encoding="utf-8")
     data = {
         "audio": "audio.m4a",
-        "voice": args.voice,
+        "voice": ", ".join(dict.fromkeys(v for _, v in lines)),
         "segment": {"start": 0, "end": total},
         "sentences": result["sentences"],
         "questions": result["questions"],

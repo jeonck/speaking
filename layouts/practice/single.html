@@ -38,7 +38,7 @@
       <span class="practice-source-label">음성</span>
       <span class="practice-source-main">
         <span class="practice-source-channel">원어민 합성 음성</span>
-        <span class="practice-source-title">{{ with .voice }}{{ replaceRE ` \(.*\)$` "" . }} (미국 영어){{ else }}미국 영어{{ end }}</span>
+        <span class="practice-source-title">{{ with .voice }}{{ replaceRE ` \([^)]*\)` "" . }} (미국 영어){{ else }}미국 영어{{ end }}</span>
       </span>
     </div>
     {{- end }}{{ end }}

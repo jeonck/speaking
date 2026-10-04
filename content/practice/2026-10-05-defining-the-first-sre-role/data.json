@@ -1,0 +1,567 @@
+{
+ "audio": "audio.m4a",
+ "voice": "Ava (Enhanced), Evan (Enhanced)",
+ "segment": {
+  "start": 0,
+  "end": 26.62
+ },
+ "sentences": [
+  {
+   "text": "This is our first SRE hire—no SRE team exists.",
+   "voice": "Ava (Enhanced)",
+   "chunks": [
+    {
+     "en": "This is our first SRE",
+     "ko": "이번이 우리의 첫 SRE"
+    },
+    {
+     "en": "hire—no SRE team exists.",
+     "ko": "채용이에요, SRE 팀은 아직 없어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "SRE",
+     "strong": true,
+     "link": false,
+     "syl": "E"
+    },
+    {
+     "w": "hire—no",
+     "strong": true,
+     "link": false,
+     "syl": "hire"
+    },
+    {
+     "w": "SRE",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "team",
+     "strong": true,
+     "link": false,
+     "syl": "team"
+    },
+    {
+     "w": "exists.",
+     "strong": true,
+     "link": false,
+     "syl": "ist"
+    }
+   ],
+   "tip": "면접관의 질문이에요. This is는 '디시즈'처럼 붙이고, exists는 둘째 음절 IST에 힘을 줘요.",
+   "start": 0.0,
+   "end": 4.13
+  },
+  {
+   "text": "How do you define the role?",
+   "voice": "Ava (Enhanced)",
+   "chunks": [
+    {
+     "en": "How do you define",
+     "ko": "어떻게 정의하겠어요"
+    },
+    {
+     "en": "the role?",
+     "ko": "그 역할을"
+    }
+   ],
+   "words": [
+    {
+     "w": "How",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "define",
+     "strong": true,
+     "link": false,
+     "syl": "fine"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "role?",
+     "strong": true,
+     "link": false,
+     "syl": "role"
+    }
+   ],
+   "tip": "define은 de-FINE, 뒤 음절에 힘을 줘요.",
+   "start": 4.93,
+   "end": 6.45
+  },
+  {
+   "text": "First, I listen—meeting teams to find where the friction is and who owns reliability.",
+   "chunks": [
+    {
+     "en": "First, I listen—meeting teams",
+     "ko": "먼저 저는 듣습니다, 팀들을 만나면서"
+    },
+    {
+     "en": "to find where the friction is",
+     "ko": "어디에 마찰이 있는지 찾고"
+    },
+    {
+     "en": "and who owns reliability.",
+     "ko": "누가 안정성을 책임지는지도"
+    }
+   ],
+   "words": [
+    {
+     "w": "First,",
+     "strong": true,
+     "link": false,
+     "syl": "First"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listen—meeting",
+     "strong": true,
+     "link": false,
+     "syl": "lis"
+    },
+    {
+     "w": "teams",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friction",
+     "strong": true,
+     "link": true,
+     "syl": "fric"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "owns",
+     "strong": true,
+     "link": false,
+     "syl": "owns"
+    },
+    {
+     "w": "reliability.",
+     "strong": true,
+     "link": false,
+     "syl": "a"
+    }
+   ],
+   "tip": "listen의 t는 소리 내지 않아요(LIS-sen). friction is는 '프릭셔니즈'처럼 이어요.",
+   "start": 7.25,
+   "end": 11.9
+  },
+  {
+   "text": "Then I write a one-page charter: product teams own SLOs, while SRE provides the paved road.",
+   "chunks": [
+    {
+     "en": "Then I write a one-page charter:",
+     "ko": "그다음 한 장짜리 역할 헌장을 씁니다"
+    },
+    {
+     "en": "product teams own SLOs,",
+     "ko": "제품 팀이 SLO를 책임지고"
+    },
+    {
+     "en": "while SRE provides the paved road.",
+     "ko": "SRE는 잘 닦인 길(표준 도구와 플랫폼)을 제공한다는 내용으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "write",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one-page",
+     "strong": true,
+     "link": false,
+     "syl": "page"
+    },
+    {
+     "w": "charter:",
+     "strong": true,
+     "link": false,
+     "syl": "char"
+    },
+    {
+     "w": "product",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teams",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own",
+     "strong": true,
+     "link": false,
+     "syl": "own"
+    },
+    {
+     "w": "SLOs,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "while",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "SRE",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "provides",
+     "strong": true,
+     "link": false,
+     "syl": "vides"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "paved",
+     "strong": true,
+     "link": false,
+     "syl": "paved"
+    },
+    {
+     "w": "road.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "write a는 '라이러'처럼 t가 약해져요. own과 provides에 힘을 줘서 누가 무엇을 맡는지 대비해요.",
+   "start": 12.7,
+   "end": 18.51
+  },
+  {
+   "text": "I start with one joint win, like error budgets on a Tier 1 service.",
+   "chunks": [
+    {
+     "en": "I start with one joint win,",
+     "ko": "함께 이룬 성과 하나로 시작합니다"
+    },
+    {
+     "en": "like error budgets",
+     "ko": "예를 들어 에러 버짓을"
+    },
+    {
+     "en": "on a Tier 1 service.",
+     "ko": "티어 1 서비스에 적용하는 것처럼"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "joint",
+     "strong": true,
+     "link": false,
+     "syl": "joint"
+    },
+    {
+     "w": "win,",
+     "strong": true,
+     "link": false,
+     "syl": "win"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "error",
+     "strong": true,
+     "link": false,
+     "syl": "er"
+    },
+    {
+     "w": "budgets",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Tier",
+     "strong": true,
+     "link": false,
+     "syl": "Tier"
+    },
+    {
+     "w": "1",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "service.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "budgets on a는 '버짓손어'처럼 이어 말해요. Tier 1은 '티어 원'.",
+   "start": 19.31,
+   "end": 23.27
+  },
+  {
+   "text": "Trust comes from results, not documents.",
+   "chunks": [
+    {
+     "en": "Trust comes from results,",
+     "ko": "신뢰는 결과에서 나옵니다"
+    },
+    {
+     "en": "not documents.",
+     "ko": "문서가 아니라"
+    }
+   ],
+   "words": [
+    {
+     "w": "Trust",
+     "strong": true,
+     "link": false,
+     "syl": "Trust"
+    },
+    {
+     "w": "comes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "results,",
+     "strong": true,
+     "link": false,
+     "syl": "sults"
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false,
+     "syl": "not"
+    },
+    {
+     "w": "documents.",
+     "strong": true,
+     "link": false,
+     "syl": "doc"
+    }
+   ],
+   "tip": "results(re-SULTS)와 documents(DOC-u-ments)를 대비해서 힘주어 말해요.",
+   "start": 24.07,
+   "end": 26.62
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker do first?",
+   "options": [
+    "Listens and meets teams",
+    "Hires a large SRE team",
+    "Rewrites the monitoring system"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: First, I listen—meeting teams..."
+  },
+  {
+   "q": "According to the charter, who owns the SLOs?",
+   "options": [
+    "The SRE team",
+    "The product teams",
+    "The executives"
+   ],
+   "answer": 1,
+   "why": "4번째 문장: product teams own SLOs"
+  },
+  {
+   "q": "What does SRE provide?",
+   "options": [
+    "The paved road",
+    "The product roadmap",
+    "Customer support"
+   ],
+   "answer": 0,
+   "why": "4번째 문장: SRE provides the paved road."
+  },
+  {
+   "q": "What example of a first joint win does the speaker give?",
+   "options": [
+    "A new office",
+    "Error budgets on a Tier 1 service",
+    "A company-wide survey"
+   ],
+   "answer": 1,
+   "why": "5번째 문장: like error budgets on a Tier 1 service."
+  },
+  {
+   "q": "Where does trust come from, according to the speaker?",
+   "options": [
+    "Long documents",
+    "Job titles",
+    "Results"
+   ],
+   "answer": 2,
+   "why": "6번째 문장: Trust comes from results, not documents."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "friction",
+   "ko": "마찰, 일이 막히는 지점",
+   "note": "팀 사이에서 일이 매끄럽게 흐르지 않는 곳."
+  },
+  {
+   "term": "charter",
+   "ko": "헌장, 역할 정의서",
+   "note": "팀이 무엇을 맡고 무엇을 하지 않는지 정한 문서."
+  },
+  {
+   "term": "paved road",
+   "ko": "잘 닦인 길",
+   "note": "모두가 쉽게 따라 쓸 수 있게 준비된 표준 도구·방식."
+  },
+  {
+   "term": "joint win",
+   "ko": "함께 이룬 성과",
+   "note": "다른 팀과 같이 만든 눈에 보이는 결과."
+  },
+  {
+   "term": "error budget",
+   "ko": "에러 버짓(허용 장애 예산)",
+   "note": "SLO가 허용하는 실패의 양. 다 쓰면 기능 출시보다 안정성을 먼저."
+  },
+  {
+   "term": "Tier 1 service",
+   "ko": "최중요 서비스",
+   "note": "멈추면 사업에 가장 큰 영향을 주는 등급의 서비스."
+  }
+ ]
+}
