@@ -1,0 +1,467 @@
+{
+ "video_id": "6DBx7ZqlpXI",
+ "source_title": "Radia Perlman, 2016 National Inventors Hall of Fame Inductee",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 75.51,
+  "end": 101.04
+ },
+ "sentences": [
+  {
+   "text": "My work is about making data flow.",
+   "chunks": [
+    {
+     "en": "My work is about",
+     "ko": "내 일은 이런 거야"
+    },
+    {
+     "en": "making data flow.",
+     "ko": "데이터를 흐르게 만드는 것."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": false,
+     "syl": "WORK"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": true,
+     "link": false,
+     "syl": "MAK"
+    },
+    {
+     "w": "data",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "flow.",
+     "strong": true,
+     "link": false,
+     "syl": "FLOW"
+    }
+   ],
+   "tip": "is about처럼 자음이 다음 모음과 이어져요.",
+   "start": 75.51,
+   "end": 79.7
+  },
+  {
+   "text": "And data is no different than cars flowing on a highway, where you don't want them going around in circles.",
+   "chunks": [
+    {
+     "en": "And data is no different than cars flowing on a highway,",
+     "ko": "그리고 데이터는 고속도로를 달리는 차들과 다르지 않아,"
+    },
+    {
+     "en": "where you don't want them going around in circles.",
+     "ko": "거기서 빙빙 도는 걸 원치 않는 것처럼."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "data",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cars",
+     "strong": true,
+     "link": false,
+     "syl": "CARS"
+    },
+    {
+     "w": "flowing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "highway,",
+     "strong": true,
+     "link": false,
+     "syl": "HIGH"
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "circles.",
+     "strong": true,
+     "link": false,
+     "syl": "CIR"
+    }
+   ],
+   "tip": "flowing on처럼 ing의 끝소리가 다음 모음과 이어져요.",
+   "start": 79.7,
+   "end": 88.04
+  },
+  {
+   "text": "You don't want them bumping into each other.",
+   "chunks": [
+    {
+     "en": "You don't want them",
+     "ko": "너는 그것들을 원치 않아"
+    },
+    {
+     "en": "bumping into each other.",
+     "ko": "서로 부딫히는 것을."
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": true,
+     "link": false,
+     "syl": "WANT"
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bumping",
+     "strong": true,
+     "link": false,
+     "syl": "BUMP"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "each",
+     "strong": true,
+     "link": true,
+     "syl": "EACH"
+    },
+    {
+     "w": "other.",
+     "strong": true,
+     "link": false,
+     "syl": "OTH"
+    }
+   ],
+   "tip": "into each처럼 모음끼리 매끄럽게 이어져요.",
+   "start": 88.04,
+   "end": 91.02
+  },
+  {
+   "text": "Sometimes, the path that you planned doesn't work anymore because a road gets closed, and you have to figure out how to work around it.",
+   "chunks": [
+    {
+     "en": "Sometimes, the path that you planned doesn't work anymore",
+     "ko": "때로는, 네가 계획한 길이 더 이상 통하지 않아"
+    },
+    {
+     "en": "because a road gets closed,",
+     "ko": "도로가 막혀서,"
+    },
+    {
+     "en": "and you have to figure out how to work around it.",
+     "ko": "그러면 어떻게 돌아갈지 방법을 찾아야 해."
+    }
+   ],
+   "words": [
+    {
+     "w": "Sometimes,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "path",
+     "strong": true,
+     "link": false,
+     "syl": "PATH"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "planned",
+     "strong": true,
+     "link": false,
+     "syl": "PLANNED"
+    },
+    {
+     "w": "doesn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "anymore",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "road",
+     "strong": true,
+     "link": false,
+     "syl": "ROAD"
+    },
+    {
+     "w": "gets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "closed,",
+     "strong": true,
+     "link": false,
+     "syl": "CLOSED"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "figure",
+     "strong": true,
+     "link": true,
+     "syl": "FIG"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "figure out, around it처럼 끝소리가 다음 모음과 계속 이어져요.",
+   "start": 91.02,
+   "end": 101.04
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say her work is about?",
+   "options": [
+    "Making data flow",
+    "Building highways",
+    "Designing cars"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 데이터를 흐르게 만드는 일이라고 말해요."
+  },
+  {
+   "q": "What comparison does the speaker use to describe data?",
+   "options": [
+    "Cars flowing on a highway",
+    "Birds flying in the sky",
+    "Water in a bathtub"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 고속도로의 차들과 비교해요."
+  },
+  {
+   "q": "What does the speaker say data shouldn't do?",
+   "options": [
+    "Go around in circles or bump into each other",
+    "Move very fast",
+    "Stay in one place forever"
+   ],
+   "answer": 0,
+   "why": "두 번째와 세 번째 문장에서 빙빙 돌거나 서로 부딫히지 않아야 한다고 말해요."
+  },
+  {
+   "q": "What has to happen when a road gets closed, according to the speaker?",
+   "options": [
+    "You have to figure out how to work around it",
+    "The data simply disappears",
+    "Nothing changes at all"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 길이 막히면 돌아갈 방법을 찾아야 한다고 말해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "data flow",
+   "ko": "데이터 흐름",
+   "note": "데이터가 네트워크를 통해 이동하는 것을 말해요."
+  },
+  {
+   "term": "go around in circles",
+   "ko": "빙빙 돌다, 제자리를 맴돌다",
+   "note": "앞으로 나아가지 못하고 같은 자리를 반복한다는 뜻이에요."
+  },
+  {
+   "term": "bump into each other",
+   "ko": "서로 부딫히다",
+   "note": "충돌하거나 뜻하지 않게 마주친다는 뜻이에요."
+  },
+  {
+   "term": "work around it",
+   "ko": "돌아서 해결하다, 우회하다",
+   "note": "문제를 피해 다른 방법을 찾는다는 뜻이에요."
+  }
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "video_id": "S4VGmnxWJNg",
+ "source_title": "Building Bonds with Burma through Basketball",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 27.1,
+  "end": 51.19
+ },
+ "sentences": [
+  {
+   "text": "Our program is a sports exchange.",
+   "chunks": [
+    {
+     "en": "Our program is",
+     "ko": "우리 프로그램은"
+    },
+    {
+     "en": "a sports exchange.",
+     "ko": "스포츠 교류야."
+    }
+   ],
+   "words": [
+    {
+     "w": "Our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "program",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sports",
+     "strong": true,
+     "link": true,
+     "syl": "SPORTS"
+    },
+    {
+     "w": "exchange.",
+     "strong": true,
+     "link": false,
+     "syl": "CHANGE"
+    }
+   ],
+   "tip": "sports exchange처럼 s가 다음 모음과 이어져요.",
+   "start": 27.1,
+   "end": 29.578947368421055
+  },
+  {
+   "text": "We are coming here to see an understanding of basketball training, the fundamentals.",
+   "chunks": [
+    {
+     "en": "We are coming here",
+     "ko": "우리는 여기 왔어"
+    },
+    {
+     "en": "to see an understanding of basketball training,",
+     "ko": "농구 훈련, 즉 기본기를 이해하러"
+    },
+    {
+     "en": "the fundamentals.",
+     "ko": "기본적인 것들을."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coming",
+     "strong": true,
+     "link": false,
+     "syl": "COM"
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "understanding",
+     "strong": true,
+     "link": false,
+     "syl": "STAND"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basketball",
+     "strong": true,
+     "link": false,
+     "syl": "BAS"
+    },
+    {
+     "w": "training,",
+     "strong": true,
+     "link": false,
+     "syl": "TRAIN"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fundamentals.",
+     "strong": true,
+     "link": false,
+     "syl": "MEN"
+    }
+   ],
+   "tip": "an understanding처럼 n이 다음 모음과 이어져요.",
+   "start": 29.578947368421055,
+   "end": 34.95
+  },
+  {
+   "text": "We practice basketball drills and then strength, teamwork, teambuilding.",
+   "chunks": [
+    {
+     "en": "We practice basketball drills",
+     "ko": "우리는 농구 드리블 연습을 해"
+    },
+    {
+     "en": "and then strength, teamwork, teambuilding.",
+     "ko": "그리고 체력, 팀워크, 팀빌딩도."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "practice",
+     "strong": true,
+     "link": false,
+     "syl": "PRAC"
+    },
+    {
+     "w": "basketball",
+     "strong": true,
+     "link": false,
+     "syl": "BAS"
+    },
+    {
+     "w": "drills",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strength,",
+     "strong": true,
+     "link": false,
+     "syl": "STRENGTH"
+    },
+    {
+     "w": "teamwork,",
+     "strong": true,
+     "link": false,
+     "syl": "TEAM"
+    },
+    {
+     "w": "teambuilding.",
+     "strong": true,
+     "link": false,
+     "syl": "TEAM"
+    }
+   ],
+   "tip": "drills and처럼 자음이 다음 모음과 이어져요.",
+   "start": 34.95,
+   "end": 41.75
+  },
+  {
+   "text": "Sports brings out people's team spirit, their sense of leadership, their sense of competitiveness in the best sense.",
+   "chunks": [
+    {
+     "en": "Sports brings out people's team spirit,",
+     "ko": "스포츠는 사람들의 팀 정신을 끌어내"
+    },
+    {
+     "en": "their sense of leadership,",
+     "ko": "그들의 리더십 의식을,"
+    },
+    {
+     "en": "their sense of competitiveness in the best sense.",
+     "ko": "최고의 의미에서의 경쟁심 의식을."
+    }
+   ],
+   "words": [
+    {
+     "w": "Sports",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brings",
+     "strong": true,
+     "link": false,
+     "syl": "BRINGS"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "team",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spirit,",
+     "strong": true,
+     "link": false,
+     "syl": "SPI"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sense",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leadership,",
+     "strong": true,
+     "link": false,
+     "syl": "LEAD"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sense",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "competitiveness",
+     "strong": true,
+     "link": false,
+     "syl": "PET"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "link": false,
+     "syl": "BEST"
+    },
+    {
+     "w": "sense.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "sense of처럼 끝소리가 다음 모음과 이어져요.",
+   "start": 41.75,
+   "end": 51.19
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the main purpose of the program described?",
+   "options": [
+    "A sports exchange focused on basketball",
+    "A music exchange program",
+    "A cooking class exchange"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 스포츠 교류 프로그램이라고 말해요."
+  },
+  {
+   "q": "What do the participants practice together?",
+   "options": [
+    "Basketball drills and teamwork",
+    "Swimming techniques",
+    "Public speaking"
+   ],
+   "answer": 0,
+   "why": "두 번째, 세 번째 문장에서 농구 드리블과 팀워크를 연습한다고 해요."
+  },
+  {
+   "q": "According to the speaker, what does sports bring out in people?",
+   "options": [
+    "Team spirit, leadership, and competitiveness",
+    "A fear of losing",
+    "A desire to work alone"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 팀 정신, 리더십, 경쟁심을 끌어낸다고 말해요."
+  },
+  {
+   "q": "How does the speaker describe the competitiveness that sports brings out?",
+   "options": [
+    "In the best sense",
+    "In a negative way",
+    "As something to avoid"
+   ],
+   "answer": 0,
+   "why": "'in the best sense'라는 표현에서 확인돼요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sports exchange",
+   "ko": "스포츠 교류",
+   "note": "서로 다른 팀이나 나라가 운동으로 교류하는 프로그램이에요."
+  },
+  {
+   "term": "the fundamentals",
+   "ko": "기본기",
+   "note": "어떤 분야의 가장 기초적인 기술을 뜻해요."
+  },
+  {
+   "term": "team spirit",
+   "ko": "팀 정신",
+   "note": "팀을 위해 함께 노력하는 마음가짐이에요."
+  },
+  {
+   "term": "in the best sense",
+   "ko": "가장 좋은 의미에서",
+   "note": "부정적으로 들릴 수 있는 말을 긍정적으로 다시 풀이할 때 써요."
+  }
+ ]
+}

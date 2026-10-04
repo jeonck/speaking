@@ -1,0 +1,518 @@
+{
+ "video_id": "dlNi273SauE",
+ "source_title": "Adapt and overcome | 2026 National Veterans Wheelchair Games",
+ "source_channel": "U.S. Department of Veterans Affairs",
+ "segment": {
+  "start": 25.49,
+  "end": 46.61
+ },
+ "sentences": [
+  {
+   "text": "I was about 9, 10, and my dad had a pool table, so that kind of started my billiards expedition.",
+   "chunks": [
+    {
+     "en": "I was about 9, 10,",
+     "ko": "저는 9, 10살쯔음이었고,"
+    },
+    {
+     "en": "and my dad had a pool table,",
+     "ko": "아빠가 당구대를 가지고 있었는데,"
+    },
+    {
+     "en": "so that kind of started my billiards expedition.",
+     "ko": "그게 제 당구 여정을 시작하게 했어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "9,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dad",
+     "strong": true,
+     "link": false,
+     "syl": "DAD"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pool",
+     "strong": true,
+     "link": false,
+     "syl": "POOL"
+    },
+    {
+     "w": "table,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "billiards",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "expedition.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "pool table처럼 명사+명사 조합은 둘째 단어(table)에 강세를 주세요.",
+   "start": 25.49,
+   "end": 30.33
+  },
+  {
+   "text": "And ever since then I've always been interested in pool, and after my injury, it was just a matter of figuring out what adaptions I needed.",
+   "chunks": [
+    {
+     "en": "And ever since then",
+     "ko": "그리고 그때 이후로 줄곧"
+    },
+    {
+     "en": "I've always been interested in pool,",
+     "ko": "저는 항상 당구에 관심이 있었고,"
+    },
+    {
+     "en": "and after my injury,",
+     "ko": "부상을 입은 후에는,"
+    },
+    {
+     "en": "it was just a matter of figuring out what adaptions I needed.",
+     "ko": "제가 필요한 조정이 뭔지 알아내는 게 과제였어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ever",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "interested",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pool,",
+     "strong": true,
+     "link": false,
+     "syl": "POOL"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "injury,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "matter",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "figuring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "adaptions",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "needed.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "I've, it was처럼 축약형은 끊지 말고 빠르게 이어 읽으세요.",
+   "start": 30.33,
+   "end": 38.77
+  },
+  {
+   "text": "So for my pool stick, I just tied a thick decorative knot on the base of my pool cue, and then that supports against my hand.",
+   "chunks": [
+    {
+     "en": "So for my pool stick,",
+     "ko": "그래서 제 당구 스틱을 위해서,"
+    },
+    {
+     "en": "I just tied a thick decorative knot",
+     "ko": "저는 두꺼운 장식용 매듭을 묶었고"
+    },
+    {
+     "en": "on the base of my pool cue,",
+     "ko": "제 당구 큐 손잡이 끝부분에,"
+    },
+    {
+     "en": "and then that supports against my hand.",
+     "ko": "그러면 그게 제 손에 받쳐줘요."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pool",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stick,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tied",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thick",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decorative",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "knot",
+     "strong": true,
+     "link": false,
+     "syl": "NOT"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "base",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pool",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cue,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supports",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "against",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hand.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "decorative knot에서 knot에 강세를 주고 끝소리 /t/는 약하게 발음하세요.",
+   "start": 38.77,
+   "end": 46.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "What first got the speaker interested in pool?",
+   "options": [
+    "A pool table at home",
+    "A school gym class",
+    "A televised tournament"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 아빠의 당구대 덕분에 당구 여정이 시작됐다고 말함."
+  },
+  {
+   "q": "What happened after the speaker's injury?",
+   "options": [
+    "They needed to figure out adaptions for playing pool",
+    "They stopped playing pool completely",
+    "They switched to a different sport"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 부상 후 필요한 조정을 알아내는 게 과제였다고 설명함."
+  },
+  {
+   "q": "What did the speaker do to adapt their pool cue?",
+   "options": [
+    "Tied a thick decorative knot on the base",
+    "Replaced the cue with a shorter one",
+    "Attached a mechanical grip"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 큐 끝부분에 두꺼운 장식용 매듭을 묶었다고 말함."
+  },
+  {
+   "q": "How does the knot help the speaker?",
+   "options": [
+    "It supports against their hand",
+    "It makes the cue lighter",
+    "It changes the cue's color"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장 마지막 부분에서 매듭이 손에 받쳐준다고 설명함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "billiards expedition",
+   "ko": "당구 여정(비유적 표현)",
+   "note": "취미가 시작된 계기를 재미있게 표현한 말."
+  },
+  {
+   "term": "a matter of figuring out",
+   "ko": "~을 알아내는 게 과제",
+   "note": "it's a matter of -ing: ~하는 게 핵심이다라는 뜻."
+  },
+  {
+   "term": "adaptions",
+   "ko": "조정, 적응 장치",
+   "note": "원래는 adaptations이지만 구어체에서 줄여 말한 표현."
+  },
+  {
+   "term": "decorative knot",
+   "ko": "장식용 매듭",
+   "note": "장비에 손잡이 역할을 하도록 묶은 매듭."
+  },
+  {
+   "term": "pool cue",
+   "ko": "당구 큐(채)",
+   "note": "당구공을 치는 긴 막대."
+  }
+ ]
+}

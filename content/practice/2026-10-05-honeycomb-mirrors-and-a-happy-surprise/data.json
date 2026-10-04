@@ -1,0 +1,424 @@
+{
+ "video_id": "x10axvIOD9Y",
+ "source_title": "J. Roger Angel, 2016 National Inventors Hall of Fame Inductee",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 64.01,
+  "end": 87.63
+ },
+ "sentences": [
+  {
+   "text": "Nature has evolved honeycomb structures to make stiff, lightweight things, and that's very useful in the telescope mirror.",
+   "chunks": [
+    {
+     "en": "Nature has evolved honeycomb structures",
+     "ko": "자연은 벌집 구조를 진화시켜왔다"
+    },
+    {
+     "en": "to make stiff, lightweight things,",
+     "ko": "단단하고 가벼운 것들을 만들기 위해"
+    },
+    {
+     "en": "and that's very useful in the telescope mirror.",
+     "ko": "그리고 그것은 망원경 거울에 매우 유용하다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Nature",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "evolved",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honeycomb",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "structures",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stiff,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lightweight",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "things,",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "useful",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "telescope",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mirror.",
+     "strong": true,
+     "link": false,
+     "syl": "MIR"
+    }
+   ],
+   "tip": "has evolved와 things, and처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 64.01,
+   "end": 71.9725
+  },
+  {
+   "text": "But the thing that was the surprise when we first started using space mirrors on the ground was that the images were good.",
+   "chunks": [
+    {
+     "en": "But the thing that was the surprise",
+     "ko": "하지만 놀라웠던 것은"
+    },
+    {
+     "en": "when we first started using space mirrors on the ground",
+     "ko": "우리가 지상에서 우주 거울을 처음 사용하기 시작했을 때"
+    },
+    {
+     "en": "was that the images were good.",
+     "ko": "이미지가 좋았다는 것이었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surprise",
+     "strong": true,
+     "link": false,
+     "syl": "PRISE"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": true,
+     "syl": "START"
+    },
+    {
+     "w": "using",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "space",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mirrors",
+     "strong": true,
+     "link": true,
+     "syl": "MIR"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "images",
+     "strong": true,
+     "link": false,
+     "syl": "IM"
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good.",
+     "strong": true,
+     "link": false,
+     "syl": "GOOD"
+    }
+   ],
+   "tip": "mirrors on처럼 자음+모음은 이어서, started using는 리듬을 살려 발음하세요.",
+   "start": 71.9725,
+   "end": 80.63
+  },
+  {
+   "text": "And so, nobody had anticipated that the lightweight structure would actually make better images.",
+   "chunks": [
+    {
+     "en": "And so, nobody had anticipated",
+     "ko": "그래서 누구도 예상하지 못했다"
+    },
+    {
+     "en": "that the lightweight structure",
+     "ko": "가벼운 구조가"
+    },
+    {
+     "en": "would actually make better images.",
+     "ko": "실제로 더 나은 이미지를 만들어낼 것이라고는"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nobody",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "anticipated",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lightweight",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "structure",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": true,
+     "link": true,
+     "syl": "BET"
+    },
+    {
+     "w": "images.",
+     "strong": true,
+     "link": false,
+     "syl": "IM"
+    }
+   ],
+   "tip": "had anticipated, would actually, better images처럼 끝소리와 다음 모음을 이어서 발음하세요.",
+   "start": 80.63,
+   "end": 87.63
+  }
+ ],
+ "questions": [
+  {
+   "q": "What natural structure inspired the design of lightweight telescope mirrors?",
+   "options": [
+    "Honeycomb structures",
+    "Spider webs",
+    "Bird feathers"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 자연의 벌집 구조(honeycomb structures)로 단단하고 가벼운 것을 만든다고 설명한다."
+  },
+  {
+   "q": "What was the surprising finding when space mirrors were first used on the ground?",
+   "options": [
+    "The images were good.",
+    "The mirrors cracked.",
+    "The mirrors were too heavy."
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 'the images were good'이라고 말한다."
+  },
+  {
+   "q": "What had nobody anticipated about the lightweight structure?",
+   "options": [
+    "That it would make better images",
+    "That it would be cheaper",
+    "That it would be heavier"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 'nobody had anticipated that the lightweight structure would actually make better images'라고 말한다."
+  },
+  {
+   "q": "Why are honeycomb structures useful for telescope mirrors?",
+   "options": [
+    "They make mirrors stiff and lightweight.",
+    "They make mirrors colorful.",
+    "They make mirrors flexible."
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 stiff, lightweight things를 만든다고 설명한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "honeycomb structure",
+   "ko": "벌집 구조",
+   "note": "육각형 모양으로 가볍고 단단한 구조를 뜻함"
+  },
+  {
+   "term": "stiff",
+   "ko": "단단한, 뻣뻣한",
+   "note": "구조가 잘 휘지 않음을 나타냄"
+  },
+  {
+   "term": "anticipate",
+   "ko": "예상하다",
+   "note": "had anticipated처럼 과거완료로 자주 쓰임"
+  },
+  {
+   "term": "lightweight",
+   "ko": "경량의, 가벼운",
+   "note": "light와 weight가 합쳐진 단어"
+  }
+ ]
+}

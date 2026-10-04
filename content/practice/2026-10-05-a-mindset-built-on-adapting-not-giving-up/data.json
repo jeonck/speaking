@@ -1,0 +1,582 @@
+{
+ "video_id": "dlNi273SauE",
+ "source_title": "Adapt and overcome | 2026 National Veterans Wheelchair Games",
+ "source_channel": "U.S. Department of Veterans Affairs",
+ "segment": {
+  "start": 55.69,
+  "end": 79.61
+ },
+ "sentences": [
+  {
+   "text": "With my injury related, I think that really doesn't have a factor as to why I chose pool.",
+   "chunks": [
+    {
+     "en": "With my injury related,",
+     "ko": "제 부상과 관련해서는,"
+    },
+    {
+     "en": "I think that really doesn't have a factor",
+     "ko": "저는 그게 정말 요인이 아니라고 생각해요"
+    },
+    {
+     "en": "as to why I chose pool.",
+     "ko": "제가 당구를 선택한 이유로는요."
+    }
+   ],
+   "words": [
+    {
+     "w": "With",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "injury",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "related,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doesn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "factor",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "why",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chose",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "pool.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "doesn't have a factor에서 factor에 강세를 주고 나머지는 빠르게 흘려 읽으세요.",
+   "start": 55.69,
+   "end": 61.03
+  },
+  {
+   "text": "I think it's just more so, I grew up playing and I've always enjoyed it, so I carry on doing what I enjoy doing.",
+   "chunks": [
+    {
+     "en": "I think it's just more so,",
+     "ko": "그보다는요,"
+    },
+    {
+     "en": "I grew up playing",
+     "ko": "저는 (당구를) 하면서 자랐고"
+    },
+    {
+     "en": "and I've always enjoyed it,",
+     "ko": "항상 즐겼어서,"
+    },
+    {
+     "en": "so I carry on doing what I enjoy doing.",
+     "ko": "그래서 즐기는 걸 계속하는 거예요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grew",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "playing",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoyed",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carry",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "more so,와 I grew up 사이에서 잠깐 쉬어 리듬을 살리세요.",
+   "start": 61.03,
+   "end": 67.27
+  },
+  {
+   "text": "And so right after my injury, it's not that I can't do it, it's just I have to figure out how to do it.",
+   "chunks": [
+    {
+     "en": "And so right after my injury,",
+     "ko": "그리고 부상 직후에는,"
+    },
+    {
+     "en": "it's not that I can't do it,",
+     "ko": "못 하는 게 아니라,"
+    },
+    {
+     "en": "it's just I have to figure out how to do it.",
+     "ko": "그냥 어떻게 할지 알아내야 하는 거예요."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "injury,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "figure",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "can't은 강하게, do it은 가볍게 이어서 읽으세요.",
+   "start": 67.27,
+   "end": 73.94
+  },
+  {
+   "text": "So I've always had that mentality, and that's benefited me in the long run, I think.",
+   "chunks": [
+    {
+     "en": "So I've always had that mentality,",
+     "ko": "그래서 저는 항상 그런 마음가짐을 가지고 있었고,"
+    },
+    {
+     "en": "and that's benefited me",
+     "ko": "그게 저에게 도움이 됐어요"
+    },
+    {
+     "en": "in the long run, I think.",
+     "ko": "장기적으로는요, 제 생각엔."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mentality,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "benefited",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "run,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "that's benefited처럼 that's는 짧게 줄여 발음하세요.",
+   "start": 73.94,
+   "end": 79.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the speaker, what was the main reason they chose pool?",
+   "options": [
+    "Growing up playing it and enjoying it",
+    "Their injury",
+    "A doctor's recommendation"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 어릴 때부터 하면서 즐겼던 게 이유라고 말함."
+  },
+  {
+   "q": "What does the speaker say about their injury and playing pool?",
+   "options": [
+    "It doesn't have much to do with why they chose pool",
+    "It is the only reason they chose pool",
+    "It stopped them from playing pool"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 부상이 당구를 선택한 요인이 아니라고 말함."
+  },
+  {
+   "q": "How does the speaker view doing things after the injury?",
+   "options": [
+    "It's not that they can't do it, they just have to figure out how",
+    "They can no longer do most things",
+    "They need someone else to do it for them"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 못하는 게 아니라 방법을 알아내야 한다고 말함."
+  },
+  {
+   "q": "What does the speaker say this mentality has done for them?",
+   "options": [
+    "Benefited them in the long run",
+    "Made things harder over time",
+    "Had no real effect"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 그 마음가짐이 장기적으로 도움이 됐다고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "have a factor",
+   "ko": "요인이 되다",
+   "note": "doesn't have a factor as to why = ~한 이유에 영향을 주지 않다."
+  },
+  {
+   "term": "carry on doing",
+   "ko": "계속 ~을 하다",
+   "note": "carry on + V-ing: 하던 일을 계속하다."
+  },
+  {
+   "term": "figure out how to do it",
+   "ko": "어떻게 할지 알아내다",
+   "note": "방법을 찾아내는 과정을 강조하는 표현."
+  },
+  {
+   "term": "mentality",
+   "ko": "마음가짐, 사고방식",
+   "note": "that mentality = 앞서 말한 태도를 가리킴."
+  },
+  {
+   "term": "in the long run",
+   "ko": "장기적으로",
+   "note": "시간이 지난 뒤의 결과를 말할 때 쓰는 표현."
+  }
+ ]
+}

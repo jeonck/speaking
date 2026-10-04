@@ -1,0 +1,603 @@
+{
+ "video_id": "w6ASAs3siFg",
+ "source_title": "How the 1876 World's Fair Launched the Telephone Revolution",
+ "source_channel": "Library of Congress",
+ "segment": {
+  "start": 193.12,
+  "end": 217.44
+ },
+ "sentences": [
+  {
+   "text": "Bell described this invention as an invention in embryo at the time, but later the popularity spread pretty quickly.",
+   "chunks": [
+    {
+     "en": "Bell described this invention as an invention in embryo",
+     "ko": "벨은 이 발명을 초기 단계의 발명품이라고 설명했다"
+    },
+    {
+     "en": "at the time,",
+     "ko": "그 당시에는"
+    },
+    {
+     "en": "but later the popularity spread pretty quickly.",
+     "ko": "하지만 나중에 인기는 꽤 빠르게 퍼졌다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Bell",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "described",
+     "strong": true,
+     "link": false,
+     "syl": "SCRIBED"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "invention",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "invention",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "embryo",
+     "strong": true,
+     "link": false,
+     "syl": "EM"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "later",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "popularity",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "spread",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quickly.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "an invention, in embryo처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 193.12,
+   "end": 201.34
+  },
+  {
+   "text": "This is one of Alexander Graham Bell's original laboratory notebooks.",
+   "chunks": [
+    {
+     "en": "This is one of Alexander Graham Bell's",
+     "ko": "이것은 알렉산더 그레이엄 벨의"
+    },
+    {
+     "en": "original laboratory notebooks.",
+     "ko": "원래 실험실 노트들 중 하나이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Alexander",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Graham",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Bell's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "original",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laboratory",
+     "strong": true,
+     "link": false,
+     "syl": "LAB"
+    },
+    {
+     "w": "notebooks.",
+     "strong": true,
+     "link": false,
+     "syl": "NOTE"
+    }
+   ],
+   "tip": "of Alexander, Bell's original처럼 끝소리와 다음 모음을 이어서 발음하세요.",
+   "start": 201.34,
+   "end": 204.42333333333332
+  },
+  {
+   "text": "And here we see him preparing to go to the Centennial Exposition.",
+   "chunks": [
+    {
+     "en": "And here we see him preparing",
+     "ko": "그리고 여기서 우리는 그가 준비하는 모습을 본다"
+    },
+    {
+     "en": "to go to the Centennial Exposition.",
+     "ko": "센테니얼 박람회에 가기 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "him",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "preparing",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Centennial",
+     "strong": true,
+     "link": false,
+     "syl": "TEN"
+    },
+    {
+     "w": "Exposition.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "preparing to go to처럼 짧은 단어들은 약하고 빠르게 발음하세요.",
+   "start": 204.42333333333332,
+   "end": 208.26
+  },
+  {
+   "text": "Mr. Bell, are you going to the Centennial?",
+   "chunks": [
+    {
+     "en": "Mr. Bell, are you going",
+     "ko": "벨 선생님, 당신은 가십니까"
+    },
+    {
+     "en": "to the Centennial?",
+     "ko": "센테니얼 박람회에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Mr.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Bell,",
+     "strong": true,
+     "link": false,
+     "syl": "BEL"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": true,
+     "link": false,
+     "syl": "GO"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Centennial?",
+     "strong": true,
+     "link": false,
+     "syl": "TEN"
+    }
+   ],
+   "tip": "질문이므로 문장 끝 Centennial에서 억양을 올려 보세요.",
+   "start": 208.26,
+   "end": 210.82
+  },
+  {
+   "text": "So here we see a telephone that he's working on.",
+   "chunks": [
+    {
+     "en": "So here we see a telephone",
+     "ko": "그래서 여기 우리는 전화기를 본다"
+    },
+    {
+     "en": "that he's working on.",
+     "ko": "그가 작업 중인"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "telephone",
+     "strong": true,
+     "link": false,
+     "syl": "TEL"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "working on은 하나의 단위처럼 붙여서 발음하세요.",
+   "start": 210.82,
+   "end": 213.66
+  },
+  {
+   "text": "But it's not the one that he patents.",
+   "chunks": [
+    {
+     "en": "But it's not the one",
+     "ko": "하지만 그것은 아니다"
+    },
+    {
+     "en": "that he patents.",
+     "ko": "그가 특허를 내는 바로 그것"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false,
+     "syl": "NOT"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patents.",
+     "strong": true,
+     "link": false,
+     "syl": "PAT"
+    }
+   ],
+   "tip": "not과 one을 강하게 발음해서 '그것이 아니다'라는 대조를 살리세요.",
+   "start": 213.66,
+   "end": 215.5
+  },
+  {
+   "text": "It's not the one that he first gets to work.",
+   "chunks": [
+    {
+     "en": "It's not the one",
+     "ko": "그것은 아니다"
+    },
+    {
+     "en": "that he first gets to work.",
+     "ko": "그가 처음으로 작동시키는 바로 그것"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false,
+     "syl": "NOT"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "gets",
+     "strong": true,
+     "link": false,
+     "syl": "GETS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "first gets to work을 리듬감 있게 이어서 발음하세요.",
+   "start": 215.5,
+   "end": 217.44
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did Bell describe his invention at the time?",
+   "options": [
+    "As an invention in embryo",
+    "As a finished product",
+    "As a failed experiment"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 'Bell described this invention as an invention in embryo at the time'라고 말한다."
+  },
+  {
+   "q": "What event was Bell preparing to attend?",
+   "options": [
+    "The Centennial Exposition",
+    "A patent office hearing",
+    "A university lecture"
+   ],
+   "answer": 0,
+   "why": "'preparing to go to the Centennial Exposition'에서 확인된다."
+  },
+  {
+   "q": "What do we see Bell doing with a telephone in the segment?",
+   "options": [
+    "Working on a telephone that isn't the one he patents",
+    "Selling a finished telephone",
+    "Teaching a class about telephones"
+   ],
+   "answer": 0,
+   "why": "'we see a telephone that he's working on. But it's not the one that he patents.'라는 문장에서 알 수 있다."
+  },
+  {
+   "q": "What happened to the telephone's popularity over time?",
+   "options": [
+    "It spread pretty quickly later on",
+    "It disappeared completely",
+    "It stayed the same"
+   ],
+   "answer": 0,
+   "why": "'later the popularity spread pretty quickly'라고 말한다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "in embryo",
+   "ko": "초기 단계의, 아직 완성되지 않은",
+   "note": "발명품이 아직 발전 중임을 뜻하는 표현"
+  },
+  {
+   "term": "patent",
+   "ko": "특허(를 내다)",
+   "note": "동사로 쓰이면 '특허를 받다'라는 뜻"
+  },
+  {
+   "term": "Centennial Exposition",
+   "ko": "1876년 미국 독립 100주년 박람회",
+   "note": "필라델피아에서 열린 세계 박람회"
+  },
+  {
+   "term": "laboratory notebook",
+   "ko": "실험실 노트",
+   "note": "발명가가 실험 과정을 기록하는 공책"
+  }
+ ]
+}

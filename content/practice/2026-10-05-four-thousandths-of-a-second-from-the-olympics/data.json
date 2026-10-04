@@ -1,0 +1,523 @@
+{
+ "video_id": "07vfcNsWPbI",
+ "source_title": "An Olympian Soldier",
+ "source_channel": "The U.S. Army",
+ "segment": {
+  "start": 32.47,
+  "end": 56.76
+ },
+ "sentences": [
+  {
+   "text": "I feel very confident in my ability to be at least one of the top three men out of the United States, if not one of the top three men in the world.",
+   "chunks": [
+    {
+     "en": "I feel very confident in my ability",
+     "ko": "저는 제 능력에 대해 아주 자신 있어요"
+    },
+    {
+     "en": "to be at least one of the top three men out of the United States,",
+     "ko": "적어도 미국 내 상위 3명 중 한 명이 될 거라고,"
+    },
+    {
+     "en": "if not one of the top three men in the world.",
+     "ko": "아니면 세계 상위 3명 중 한 명이 될 거라고요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "confident",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ability",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "top",
+     "strong": true,
+     "link": false,
+     "syl": "TOP"
+    },
+    {
+     "w": "three",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "men",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "United",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "States,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "top",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "men",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "top three men처럼 핵심 명사마다 강세를 주며 리듬을 타세요.",
+   "start": 32.47,
+   "end": 40.096
+  },
+  {
+   "text": "I missed the Olympics in 2014 by four thousandths of a second, and that was pretty heartbreaking for me.",
+   "chunks": [
+    {
+     "en": "I missed the Olympics in 2014",
+     "ko": "저는 2014년 올림픽을 놓쳤는데"
+    },
+    {
+     "en": "by four thousandths of a second,",
+     "ko": "0.004초 차이로요,"
+    },
+    {
+     "en": "and that was pretty heartbreaking for me.",
+     "ko": "그게 저한테는 꽤 가슴 아픈 일이었어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "missed",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Olympics",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2014",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "four",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "thousandths",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "second,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heartbreaking",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "four thousandths of a second는 숫자 뒤 of a를 빠르게 이어 읽으세요.",
+   "start": 40.096,
+   "end": 45.24333333333333
+  },
+  {
+   "text": "But I think making the last sixteen years of my life worth this moment right now, making the Olympic team would be pretty overwhelming.",
+   "chunks": [
+    {
+     "en": "But I think making the last sixteen years of my life worth this moment right now,",
+     "ko": "하지만 제 인생의 지난 16년을 이 순간을 위한 가치로 만든다는 생각에,"
+    },
+    {
+     "en": "making the Olympic team would be pretty overwhelming.",
+     "ko": "올림픽 팀에 들어가는 건 꽤 벅찬 일일 것 같아요."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sixteen",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "worth",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moment",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Olympic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "team",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "overwhelming.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "making the Olympic team은 한 호흡으로 빠르게 읽으세요.",
+   "start": 45.24333333333333,
+   "end": 56.76
+  }
+ ],
+ "questions": [
+  {
+   "q": "How confident does the speaker feel about ranking among the top athletes?",
+   "options": [
+    "Very confident, possibly top three in the world",
+    "Not confident at all",
+    "Confident only within their home state"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 세계 상위 3명 중 한 명이 될 수 있다고 자신 있어 한다고 말함."
+  },
+  {
+   "q": "By how much did the speaker miss making the 2014 Olympics?",
+   "options": [
+    "Four thousandths of a second",
+    "Four full seconds",
+    "Four minutes"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 0.004초 차이로 놓쳤다고 말함."
+  },
+  {
+   "q": "How did missing the 2014 Olympics make the speaker feel?",
+   "options": [
+    "Pretty heartbreaking",
+    "Relieved",
+    "Indifferent"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 꽤 가슴 아팠다고 말함."
+  },
+  {
+   "q": "What would making the Olympic team now mean to the speaker?",
+   "options": [
+    "It would be pretty overwhelming",
+    "It would mean nothing special",
+    "It would be disappointing"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 벅찰 것 같다고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "at least",
+   "ko": "적어도",
+   "note": "최소한의 기준을 말할 때 쓰는 표현."
+  },
+  {
+   "term": "thousandths of a second",
+   "ko": "1000분의 1초 단위",
+   "note": "아주 작은 시간 차이를 말할 때 쓰는 표현."
+  },
+  {
+   "term": "heartbreaking",
+   "ko": "가슴 아픈",
+   "note": "매우 실망스럽고 슬픈 감정을 나타내는 형용사."
+  },
+  {
+   "term": "worth this moment",
+   "ko": "이 순간의 가치가 있는",
+   "note": "make A worth B: A를 B의 가치가 있게 만들다."
+  },
+  {
+   "term": "overwhelming",
+   "ko": "벅찬, 압도적인",
+   "note": "감정이 너무 커서 감당하기 힘든 상태."
+  }
+ ]
+}

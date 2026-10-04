@@ -1,0 +1,698 @@
+{
+ "video_id": "sEQuSjKLTEU",
+ "source_title": "Empowering Women and Girls Through Sports: India-Pakistan Soccer Exchange",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 67.98,
+  "end": 91.14
+ },
+ "sentences": [
+  {
+   "text": "Sports is all about, when you train, you get better.",
+   "chunks": [
+    {
+     "en": "Sports is all about,",
+     "ko": "스포츠란 다 이런 거야,"
+    },
+    {
+     "en": "when you train,",
+     "ko": "네가 훈련할 때,"
+    },
+    {
+     "en": "you get better.",
+     "ko": "너는 더 나아진다는 것."
+    }
+   ],
+   "words": [
+    {
+     "w": "Sports",
+     "strong": true,
+     "link": true,
+     "syl": "SPORTS"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "train,",
+     "strong": true,
+     "link": false,
+     "syl": "TRAIN"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better.",
+     "strong": true,
+     "link": false,
+     "syl": "BET"
+    }
+   ],
+   "tip": "Sports is는 s가 다음 모음과 이어져 '스포r디즈'처럼 들려요.",
+   "start": 67.98,
+   "end": 70.55619047619048
+  },
+  {
+   "text": "It doesn't matter what gender you are, whether they are a boy or a girl, if you train hard enough, you're definitely going to be as good or actually better than a guy.",
+   "chunks": [
+    {
+     "en": "It doesn't matter what gender you are,",
+     "ko": "무슨 성별이든 상관없어,"
+    },
+    {
+     "en": "whether they are a boy or a girl,",
+     "ko": "남자이든 여자이든,"
+    },
+    {
+     "en": "if you train hard enough,",
+     "ko": "네가 충분히 열심히 훈련하면,"
+    },
+    {
+     "en": "you're definitely going to be as good or actually better than a guy.",
+     "ko": "너는 분명히 남자만큼 잘하거나 실제로는 더 잘하게 될 거야."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doesn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "matter",
+     "strong": true,
+     "link": false,
+     "syl": "MAT"
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gender",
+     "strong": true,
+     "link": false,
+     "syl": "GEN"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whether",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "boy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "girl,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "train",
+     "strong": true,
+     "link": false,
+     "syl": "TRAIN"
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": true,
+     "syl": "HARD"
+    },
+    {
+     "w": "enough,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "definitely",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": true,
+     "link": false,
+     "syl": "BET"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "guy.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "going to는 '거너'처럼 빠르게 이어져 발음돼요.",
+   "start": 70.55619047619048,
+   "end": 77.07
+  },
+  {
+   "text": "Because, generally, women don't get to do so many things as well.",
+   "chunks": [
+    {
+     "en": "Because, generally,",
+     "ko": "왜냐하면, 일반적으로,"
+    },
+    {
+     "en": "women don't get to do",
+     "ko": "여성들은 그렇게 많은 것들을 하지 못해"
+    },
+    {
+     "en": "so many things as well.",
+     "ko": "남자만큼 잘."
+    }
+   ],
+   "words": [
+    {
+     "w": "Because,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "generally,",
+     "strong": true,
+     "link": false,
+     "syl": "GEN"
+    },
+    {
+     "w": "women",
+     "strong": true,
+     "link": false,
+     "syl": "WO"
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": true,
+     "link": false,
+     "syl": "THINGS"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well.",
+     "strong": true,
+     "link": false,
+     "syl": "WELL"
+    }
+   ],
+   "tip": "get to는 '게투'처럼 t가 약하게 발음돼요.",
+   "start": 77.07,
+   "end": 80.49
+  },
+  {
+   "text": "They are considered, a woman should be a housewife taking care of children, but through sports, they get to express themselves in so many different ways.",
+   "chunks": [
+    {
+     "en": "They are considered,",
+     "ko": "그들은 여겨져,"
+    },
+    {
+     "en": "a woman should be a housewife taking care of children,",
+     "ko": "여자는 아이들을 돌보는 가정주부여야 한다고,"
+    },
+    {
+     "en": "but through sports,",
+     "ko": "하지만 스포츠를 통해,"
+    },
+    {
+     "en": "they get to express themselves in so many different ways.",
+     "ko": "그들은 여러 다른 방식으로 자신을 표현하게 된다는 것."
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "considered,",
+     "strong": true,
+     "link": false,
+     "syl": "SID"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "woman",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "housewife",
+     "strong": true,
+     "link": false,
+     "syl": "HOUSE"
+    },
+    {
+     "w": "taking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "care",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "children,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sports,",
+     "strong": true,
+     "link": false,
+     "syl": "SPORTS"
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "express",
+     "strong": true,
+     "link": false,
+     "syl": "PRESS"
+    },
+    {
+     "w": "themselves",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    },
+    {
+     "w": "ways.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "care of처럼 자음이 다음 모음과 이어져 '케어러브'처럼 들려요.",
+   "start": 80.49,
+   "end": 87.061875
+  },
+  {
+   "text": "It shows that we have power.",
+   "chunks": [
+    {
+     "en": "It shows that",
+     "ko": "그건 보여줘,"
+    },
+    {
+     "en": "we have power.",
+     "ko": "우리에게 힘이 있다는 걸."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shows",
+     "strong": true,
+     "link": false,
+     "syl": "SHOWS"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "power.",
+     "strong": true,
+     "link": false,
+     "syl": "POW"
+    }
+   ],
+   "tip": "shows that가 끊김 없이 자연스럽게 이어져요.",
+   "start": 87.061875,
+   "end": 88.665
+  },
+  {
+   "text": "We're not little girly-girls over there.",
+   "chunks": [
+    {
+     "en": "We're not little girly-girls",
+     "ko": "우리는 여리여리한 소녀들이 아니야"
+    },
+    {
+     "en": "over there.",
+     "ko": "거기서는."
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "link": false,
+     "syl": "LIT"
+    },
+    {
+     "w": "girly-girls",
+     "strong": true,
+     "link": true,
+     "syl": "GIRL"
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "girly-girls over처럼 s가 다음 모음과 연결돼요.",
+   "start": 88.665,
+   "end": 91.14
+  }
+ ],
+ "questions": [
+  {
+   "q": "According to the speaker, what happens when you train, regardless of gender?",
+   "options": [
+    "You get better at the sport",
+    "You become exactly like a boy",
+    "You stop enjoying the sport"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 훈련하면 더 나아진다고 말해요."
+  },
+  {
+   "q": "What traditional role does the speaker say women are expected to have?",
+   "options": [
+    "A professional athlete",
+    "A housewife taking care of children",
+    "A team coach"
+   ],
+   "answer": 1,
+   "why": "여자는 아이들을 돌보는 가정주부여야 한다고 여겨진다는 문장에서 확인돼요."
+  },
+  {
+   "q": "What does sports give women a chance to do, according to the speaker?",
+   "options": [
+    "Avoid competition",
+    "Express themselves in many different ways",
+    "Stay at home more often"
+   ],
+   "answer": 1,
+   "why": "스포츠를 통해 다양한 방식으로 자신을 표현하게 된다고 말해요."
+  },
+  {
+   "q": "How does the speaker describe women like herself in sports?",
+   "options": [
+    "As little girly-girls",
+    "As having power, not just little girly-girls",
+    "As weaker than boys"
+   ],
+   "answer": 1,
+   "why": "힘이 있고 여리여리한 소녀들이 아니라는 마지막 문장에서 확인돼요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "train hard enough",
+   "ko": "충분히 열심히 훈련하다",
+   "note": "if절에서 조건을 말할 때 자주 쓰는 표현이에요."
+  },
+  {
+   "term": "get to do something",
+   "ko": "~할 기회를 얻다, ~하게 되다",
+   "note": "허락이나 기회의 의미를 담고 있어요."
+  },
+  {
+   "term": "housewife",
+   "ko": "가정주부",
+   "note": "전통적인 여성의 역할을 가리킬 때 쓰는 말이에요."
+  },
+  {
+   "term": "express themselves",
+   "ko": "자신을 표현하다",
+   "note": "감정이나 개성을 드러낸다는 뜻이에요."
+  },
+  {
+   "term": "girly-girl",
+   "ko": "여리여리하고 전형적으로 여성스러운 소녀",
+   "note": "다소 구어적이며 가벼운 의미로 쓰여요."
+  }
+ ]
+}

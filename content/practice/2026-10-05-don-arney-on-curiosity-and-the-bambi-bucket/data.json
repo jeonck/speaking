@@ -1,0 +1,483 @@
+{
+ "video_id": "Rqequ7HdK5Y",
+ "source_title": "Don Arney, 2017 National Inventors Hall of Fame Inductee",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 35.44,
+  "end": 60.67
+ },
+ "sentences": [
+  {
+   "text": "I was always curious how things worked, and I enjoyed taking things apart.",
+   "chunks": [
+    {
+     "en": "I was always curious how things worked,",
+     "ko": "나는 항상 사물이 어떻게 작동하는지 궁금했어,"
+    },
+    {
+     "en": "and I enjoyed taking things apart.",
+     "ko": "그리고 물건을 분해하는 걸 즐겼어."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "curious",
+     "strong": true,
+     "link": false,
+     "syl": "CUR"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worked,",
+     "strong": true,
+     "link": false,
+     "syl": "WORKED"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoyed",
+     "strong": true,
+     "link": false,
+     "syl": "JOYED"
+    },
+    {
+     "w": "taking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "apart.",
+     "strong": true,
+     "link": false,
+     "syl": "PART"
+    }
+   ],
+   "tip": "and I처럼 d가 다음 모음과 이어져요.",
+   "start": 35.44,
+   "end": 40.33
+  },
+  {
+   "text": "Didn't always get them back together again, but every person has their own innate abilities.",
+   "chunks": [
+    {
+     "en": "Didn't always get them back together again,",
+     "ko": "항상 다시 조립하지는 못했지만,"
+    },
+    {
+     "en": "but every person has their own innate abilities.",
+     "ko": "누구나 자기만의 타고난 능력이 있어."
+    }
+   ],
+   "words": [
+    {
+     "w": "Didn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together",
+     "strong": true,
+     "link": false,
+     "syl": "GETH"
+    },
+    {
+     "w": "again,",
+     "strong": true,
+     "link": false,
+     "syl": "GAIN"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "person",
+     "strong": true,
+     "link": false,
+     "syl": "PER"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "own",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "innate",
+     "strong": true,
+     "link": false,
+     "syl": "NATE"
+    },
+    {
+     "w": "abilities.",
+     "strong": true,
+     "link": false,
+     "syl": "BIL"
+    }
+   ],
+   "tip": "but every처럼 t가 다음 모음과 이어져요.",
+   "start": 40.33,
+   "end": 45.48
+  },
+  {
+   "text": "And mine was just seeing something that existed, and then just a natural curiosity if it can be done a different way.",
+   "chunks": [
+    {
+     "en": "And mine was just seeing something that existed,",
+     "ko": "그리고 내 것은 그냥 존재하는 걸 본 거였어,"
+    },
+    {
+     "en": "and then just a natural curiosity",
+     "ko": "그리고 그냥 자연스러운 호기심이었지"
+    },
+    {
+     "en": "if it can be done a different way.",
+     "ko": "다른 방식으로 할 수 있는지에 대한."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mine",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seeing",
+     "strong": true,
+     "link": false,
+     "syl": "SEE"
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "existed,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "natural",
+     "strong": true,
+     "link": false,
+     "syl": "NAT"
+    },
+    {
+     "w": "curiosity",
+     "strong": true,
+     "link": false,
+     "syl": "OS"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "done",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    },
+    {
+     "w": "way.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "done a처럼 n이 다음 모음과 이어져요.",
+   "start": 45.48,
+   "end": 55.66
+  },
+  {
+   "text": "The Bambi Bucket came into being by a bit of a circuitous process.",
+   "chunks": [
+    {
+     "en": "The Bambi Bucket came into being",
+     "ko": "뱀비 버킷은 생겨났어"
+    },
+    {
+     "en": "by a bit of a circuitous process.",
+     "ko": "좀 복잡한 과정을 거쳐서."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Bambi",
+     "strong": true,
+     "link": false,
+     "syl": "BAM"
+    },
+    {
+     "w": "Bucket",
+     "strong": true,
+     "link": false,
+     "syl": "BUCK"
+    },
+    {
+     "w": "came",
+     "strong": true,
+     "link": false,
+     "syl": "CAME"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bit",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "circuitous",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "process.",
+     "strong": true,
+     "link": false,
+     "syl": "PRO"
+    }
+   ],
+   "tip": "bit of a처럼 끝소리들이 다음 모음과 줄줄이 이어져요.",
+   "start": 55.66,
+   "end": 60.67
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker enjoy doing growing up?",
+   "options": [
+    "Taking things apart to see how they worked",
+    "Avoiding anything mechanical",
+    "Only reading about inventions"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 사물을 분해하는 걸 즐겼다고 말해요."
+  },
+  {
+   "q": "What does the speaker say about people's abilities?",
+   "options": [
+    "Every person has their own innate abilities",
+    "Only trained engineers have useful skills",
+    "Abilities can't be developed"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 누구나 타고난 능력이 있다고 말해요."
+  },
+  {
+   "q": "What kind of curiosity does the speaker describe having?",
+   "options": [
+    "A natural curiosity about whether things could be done a different way",
+    "No curiosity at all",
+    "Curiosity only about nature"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 다른 방식으로 할 수 있는지에 대한 자연스러운 호기심이라고 말해요."
+  },
+  {
+   "q": "How does the speaker describe the process that led to the Bambi Bucket?",
+   "options": [
+    "A bit of a circuitous process",
+    "A quick, simple process",
+    "A process planned from the very start"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 '복잡한 과정'이라고 말해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "take things apart",
+   "ko": "물건을 분해하다",
+   "note": "궁금해서 기계 등을 뜯어본다는 뜻이에요."
+  },
+  {
+   "term": "innate abilities",
+   "ko": "타고난 능력",
+   "note": "배우지 않고 원래 가지고 있는 재능을 말해요."
+  },
+  {
+   "term": "come into being",
+   "ko": "생겨나다, 탄생하다",
+   "note": "어떤 것이 처음 만들어질 때 써요."
+  },
+  {
+   "term": "circuitous process",
+   "ko": "복잡하고 우회적인 과정",
+   "note": "곧바로 가지 않고 돌아가는 과정을 뜻해요."
+  }
+ ]
+}

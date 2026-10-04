@@ -1,0 +1,508 @@
+{
+ "video_id": "CpgAcQmIw8k",
+ "source_title": "Empowering Women & Girls Through Sports",
+ "source_channel": "Bureau of Educational and Cultural Affairs",
+ "segment": {
+  "start": 28.02,
+  "end": 53.29
+ },
+ "sentences": [
+  {
+   "text": "I feel like it is a great opportunity for young girls to experience a different kind of lifestyle.",
+   "chunks": [
+    {
+     "en": "I feel like it is a great opportunity",
+     "ko": "저는 그게 정말 좋은 기회라고 생각해요"
+    },
+    {
+     "en": "for young girls to experience a different kind of lifestyle.",
+     "ko": "어린 소녀들이 다른 삶의 방식을 경험할 수 있는."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false,
+     "syl": "FEEL"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opportunity",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "young",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "girls",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experience",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lifestyle.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "a great opportunity에서 opportunity에 강세를 주고 나머지는 약하게 읽으세요.",
+   "start": 28.02,
+   "end": 33.18
+  },
+  {
+   "text": "I met very different people from different countries.",
+   "chunks": [
+    {
+     "en": "I met very different people",
+     "ko": "저는 정말 다양한 사람들을 만났어요"
+    },
+    {
+     "en": "from different countries.",
+     "ko": "여러 다른 나라에서 온."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "met",
+     "strong": true,
+     "link": false,
+     "syl": "MET"
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "countries.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "different가 두 번 나오는데 둘 다 가볍게 강조해 대비를 살리세요.",
+   "start": 33.18,
+   "end": 38.12
+  },
+  {
+   "text": "When I play basketball with girls from all over the world, it really doesn't matter because basketball is a universal sport, and it doesn't matter what country you're from, what language you speak.",
+   "chunks": [
+    {
+     "en": "When I play basketball with girls from all over the world,",
+     "ko": "제가 전 세계 소녀들과 농구를 할 때,"
+    },
+    {
+     "en": "it really doesn't matter because basketball is a universal sport,",
+     "ko": "농구는 만국 공통의 스포츠라서 전혀 문제가 안 되고,"
+    },
+    {
+     "en": "and it doesn't matter what country you're from, what language you speak.",
+     "ko": "어느 나라에서 왔는지, 어떤 언어를 쓰는지도 상관없어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basketball",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "girls",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doesn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "matter",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basketball",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "universal",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "sport,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doesn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "matter",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "country",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "language",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speak.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "doesn't matter를 반복할 때 보다 부드럽게 흘려 읽으세요.",
+   "start": 38.12,
+   "end": 49.49
+  },
+  {
+   "text": "It really doesn't matter because we can all communicate with basketball.",
+   "chunks": [
+    {
+     "en": "It really doesn't matter",
+     "ko": "전혀 상관없어요"
+    },
+    {
+     "en": "because we can all communicate with basketball.",
+     "ko": "왜냐하면 우리는 모두 농구로 소통할 수 있으니까요."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doesn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "matter",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "communicate",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basketball.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "communicate with basketball을 한 호흡으로 리듬 있게 읽으세요.",
+   "start": 49.49,
+   "end": 53.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say sports can offer young girls?",
+   "options": [
+    "A great opportunity to experience a different kind of lifestyle",
+    "A way to earn a high salary quickly",
+    "A chance to avoid school"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 소녀들에게 다른 삶의 방식을 경험할 좋은 기회라고 말함."
+  },
+  {
+   "q": "Who did the speaker meet through basketball?",
+   "options": [
+    "Very different people from different countries",
+    "Only people from their own country",
+    "Mostly professional coaches"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 여러 다른 나라 출신의 다양한 사람들을 만났다고 말함."
+  },
+  {
+   "q": "According to the speaker, why doesn't it matter what country or language someone speaks?",
+   "options": [
+    "Because basketball is a universal sport",
+    "Because everyone speaks English anyway",
+    "Because the games are not competitive"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 농구는 만국 공통의 스포츠라고 말함."
+  },
+  {
+   "q": "How does the speaker say people can communicate across language barriers?",
+   "options": [
+    "Through basketball itself",
+    "Through a translator",
+    "Through writing notes"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 농구로 모두 소통할 수 있다고 말함."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a great opportunity",
+   "ko": "아주 좋은 기회",
+   "note": "긍정적 가능성을 강조하는 표현."
+  },
+  {
+   "term": "a different kind of lifestyle",
+   "ko": "다른 삶의 방식",
+   "note": "평소와 다른 생활 방식을 가리키는 표현."
+  },
+  {
+   "term": "all over the world",
+   "ko": "세계 곳곳에서",
+   "note": "전 세계 여러 지역을 가리키는 표현."
+  },
+  {
+   "term": "universal sport",
+   "ko": "만국 공통의 스포츠",
+   "note": "모두가 공통적으로 즐기고 이해하는 스포츠."
+  },
+  {
+   "term": "it doesn't matter",
+   "ko": "상관없다, 중요하지 않다",
+   "note": "조건이나 차이가 영향을 주지 않음을 말할 때 쓰는 표현."
+  }
+ ]
+}

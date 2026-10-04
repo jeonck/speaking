@@ -1,0 +1,451 @@
+{
+ "video_id": "qZaAXLgBVvE",
+ "source_title": "Frances Ligler, 2017 National Inventors Hall of Fame Inductee",
+ "source_channel": "USPTO",
+ "segment": {
+  "start": 84.43,
+  "end": 109.57
+ },
+ "sentences": [
+  {
+   "text": "Turns out he was a gourmet cook as well as a biochemist, and he took me on as his graduate student.",
+   "chunks": [
+    {
+     "en": "Turns out he was a gourmet cook as well as a biochemist,",
+     "ko": "알고 보니 그는 미식가 요리사이면서 생화학자이기도 했다"
+    },
+    {
+     "en": "and he took me on as his graduate student.",
+     "ko": "그리고 그는 나를 그의 대학원생으로 받아주었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Turns",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gourmet",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "cook",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biochemist,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "his",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "graduate",
+     "strong": true,
+     "link": false,
+     "syl": "GRAD"
+    },
+    {
+     "w": "student.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "turns out, was a, as a처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 84.43,
+   "end": 90.92
+  },
+  {
+   "text": "The biosensor is a piece of hardware that incorporates a biological molecule to do detection.",
+   "chunks": [
+    {
+     "en": "The biosensor is a piece of hardware",
+     "ko": "바이오센서는 하드웨어의 한 부분이다"
+    },
+    {
+     "en": "that incorporates a biological molecule",
+     "ko": "생물학적 분자를 포함하는"
+    },
+    {
+     "en": "to do detection.",
+     "ko": "감지를 수행하기 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biosensor",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "piece",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hardware",
+     "strong": true,
+     "link": false,
+     "syl": "HARD"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "incorporates",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biological",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "molecule",
+     "strong": true,
+     "link": false,
+     "syl": "MOL"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "detection.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "is a, incorporates a처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 90.92,
+   "end": 99.49
+  },
+  {
+   "text": "So the biological molecule can be an antibody or a piece of DNA or anything that can bind to a target that you're interested in.",
+   "chunks": [
+    {
+     "en": "So the biological molecule can be an antibody",
+     "ko": "그래서 그 생물학적 분자는 항체일 수도 있고"
+    },
+    {
+     "en": "or a piece of DNA",
+     "ko": "혹은 DNA 조각일 수도 있고"
+    },
+    {
+     "en": "or anything that can bind",
+     "ko": "혹은 결합할 수 있는 어떤 것이든 될 수 있다"
+    },
+    {
+     "en": "to a target that you're interested in.",
+     "ko": "당신이 관심 있는 표적에"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biological",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "molecule",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "antibody",
+     "strong": true,
+     "link": false,
+     "syl": "AN"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "piece",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "DNA",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "anything",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bind",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "target",
+     "strong": true,
+     "link": false,
+     "syl": "TAR"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "interested",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "an antibody, you're interested처럼 자음 뒤에 모음이 오면 이어서 발음하세요.",
+   "start": 99.49,
+   "end": 109.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What two things was the speaker's graduate mentor known for?",
+   "options": [
+    "Being a gourmet cook and a biochemist",
+    "Being a chef and a musician",
+    "Being a doctor and an artist"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 'he was a gourmet cook as well as a biochemist'라고 말한다."
+  },
+  {
+   "q": "What is a biosensor, according to the segment?",
+   "options": [
+    "A piece of hardware that incorporates a biological molecule to do detection",
+    "A type of computer chip",
+    "A kind of medicine"
+   ],
+   "answer": 0,
+   "why": "'The biosensor is a piece of hardware that incorporates a biological molecule to do detection.'에서 확인된다."
+  },
+  {
+   "q": "Which of these can the biological molecule in a biosensor be?",
+   "options": [
+    "An antibody or a piece of DNA",
+    "Only a piece of metal",
+    "Only a type of sugar"
+   ],
+   "answer": 0,
+   "why": "'the biological molecule can be an antibody or a piece of DNA'라고 말한다."
+  },
+  {
+   "q": "What does the biological molecule do in a biosensor?",
+   "options": [
+    "It binds to a target you're interested in",
+    "It powers the device's battery",
+    "It stores data"
+   ],
+   "answer": 0,
+   "why": "'anything that can bind to a target that you're interested in'에서 알 수 있다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "biosensor",
+   "ko": "바이오센서",
+   "note": "생물학적 분자를 이용해 특정 물질을 감지하는 장치"
+  },
+  {
+   "term": "antibody",
+   "ko": "항체",
+   "note": "특정 물질(항원)에 결합하는 면역 단백질"
+  },
+  {
+   "term": "incorporate",
+   "ko": "포함하다, 통합하다",
+   "note": "여러 요소를 하나로 결합한다는 뜻"
+  },
+  {
+   "term": "bind to",
+   "ko": "~에 결합하다",
+   "note": "biosensor 설명에서 자주 쓰이는 표현"
+  }
+ ]
+}
