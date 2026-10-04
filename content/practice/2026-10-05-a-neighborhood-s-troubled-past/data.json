@@ -1,0 +1,503 @@
+{
+ "video_id": "4asSAKKa0Ro",
+ "source_title": "HOME is a Catalyst for Change - HUD",
+ "source_channel": "HUD",
+ "segment": {
+  "start": 267.65,
+  "end": 293.41
+ },
+ "sentences": [
+  {
+   "text": "The area around this neighborhood was completely encircled by privately owned rental housing that was pretty dilapidated.",
+   "chunks": [
+    {
+     "en": "The area around this neighborhood",
+     "ko": "이 동네 주변 지역은"
+    },
+    {
+     "en": "was completely encircled by",
+     "ko": "완전히 둘러싸여 있었다"
+    },
+    {
+     "en": "privately owned rental housing",
+     "ko": "개인 소유의 임대 주택으로"
+    },
+    {
+     "en": "that was pretty dilapidated.",
+     "ko": "꽤 낡고 허름한 상태였다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "area",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "completely",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "encircled",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "privately",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "owned",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rental",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "housing",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dilapidated.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "강세는 area, encircled, rental, housing, dilapidated 같은 내용어에 두고, 'around this'는 부드럽게 이어 읽으세요.",
+   "start": 267.65,
+   "end": 275.19666666666666
+  },
+  {
+   "text": "It was home to a lot of drug dealers, to a lot of transient people, a lot of vacancies, a lot of activity that made life much harder for people in Morningside homes.",
+   "chunks": [
+    {
+     "en": "It was home to a lot of drug dealers,",
+     "ko": "그곳은 많은 마약상들의 거처였고"
+    },
+    {
+     "en": "to a lot of transient people,",
+     "ko": "유동 인구가 많은 곳이었으며"
+    },
+    {
+     "en": "a lot of vacancies,",
+     "ko": "빈집도 많았고"
+    },
+    {
+     "en": "a lot of activity",
+     "ko": "여러 활동들이 있어서"
+    },
+    {
+     "en": "that made life much harder for people in Morningside homes.",
+     "ko": "모닝사이드 홈스 주민들의 삶을 훨씬 더 힘들게 만들었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drug",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dealers,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transient",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "people,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vacancies,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "activity",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "harder",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Morningside",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "homes.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'lot of'는 매번 t가 다음 모음으로 이어져 '라러브'처럼 들립니다. 강세는 dealers, transient, vacancies, activity, harder에 두세요.",
+   "start": 275.19666666666666,
+   "end": 286.39
+  },
+  {
+   "text": "It was not good at all.",
+   "chunks": [
+    {
+     "en": "It was not good",
+     "ko": "전혀 좋지 않았다"
+    },
+    {
+     "en": "at all.",
+     "ko": "조금도"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": true,
+     "syl": "GOOD"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'good at all'은 끝자음이 다음 모음으로 이어져 한 단어처럼 들립니다.",
+   "start": 286.39,
+   "end": 289.28058823529415
+  },
+  {
+   "text": "I know there was a lot of drugs and violence.",
+   "chunks": [
+    {
+     "en": "I know",
+     "ko": "내가 알기로는"
+    },
+    {
+     "en": "there was a lot of drugs and violence.",
+     "ko": "마약과 폭력이 많았다."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drugs",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "violence.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "강세는 know, drugs, violence에 두고, 'drugs and'는 이어서 읽으세요.",
+   "start": 289.28058823529415,
+   "end": 293.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What was the area around the neighborhood like before?",
+   "options": [
+    "Surrounded by well-maintained public parks",
+    "Surrounded by dilapidated, privately owned rental housing",
+    "Surrounded by new apartment buildings"
+   ],
+   "answer": 1,
+   "why": "첫 문장에서 'completely encircled by privately owned rental housing that was pretty dilapidated'라고 설명함."
+  },
+  {
+   "q": "What kinds of problems did the neighborhood face?",
+   "options": [
+    "Drug dealing, transient people, and vacancies",
+    "Heavy traffic and noise",
+    "Lack of schools and parks"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 마약상, 유동 인구, 빈집 문제를 나열함."
+  },
+  {
+   "q": "How does the speaker describe the overall situation?",
+   "options": [
+    "Not good at all",
+    "Surprisingly pleasant",
+    "Slowly improving"
+   ],
+   "answer": 0,
+   "why": "'It was not good at all.' 문장에서 직접 언급함."
+  },
+  {
+   "q": "What else does the speaker say was common in the area?",
+   "options": [
+    "Drugs and violence",
+    "Street festivals",
+    "Job opportunities"
+   ],
+   "answer": 0,
+   "why": "마지막 문장 'there was a lot of drugs and violence'에서 확인됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "encircled by",
+   "ko": "~로 둘러싸인",
+   "note": "건물이나 지역이 완전히 둘러싸인 상태를 말할 때 씀."
+  },
+  {
+   "term": "dilapidated",
+   "ko": "낡고 허름한",
+   "note": "오래되어 상태가 나쁜 건물을 묘사할 때 사용."
+  },
+  {
+   "term": "transient people",
+   "ko": "유동 인구, 일시적으로 머무는 사람들",
+   "note": "한곳에 정착하지 않고 자주 옮겨 다니는 사람들을 가리킴."
+  },
+  {
+   "term": "vacancies",
+   "ko": "공실, 빈집",
+   "note": "사람이 살지 않는 빈 건물이나 방을 의미."
+  },
+  {
+   "term": "not good at all",
+   "ko": "전혀 좋지 않다",
+   "note": "강한 부정을 나타내는 구어체 표현."
+  }
+ ]
+}

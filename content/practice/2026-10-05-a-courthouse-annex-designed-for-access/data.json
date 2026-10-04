@@ -1,0 +1,453 @@
+{
+ "video_id": "u0arRA7E2wI",
+ "source_title": "Ashley U.S. Courthouse New Annex and Modernization",
+ "source_channel": "GSA",
+ "segment": {
+  "start": 34.89,
+  "end": 62.34
+ },
+ "sentences": [
+  {
+   "text": "As visitors approach the building, gently sloped paths help solidify the entryway and provide accessibility.",
+   "chunks": [
+    {
+     "en": "As visitors approach the building,",
+     "ko": "방문객들이 건물에 다가갈 때,"
+    },
+    {
+     "en": "gently sloped paths",
+     "ko": "완만하게 경사진 길들이"
+    },
+    {
+     "en": "help solidify the entryway",
+     "ko": "입구를 견고하게 다져주고"
+    },
+    {
+     "en": "and provide accessibility.",
+     "ko": "접근성도 제공한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visitors",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "approach",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "gently",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sloped",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "paths",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "solidify",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "entryway",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "provide",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "accessibility.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "sloped paths처럼 자음이 겹치면 약간 멈춘 듯 끊어 발음해요.",
+   "start": 34.89,
+   "end": 43.57
+  },
+  {
+   "text": "Once inside, visitors find two obvious ways to go, both leading directly to the building's main public-facing offices.",
+   "chunks": [
+    {
+     "en": "Once inside,",
+     "ko": "안으로 들어가면,"
+    },
+    {
+     "en": "visitors find two obvious ways to go,",
+     "ko": "방문객들은 갈 수 있는 두 가지 명확한 길을 발견하는데,"
+    },
+    {
+     "en": "both leading directly",
+     "ko": "둘 다 곧바로 이어진다"
+    },
+    {
+     "en": "to the building's main public-facing offices.",
+     "ko": "건물의 주요 민원 사무실로."
+    }
+   ],
+   "words": [
+    {
+     "w": "Once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inside,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visitors",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "obvious",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "ways",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leading",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "directly",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "main",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "public-facing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "offices.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "leading directly는 ng 소리를 약하게 흘려서 다음 단어로 이어주세요.",
+   "start": 43.57,
+   "end": 52.27
+  },
+  {
+   "text": "Gone is the current guard booth, and the security station has shifted to the right, opening the lobby to natural light and its original expansive view.",
+   "chunks": [
+    {
+     "en": "Gone is the current guard booth,",
+     "ko": "지금의 경비 초소는 사라졌고,"
+    },
+    {
+     "en": "and the security station has shifted to the right,",
+     "ko": "보안 구역은 오른쪽으로 옮겨졌다,"
+    },
+    {
+     "en": "opening the lobby to natural light",
+     "ko": "로비를 자연광에 열어주고"
+    },
+    {
+     "en": "and its original expansive view.",
+     "ko": "원래의 넓은 전망도 열어준다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Gone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "current",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "guard",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "booth,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "security",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "station",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shifted",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opening",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lobby",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "natural",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "original",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "expansive",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "view.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Gone is처럼 문장 맨 앞 강조 단어는 또렷하게 시작하세요.",
+   "start": 52.27,
+   "end": 62.34
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do the sloped paths near the entrance help provide?",
+   "options": [
+    "Accessibility",
+    "Shade",
+    "Extra parking"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 sloped paths가 accessibility를 제공한다고 말합니다."
+  },
+  {
+   "q": "Where do both paths inside the building lead?",
+   "options": [
+    "To a parking garage",
+    "To the main public-facing offices",
+    "To the courtroom only"
+   ],
+   "answer": 1,
+   "why": "두 번째 문장에서 두 길 모두 main public-facing offices로 이어진다고 설명합니다."
+  },
+  {
+   "q": "What has happened to the security station?",
+   "options": [
+    "It was removed entirely",
+    "It has shifted to the right",
+    "It was moved underground"
+   ],
+   "answer": 1,
+   "why": "세 번째 문장에서 security station이 오른쪽으로 옮겨졌다고 말합니다."
+  },
+  {
+   "q": "What does opening up the guard booth area give the lobby?",
+   "options": [
+    "More office space",
+    "Natural light and an expansive view",
+    "A new entrance"
+   ],
+   "answer": 1,
+   "why": "세 번째 문장 마지막 부분에서 lobby가 자연광과 넓은 전망을 얻는다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sloped path",
+   "ko": "경사진 길",
+   "note": "건물 접근성을 설명할 때 자주 쓰는 표현입니다."
+  },
+  {
+   "term": "accessibility",
+   "ko": "접근성",
+   "note": "장애인 등 모든 사람이 이용할 수 있는 정도를 뜻합니다."
+  },
+  {
+   "term": "public-facing",
+   "ko": "민원 응대용, 대중을 상대하는",
+   "note": "직원 전용이 아니라 일반인이 직접 이용하는 공간을 가리킵니다."
+  },
+  {
+   "term": "shift to the right",
+   "ko": "오른쪽으로 옮기다",
+   "note": "위치나 배치가 이동했음을 나타냅니다."
+  },
+  {
+   "term": "expansive view",
+   "ko": "넓게 펼쳐진 전망",
+   "note": "창이나 로비 등에서 보이는 시야가 넓다는 뜻입니다."
+  }
+ ]
+}

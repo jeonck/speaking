@@ -1,0 +1,429 @@
+{
+ "video_id": "J1LmDAJFf94",
+ "source_title": "The Story of the Architect(s) of the Capitol",
+ "source_channel": "Architect of the Capitol",
+ "segment": {
+  "start": 42.71,
+  "end": 67.47
+ },
+ "sentences": [
+  {
+   "text": "Back in 1793, a man named William Thornton won a public competition for the design of the U.S. Capitol building.",
+   "chunks": [
+    {
+     "en": "Back in 1793,",
+     "ko": "1793년으로 돌아가서,"
+    },
+    {
+     "en": "a man named William Thornton",
+     "ko": "윌리엄 손턴이라는 이름의 한 남자가"
+    },
+    {
+     "en": "won a public competition",
+     "ko": "공개 공모전에서 우승했다"
+    },
+    {
+     "en": "for the design of the U.S. Capitol building.",
+     "ko": "미국 국회의사당 건물 디자인을 위한"
+    }
+   ],
+   "words": [
+    {
+     "w": "Back",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1793,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "man",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "named",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "William",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Thornton",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "won",
+     "strong": true,
+     "link": true,
+     "syl": "WON"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "public",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "competition",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "design",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Capitol",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "building.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "숫자와 이름 뒤에 오는 동사는 약하게, Thornton과 competition에 강세를 주세요.",
+   "start": 42.71,
+   "end": 51.22
+  },
+  {
+   "text": "Today, he is credited as the first Architect of the Capitol.",
+   "chunks": [
+    {
+     "en": "Today,",
+     "ko": "오늘날,"
+    },
+    {
+     "en": "he is credited",
+     "ko": "그는 인정받는다"
+    },
+    {
+     "en": "as the first Architect",
+     "ko": "최초의 건축가로"
+    },
+    {
+     "en": "of the Capitol.",
+     "ko": "국회의사당의"
+    }
+   ],
+   "words": [
+    {
+     "w": "Today,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "credited",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": true,
+     "syl": "FIRST"
+    },
+    {
+     "w": "Architect",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Capitol.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "credited as의 as는 약하게 발음하고 Architect에 강세를 주세요.",
+   "start": 51.22,
+   "end": 55.97
+  },
+  {
+   "text": "Once the designs were complete, construction began.",
+   "chunks": [
+    {
+     "en": "Once the designs were complete,",
+     "ko": "디자인이 완성되자,"
+    },
+    {
+     "en": "construction began.",
+     "ko": "공사가 시작되었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "designs",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "complete,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "construction",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "began.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "complete와 began에서 끝의 폭발음을 분명히 끊어주세요.",
+   "start": 55.97,
+   "end": 59.66
+  },
+  {
+   "text": "On September 18th, 1793, I had the great honor of setting the building's cornerstone.",
+   "chunks": [
+    {
+     "en": "On September 18th, 1793,",
+     "ko": "1793년 9월 18일에,"
+    },
+    {
+     "en": "I had the great honor",
+     "ko": "나는 큰 영광을 가졌다"
+    },
+    {
+     "en": "of setting the building's cornerstone.",
+     "ko": "건물의 주춧돌을 놓는"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "September",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "18th,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "1793,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "honor",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "setting",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cornerstone.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "had the처럼 d와 th는 빠르게 이어지고 honor의 h는 거의 들리지 않아요.",
+   "start": 59.66,
+   "end": 67.47
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did William Thornton win in 1793?",
+   "options": [
+    "A public competition for the Capitol design",
+    "A seat in Congress",
+    "An award for painting"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 Thornton이 공개 공모전에서 우승했다고 설명합니다."
+  },
+  {
+   "q": "What title is William Thornton credited with today?",
+   "options": [
+    "The first Architect of the Capitol",
+    "The first President",
+    "A famous sculptor"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 그가 최초의 Architect of the Capitol로 인정받는다고 나옵니다."
+  },
+  {
+   "q": "What happened after the designs were complete?",
+   "options": [
+    "Construction began",
+    "The building was demolished",
+    "The competition restarted"
+   ],
+   "answer": 0,
+   "why": "문장 3에서 디자인 완성 후 공사가 시작됐다고 합니다."
+  },
+  {
+   "q": "What did the speaker in the final sentence do?",
+   "options": [
+    "Set the building's cornerstone",
+    "Designed the dome",
+    "Signed the competition rules"
+   ],
+   "answer": 0,
+   "why": "문장 4에서 주춧돌을 놓는 영광을 가졌다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "public competition",
+   "ko": "공개 공모전",
+   "note": "디자인이나 작품을 공개로 모집해 심사하는 대회"
+  },
+  {
+   "term": "credited as",
+   "ko": "~로 인정받다",
+   "note": "공식적으로 어떤 역할이나 업적의 주인공으로 인정됨"
+  },
+  {
+   "term": "cornerstone",
+   "ko": "주춧돌",
+   "note": "건물 기초에 놓는 첫 돌로, 상징적인 의미도 있음"
+  },
+  {
+   "term": "the great honor of",
+   "ko": "~하는 큰 영광",
+   "note": "격식 있는 자리에서 자주 쓰는 표현"
+  }
+ ]
+}

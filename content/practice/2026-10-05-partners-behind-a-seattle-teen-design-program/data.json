@@ -1,0 +1,497 @@
+{
+ "video_id": "aGIe-BA2b0k",
+ "source_title": "Seattle's Beacon Hill Street Stories",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 102.45,
+  "end": 127.65
+ },
+ "sentences": [
+  {
+   "text": "Seattle Parks and Recreation provided a great place to have our class here at Jefferson Community Center, and the students came mostly from schools within the neighborhood.",
+   "chunks": [
+    {
+     "en": "Seattle Parks and Recreation provided a great place",
+     "ko": "시애틀 공원관리과는 좋은 장소를 제공해 주었다"
+    },
+    {
+     "en": "to have our class here at Jefferson Community Center,",
+     "ko": "이곳 제퍼슨 커뮤니티 센터에서 수업을 할 수 있도록"
+    },
+    {
+     "en": "and the students came mostly from schools within the neighborhood.",
+     "ko": "그리고 학생들은 대부분 이 동네 안의 학교들에서 왔다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Seattle",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Parks",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Recreation",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "provided",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Jefferson",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Community",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Center,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "came",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mostly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "schools",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "within",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "강세는 provided, great, place, students, neighborhood에 두고, 'place to'와 'have our'는 자연스럽게 이어 읽으세요.",
+   "start": 102.45,
+   "end": 113.27
+  },
+  {
+   "text": "We also have a long-standing relationship with both the American Society of Landscape Architects, and the Klondike Gold Rush National Historical Park here in Seattle, so we were super excited to bring professional designers and storytellers into the Teen Room to interact with the students.",
+   "chunks": [
+    {
+     "en": "We also have a long-standing relationship",
+     "ko": "우리는 또한 오랜 관계를 맺고 있다"
+    },
+    {
+     "en": "with both the American Society of Landscape Architects,",
+     "ko": "미국 조경건축가협회와"
+    },
+    {
+     "en": "and the Klondike Gold Rush National Historical Park here in Seattle,",
+     "ko": "그리고 이곳 시애틀의 클론다이크 골드러시 국립역사공원 양쪽과"
+    },
+    {
+     "en": "so we were super excited to bring",
+     "ko": "그래서 데려오게 되어 매우 신이 났다"
+    },
+    {
+     "en": "professional designers and storytellers into the Teen Room",
+     "ko": "전문 디자이너와 이야기꾼들을 '틴 룸'으로"
+    },
+    {
+     "en": "to interact with the students.",
+     "ko": "학생들과 교류하도록."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long-standing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relationship",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "American",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Society",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Landscape",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Architects,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Klondike",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Gold",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Rush",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Historical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Park",
+     "strong": true,
+     "link": false,
+     "syl": "PARK"
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Seattle,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "super",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "excited",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "professional",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "designers",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storytellers",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Teen",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Room",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "interact",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "문장이 길어서 쉼표 단위로 끊어 읽고, relationship, Park, excited, designers, storytellers에 강세를 주세요.",
+   "start": 113.27,
+   "end": 127.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did the class take place?",
+   "options": [
+    "At Jefferson Community Center",
+    "At a local school",
+    "At a city library"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 'to have our class here at Jefferson Community Center'라고 언급함."
+  },
+  {
+   "q": "Where did most of the students come from?",
+   "options": [
+    "Schools within the neighborhood",
+    "Other cities",
+    "Online programs"
+   ],
+   "answer": 0,
+   "why": "첫 문장 마지막 부분에서 확인 가능함."
+  },
+  {
+   "q": "Which organizations does the speaker mention having a long-standing relationship with?",
+   "options": [
+    "The American Society of Landscape Architects and a national historical park",
+    "A local university and a hospital",
+    "A tech company and a museum"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 두 기관을 직접 언급함."
+  },
+  {
+   "q": "Who was brought in to interact with the students?",
+   "options": [
+    "Professional designers and storytellers",
+    "Local politicians",
+    "Professional athletes"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 마지막 부분에서 확인됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "long-standing relationship",
+   "ko": "오랜 관계",
+   "note": "오랫동안 지속되어 온 협력 관계를 말할 때 씀."
+  },
+  {
+   "term": "Society of Landscape Architects",
+   "ko": "조경건축가협회",
+   "note": "조경 설계 전문가들의 협회 이름."
+  },
+  {
+   "term": "National Historical Park",
+   "ko": "국립역사공원",
+   "note": "역사적으로 중요한 장소를 보호하는 국립공원의 한 종류."
+  },
+  {
+   "term": "Teen Room",
+   "ko": "청소년 공간",
+   "note": "도서관이나 커뮤니티센터 안의 청소년 전용 공간을 가리킴."
+  },
+  {
+   "term": "interact with",
+   "ko": "~와 교류하다",
+   "note": "서로 소통하고 어울리는 것을 의미."
+  }
+ ]
+}

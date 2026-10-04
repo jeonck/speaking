@@ -1,0 +1,480 @@
+{
+ "video_id": "TgC9s3RTXIA",
+ "source_title": "Connecting to Gateway Communities",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 43.0,
+  "end": 64.5
+ },
+ "sentences": [
+  {
+   "text": "We decided that we needed help putting together all the different ideas that we'd been working on for 20 years to turn Lions Park into a gateway for Grand County, and so we were offered the opportunity through the RTCA program.",
+   "chunks": [
+    {
+     "en": "We decided that we needed help putting together all the different ideas",
+     "ko": "우리는 여러 다른 아이디어들을 정리하는 데 도움이 필요하다고 결정했다"
+    },
+    {
+     "en": "that we'd been working on for 20 years to turn Lions Park into a gateway for Grand County,",
+     "ko": "20년 동안 라이온스 파크를 그랜드 카운티의 관문으로 만들기 위해 작업해 온"
+    },
+    {
+     "en": "and so we were offered the opportunity through the RTCA program.",
+     "ko": "그래서 RTCA 프로그램을 통해 그 기회를 얻게 되었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decided",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "needed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "putting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ideas",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "20",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turn",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lions",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Park",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gateway",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Grand",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "County,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "offered",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opportunity",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "RTCA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "program.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "강세는 decided, ideas, working, gateway, opportunity에 두고, 'into a'처럼 모음이 이어지는 부분은 부드럽게 연결하세요.",
+   "start": 43.0,
+   "end": 56.0
+  },
+  {
+   "text": "And basically it saved us; we were able to put together a plan that everybody could agree on, and we're about ready to go to construction in another couple months.",
+   "chunks": [
+    {
+     "en": "And basically it saved us;",
+     "ko": "그리고 사실상 그것이 우리를 구해 주었다;"
+    },
+    {
+     "en": "we were able to put together a plan that everybody could agree on,",
+     "ko": "우리는 모두가 동의할 수 있는 계획을 세울 수 있었고,"
+    },
+    {
+     "en": "and we're about ready to go to construction in another couple months.",
+     "ko": "몇 달 후면 공사에 들어갈 준비가 거의 다 되었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basically",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saved",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "us;",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "able",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "together",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plan",
+     "strong": true,
+     "link": false,
+     "syl": "PLAN"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everybody",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "agree",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "on,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ready",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "construction",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "another",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "couple",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "months.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "강세는 saved, plan, agree, ready, construction에 두고, 'put together'처럼 자음이 겹치는 부분은 하나로 이어 발음하세요.",
+   "start": 56.0,
+   "end": 64.5
+  }
+ ],
+ "questions": [
+  {
+   "q": "What had the speaker been working on for 20 years?",
+   "options": [
+    "Turning Lions Park into a gateway for Grand County",
+    "Building a new school",
+    "Starting a local business"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 'working on for 20 years to turn Lions Park into a gateway for Grand County'라고 언급함."
+  },
+  {
+   "q": "What program offered them the opportunity to get help?",
+   "options": [
+    "The RTCA program",
+    "A state grant",
+    "A private foundation"
+   ],
+   "answer": 0,
+   "why": "'we were offered the opportunity through the RTCA program'에서 확인됨."
+  },
+  {
+   "q": "What did the program help them achieve?",
+   "options": [
+    "A plan that everybody could agree on",
+    "A bigger budget",
+    "Faster construction equipment"
+   ],
+   "answer": 0,
+   "why": "'we were able to put together a plan that everybody could agree on'에서 확인됨."
+  },
+  {
+   "q": "What is about to happen next?",
+   "options": [
+    "Construction is about to begin",
+    "The park will be closed",
+    "The plan will be redesigned"
+   ],
+   "answer": 0,
+   "why": "마지막 문장 'about ready to go to construction in another couple months'에서 확인됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "gateway",
+   "ko": "관문, 입구 역할을 하는 곳",
+   "note": "어떤 지역으로 들어가는 상징적인 출입구를 의미."
+  },
+  {
+   "term": "RTCA program",
+   "ko": "RTCA 프로그램",
+   "note": "미국 국립공원청의 지역 공원·강·트레일 지원 프로그램."
+  },
+  {
+   "term": "put together",
+   "ko": "조립하다, 준비해서 만들다",
+   "note": "계획이나 자료 등을 모아 완성하는 것을 의미."
+  },
+  {
+   "term": "agree on",
+   "ko": "~에 동의하다",
+   "note": "여러 사람이 하나의 의견에 합의하는 것."
+  },
+  {
+   "term": "about ready to",
+   "ko": "거의 준비가 된",
+   "note": "곧 어떤 일을 시작할 준비가 다 되었다는 뜻의 구어체 표현."
+  }
+ ]
+}

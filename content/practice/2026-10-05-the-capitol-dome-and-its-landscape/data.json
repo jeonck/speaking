@@ -1,0 +1,517 @@
+{
+ "video_id": "ao3mxCVxIDM",
+ "source_title": "Celebrate Capitol Grounds",
+ "source_channel": "Architect of the Capitol",
+ "segment": {
+  "start": 37.7,
+  "end": 62.73
+ },
+ "sentences": [
+  {
+   "text": "A lot of times the sun will be coming up on the back of the Capitol Dome and it will be bright pink and it's beautiful.",
+   "chunks": [
+    {
+     "en": "A lot of times",
+     "ko": "많은 경우에"
+    },
+    {
+     "en": "the sun will be coming up",
+     "ko": "해가 떠오를 것이다"
+    },
+    {
+     "en": "on the back of the Capitol Dome",
+     "ko": "국회의사당 돔 뒤편에서"
+    },
+    {
+     "en": "and it will be bright pink",
+     "ko": "그리고 밝은 핑크빛이 될 것이다"
+    },
+    {
+     "en": "and it's beautiful.",
+     "ko": "그리고 아름답다."
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "times",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sun",
+     "strong": true,
+     "link": false,
+     "syl": "SUN"
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coming",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Capitol",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Dome",
+     "strong": true,
+     "link": true,
+     "syl": "DOME"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bright",
+     "strong": true,
+     "link": false,
+     "syl": "BRIGHT"
+    },
+    {
+     "w": "pink",
+     "strong": true,
+     "link": true,
+     "syl": "PINK"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beautiful.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "coming up, back of처럼 자음과 모음은 이어서 발음하세요.",
+   "start": 37.7,
+   "end": 43.79
+  },
+  {
+   "text": "The building is a huge symbol, and we try to preserve what we're responsible for outside.",
+   "chunks": [
+    {
+     "en": "The building is a huge symbol,",
+     "ko": "그 건물은 큰 상징이다,"
+    },
+    {
+     "en": "and we try to preserve",
+     "ko": "그리고 우리는 보존하려고 노력한다"
+    },
+    {
+     "en": "what we're responsible for outside.",
+     "ko": "우리가 바깥에서 책임지고 있는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "huge",
+     "strong": true,
+     "link": false,
+     "syl": "HUGE"
+    },
+    {
+     "w": "symbol,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "preserve",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "responsible",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "outside.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "symbol과 responsible에 강세를 주고 나머지는 빠르게 지나가세요.",
+   "start": 43.79,
+   "end": 50.63
+  },
+  {
+   "text": "The whole idea of the landscape here is to really accentuate the dignity of the U.S. Capitol Building.",
+   "chunks": [
+    {
+     "en": "The whole idea of the landscape here",
+     "ko": "여기 경관의 전체적인 아이디어는"
+    },
+    {
+     "en": "is to really accentuate",
+     "ko": "정말로 강조하는 것이다"
+    },
+    {
+     "en": "the dignity of the U.S. Capitol Building.",
+     "ko": "미국 국회의사당 건물의 품위를"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whole",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "idea",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "landscape",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "accentuate",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dignity",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Capitol",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Building.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "idea of, dignity of처럼 모음으로 이어지는 연결에 주의하세요.",
+   "start": 50.63,
+   "end": 58.48
+  },
+  {
+   "text": "Frederick Olmsted is the father of American Landscape Architecture.",
+   "chunks": [
+    {
+     "en": "Frederick Olmsted",
+     "ko": "프레더릭 옴스테드는"
+    },
+    {
+     "en": "is the father of American Landscape Architecture.",
+     "ko": "미국 조경 건축의 아버지이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Frederick",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Olmsted",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "father",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "American",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Landscape",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Architecture.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "father of처럼 r 뒤에 모음이 오면 자연스럽게 이어져요.",
+   "start": 58.48,
+   "end": 62.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "What color does the sun make the Capitol Dome look like?",
+   "options": [
+    "Bright pink",
+    "Deep blue",
+    "Pale yellow"
+   ],
+   "answer": 0,
+   "why": "문장 1에서 해가 뜨면 돔이 밝은 핑크빛이 된다고 말합니다."
+  },
+  {
+   "q": "How is the building described?",
+   "options": [
+    "A huge symbol",
+    "A small office",
+    "A modern museum"
+   ],
+   "answer": 0,
+   "why": "문장 2에서 건물이 huge symbol이라고 설명합니다."
+  },
+  {
+   "q": "What is the goal of the landscape around the Capitol?",
+   "options": [
+    "To accentuate the building's dignity",
+    "To block the view of the dome",
+    "To create a parking area"
+   ],
+   "answer": 0,
+   "why": "문장 3에서 경관의 목적이 dignity를 accentuate하는 것이라 합니다."
+  },
+  {
+   "q": "Who is called the father of American Landscape Architecture?",
+   "options": [
+    "Frederick Olmsted",
+    "William Thornton",
+    "A park ranger"
+   ],
+   "answer": 0,
+   "why": "문장 4에서 Frederick Olmsted가 father of American Landscape Architecture라고 소개됩니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "huge symbol",
+   "ko": "거대한 상징",
+   "note": "건물이나 대상이 갖는 큰 상징적 의미"
+  },
+  {
+   "term": "preserve",
+   "ko": "보존하다",
+   "note": "원래 상태를 유지하려고 애쓰다"
+  },
+  {
+   "term": "accentuate",
+   "ko": "강조하다, 부각하다",
+   "note": "어떤 특징을 더 눈에 띄게 하다"
+  },
+  {
+   "term": "dignity",
+   "ko": "품위, 위엄",
+   "note": "격식 있고 존엄한 분위기"
+  }
+ ]
+}

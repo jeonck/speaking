@@ -1,0 +1,375 @@
+{
+ "video_id": "pgai_6wTP_I",
+ "source_title": "United States Courthouse, Cedar Rapids, Iowa",
+ "source_channel": "GSA",
+ "segment": {
+  "start": 10.3,
+  "end": 35.33
+ },
+ "sentences": [
+  {
+   "text": "The jury was very attracted to the concept of transparency in this courthouse.",
+   "chunks": [
+    {
+     "en": "The jury was very attracted",
+     "ko": "심사단은 매우 매력을 느꼈다"
+    },
+    {
+     "en": "to the concept of transparency",
+     "ko": "투명성이라는 개념에"
+    },
+    {
+     "en": "in this courthouse.",
+     "ko": "이 법원 건물에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jury",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "attracted",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "concept",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transparency",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "courthouse.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "concept of처럼 of는 약하게 '어'로 줄여서 이어 읽어요.",
+   "start": 10.3,
+   "end": 18.7
+  },
+  {
+   "text": "What captivated us was the concept of approach, or literal transparency to the public, and the process of the courts.",
+   "chunks": [
+    {
+     "en": "What captivated us",
+     "ko": "우리를 사로잡은 것은"
+    },
+    {
+     "en": "was the concept of approach,",
+     "ko": "접근이라는 개념이었고,"
+    },
+    {
+     "en": "or literal transparency to the public,",
+     "ko": "대중을 향한 말 그대로의 투명성,"
+    },
+    {
+     "en": "and the process of the courts.",
+     "ko": "그리고 법원의 절차였다."
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "captivated",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "concept",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "approach,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "literal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transparency",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "public,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "process",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "courts.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "captivated us는 d와 u가 이어져 '캡티베이러스'처럼 들려요.",
+   "start": 18.7,
+   "end": 29.2
+  },
+  {
+   "text": "Every courtroom, or every door to the courtroom, is visible from the road.",
+   "chunks": [
+    {
+     "en": "Every courtroom,",
+     "ko": "모든 법정,"
+    },
+    {
+     "en": "or every door to the courtroom,",
+     "ko": "즉 법정으로 가는 모든 문은,"
+    },
+    {
+     "en": "is visible from the road.",
+     "ko": "도로에서 보인다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "courtroom,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "door",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "courtroom,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visible",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "road.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "visible from은 자음이 겹쳐 부드럽게 이어집니다.",
+   "start": 29.2,
+   "end": 35.33
+  }
+ ],
+ "questions": [
+  {
+   "q": "What concept most attracted the jury to this courthouse design?",
+   "options": [
+    "Transparency",
+    "Cost efficiency",
+    "Historical style"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 jury가 투명성(transparency) 개념에 매력을 느꼈다고 말합니다."
+  },
+  {
+   "q": "According to the speaker, transparency in this building means approach and what else?",
+   "options": [
+    "The height of the building",
+    "The process of the courts",
+    "The number of judges"
+   ],
+   "answer": 1,
+   "why": "두 번째 문장에서 'and the process of the courts'라고 언급됩니다."
+  },
+  {
+   "q": "What can be seen from the road, according to the segment?",
+   "options": [
+    "Every courtroom door",
+    "The parking lot",
+    "The judge's office"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 모든 법정 문이 도로에서 보인다고 설명합니다."
+  },
+  {
+   "q": "Who is described as being captivated by the concept of approach?",
+   "options": [
+    "The construction workers",
+    "The speaker and colleagues (\"us\")",
+    "The local government"
+   ],
+   "answer": 1,
+   "why": "두 번째 문장에서 'What captivated us'라고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "be attracted to",
+   "ko": "~에 매력을 느끼다",
+   "note": "concept나 idea 같은 추상적인 대상에도 자연스럽게 씁니다."
+  },
+  {
+   "term": "captivate",
+   "ko": "마음을 사로잡다",
+   "note": "attract보다 더 강하게 빠져드는 느낌을 줄 때 씁니다."
+  },
+  {
+   "term": "literal transparency",
+   "ko": "말 그대로의 투명성",
+   "note": "비유가 아니라 실제로 유리처럼 투명하다는 뜻으로 쓰입니다."
+  },
+  {
+   "term": "visible from",
+   "ko": "~에서 보이는",
+   "note": "from 뒤에 보는 위치(장소)를 넣습니다."
+  }
+ ]
+}
