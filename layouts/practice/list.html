@@ -92,7 +92,18 @@
         pager.appendChild(b);
       }
       btn("이전", state.page - 1, { cls: "list-pager-step", label: "이전 쪽" });
-      for (var i = 1; i <= pages; i++) btn(String(i), i, { label: i + "쪽" });
+      // 쪽이 많으면 처음·끝과 지금 쪽 앞뒤 하나만 — 사이는 '…'
+      var last = 0;
+      for (var i = 1; i <= pages; i++) {
+        if (i !== 1 && i !== pages && Math.abs(i - state.page) > 1) continue;
+        if (last && i - last > 1) {
+          var gap = document.createElement("span");
+          gap.className = "list-pager-gap"; gap.textContent = "…"; gap.setAttribute("aria-hidden", "true");
+          pager.appendChild(gap);
+        }
+        btn(String(i), i, { label: i + "쪽" });
+        last = i;
+      }
       btn("다음", state.page + 1, { cls: "list-pager-step", label: "다음 쪽" });
       if (scroll) list.scrollIntoView({ behavior: "smooth", block: "start" });
     }

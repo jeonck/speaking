@@ -953,6 +953,7 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 .list-pager-btn:disabled { opacity: 0.4; cursor: default; }
 .list-pager-btn:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 2px; }
 .list-pager-step { padding: 0 1rem; }
+.list-pager-gap { display: inline-flex; align-items: center; justify-content: center; min-width: 24px; color: var(--secondary); }
 .tag-chip--more:hover { color: var(--pr-ink-on); }
 .tag-chip:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
 
