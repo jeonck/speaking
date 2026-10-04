@@ -1,0 +1,446 @@
+{
+ "video_id": "A6vach-JKf0",
+ "source_title": "National Parks in the History of Science: Dendrochronology",
+ "segment": {
+  "start": 164.2,
+  "end": 190.66
+ },
+ "sentences": [
+  {
+   "text": "Trees are living archives of information.",
+   "chunks": [
+    {
+     "en": "Trees are living archives",
+     "ko": "나무는 살아 있는 기록 보관소다"
+    },
+    {
+     "en": "of information.",
+     "ko": "정보의"
+    }
+   ],
+   "words": [
+    {
+     "w": "Trees",
+     "strong": true,
+     "link": false,
+     "syl": "Trees"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "living",
+     "strong": true,
+     "link": false,
+     "syl": "liv"
+    },
+    {
+     "w": "archives",
+     "strong": true,
+     "link": true,
+     "syl": "ar"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "information.",
+     "strong": true,
+     "link": false,
+     "syl": "ma"
+    }
+   ],
+   "tip": "archives는 AR에 강세를 두고 '아카이브즈', archives of는 '아카이브저브'처럼 이어요.",
+   "start": 164.23,
+   "end": 168.43
+  },
+  {
+   "text": "They stand in one place for a long time and collect environmental information, ecological information, information about humans.",
+   "chunks": [
+    {
+     "en": "They stand in one place",
+     "ko": "나무는 한곳에 서서"
+    },
+    {
+     "en": "for a long time",
+     "ko": "오랫동안"
+    },
+    {
+     "en": "and collect environmental information,",
+     "ko": "환경 정보를 모은다,"
+    },
+    {
+     "en": "ecological information,",
+     "ko": "생태 정보,"
+    },
+    {
+     "en": "information about humans.",
+     "ko": "사람에 관한 정보까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stand",
+     "strong": true,
+     "link": true,
+     "syl": "stand"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "collect",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "environmental",
+     "strong": true,
+     "link": false,
+     "syl": "men"
+    },
+    {
+     "w": "information,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ecological",
+     "strong": true,
+     "link": false,
+     "syl": "log"
+    },
+    {
+     "w": "information,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "information",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "humans.",
+     "strong": true,
+     "link": false,
+     "syl": "hu"
+    }
+   ],
+   "tip": "environmental, ecological, humans를 나열할 때 앞 항목은 끝을 살짝 올리고 마지막만 내려요.",
+   "start": 168.43,
+   "end": 180.02
+  },
+  {
+   "text": "You can see that in good years, wet years, you get a fat ring, and in dry years you get a narrow ring.",
+   "chunks": [
+    {
+     "en": "You can see that",
+     "ko": "보면 알 수 있어요"
+    },
+    {
+     "en": "in good years, wet years,",
+     "ko": "좋은 해, 비가 많은 해에는"
+    },
+    {
+     "en": "you get a fat ring,",
+     "ko": "굵은 나이테가 생기고,"
+    },
+    {
+     "en": "and in dry years",
+     "ko": "가문 해에는"
+    },
+    {
+     "en": "you get a narrow ring.",
+     "ko": "가는 나이테가 생겨요"
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    },
+    {
+     "w": "years,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wet",
+     "strong": true,
+     "link": false,
+     "syl": "wet"
+    },
+    {
+     "w": "years,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fat",
+     "strong": true,
+     "link": false,
+     "syl": "fat"
+    },
+    {
+     "w": "ring,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dry",
+     "strong": true,
+     "link": false,
+     "syl": "dry"
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "narrow",
+     "strong": true,
+     "link": false,
+     "syl": "nar"
+    },
+    {
+     "w": "ring.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "wet과 dry, fat과 narrow를 대조로 또렷하게 말해요. get a는 '게러'처럼 이어요.",
+   "start": 180.02,
+   "end": 187.24
+  },
+  {
+   "text": "And it's that pattern that's important.",
+   "chunks": [
+    {
+     "en": "And it's that pattern",
+     "ko": "바로 그 패턴이"
+    },
+    {
+     "en": "that's important.",
+     "ko": "중요한 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pattern",
+     "strong": true,
+     "link": false,
+     "syl": "pat"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "important.",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    }
+   ],
+   "tip": "it's that ~ that 강조 구문이라 pattern에 가장 큰 힘을 줘요.",
+   "start": 187.24,
+   "end": 190.66
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker call trees?",
+   "options": [
+    "Living archives of information",
+    "Old buildings",
+    "Weather machines"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Trees are living archives of information."
+  },
+  {
+   "q": "What kind of ring does a tree make in a dry year?",
+   "options": [
+    "A fat ring",
+    "A narrow ring",
+    "No ring at all"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: in dry years you get a narrow ring."
+  },
+  {
+   "q": "What matters most, according to the speaker?",
+   "options": [
+    "The color of the wood",
+    "The pattern of the rings",
+    "The height of the tree"
+   ],
+   "answer": 1,
+   "why": "4번째 문장: it's that pattern that's important."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "archives",
+   "ko": "기록 보관소",
+   "note": "living archives = 살아 있는 기록. 강세는 AR-chives."
+  },
+  {
+   "term": "environmental",
+   "ko": "환경의",
+   "note": "강세는 en-vi-ron-MEN-tal."
+  },
+  {
+   "term": "ecological",
+   "ko": "생태의",
+   "note": "강세는 e-co-LOG-i-cal."
+  },
+  {
+   "term": "narrow",
+   "ko": "좁은, 가는",
+   "note": "wide(넓은)의 반대말."
+  },
+  {
+   "term": "pattern",
+   "ko": "반복되는 모양, 패턴",
+   "note": "it's that pattern that ~ 처럼 강조할 때 자주 나와요."
+  }
+ ]
+}

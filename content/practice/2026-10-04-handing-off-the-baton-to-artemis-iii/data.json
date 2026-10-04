@@ -1,0 +1,409 @@
+{
+ "video_id": "jHKf1eHp3eQ",
+ "source_title": "Artemis III: Our Next Step Back to the Moon",
+ "segment": {
+  "start": 28.1,
+  "end": 44.3
+ },
+ "sentences": [
+  {
+   "text": "There's only one primary goal of Artemis II: it's to prepare the spacecraft for Artemis III.",
+   "chunks": [
+    {
+     "en": "There's only one primary goal of Artemis II:",
+     "ko": "아르테미스 2호의 주된 목표는 단 하나다:"
+    },
+    {
+     "en": "it's to prepare the spacecraft",
+     "ko": "바로 우주선을 준비하는 것"
+    },
+    {
+     "en": "for Artemis III.",
+     "ko": "아르테미스 3호를 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": true,
+     "link": false,
+     "syl": "on"
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "primary",
+     "strong": true,
+     "link": false,
+     "syl": "pri"
+    },
+    {
+     "w": "goal",
+     "strong": true,
+     "link": true,
+     "syl": "goal"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Artemis",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "II:",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prepare",
+     "strong": true,
+     "link": false,
+     "syl": "pare"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spacecraft",
+     "strong": true,
+     "link": false,
+     "syl": "space"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Artemis",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "III.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "goal of Artemis는 l과 v를 이어 '고울러바르테미스'처럼 한 덩어리로 읽어요.",
+   "start": 28.13,
+   "end": 32.78
+  },
+  {
+   "text": "And then we're going to go hand off that baton to Artemis III and then cheer them on full-throated.",
+   "chunks": [
+    {
+     "en": "And then we're going to go hand off that baton",
+     "ko": "그다음 우리는 그 바통을 넘겨줄 거예요"
+    },
+    {
+     "en": "to Artemis III",
+     "ko": "아르테미스 3호에게"
+    },
+    {
+     "en": "and then cheer them on full-throated.",
+     "ko": "그리고 목청껏 응원할 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hand",
+     "strong": true,
+     "link": true,
+     "syl": "hand"
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "baton",
+     "strong": true,
+     "link": false,
+     "syl": "ba"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Artemis",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "III",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cheer",
+     "strong": true,
+     "link": false,
+     "syl": "cheer"
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "full-throated.",
+     "strong": true,
+     "link": false,
+     "syl": "throat"
+    }
+   ],
+   "tip": "going to는 '거너'로 줄고, hand off와 them on은 '핸도프', '데먼'처럼 이어 말해요.",
+   "start": 32.78,
+   "end": 38.3
+  },
+  {
+   "text": "I hope that people recognize that Artemis II was the stepping stone for something so much greater.",
+   "chunks": [
+    {
+     "en": "I hope that people recognize",
+     "ko": "사람들이 알아주면 좋겠어요"
+    },
+    {
+     "en": "that Artemis II was the stepping stone",
+     "ko": "아르테미스 2호가 디딤돌이었다는 것을"
+    },
+    {
+     "en": "for something so much greater.",
+     "ko": "훨씬 더 큰 무언가를 위한"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hope",
+     "strong": true,
+     "link": false,
+     "syl": "hope"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recognize",
+     "strong": true,
+     "link": false,
+     "syl": "rec"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Artemis",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "II",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stepping",
+     "strong": true,
+     "link": false,
+     "syl": "step"
+    },
+    {
+     "w": "stone",
+     "strong": true,
+     "link": false,
+     "syl": "stone"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "greater.",
+     "strong": true,
+     "link": false,
+     "syl": "great"
+    }
+   ],
+   "tip": "stepping stone은 두 단어 모두 강세를 주고, so much greater로 갈수록 힘을 실어요.",
+   "start": 38.3,
+   "end": 44.3
+  }
+ ],
+ "questions": [
+  {
+   "q": "What was the main goal of Artemis II?",
+   "options": [
+    "To land on the Moon",
+    "To prepare the spacecraft for Artemis III",
+    "To build a base on Mars"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: it's to prepare the spacecraft for Artemis III."
+  },
+  {
+   "q": "What does \"hand off that baton\" mean here?",
+   "options": [
+    "Pass the mission on to the next crew",
+    "Stop the program",
+    "Win a race"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: 바통을 넘긴다는 건 다음 팀에게 일을 이어 준다는 비유예요."
+  },
+  {
+   "q": "How does the speaker describe Artemis II?",
+   "options": [
+    "As a failure",
+    "As a stepping stone",
+    "As the final mission"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: Artemis II was the stepping stone for something so much greater."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "primary goal",
+   "ko": "주된 목표",
+   "note": "main goal과 같은 뜻. 강세는 PRI-ma-ry."
+  },
+  {
+   "term": "hand off",
+   "ko": "넘겨주다",
+   "note": "일이나 책임을 다음 사람에게 넘길 때. hand off the baton처럼 써요."
+  },
+  {
+   "term": "cheer on",
+   "ko": "응원하다",
+   "note": "cheer them on처럼 사람을 가운데 넣어요."
+  },
+  {
+   "term": "full-throated",
+   "ko": "목청껏, 열렬히",
+   "note": "온 힘을 다해 지지한다는 뜻으로도 써요."
+  },
+  {
+   "term": "stepping stone",
+   "ko": "디딤돌",
+   "note": "더 큰 목표로 가는 중간 단계."
+  }
+ ]
+}

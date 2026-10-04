@@ -1,0 +1,424 @@
+{
+ "video_id": "JaTnpxNHuAs",
+ "source_title": "Goddard’s rockets, Plasma research, Screen time, Partitives",
+ "segment": {
+  "start": 725.2,
+  "end": 751.2
+ },
+ "sentences": [
+  {
+   "text": "Staring closely at screens for long amounts of time can cause the muscle used for eye focus to become too tense or tight.",
+   "chunks": [
+    {
+     "en": "Staring closely at screens",
+     "ko": "화면을 가까이 들여다보는 것은"
+    },
+    {
+     "en": "for long amounts of time",
+     "ko": "오랜 시간 동안"
+    },
+    {
+     "en": "can cause the muscle used for eye focus",
+     "ko": "눈의 초점을 맞추는 근육이"
+    },
+    {
+     "en": "to become too tense or tight.",
+     "ko": "너무 긴장하거나 뻣뻣해지게 할 수 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Staring",
+     "strong": true,
+     "link": false,
+     "syl": "Star"
+    },
+    {
+     "w": "closely",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "screens",
+     "strong": true,
+     "link": false,
+     "syl": "screens"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amounts",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cause",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "muscle",
+     "strong": true,
+     "link": false,
+     "syl": "mus"
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eye",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "focus",
+     "strong": true,
+     "link": false,
+     "syl": "fo"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tense",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tight.",
+     "strong": true,
+     "link": false,
+     "syl": "tight"
+    }
+   ],
+   "tip": "긴 주어(Staring … time)를 한 숨에 묶고, can cause 앞에서 짧게 쉬어요.",
+   "start": 725.19,
+   "end": 737.4
+  },
+  {
+   "text": "That muscle's not supposed to stay tight all day long.",
+   "chunks": [
+    {
+     "en": "That muscle's not supposed to",
+     "ko": "그 근육은 ~하면 안 되는 거예요"
+    },
+    {
+     "en": "stay tight all day long.",
+     "ko": "하루 종일 긴장한 채로 있는 것"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "muscle's",
+     "strong": true,
+     "link": false,
+     "syl": "mus"
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false,
+     "syl": "not"
+    },
+    {
+     "w": "supposed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tight",
+     "strong": true,
+     "link": true,
+     "syl": "tight"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    },
+    {
+     "w": "long.",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    }
+   ],
+   "tip": "supposed to는 '서포즈터'처럼 d가 거의 안 들리고, tight all은 '타이롤'처럼 이어요.",
+   "start": 737.4,
+   "end": 742.34
+  },
+  {
+   "text": "And if it does, it's like picking up a light weight and trying to hold it over your head for hours.",
+   "chunks": [
+    {
+     "en": "And if it does,",
+     "ko": "만약 그렇게 되면,"
+    },
+    {
+     "en": "it's like picking up a light weight",
+     "ko": "가벼운 물건을 들어 올려"
+    },
+    {
+     "en": "and trying to hold it over your head",
+     "ko": "머리 위로 계속 들고 있으려는 것과 같아요"
+    },
+    {
+     "en": "for hours.",
+     "ko": "몇 시간 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "does,",
+     "strong": true,
+     "link": false,
+     "syl": "does"
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "picking",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": true,
+     "link": false,
+     "syl": "light"
+    },
+    {
+     "w": "weight",
+     "strong": true,
+     "link": false,
+     "syl": "weight"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hold",
+     "strong": true,
+     "link": true,
+     "syl": "hold"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "head",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hours.",
+     "strong": true,
+     "link": false,
+     "syl": "hours"
+    }
+   ],
+   "tip": "picking up a는 '피킹어퍼', hold it over는 '홀디로버'처럼 이어 말해요.",
+   "start": 742.34,
+   "end": 751.2
+  }
+ ],
+ "questions": [
+  {
+   "q": "What can happen to the eye muscle after long screen use?",
+   "options": [
+    "It becomes too tense",
+    "It grows stronger",
+    "It stops working forever"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: can cause the muscle … to become too tense or tight."
+  },
+  {
+   "q": "Is the focusing muscle supposed to stay tight all day?",
+   "options": [
+    "Yes, always",
+    "No, it is not",
+    "Only at night"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: That muscle's not supposed to stay tight all day long."
+  },
+  {
+   "q": "What does the speaker compare it to?",
+   "options": [
+    "Running a marathon",
+    "Holding a light weight over your head for hours",
+    "Lifting a heavy box once"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: like picking up a light weight and trying to hold it over your head for hours."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "staring",
+   "ko": "응시하기, 빤히 보기",
+   "note": "stare at ~을 뚫어지게 보다."
+  },
+  {
+   "term": "amounts of time",
+   "ko": "(긴) 시간",
+   "note": "for long amounts of time = 오랫동안."
+  },
+  {
+   "term": "tense",
+   "ko": "긴장한, 팽팽한",
+   "note": "근육이나 분위기 모두에 써요."
+  },
+  {
+   "term": "supposed to",
+   "ko": "~하기로 되어 있다",
+   "note": "not supposed to = ~하면 안 되는 것."
+  },
+  {
+   "term": "picking up",
+   "ko": "들어 올리기",
+   "note": "pick up a weight처럼 물건을 들 때."
+  }
+ ]
+}

@@ -1,0 +1,492 @@
+{
+ "video_id": "yfPivlhb3b4",
+ "source_title": "Skyscrapers, ADHD, Ornamentals, Catch up",
+ "segment": {
+  "start": 179.2,
+  "end": 208.8
+ },
+ "sentences": [
+  {
+   "text": "Soon after the building was finished, builders in Chicago and New York City began copying and improving on the idea of building upwards.",
+   "chunks": [
+    {
+     "en": "Soon after the building was finished,",
+     "ko": "그 건물이 완공된 직후,"
+    },
+    {
+     "en": "builders in Chicago and New York City",
+     "ko": "시카고와 뉴욕의 건설업자들은"
+    },
+    {
+     "en": "began copying and improving on",
+     "ko": "따라 하고 발전시키기 시작했다"
+    },
+    {
+     "en": "the idea of building upwards.",
+     "ko": "위로 높이 짓는다는 생각을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Soon",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finished,",
+     "strong": true,
+     "link": false,
+     "syl": "fin"
+    },
+    {
+     "w": "builders",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Chicago",
+     "strong": true,
+     "link": false,
+     "syl": "ca"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "New",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "York",
+     "strong": true,
+     "link": false,
+     "syl": "York"
+    },
+    {
+     "w": "City",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "began",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "copying",
+     "strong": true,
+     "link": false,
+     "syl": "cop"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "improving",
+     "strong": true,
+     "link": true,
+     "syl": "prov"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "idea",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "upwards.",
+     "strong": true,
+     "link": false,
+     "syl": "up"
+    }
+   ],
+   "tip": "Chicago는 shi-CA-go로 가운데에 강세, building upwards는 '빌딩업워즈'로 이어요.",
+   "start": 179.21,
+   "end": 189.76
+  },
+  {
+   "text": "Builders in these cities and others would also begin competing for the title of tallest building.",
+   "chunks": [
+    {
+     "en": "Builders in these cities and others",
+     "ko": "이 도시들과 다른 도시의 건설업자들도"
+    },
+    {
+     "en": "would also begin competing",
+     "ko": "경쟁하기 시작했다"
+    },
+    {
+     "en": "for the title of tallest building.",
+     "ko": "가장 높은 건물이라는 타이틀을 두고"
+    }
+   ],
+   "words": [
+    {
+     "w": "Builders",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cities",
+     "strong": true,
+     "link": true,
+     "syl": "cit"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "others",
+     "strong": true,
+     "link": false,
+     "syl": "oth"
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "begin",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "competing",
+     "strong": true,
+     "link": false,
+     "syl": "pet"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "title",
+     "strong": true,
+     "link": true,
+     "syl": "ti"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tallest",
+     "strong": true,
+     "link": false,
+     "syl": "tall"
+    },
+    {
+     "w": "building.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "competing은 com-PET-ing, title of는 '타이틀러브'처럼 이어 말해요.",
+   "start": 189.76,
+   "end": 197.96
+  },
+  {
+   "text": "The Empire State Building in New York City was completed in 1931.",
+   "chunks": [
+    {
+     "en": "The Empire State Building in New York City",
+     "ko": "뉴욕시의 엠파이어 스테이트 빌딩은"
+    },
+    {
+     "en": "was completed in 1931.",
+     "ko": "1931년에 완공됐다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Empire",
+     "strong": true,
+     "link": false,
+     "syl": "Em"
+    },
+    {
+     "w": "State",
+     "strong": true,
+     "link": false,
+     "syl": "State"
+    },
+    {
+     "w": "Building",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "New",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "York",
+     "strong": true,
+     "link": false,
+     "syl": "York"
+    },
+    {
+     "w": "City",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "completed",
+     "strong": true,
+     "link": true,
+     "syl": "plet"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1931.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "1931은 nineteen THIRty-one, completed in은 '컴플리티딘'처럼 이어요.",
+   "start": 197.96,
+   "end": 204.1
+  },
+  {
+   "text": "It was the tallest building in the world for more than 40 years.",
+   "chunks": [
+    {
+     "en": "It was the tallest building in the world",
+     "ko": "세계에서 가장 높은 건물이었다"
+    },
+    {
+     "en": "for more than 40 years.",
+     "ko": "40년 넘게"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tallest",
+     "strong": true,
+     "link": false,
+     "syl": "tall"
+    },
+    {
+     "w": "building",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world",
+     "strong": true,
+     "link": false,
+     "syl": "world"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": true,
+     "link": false,
+     "syl": "more"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "40",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    }
+   ],
+   "tip": "40은 FOR-ty로 첫 음절에 강세를 둬서 14(four-TEEN)와 구별해요.",
+   "start": 204.1,
+   "end": 208.8
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which two cities began copying the idea of building upwards?",
+   "options": [
+    "Chicago and New York City",
+    "Boston and Los Angeles",
+    "London and Paris"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: builders in Chicago and New York City began copying …"
+  },
+  {
+   "q": "When was the Empire State Building completed?",
+   "options": [
+    "In 1913",
+    "In 1931",
+    "In 1973"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: was completed in 1931."
+  },
+  {
+   "q": "For how long was it the tallest building in the world?",
+   "options": [
+    "About 10 years",
+    "More than 40 years",
+    "Over 100 years"
+   ],
+   "answer": 1,
+   "why": "4번째 문장: for more than 40 years."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "soon after",
+   "ko": "~한 직후에",
+   "note": "Soon after the building was finished처럼 시점을 말할 때."
+  },
+  {
+   "term": "improving on",
+   "ko": "~을 개선하다",
+   "note": "improve on an idea = 아이디어를 더 낫게 만들다."
+  },
+  {
+   "term": "upwards",
+   "ko": "위쪽으로",
+   "note": "build upwards = 위로 높이 짓다."
+  },
+  {
+   "term": "competing for",
+   "ko": "~을 두고 경쟁하다",
+   "note": "compete for the title처럼 목표 앞에 for."
+  },
+  {
+   "term": "completed",
+   "ko": "완공된, 끝난",
+   "note": "건물에는 finish보다 complete를 자주 써요."
+  }
+ ]
+}
