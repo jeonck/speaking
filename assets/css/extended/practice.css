@@ -804,6 +804,9 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 }
 .list-topics { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin: -0.5rem 0 2rem; }
 .list-topics-title { margin-right: 0.35rem; font-size: 0.875rem; font-weight: 500; color: var(--secondary); }
+.list-topics[hidden] { display: none; }
+.tag-chip-count { margin-left: 0.35rem; font-variant-numeric: tabular-nums; color: var(--secondary); }
+.tag-chip.is-active .tag-chip-count { color: inherit; opacity: 0.7; }
 .list-toolbar { display: flex; align-items: center; justify-content: flex-end; gap: 0.5rem; margin: 0 0 1rem; }
 .list-toolbar[hidden] { display: none; }
 /* 회색 트랙 위 흰 알약 — 단계 탭과 같은 세그먼트 */
@@ -826,6 +829,8 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 .practice-card:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4px; }
 .practice-card-badges { display: flex; flex-wrap: wrap; gap: 0.35rem; }
 .practice-card-badges .pr-badge { font-size: 0.75rem; }
+/* 원본 채널 — 제목 바로 위 작은 줄 */
+.practice-card-channel { margin-bottom: -0.35rem; font-size: 0.8125rem; font-weight: 500; color: var(--secondary); }
 .practice-card-title { font-family: var(--pr-serif); font-size: 1.75rem; font-weight: 300; line-height: 1.15; letter-spacing: -0.02em; color: var(--primary); }
 .practice-card-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; }
 .practice-card-tag {
