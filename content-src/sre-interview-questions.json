@@ -1,0 +1,83 @@
+{
+ "title": "Smart Questions to Ask in an SRE Interview",
+ "summary": "Four questions a candidate can ask at the end of an SRE job interview: the biggest reliability challenge, shared ownership, service standards, and what a great first year looks like.",
+ "tags": ["business-english", "careers", "technology"],
+ "sentences": [
+  {"text": "What is our biggest reliability challenge right now, and what does success look like in six months?",
+   "chunks": [
+    {"en": "What is our biggest reliability challenge", "ko": "우리의 가장 큰 안정성 과제는 무엇인가요"},
+    {"en": "right now,", "ko": "지금"},
+    {"en": "and what does success look like", "ko": "그리고 성공은 어떤 모습일까요"},
+    {"en": "in six months?", "ko": "6개월 뒤에"}],
+   "words": [
+    {"w": "What", "strong": false, "link": true}, {"w": "is", "strong": false, "link": false},
+    {"w": "our", "strong": false, "link": false}, {"w": "biggest", "strong": true, "syl": "big", "link": false},
+    {"w": "reliability", "strong": true, "syl": "a", "link": false}, {"w": "challenge", "strong": true, "syl": "chal", "link": false},
+    {"w": "right", "strong": false, "link": false}, {"w": "now,", "strong": false, "link": false},
+    {"w": "and", "strong": false, "link": false}, {"w": "what", "strong": false, "link": false},
+    {"w": "does", "strong": false, "link": false}, {"w": "success", "strong": true, "syl": "cess", "link": false},
+    {"w": "look", "strong": false, "link": false}, {"w": "like", "strong": false, "link": true},
+    {"w": "in", "strong": false, "link": false}, {"w": "six", "strong": true, "syl": "six", "link": false},
+    {"w": "months?", "strong": false, "link": false}],
+   "tip": "reliability는 re-li-A-bi-li-ty, 셋째 음절 A에 힘을 줘요. like in은 '라이킨'처럼 붙여 말해요."},
+  {"text": "How do teams share ownership here?",
+   "chunks": [
+    {"en": "How do teams share ownership", "ko": "팀들은 어떻게 책임을 나누나요"},
+    {"en": "here?", "ko": "이곳에서는"}],
+   "words": [
+    {"w": "How", "strong": false, "link": false}, {"w": "do", "strong": false, "link": false},
+    {"w": "teams", "strong": true, "syl": "teams", "link": false}, {"w": "share", "strong": true, "syl": "share", "link": true},
+    {"w": "ownership", "strong": true, "syl": "own", "link": false}, {"w": "here?", "strong": true, "syl": "here", "link": false}],
+   "tip": "share ownership는 r 소리를 다음 모음에 붙여 '셰어로운어십'처럼 이어요."},
+  {"text": "For example, who owns the SLOs?",
+   "chunks": [
+    {"en": "For example,", "ko": "예를 들어"},
+    {"en": "who owns the SLOs?", "ko": "SLO는 누가 책임지나요"}],
+   "words": [
+    {"w": "For", "strong": false, "link": false}, {"w": "example,", "strong": true, "syl": "am", "link": false},
+    {"w": "who", "strong": false, "link": false}, {"w": "owns", "strong": true, "syl": "owns", "link": false},
+    {"w": "the", "strong": false, "link": false}, {"w": "SLOs?", "strong": true, "syl": "Os", "link": false}],
+   "tip": "SLOs는 S-L-Os로 글자를 하나씩 읽고, 마지막 O에 힘을 줘요."},
+  {"text": "How mature are our service standards today—like tracing, SLOs, and incident reviews?",
+   "chunks": [
+    {"en": "How mature are our service standards", "ko": "우리의 서비스 기준은 얼마나 성숙했나요"},
+    {"en": "today—like tracing, SLOs, and incident reviews?", "ko": "지금, 예컨대 트레이싱, SLO, 장애 회고 같은 것들은"}],
+   "words": [
+    {"w": "How", "strong": false, "link": false}, {"w": "mature", "strong": true, "syl": "ture", "link": true},
+    {"w": "are", "strong": false, "link": true}, {"w": "our", "strong": false, "link": false},
+    {"w": "service", "strong": true, "syl": "ser", "link": false}, {"w": "standards", "strong": true, "syl": "stan", "link": false},
+    {"w": "today—like", "strong": false, "link": false}, {"w": "tracing,", "strong": true, "syl": "tra", "link": false},
+    {"w": "SLOs,", "strong": false, "link": false}, {"w": "and", "strong": false, "link": false},
+    {"w": "incident", "strong": true, "syl": "in", "link": false}, {"w": "reviews?", "strong": false, "link": false}],
+   "tip": "mature are our는 '머추어라아워'처럼 이어 말해요. 줄표(—) 자리에서 잠깐 쉬고 예를 나열해요."},
+  {"text": "For the first SRE hire, what does a great first year look like to you?",
+   "chunks": [
+    {"en": "For the first SRE hire,", "ko": "첫 SRE 채용자에게"},
+    {"en": "what does a great first year", "ko": "훌륭한 첫해는"},
+    {"en": "look like to you?", "ko": "어떤 모습인가요"}],
+   "words": [
+    {"w": "For", "strong": false, "link": false}, {"w": "the", "strong": false, "link": false},
+    {"w": "first", "strong": true, "syl": "first", "link": false}, {"w": "SRE", "strong": true, "syl": "E", "link": false},
+    {"w": "hire,", "strong": true, "syl": "hire", "link": false}, {"w": "what", "strong": false, "link": false},
+    {"w": "does", "strong": false, "link": false}, {"w": "a", "strong": false, "link": false},
+    {"w": "great", "strong": true, "syl": "great", "link": false}, {"w": "first", "strong": false, "link": false},
+    {"w": "year", "strong": true, "syl": "year", "link": false}, {"w": "look", "strong": false, "link": false},
+    {"w": "like", "strong": false, "link": false}, {"w": "to", "strong": false, "link": false},
+    {"w": "you?", "strong": false, "link": false}],
+   "tip": "SRE는 S-R-E로 읽고 마지막 E에 힘을 줘요. 끝의 to you는 가볍고 빠르게."}
+ ],
+ "questions": [
+  {"q": "What time frame does the speaker ask about for success?", "options": ["Six weeks", "Six months", "One year"], "answer": 1, "why": "1번째 문장: what does success look like in six months?"},
+  {"q": "What example does the speaker give when asking about shared ownership?", "options": ["Who owns the SLOs", "Who writes the code", "Who hires the engineers"], "answer": 0, "why": "3번째 문장: For example, who owns the SLOs?"},
+  {"q": "Which service standards does the speaker mention?", "options": ["Tracing, SLOs, and incident reviews", "Budgets, salaries, and offices", "Design, marketing, and sales"], "answer": 0, "why": "4번째 문장: like tracing, SLOs, and incident reviews"},
+  {"q": "Who is most likely asking these questions?", "options": ["A candidate interviewing for the first SRE role", "A customer reporting a bug", "A manager firing an engineer"], "answer": 0, "why": "5번째 문장: 첫 SRE 채용 자리에 대해 면접관에게 묻고 있어요."}
+ ],
+ "vocab": [
+  {"term": "reliability", "ko": "안정성, 신뢰성", "note": "서비스가 장애 없이 꾸준히 동작하는 정도. SRE의 핵심 단어예요."},
+  {"term": "share ownership", "ko": "책임을 함께 지다", "note": "한 팀이 아니라 여러 팀이 같이 맡는다는 뜻."},
+  {"term": "SLO", "ko": "서비스 수준 목표", "note": "Service Level Objective. 예: 응답의 99.9%가 300ms 안에."},
+  {"term": "mature", "ko": "성숙한, 체계가 잡힌", "note": "How mature is ~? = ~가 얼마나 자리 잡혔나요?"},
+  {"term": "incident review", "ko": "장애 회고", "note": "장애 뒤 원인과 개선점을 함께 돌아보는 회의."},
+  {"term": "look like", "ko": "~한 모습이다", "note": "What does success look like? = 성공은 어떤 모습인가요?"}
+ ]
+}

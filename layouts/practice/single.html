@@ -32,7 +32,20 @@
       <span class="practice-source-time">{{ div $s 60 }}:{{ printf "%02d" (mod $s 60) }}–{{ div $e 60 }}:{{ printf "%02d" (mod $e 60) }} 구간</span>
       <a class="practice-source-link" href="https://www.youtube.com/watch?v={{ .video_id }}&t={{ $s }}s" rel="noopener" target="_blank" aria-label="원본 영상을 YouTube에서 보기 (새 탭)">YouTube에서 보기 ↗</a>
     </div>
+    {{- else if .audio }}
+    {{- /* 영상 없이 문장으로 만든 실습 — 합성 원어민 음성임을 밝힌다 */}}
+    <div class="practice-source">
+      <span class="practice-source-label">음성</span>
+      <span class="practice-source-main">
+        <span class="practice-source-channel">원어민 합성 음성</span>
+        <span class="practice-source-title">{{ with .voice }}{{ replaceRE ` \(.*\)$` "" . }} (미국 영어){{ else }}미국 영어{{ end }}</span>
+      </span>
+    </div>
     {{- end }}{{ end }}
+    {{- /* 음성 파일은 페이지에서 참조해야 함께 발행된다 */}}
+    {{- with $data }}{{ with .audio }}{{ with $.Resources.Get . }}
+    <link rel="preload" as="audio" href="{{ .RelPermalink }}">
+    {{- end }}{{ end }}{{ end }}
   </header>
 
   <div id="practice-root" data-video-id="{{ .Params.video_id }}"></div>

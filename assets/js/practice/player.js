@@ -37,12 +37,30 @@ function createPlayer(elementId, videoId) {
   );
 }
 
+/** 영상 없이 음성 파일만 있는 실습(합성 원어민 음성)용 — YouTube 플레이어와 같은 네 가지만 흉내 낸다. */
+export function createAudioPlayer(src) {
+  const audio = new Audio(src);
+  audio.preload = "auto";
+  return new Promise((resolve, reject) => {
+    const player = {
+      seekTo: (t) => { audio.currentTime = t; },
+      playVideo: () => { audio.play().catch(() => {}); },
+      pauseVideo: () => audio.pause(),
+      getCurrentTime: () => audio.currentTime,
+    };
+    audio.addEventListener("canplaythrough", () => resolve(player), { once: true });
+    audio.addEventListener("error", () => reject(new Error("음성 파일을 불러오지 못했습니다")), { once: true });
+    audio.load();
+  });
+}
+
 /** ctx.player가 없으면 한 번만 만들어 캐시하고, 있으면 그대로 돌려준다.
  * 생성이 끝나기 전(await 중) 또 불려도 같은 in-flight Promise를 공유해, 두 번째
  * 호출이 createPlayer를 다시 실행해 YT.Player를 중복 생성하는 레이스를 막는다. */
 export function ensurePlayer(ctx, elementId) {
   if (ctx.player) return Promise.resolve(ctx.player);
-  ctx.playerPromise ??= createPlayer(elementId, ctx.data.video_id).then(
+  // 음성 파일 실습은 data.audio(같은 폴더의 파일 이름), 나머지는 YouTube 영상
+  ctx.playerPromise ??= (ctx.data.audio ? createAudioPlayer(ctx.data.audio) : createPlayer(elementId, ctx.data.video_id)).then(
     (p) => {
       ctx.player = p;
       return p;
