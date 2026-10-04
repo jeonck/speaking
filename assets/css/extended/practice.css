@@ -638,10 +638,20 @@ body.list { background: var(--pr-desk); }
 .home-preview-title { display: block; font-family: var(--pr-serif); font-size: 1.5rem; font-weight: 300; line-height: 1.2; letter-spacing: -0.01em; color: var(--primary); }
 .home-preview-badges { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.5rem; }
 .home-preview-badges .pr-badge { display: block; max-width: 100%; font-size: 0.75rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.home-preview-badges .practice-card-tag { white-space: nowrap; }
+/* 원고 첫 문장 — 이 파형이 무슨 말인지, 얇은 세리프로 */
+.home-preview-line {
+  display: block; margin-top: 1.4rem; padding-top: 1.2rem; border-top: 1px solid var(--pr-rule);
+  font-family: var(--pr-serif); font-size: 1.25rem; font-weight: 300; line-height: 1.5; color: var(--pr-body);
+}
 .home-preview-wave { display: flex; align-items: center; justify-content: space-between; height: 64px; margin-top: 1.5rem; }
 .home-preview-wave span { flex: none; width: 3px; height: var(--h); border-radius: 9999px; background: var(--pr-rule-strong); }
 /* 앞쪽 절반은 잉크색 — 재생 위치처럼 */
 .home-preview-wave span:nth-child(-n + 22) { background: var(--pr-ink); }
+/* 공개 자료 줄 — 로고 띠처럼 조용한 글자 이름들 */
+.home-sources { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: center; gap: 0.5rem 1.75rem; margin: 3.5rem 0 0; }
+.home-sources-title { flex-basis: 100%; font-size: 0.8125rem; color: var(--secondary); }
+.home-source { font-family: var(--pr-serif); font-size: 1.25rem; font-weight: 400; letter-spacing: -0.01em; color: var(--pr-body); opacity: 0.75; }
 .home-band { position: relative; padding: 6rem 0; }
 .home-band--paper::before {
   content: ""; position: absolute; z-index: -1; inset: 0 calc(50% - 50vw);

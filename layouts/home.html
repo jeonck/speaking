@@ -37,17 +37,28 @@
         <span class="home-preview-main">
           <span class="home-preview-title">{{ .Title }}</span>
           <span class="home-preview-badges">
-            {{- with $data }}{{ with .source_title }}<span class="pr-badge">{{ . }}</span>{{ end }}{{ end }}
             {{- with $data }}<span class="pr-badge">{{ len .sentences }}문장</span>{{ end }}
             {{- with .Params.duration }}<span class="pr-badge">{{ . }}초</span>{{ end }}
+            {{- range .Params.tags }}<span class="practice-card-tag">{{ partial "tag_name.html" . }}</span>{{ end }}
           </span>
         </span>
         <span class="pr-btn pr-btn--secondary pr-btn--sm home-preview-open">실습 열기</span>
       </span>
+      {{- /* 원고 첫 문장 — 음성 합성 화면의 입력 글처럼, 이 소리가 무슨 말인지 */}}
+      {{- with $data }}{{ with index .sentences 0 }}
+      <span class="home-preview-line" lang="en">{{ .text }}</span>
+      {{- end }}{{ end }}
       <span class="home-preview-wave" aria-hidden="true">
         {{- partial "pr_wave.html" 56 -}}
       </span>
     </a>
+    {{- end }}
+
+    {{- with site.Params.sources }}
+    <p class="home-sources">
+      <span class="home-sources-title">공개 자료로 만든 실습</span>
+      {{- range . }}<span class="home-source">{{ . }}</span>{{ end }}
+    </p>
     {{- end }}
   </section>
 
