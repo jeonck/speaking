@@ -27,7 +27,7 @@ export function mountStage2(panel, ctx) {
     <div class="pr-notice" data-notice="player" hidden></div>
     <div class="pr-toolbar">
       <button class="pr-play-all pr-btn pr-btn--secondary" type="button">▶ 원음 전체 듣기</button>
-      <button class="pr-show-stress pr-btn pr-btn--secondary" type="button">강세·연음 보기</button>
+      <button class="pr-show-stress pr-switch" type="button" role="switch" aria-checked="false"><span class="pr-switch-track" aria-hidden="true"><span></span></span>강세·연음 표시</button>
     </div>
     <div class="pr-script">
       ${data.sentences
@@ -70,16 +70,18 @@ export function mountStage2(panel, ctx) {
     playerNotice.textContent = `원음을 불러올 수 없습니다 (${err.message}) — 녹음·타이머는 계속 사용할 수 있습니다.`;
   }
 
-  // 처음엔 원래 문장 그대로 읽어 보게 하고, 강세·연음 표시는 버튼을 눌러야 공개
+  // 처음엔 원래 문장 그대로 읽어 보게 하고, 강세·연음 표시는 스위치로 켜고 끈다
+  // (표시를 보고 연습한 뒤 다시 꺼서 표시 없이 읽어 볼 수 있게)
   const stressBtn = panel.querySelector(".pr-show-stress");
   stressBtn.addEventListener("click", () => {
+    const on = stressBtn.getAttribute("aria-checked") !== "true";
+    stressBtn.setAttribute("aria-checked", String(on));
     panel.querySelectorAll(".pr-play-row").forEach((row) => {
       const s = data.sentences[Number(row.dataset.i)];
-      row.querySelector(".pr-line").innerHTML = renderStressedSentence(s);
+      row.querySelector(".pr-line").innerHTML = on ? renderStressedSentence(s) : escapeHtml(s.text);
       const tip = row.querySelector(".pr-tip");
-      if (tip) tip.hidden = false;
+      if (tip) tip.hidden = !on;
     });
-    stressBtn.hidden = true;
   });
 
   // 재생이 안 돼도 녹음·타이머는 그대로 쓸 수 있어야 한다 (spec §7)
@@ -188,9 +190,15 @@ export function mountStage2(panel, ctx) {
         ${
           url
             ? `<div class="pr-compare">
-                 <div class="pr-compare-label">🎙️ 내 녹음</div>
-                 <audio class="pr-playback" controls src="${url}"></audio>
-                 <button class="pr-btn pr-btn--secondary" type="button" data-act="original">▶ 원음 전체 듣기</button>
+                 <p class="pr-compare-title">원음과 내 녹음 비교</p>
+                 <div class="pr-compare-row">
+                   <span class="pr-compare-label">원음</span>
+                   <span><button class="pr-btn pr-btn--secondary pr-btn--sm" type="button" data-act="original">▶ 전체 듣기</button></span>
+                 </div>
+                 <div class="pr-compare-row">
+                   <span class="pr-compare-label">내 녹음</span>
+                   <audio class="pr-playback" controls src="${url}"></audio>
+                 </div>
                </div>`
             : ""
         }
