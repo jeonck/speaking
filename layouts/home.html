@@ -22,12 +22,16 @@
       {{- with $latest }}
       <a class="pr-btn pr-btn--primary pr-btn--lg" href="{{ .RelPermalink }}">최신 실습 시작하기</a>
       {{- end }}
+      {{- if site.Params.showAddSegment }}
       <a class="pr-btn pr-btn--secondary pr-btn--lg" href="#home-add">내 구간 추가하는 법</a>
+      {{- else }}
+      <a class="pr-btn pr-btn--secondary pr-btn--lg" href="{{ "practice/" | relURL }}">전체 실습 보기</a>
+      {{- end }}
     </div>
 
     {{- with $latest }}
     {{- /* 오디오 파형 카드 — 실습이 어떤 모습인지 첫 화면에서 보여준다 */}}
-    <a class="home-preview" href="{{ .RelPermalink }}" aria-label="{{ .Title }} 실습 열기">
+    <a class="home-preview{{ if gt (len $pages) 1 }} home-preview--stack{{ end }}" href="{{ .RelPermalink }}" aria-label="{{ .Title }} 실습 열기">
       <span class="home-preview-head">
         <span class="home-preview-icon" aria-hidden="true">EN</span>
         <span class="home-preview-main">
@@ -102,12 +106,31 @@
 
   {{- /* 4. 지금 할 수 있는 실습 */}}
   <section class="home-band home-band--paper" aria-labelledby="home-list-title">
-    <h2 id="home-list-title" class="home-h2">실습 목록</h2>
-    <p class="home-sublede">최신 구간부터 골라 시작하세요.</p>
-    {{- partial "practice_rows.html" $pages.ByDate.Reverse }}
+    <div class="home-section-head">
+      <div>
+        <h2 id="home-list-title" class="home-h2">최근 실습</h2>
+        <p class="home-sublede">최신 구간부터 골라 시작하세요.</p>
+      </div>
+      {{- if gt (len $pages) 4 }}
+      <a class="pr-btn pr-btn--secondary" href="{{ "practice/" | relURL }}">전체 실습 {{ len $pages }}개 보기</a>
+      {{- end }}
+    </div>
+    {{- if $pages }}
+    {{- partial "practice_cards.html" (first 4 $pages.ByDate.Reverse) }}
+    {{- else }}
+    {{- partial "practice_rows.html" $pages }}
+    {{- end }}
+    {{- with site.Taxonomies.tags.ByCount }}
+    <nav class="list-topics home-topics" aria-label="주제로 찾기">
+      <span class="list-topics-title">주제로 찾기</span>
+      {{- range first 8 . }}<a class="tag-chip" href="{{ .Page.RelPermalink }}">{{ partial "tag_name.html" .Page.Data.Term }}</a>{{ end }}
+      {{- if gt (len .) 8 }}<a class="tag-chip tag-chip--more" href="{{ "tags/" | relURL }}">모든 주제 {{ len . }}개</a>{{ end }}
+    </nav>
+    {{- end }}
   </section>
 
-  {{- /* 5. 내 구간으로 실습 만들기 */}}
+  {{- /* 5. 내 구간으로 실습 만들기 — params.showAddSegment가 켜져 있을 때만 */}}
+  {{- if site.Params.showAddSegment }}
   <section id="home-add" class="home-band home-band--cta" aria-labelledby="home-add-title">
     <h2 id="home-add-title" class="home-h2">내 구간으로 실습 만들기</h2>
     <p class="home-sublede">연습하고 싶은 영상이 있다면 구간을 붙여넣기만 하면 돼요.</p>
@@ -120,6 +143,7 @@
       <a class="pr-btn pr-btn--primary pr-btn--lg" href="{{ $addURL }}" rel="noopener" target="_blank">구간 붙여넣으러 가기</a>
     </div>
   </section>
+  {{- end }}
 
 </div>
 {{- end }}

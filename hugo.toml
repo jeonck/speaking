@@ -27,6 +27,8 @@ paginate = 10
   showtoc = false
   tocopen = false
   mainSections = ['practice']
+  # 방문자에게 '구간 추가' 안내(홈 섹션·바닥글 링크)를 보일지. 메뉴 항목도 함께 되살린다.
+  showAddSegment = false
 
 
   # 검색: 테마 기본값(threshold 0.4)은 긴 원고에서 아무 단어나 걸려서 더 엄격하게
@@ -58,12 +60,13 @@ paginate = 10
     name = '검색'
     url = '/search/'
     weight = 30
-  # 페이지가 아니라 동작이라 맨 끝에 버튼 모양으로 둔다 (practice.css .menu li:last-child)
-  [[menu.main]]
-    identifier = 'input'
-    name = '구간 추가'
-    url = 'https://github.com/jeonck/speaking/edit/main/input/script.md'
-    weight = 40
+  # '구간 추가'는 숨김 (params.showAddSegment와 함께 되살린다). 페이지가 아니라 동작이라
+  # 되살리면 외부 링크 알약 버튼으로 보인다 (practice.css .menu a[href*="github.com"])
+  # [[menu.main]]
+  #   identifier = 'input'
+  #   name = '구간 추가'
+  #   url = 'https://github.com/jeonck/speaking/edit/main/input/script.md'
+  #   weight = 40
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']

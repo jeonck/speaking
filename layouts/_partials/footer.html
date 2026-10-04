@@ -22,11 +22,13 @@
             {{- range first 5 .ByCount }}<a href="{{ .Page.RelPermalink }}">{{ partial "tag_name.html" .Page.Data.Term }}</a>{{ end }}
         </nav>
         {{- end }}
+        {{- if site.Params.showAddSegment }}
         <nav class="pr-footer-col" aria-label="참여하기">
             <p class="pr-footer-head">참여하기</p>
             <a href="https://github.com/jeonck/speaking/edit/main/input/script.md" rel="noopener" target="_blank">구간 추가하기</a>
             <a href="{{ "" | absLangURL }}#home-add">실습 만드는 법</a>
         </nav>
+        {{- end }}
     </div>
     <div class="pr-footer-bottom">
         <span>&copy; {{ now.Year }} {{ site.Title }}</span>

@@ -524,6 +524,16 @@ body.list { background: var(--pr-desk); }
   box-shadow: 0 12px 40px rgba(0, 0, 0, 0.06); text-align: left; color: inherit; text-decoration: none;
   transition: box-shadow 0.2s ease, border-color 0.2s ease;
 }
+/* 실습이 여러 개면 뒤에 카드 두 장이 겹쳐 보인다 (카드 묶음).
+   의사 요소 대신 box-shadow로 그린다 — 음수 z-index 레이어가 일부 브라우저에서 화면을 통째로 지웠다.
+   각 장 = 종이색 그림자 위에 1px 큰 테두리색 그림자 */
+.home-preview--stack, .home-preview--stack:hover {
+  box-shadow:
+    0 26px 0 -18px var(--pr-paper), 0 26px 0 -17px var(--pr-rule),
+    0 52px 0 -36px var(--pr-paper), 0 52px 0 -35px var(--pr-rule),
+    0 12px 40px rgba(0, 0, 0, 0.06);
+}
+.home-preview--stack { margin-bottom: 1rem; }
 .home-preview:hover { border-color: var(--pr-rule-strong); box-shadow: 0 16px 48px rgba(0, 0, 0, 0.09); }
 .home-preview:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4px; }
 .home-preview-head { display: grid; grid-template-columns: 48px 1fr auto; align-items: center; gap: 1rem; }
@@ -544,6 +554,10 @@ body.list { background: var(--pr-desk); }
   content: ""; position: absolute; z-index: -1; inset: 0 calc(50% - 50vw);
   background: var(--pr-paper); border-block: 1px solid var(--pr-rule);
 }
+/* 섹션 머리: 왼쪽 제목·설명, 오른쪽 전체 보기 */
+.home-section-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 1rem 2rem; flex-wrap: wrap; margin-bottom: 2.5rem; }
+.home-section-head .home-sublede { margin-bottom: 0; }
+.home-topics { margin: 2rem 0 0; }
 .home-sublede { margin: 0.9rem 0 2.5rem; max-width: 58ch; font-size: 1.0625rem; line-height: 1.6; color: var(--pr-body); }
 
 /* 첫 화면: 가운데 정렬 헤드라인 뒤로 파스텔 구슬이 번진다 */
@@ -774,13 +788,13 @@ html { scroll-padding-top: 80px; }
 .menu a { font-size: 15px; font-weight: 500; letter-spacing: 0; color: var(--pr-body); }
 .menu a:hover { color: var(--primary); }
 .menu .active { color: var(--primary); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
-/* 마지막 항목(구간 추가)은 페이지가 아니라 동작 — 잉크 알약 */
-.menu li:last-child a {
+/* 외부 링크 항목(구간 추가)은 페이지가 아니라 동작 — 잉크 알약 */
+.menu a[href*="github.com"] {
   display: inline-flex; align-items: center; gap: 0.35rem;
   line-height: 1; padding: 0.7rem 1.1rem; border-radius: 9999px;
   background: var(--pr-ink); color: var(--pr-ink-on);
 }
-.menu li:last-child a:hover { background: var(--pr-ink-strong); color: var(--pr-ink-on); }
+.menu a[href*="github.com"]:hover { background: var(--pr-ink-strong); color: var(--pr-ink-on); }
 .menu a:focus-visible, .theme-toggle:focus-visible, .logo > a:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; border-radius: 6px; }
 @media (max-width: 640px) {
   /* 좁은 화면: 두 줄이라 고정하지 않는다 (화면을 너무 가림). 1줄 로고 + 토글, 2줄 메뉴 */
