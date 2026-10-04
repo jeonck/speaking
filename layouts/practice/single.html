@@ -10,6 +10,13 @@
     {{- with .Params.summary }}
     <p class="practice-summary">{{ . }}</p>
     {{- end }}
+    {{- /* 출처: 원본 영상 제목 + 구간 시작 시각으로 바로 가는 링크 */}}
+    {{- with .Resources.Get "data.json" }}{{ with (. | transform.Unmarshal) }}{{ if .source_title }}
+    <p class="practice-source">
+      <span>출처</span>
+      <a href="https://www.youtube.com/watch?v={{ .video_id }}&t={{ int .segment.start }}s" rel="noopener" target="_blank">{{ .source_title }}</a>
+    </p>
+    {{- end }}{{ end }}{{ end }}
   </header>
 
   <div id="practice-root" data-video-id="{{ .Params.video_id }}"></div>

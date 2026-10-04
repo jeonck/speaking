@@ -11,6 +11,8 @@
           {{- with $data }}<span class="pr-badge">{{ len .sentences }}문장</span>{{ end }}
         </span>
         <span class="practice-card-title">{{ .Title }}</span>
+        {{- /* 주제 분류 — 카드 전체가 링크라 태그는 표시만 한다 */}}
+        {{- with .Params.tags }}<span class="practice-card-tags">{{ range . }}<span class="practice-card-tag">{{ partial "tag_name.html" . }}</span>{{ end }}</span>{{ end }}
         {{- with .Params.summary }}<span class="practice-card-summary">{{ . }}</span>{{ end }}
         <span class="practice-card-wave" aria-hidden="true">{{ partial "pr_wave.html" 40 }}</span>
         <span class="practice-card-foot"><span class="pr-btn pr-btn--secondary pr-btn--sm">실습 열기</span></span>

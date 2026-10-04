@@ -119,6 +119,10 @@ body.list { background: var(--pr-desk); }
   display: inline-flex; align-items: center; padding: 0.3rem 0.7rem; border-radius: 9999px;
   background: var(--pr-surface); color: var(--primary); font-size: 0.8125rem; font-weight: 500;
 }
+.practice-source { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem; margin: 0.9rem 0 0; font-size: 0.875rem; color: var(--secondary); }
+.practice-source a { color: var(--pr-body); text-decoration: underline; text-decoration-color: var(--pr-rule-strong); text-underline-offset: 4px; }
+.practice-source a:hover { color: var(--primary); text-decoration-color: var(--primary); }
+.practice-source a::after { content: " ↗"; font-size: 0.8em; }
 .practice-summary {
   margin: 1rem 0 0; max-width: 60ch;
   font-size: 1.0625rem; line-height: 1.6; color: var(--pr-body);
@@ -265,7 +269,15 @@ body.list { background: var(--pr-desk); }
   display: block; margin-top: 0.4rem;
   font-family: var(--pr-sans); font-size: 0.875rem; line-height: 1.55; letter-spacing: 0.01em; color: var(--secondary);
 }
-.pr-chunks { margin-top: 0.4rem; font-size: 1.05rem; }
+/* 4단계 전체 원고의 덩어리 뜻 — 영어 위·한국어 아래의 작은 타일이 한 줄로 흐른다 */
+.pr-chunks { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 0.75rem; }
+.pr-chunks .pr-chunk-break { display: none; }
+.pr-chunks .pr-chunk {
+  display: inline-flex; flex-direction: column; gap: 0.1rem;
+  padding: 0.45rem 0.7rem; border-radius: 10px; background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
+}
+.pr-chunks .pr-chunk-en { font-family: var(--pr-serif); font-size: 0.975rem; line-height: 1.35; color: var(--primary); }
+.pr-chunks .pr-chunk-ko { margin: 0; font-size: 0.75rem; line-height: 1.35; }
 
 /* 원고 표시: 강세 = 피치 형광펜, 연음 = ‿, 끊어 읽기 = 빨간 사선 */
 .pr-word { display: inline-block; margin-right: 0.12em; }
@@ -652,6 +664,11 @@ body.list { background: var(--pr-desk); }
 .practice-card-badges { display: flex; flex-wrap: wrap; gap: 0.35rem; }
 .practice-card-badges .pr-badge { font-size: 0.75rem; }
 .practice-card-title { font-family: var(--pr-serif); font-size: 1.75rem; font-weight: 300; line-height: 1.15; letter-spacing: -0.02em; color: var(--primary); }
+.practice-card-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.practice-card-tag {
+  display: inline-flex; align-items: center; padding: 0.15rem 0.6rem; border-radius: 9999px;
+  border: 1px solid var(--pr-rule-strong); font-size: 0.75rem; font-weight: 500; color: var(--pr-body);
+}
 .practice-card-summary {
   font-size: 0.9375rem; line-height: 1.6; color: var(--pr-body);
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
