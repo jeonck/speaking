@@ -1,0 +1,6 @@
+{{- /* 주제 슬러그 → 화면 이름. "work-and-motivation" → "Work and Motivation"(제목 규칙), 약어는 대문자 그대로 */ -}}
+{{- $name := title (replace . "-" " ") -}}
+{{- range $k, $v := dict "nasa" "NASA" "voa" "VOA" "adhd" "ADHD" "ai" "AI" }}
+  {{- $name = replaceRE (printf `(?i)\b%s\b` $k) $v $name -}}
+{{- end -}}
+{{- return $name -}}

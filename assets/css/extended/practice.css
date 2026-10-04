@@ -662,12 +662,12 @@ body.list { background: var(--pr-desk); }
 .practice-card-foot { display: flex; justify-content: flex-end; }
 
 /* 주제 목록 — 파스텔 구슬 카드 그리드 */
-.tag-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 0; padding: 0; list-style: none; }
+.tag-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.75rem; margin: 0; padding: 0; list-style: none; }
 .tag-cards li { margin: 0; }
 .tag-card {
   position: relative; isolation: isolate; overflow: hidden;
-  display: flex; flex-direction: column; justify-content: space-between; gap: 2.5rem; min-height: 220px;
-  padding: 1.75rem; border-radius: 24px; background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
+  display: flex; flex-direction: column; justify-content: space-between; gap: 1.5rem; min-height: 170px;
+  padding: 1.35rem 1.4rem; border-radius: 20px; background: var(--pr-paper-soft); border: 1px solid var(--pr-rule);
   color: inherit; text-decoration: none; box-shadow: none; transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 .tag-card::before {
@@ -681,9 +681,11 @@ body.list { background: var(--pr-desk); }
 .tag-card:hover { border-color: var(--pr-rule-strong); box-shadow: var(--pr-shadow); }
 .tag-card:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4px; }
 .tag-card-top { display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem; }
-.tag-card-name { font-family: var(--pr-serif); font-size: 1.85rem; font-weight: 300; line-height: 1.15; letter-spacing: -0.02em; color: var(--primary); }
-.tag-card-list { display: flex; flex-direction: column; gap: 0.35rem; padding-top: 1rem; border-top: 1px solid var(--pr-rule); }
-.tag-card-list span { font-size: 0.875rem; line-height: 1.45; color: var(--pr-body); }
+.tag-card-name { font-family: var(--pr-serif); font-size: 1.5rem; font-weight: 300; line-height: 1.15; letter-spacing: -0.02em; color: var(--primary); }
+.tag-card-list { display: flex; flex-direction: column; gap: 0.3rem; padding-top: 0.85rem; border-top: 1px solid var(--pr-rule); }
+.tag-card-list span { font-size: 0.8125rem; line-height: 1.4; color: var(--pr-body); display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+
+@media (max-width: 900px) { .tag-cards { grid-template-columns: repeat(3, 1fr); } }
 
 /* 주제 하나 — 머리말 뒤로 은은한 구슬 */
 .tag-hero { position: relative; isolation: isolate; }
@@ -703,6 +705,8 @@ body.list { background: var(--pr-desk); }
   font-size: 0.875rem; font-weight: 500; text-decoration: none; box-shadow: none;
 }
 .tag-chip:hover { border-color: var(--primary); }
+.tag-chip--more { background: var(--pr-ink); border-color: var(--pr-ink); color: var(--pr-ink-on); }
+.tag-chip--more:hover { color: var(--pr-ink-on); }
 .tag-chip:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
 
 @media (max-width: 640px) {
@@ -720,11 +724,12 @@ body.list { background: var(--pr-desk); }
   .home-preview-wave span:nth-child(n + 33) { display: none; }
   .home-row { grid-template-columns: 1fr auto; row-gap: 0.3rem; }
   .home-row-date { grid-column: 1 / -1; }
-  .tag-cards { grid-template-columns: 1fr; }
+  .tag-cards { grid-template-columns: 1fr 1fr; }
+  .tag-card-name { font-size: 1.25rem; }
   .practice-cards { grid-template-columns: 1fr; }
   .practice-card { padding: 1.25rem; }
   .list-topics-title { flex-basis: 100%; }
-  .tag-card { min-height: 0; gap: 1.75rem; }
+  .tag-card { min-height: 0; gap: 1.1rem; padding: 1.1rem; }
 }
 
 /* ---------- 상단 메뉴 (ElevenLabs: 64px, 캔버스, 로고 왼쪽 · 메뉴와 동작 오른쪽) ---------- */

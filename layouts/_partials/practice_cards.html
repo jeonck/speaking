@@ -1,0 +1,20 @@
+{{- /* 실습 오디오 파형 카드 그리드. 인자: 페이지 목록 (최신순으로 넘긴다) — 실습 목록·주제 페이지 공용 */ -}}
+  <ul class="practice-cards">
+    {{- range . }}
+    {{- $data := false }}
+    {{- with .Resources.Get "data.json" }}{{ $data = . | transform.Unmarshal }}{{ end }}
+    <li>
+      <a class="practice-card" href="{{ .RelPermalink }}">
+        <span class="practice-card-badges">
+          <span class="pr-badge">{{ .Date.Format "1월 2일" }}</span>
+          {{- with .Params.duration }}<span class="pr-badge">{{ . }}초</span>{{ end }}
+          {{- with $data }}<span class="pr-badge">{{ len .sentences }}문장</span>{{ end }}
+        </span>
+        <span class="practice-card-title">{{ .Title }}</span>
+        {{- with .Params.summary }}<span class="practice-card-summary">{{ . }}</span>{{ end }}
+        <span class="practice-card-wave" aria-hidden="true">{{ partial "pr_wave.html" 40 }}</span>
+        <span class="practice-card-foot"><span class="pr-btn pr-btn--secondary pr-btn--sm">실습 열기</span></span>
+      </a>
+    </li>
+    {{- end }}
+  </ul>

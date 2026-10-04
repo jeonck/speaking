@@ -19,7 +19,7 @@
         {{- with site.Taxonomies.tags }}
         <nav class="pr-footer-col" aria-label="주제">
             <p class="pr-footer-head">주제</p>
-            {{- range first 5 .ByCount }}<a href="{{ .Page.RelPermalink }}">{{ title (replace .Page.Data.Term "-" " ") }}</a>{{ end }}
+            {{- range first 5 .ByCount }}<a href="{{ .Page.RelPermalink }}">{{ partial "tag_name.html" .Page.Data.Term }}</a>{{ end }}
         </nav>
         {{- end }}
         <nav class="pr-footer-col" aria-label="참여하기">

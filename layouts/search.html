@@ -5,7 +5,7 @@
 {{- range first 1 $practices }}{{ $latest = . }}{{ end }}
 {{- /* 추천 검색어: 주제 이름 + 최신 실습의 어휘 */ -}}
 {{- $suggest := slice }}
-{{- range site.Taxonomies.tags.ByCount }}{{ $suggest = $suggest | append (title (replace .Page.Data.Term "-" " ")) }}{{ end }}
+{{- range site.Taxonomies.tags.ByCount }}{{ $suggest = $suggest | append (partial "tag_name.html" .Page.Data.Term) }}{{ end }}
 {{- /* 어휘는 원고에 그대로 나오는 것만 — 사전형(call A B 등)은 검색에 걸리지 않는다 */ -}}
 {{- with $latest }}{{ with .Resources.Get "data.json" }}
   {{- $d := . | transform.Unmarshal }}

@@ -1,13 +1,13 @@
 {{- define "main" }}
 {{- $current := .Data.Term }}
-<div class="pr-home pr-home--list">
+<div class="pr-home pr-home--list pr-home--wide">
   <header class="practice-header tag-hero">
     {{ partial "breadcrumbs.html" . }}
     <p class="practice-meta"><span class="pr-badge">주제</span><span class="pr-badge">실습 {{ len .Pages }}개</span></p>
-    <h1 class="tag-title">{{ title (replace $current "-" " ") }}</h1>
+    <h1 class="tag-title">{{ partial "tag_name.html" $current }}</h1>
     <p class="home-lede">이 주제의 실습을 최신 순서로 모았어요.</p>
   </header>
-  {{- partial "practice_rows.html" .Pages.ByDate.Reverse }}
+  {{- partial "practice_cards.html" .Pages.ByDate.Reverse }}
 
   {{- /* 다른 주제로 바로 옮겨 갈 수 있게 */}}
   {{- $others := slice }}
@@ -16,7 +16,7 @@
   <nav class="tag-others" aria-label="다른 주제">
     <h2 class="tag-others-title">다른 주제</h2>
     <div class="tag-others-list">
-      {{- range . }}<a class="tag-chip" href="{{ .RelPermalink }}">{{ title (replace .Data.Term "-" " ") }}</a>{{ end }}
+      {{- range . }}<a class="tag-chip" href="{{ .RelPermalink }}">{{ partial "tag_name.html" .Data.Term }}</a>{{ end }}
     </div>
   </nav>
   {{- end }}

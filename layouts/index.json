@@ -11,7 +11,7 @@
         {{- $content = delimit $lines " " }}
     {{- end }}
     {{- /* 주제 이름도 넣어 주제로 찾아도 걸리게 */}}
-    {{- range .Params.tags }}{{ $content = printf "%s %s" $content (title (replace . "-" " ")) }}{{ end }}
+    {{- range .Params.tags }}{{ $content = printf "%s %s" $content (partial "tag_name.html" .) }}{{ end }}
     {{- $index = $index | append (dict
         "title" .Title "content" $content "permalink" .Permalink "summary" .Summary
         "lines" $lines "date" (.Date.Format "2006-01-02") "duration" (.Params.duration | default 0)) -}}
