@@ -1,0 +1,498 @@
+{
+ "video_id": "qx2R3jni0RI",
+ "source_title": "Why Entrepreneurship? - Part 2 (Business English)",
+ "segment": {
+  "start": 70,
+  "end": 95.0
+ },
+ "sentences": [
+  {
+   "text": "Being an entrepreneur can be a great career choice, but it is also risky.",
+   "chunks": [
+    {
+     "en": "Being an entrepreneur",
+     "ko": "기업가가 된다는 것은"
+    },
+    {
+     "en": "can be a great career choice,",
+     "ko": "훌륭한 직업 선택이 될 수 있지만,"
+    },
+    {
+     "en": "but it is also risky.",
+     "ko": "동시에 위험하기도 합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "entrepreneur",
+     "strong": true,
+     "link": false,
+     "syl": "neur"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false,
+     "syl": "great"
+    },
+    {
+     "w": "career",
+     "strong": true,
+     "link": false,
+     "syl": "reer"
+    },
+    {
+     "w": "choice,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "risky.",
+     "strong": true,
+     "link": false,
+     "syl": "risk"
+    }
+   ],
+   "tip": "\"entrepreneur\"는 네 음절이며 강세는 마지막 음절(NEUR)에만 옵니다: en-tre-pre-NEUR.",
+   "start": 70.0,
+   "end": 72.0
+  },
+  {
+   "text": "A successful business can create more money for the entrepreneur, and more opportunities for employees and suppliers.",
+   "chunks": [
+    {
+     "en": "A successful business",
+     "ko": "성공적인 사업은"
+    },
+    {
+     "en": "can create more money for the entrepreneur,",
+     "ko": "기업가에게 더 많은 수익을 창출할 수 있고,"
+    },
+    {
+     "en": "and more opportunities for employees and suppliers.",
+     "ko": "직원과 공급업체들에게 더 많은 기회를 줍니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "successful",
+     "strong": true,
+     "link": false,
+     "syl": "cess"
+    },
+    {
+     "w": "business",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "create",
+     "strong": true,
+     "link": false,
+     "syl": "ate"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "link": false,
+     "syl": "mon"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "entrepreneur,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "opportunities",
+     "strong": true,
+     "link": false,
+     "syl": "tu"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "employees",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "suppliers.",
+     "strong": true,
+     "link": false,
+     "syl": "pli"
+    }
+   ],
+   "tip": "\"more opportunities\"와 \"for employees\"에서 r로 끝나는 단어 뒤에 모음이 오면 자연스럽게 연음됩니다.",
+   "start": 72.0,
+   "end": 83.0
+  },
+  {
+   "text": "However, the risk is that it can take a long time to make money.",
+   "chunks": [
+    {
+     "en": "However,",
+     "ko": "하지만,"
+    },
+    {
+     "en": "the risk is",
+     "ko": "그 위험은"
+    },
+    {
+     "en": "that it can take a long time",
+     "ko": "오랜 시간이 걸릴 수 있다는 것인데,"
+    },
+    {
+     "en": "to make money.",
+     "ko": "돈을 버는 데입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "However,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "risk",
+     "strong": true,
+     "link": false,
+     "syl": "risk"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": true,
+     "link": false,
+     "syl": "make"
+    },
+    {
+     "w": "money.",
+     "strong": true,
+     "link": false,
+     "syl": "mon"
+    }
+   ],
+   "tip": "\"can\"은 강세 없는 위치에서 /kən/으로 약화됩니다; \"take a\"는 /teɪkə/처럼 이어서 발음합니다.",
+   "start": 83.0,
+   "end": 89.0
+  },
+  {
+   "text": "The entrepreneur needs to plan for that risk or the new business will likely fail.",
+   "chunks": [
+    {
+     "en": "The entrepreneur",
+     "ko": "기업가는"
+    },
+    {
+     "en": "needs to plan for that risk",
+     "ko": "그 위험에 대비해 계획을 세워야 하며,"
+    },
+    {
+     "en": "or the new business will likely fail.",
+     "ko": "그렇지 않으면 새 사업은 실패할 가능성이 높습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "entrepreneur",
+     "strong": true,
+     "link": false,
+     "syl": "neur"
+    },
+    {
+     "w": "needs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plan",
+     "strong": true,
+     "link": false,
+     "syl": "plan"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "risk",
+     "strong": true,
+     "link": false,
+     "syl": "risk"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "likely",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fail.",
+     "strong": true,
+     "link": false,
+     "syl": "fail"
+    }
+   ],
+   "tip": "\"will likely\"에서 \"will\"의 /l/과 \"likely\"의 /l/이 이어져 하나의 /l/처럼 발음됩니다.",
+   "start": 89.0,
+   "end": 95.0
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker describe a career in entrepreneurship?",
+   "options": [
+    "It is a safe and predictable career path.",
+    "It can be a great career choice, but it is also risky.",
+    "It is only suitable for people with business degrees.",
+    "It always leads to financial success over time."
+   ],
+   "answer": 1,
+   "why": "첫 번째 문장 \"Being an entrepreneur can be a great career choice, but it is also risky.\"에서 직접 언급됩니다."
+  },
+  {
+   "q": "According to the segment, what can a successful business create for employees and suppliers?",
+   "options": [
+    "Guaranteed job security",
+    "More opportunities",
+    "Lower operating costs",
+    "Government subsidies"
+   ],
+   "answer": 1,
+   "why": "두 번째 문장에서 \"more opportunities for employees and suppliers\"라고 명시합니다."
+  },
+  {
+   "q": "What is identified as the main risk of starting a new business?",
+   "options": [
+    "Difficulty finding reliable suppliers",
+    "Increased competition from larger firms",
+    "It can take a long time to make money.",
+    "The high cost of hiring employees"
+   ],
+   "answer": 2,
+   "why": "세 번째 문장 \"the risk is that it can take a long time to make money\"가 주요 위험을 직접 설명합니다."
+  },
+  {
+   "q": "What does the speaker warn will happen if the entrepreneur does not plan for the risk?",
+   "options": [
+    "The business will grow more slowly than expected.",
+    "Suppliers will refuse to work with the business.",
+    "Employees will look for jobs elsewhere.",
+    "The new business will likely fail."
+   ],
+   "answer": 3,
+   "why": "마지막 문장 \"or the new business will likely fail\"이 계획 부재의 결과를 직접 경고합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "entrepreneur",
+   "ko": "기업가",
+   "note": "사업을 창업하고 위험을 감수하는 사람; 강세가 마지막 음절(NEUR)에 오는 것에 주의하세요."
+  },
+  {
+   "term": "risky",
+   "ko": "위험한",
+   "note": "risk(위험)에 -y를 붙인 형용사; \"a risky investment(위험한 투자)\"처럼 명사 앞에 씁니다."
+  },
+  {
+   "term": "opportunities",
+   "ko": "기회들",
+   "note": "\"opportunity\"의 복수형; \"create opportunities for ~\"(~에게 기회를 만들다) 구조로 자주 씁니다."
+  },
+  {
+   "term": "suppliers",
+   "ko": "공급업체들",
+   "note": "원자재나 물품을 제공하는 회사나 개인; 비즈니스 맥락에서 \"employees and suppliers\"로 묶어 쓰는 경우가 많습니다."
+  },
+  {
+   "term": "plan for",
+   "ko": "~에 대비하다",
+   "note": "미래의 위험이나 문제를 예상하고 준비한다는 뜻; \"plan for the worst(최악에 대비하다)\"가 대표적인 예입니다."
+  },
+  {
+   "term": "likely",
+   "ko": "아마도, ~할 가능성이 높은",
+   "note": "조동사 뒤 부사로 \"will likely fail\"처럼 쓰거나, 형용사로 \"It is likely that...\" 형태로도 씁니다."
+  }
+ ]
+}

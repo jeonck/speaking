@@ -25,25 +25,4 @@
   moments, a promotion, a vacation or a perfect day.
 -->
 ```
-https://www.youtube.com/watch?v=bBa9bVYKLP0
-0:14
-Storm surge is what happens when the winds of a coastal storm push water onto land.
-0:20
-In addition, large and destructive waves ride in on top of the surge.
-0:24
-These water-surges then wreak havoc and can cause major damage and flooding many miles from the storm.
-0:31
-Not limited to coastal properties, storm surges from sea water traveling up streams and rivers can flood inland homes too.
----
-https://www.youtube.com/watch?v=qx2R3jni0RI
-1:10
-Being an entrepreneur can be a great career choice, but it is also risky.
-1:12
-A successful business can create more money for
-1:18
-the entrepreneur, and more opportunities for employees and suppliers.
-1:23
-However, the risk is that it can take a long time to make money.
-1:29
-The entrepreneur needs to plan for that risk or the new business will likely fail.
 ```
