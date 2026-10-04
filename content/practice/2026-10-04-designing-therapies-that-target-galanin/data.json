@@ -1,0 +1,389 @@
+{
+ "video_id": "4DiSB0u00nU",
+ "source_title": "NIH SciBites: Boosting Brainpower for People With Cognitive Challenges",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 96.46,
+  "end": 120.52
+ },
+ "sentences": [
+  {
+   "text": "Once we understand how galanin influences those brain circuits, my colleagues and I hope that other scientists will be able to design therapies that target galanin in order to improve the quality of life of patients who suffer from a wide variety of conditions, such as Alzheimer's disease, ADHD, and autism spectrum disorder.",
+   "chunks": [
+    {
+     "en": "Once we understand how galanin influences those brain circuits,",
+     "ko": "우리가 갈라닌이 그 뇌 회로에 어떻게 영향을 미치는지 이해하게 되면,"
+    },
+    {
+     "en": "my colleagues and I hope",
+     "ko": "동료들과 저는 희망합니다"
+    },
+    {
+     "en": "that other scientists will be able to design therapies that target galanin",
+     "ko": "다른 과학자들이 갈라닌을 표적으로 하는 치료법을 설계할 수 있게 되기를"
+    },
+    {
+     "en": "in order to improve the quality of life",
+     "ko": "삶의 질을 향상시키기 위해"
+    },
+    {
+     "en": "of patients who suffer from a wide variety of conditions,",
+     "ko": "다양한 질환을 겪는 환자들의"
+    },
+    {
+     "en": "such as Alzheimer's disease, ADHD, and autism spectrum disorder.",
+     "ko": "예를 들어 알츠하이머병, ADHD, 자폐 스펙트럼 장애 같은"
+    }
+   ],
+   "words": [
+    {
+     "w": "Once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "understand",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "galanin",
+     "strong": true,
+     "link": true,
+     "syl": "gal"
+    },
+    {
+     "w": "influences",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "circuits,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colleagues",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hope",
+     "strong": true,
+     "link": false,
+     "syl": "hope"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scientists",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "able",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "design",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "therapies",
+     "strong": true,
+     "link": false,
+     "syl": "ther"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "target",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "galanin",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "order",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "improve",
+     "strong": true,
+     "link": false,
+     "syl": "prove"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quality",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patients",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "suffer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wide",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "variety",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "conditions,",
+     "strong": true,
+     "link": false,
+     "syl": "di"
+    },
+    {
+     "w": "such",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Alzheimer's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disease,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ADHD,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "autism",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spectrum",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disorder.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and I는 d를 다음 모음에 이어 '앤다이'처럼, such as는 '서치애즈'처럼 이어 읽어요.",
+   "start": 96.46,
+   "end": 120.52
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker hope scientists will be able to do?",
+   "options": [
+    "Design therapies that target galanin",
+    "Cure Alzheimer's disease completely",
+    "Study brain circuits in animals only"
+   ],
+   "answer": 0,
+   "why": "다른 과학자들이 갈라닌을 표적으로 하는 치료법을 설계하기를 희망한다고 말해요."
+  },
+  {
+   "q": "What is galanin connected to, according to the segment?",
+   "options": [
+    "Brain circuits",
+    "Heart rhythms",
+    "Muscle growth"
+   ],
+   "answer": 0,
+   "why": "첫 부분: galanin influences those brain circuits라고 해요."
+  },
+  {
+   "q": "Which conditions are mentioned as examples?",
+   "options": [
+    "Alzheimer's disease, ADHD, and autism spectrum disorder",
+    "Diabetes and asthma",
+    "Arthritis and migraines"
+   ],
+   "answer": 0,
+   "why": "마지막 부분: such as Alzheimer's disease, ADHD, and autism spectrum disorder."
+  },
+  {
+   "q": "What is the overall goal mentioned in the segment?",
+   "options": [
+    "To improve the quality of life of patients",
+    "To replace all current medications",
+    "To eliminate galanin from the brain"
+   ],
+   "answer": 0,
+   "why": "in order to improve the quality of life of patients라고 설명해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "galanin",
+   "ko": "갈라닌 (신경펩타이드)",
+   "note": "뇌 회로에 영향을 주는 물질로 본문에서 반복 등장해요."
+  },
+  {
+   "term": "brain circuits",
+   "ko": "뇌 회로",
+   "note": "뇌 안의 신경 연결망을 가리켜요."
+  },
+  {
+   "term": "target",
+   "ko": "표적으로 삼다",
+   "note": "therapies that target galanin처럼 치료 대상을 말할 때 써요."
+  },
+  {
+   "term": "quality of life",
+   "ko": "삶의 질",
+   "note": "improve the quality of life처럼 자주 쓰이는 표현이에요."
+  },
+  {
+   "term": "a wide variety of",
+   "ko": "다양한 종류의",
+   "note": "뒤에 복수명사가 와요. 예: a wide variety of conditions."
+  },
+  {
+   "term": "autism spectrum disorder",
+   "ko": "자폐 스펙트럼 장애",
+   "note": "의학/심리 분야에서 자주 쓰이는 고정 표현이에요."
+  }
+ ]
+}

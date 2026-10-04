@@ -1,0 +1,607 @@
+{
+ "video_id": "FxwXK5BAwq8",
+ "source_title": "NIH SciBites: Using Zombie Mosquitos to Make Sense of Mosquito Borne Viruses",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 22.37,
+  "end": 48.3
+ },
+ "sentences": [
+  {
+   "text": "If the mosquito is carrying a virus, however, it can hitch a ride into your body with the saliva, and you'll feel that soon enough.",
+   "chunks": [
+    {
+     "en": "If the mosquito is carrying a virus,",
+     "ko": "만약 모기가 바이러스를 지니고 있다면,"
+    },
+    {
+     "en": "however, it can hitch a ride",
+     "ko": "하지만, 그것은 편승할 수 있다"
+    },
+    {
+     "en": "into your body with the saliva,",
+     "ko": "침과 함께 당신의 몸속으로,"
+    },
+    {
+     "en": "and you'll feel that soon enough.",
+     "ko": "그리고 당신은 그것을 금방 느끼게 될 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mosquito",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carrying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "virus,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "however,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hitch",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ride",
+     "strong": true,
+     "link": true,
+     "syl": "RIDE"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saliva,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false,
+     "syl": "FEEL"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soon",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "enough.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'with the'는 '위드 더'처럼 자연스럽게 이어 발음돼요.",
+   "start": 22.37,
+   "end": 30.05
+  },
+  {
+   "text": "For a mosquito to transmit a virus, it first needs to bite someone infected with that virus, and then live long enough for the virus to travel from its stomach to the glands that produce its saliva.",
+   "chunks": [
+    {
+     "en": "For a mosquito to transmit a virus,",
+     "ko": "모기가 바이러스를 전염시키려면,"
+    },
+    {
+     "en": "it first needs to bite someone infected with that virus,",
+     "ko": "먼저 그 바이러스에 감염된 누군가를 물어야 하고,"
+    },
+    {
+     "en": "and then live long enough for the virus to travel from its stomach",
+     "ko": "그런 다음 바이러스가 위에서 이동할 만큼 충분히 오래 살아야 하며"
+    },
+    {
+     "en": "to the glands that produce its saliva.",
+     "ko": "침을 만드는 분비선까지 가야 한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mosquito",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transmit",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "virus,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "needs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bite",
+     "strong": true,
+     "link": false,
+     "syl": "BITE"
+    },
+    {
+     "w": "someone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "infected",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "virus,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "enough",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "virus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stomach",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "glands",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "produce",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saliva.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'produce its'는 자음과 모음이 이어져 '프로듀스 이츠'처럼 들려요.",
+   "start": 30.05,
+   "end": 40.72
+  },
+  {
+   "text": "This stretch of time, which we call an incubation period, can last a week or more, which is longer than the average lifespan of the mosquito.",
+   "chunks": [
+    {
+     "en": "This stretch of time,",
+     "ko": "이 시간의 폭은,"
+    },
+    {
+     "en": "which we call an incubation period,",
+     "ko": "우리가 잠복기라고 부르는 것인데,"
+    },
+    {
+     "en": "can last a week or more,",
+     "ko": "일주일 또는 그 이상 지속될 수 있고,"
+    },
+    {
+     "en": "which is longer than the average lifespan of the mosquito.",
+     "ko": "이는 모기의 평균 수명보다 더 길다."
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stretch",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "call",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "incubation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "period,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week",
+     "strong": true,
+     "link": false,
+     "syl": "WEEK"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "longer",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "average",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lifespan",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mosquito.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'last a'는 자음과 모음이 이어져 '래스터'처럼 들려요.",
+   "start": 40.72,
+   "end": 48.3
+  }
+ ],
+ "questions": [
+  {
+   "q": "What must a mosquito do before it can transmit a virus to someone else?",
+   "options": [
+    "Bite someone who is already infected with the virus",
+    "Lay its eggs near a water source",
+    "Fly continuously for several hours"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 모기가 먼저 바이러스에 감염된 사람을 물어야 한다고 설명합니다."
+  },
+  {
+   "q": "Where must the virus travel inside the mosquito before it can be passed on?",
+   "options": [
+    "From its stomach to the glands that produce saliva",
+    "From its wings to its legs",
+    "From its eyes to its mouth"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 바이러스가 위에서 침을 만드는 분비선까지 이동해야 한다고 말합니다."
+  },
+  {
+   "q": "What is the incubation period described as in the segment?",
+   "options": [
+    "The stretch of time it takes the virus to travel inside the mosquito",
+    "The time a mosquito spends as an egg",
+    "The distance a mosquito can fly in one night"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 잠복기를 바이러스가 이동하는 시간의 폭이라고 정의합니다."
+  },
+  {
+   "q": "How does the incubation period compare to the mosquito's average lifespan?",
+   "options": [
+    "It is longer than the average lifespan",
+    "It is shorter than the average lifespan",
+    "It is exactly the same length"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 잠복기가 모기의 평균 수명보다 더 길다고 말합니다."
+  },
+  {
+   "q": "How does a virus get into a person's body according to the segment?",
+   "options": [
+    "It hitches a ride in with the mosquito's saliva",
+    "It enters through the mosquito's wings",
+    "It is absorbed through the skin before any bite"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 바이러스가 침과 함께 몸속으로 들어온다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "hitch a ride",
+   "ko": "편승하다, 몰래 타고 가다",
+   "note": "무언가에 의존해서 함께 이동한다는 뜻의 비유적 표현입니다."
+  },
+  {
+   "term": "incubation period",
+   "ko": "잠복기",
+   "note": "감염 후 증상이나 전염력이 나타나기까지 걸리는 시간을 뜻합니다."
+  },
+  {
+   "term": "glands",
+   "ko": "분비선",
+   "note": "체액(여기서는 침)을 만들어내는 신체 기관입니다."
+  },
+  {
+   "term": "lifespan",
+   "ko": "수명",
+   "note": "생물이 태어나서 죽을 때까지의 전체 기간을 말합니다."
+  }
+ ]
+}

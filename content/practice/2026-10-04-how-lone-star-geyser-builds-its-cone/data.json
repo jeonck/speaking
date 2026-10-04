@@ -1,0 +1,671 @@
+{
+ "video_id": "D86-mFw265k",
+ "source_title": "Lone Star Geyser (Yellowstone Monthly Update - April 2026)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 6.27,
+  "end": 31.3
+ },
+ "sentences": [
+  {
+   "text": "Lone Star geyser is a classic cone-type geyser.",
+   "chunks": [
+    {
+     "en": "Lone Star geyser",
+     "ko": "론 스타 가이저는"
+    },
+    {
+     "en": "is a classic cone-type geyser.",
+     "ko": "전형적인 원뿔형 가이저예요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Lone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Star",
+     "strong": true,
+     "link": false,
+     "syl": "STAR"
+    },
+    {
+     "w": "geyser",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "classic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "cone-type",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "geyser.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 6.27,
+   "end": 10.33
+  },
+  {
+   "text": "That cone is made out of silica sinter.",
+   "chunks": [
+    {
+     "en": "That cone is made out of",
+     "ko": "그 원뿔은 ~로 만들어졌어요"
+    },
+    {
+     "en": "silica sinter.",
+     "ko": "실리카 신터로."
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "silica",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "sinter.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 10.33,
+   "end": 12.37
+  },
+  {
+   "text": "That silica is dissolved as the hot water moves beneath the surface, and as it comes up to the surface and the water erupts, it's deposited to form that cone right there.",
+   "chunks": [
+    {
+     "en": "That silica is dissolved",
+     "ko": "그 실리카는 녹아요"
+    },
+    {
+     "en": "as the hot water moves beneath the surface,",
+     "ko": "뜨거운 물이 지표면 아래로 움직일 때,"
+    },
+    {
+     "en": "and as it comes up to the surface and the water erupts,",
+     "ko": "그리고 그것이 지표면으로 올라와 물이 분출할 때,"
+    },
+    {
+     "en": "it's deposited to form that cone right there.",
+     "ko": "바로 그 자리에 쌓여서 원뿔을 만들어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "silica",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dissolved",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hot",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moves",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beneath",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surface,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comes",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surface",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "erupts,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deposited",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "form",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 12.37,
+   "end": 20.87
+  },
+  {
+   "text": "Now, Lone Star is actually a very regular geyser.",
+   "chunks": [
+    {
+     "en": "Now, Lone Star is actually",
+     "ko": "자, 론 스타는 사실"
+    },
+    {
+     "en": "a very regular geyser.",
+     "ko": "아주 규칙적인 가이저예요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Star",
+     "strong": true,
+     "link": false,
+     "syl": "STAR"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "regular",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "geyser.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 20.87,
+   "end": 23.93
+  },
+  {
+   "text": "It erupts about every three hours on average.",
+   "chunks": [
+    {
+     "en": "It erupts about every three hours",
+     "ko": "그것은 약 세 시간마다 분출해요"
+    },
+    {
+     "en": "on average.",
+     "ko": "평균적으로."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "erupts",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": true,
+     "link": false,
+     "syl": "THREE"
+    },
+    {
+     "w": "hours",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "average.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 23.93,
+   "end": 26.4
+  },
+  {
+   "text": "It starts out with some minor activity.",
+   "chunks": [
+    {
+     "en": "It starts out",
+     "ko": "그것은 시작해요"
+    },
+    {
+     "en": "with some minor activity.",
+     "ko": "약간의 작은 활동으로."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "starts",
+     "strong": true,
+     "link": true,
+     "syl": "STARTS"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minor",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "activity.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 26.4,
+   "end": 28.17
+  },
+  {
+   "text": "It culminates in a major.",
+   "chunks": [
+    {
+     "en": "It culminates",
+     "ko": "그것은 정점에 이르러요"
+    },
+    {
+     "en": "in a major.",
+     "ko": "대분출로."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "culminates",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "major.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 28.17,
+   "end": 29.37
+  },
+  {
+   "text": "And then it transitions into a steam phase.",
+   "chunks": [
+    {
+     "en": "And then it transitions",
+     "ko": "그리고 그것은 전환돼요"
+    },
+    {
+     "en": "into a steam phase.",
+     "ko": "스팀 단계로."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transitions",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "steam",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "phase.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 29.37,
+   "end": 31.3
+  }
+ ],
+ "questions": [
+  {
+   "q": "What type of geyser is Lone Star?",
+   "options": [
+    "A classic cone-type geyser",
+    "A fountain-type geyser",
+    "A mud pot"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 '전형적인 원뿔형 가이저'라고 설명해요."
+  },
+  {
+   "q": "What is the cone made of?",
+   "options": [
+    "Silica sinter",
+    "Volcanic ash",
+    "Limestone"
+   ],
+   "answer": 0,
+   "why": "'That cone is made out of silica sinter.'에서 확인돼요."
+  },
+  {
+   "q": "How does the cone form?",
+   "options": [
+    "Dissolved silica is deposited as water rises and erupts",
+    "Wind blows sand into a pile",
+    "Rangers build it by hand"
+   ],
+   "answer": 0,
+   "why": "실리카가 녹았다가 분출할 때 쌓여 원뿔을 만든다고 해요."
+  },
+  {
+   "q": "About how often does Lone Star erupt?",
+   "options": [
+    "About every three hours on average",
+    "Once a year",
+    "Every ten minutes"
+   ],
+   "answer": 0,
+   "why": "'It erupts about every three hours on average.'에서 알 수 있어요."
+  },
+  {
+   "q": "What is the order of an eruption cycle?",
+   "options": [
+    "Minor activity, then a major eruption, then a steam phase",
+    "Steam phase, then minor activity",
+    "Major eruption only, with no other phases"
+   ],
+   "answer": 0,
+   "why": "작은 활동 다음 대분출, 그다음 스팀 단계 순서로 설명돼요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "cone-type geyser",
+   "ko": "원뿔형 가이저",
+   "note": "분출구 주위에 원뿔 모양이 쌓인 가이저예요."
+  },
+  {
+   "term": "silica sinter",
+   "ko": "실리카 신터",
+   "note": "뜨거운 물에 녹은 실리카가 쌓여 만들어진 광물이에요."
+  },
+  {
+   "term": "dissolved",
+   "ko": "녹은",
+   "note": "물에 녹아 섞인 상태를 말해요."
+  },
+  {
+   "term": "culminates in",
+   "ko": "~로 정점에 이르다",
+   "note": "점점 커지다가 최고점에 도달한다는 뜻이에요."
+  },
+  {
+   "term": "steam phase",
+   "ko": "스팀 단계",
+   "note": "분출 후 수증기만 나오는 마지막 단계예요."
+  }
+ ]
+}

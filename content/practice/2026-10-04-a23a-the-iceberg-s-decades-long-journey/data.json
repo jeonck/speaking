@@ -1,0 +1,491 @@
+{
+ "video_id": "qfFwKaKKgK0",
+ "source_title": "Massive Iceberg on the Loose (Image of the Week)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 30.96,
+  "end": 55.5
+ },
+ "sentences": [
+  {
+   "text": "A23a began its journey in August 1986, when it calved, or broke off, from Antarctica's Filchner Ice Shelf.",
+   "chunks": [
+    {
+     "en": "A23a began its journey in August 1986,",
+     "ko": "A23a는 1986년 8월에 여정을 시작했습니다,"
+    },
+    {
+     "en": "when it calved,",
+     "ko": "빙하가 갈라져 나왔을 때,"
+    },
+    {
+     "en": "or broke off,",
+     "ko": "즉 떨어져 나왔을 때,"
+    },
+    {
+     "en": "from Antarctica's Filchner Ice Shelf.",
+     "ko": "남극의 필히너 빙붕에서 말이죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "A23a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "began",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "journey",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "August",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1986,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "calved,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "broke",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "off,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Antarctica's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Filchner",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Ice",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Shelf.",
+     "strong": true,
+     "link": false,
+     "syl": "SHELF"
+    }
+   ],
+   "tip": "broke off는 k 소리가 다음 모음과 이어져요.",
+   "start": 30.96,
+   "end": 39.25
+  },
+  {
+   "text": "The iceberg remained grounded on the seafloor in the Weddell Sea for the next three decades.",
+   "chunks": [
+    {
+     "en": "The iceberg remained grounded on the seafloor",
+     "ko": "그 빙산은 해저에 고정된 채로 있었습니다"
+    },
+    {
+     "en": "in the Weddell Sea for the next three decades.",
+     "ko": "웨델해에서 그다음 30년 동안 말이죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "iceberg",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "remained",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grounded",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seafloor",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Weddell",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decades.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "grounded on은 d 소리가 다음 모음과 이어져요.",
+   "start": 39.25,
+   "end": 44.46
+  },
+  {
+   "text": "In 2020, A23a detached from the seabed and began drifting north.",
+   "chunks": [
+    {
+     "en": "In 2020, A23a detached from the seabed",
+     "ko": "2020년에 A23a는 해저에서 분리되어"
+    },
+    {
+     "en": "and began drifting north.",
+     "ko": "북쪽으로 떠내려가기 시작했습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2020,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "A23a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "detached",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seabed",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "began",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drifting",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "north.",
+     "strong": true,
+     "link": false,
+     "syl": "NORTH"
+    }
+   ],
+   "tip": "detached의 두 번째 음절을 강하게 발음해요.",
+   "start": 44.46,
+   "end": 49.38
+  },
+  {
+   "text": "For the next four years, the iceberg followed the Antarctic Circumpolar Current on a path known as Iceberg Alley.",
+   "chunks": [
+    {
+     "en": "For the next four years,",
+     "ko": "그다음 4년 동안,"
+    },
+    {
+     "en": "the iceberg followed the Antarctic Circumpolar Current",
+     "ko": "그 빙산은 남극 순환류를 따라갔는데"
+    },
+    {
+     "en": "on a path known as Iceberg Alley.",
+     "ko": "'빙산 골목'이라고 알려진 경로를 따라서 말이죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "four",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "iceberg",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "followed",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Antarctic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Circumpolar",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Current",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "path",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "known",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Iceberg",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Alley.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "known as는 n 소리가 다음 모음과 이어져요.",
+   "start": 49.38,
+   "end": 55.5
+  }
+ ],
+ "questions": [
+  {
+   "q": "When did A23a calve from the Filchner Ice Shelf?",
+   "options": [
+    "August 1986",
+    "August 2020",
+    "August 1996"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 1986년 8월에 갈라져 나왔다고 말합니다."
+  },
+  {
+   "q": "What happened to the iceberg for about three decades after it calved?",
+   "options": [
+    "It stayed grounded on the seafloor",
+    "It melted completely",
+    "It drifted north immediately"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 30년 동안 해저에 고정되어 있었다고 설명합니다."
+  },
+  {
+   "q": "What happened in 2020?",
+   "options": [
+    "The iceberg detached and began drifting north",
+    "The iceberg calved for the first time",
+    "The iceberg reached the equator"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 2020년에 해저에서 분리되어 북쪽으로 떠내려가기 시작했다고 말합니다."
+  },
+  {
+   "q": "What is the path the iceberg followed called?",
+   "options": [
+    "Iceberg Alley",
+    "The Weddell Passage",
+    "The Antarctic Strait"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 그 경로가 'Iceberg Alley'로 알려져 있다고 설명합니다."
+  },
+  {
+   "q": "Where did A23a calve from?",
+   "options": [
+    "Antarctica's Filchner Ice Shelf",
+    "Greenland's ice sheet",
+    "The Arctic Ocean"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 남극의 필히너 빙붕에서 떨어져 나왔다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "calved",
+   "ko": "(빙하가) 갈라져 떨어지다",
+   "note": "빙하나 빙붕에서 큰 얼음 덩어리가 떨어져 나오는 것을 말해요."
+  },
+  {
+   "term": "grounded",
+   "ko": "바닥에 고정되다",
+   "note": "여기서는 빙산이 해저에 닿아 움직이지 못한 상태예요."
+  },
+  {
+   "term": "Antarctic Circumpolar Current",
+   "ko": "남극 순환류",
+   "note": "남극 대륙을 감싸고 도는 거대한 해류입니다."
+  },
+  {
+   "term": "Iceberg Alley",
+   "ko": "빙산 골목",
+   "note": "빙산들이 흔히 지나가는 해로를 부르는 이름이에요."
+  }
+ ]
+}

@@ -67,7 +67,7 @@ and notes are in Korean as specified below. This output is published on a public
 website, so you must never carry over any personally identifying or private \
 information from the transcript — see the privacy rules below."""
 
-# {duration}/{title_note}/{fragments} 세 자리를 반드시 유지. JSON 스키마의 이중
+# {duration}/{title_note}/{fragments}/{topics} 네 자리를 반드시 유지. JSON 스키마의 이중
 # 중괄호는 str.format() 이스케이프이므로 스키마를 고칠 때도 그대로 유지한다.
 GENERATE_PROMPT = """Below are numbered auto-caption fragments from a {duration:.0f}-second \
 YouTube segment{title_note}. Merge them into natural sentences and produce practice \
@@ -75,7 +75,7 @@ materials. Respond ONLY with JSON in exactly this format, no other text:
 
 {{"title": "Short English title for this segment",
  "summary": "1-2 sentence English summary of what the segment is about",
- "tags": ["kebab-case-tag", "max 3"],
+ "tags": ["2-3 kebab-case topic tags, chosen from the topic list below"],
  "sentences": [
    {{"text": "Full sentence text, fillers/false starts from the transcript cleaned up",
      "chunks": [{{"en": "a meaning chunk covering part of the sentence", "ko": "그 \
@@ -100,6 +100,10 @@ never include exact ages, health conditions, immigration status, employers, scho
 names, addresses, phone numbers, emails, or handles, even if the transcript states \
 them. When in doubt, generalize.
 
+Topic list (site-wide topics; pick 2-3 that fit best — invent a new one only if none \
+of these fits at all, so learners can browse a small, stable set of topics):
+{topics}
+
 Requirements:
 - "chunks" must cover the ENTIRE sentence text in order with no gaps or overlaps.
 - "words" must list every word of "text" in order (including the final word's \
@@ -115,6 +119,14 @@ left-to-right without translating.
 
 Numbered fragments:
 {fragments}"""
+
+# 사이트 공용 주제 — 실습마다 주제를 새로 지어내면 주제가 수백 개로 흩어지므로 여기서 고르게 한다
+TOPICS = [
+    "science", "nature", "space", "nasa", "weather", "natural-disasters", "oceans",
+    "animals", "environment", "national-parks", "health", "body-and-mind", "food",
+    "history", "inventors", "cities", "architecture", "technology", "business-english",
+    "careers", "education", "culture", "arts", "sports", "travel", "language",
+]
 
 # ============================ 도메인 설정 끝 =================================
 
@@ -508,7 +520,8 @@ def main() -> int:
         source_title = oembed.get("title")
         title_note = f' (video title: "{source_title}")' if source_title else ""
         prompt = GENERATE_PROMPT.format(
-            duration=duration, title_note=title_note, fragments=fragments_text
+            duration=duration, title_note=title_note, fragments=fragments_text,
+            topics=", ".join(TOPICS),
         )
 
         try:

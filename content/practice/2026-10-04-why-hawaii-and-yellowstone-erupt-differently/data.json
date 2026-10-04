@@ -1,0 +1,535 @@
+{
+ "video_id": "5xV4BhAVXzg",
+ "source_title": "Hawaii versus Yellowstone (Yellowstone monthly update - December 2025)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 63.2,
+  "end": 88.3
+ },
+ "sentences": [
+  {
+   "text": "But in Yellowstone the crust is very thick continental material, low density, and the magma stalls on the way up.",
+   "chunks": [
+    {
+     "en": "But in Yellowstone",
+     "ko": "하지만 옐로스톤에서는"
+    },
+    {
+     "en": "the crust is very thick continental material,",
+     "ko": "지각이 매우 두꺼운 대륙 물질이라서,"
+    },
+    {
+     "en": "low density,",
+     "ko": "밀도가 낮고,"
+    },
+    {
+     "en": "and the magma stalls on the way up.",
+     "ko": "마그마가 올라오는 길에 멈춰버려요."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Yellowstone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crust",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thick",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "continental",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "material,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "low",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "density,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "magma",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "stalls",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "up.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "stalls on에서 s가 뒤 모음과 연음돼요.",
+   "start": 63.2,
+   "end": 69.33
+  },
+  {
+   "text": "It chemically differentiates.",
+   "chunks": [
+    {
+     "en": "It chemically",
+     "ko": "그것은 화학적으로"
+    },
+    {
+     "en": "differentiates.",
+     "ko": "성질이 달라져요."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chemically",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "differentiates.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 69.33,
+   "end": 71.07
+  },
+  {
+   "text": "It changes, becomes a much stickier and more explosive type of magma.",
+   "chunks": [
+    {
+     "en": "It changes,",
+     "ko": "그것은 변하고,"
+    },
+    {
+     "en": "becomes a much stickier",
+     "ko": "훨씬 더 끈적한 것이 되고"
+    },
+    {
+     "en": "and more explosive type of magma.",
+     "ko": "더 폭발적인 유형의 마그마가 돼요."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "becomes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stickier",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "explosive",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "type",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "magma.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 71.07,
+   "end": 75.8
+  },
+  {
+   "text": "So that's the main difference between the Hawaiian hotspot and the Yellowstone hotspot.",
+   "chunks": [
+    {
+     "en": "So that's the main difference",
+     "ko": "그래서 그것이 주요 차이점이에요"
+    },
+    {
+     "en": "between the Hawaiian hotspot",
+     "ko": "하와이 열점과"
+    },
+    {
+     "en": "and the Yellowstone hotspot.",
+     "ko": "옐로스톤 열점 사이의"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "main",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "difference",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "between",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hawaiian",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "hotspot",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Yellowstone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "hotspot.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 75.8,
+   "end": 79.3
+  },
+  {
+   "text": "Simply setting, oceanic and continental, gives you wonderful red lava eruptions in Hawaii, and big, huge explosive eruptions here in Yellowstone.",
+   "chunks": [
+    {
+     "en": "Simply setting, oceanic and continental,",
+     "ko": "단순히 설정이, 해양과 대륙이라는 점이,"
+    },
+    {
+     "en": "gives you wonderful red lava eruptions in Hawaii,",
+     "ko": "하와이에서는 멋진 붉은 용암 분화를 만들어내고,"
+    },
+    {
+     "en": "and big, huge explosive eruptions here in Yellowstone.",
+     "ko": "여기 옐로스톤에서는 크고 거대한 폭발적인 분화를 만들어내요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Simply",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "setting,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "oceanic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "continental,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "gives",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wonderful",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "red",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lava",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "eruptions",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hawaii,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "huge",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "explosive",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "eruptions",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Yellowstone.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "eruptions in, huge explosive에서 자음이 뒤 모음과 연음돼요.",
+   "start": 79.3,
+   "end": 88.3
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why does magma become stickier beneath Yellowstone?",
+   "options": [
+    "Because it rises through thick continental crust",
+    "Because it rises through thin oceanic crust",
+    "Because it cools in the ocean"
+   ],
+   "answer": 0,
+   "why": "옐로스톤의 지각이 두꺼운 대륙 물질이라 마그마가 멈추고 성질이 바뀐다고 설명해요."
+  },
+  {
+   "q": "What is the main difference between the two hotspots?",
+   "options": [
+    "Oceanic versus continental setting",
+    "Depth of the ocean",
+    "Size of the national park"
+   ],
+   "answer": 0,
+   "why": "'simply setting, oceanic and continental' 문장이 핵심 차이를 설명해요."
+  },
+  {
+   "q": "What kind of eruptions does Hawaii produce?",
+   "options": [
+    "Wonderful red lava eruptions",
+    "Big explosive ash eruptions",
+    "No eruptions at all"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 하와이는 붉은 용암 분화를 만든다고 해요."
+  },
+  {
+   "q": "What happens to the magma as it chemically differentiates?",
+   "options": [
+    "It becomes stickier and more explosive",
+    "It becomes thinner and faster",
+    "It disappears completely"
+   ],
+   "answer": 0,
+   "why": "'It changes, becomes a much stickier and more explosive type of magma.'에서 알 수 있어요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "continental crust",
+   "ko": "대륙 지각",
+   "note": "대륙을 이루는 두꺼운 지각층을 말해요."
+  },
+  {
+   "term": "stalls on the way up",
+   "ko": "올라오다가 멈추다",
+   "note": "stall은 움직임이 멈춘다는 뜻이에요."
+  },
+  {
+   "term": "chemically differentiates",
+   "ko": "화학적으로 성질이 달라지다",
+   "note": "마그마의 성분이 변화하는 과정을 가리켜요."
+  },
+  {
+   "term": "stickier",
+   "ko": "더 끈적한",
+   "note": "sticky의 비교급이에요."
+  },
+  {
+   "term": "hotspot",
+   "ko": "열점",
+   "note": "지하에서 마그마가 솟아오르는 지점이에요."
+  }
+ ]
+}

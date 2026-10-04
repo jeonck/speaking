@@ -1,0 +1,491 @@
+{
+ "video_id": "9GSds-AfcFI",
+ "source_title": "NIH SciBites: How a Baker’s Best Friend Could Battle Brain Cancer",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 61.05,
+  "end": 86.17
+ },
+ "sentences": [
+  {
+   "text": "Those sugars set off the immune cells' alarm bells much more effectively than glioblastoma cells do, so it treats them like a threat.",
+   "chunks": [
+    {
+     "en": "Those sugars set off the immune cells' alarm bells",
+     "ko": "그 당분들은 면역 세포의 경보를 작동시킵니다"
+    },
+    {
+     "en": "much more effectively than glioblastoma cells do,",
+     "ko": "교모세포종 세포보다 훨씬 더 효과적으로,"
+    },
+    {
+     "en": "so it treats them like a threat.",
+     "ko": "그래서 그것을 위협처럼 다룹니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sugars",
+     "strong": true,
+     "link": false,
+     "syl": "su"
+    },
+    {
+     "w": "set",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "immune",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cells'",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "alarm",
+     "strong": true,
+     "link": false,
+     "syl": "larm"
+    },
+    {
+     "w": "bells",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "effectively",
+     "strong": true,
+     "link": false,
+     "syl": "fec"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "glioblastoma",
+     "strong": true,
+     "link": false,
+     "syl": "to"
+    },
+    {
+     "w": "cells",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "treats",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "threat.",
+     "strong": true,
+     "link": false,
+     "syl": "threat"
+    }
+   ],
+   "tip": "set off는 t를 다음 모음에 이어 '세로프'처럼, like a는 '라이커'처럼 이어 읽어요.",
+   "start": 61.05,
+   "end": 69.49
+  },
+  {
+   "text": "By attaching the sugar chains to tumor cells, the therapy trains our body to recognize and attack the cancer.",
+   "chunks": [
+    {
+     "en": "By attaching the sugar chains to tumor cells,",
+     "ko": "당분 사슬을 종양 세포에 붙임으로써,"
+    },
+    {
+     "en": "the therapy trains our body",
+     "ko": "그 치료법은 우리 몸을 훈련시킵니다"
+    },
+    {
+     "en": "to recognize and attack the cancer.",
+     "ko": "암을 인식하고 공격하도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "By",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "attaching",
+     "strong": true,
+     "link": false,
+     "syl": "tach"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sugar",
+     "strong": true,
+     "link": false,
+     "syl": "su"
+    },
+    {
+     "w": "chains",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tumor",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cells,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "therapy",
+     "strong": true,
+     "link": false,
+     "syl": "ther"
+    },
+    {
+     "w": "trains",
+     "strong": true,
+     "link": true,
+     "syl": "trains"
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recognize",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "attack",
+     "strong": true,
+     "link": false,
+     "syl": "tack"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "trains our는 s를 이어 '트레인저'처럼, recognize and는 '나이즈앤드'로 이어줘요.",
+   "start": 69.49,
+   "end": 76.56
+  },
+  {
+   "text": "We've demonstrated that this approach helps mice with glioblastoma tumors live longer and is more effective in those animals than currently used treatments.",
+   "chunks": [
+    {
+     "en": "We've demonstrated that this approach helps mice with glioblastoma tumors live longer",
+     "ko": "이 접근법이 교모세포종 종양을 가진 쥐를 더 오래 살게 돕는다는 것을 증명했습니다"
+    },
+    {
+     "en": "and is more effective in those animals",
+     "ko": "그리고 그 동물들에게 더 효과적이라는 것을"
+    },
+    {
+     "en": "than currently used treatments.",
+     "ko": "현재 사용되는 치료법보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "demonstrated",
+     "strong": true,
+     "link": false,
+     "syl": "strat"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "approach",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helps",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mice",
+     "strong": true,
+     "link": false,
+     "syl": "mice"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "glioblastoma",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tumors",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "longer",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "effective",
+     "strong": true,
+     "link": false,
+     "syl": "fec"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "animals",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "currently",
+     "strong": true,
+     "link": false,
+     "syl": "cur"
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "treatments.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and is는 d를 이어 '앤디즈'처럼, more effective는 r을 이어 '모어리펙티브'처럼 들려요.",
+   "start": 76.56,
+   "end": 86.17
+  }
+ ],
+ "questions": [
+  {
+   "q": "What effect do the sugars have on immune cells?",
+   "options": [
+    "They trigger a stronger alarm response than glioblastoma cells do",
+    "They put immune cells to sleep",
+    "They have no effect on immune cells"
+   ],
+   "answer": 0,
+   "why": "첫 문장: set off the immune cells' alarm bells much more effectively than glioblastoma cells do."
+  },
+  {
+   "q": "How does the therapy use sugar chains?",
+   "options": [
+    "By attaching them to tumor cells so the body attacks the cancer",
+    "By removing sugar from tumor cells",
+    "By feeding sugar to the patient"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장: attaching the sugar chains to tumor cells, the therapy trains our body to recognize and attack the cancer."
+  },
+  {
+   "q": "What was the result of the therapy in mice with glioblastoma tumors?",
+   "options": [
+    "The mice lived longer",
+    "The mice showed no change",
+    "The tumors grew faster"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장: helps mice with glioblastoma tumors live longer."
+  },
+  {
+   "q": "How does the new therapy compare to current treatments?",
+   "options": [
+    "It is more effective than currently used treatments",
+    "It is less effective",
+    "It works the same way"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장 마지막: more effective in those animals than currently used treatments."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "set off",
+   "ko": "작동시키다, 유발하다",
+   "note": "set off the alarm bells처럼 반응을 일으킨다는 뜻이에요."
+  },
+  {
+   "term": "glioblastoma",
+   "ko": "교모세포종 (뇌종양의 한 종류)",
+   "note": "본문에서 반복되는 전문 용어예요."
+  },
+  {
+   "term": "attach A to B",
+   "ko": "A를 B에 붙이다",
+   "note": "attaching the sugar chains to tumor cells처럼 써요."
+  },
+  {
+   "term": "recognize and attack",
+   "ko": "인식하고 공격하다",
+   "note": "면역계가 암을 처리하는 과정을 설명할 때 자주 나와요."
+  },
+  {
+   "term": "live longer",
+   "ko": "더 오래 살다",
+   "note": "치료 효과를 설명할 때 쓰는 표현이에요."
+  },
+  {
+   "term": "currently used",
+   "ko": "현재 사용되는",
+   "note": "currently used treatments처럼 기존 방법과 비교할 때 써요."
+  }
+ ]
+}

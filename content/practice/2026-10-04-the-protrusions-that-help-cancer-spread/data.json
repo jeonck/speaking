@@ -1,0 +1,492 @@
+{
+ "video_id": "WguzSvq-8qI",
+ "source_title": "Keeping Cancer Locked Up",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 29.63,
+  "end": 55.14
+ },
+ "sentences": [
+  {
+   "text": "Cancer cells use our bloodstream as a highway to move around the body, but in order to get into the bloodstream, they must use these arm-like protrusions that help them move from the cancer's original site into the bloodstream.",
+   "chunks": [
+    {
+     "en": "Cancer cells use our bloodstream as a highway to move around the body,",
+     "ko": "암세포는 우리 혈류를 몸속을 이동하는 고속도로처럼 사용하지만,"
+    },
+    {
+     "en": "but in order to get into the bloodstream,",
+     "ko": "혈류 속으로 들어가려면,"
+    },
+    {
+     "en": "they must use these arm-like protrusions that help them move",
+     "ko": "팔처럼 생긴 돌기를 사용해 이동해야 하는데"
+    },
+    {
+     "en": "from the cancer's original site into the bloodstream.",
+     "ko": "암이 처음 생긴 자리에서 혈류 속으로 이동하는 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Cancer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cells",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bloodstream",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "highway",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "move",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "order",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bloodstream,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "must",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "arm-like",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "protrusions",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "move",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "original",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "site",
+     "strong": true,
+     "link": false,
+     "syl": "SITE"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bloodstream.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'get into'는 이어져 '게린투'처럼 들려요.",
+   "start": 29.63,
+   "end": 43.49
+  },
+  {
+   "text": "My research aims to find out what causes these protrusions to form.",
+   "chunks": [
+    {
+     "en": "My research aims to find out",
+     "ko": "내 연구는 알아내는 것을 목표로 한다"
+    },
+    {
+     "en": "what causes these protrusions to form.",
+     "ko": "무엇이 이 돌기들을 생기게 하는지를."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "research",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "aims",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "causes",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protrusions",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "form.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'find out'은 이어져 '파인다웃'처럼 들려요.",
+   "start": 43.49,
+   "end": 48.21
+  },
+  {
+   "text": "Of course, it's hard to study how cancer spreads in the human body if it's not in someone's body.",
+   "chunks": [
+    {
+     "en": "Of course, it's hard to study",
+     "ko": "물론, 연구하기는 어렵다"
+    },
+    {
+     "en": "how cancer spreads in the human body",
+     "ko": "암이 인체 안에서 어떻게 퍼지는지를"
+    },
+    {
+     "en": "if it's not in someone's body.",
+     "ko": "그것이 누군가의 몸속에 있지 않다면."
+    }
+   ],
+   "words": [
+    {
+     "w": "Of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "course,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spreads",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "human",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'not in'은 자음과 모음이 이어져 '나틴'처럼 들려요.",
+   "start": 48.21,
+   "end": 55.14
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the segment compare the bloodstream to?",
+   "options": [
+    "A highway that cancer cells travel on",
+    "A wall that blocks cancer cells",
+    "A filter that removes cancer cells"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 혈류를 몸을 이동하는 고속도로에 비유합니다."
+  },
+  {
+   "q": "What do cancer cells use to move into the bloodstream?",
+   "options": [
+    "Arm-like protrusions",
+    "Tiny wings",
+    "Chemical signals alone"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 팔처럼 생긴 돌기를 사용해 이동한다고 설명합니다."
+  },
+  {
+   "q": "What is the goal of the research described in the segment?",
+   "options": [
+    "To find out what causes the protrusions to form",
+    "To create a vaccine for cancer",
+    "To measure the size of the bloodstream"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 연구의 목표가 돌기가 생기는 원인을 알아내는 것이라고 말합니다."
+  },
+  {
+   "q": "Why is it hard to study how cancer spreads, according to the segment?",
+   "options": [
+    "Because it is difficult to study the process outside a living human body",
+    "Because cancer cells move too fast to see",
+    "Because the bloodstream is too small to observe"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 암의 확산이 사람의 몸속에 있지 않으면 연구하기 어렵다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "bloodstream",
+   "ko": "혈류",
+   "note": "혈액이 흐르는 순환계를 가리킵니다."
+  },
+  {
+   "term": "protrusions",
+   "ko": "돌기",
+   "note": "표면에서 밖으로 튀어나온 부분을 뜻합니다."
+  },
+  {
+   "term": "arm-like",
+   "ko": "팔처럼 생긴",
+   "note": "형태가 팔과 비슷하다는 뜻의 합성어입니다."
+  },
+  {
+   "term": "original site",
+   "ko": "원래 생긴 자리",
+   "note": "암이 처음 발생한 위치를 가리키는 표현입니다."
+  }
+ ]
+}

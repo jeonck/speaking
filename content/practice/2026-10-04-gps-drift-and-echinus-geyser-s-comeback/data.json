@@ -1,0 +1,612 @@
+{
+ "video_id": "D86-mFw265k",
+ "source_title": "Lone Star Geyser (Yellowstone Monthly Update - April 2026)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 111.1,
+  "end": 136.13
+ },
+ "sentences": [
+  {
+   "text": "Over the last few months, there hasn't been a lot of net change.",
+   "chunks": [
+    {
+     "en": "Over the last few months,",
+     "ko": "지난 몇 달 동안,"
+    },
+    {
+     "en": "there hasn't been a lot of net change.",
+     "ko": "순 변화가 별로 없었습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "months,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hasn't",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "net",
+     "strong": true,
+     "link": false,
+     "syl": "NET"
+    },
+    {
+     "w": "change.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "hasn't는 '해즌트'처럼 두 음절로 가볍게 발음해요.",
+   "start": 111.1,
+   "end": 114.0
+  },
+  {
+   "text": "All of this variability may be due to winter weather conditions, which can impact the GPS signal.",
+   "chunks": [
+    {
+     "en": "All of this variability",
+     "ko": "이런 변동성은 모두"
+    },
+    {
+     "en": "may be due to winter weather conditions,",
+     "ko": "겨울 기상 조건 때문일 수도 있는데,"
+    },
+    {
+     "en": "which can impact the GPS signal.",
+     "ko": "이는 GPS 신호에 영향을 줄 수 있습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "All",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "variability",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "due",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "winter",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weather",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "conditions,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "impact",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "GPS",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "signal.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "due to는 '듀투'처럼 이어서 발음돼요.",
+   "start": 114.0,
+   "end": 120.37
+  },
+  {
+   "text": "In terms of geyser activity, you might remember that Echinus Geyser in Norris Geyser Basin sprang to life after a few years of quiet.",
+   "chunks": [
+    {
+     "en": "In terms of geyser activity,",
+     "ko": "간헐천 활동으로 말하자면,"
+    },
+    {
+     "en": "you might remember that",
+     "ko": "여러분도 기억하실 텐데"
+    },
+    {
+     "en": "Echinus Geyser in Norris Geyser Basin sprang to life",
+     "ko": "노리스 간헐천 분지의 에키누스 간헐천이 다시 활동을 시작했다는 것을요"
+    },
+    {
+     "en": "after a few years of quiet.",
+     "ko": "몇 년간의 조용한 시기가 지난 뒤에 말이죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "terms",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "geyser",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "activity,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "might",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remember",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Echinus",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Geyser",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Norris",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Geyser",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Basin",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sprang",
+     "strong": true,
+     "link": false,
+     "syl": "SPRANG"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "sprang to life는 끊지 않고 한 호흡으로 이어서 읽어요.",
+   "start": 120.37,
+   "end": 127.67
+  },
+  {
+   "text": "Back in February, it had about 40 eruptions.",
+   "chunks": [
+    {
+     "en": "Back in February,",
+     "ko": "2월로 돌아가면,"
+    },
+    {
+     "en": "it had about 40 eruptions.",
+     "ko": "약 40번의 분출이 있었습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Back",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "February,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "40",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "eruptions.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "had about는 d 소리가 다음 모음과 이어져요.",
+   "start": 127.67,
+   "end": 130.67
+  },
+  {
+   "text": "In March, it had just one eruption.",
+   "chunks": [
+    {
+     "en": "In March,",
+     "ko": "3월에는,"
+    },
+    {
+     "en": "it had just one eruption.",
+     "ko": "분출이 딱 한 번뿐이었습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "March,",
+     "strong": true,
+     "link": false,
+     "syl": "MARCH"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "eruption.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "one eruption에서 one을 또렷하게 강조해요.",
+   "start": 130.67,
+   "end": 132.97
+  },
+  {
+   "text": "This is the temperature in the outflow channel for Echinus Geyser.",
+   "chunks": [
+    {
+     "en": "This is the temperature",
+     "ko": "이것이 바로 온도입니다"
+    },
+    {
+     "en": "in the outflow channel",
+     "ko": "유출 수로에 있는"
+    },
+    {
+     "en": "for Echinus Geyser.",
+     "ko": "에키누스 간헐천의 말이죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "temperature",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "outflow",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "channel",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Echinus",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Geyser.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "for Echinus는 r 소리가 다음 모음과 자연스럽게 이어져요.",
+   "start": 132.97,
+   "end": 136.13
+  }
+ ],
+ "questions": [
+  {
+   "q": "What might explain the lack of net change in the GPS signal over the past few months?",
+   "options": [
+    "Winter weather conditions",
+    "A nearby eruption",
+    "Equipment failure"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 겨울 기상 조건이 GPS 신호에 영향을 줄 수 있다고 설명합니다."
+  },
+  {
+   "q": "What happened to Echinus Geyser after a few quiet years?",
+   "options": [
+    "It sprang back to life",
+    "It stopped erupting completely",
+    "It moved to a new location"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 몇 년간의 조용한 시기 이후 다시 활동을 시작했다고 말합니다."
+  },
+  {
+   "q": "About how many eruptions did Echinus Geyser have in February?",
+   "options": [
+    "About 40",
+    "About 4",
+    "About 100"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 2월에 약 40번의 분출이 있었다고 합니다."
+  },
+  {
+   "q": "How many eruptions did it have in March?",
+   "options": [
+    "Just one",
+    "About 40",
+    "None"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 3월에는 분출이 딱 한 번뿐이었다고 말합니다."
+  },
+  {
+   "q": "What is being measured in the outflow channel?",
+   "options": [
+    "Temperature",
+    "Water pressure",
+    "pH level"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 유출 수로의 온도를 보여주고 있다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "net change",
+   "ko": "순 변화(전체적으로 본 변화량)",
+   "note": "증가분과 감소분을 상쇄한 뒤 남는 변화를 말해요."
+  },
+  {
+   "term": "sprang to life",
+   "ko": "다시 활발해지다",
+   "note": "오랜 침묵 후 갑자기 활동이 되살아날 때 씁니다."
+  },
+  {
+   "term": "outflow channel",
+   "ko": "유출 수로",
+   "note": "간헐천에서 물이 흘러나가는 통로를 가리켜요."
+  },
+  {
+   "term": "in terms of",
+   "ko": "~의 측면에서",
+   "note": "화제를 좁혀서 말할 때 쓰는 표현이에요."
+  }
+ ]
+}

@@ -1,0 +1,464 @@
+{
+ "video_id": "Z3rABRAL3qc",
+ "source_title": "NIH SciBites: Searching Our Genes With Quantum Computing",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 104.94,
+  "end": 130.26
+ },
+ "sentences": [
+  {
+   "text": "In this way, quantum computing programs, like the one we've developed, could help doctors and researchers better understand how differences in our DNA contribute to a wide range of complex health issues, from immune system diseases to brain disorders.",
+   "chunks": [
+    {
+     "en": "In this way, quantum computing programs,",
+     "ko": "이런 방식으로, 퀀텀 컴퓨팅 프로그램은,"
+    },
+    {
+     "en": "like the one we've developed,",
+     "ko": "우리가 개발한 것과 같은 것이,"
+    },
+    {
+     "en": "could help doctors and researchers better understand",
+     "ko": "의사와 연구자들이 더 잘 이해하도록 도울 수 있다"
+    },
+    {
+     "en": "how differences in our DNA contribute",
+     "ko": "우리 DNA의 차이가 어떻게 영향을 미치는지를"
+    },
+    {
+     "en": "to a wide range of complex health issues,",
+     "ko": "복잡한 건강 문제의 넓은 범위에,"
+    },
+    {
+     "en": "from immune system diseases to brain disorders.",
+     "ko": "면역계 질환부터 뇌 질환까지."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quantum",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "computing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "programs,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "developed,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doctors",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "researchers",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "understand",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "differences",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "DNA",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "contribute",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wide",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "range",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "complex",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "health",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "issues,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "immune",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "system",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "diseases",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disorders.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'health issues'는 이어져 '헬th이슈즈'처럼 들려요.",
+   "start": 104.94,
+   "end": 120.91
+  },
+  {
+   "text": "That's just one of the many ways that bring together the fields of physics, computer science, and medicine can lead to revolutionary discoveries that save lives.",
+   "chunks": [
+    {
+     "en": "That's just one of the many ways",
+     "ko": "그것은 그 많은 방법들 중 하나일 뿐이다"
+    },
+    {
+     "en": "that bring together the fields of physics,",
+     "ko": "물리학 분야들을 한데 모으는,"
+    },
+    {
+     "en": "computer science, and medicine",
+     "ko": "컴퓨터 과학, 그리고 의학을"
+    },
+    {
+     "en": "can lead to revolutionary discoveries",
+     "ko": "혁신적인 발견으로 이끌 수 있는"
+    },
+    {
+     "en": "that save lives.",
+     "ko": "생명을 구하는."
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ways",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fields",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "physics,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "computer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "medicine",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lead",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "revolutionary",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "discoveries",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "save",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "lives.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'save lives'는 자음과 모음이 이어져 '세이블라이브즈'처럼 들려요.",
+   "start": 120.91,
+   "end": 130.26
+  }
+ ],
+ "questions": [
+  {
+   "q": "What could quantum computing programs help doctors and researchers do?",
+   "options": [
+    "Better understand how differences in our DNA contribute to health issues",
+    "Replace all hospital equipment",
+    "Predict the weather more accurately"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 퀀텀 컴퓨팅 프로그램이 DNA 차이를 이해하는 데 도움을 준다고 말합니다."
+  },
+  {
+   "q": "What range of health issues does the segment mention?",
+   "options": [
+    "From immune system diseases to brain disorders",
+    "Only skin conditions",
+    "Only broken bones"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 면역계 질환부터 뇌 질환까지라고 언급합니다."
+  },
+  {
+   "q": "Which fields does the segment say are brought together?",
+   "options": [
+    "Physics, computer science, and medicine",
+    "Art, music, and literature",
+    "Law, finance, and history"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 물리학, 컴퓨터 과학, 의학이 합쳐진다고 말합니다."
+  },
+  {
+   "q": "What can combining these fields lead to, according to the segment?",
+   "options": [
+    "Revolutionary discoveries that save lives",
+    "Shorter work weeks for scientists",
+    "Cheaper computer hardware"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 생명을 구하는 혁신적인 발견으로 이어질 수 있다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "quantum computing",
+   "ko": "퀀텀 컴퓨팅(양자 컴퓨팅)",
+   "note": "양자역학 원리를 이용하는 컴퓨팅 방식입니다."
+  },
+  {
+   "term": "contribute to",
+   "ko": "~에 영향을 미치다, 기여하다",
+   "note": "원인 중 하나로 작용한다는 뜻입니다."
+  },
+  {
+   "term": "a wide range of",
+   "ko": "광범위한, 다양한",
+   "note": "여러 종류를 포괄한다는 뜻의 표현입니다."
+  },
+  {
+   "term": "revolutionary discoveries",
+   "ko": "혁신적인 발견",
+   "note": "기존 방식을 크게 바꾸는 중요한 발견을 말합니다."
+  }
+ ]
+}

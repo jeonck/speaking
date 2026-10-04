@@ -1,0 +1,623 @@
+{
+ "video_id": "5xV4BhAVXzg",
+ "source_title": "Hawaii versus Yellowstone (Yellowstone monthly update - December 2025)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 9.4,
+  "end": 34.3
+ },
+ "sentences": [
+  {
+   "text": "Now, a hotspot is an area of anomalous melting that's tens of miles deep.",
+   "chunks": [
+    {
+     "en": "Now, a hotspot is an area of anomalous melting",
+     "ko": "자, 핫스팟은 비정상적인 용융이 일어나는 지역이에요"
+    },
+    {
+     "en": "that's tens of miles deep.",
+     "ko": "수십 마일 깊이에 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotspot",
+     "strong": true,
+     "link": false,
+     "syl": "HOT"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "area",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "anomalous",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "melting",
+     "strong": true,
+     "link": false,
+     "syl": "MEL"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tens",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miles",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deep.",
+     "strong": true,
+     "link": false,
+     "syl": "DEEP"
+    }
+   ],
+   "tip": "\"is an\", \"an area\"처럼 끝 자음이 다음 모음과 이어져요.",
+   "start": 9.4,
+   "end": 13.3
+  },
+  {
+   "text": "It's fed by a plume of hot material that originates deep within the earth.",
+   "chunks": [
+    {
+     "en": "It's fed by a plume of hot material",
+     "ko": "그것은 뜨거운 물질의 플룸(기둥)에 의해 공급돼요"
+    },
+    {
+     "en": "that originates deep within the earth.",
+     "ko": "지구 깊은 곳에서 발생하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fed",
+     "strong": true,
+     "link": false,
+     "syl": "FED"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plume",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hot",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "material",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "originates",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deep",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "within",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "earth.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "\"plume of\", \"that originates\"처럼 끝 자음이 다음 모음과 이어져요.",
+   "start": 13.3,
+   "end": 17.37
+  },
+  {
+   "text": "But it's relatively fixed.",
+   "chunks": [
+    {
+     "en": "But it's",
+     "ko": "하지만 그것은"
+    },
+    {
+     "en": "relatively fixed.",
+     "ko": "비교적 고정되어 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relatively",
+     "strong": true,
+     "link": false,
+     "syl": "REL"
+    },
+    {
+     "w": "fixed.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "it's처럼 축약형은 한 박자로 빠르게 발음돼요.",
+   "start": 17.37,
+   "end": 18.8
+  },
+  {
+   "text": "And so as the tectonic plates that make up the earth's surface move across the hotspot, it creates a chain of volcanoes that get older the farther away you get from this current center of volcanism.",
+   "chunks": [
+    {
+     "en": "And so as the tectonic plates that make up the earth's surface",
+     "ko": "그래서 지구 표면을 이루는 지각판들이"
+    },
+    {
+     "en": "move across the hotspot,",
+     "ko": "핫스팟을 가로질러 움직이면서,"
+    },
+    {
+     "en": "it creates a chain of volcanoes",
+     "ko": "그것은 화산들의 사슬을 만들어내요"
+    },
+    {
+     "en": "that get older the farther away you get",
+     "ko": "더 멀리 갈수록 더 오래된"
+    },
+    {
+     "en": "from this current center of volcanism.",
+     "ko": "현재의 화산 활동 중심지로부터"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tectonic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "plates",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "earth's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surface",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "move",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "across",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotspot,",
+     "strong": true,
+     "link": false,
+     "syl": "HOT"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "creates",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chain",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "volcanoes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "older",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "farther",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "away",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "current",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "center",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "volcanism.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "\"make up\", \"get older\"처럼 끝 자음이 다음 모음과 이어져요.",
+   "start": 18.8,
+   "end": 28.73
+  },
+  {
+   "text": "So in Hawaii, there's a chain of seamounts that stretches off to the northwest.",
+   "chunks": [
+    {
+     "en": "So in Hawaii, there's a chain of seamounts",
+     "ko": "그래서 하와이에는 해산들의 사슬이 있어요"
+    },
+    {
+     "en": "that stretches off to the northwest.",
+     "ko": "북서쪽으로 뻗어 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hawaii,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "there's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chain",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seamounts",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stretches",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "northwest.",
+     "strong": true,
+     "link": false,
+     "syl": "WEST"
+    }
+   ],
+   "tip": "\"there's a\", \"chain of\"처럼 끝 자음이 다음 모음과 이어져요.",
+   "start": 28.73,
+   "end": 33.07
+  },
+  {
+   "text": "Old volcanoes.",
+   "chunks": [
+    {
+     "en": "Old volcanoes.",
+     "ko": "오래된 화산들이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Old",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "volcanoes.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "Old가 volcanoes와 이어져 '올드볼케이노즈'처럼 들려요.",
+   "start": 33.07,
+   "end": 34.3
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is a hotspot, according to the segment?",
+   "options": [
+    "An area of anomalous melting tens of miles deep",
+    "A place where earthquakes always start",
+    "A type of volcano shape"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 핫스팟은 수십 마일 깊이의 비정상적인 용융 지역이라고 설명해요."
+  },
+  {
+   "q": "What feeds the hotspot?",
+   "options": [
+    "A plume of hot material that originates deep within the earth",
+    "Ocean water seeping into cracks",
+    "Wind patterns above the surface"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 지구 깊은 곳에서 생기는 뜨거운 물질의 플룸이 공급한다고 말해요."
+  },
+  {
+   "q": "What happens as the tectonic plates move across the relatively fixed hotspot?",
+   "options": [
+    "It creates a chain of volcanoes that get older farther from the current center",
+    "It causes the hotspot itself to move",
+    "It stops all volcanic activity"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 지각판이 핫스팟을 가로지르며 멀어질수록 더 오래된 화산 사슬이 생긴다고 설명해요."
+  },
+  {
+   "q": "What does the chain of seamounts northwest of Hawaii consist of?",
+   "options": [
+    "Old volcanoes",
+    "Active coral reefs",
+    "New islands still forming"
+   ],
+   "answer": 0,
+   "why": "다섯 번째와 여섯 번째 문장에서 북서쪽으로 뻗은 해산 사슬이 오래된 화산들이라고 말해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "hotspot",
+   "ko": "핫스팟(마그마 열점)",
+   "note": "지각 아래에서 고정된 채 용융이 일어나는 지점을 가리켜요."
+  },
+  {
+   "term": "plume",
+   "ko": "플룸(맨틀 기둥)",
+   "note": "지구 깊은 곳에서 솟아오르는 뜨거운 물질의 기둥을 뜻해요."
+  },
+  {
+   "term": "tectonic plates",
+   "ko": "지각판",
+   "note": "지구 표면을 이루며 서서히 움직이는 거대한 판을 말해요."
+  },
+  {
+   "term": "seamount",
+   "ko": "해산(바닷속 산)",
+   "note": "바다 밑에 솟아 있는 화산성 산을 가리켜요."
+  },
+  {
+   "term": "relatively fixed",
+   "ko": "비교적 고정된",
+   "note": "완전히 고정된 건 아니지만 거의 움직이지 않는다는 뜻이에요."
+  }
+ ]
+}

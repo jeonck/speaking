@@ -1,0 +1,544 @@
+{
+ "video_id": "Ez8-e_GRAJc",
+ "source_title": "NIH SciBites: How “Al Dente” is Your Dengue?",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 42.08,
+  "end": 67.63
+ },
+ "sentences": [
+  {
+   "text": "They can be hard like dry pasta or flexible like well-cooked pasta.",
+   "chunks": [
+    {
+     "en": "They can be hard like dry pasta",
+     "ko": "그것들은 마른 파스타처럼 단단할 수도 있고"
+    },
+    {
+     "en": "or flexible like well-cooked pasta.",
+     "ko": "또는 잘 익은 파스타처럼 유연할 수도 있습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dry",
+     "strong": true,
+     "link": false,
+     "syl": "dry"
+    },
+    {
+     "w": "pasta",
+     "strong": true,
+     "link": false,
+     "syl": "pas"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flexible",
+     "strong": true,
+     "link": false,
+     "syl": "flex"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well-cooked",
+     "strong": true,
+     "link": false,
+     "syl": "cooked"
+    },
+    {
+     "w": "pasta.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "hard와 flexible 대조에 강세를 주며 리듬을 살려 읽어요.",
+   "start": 42.08,
+   "end": 46.18
+  },
+  {
+   "text": "That's important because their flexibility affects their ability to survive in their hosts.",
+   "chunks": [
+    {
+     "en": "That's important",
+     "ko": "그것은 중요합니다"
+    },
+    {
+     "en": "because their flexibility affects their ability",
+     "ko": "그들의 유연성이 그들의 능력에 영향을 미치기 때문입니다"
+    },
+    {
+     "en": "to survive in their hosts.",
+     "ko": "숙주 안에서 생존하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flexibility",
+     "strong": true,
+     "link": false,
+     "syl": "bil"
+    },
+    {
+     "w": "affects",
+     "strong": true,
+     "link": false,
+     "syl": "fects"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ability",
+     "strong": true,
+     "link": false,
+     "syl": "bil"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "survive",
+     "strong": true,
+     "link": true,
+     "syl": "vive"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hosts.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "survive in은 v를 이어 '서바이빈'처럼 들려요.",
+   "start": 46.18,
+   "end": 51.35
+  },
+  {
+   "text": "And just like different kinds of pasta have different cooking times, different viruses vary in their flexibility.",
+   "chunks": [
+    {
+     "en": "And just like different kinds of pasta have different cooking times,",
+     "ko": "파스타의 종류마다 익히는 시간이 다른 것처럼,"
+    },
+    {
+     "en": "different viruses vary in their flexibility.",
+     "ko": "바이러스마다 유연성이 다릅니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "dif"
+    },
+    {
+     "w": "kinds",
+     "strong": true,
+     "link": false,
+     "syl": "kinds"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pasta",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking",
+     "strong": true,
+     "link": false,
+     "syl": "cook"
+    },
+    {
+     "w": "times,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "viruses",
+     "strong": true,
+     "link": false,
+     "syl": "vi"
+    },
+    {
+     "w": "vary",
+     "strong": true,
+     "link": true,
+     "syl": "var"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flexibility.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "vary in처럼 자음에서 모음으로 매끄럽게 이어 읽어요.",
+   "start": 51.35,
+   "end": 57.29
+  },
+  {
+   "text": "For example, the tick-borne encephalitis virus is less flexible than its close cousin, the dengue virus, which can change from hard to soft depending on the temperature of its environment.",
+   "chunks": [
+    {
+     "en": "For example, the tick-borne encephalitis virus is less flexible than its close cousin,",
+     "ko": "예를 들어, 진드기 매개 뇌염 바이러스는 그것의 가까운 친척보다 덜 유연한데,"
+    },
+    {
+     "en": "the dengue virus,",
+     "ko": "바로 뎅기 바이러스입니다,"
+    },
+    {
+     "en": "which can change from hard to soft",
+     "ko": "그것은 단단함에서 부드러움으로 바뀔 수 있습니다"
+    },
+    {
+     "en": "depending on the temperature of its environment.",
+     "ko": "주변 환경의 온도에 따라서요."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "example,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tick-borne",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "encephalitis",
+     "strong": true,
+     "link": false,
+     "syl": "li"
+    },
+    {
+     "w": "virus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "less",
+     "strong": true,
+     "link": false,
+     "syl": "less"
+    },
+    {
+     "w": "flexible",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cousin,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dengue",
+     "strong": true,
+     "link": false,
+     "syl": "den"
+    },
+    {
+     "w": "virus,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "link": false,
+     "syl": "change"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soft",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "depending",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "temperature",
+     "strong": true,
+     "link": false,
+     "syl": "tem"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "environment.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "than its, depending on, of its처럼 자음+모음이 이어져요.",
+   "start": 57.29,
+   "end": 67.63
+  }
+ ],
+ "questions": [
+  {
+   "q": "What determines whether a virus is hard or flexible, according to the pasta comparison?",
+   "options": [
+    "Their flexibility, which affects their ability to survive in hosts",
+    "Their color",
+    "Their size"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장: their flexibility affects their ability to survive in their hosts."
+  },
+  {
+   "q": "How does the tick-borne encephalitis virus compare to the dengue virus?",
+   "options": [
+    "It is less flexible than the dengue virus",
+    "It is more flexible than the dengue virus",
+    "It is identical to the dengue virus"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장: the tick-borne encephalitis virus is less flexible than its close cousin, the dengue virus."
+  },
+  {
+   "q": "What can change the dengue virus from hard to soft?",
+   "options": [
+    "The temperature of its environment",
+    "The color of its surroundings",
+    "The time of day"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장 마지막: depending on the temperature of its environment."
+  },
+  {
+   "q": "What analogy does the speaker use to describe virus flexibility?",
+   "options": [
+    "Pasta that is dry or well-cooked",
+    "Metal that is hot or cold",
+    "Rubber that is new or old"
+   ],
+   "answer": 0,
+   "why": "첫 문장: hard like dry pasta or flexible like well-cooked pasta."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "flexibility",
+   "ko": "유연성",
+   "note": "형태가 얼마나 쉽게 변하는지를 나타내요."
+  },
+  {
+   "term": "ability to survive",
+   "ko": "생존 능력",
+   "note": "affects their ability to survive처럼 생존과 관련된 능력을 말해요."
+  },
+  {
+   "term": "close cousin",
+   "ko": "가까운 친척, 유사한 종류",
+   "note": "여기서는 비슷한 바이러스를 비유적으로 가리켜요."
+  },
+  {
+   "term": "depending on",
+   "ko": "~에 따라",
+   "note": "depending on the temperature처럼 조건에 따라 달라짐을 나타내요."
+  },
+  {
+   "term": "tick-borne",
+   "ko": "진드기가 매개하는",
+   "note": "질병이나 바이러스가 진드기를 통해 전파된다는 뜻이에요."
+  }
+ ]
+}

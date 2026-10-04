@@ -1,0 +1,470 @@
+{
+ "video_id": "qjzb0ZRKtGE",
+ "source_title": "NOAA's Pam Sullivan on Maria Mitchell, America's First Female Astronomer",
+ "source_channel": "NOAA",
+ "segment": {
+  "start": 34.33,
+  "end": 59.33
+ },
+ "sentences": [
+  {
+   "text": "Maria was a famous astronomer in the 1800s and actually the first American to discover a comet.",
+   "chunks": [
+    {
+     "en": "Maria was a famous astronomer",
+     "ko": "마리아는 유명한 천문학자였어요"
+    },
+    {
+     "en": "in the 1800s",
+     "ko": "1800년대에"
+    },
+    {
+     "en": "and actually the first American",
+     "ko": "그리고 실은 최초의 미국인이었죠"
+    },
+    {
+     "en": "to discover a comet.",
+     "ko": "혜성을 발견한"
+    }
+   ],
+   "words": [
+    {
+     "w": "Maria",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "famous",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "astronomer",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1800s",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "American",
+     "strong": true,
+     "link": false,
+     "syl": "MER"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "discover",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comet.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "\"famous astronomer\", \"first American\"처럼 끝 자음이 다음 모음과 이어져요.",
+   "start": 34.33,
+   "end": 41.23
+  },
+  {
+   "text": "Maria is also believed to be the first woman employed in a professional capacity for the U.S. government.",
+   "chunks": [
+    {
+     "en": "Maria is also believed",
+     "ko": "마리아는 또한 ~라고 여겨져요"
+    },
+    {
+     "en": "to be the first woman",
+     "ko": "최초의 여성으로"
+    },
+    {
+     "en": "employed in a professional capacity",
+     "ko": "전문직으로 고용된"
+    },
+    {
+     "en": "for the U.S. government.",
+     "ko": "미국 정부에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Maria",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "believed",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "woman",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "employed",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "professional",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "capacity",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "government.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "\"employed in\", \"in a\"처럼 자음 뒤 모음이 바로 이어져요.",
+   "start": 41.23,
+   "end": 48.6
+  },
+  {
+   "text": "In 1845, she was hired by the U.S. Coast Survey, one of the predecessors of NOAA, to perform astronomical measurements that were used for navigation tables.",
+   "chunks": [
+    {
+     "en": "In 1845, she was hired",
+     "ko": "1845년에, 그녀는 고용되었어요"
+    },
+    {
+     "en": "by the U.S. Coast Survey,",
+     "ko": "미국 해안 측량국에"
+    },
+    {
+     "en": "one of the predecessors of NOAA,",
+     "ko": "NOAA의 전신 중 하나인,"
+    },
+    {
+     "en": "to perform astronomical measurements",
+     "ko": "천문 측정을 수행하기 위해"
+    },
+    {
+     "en": "that were used for navigation tables.",
+     "ko": "항해 도표에 사용된"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "1845,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "hired",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "U.S.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Coast",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Survey,",
+     "strong": true,
+     "link": false,
+     "syl": "SUR"
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "predecessors",
+     "strong": true,
+     "link": true,
+     "syl": "PRED"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NOAA,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "perform",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "astronomical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "measurements",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "navigation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "tables.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "\"perform astronomical\", \"one of\"처럼 끝 자음이 다음 모음과 이어져요.",
+   "start": 48.6,
+   "end": 59.33
+  }
+ ],
+ "questions": [
+  {
+   "q": "What was Maria known for besides being a famous astronomer?",
+   "options": [
+    "Being the first American to discover a comet",
+    "Inventing the telescope",
+    "Writing the first science textbook"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 그녀가 혜성을 발견한 최초의 미국인이었다고 말해요."
+  },
+  {
+   "q": "What is Maria also believed to be the first of?",
+   "options": [
+    "The first woman employed in a professional capacity for the U.S. government",
+    "The first woman to vote in the U.S.",
+    "The first woman to own a telescope company"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 미국 정부에서 전문직으로 고용된 최초의 여성으로 여겨진다고 해요."
+  },
+  {
+   "q": "Who hired her in 1845?",
+   "options": [
+    "The U.S. Coast Survey",
+    "NOAA",
+    "A private university"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장 앞부분에서 1845년에 미국 해안 측량국에 고용되었다고 말해요."
+  },
+  {
+   "q": "What were her astronomical measurements used for?",
+   "options": [
+    "Navigation tables",
+    "Weather forecasts",
+    "Building ships"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장 끝부분에서 그 측정이 항해 도표에 사용되었다고 설명해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "discover a comet",
+   "ko": "혜성을 발견하다",
+   "note": "천문학에서 새로운 천체를 찾아낸다는 뜻이에요."
+  },
+  {
+   "term": "employed in a professional capacity",
+   "ko": "전문직으로 고용된",
+   "note": "단순 노동이 아니라 전문적인 직책으로 일한다는 뜻이에요."
+  },
+  {
+   "term": "predecessor",
+   "ko": "전신, 선행 기관",
+   "note": "현재 기관보다 앞서 있었던 조직을 가리켜요."
+  },
+  {
+   "term": "perform measurements",
+   "ko": "측정을 수행하다",
+   "note": "데이터를 재고 기록하는 작업을 뜻해요."
+  },
+  {
+   "term": "navigation tables",
+   "ko": "항해 도표",
+   "note": "배가 위치를 계산할 때 참고하는 천문 데이터표예요."
+  }
+ ]
+}

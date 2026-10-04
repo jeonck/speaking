@@ -1,0 +1,414 @@
+{
+ "video_id": "JB1kYcJLr6o",
+ "source_title": "NOAA Ocean Exploration: Going Deep in Search of Discovery",
+ "source_channel": "NOAA",
+ "segment": {
+  "start": 10.87,
+  "end": 34.48
+ },
+ "sentences": [
+  {
+   "text": "NOAA has been charting the course in ocean science for decades.",
+   "chunks": [
+    {
+     "en": "NOAA has been charting the course",
+     "ko": "NOAA는 방향을 이끌어 왔어요"
+    },
+    {
+     "en": "in ocean science",
+     "ko": "해양 과학에서"
+    },
+    {
+     "en": "for decades.",
+     "ko": "수십 년 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "NOAA",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "charting",
+     "strong": true,
+     "link": false,
+     "syl": "CHAR"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "course",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ocean",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decades.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "\"course in\"처럼 자음 뒤 모음은 이어서 발음돼요.",
+   "start": 10.87,
+   "end": 14.96
+  },
+  {
+   "text": "Unanswered questions about the deep sparked the momentum driving ocean exploration, providing information that is important to everyone.",
+   "chunks": [
+    {
+     "en": "Unanswered questions about the deep",
+     "ko": "깊은 바다에 대한 풀리지 않은 질문들이"
+    },
+    {
+     "en": "sparked the momentum driving ocean exploration,",
+     "ko": "해양 탐사를 이끄는 추진력에 불을 붙였고,"
+    },
+    {
+     "en": "providing information that is important to everyone.",
+     "ko": "모두에게 중요한 정보를 제공해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Unanswered",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "questions",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deep",
+     "strong": true,
+     "link": false,
+     "syl": "DEEP"
+    },
+    {
+     "w": "sparked",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "momentum",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "driving",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ocean",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "exploration,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "providing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "information",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "important",
+     "strong": true,
+     "link": false,
+     "syl": "POR"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everyone.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "\"driving ocean\"처럼 -ing의 받침소리가 다음 모음과 이어져요.",
+   "start": 14.96,
+   "end": 24.0
+  },
+  {
+   "text": "Unlocking mysteries of deep sea ecosystems can reveal new sources for medicine, food and energy resources and lead to predictions of natural disasters.",
+   "chunks": [
+    {
+     "en": "Unlocking mysteries of deep sea ecosystems",
+     "ko": "심해 생태계의 미스터리를 푸는 것은"
+    },
+    {
+     "en": "can reveal new sources for medicine,",
+     "ko": "의학을 위한 새로운 자원을 드러낼 수 있고,"
+    },
+    {
+     "en": "food and energy resources",
+     "ko": "식량과 에너지 자원도"
+    },
+    {
+     "en": "and lead to predictions of natural disasters.",
+     "ko": "자연재해 예측으로도 이어질 수 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Unlocking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mysteries",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deep",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ecosystems",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reveal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sources",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "medicine,",
+     "strong": true,
+     "link": false,
+     "syl": "MED"
+    },
+    {
+     "w": "food",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "energy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "resources",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lead",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "predictions",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "natural",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disasters.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "\"mysteries of\", \"resources and\"처럼 끝 자음이 다음 모음과 이어져요.",
+   "start": 24.0,
+   "end": 34.48
+  }
+ ],
+ "questions": [
+  {
+   "q": "What has NOAA been doing for decades?",
+   "options": [
+    "Charting the course in ocean science",
+    "Building new ships only",
+    "Mapping land territories"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 NOAA가 수십 년간 해양 과학의 방향을 이끌어 왔다고 해요."
+  },
+  {
+   "q": "What sparked the momentum driving ocean exploration?",
+   "options": [
+    "Unanswered questions about the deep",
+    "A new government law",
+    "A famous book about the ocean"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 깊은 바다에 대한 풀리지 않은 질문들이 추진력에 불을 붙였다고 말해요."
+  },
+  {
+   "q": "Who benefits from the information that ocean exploration provides, according to the segment?",
+   "options": [
+    "Everyone",
+    "Only scientists",
+    "Only sailors"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 끝에서 모두에게 중요한 정보를 제공한다고 해요."
+  },
+  {
+   "q": "What can unlocking the mysteries of deep sea ecosystems lead to?",
+   "options": [
+    "New sources for medicine, food, and energy, and predictions of natural disasters",
+    "Faster internet speeds",
+    "Cheaper airline tickets"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 의학, 식량, 에너지 자원과 자연재해 예측으로 이어질 수 있다고 설명해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "chart the course",
+   "ko": "방향을 설정하다, 이끌다",
+   "note": "원래 항해 용어로, 나아갈 방향을 정한다는 뜻이에요."
+  },
+  {
+   "term": "spark the momentum",
+   "ko": "추진력에 불을 붙이다",
+   "note": "어떤 일이 더 활발하게 진행되도록 자극한다는 뜻이에요."
+  },
+  {
+   "term": "ecosystem",
+   "ko": "생태계",
+   "note": "생물과 환경이 서로 얽혀 이루는 하나의 체계를 말해요."
+  },
+  {
+   "term": "unlock mysteries",
+   "ko": "미스터리를 풀다",
+   "note": "알려지지 않았던 것을 밝혀낸다는 의미예요."
+  },
+  {
+   "term": "lead to predictions of",
+   "ko": "~에 대한 예측으로 이어지다",
+   "note": "어떤 결과가 예측을 가능하게 한다는 뜻이에요."
+  }
+ ]
+}

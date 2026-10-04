@@ -1,0 +1,457 @@
+{
+ "video_id": "ZGErUO0a6oE",
+ "source_title": "NIH SciBites: Cooking Up New Treatments for Mental Health Challenges",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 14.2,
+  "end": 40.45
+ },
+ "sentences": [
+  {
+   "text": "Just like plants need sunlight and water to thrive, our brains rely on activities that engage and challenge them.",
+   "chunks": [
+    {
+     "en": "Just like plants need sunlight and water to thrive,",
+     "ko": "식물이 햇빛과 물이 있어야 잘 자라는 것처럼,"
+    },
+    {
+     "en": "our brains rely on activities",
+     "ko": "우리의 뇌는 활동에 의존하는데"
+    },
+    {
+     "en": "that engage and challenge them.",
+     "ko": "그것을 자극하고 도전하게 만드는 활동들 말이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plants",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sunlight",
+     "strong": true,
+     "link": true,
+     "syl": "SUN"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thrive,",
+     "strong": true,
+     "link": false,
+     "syl": "THRIVE"
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brains",
+     "strong": true,
+     "link": false,
+     "syl": "BRAINS"
+    },
+    {
+     "w": "rely",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "activities",
+     "strong": true,
+     "link": false,
+     "syl": "TIV"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "engage",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "challenge",
+     "strong": true,
+     "link": false,
+     "syl": "CHAL"
+    },
+    {
+     "w": "them.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "sunlight and처럼 자음 뒤 모음을 이어서 발음한다.",
+   "start": 14.2,
+   "end": 22.02
+  },
+  {
+   "text": "My research explores how cooking, a hands-on activity that uses all five of our senses, can act as a kind of fertilizer for the brain, helping both children and adults recover from stressful or traumatic events that occurred early in their lives.",
+   "chunks": [
+    {
+     "en": "My research explores how cooking,",
+     "ko": "제 연구는 요리가"
+    },
+    {
+     "en": "a hands-on activity that uses all five of our senses,",
+     "ko": "우리의 오감을 모두 사용하는 체험 활동으로서"
+    },
+    {
+     "en": "can act as a kind of fertilizer for the brain,",
+     "ko": "뇌에 일종의 비료 역할을 할 수 있는지를 탐구한다,"
+    },
+    {
+     "en": "helping both children and adults recover",
+     "ko": "아이와 성인 모두가 회복하도록 돕는"
+    },
+    {
+     "en": "from stressful or traumatic events that occurred early in their lives.",
+     "ko": "어린 시절에 겪은 스트레스나 트라우마 사건으로부터 말이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "research",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "explores",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking,",
+     "strong": true,
+     "link": false,
+     "syl": "COOK"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hands-on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "activity",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "uses",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "senses,",
+     "strong": true,
+     "link": false,
+     "syl": "SEN"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "act",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fertilizer",
+     "strong": true,
+     "link": false,
+     "syl": "FER"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helping",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "children",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "adults",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recover",
+     "strong": true,
+     "link": false,
+     "syl": "COV"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stressful",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traumatic",
+     "strong": true,
+     "link": true,
+     "syl": "MAT"
+    },
+    {
+     "w": "events",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "occurred",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "early",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lives.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "uses all, kind of처럼 끝소리와 다음 모음을 이어서 발음한다.",
+   "start": 22.02,
+   "end": 40.45
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do plants need to thrive, according to the segment?",
+   "options": [
+    "Sunlight and water",
+    "Soil and fertilizer",
+    "Warmth and shade"
+   ],
+   "answer": 0,
+   "why": "plants need sunlight and water to thrive라고 언급됨."
+  },
+  {
+   "q": "What do brains rely on, according to the segment?",
+   "options": [
+    "Activities that engage and challenge them",
+    "Constant rest",
+    "A fixed daily schedule"
+   ],
+   "answer": 0,
+   "why": "our brains rely on activities that engage and challenge them이라고 언급됨."
+  },
+  {
+   "q": "How many senses does cooking use, according to the segment?",
+   "options": [
+    "All five senses",
+    "Only taste and smell",
+    "Only touch and sight"
+   ],
+   "answer": 0,
+   "why": "uses all five of our senses라고 언급됨."
+  },
+  {
+   "q": "What does the researcher compare cooking to?",
+   "options": [
+    "A kind of fertilizer for the brain",
+    "A type of medicine",
+    "A form of exercise"
+   ],
+   "answer": 0,
+   "why": "can act as a kind of fertilizer for the brain이라고 언급됨."
+  },
+  {
+   "q": "Who can cooking help recover from difficult events, according to the segment?",
+   "options": [
+    "Both children and adults",
+    "Only children",
+    "Only adults"
+   ],
+   "answer": 0,
+   "why": "helping both children and adults recover라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "thrive",
+   "ko": "잘 자라다, 번성하다",
+   "note": "식물뿐 아니라 사람이나 조직에도 쓰인다"
+  },
+  {
+   "term": "hands-on activity",
+   "ko": "직접 체험하는 활동",
+   "note": "손으로 직접 하는 활동을 의미"
+  },
+  {
+   "term": "all five of our senses",
+   "ko": "우리의 오감 전부",
+   "note": "시각, 청각, 촉각, 미각, 후각을 가리킴"
+  },
+  {
+   "term": "act as a kind of fertilizer",
+   "ko": "일종의 비료 역할을 하다",
+   "note": "비유적 표현으로 '~역할을 하다'를 나타냄"
+  },
+  {
+   "term": "stressful or traumatic events",
+   "ko": "스트레스성/트라우마성 사건",
+   "note": "힘들었던 경험을 가리키는 표현"
+  }
+ ]
+}

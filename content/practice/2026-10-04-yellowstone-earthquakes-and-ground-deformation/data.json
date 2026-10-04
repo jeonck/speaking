@@ -1,0 +1,654 @@
+{
+ "video_id": "5xV4BhAVXzg",
+ "source_title": "Hawaii versus Yellowstone (Yellowstone monthly update - December 2025)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 145.73,
+  "end": 170.63
+ },
+ "sentences": [
+  {
+   "text": "The largest was a magnitude 3.2 during the month.",
+   "chunks": [
+    {
+     "en": "The largest",
+     "ko": "가장 큰 것은"
+    },
+    {
+     "en": "was a magnitude 3.2",
+     "ko": "규모 3.2였어요"
+    },
+    {
+     "en": "during the month.",
+     "ko": "이번 달 동안."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "largest",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "magnitude",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "3.2",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "during",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 145.73,
+   "end": 149.03
+  },
+  {
+   "text": "Now, this sort of swarm seismicity is pretty common for the Yellowstone area.",
+   "chunks": [
+    {
+     "en": "Now, this sort of swarm seismicity",
+     "ko": "자, 이런 종류의 군발 지진 활동은"
+    },
+    {
+     "en": "is pretty common",
+     "ko": "꽤 흔한 일이에요"
+    },
+    {
+     "en": "for the Yellowstone area.",
+     "ko": "옐로스톤 지역에서는."
+    }
+   ],
+   "words": [
+    {
+     "w": "Now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sort",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "swarm",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "seismicity",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "common",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Yellowstone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "area.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 149.03,
+   "end": 152.3
+  },
+  {
+   "text": "A lot of water interacting with tectonic faults.",
+   "chunks": [
+    {
+     "en": "A lot of water",
+     "ko": "많은 물이"
+    },
+    {
+     "en": "interacting with tectonic faults.",
+     "ko": "지각 단층과 상호작용하는 것이에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "interacting",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tectonic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "faults.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 152.3,
+   "end": 154.87
+  },
+  {
+   "text": "So really no surprise.",
+   "chunks": [
+    {
+     "en": "So really",
+     "ko": "그래서 정말로"
+    },
+    {
+     "en": "no surprise.",
+     "ko": "놀랍지 않아요."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surprise.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 154.87,
+   "end": 156.33
+  },
+  {
+   "text": "Earthquakes remaining at background levels of activity in the Yellowstone region.",
+   "chunks": [
+    {
+     "en": "Earthquakes remaining",
+     "ko": "지진은 유지되고 있어요"
+    },
+    {
+     "en": "at background levels of activity",
+     "ko": "평상시 수준의 활동으로"
+    },
+    {
+     "en": "in the Yellowstone region.",
+     "ko": "옐로스톤 지역에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "Earthquakes",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "remaining",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "background",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "levels",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "activity",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Yellowstone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "region.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 156.33,
+   "end": 161.1
+  },
+  {
+   "text": "Turning now to ground deformation.",
+   "chunks": [
+    {
+     "en": "Turning now",
+     "ko": "이제 넘어가서"
+    },
+    {
+     "en": "to ground deformation.",
+     "ko": "지반 변형으로."
+    }
+   ],
+   "words": [
+    {
+     "w": "Turning",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ground",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "deformation.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 161.1,
+   "end": 162.4
+  },
+  {
+   "text": "This is vertical deformation at the Lake GPS site that's on the Sour Creek resurgent dome on the east side of the caldera.",
+   "chunks": [
+    {
+     "en": "This is vertical deformation",
+     "ko": "이것은 수직 변형이에요"
+    },
+    {
+     "en": "at the Lake GPS site",
+     "ko": "레이크 GPS 지점에서,"
+    },
+    {
+     "en": "that's on the Sour Creek resurgent dome",
+     "ko": "사우어 크릭 융기돔 위에 있는"
+    },
+    {
+     "en": "on the east side of the caldera.",
+     "ko": "칼데라의 동쪽 측면에."
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vertical",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "deformation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lake",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "GPS",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "site",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sour",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Creek",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "resurgent",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "dome",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "east",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "side",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "caldera.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 162.4,
+   "end": 169.13
+  },
+  {
+   "text": "It spans the last two years.",
+   "chunks": [
+    {
+     "en": "It spans",
+     "ko": "그것은 걸쳐 있어요"
+    },
+    {
+     "en": "the last two years.",
+     "ko": "지난 2년에."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spans",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 169.13,
+   "end": 170.63
+  }
+ ],
+ "questions": [
+  {
+   "q": "What was the largest earthquake magnitude during the month?",
+   "options": [
+    "3.2",
+    "5.0",
+    "1.5"
+   ],
+   "answer": 0,
+   "why": "'The largest was a magnitude 3.2 during the month.'에서 알 수 있어요."
+  },
+  {
+   "q": "What usually causes this kind of swarm seismicity in Yellowstone?",
+   "options": [
+    "Water interacting with tectonic faults",
+    "Volcanic ash falling",
+    "Strong winds"
+   ],
+   "answer": 0,
+   "why": "'A lot of water interacting with tectonic faults.'에서 설명돼요."
+  },
+  {
+   "q": "What is the current earthquake activity level in the Yellowstone region?",
+   "options": [
+    "Background levels",
+    "Dangerously high levels",
+    "Zero activity"
+   ],
+   "answer": 0,
+   "why": "'Earthquakes remaining at background levels of activity'에서 알려줘요."
+  },
+  {
+   "q": "Where is the Lake GPS site located?",
+   "options": [
+    "On the Sour Creek resurgent dome, on the east side of the caldera",
+    "On the west rim of the park",
+    "Outside the park boundary"
+   ],
+   "answer": 0,
+   "why": "'that's on the Sour Creek resurgent dome on the east side of the caldera.'에서 확인돼요."
+  },
+  {
+   "q": "How much time does the deformation data span?",
+   "options": [
+    "The last two years",
+    "The last ten years",
+    "Just one month"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 '지난 2년'이라고 해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "swarm seismicity",
+   "ko": "군발 지진 활동",
+   "note": "짧은 기간에 작은 지진이 몰려 발생하는 현상이에요."
+  },
+  {
+   "term": "tectonic faults",
+   "ko": "지각 단층",
+   "note": "지각판 경계의 갈라진 틈을 말해요."
+  },
+  {
+   "term": "background levels",
+   "ko": "평상시 수준",
+   "note": "특별한 변화 없는 정상 상태를 뜻해요."
+  },
+  {
+   "term": "ground deformation",
+   "ko": "지반 변형",
+   "note": "땅이 솟아오르거나 가라앉는 변화예요."
+  },
+  {
+   "term": "resurgent dome",
+   "ko": "융기돔",
+   "note": "칼데라 안에서 다시 솟아오른 지형이에요."
+  },
+  {
+   "term": "caldera",
+   "ko": "칼데라",
+   "note": "큰 분화 후 생긴 거대한 분지형 지형이에요."
+  }
+ ]
+}

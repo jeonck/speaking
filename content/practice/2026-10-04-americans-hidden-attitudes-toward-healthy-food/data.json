@@ -1,0 +1,456 @@
+{
+ "video_id": "8Go6ru7oROc",
+ "source_title": "NIH SciBites: Uncovering Americans’ Attitudes Toward Healthy Food",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 51.92,
+  "end": 76.36
+ },
+ "sentences": [
+  {
+   "text": "The IAT determines implicit attitudes by measuring reaction time.",
+   "chunks": [
+    {
+     "en": "The IAT",
+     "ko": "IAT는"
+    },
+    {
+     "en": "determines implicit attitudes",
+     "ko": "암묵적 태도를 결정합니다"
+    },
+    {
+     "en": "by measuring reaction time.",
+     "ko": "반응 시간을 측정해서"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "IAT",
+     "strong": true,
+     "link": false,
+     "syl": "IAT"
+    },
+    {
+     "w": "determines",
+     "strong": true,
+     "link": false,
+     "syl": "ter"
+    },
+    {
+     "w": "implicit",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "attitudes",
+     "strong": true,
+     "link": false,
+     "syl": "AT"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "measuring",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reaction",
+     "strong": true,
+     "link": false,
+     "syl": "ac"
+    },
+    {
+     "w": "time.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "IAT는 글자 하나씩 '아이에이티'처럼 읽어요.",
+   "start": 51.92,
+   "end": 56.5
+  },
+  {
+   "text": "In this case, people who more quickly linked healthy foods with positive words, like yummy or appetizing, rather than negative words, like yucky or disgusting, implicitly favored healthy foods.",
+   "chunks": [
+    {
+     "en": "In this case,",
+     "ko": "이 경우에,"
+    },
+    {
+     "en": "people who more quickly linked healthy foods with positive words,",
+     "ko": "건강한 음식을 긍정적인 단어와 더 빨리 연결한 사람들은,"
+    },
+    {
+     "en": "like yummy or appetizing,",
+     "ko": "맛있다거나 먹음직스럽다 같은,"
+    },
+    {
+     "en": "rather than negative words,",
+     "ko": "부정적인 단어보다는,"
+    },
+    {
+     "en": "like yucky or disgusting,",
+     "ko": "맛없다거나 역겹다 같은 단어보다,"
+    },
+    {
+     "en": "implicitly favored healthy foods.",
+     "ko": "암묵적으로 건강한 음식을 선호했습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "case,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quickly",
+     "strong": true,
+     "link": false,
+     "syl": "quick"
+    },
+    {
+     "w": "linked",
+     "strong": true,
+     "link": false,
+     "syl": "link"
+    },
+    {
+     "w": "healthy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foods",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "positive",
+     "strong": true,
+     "link": false,
+     "syl": "pos"
+    },
+    {
+     "w": "words,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yummy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "appetizing,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "negative",
+     "strong": true,
+     "link": false,
+     "syl": "neg"
+    },
+    {
+     "w": "words,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yucky",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "disgusting,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "implicitly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favored",
+     "strong": true,
+     "link": false,
+     "syl": "fa"
+    },
+    {
+     "w": "healthy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foods.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "or appetizing, or disgusting처럼 or는 다음 모음과 이어 '어래퍼타이징'처럼 발음돼요.",
+   "start": 56.5,
+   "end": 69.14
+  },
+  {
+   "text": "Our study revealed that Americans tend to have implicit feelings that healthy foods taste better than unhealthy foods.",
+   "chunks": [
+    {
+     "en": "Our study revealed",
+     "ko": "우리 연구는 밝혔습니다"
+    },
+    {
+     "en": "that Americans tend to have implicit feelings",
+     "ko": "미국인들이 암묵적인 감정을 갖는 경향이 있다는 것을"
+    },
+    {
+     "en": "that healthy foods taste better than unhealthy foods.",
+     "ko": "건강한 음식이 건강하지 않은 음식보다 맛이 더 좋다는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "revealed",
+     "strong": true,
+     "link": false,
+     "syl": "vealed"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Americans",
+     "strong": true,
+     "link": false,
+     "syl": "mer"
+    },
+    {
+     "w": "tend",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "implicit",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feelings",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "healthy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foods",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taste",
+     "strong": true,
+     "link": false,
+     "syl": "taste"
+    },
+    {
+     "w": "better",
+     "strong": true,
+     "link": false,
+     "syl": "bet"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "unhealthy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foods.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "than unhealthy는 n을 이어 '댄언헬씨'처럼 들려요.",
+   "start": 69.14,
+   "end": 76.36
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the IAT measure?",
+   "options": [
+    "Reaction time to different words",
+    "Blood pressure changes",
+    "Eye movement patterns"
+   ],
+   "answer": 0,
+   "why": "첫 문장: determines implicit attitudes by measuring reaction time."
+  },
+  {
+   "q": "What did people who quickly linked healthy foods with positive words show?",
+   "options": [
+    "An implicit preference for healthy foods",
+    "A dislike of all food words",
+    "No measurable attitude"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 마지막: implicitly favored healthy foods."
+  },
+  {
+   "q": "According to the study, how do Americans feel about healthy food taste?",
+   "options": [
+    "They tend to feel it tastes better than unhealthy food",
+    "They feel it tastes the same",
+    "They feel it tastes worse"
+   ],
+   "answer": 0,
+   "why": "마지막 문장: healthy foods taste better than unhealthy foods."
+  },
+  {
+   "q": "Which words were used as positive examples in the test?",
+   "options": [
+    "Yummy and appetizing",
+    "Yucky and disgusting",
+    "Salty and sweet"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장: like yummy or appetizing."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "implicit",
+   "ko": "암묵적인, 무의식적인",
+   "note": "explicit(명시적인)과 대조되는 단어예요."
+  },
+  {
+   "term": "attitude",
+   "ko": "태도",
+   "note": "implicit attitudes처럼 감정·인식의 경향을 말해요."
+  },
+  {
+   "term": "appetizing",
+   "ko": "먹음직스러운",
+   "note": "음식이 맛있어 보일 때 쓰는 형용사예요."
+  },
+  {
+   "term": "disgusting",
+   "ko": "역겨운",
+   "note": "매우 부정적인 느낌을 나타내는 강한 표현이에요."
+  },
+  {
+   "term": "favor",
+   "ko": "선호하다",
+   "note": "favored healthy foods처럼 더 좋아한다는 뜻이에요."
+  },
+  {
+   "term": "tend to",
+   "ko": "~하는 경향이 있다",
+   "note": "Americans tend to have처럼 일반적인 경향을 말할 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,518 @@
+{
+ "video_id": "lPl7QooZrWo",
+ "source_title": "Adapting to Change",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 32.37,
+  "end": 57.01
+ },
+ "sentences": [
+  {
+   "text": "At Zion National Park, we're replacing our older fleet with zero-emission electric buses to reduce emissions.",
+   "chunks": [
+    {
+     "en": "At Zion National Park,",
+     "ko": "자이언 국립공원에서는"
+    },
+    {
+     "en": "we're replacing our older fleet",
+     "ko": "오래된 차량들을 교체하고 있습니다"
+    },
+    {
+     "en": "with zero-emission electric buses",
+     "ko": "무배출 전기 버스로"
+    },
+    {
+     "en": "to reduce emissions.",
+     "ko": "배출량을 줄이기 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Zion",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Park,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "replacing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "older",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fleet",
+     "strong": true,
+     "link": false,
+     "syl": "FLEET"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "zero-emission",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "electric",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "buses",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reduce",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "emissions.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'replacing our', 'our older', 'reduce emissions'는 자음 뒤 모음으로 이어 말해요.",
+   "start": 32.37,
+   "end": 39.01
+  },
+  {
+   "text": "At Everglades National Park, we're adapting with new buildings designed for resilience in the face of sea level rise and more frequent flooding.",
+   "chunks": [
+    {
+     "en": "At Everglades National Park,",
+     "ko": "에버글레이즈 국립공원에서는"
+    },
+    {
+     "en": "we're adapting with new buildings",
+     "ko": "새로운 건물들로 적응하고 있습니다"
+    },
+    {
+     "en": "designed for resilience in the face",
+     "ko": "회복력을 갖추도록 설계하여"
+    },
+    {
+     "en": "of sea level rise and more frequent flooding.",
+     "ko": "해수면 상승과 더 자주 발생하는 홍수에 대비합니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Everglades",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Park,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "adapting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buildings",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "designed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "resilience",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "face",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "level",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rise",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "frequent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flooding.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'At Everglades', 'resilience in', 'face of', 'rise and'는 자음에서 모음으로 이어져요.",
+   "start": 39.01,
+   "end": 46.84
+  },
+  {
+   "text": "At Big Bend National Park, we listen to the science and invested in water storage tanks that help respond to drought, helping visitors stay hydrated and safe in a hot, dry environment.",
+   "chunks": [
+    {
+     "en": "At Big Bend National Park,",
+     "ko": "빅벤드 국립공원에서는"
+    },
+    {
+     "en": "we listen to the science and invested in water storage tanks",
+     "ko": "과학에 귀 기울여 물 저장 탱크에 투자했습니다"
+    },
+    {
+     "en": "that help respond to drought,",
+     "ko": "가뭄에 대응하는 데 도움이 되도록"
+    },
+    {
+     "en": "helping visitors stay hydrated and safe",
+     "ko": "방문객들이 수분을 유지하고 안전하게 지낼 수 있도록 돕습니다"
+    },
+    {
+     "en": "in a hot, dry environment.",
+     "ko": "뜨겁고 건조한 환경에서도"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Big",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Bend",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Park,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listen",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "invested",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storage",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "tanks",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "respond",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drought,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "helping",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visitors",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hydrated",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safe",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hot,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dry",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "environment.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'science and', 'invested in', 'hydrated and', 'safe in'은 자음 뒤 모음으로 이어 발음해요.",
+   "start": 46.84,
+   "end": 57.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "How is Zion National Park reducing emissions?",
+   "options": [
+    "By replacing its older fleet with zero-emission electric buses",
+    "By banning all vehicles",
+    "By closing the park seasonally"
+   ],
+   "answer": 0,
+   "why": "'replacing our older fleet with zero-emission electric buses'라는 문장에서 확인됨."
+  },
+  {
+   "q": "What is Everglades National Park designing new buildings for?",
+   "options": [
+    "Resilience against sea level rise and flooding",
+    "More parking space",
+    "Tourist shops"
+   ],
+   "answer": 0,
+   "why": "'new buildings designed for resilience...of sea level rise and more frequent flooding'라는 문장에서 확인됨."
+  },
+  {
+   "q": "What did Big Bend National Park invest in to respond to drought?",
+   "options": [
+    "Water storage tanks",
+    "Solar panels",
+    "New roads"
+   ],
+   "answer": 0,
+   "why": "'invested in water storage tanks that help respond to drought'라는 문장에서 확인됨."
+  },
+  {
+   "q": "Why does Big Bend need water storage, according to the segment?",
+   "options": [
+    "To help visitors stay hydrated and safe in a hot, dry environment",
+    "To water ornamental gardens",
+    "To supply nearby towns"
+   ],
+   "answer": 0,
+   "why": "'helping visitors stay hydrated and safe in a hot, dry environment'라는 문장에서 확인됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "zero-emission",
+   "ko": "무배출의",
+   "note": "오염물질을 전혀 배출하지 않는다는 뜻이에요."
+  },
+  {
+   "term": "resilience",
+   "ko": "회복력",
+   "note": "충격이나 변화에 견디고 회복하는 능력을 말해요."
+  },
+  {
+   "term": "sea level rise",
+   "ko": "해수면 상승",
+   "note": "기후변화로 바닷물 높이가 높아지는 현상이에요."
+  },
+  {
+   "term": "water storage tanks",
+   "ko": "물 저장 탱크",
+   "note": "가뭄에 대비해 물을 모아두는 시설이에요."
+  },
+  {
+   "term": "stay hydrated",
+   "ko": "수분을 유지하다",
+   "note": "물을 충분히 마셔 몸에 수분이 부족하지 않게 한다는 뜻이에요."
+  }
+ ]
+}

@@ -1,0 +1,619 @@
+{
+ "video_id": "04QRN5gUe08",
+ "source_title": "The National Hurricane Center Track Forecast Cone",
+ "source_channel": "NOAA/NWS National Hurricane Center",
+ "segment": {
+  "start": 30.08,
+  "end": 55.3
+ },
+ "sentences": [
+  {
+   "text": "But all kidding aside, the National Hurricane Center creates a cone to communicate the possibilities of where the storm may go.",
+   "chunks": [
+    {
+     "en": "But all kidding aside,",
+     "ko": "장난은 제쳐두고,"
+    },
+    {
+     "en": "the National Hurricane Center creates a cone",
+     "ko": "국립 허리케인 센터는 원뿔 모양의 그림을 만드는데"
+    },
+    {
+     "en": "to communicate the possibilities of where the storm may go.",
+     "ko": "폭풍이 어디로 갈 수 있는지의 가능성을 전달하기 위해서다."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kidding",
+     "strong": true,
+     "link": false,
+     "syl": "KID"
+    },
+    {
+     "w": "aside,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": true,
+     "link": false,
+     "syl": "NA"
+    },
+    {
+     "w": "Hurricane",
+     "strong": true,
+     "link": false,
+     "syl": "HUR"
+    },
+    {
+     "w": "Center",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "creates",
+     "strong": true,
+     "link": true,
+     "syl": "ATES"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "communicate",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possibilities",
+     "strong": true,
+     "link": false,
+     "syl": "BIL"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 30.08,
+   "end": 36.78
+  },
+  {
+   "text": "And even though this graphic is very popular, we've also found that it is often misunderstood and used in ways that it was never meant for.",
+   "chunks": [
+    {
+     "en": "And even though this graphic is very popular,",
+     "ko": "이 그래픽이 매우 인기 있지만,"
+    },
+    {
+     "en": "we've also found that it is often misunderstood and used in ways that it was never meant for.",
+     "ko": "우리는 그것이 종종 잘못 이해되고 원래 의도되지 않은 방식으로 쓰이는 것을 발견했다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "though",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "graphic",
+     "strong": true,
+     "link": false,
+     "syl": "GRAPH"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "popular,",
+     "strong": true,
+     "link": false,
+     "syl": "POP"
+    },
+    {
+     "w": "we've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "often",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "misunderstood",
+     "strong": true,
+     "link": false,
+     "syl": "STOOD"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": true,
+     "link": true,
+     "syl": "USED"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ways",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "NEV"
+    },
+    {
+     "w": "meant",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "is often, used in처럼 자음 뒤 모음 연결에 유의하세요.",
+   "start": 36.78,
+   "end": 43.3
+  },
+  {
+   "text": "So let's take a look at the forecast cone and what it is intended to convey.",
+   "chunks": [
+    {
+     "en": "So let's take a look at the forecast cone",
+     "ko": "그러면 예상 경로 원뿔을 한번 살펴보자"
+    },
+    {
+     "en": "and what it is intended to convey.",
+     "ko": "그리고 그것이 전달하려는 의미도."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "let's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": true,
+     "link": true,
+     "syl": "LOOK"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forecast",
+     "strong": true,
+     "link": false,
+     "syl": "FORE"
+    },
+    {
+     "w": "cone",
+     "strong": true,
+     "link": false,
+     "syl": "CONE"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "intended",
+     "strong": true,
+     "link": false,
+     "syl": "TEND"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "convey.",
+     "strong": true,
+     "link": false,
+     "syl": "VEY"
+    }
+   ],
+   "tip": "look at, what it처럼 연음을 살려 읽어보세요.",
+   "start": 43.3,
+   "end": 47.32
+  },
+  {
+   "text": "Here is an example of the NHC forecast cone.",
+   "chunks": [
+    {
+     "en": "Here is an example of the NHC forecast cone.",
+     "ko": "여기 NHC 예상 경로 원뿔의 한 예시가 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "example",
+     "strong": true,
+     "link": false,
+     "syl": "AM"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NHC",
+     "strong": true,
+     "link": false,
+     "syl": "NHC"
+    },
+    {
+     "w": "forecast",
+     "strong": true,
+     "link": false,
+     "syl": "FORE"
+    },
+    {
+     "w": "cone.",
+     "strong": true,
+     "link": false,
+     "syl": "CONE"
+    }
+   ],
+   "tip": "is an, an example처럼 자음과 모음이 자연스럽게 이어져요.",
+   "start": 47.32,
+   "end": 50.88
+  },
+  {
+   "text": "The cone represents the probable track of just the center of the storm.",
+   "chunks": [
+    {
+     "en": "The cone represents the probable track",
+     "ko": "그 원뿔은 예상 경로를 나타내는데"
+    },
+    {
+     "en": "of just the center of the storm.",
+     "ko": "단지 폭풍의 중심의 경로일 뿐이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cone",
+     "strong": true,
+     "link": false,
+     "syl": "CONE"
+    },
+    {
+     "w": "represents",
+     "strong": true,
+     "link": false,
+     "syl": "SENTS"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "probable",
+     "strong": true,
+     "link": false,
+     "syl": "PROB"
+    },
+    {
+     "w": "track",
+     "strong": true,
+     "link": true,
+     "syl": "TRACK"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "center",
+     "strong": true,
+     "link": true,
+     "syl": "CEN"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storm.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "track of, center of처럼 자음 뒤 모음 연결에 주의하세요.",
+   "start": 50.88,
+   "end": 55.3
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the National Hurricane Center's cone communicate?",
+   "options": [
+    "The possibilities of where the storm may go.",
+    "The exact wind speed of the storm.",
+    "The total number of people affected."
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 폭풍이 어디로 갈 수 있는지의 가능성을 전달한다고 설명합니다."
+  },
+  {
+   "q": "How is the forecast cone graphic often used, according to the speaker?",
+   "options": [
+    "In ways it was never meant for, because it's often misunderstood.",
+    "Exactly as intended by all viewers.",
+    "Only by professional meteorologists."
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 그래픽이 종종 잘못 이해되고 원래 의도되지 않은 방식으로 쓰인다고 말합니다."
+  },
+  {
+   "q": "What does the cone actually represent?",
+   "options": [
+    "The probable track of just the center of the storm.",
+    "The exact size of the entire storm.",
+    "The areas that will flood."
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 원뿔은 단지 폭풍 중심의 예상 경로만 나타낸다고 설명합니다."
+  },
+  {
+   "q": "What is this segment trying to do regarding the forecast cone?",
+   "options": [
+    "Clarify what it is intended to convey.",
+    "Cancel its use entirely.",
+    "Replace it with a new graphic immediately."
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 원뿔이 전달하려는 의미를 살펴보자고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "all kidding aside",
+   "ko": "장난은 그만하고, 진지하게 말하면",
+   "note": "가볍게 말하다가 본론으로 들어갈 때 쓰는 표현."
+  },
+  {
+   "term": "forecast cone",
+   "ko": "예상 경로 원뿔(콘)",
+   "note": "허리케인 예상 경로를 나타내는 원뿔 모양 그래픽."
+  },
+  {
+   "term": "misunderstood",
+   "ko": "잘못 이해된",
+   "note": "의도와 다르게 받아들여진다는 뜻."
+  },
+  {
+   "term": "intended to convey",
+   "ko": "전달하려고 의도한",
+   "note": "원래 전하고자 했던 의미."
+  },
+  {
+   "term": "probable track",
+   "ko": "예상 경로",
+   "note": "일어날 가능성이 높은 이동 경로."
+  }
+ ]
+}

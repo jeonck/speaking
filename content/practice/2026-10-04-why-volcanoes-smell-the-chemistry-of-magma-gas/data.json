@@ -1,0 +1,641 @@
+{
+ "video_id": "pKJDW8oOXuU",
+ "source_title": "What stinks in Yellowstone? (Yellowstone monthly update, September 2026)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 18.3,
+  "end": 43.37
+ },
+ "sentences": [
+  {
+   "text": "Magma is a lot like a soda.",
+   "chunks": [
+    {
+     "en": "Magma is a lot",
+     "ko": "마그마는 많이"
+    },
+    {
+     "en": "like a soda.",
+     "ko": "탄산음료와 비슷해요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Magma",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": false,
+     "syl": "LOT"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soda.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "is a는 '이저'처럼 이어서 발음돼요.",
+   "start": 18.3,
+   "end": 19.83
+  },
+  {
+   "text": "It has some gases that are dissolved into it, and those gases are trying to get out.",
+   "chunks": [
+    {
+     "en": "It has some gases",
+     "ko": "거기에는 가스가 좀 들어 있는데"
+    },
+    {
+     "en": "that are dissolved into it,",
+     "ko": "그 안에 녹아 있어서,"
+    },
+    {
+     "en": "and those gases are trying to get out.",
+     "ko": "그 가스들이 빠져나오려고 합니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gases",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dissolved",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gases",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": true,
+     "link": true,
+     "syl": "GET"
+    },
+    {
+     "w": "out.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "get out은 '게라웃'처럼 t 소리가 약해지며 이어져요.",
+   "start": 19.83,
+   "end": 23.77
+  },
+  {
+   "text": "One of the gases that's trying to get out of magma is sulfur dioxide, SO2.",
+   "chunks": [
+    {
+     "en": "One of the gases that's trying to get out of magma",
+     "ko": "마그마에서 빠져나오려는 가스들 중 하나가"
+    },
+    {
+     "en": "is sulfur dioxide, SO2.",
+     "ko": "바로 이산화황, SO2입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gases",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "magma",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sulfur",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "dioxide,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "SO2.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "get out of는 끝소리들이 모음과 계속 이어져요.",
+   "start": 23.77,
+   "end": 28.23
+  },
+  {
+   "text": "But as it rises away from the magma chamber, it encounters water, and a chemical reaction takes place that changes the SO2 to the H2S.",
+   "chunks": [
+    {
+     "en": "But as it rises away from the magma chamber,",
+     "ko": "하지만 마그마 방에서 멀어지며 올라갈 때,"
+    },
+    {
+     "en": "it encounters water,",
+     "ko": "물을 만나게 되고,"
+    },
+    {
+     "en": "and a chemical reaction takes place",
+     "ko": "화학 반응이 일어나서"
+    },
+    {
+     "en": "that changes the SO2 to the H2S.",
+     "ko": "SO2가 H2S로 바뀝니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rises",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "away",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "magma",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chamber,",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "encounters",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chemical",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "reaction",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "takes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "SO2",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "H2S.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "chamber, it은 r 소리가 다음 모음과 이어져요.",
+   "start": 28.23,
+   "end": 36.63
+  },
+  {
+   "text": "So we go from sulfur dioxide to hydrogen sulfide.",
+   "chunks": [
+    {
+     "en": "So we go from sulfur dioxide",
+     "ko": "그래서 이산화황에서"
+    },
+    {
+     "en": "to hydrogen sulfide.",
+     "ko": "황화수소로 바뀌는 거죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sulfur",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "dioxide",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hydrogen",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "sulfide.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "sulfide의 첫 음절을 강하게 발음해요.",
+   "start": 36.63,
+   "end": 39.97
+  },
+  {
+   "text": "That's one of the reasons we monitor gas emissions at volcanoes in general.",
+   "chunks": [
+    {
+     "en": "That's one of the reasons",
+     "ko": "그것이 이유 중 하나입니다"
+    },
+    {
+     "en": "we monitor gas emissions",
+     "ko": "우리가 가스 배출을 감시하는"
+    },
+    {
+     "en": "at volcanoes in general.",
+     "ko": "일반적으로 화산에서 말이죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reasons",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "monitor",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "gas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "emissions",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "volcanoes",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "general.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "at volcanoes는 t 소리가 다음 모음과 이어져요.",
+   "start": 39.97,
+   "end": 43.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is magma compared to in this segment?",
+   "options": [
+    "A soda",
+    "A volcano",
+    "A rock"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 마그마가 탄산음료와 비슷하다고 설명합니다."
+  },
+  {
+   "q": "What gas is specifically named as trying to escape from magma?",
+   "options": [
+    "Sulfur dioxide",
+    "Carbon dioxide",
+    "Oxygen"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 이산화황(SO2)이 마그마에서 빠져나오려 한다고 말합니다."
+  },
+  {
+   "q": "What happens when the rising gas encounters water?",
+   "options": [
+    "A chemical reaction changes it to hydrogen sulfide",
+    "It freezes",
+    "It disappears"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 화학 반응으로 SO2가 H2S로 바뀐다고 설명합니다."
+  },
+  {
+   "q": "What is SO2 after reacting with water?",
+   "options": [
+    "H2S, hydrogen sulfide",
+    "H2O, water",
+    "CO2, carbon dioxide"
+   ],
+   "answer": 0,
+   "why": "다섯 번째 문장에서 이산화황이 황화수소로 바뀐다고 말합니다."
+  },
+  {
+   "q": "Why do scientists monitor gas emissions at volcanoes?",
+   "options": [
+    "It's one way to understand volcanic activity",
+    "To test soda flavors",
+    "To measure rainfall"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 가스 배출 감시가 화산 감시의 한 이유라고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "dissolved into",
+   "ko": "~안에 녹아 들어가다",
+   "note": "기체나 물질이 액체·고체 속에 섞여 들어간 상태를 말해요."
+  },
+  {
+   "term": "sulfur dioxide",
+   "ko": "이산화황",
+   "note": "화산 가스에서 흔히 나오는 자극성 기체예요."
+  },
+  {
+   "term": "hydrogen sulfide",
+   "ko": "황화수소",
+   "note": "달걀 썩은 냄새로 유명한 가스입니다."
+  },
+  {
+   "term": "gas emissions",
+   "ko": "가스 배출",
+   "note": "화산이나 공장 등에서 뿜어내는 기체를 가리켜요."
+  }
+ ]
+}

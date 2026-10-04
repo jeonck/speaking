@@ -1,0 +1,558 @@
+{
+ "video_id": "zXOeKjD2nQo",
+ "source_title": "NIH SciBites: How a Kidney Virus Invades the Brain",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 72.3,
+  "end": 98.02
+ },
+ "sentences": [
+  {
+   "text": "Parts of its DNA code can get deleted, moved around, or copied wrong.",
+   "chunks": [
+    {
+     "en": "Parts of its DNA code",
+     "ko": "그것의 DNA 코드 일부는"
+    },
+    {
+     "en": "can get deleted, moved around, or copied wrong.",
+     "ko": "삭제되거나, 자리가 바뀌거나, 잘못 복사될 수 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Parts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "DNA",
+     "strong": true,
+     "link": false,
+     "syl": "DNA"
+    },
+    {
+     "w": "code",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "deleted,",
+     "strong": true,
+     "link": false,
+     "syl": "LET"
+    },
+    {
+     "w": "moved",
+     "strong": true,
+     "link": true,
+     "syl": "MOVED"
+    },
+    {
+     "w": "around,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "copied",
+     "strong": true,
+     "link": false,
+     "syl": "COP"
+    },
+    {
+     "w": "wrong.",
+     "strong": true,
+     "link": false,
+     "syl": "WRONG"
+    }
+   ],
+   "tip": "get deleted, moved around처럼 자음 뒤 모음 연결에 주의하세요.",
+   "start": 72.3,
+   "end": 77.15
+  },
+  {
+   "text": "This transformed JC virus can damage brain cells and make you very sick.",
+   "chunks": [
+    {
+     "en": "This transformed JC virus",
+     "ko": "이렇게 변형된 JC 바이러스는"
+    },
+    {
+     "en": "can damage brain cells",
+     "ko": "뇌세포를 손상시키고"
+    },
+    {
+     "en": "and make you very sick.",
+     "ko": "당신을 매우 아프게 만들 수 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transformed",
+     "strong": true,
+     "link": false,
+     "syl": "FORMED"
+    },
+    {
+     "w": "JC",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "virus",
+     "strong": true,
+     "link": false,
+     "syl": "VI"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "damage",
+     "strong": true,
+     "link": false,
+     "syl": "DAM"
+    },
+    {
+     "w": "brain",
+     "strong": true,
+     "link": false,
+     "syl": "BRAIN"
+    },
+    {
+     "w": "cells",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sick.",
+     "strong": true,
+     "link": false,
+     "syl": "SICK"
+    }
+   ],
+   "tip": "",
+   "start": 77.15,
+   "end": 82.48
+  },
+  {
+   "text": "Over time, affected patients find it harder and harder to move around, speak, or even just think, and they often die.",
+   "chunks": [
+    {
+     "en": "Over time,",
+     "ko": "시간이 지나면서,"
+    },
+    {
+     "en": "affected patients find it harder and harder to move around, speak, or even just think,",
+     "ko": "병에 걸린 환자들은 움직이거나, 말하거나, 심지어 생각하는 것조차 점점 더 힘들어지고,"
+    },
+    {
+     "en": "and they often die.",
+     "ko": "결국 자주 사망한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "affected",
+     "strong": true,
+     "link": false,
+     "syl": "FECT"
+    },
+    {
+     "w": "patients",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "harder",
+     "strong": true,
+     "link": false,
+     "syl": "HARD"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "harder",
+     "strong": true,
+     "link": false,
+     "syl": "HARD"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "move",
+     "strong": true,
+     "link": true,
+     "syl": "MOVE"
+    },
+    {
+     "w": "around,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speak,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "often",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "die.",
+     "strong": true,
+     "link": false,
+     "syl": "DIE"
+    }
+   ],
+   "tip": "find it, move around처럼 연음을 살려 읽어보세요.",
+   "start": 82.48,
+   "end": 90.89
+  },
+  {
+   "text": "My labmates and I want to find out how the JC virus changes as it makes its way through the body from the kidneys to the brain.",
+   "chunks": [
+    {
+     "en": "My labmates and I want to find out",
+     "ko": "나와 내 연구실 동료들은 알아내고 싶어 한다"
+    },
+    {
+     "en": "how the JC virus changes",
+     "ko": "JC 바이러스가 어떻게 변하는지를"
+    },
+    {
+     "en": "as it makes its way through the body",
+     "ko": "그것이 몸을 통과하는 동안"
+    },
+    {
+     "en": "from the kidneys to the brain.",
+     "ko": "신장에서 뇌까지."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "labmates",
+     "strong": true,
+     "link": false,
+     "syl": "LAB"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": true,
+     "link": true,
+     "syl": "FIND"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "JC",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "virus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes",
+     "strong": true,
+     "link": false,
+     "syl": "CHANGE"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kidneys",
+     "strong": true,
+     "link": false,
+     "syl": "KID"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain.",
+     "strong": true,
+     "link": false,
+     "syl": "BRAIN"
+    }
+   ],
+   "tip": "find out, makes its처럼 자음+모음 연결에 유의하세요.",
+   "start": 90.89,
+   "end": 98.02
+  }
+ ],
+ "questions": [
+  {
+   "q": "What can happen to parts of the JC virus's DNA code?",
+   "options": [
+    "They can get deleted, moved around, or copied incorrectly.",
+    "They always stay exactly the same.",
+    "They turn into a different virus species."
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 DNA 코드 일부가 삭제되거나 이동하거나 잘못 복사될 수 있다고 설명합니다."
+  },
+  {
+   "q": "What can the transformed JC virus do to the brain?",
+   "options": [
+    "It can damage brain cells and cause serious illness.",
+    "It can only affect the skin.",
+    "It has no effect on the body."
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 변형된 바이러스가 뇌세포를 손상시키고 심하게 아프게 만들 수 있다고 합니다."
+  },
+  {
+   "q": "What do affected patients experience over time?",
+   "options": [
+    "Increasing difficulty moving, speaking, and thinking, and they often die.",
+    "A full recovery within days.",
+    "Improved memory and mobility."
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 환자들은 움직임, 말, 생각이 점점 힘들어지고 결국 자주 사망한다고 합니다."
+  },
+  {
+   "q": "What does the speaker want to find out?",
+   "options": [
+    "How the JC virus changes as it travels from the kidneys to the brain.",
+    "How to grow new kidneys.",
+    "How to prevent all viruses from forming."
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 신장에서 뇌까지 이동하며 바이러스가 어떻게 변하는지 알아내고 싶다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "deleted",
+   "ko": "삭제된",
+   "note": "유전자 코드 일부가 없어지는 것을 말함."
+  },
+  {
+   "term": "transformed",
+   "ko": "변형된",
+   "note": "형태나 성질이 바뀐 상태."
+  },
+  {
+   "term": "affected patients",
+   "ko": "영향을 받은(병에 걸린) 환자들",
+   "note": "특정 개인을 지칭하지 않는 일반적인 표현."
+  },
+  {
+   "term": "make its way through",
+   "ko": "~을 통과해 나가다",
+   "note": "어떤 경로를 거쳐 이동한다는 뜻."
+  },
+  {
+   "term": "labmates",
+   "ko": "연구실 동료들",
+   "note": "같은 실험실에서 함께 연구하는 사람들."
+  }
+ ]
+}

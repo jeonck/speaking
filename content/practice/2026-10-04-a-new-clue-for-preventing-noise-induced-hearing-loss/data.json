@@ -1,0 +1,470 @@
+{
+ "video_id": "Df-3RkFdHdA",
+ "source_title": "NIH SciBites: Turning Down the Dial on Hearing Loss",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 23.65,
+  "end": 49.2
+ },
+ "sentences": [
+  {
+   "text": "Either way, once hearing damage occurs, the effects are irreversible.",
+   "chunks": [
+    {
+     "en": "Either way,",
+     "ko": "어느 쪽이든,"
+    },
+    {
+     "en": "once hearing damage occurs,",
+     "ko": "청력 손상이 일어나면,"
+    },
+    {
+     "en": "the effects are irreversible.",
+     "ko": "그 영향은 되돌릴 수 없습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Either",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hearing",
+     "strong": true,
+     "link": false,
+     "syl": "hear"
+    },
+    {
+     "w": "damage",
+     "strong": true,
+     "link": true,
+     "syl": "dam"
+    },
+    {
+     "w": "occurs,",
+     "strong": true,
+     "link": false,
+     "syl": "curs"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "effects",
+     "strong": true,
+     "link": true,
+     "syl": "fects"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "irreversible.",
+     "strong": true,
+     "link": false,
+     "syl": "vers"
+    }
+   ],
+   "tip": "damage occurs, effects are처럼 자음이 다음 모음으로 이어져요.",
+   "start": 23.65,
+   "end": 28.23
+  },
+  {
+   "text": "My lab is dedicated to understanding how exactly noise causes hearing loss, so we can use that knowledge to discover new ways to prevent it.",
+   "chunks": [
+    {
+     "en": "My lab is dedicated to understanding how exactly noise causes hearing loss,",
+     "ko": "제 연구실은 소음이 정확히 어떻게 청력 손상을 일으키는지 이해하는 데 전념하고 있습니다,"
+    },
+    {
+     "en": "so we can use that knowledge",
+     "ko": "그래서 우리는 그 지식을 활용해"
+    },
+    {
+     "en": "to discover new ways to prevent it.",
+     "ko": "그것을 막을 새로운 방법을 찾아낼 수 있도록요."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lab",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dedicated",
+     "strong": true,
+     "link": false,
+     "syl": "ded"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "understanding",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exactly",
+     "strong": true,
+     "link": false,
+     "syl": "act"
+    },
+    {
+     "w": "noise",
+     "strong": true,
+     "link": false,
+     "syl": "noise"
+    },
+    {
+     "w": "causes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hearing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "loss,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "knowledge",
+     "strong": true,
+     "link": false,
+     "syl": "knowl"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "discover",
+     "strong": true,
+     "link": false,
+     "syl": "cov"
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ways",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prevent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "lab is처럼 b가 다음 모음에 이어져 '래비즈'처럼 들려요.",
+   "start": 28.23,
+   "end": 37.46
+  },
+  {
+   "text": "One chemical compound I've been studying is cannabidiol, commonly known as CBD, a non-psychoactive component of cannabis that is already FDA-approved as an anti-seizure medication.",
+   "chunks": [
+    {
+     "en": "One chemical compound I've been studying is cannabidiol,",
+     "ko": "제가 연구해 온 화합물 하나는 카나비디올인데,"
+    },
+    {
+     "en": "commonly known as CBD,",
+     "ko": "흔히 CBD로 알려진,"
+    },
+    {
+     "en": "a non-psychoactive component of cannabis",
+     "ko": "카나비스(대마)의 비정신작용성 성분으로,"
+    },
+    {
+     "en": "that is already FDA-approved as an anti-seizure medication.",
+     "ko": "이미 항경련제로 FDA 승인을 받은 것입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chemical",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compound",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "studying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cannabidiol,",
+     "strong": true,
+     "link": false,
+     "syl": "di"
+    },
+    {
+     "w": "commonly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "known",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "CBD,",
+     "strong": true,
+     "link": false,
+     "syl": "CBD"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "non-psychoactive",
+     "strong": true,
+     "link": false,
+     "syl": "ac"
+    },
+    {
+     "w": "component",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cannabis",
+     "strong": true,
+     "link": false,
+     "syl": "can"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "already",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "FDA-approved",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "anti-seizure",
+     "strong": true,
+     "link": false,
+     "syl": "sei"
+    },
+    {
+     "w": "medication.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "known as, component of, is already, as an처럼 자음+모음 연결이 많아요.",
+   "start": 37.46,
+   "end": 49.2
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happens once hearing damage occurs?",
+   "options": [
+    "The effects are irreversible",
+    "The damage heals within days",
+    "Hearing improves naturally"
+   ],
+   "answer": 0,
+   "why": "첫 문장: once hearing damage occurs, the effects are irreversible."
+  },
+  {
+   "q": "What is the speaker's lab focused on understanding?",
+   "options": [
+    "How exactly noise causes hearing loss",
+    "How to build better hearing aids",
+    "How music affects memory"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장: dedicated to understanding how exactly noise causes hearing loss."
+  },
+  {
+   "q": "What compound has the speaker been studying?",
+   "options": [
+    "Cannabidiol (CBD)",
+    "Caffeine",
+    "Vitamin D"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장: One chemical compound I've been studying is cannabidiol, commonly known as CBD."
+  },
+  {
+   "q": "What is CBD already approved for?",
+   "options": [
+    "An anti-seizure medication",
+    "A pain reliever for broken bones",
+    "A treatment for hearing loss"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장 마지막: already FDA-approved as an anti-seizure medication."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "irreversible",
+   "ko": "되돌릴 수 없는",
+   "note": "손상이 영구적이라는 뜻이에요."
+  },
+  {
+   "term": "be dedicated to -ing",
+   "ko": "~하는 데 전념하다",
+   "note": "dedicated to understanding처럼 목표에 집중한다는 뜻이에요."
+  },
+  {
+   "term": "cannabidiol (CBD)",
+   "ko": "카나비디올 (CBD)",
+   "note": "대마에서 추출되는 비정신작용성 성분이에요."
+  },
+  {
+   "term": "non-psychoactive",
+   "ko": "비정신작용성의",
+   "note": "정신에 영향을 주지 않는다는 뜻으로 psychoactive의 반대예요."
+  },
+  {
+   "term": "FDA-approved",
+   "ko": "FDA 승인을 받은",
+   "note": "미국 식품의약국의 공식 승인을 의미해요."
+  },
+  {
+   "term": "anti-seizure medication",
+   "ko": "항경련제",
+   "note": "발작을 억제하는 약물을 가리켜요."
+  }
+ ]
+}

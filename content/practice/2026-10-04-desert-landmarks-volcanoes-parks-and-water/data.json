@@ -1,0 +1,432 @@
+{
+ "video_id": "BJeNtoBREuU",
+ "source_title": "Landsat's 12 Millionth Image (Image of the Week)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 56.5,
+  "end": 81.46
+ },
+ "sentences": [
+  {
+   "text": "The Black Tank Cone, the youngest volcanic feature, formed about 15,000 years ago.",
+   "chunks": [
+    {
+     "en": "The Black Tank Cone,",
+     "ko": "블랙 탱크 콘은,"
+    },
+    {
+     "en": "the youngest volcanic feature,",
+     "ko": "가장 최근에 생긴 화산 지형인데,"
+    },
+    {
+     "en": "formed about 15,000 years ago.",
+     "ko": "약 1만 5천 년 전에 형성되었습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Black",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Tank",
+     "strong": true,
+     "link": false,
+     "syl": "TANK"
+    },
+    {
+     "w": "Cone,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "youngest",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "volcanic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "feature,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "formed",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "15,000",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ago.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "formed about은 d 소리가 다음 모음과 이어져요.",
+   "start": 56.5,
+   "end": 64.04
+  },
+  {
+   "text": "Joshua Tree National Park at the junction between two desert ecosystems.",
+   "chunks": [
+    {
+     "en": "Joshua Tree National Park",
+     "ko": "조슈아 트리 국립공원은"
+    },
+    {
+     "en": "at the junction between two desert ecosystems.",
+     "ko": "두 사막 생태계가 만나는 지점에 있습니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Joshua",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Tree",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "National",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Park",
+     "strong": true,
+     "link": false,
+     "syl": "PARK"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "junction",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "between",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "desert",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "ecosystems.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "junction의 첫 음절을 강하게 발음해요.",
+   "start": 64.04,
+   "end": 69.0
+  },
+  {
+   "text": "The Sheep Hole Valley Wilderness, a vital refuge for diverse wildlife.",
+   "chunks": [
+    {
+     "en": "The Sheep Hole Valley Wilderness,",
+     "ko": "쉽 홀 밸리 야생 보호구역은,"
+    },
+    {
+     "en": "a vital refuge for diverse wildlife.",
+     "ko": "다양한 야생동물의 중요한 피난처입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sheep",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Hole",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Valley",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Wilderness,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vital",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "refuge",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "diverse",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wildlife.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "Wilderness의 첫 음절을 강하게 발음해요.",
+   "start": 69.0,
+   "end": 75.08
+  },
+  {
+   "text": "The Cadiz Water Project, an effort to extract water from underground aquifers that recharge desert lake beds.",
+   "chunks": [
+    {
+     "en": "The Cadiz Water Project,",
+     "ko": "케이디즈 용수 프로젝트는,"
+    },
+    {
+     "en": "an effort to extract water from underground aquifers",
+     "ko": "지하 대수층에서 물을 끌어내려는 노력인데"
+    },
+    {
+     "en": "that recharge desert lake beds.",
+     "ko": "그 대수층은 사막의 호수 바닥을 다시 채워줍니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Cadiz",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Project,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "effort",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "extract",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "underground",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "aquifers",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recharge",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "desert",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lake",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beds.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "extract water는 t 소리가 다음 모음과 이어져요.",
+   "start": 75.08,
+   "end": 81.46
+  }
+ ],
+ "questions": [
+  {
+   "q": "About how old is the Black Tank Cone?",
+   "options": [
+    "About 15,000 years old",
+    "About 1.5 million years old",
+    "About 150 years old"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 약 1만 5천 년 전에 형성되었다고 말합니다."
+  },
+  {
+   "q": "Where is Joshua Tree National Park located?",
+   "options": [
+    "At the junction between two desert ecosystems",
+    "On the coast",
+    "In a rainforest"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 두 사막 생태계가 만나는 지점에 있다고 설명합니다."
+  },
+  {
+   "q": "What is the Sheep Hole Valley Wilderness described as?",
+   "options": [
+    "A vital refuge for diverse wildlife",
+    "An abandoned mining town",
+    "A volcanic crater"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 다양한 야생동물의 중요한 피난처라고 말합니다."
+  },
+  {
+   "q": "What is the goal of the Cadiz Water Project?",
+   "options": [
+    "To extract water from underground aquifers",
+    "To build a new dam",
+    "To plant desert trees"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 지하 대수층에서 물을 끌어내려는 노력이라고 설명합니다."
+  },
+  {
+   "q": "What do the underground aquifers in the segment do?",
+   "options": [
+    "Recharge desert lake beds",
+    "Create new volcanoes",
+    "Flood nearby cities"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 그 대수층이 사막의 호수 바닥을 다시 채운다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "volcanic feature",
+   "ko": "화산 지형",
+   "note": "화산 활동으로 생긴 지형을 가리켜요."
+  },
+  {
+   "term": "junction",
+   "ko": "경계가 만나는 지점",
+   "note": "두 지역이나 생태계가 맞닿는 곳을 뜻해요."
+  },
+  {
+   "term": "vital refuge",
+   "ko": "중요한 피난처",
+   "note": "야생동물이 안전하게 머물 수 있는 중요한 서식지예요."
+  },
+  {
+   "term": "underground aquifers",
+   "ko": "지하 대수층",
+   "note": "지하에 물이 저장되어 있는 암석·토양층입니다."
+  },
+  {
+   "term": "recharge",
+   "ko": "다시 채우다",
+   "note": "여기서는 지하수가 호수나 저수지를 다시 채우는 것을 뜻해요."
+  }
+ ]
+}

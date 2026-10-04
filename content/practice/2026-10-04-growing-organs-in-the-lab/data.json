@@ -1,0 +1,440 @@
+{
+ "video_id": "fQn7CNJaZF8",
+ "source_title": "NIH SciBites: Pursuing Lab-Grown Organs Through Stem Cell Studies",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 14.04,
+  "end": 38.81
+ },
+ "sentences": [
+  {
+   "text": "Unfortunately, there's a major lack of available organ donors, so many people die before they can receive a transplant.",
+   "chunks": [
+    {
+     "en": "Unfortunately, there's a major lack of available organ donors,",
+     "ko": "불행히도, 기증 가능한 장기가 크게 부족해서,"
+    },
+    {
+     "en": "so many people die before they can receive a transplant.",
+     "ko": "많은 사람들이 이식을 받기 전에 사망한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Unfortunately,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "major",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lack",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "available",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "organ",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "donors,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "die",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "receive",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transplant.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'lack of'는 이어져 '래커브'처럼 들려요.",
+   "start": 14.04,
+   "end": 22.26
+  },
+  {
+   "text": "But what if, instead of relying on organs donated by people, we could grow organs in a lab?",
+   "chunks": [
+    {
+     "en": "But what if, instead of relying on organs donated",
+     "ko": "하지만 만약, 기증받은 장기에 의존하는 대신"
+    },
+    {
+     "en": "by people, we could grow organs in a lab?",
+     "ko": "사람에게서 받은 것이 아니라, 실험실에서 장기를 키울 수 있다면 어떨까?"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "instead",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relying",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "organs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "donated",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grow",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "organs",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lab?",
+     "strong": true,
+     "link": false,
+     "syl": "LAB"
+    }
+   ],
+   "tip": "'organs in'은 이어져 '오r건진'처럼 들려요.",
+   "start": 22.26,
+   "end": 29.28
+  },
+  {
+   "text": "Scientists today are trying to do just that using unspecialized cells, called stem cells, taken from patients who need an organ transplant.",
+   "chunks": [
+    {
+     "en": "Scientists today are trying to do just that",
+     "ko": "오늘날 과학자들이 바로 그것을 시도하고 있다"
+    },
+    {
+     "en": "using unspecialized cells, called stem cells,",
+     "ko": "줄기세포라고 불리는 비분화 세포를 이용해서,"
+    },
+    {
+     "en": "taken from patients who need an organ transplant.",
+     "ko": "장기 이식이 필요한 환자들에게서 채취한."
+    }
+   ],
+   "words": [
+    {
+     "w": "Scientists",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "today",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "using",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unspecialized",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "cells,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stem",
+     "strong": true,
+     "link": false,
+     "syl": "STEM"
+    },
+    {
+     "w": "cells,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taken",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patients",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "organ",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "transplant.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'need an'은 이어져 '니던'처럼 들려요.",
+   "start": 29.28,
+   "end": 38.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What major problem does the segment describe with organ donors?",
+   "options": [
+    "There's a major lack of available organ donors",
+    "There are too many organ donors",
+    "Organ donors only exist in certain countries"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 기증 가능한 장기가 크게 부족하다고 말합니다."
+  },
+  {
+   "q": "What happens to many people while waiting for a transplant?",
+   "options": [
+    "They die before they can receive a transplant",
+    "They recover without needing one",
+    "They receive multiple transplants"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 많은 사람들이 이식을 받기 전에 사망한다고 말합니다."
+  },
+  {
+   "q": "What alternative to donated organs does the segment suggest?",
+   "options": [
+    "Growing organs in a lab",
+    "Importing organs from other countries",
+    "Using only artificial materials"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 사람에게서 기증받은 장기 대신 실험실에서 장기를 키우는 방법을 제안합니다."
+  },
+  {
+   "q": "What type of cells are scientists using to try to grow organs?",
+   "options": [
+    "Unspecialized cells called stem cells",
+    "Fully formed organ cells",
+    "Cells from animals only"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 줄기세포라고 불리는 비분화 세포를 이용한다고 말합니다."
+  },
+  {
+   "q": "Who are the stem cells taken from, according to the segment?",
+   "options": [
+    "Patients who need an organ transplant",
+    "Healthy volunteers only",
+    "Laboratory animals"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 장기 이식이 필요한 환자들에게서 채취한다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "organ donors",
+   "ko": "장기 기증자",
+   "note": "다른 사람에게 장기를 기증하는 사람을 말합니다."
+  },
+  {
+   "term": "transplant",
+   "ko": "이식",
+   "note": "장기나 조직을 다른 사람 몸에 옮겨 넣는 수술입니다."
+  },
+  {
+   "term": "unspecialized cells",
+   "ko": "비분화 세포",
+   "note": "아직 특정 세포 종류로 분화되지 않은 세포를 말합니다."
+  },
+  {
+   "term": "stem cells",
+   "ko": "줄기세포",
+   "note": "다양한 종류의 세포로 분화할 수 있는 세포입니다."
+  }
+ ]
+}

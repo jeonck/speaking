@@ -1,0 +1,405 @@
+{
+ "video_id": "e0Y5Tj5t20s",
+ "source_title": "NIH SciBites: A Smarter Way to Silence Inflammation",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 18.59,
+  "end": 43.26
+ },
+ "sentences": [
+  {
+   "text": "In those cases, inflammation usually fades quickly.",
+   "chunks": [
+    {
+     "en": "In those cases,",
+     "ko": "그런 경우에는,"
+    },
+    {
+     "en": "inflammation usually fades quickly.",
+     "ko": "염증이 보통 빠르게 가라앉는다."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cases,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inflammation",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fades",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "quickly.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'inflammation usually'는 자음과 모음이 이어져 '인플러메이션유주얼리'처럼 들려요.",
+   "start": 18.59,
+   "end": 22.29
+  },
+  {
+   "text": "But that's not always how inflammation works.",
+   "chunks": [
+    {
+     "en": "But that's not always",
+     "ko": "하지만 항상 그런 것은 아니다"
+    },
+    {
+     "en": "how inflammation works.",
+     "ko": "염증이 작동하는 방식이."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inflammation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "works.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'not always'는 이어져 '나탈웨이즈'처럼 들려요.",
+   "start": 22.29,
+   "end": 25.77
+  },
+  {
+   "text": "When inflammation lingers for years, or even decades, we call it chronic inflammation.",
+   "chunks": [
+    {
+     "en": "When inflammation lingers for years, or even decades,",
+     "ko": "염증이 몇 년, 심지어 수십 년 동안 지속되면,"
+    },
+    {
+     "en": "we call it chronic inflammation.",
+     "ko": "우리는 그것을 만성 염증이라고 부른다."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inflammation",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "lingers",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decades,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "call",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chronic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "inflammation.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'call it'는 이어져 '콜릿'처럼 들려요.",
+   "start": 25.77,
+   "end": 31.84
+  },
+  {
+   "text": "That kind of long-lasting inflammation is a major driver of many of today's deadliest diseases: heart disease, cancer, diabetes, even Alzheimer's.",
+   "chunks": [
+    {
+     "en": "That kind of long-lasting inflammation",
+     "ko": "그런 종류의 오래 지속되는 염증은"
+    },
+    {
+     "en": "is a major driver of many",
+     "ko": "여러 가지의 주요 원인이다"
+    },
+    {
+     "en": "of today's deadliest diseases:",
+     "ko": "오늘날 가장 치명적인 질병들,"
+    },
+    {
+     "en": "heart disease, cancer, diabetes, even Alzheimer's.",
+     "ko": "심장병, 암, 당뇨병, 심지어 알츠하이머병까지."
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long-lasting",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "inflammation",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "major",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "driver",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "today's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deadliest",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "diseases:",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heart",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "disease,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "diabetes,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Alzheimer's.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'is a'는 이어져 '이저'처럼 들려요.",
+   "start": 31.84,
+   "end": 43.26
+  }
+ ],
+ "questions": [
+  {
+   "q": "What usually happens to inflammation in most cases, according to the segment?",
+   "options": [
+    "It fades quickly",
+    "It never goes away",
+    "It spreads to every organ"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 염증이 보통 빠르게 가라앉는다고 말합니다."
+  },
+  {
+   "q": "What is inflammation called when it lingers for years or even decades?",
+   "options": [
+    "Chronic inflammation",
+    "Acute inflammation",
+    "Temporary inflammation"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 몇 년, 심지어 수십 년간 지속되는 염증을 만성 염증이라고 부른다고 말합니다."
+  },
+  {
+   "q": "What does long-lasting inflammation act as, according to the segment?",
+   "options": [
+    "A major driver of many deadly diseases",
+    "A cure for several diseases",
+    "A rare condition with no effects"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 장기간 지속되는 염증이 여러 치명적인 질병의 주요 원인이라고 말합니다."
+  },
+  {
+   "q": "Which diseases does the segment mention as linked to chronic inflammation?",
+   "options": [
+    "Heart disease, cancer, diabetes, and Alzheimer's",
+    "Only the common cold",
+    "Only broken bones"
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 심장병, 암, 당뇨병, 알츠하이머병을 예로 듭니다."
+  },
+  {
+   "q": "Does inflammation always fade quickly, according to the segment?",
+   "options": [
+    "No, that's not always how it works",
+    "Yes, it always fades quickly",
+    "It fades quickly only in children"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 항상 그런 것은 아니라고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fades quickly",
+   "ko": "빠르게 가라앉다",
+   "note": "증상이나 반응이 금방 사라진다는 뜻입니다."
+  },
+  {
+   "term": "lingers",
+   "ko": "오래 지속되다",
+   "note": "예상보다 오래 남아있는다는 뜻입니다."
+  },
+  {
+   "term": "chronic inflammation",
+   "ko": "만성 염증",
+   "note": "수년에서 수십 년간 지속되는 염증을 말합니다."
+  },
+  {
+   "term": "major driver",
+   "ko": "주요 원인",
+   "note": "어떤 결과를 일으키는 핵심 요인을 뜻합니다."
+  }
+ ]
+}

@@ -1,0 +1,490 @@
+{
+ "video_id": "WguzSvq-8qI",
+ "source_title": "Keeping Cancer Locked Up",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 6.22,
+  "end": 29.46
+ },
+ "sentences": [
+  {
+   "text": "When it comes to cancer, a major concern is metastasis, which is when cancer spreads to other organs from the place it first appeared in the body.",
+   "chunks": [
+    {
+     "en": "When it comes to cancer,",
+     "ko": "암에 관해서는,"
+    },
+    {
+     "en": "a major concern is metastasis,",
+     "ko": "주요 우려 사항은 전이인데,"
+    },
+    {
+     "en": "which is when cancer spreads to other organs",
+     "ko": "이는 암이 다른 장기로 퍼지는 것을 의미하는데"
+    },
+    {
+     "en": "from the place it first appeared in the body.",
+     "ko": "몸에서 처음 생긴 곳으로부터이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "major",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "concern",
+     "strong": true,
+     "link": false,
+     "syl": "CERN"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "metastasis,",
+     "strong": true,
+     "link": false,
+     "syl": "TAS"
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spreads",
+     "strong": true,
+     "link": false,
+     "syl": "SPREADS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "organs",
+     "strong": true,
+     "link": false,
+     "syl": "OR"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "appeared",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body.",
+     "strong": true,
+     "link": false,
+     "syl": "BOD"
+    }
+   ],
+   "tip": "metastasis의 강세는 두 번째 음절(me-TAS-ta-sis)에 있다.",
+   "start": 6.22,
+   "end": 15.12
+  },
+  {
+   "text": "The vast majority of cancer deaths occur because of metastasis, but preventing it can be difficult.",
+   "chunks": [
+    {
+     "en": "The vast majority of cancer deaths",
+     "ko": "암 사망의 대다수는"
+    },
+    {
+     "en": "occur because of metastasis,",
+     "ko": "전이 때문에 발생하지만,"
+    },
+    {
+     "en": "but preventing it can be difficult.",
+     "ko": "그것을 막는 것은 어려울 수 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vast",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "majority",
+     "strong": true,
+     "link": true,
+     "syl": "JOR"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deaths",
+     "strong": true,
+     "link": true,
+     "syl": "DEATHS"
+    },
+    {
+     "w": "occur",
+     "strong": true,
+     "link": false,
+     "syl": "CUR"
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "metastasis,",
+     "strong": true,
+     "link": false,
+     "syl": "TAS"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "preventing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "difficult.",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    }
+   ],
+   "tip": "deaths occur처럼 끝소리와 다음 모음을 이어서 자연스럽게 발음한다.",
+   "start": 15.12,
+   "end": 21.72
+  },
+  {
+   "text": "My lab is trying to understand the first step of cancer metastasis, so we can find ways to slow or stop it.",
+   "chunks": [
+    {
+     "en": "My lab is trying to understand",
+     "ko": "제 연구실은 이해하려고 노력하고 있다"
+    },
+    {
+     "en": "the first step of cancer metastasis,",
+     "ko": "암 전이의 첫 단계를,"
+    },
+    {
+     "en": "so we can find ways to slow or stop it.",
+     "ko": "그래서 그것을 늦추거나 멈출 방법을 찾을 수 있도록."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lab",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "understand",
+     "strong": true,
+     "link": false,
+     "syl": "STAND"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "step",
+     "strong": true,
+     "link": true,
+     "syl": "STEP"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "metastasis,",
+     "strong": true,
+     "link": false,
+     "syl": "TAS"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ways",
+     "strong": true,
+     "link": false,
+     "syl": "WAYS"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "slow",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stop",
+     "strong": true,
+     "link": true,
+     "syl": "STOP"
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "step of처럼 자음 뒤에 모음이 오면 끊지 않고 이어 말한다.",
+   "start": 21.72,
+   "end": 29.46
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is metastasis, according to the segment?",
+   "options": [
+    "Cancer spreading to other organs",
+    "A type of cancer treatment",
+    "A diagnostic test for cancer"
+   ],
+   "answer": 0,
+   "why": "metastasis는 'when cancer spreads to other organs'로 정의된다."
+  },
+  {
+   "q": "What is the main cause of most cancer deaths, according to the segment?",
+   "options": [
+    "Metastasis",
+    "Late diagnosis",
+    "Lack of treatment options"
+   ],
+   "answer": 0,
+   "why": "the vast majority of cancer deaths occur because of metastasis라고 언급됨."
+  },
+  {
+   "q": "What is the researcher's lab trying to understand?",
+   "options": [
+    "The first step of cancer metastasis",
+    "How to diagnose cancer earlier",
+    "How to treat all types of cancer"
+   ],
+   "answer": 0,
+   "why": "my lab is trying to understand the first step of cancer metastasis라고 말함."
+  },
+  {
+   "q": "According to the segment, is preventing metastasis easy?",
+   "options": [
+    "No, it can be difficult",
+    "Yes, it is simple",
+    "It has already been solved"
+   ],
+   "answer": 0,
+   "why": "preventing it can be difficult라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "metastasis",
+   "ko": "전이(암이 다른 부위로 퍼지는 것)",
+   "note": "암 관련 핵심 용어로, 강세는 두 번째 음절에 있다"
+  },
+  {
+   "term": "vast majority",
+   "ko": "대다수",
+   "note": "거의 전부를 뜻하는 표현"
+  },
+  {
+   "term": "occur because of",
+   "ko": "~때문에 발생하다",
+   "note": "원인을 나타낼 때 사용"
+  },
+  {
+   "term": "the first step",
+   "ko": "첫 단계",
+   "note": "과정의 시작을 가리킴"
+  },
+  {
+   "term": "slow or stop",
+   "ko": "늦추거나 멈추다",
+   "note": "두 동사를 나란히 쓰는 표현"
+  }
+ ]
+}

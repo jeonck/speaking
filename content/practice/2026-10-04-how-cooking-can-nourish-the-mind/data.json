@@ -1,0 +1,464 @@
+{
+ "video_id": "ZGErUO0a6oE",
+ "source_title": "NIH SciBites: Cooking Up New Treatments for Mental Health Challenges",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 76.56,
+  "end": 102.32
+ },
+ "sentences": [
+  {
+   "text": "So whether it's the satisfaction of kneading dough or the focus required to chop vegetables, each action involved in cooking may help strengthen the brain's roots, fostering growth and recovery.",
+   "chunks": [
+    {
+     "en": "So whether it's the satisfaction of kneading dough",
+     "ko": "반죽을 치댈 때의 만족감이든"
+    },
+    {
+     "en": "or the focus required to chop vegetables,",
+     "ko": "채소를 썰 때 필요한 집중력이든,"
+    },
+    {
+     "en": "each action involved in cooking may help strengthen the brain's roots,",
+     "ko": "요리에 관련된 각각의 행동이 뇌의 뿌리를 강화하는 데 도움이 될 수 있으며,"
+    },
+    {
+     "en": "fostering growth and recovery.",
+     "ko": "성장과 회복을 촉진한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whether",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "satisfaction",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kneading",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "dough",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "focus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "required",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chop",
+     "strong": true,
+     "link": false,
+     "syl": "CHOP"
+    },
+    {
+     "w": "vegetables,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "action",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "involved",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strengthen",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brain's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "roots,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fostering",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "growth",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "recovery.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'and recovery'는 이어져 '앤리커버리'처럼 들려요.",
+   "start": 76.56,
+   "end": 91.42
+  },
+  {
+   "text": "So the next time you step into the kitchen, imagine how the small acts of care that you put into feeding your body might also nourish your mind, and the minds of those who need it most.",
+   "chunks": [
+    {
+     "en": "So the next time you step into the kitchen,",
+     "ko": "그러니 다음번에 주방에 들어갈 때,"
+    },
+    {
+     "en": "imagine how the small acts of care that you put",
+     "ko": "당신이 쏟는 작은 보살핌의 행동들이"
+    },
+    {
+     "en": "into feeding your body might also nourish your mind,",
+     "ko": "몸에 영양을 주는 것뿐 아니라 마음도 길러줄 수 있다는 것을 상상해 보라,"
+    },
+    {
+     "en": "and the minds of those who need it most.",
+     "ko": "그리고 그것이 가장 필요한 사람들의 마음까지도."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "step",
+     "strong": true,
+     "link": true,
+     "syl": "STEP"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kitchen,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "imagine",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "acts",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "care",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feeding",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "might",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nourish",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mind,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minds",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'put into'는 이어져 '푸린투'처럼 들려요.",
+   "start": 91.42,
+   "end": 102.32
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kinds of cooking actions does the segment mention?",
+   "options": [
+    "Kneading dough and chopping vegetables",
+    "Baking bread and frosting cakes only",
+    "Washing dishes and setting the table"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 반죽을 치대거나 채소를 써는 행동을 예로 듭니다."
+  },
+  {
+   "q": "What does cooking help strengthen, according to the segment?",
+   "options": [
+    "The brain's roots",
+    "The muscles in the arms",
+    "The sense of taste only"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 요리가 뇌의 뿌리를 강화하는 데 도움이 된다고 말합니다."
+  },
+  {
+   "q": "What does cooking foster, according to the segment?",
+   "options": [
+    "Growth and recovery",
+    "Competition and speed",
+    "Only physical strength"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장 마지막 부분에서 성장과 회복을 촉진한다고 말합니다."
+  },
+  {
+   "q": "Besides nourishing your own mind, who else can benefit from these small acts of care?",
+   "options": [
+    "The minds of those who need it most",
+    "Only professional chefs",
+    "No one else benefits"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 그것이 가장 필요한 사람들의 마음까지도 길러줄 수 있다고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "kneading dough",
+   "ko": "반죽을 치대다",
+   "note": "빵이나 면을 만들 때 손으로 눌러 반죽하는 행동입니다."
+  },
+  {
+   "term": "foster",
+   "ko": "촉진하다, 길러주다",
+   "note": "성장이나 발전을 돕는다는 뜻입니다."
+  },
+  {
+   "term": "acts of care",
+   "ko": "보살핌의 행동들",
+   "note": "다른 사람이나 자신을 돌보는 작은 행동들을 말합니다."
+  },
+  {
+   "term": "nourish",
+   "ko": "길러주다, 영양을 주다",
+   "note": "몸이나 마음을 건강하게 자라도록 돕는다는 뜻입니다."
+  }
+ ]
+}

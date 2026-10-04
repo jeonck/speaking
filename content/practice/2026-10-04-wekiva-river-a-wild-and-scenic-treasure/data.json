@@ -1,0 +1,373 @@
+{
+ "video_id": "0bYytWIFbJs",
+ "source_title": "Wekiva River:  A National Treasure",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 74.99,
+  "end": 98.85
+ },
+ "sentences": [
+  {
+   "text": "This river is only one out of two Wild and Scenic rivers in Florida.",
+   "chunks": [
+    {
+     "en": "This river is only one out of two",
+     "ko": "이 강은 단 두 개 중 하나일 뿐입니다"
+    },
+    {
+     "en": "Wild and Scenic rivers in Florida.",
+     "ko": "플로리다의 '야생 경관 강' 중 하나예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "river",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Wild",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Scenic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "rivers",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Florida.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'one out', 'out of', 'Wild and'처럼 자음 뒤 모음이 오면 자연스럽게 이어 말해요.",
+   "start": 74.99,
+   "end": 80.58
+  },
+  {
+   "text": "When you get in the kayak and head downstream and see some of the most pristine wild Florida, the alligators, the turtles, the bald eagles, the cranes, just the wildlife in itself is just remarkable.",
+   "chunks": [
+    {
+     "en": "When you get in the kayak and head downstream",
+     "ko": "카약을 타고 하류로 내려가면"
+    },
+    {
+     "en": "and see some of the most pristine wild Florida,",
+     "ko": "플로리다의 가장 깨끗하고 야생 그대로인 모습을 보게 되는데"
+    },
+    {
+     "en": "the alligators, the turtles,",
+     "ko": "악어들, 거북들"
+    },
+    {
+     "en": "the bald eagles, the cranes,",
+     "ko": "흰머리수리들, 두루미들"
+    },
+    {
+     "en": "just the wildlife in itself is just remarkable.",
+     "ko": "그 야생동물들 자체가 그야말로 놀라워요"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kayak",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "head",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "downstream",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pristine",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "wild",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Florida,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "alligators,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turtles,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bald",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "eagles,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cranes,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wildlife",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "itself",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remarkable.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'get in', 'bald eagles', 'wildlife in itself'처럼 자음 뒤 모음이 오면 이어서 발음해요.",
+   "start": 80.58,
+   "end": 98.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is special about the Wekiva River, according to the speaker?",
+   "options": [
+    "It is one of only two Wild and Scenic Rivers in Florida",
+    "It is the longest river in Florida",
+    "It only has water in summer"
+   ],
+   "answer": 0,
+   "why": "'only one out of two Wild and Scenic rivers in Florida'라는 문장에서 확인됨."
+  },
+  {
+   "q": "How does the speaker suggest people experience the river?",
+   "options": [
+    "By kayaking downstream",
+    "By driving along the bank",
+    "By flying over it"
+   ],
+   "answer": 0,
+   "why": "'get in the kayak and head downstream'이라는 부분에서 확인됨."
+  },
+  {
+   "q": "Which animals does the speaker mention seeing on the river?",
+   "options": [
+    "Alligators, turtles, bald eagles, and cranes",
+    "Only fish",
+    "Only insects"
+   ],
+   "answer": 0,
+   "why": "'the alligators, the turtles, the bald eagles, the cranes'라는 부분에서 확인됨."
+  },
+  {
+   "q": "How does the speaker describe the wildlife overall?",
+   "options": [
+    "Remarkable",
+    "Boring",
+    "Dangerous"
+   ],
+   "answer": 0,
+   "why": "'the wildlife in itself is just remarkable'라는 문장에서 확인됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Wild and Scenic river",
+   "ko": "야생 경관 강",
+   "note": "자연 그대로의 상태로 보호되는 강에 붙는 공식 지정 명칭이에요."
+  },
+  {
+   "term": "head downstream",
+   "ko": "하류로 내려가다",
+   "note": "강물이 흐르는 방향을 따라 이동한다는 뜻이에요."
+  },
+  {
+   "term": "pristine",
+   "ko": "훼손되지 않은, 깨끗한",
+   "note": "사람 손이 닿지 않아 원래 그대로인 상태를 뜻해요."
+  },
+  {
+   "term": "bald eagle",
+   "ko": "흰머리수리",
+   "note": "미국을 상징하는 대형 맹금류예요."
+  },
+  {
+   "term": "wildlife in itself",
+   "ko": "야생동물 그 자체",
+   "note": "다른 설명 없이도 야생동물만으로 라는 강조 표현이에요."
+  }
+ ]
+}

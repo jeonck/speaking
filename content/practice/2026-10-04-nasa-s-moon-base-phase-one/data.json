@@ -1,0 +1,573 @@
+{
+ "video_id": "IwZVXmQdX1E",
+ "source_title": "NASA Moon Base: The First Six Months",
+ "source_channel": "NASA",
+ "segment": {
+  "start": 26.03,
+  "end": 50.75
+ },
+ "sentences": [
+  {
+   "text": "Phase One is all about getting to the Moon reliably.",
+   "chunks": [
+    {
+     "en": "Phase One is all about",
+     "ko": "1단계는 전적으로 ~에 관한 것이다"
+    },
+    {
+     "en": "getting to the Moon reliably.",
+     "ko": "달에 안정적으로 도달하는 것."
+    }
+   ],
+   "words": [
+    {
+     "w": "Phase",
+     "strong": true,
+     "link": false,
+     "syl": "PHASE"
+    },
+    {
+     "w": "One",
+     "strong": true,
+     "link": false,
+     "syl": "ONE"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "getting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Moon",
+     "strong": true,
+     "link": false,
+     "syl": "MOON"
+    },
+    {
+     "w": "reliably.",
+     "strong": true,
+     "link": false,
+     "syl": "LI"
+    }
+   ],
+   "tip": "",
+   "start": 26.03,
+   "end": 29.36
+  },
+  {
+   "text": "We're going to experiment with new technologies, and we're going to actually start the infrastructure in this phase that goes from now to 2028.",
+   "chunks": [
+    {
+     "en": "We're going to experiment with new technologies,",
+     "ko": "우리는 새로운 기술로 실험할 것이고,"
+    },
+    {
+     "en": "and we're going to actually start the infrastructure in this phase",
+     "ko": "그리고 이 단계에서 실제로 기반 시설을 시작할 것인데"
+    },
+    {
+     "en": "that goes from now to 2028.",
+     "ko": "그것은 지금부터 2028년까지 이어진다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experiment",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "technologies,",
+     "strong": true,
+     "link": true,
+     "syl": "NOL"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": false,
+     "syl": "START"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "infrastructure",
+     "strong": true,
+     "link": false,
+     "syl": "FRA"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phase",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "goes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2028.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 29.36,
+   "end": 37.77
+  },
+  {
+   "text": "We want to learn, we want to experiment, and we're going to build on the knowledge.",
+   "chunks": [
+    {
+     "en": "We want to learn, we want to experiment,",
+     "ko": "우리는 배우고 싶고, 실험하고 싶고,"
+    },
+    {
+     "en": "and we're going to build on the knowledge.",
+     "ko": "그리고 그 지식을 바탕으로 발전해 나갈 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn,",
+     "strong": true,
+     "link": false,
+     "syl": "LEARN"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experiment,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "build",
+     "strong": true,
+     "link": true,
+     "syl": "BUILD"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "knowledge.",
+     "strong": true,
+     "link": false,
+     "syl": "NOWL"
+    }
+   ],
+   "tip": "build on처럼 자음 뒤 모음 연결에 주의하세요.",
+   "start": 37.77,
+   "end": 41.54
+  },
+  {
+   "text": "American astronauts will return to the lunar surface.",
+   "chunks": [
+    {
+     "en": "American astronauts",
+     "ko": "미국 우주비행사들이"
+    },
+    {
+     "en": "will return to the lunar surface.",
+     "ko": "달 표면으로 돌아갈 것이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "American",
+     "strong": true,
+     "link": true,
+     "syl": "MER"
+    },
+    {
+     "w": "astronauts",
+     "strong": true,
+     "link": false,
+     "syl": "AS"
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "return",
+     "strong": true,
+     "link": false,
+     "syl": "TURN"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lunar",
+     "strong": true,
+     "link": false,
+     "syl": "LU"
+    },
+    {
+     "w": "surface.",
+     "strong": true,
+     "link": false,
+     "syl": "SUR"
+    }
+   ],
+   "tip": "",
+   "start": 41.54,
+   "end": 45.45
+  },
+  {
+   "text": "For America, no aim is too high, no journey is too far, no challenge is too tough.",
+   "chunks": [
+    {
+     "en": "For America, no aim is too high,",
+     "ko": "미국에게는, 어떤 목표도 너무 높지 않고,"
+    },
+    {
+     "en": "no journey is too far,",
+     "ko": "어떤 여정도 너무 멀지 않으며,"
+    },
+    {
+     "en": "no challenge is too tough.",
+     "ko": "어떤 도전도 너무 힘들지 않다."
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "America,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "aim",
+     "strong": true,
+     "link": false,
+     "syl": "AIM"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high,",
+     "strong": true,
+     "link": false,
+     "syl": "HIGH"
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "journey",
+     "strong": true,
+     "link": false,
+     "syl": "JOUR"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "far,",
+     "strong": true,
+     "link": false,
+     "syl": "FAR"
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "challenge",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tough.",
+     "strong": true,
+     "link": false,
+     "syl": "TOUGH"
+    }
+   ],
+   "tip": "",
+   "start": 45.45,
+   "end": 50.75
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is Phase One mainly about?",
+   "options": [
+    "Getting to the Moon reliably.",
+    "Building a permanent city on Mars.",
+    "Launching the first satellite."
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 1단계는 달에 안정적으로 도달하는 것에 관한 것이라고 말합니다."
+  },
+  {
+   "q": "What time period does this phase of infrastructure building cover?",
+   "options": [
+    "From now to 2028.",
+    "From 2030 to 2040.",
+    "Only the year 2028."
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 지금부터 2028년까지 이어진다고 설명합니다."
+  },
+  {
+   "q": "What three things does the speaker say they want to do?",
+   "options": [
+    "Learn, experiment, and build on the knowledge.",
+    "Stop all space missions.",
+    "Only repeat past missions exactly."
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 배우고, 실험하고, 지식을 바탕으로 발전해 나가겠다고 말합니다."
+  },
+  {
+   "q": "Who will return to the lunar surface according to this segment?",
+   "options": [
+    "American astronauts.",
+    "Robotic rovers only.",
+    "Private tourists only."
+   ],
+   "answer": 0,
+   "why": "네 번째 문장에서 미국 우주비행사들이 달 표면으로 돌아갈 것이라고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "reliably",
+   "ko": "안정적으로, 믿을 수 있게",
+   "note": "실패 없이 꾸준히 해낸다는 뜻."
+  },
+  {
+   "term": "infrastructure",
+   "ko": "기반 시설",
+   "note": "기지, 통신, 운송 등 기본 체계를 말함."
+  },
+  {
+   "term": "build on",
+   "ko": "~을 바탕으로 발전시키다",
+   "note": "기존의 것을 기반으로 더 쌓아 올린다는 뜻."
+  },
+  {
+   "term": "lunar surface",
+   "ko": "달 표면",
+   "note": "달의 땅 위를 가리키는 표현."
+  },
+  {
+   "term": "no aim is too high",
+   "ko": "어떤 목표도 지나치게 높지 않다",
+   "note": "목표에 한계가 없다는 각오를 표현하는 수사적 문장."
+  }
+ ]
+}

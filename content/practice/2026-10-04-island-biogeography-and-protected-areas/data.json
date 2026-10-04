@@ -1,0 +1,393 @@
+{
+ "video_id": "nmiaDXi_KFQ",
+ "source_title": "National Parks in the History of Science: Island Biogeography",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 365.4,
+  "end": 387.75
+ },
+ "sentences": [
+  {
+   "text": "And then later as we did this work and I did other experiments, we and others began to think about protected areas, like national parks.",
+   "chunks": [
+    {
+     "en": "And then later as we did this work",
+     "ko": "그리고 나중에 우리가 이 작업을 하면서"
+    },
+    {
+     "en": "and I did other experiments,",
+     "ko": "그리고 제가 다른 실험들을 하면서"
+    },
+    {
+     "en": "we and others began to think about",
+     "ko": "저와 다른 사람들이 생각하기 시작했어요"
+    },
+    {
+     "en": "protected areas, like national parks.",
+     "ko": "국립공원 같은 보호 지역에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "later",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "did",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "did",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "experiments,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "others",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "began",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protected",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "areas,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "national",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parks.",
+     "strong": true,
+     "link": false,
+     "syl": "PARKS"
+    }
+   ],
+   "tip": "'later as', 'work and', 'and I', 'did other', 'think about', 'protected areas'처럼 자음 뒤 모음은 이어 말해요.",
+   "start": 365.4,
+   "end": 375.11
+  },
+  {
+   "text": "And the real relevance was that we were showing occasional extinction of species on these small islands, and the smaller the island, the more frequently there were these local extinctions.",
+   "chunks": [
+    {
+     "en": "And the real relevance was that we were showing",
+     "ko": "그리고 진짜 중요한 의미는 우리가 보여주고 있었다는 것인데"
+    },
+    {
+     "en": "occasional extinction of species on these small islands,",
+     "ko": "이 작은 섬들에서 종들이 간혹 멸종한다는 것이었어요"
+    },
+    {
+     "en": "and the smaller the island, the more frequently there were",
+     "ko": "그리고 섬이 작을수록 더 자주"
+    },
+    {
+     "en": "these local extinctions.",
+     "ko": "이런 국지적 멸종이 일어났습니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "real",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relevance",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "showing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "occasional",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "extinction",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "species",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "islands,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smaller",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "island,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "frequently",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "extinctions.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'showing occasional', 'extinction of', 'species on', 'small islands', 'local extinctions'는 자음 뒤 모음으로 이어져요.",
+   "start": 375.11,
+   "end": 387.75
+  }
+ ],
+ "questions": [
+  {
+   "q": "What began as the speaker and others did more experiments?",
+   "options": [
+    "Thinking about protected areas like national parks",
+    "Building new laboratories",
+    "Writing textbooks"
+   ],
+   "answer": 0,
+   "why": "'began to think about protected areas, like national parks'라는 문장에서 확인됨."
+  },
+  {
+   "q": "What were the researchers' observations on small islands showing?",
+   "options": [
+    "Occasional extinction of species",
+    "Only population growth",
+    "Stable species counts"
+   ],
+   "answer": 0,
+   "why": "'showing occasional extinction of species on these small islands'라는 문장에서 확인됨."
+  },
+  {
+   "q": "How did island size relate to local extinctions?",
+   "options": [
+    "Smaller islands had more frequent local extinctions",
+    "Smaller islands had no extinctions",
+    "Island size had no effect"
+   ],
+   "answer": 0,
+   "why": "'the smaller the island, the more frequently there were these local extinctions'라는 문장에서 확인됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "surrounded by forest",
+   "ko": "숲으로 둘러싸인",
+   "note": "어떤 장소가 숲에 완전히 에워싸여 있다는 뜻이에요."
+  },
+  {
+   "term": "protected areas",
+   "ko": "보호 지역",
+   "note": "국립공원처럼 법적으로 보호되는 자연 지역을 말해요."
+  },
+  {
+   "term": "occasional extinction",
+   "ko": "간혹 발생하는 멸종",
+   "note": "드물지만 때때로 일어나는 멸종을 뜻해요."
+  },
+  {
+   "term": "local extinctions",
+   "ko": "국지적 멸종",
+   "note": "전체가 아닌 특정 지역에서만 한 종이 사라지는 것을 말해요."
+  }
+ ]
+}

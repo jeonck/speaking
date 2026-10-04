@@ -1,0 +1,669 @@
+{
+ "video_id": "65FbQxVdp48",
+ "source_title": "Grand Prismatic Spring: Boiling, colorful & full of bacteria (Yellowstone Monthly Update, July 2025)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 15.43,
+  "end": 40.5
+ },
+ "sentences": [
+  {
+   "text": "But as you get to the rims, that allows a little bit of a temperature cool down and different types of bacteria grow.",
+   "chunks": [
+    {
+     "en": "But as you get to the rims,",
+     "ko": "하지만 가장자리에 도달하면,"
+    },
+    {
+     "en": "that allows a little bit of a temperature cool down",
+     "ko": "약간의 온도 하락을 허용해서"
+    },
+    {
+     "en": "and different types of bacteria grow.",
+     "ko": "다른 종류의 박테리아가 자라나요."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rims,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "allows",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bit",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "temperature",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "cool",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "types",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bacteria",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "grow.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 15.43,
+   "end": 21.83
+  },
+  {
+   "text": "And so the different colors indicate different temperatures from different bacteria.",
+   "chunks": [
+    {
+     "en": "And so the different colors",
+     "ko": "그래서 다른 색깔들은"
+    },
+    {
+     "en": "indicate different temperatures",
+     "ko": "다른 온도를 나타내요"
+    },
+    {
+     "en": "from different bacteria.",
+     "ko": "다른 박테리아로부터 나와요."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colors",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "indicate",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "temperatures",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bacteria.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 21.83,
+   "end": 26.1
+  },
+  {
+   "text": "Now, Grand Prismatic was first described probably by trappers in 1839, that noticed really spectacular colors.",
+   "chunks": [
+    {
+     "en": "Now, Grand Prismatic",
+     "ko": "자, 그랜드 프리즈매틱은"
+    },
+    {
+     "en": "was first described probably by trappers",
+     "ko": "아마도 모피 사냥꾼들에 의해 처음 기록되었어요"
+    },
+    {
+     "en": "in 1839, that noticed",
+     "ko": "1839년에, 그들은 알아차렸죠"
+    },
+    {
+     "en": "really spectacular colors.",
+     "ko": "정말 놀라운 색깔들을."
+    }
+   ],
+   "words": [
+    {
+     "w": "Now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Grand",
+     "strong": true,
+     "link": false,
+     "syl": "GRAND"
+    },
+    {
+     "w": "Prismatic",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "described",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "probably",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trappers",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1839,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "noticed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spectacular",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "colors.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 26.1,
+   "end": 31.63
+  },
+  {
+   "text": "And in fact, they said weren't sure what the colors were from.",
+   "chunks": [
+    {
+     "en": "And in fact, they said",
+     "ko": "그리고 사실, 그들은 말했어요"
+    },
+    {
+     "en": "weren't sure",
+     "ko": "확실하지 않다고"
+    },
+    {
+     "en": "what the colors were from.",
+     "ko": "색깔이 어디서 온 건지."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fact,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "said",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "weren't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colors",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 31.63,
+   "end": 34.57
+  },
+  {
+   "text": "And it was going to have to be some curious scientists that came along, investigated and of course, there have been a lot of curious scientists that have been here.",
+   "chunks": [
+    {
+     "en": "And it was going to have to be some curious scientists",
+     "ko": "그리고 결국 호기심 많은 과학자들이 필요했어요"
+    },
+    {
+     "en": "that came along, investigated",
+     "ko": "다가와서 조사했던 과학자들이,"
+    },
+    {
+     "en": "and of course, there have been",
+     "ko": "그리고 당연히, 있어왔죠"
+    },
+    {
+     "en": "a lot of curious scientists that have been here.",
+     "ko": "여기 있었던 많은 호기심 많은 과학자들이."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "curious",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "scientists",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "came",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "along,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "investigated",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "course,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "curious",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scientists",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 34.57,
+   "end": 40.5
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why do different colors appear at Grand Prismatic Spring?",
+   "options": [
+    "Different temperatures support different types of bacteria",
+    "The water changes mineral content daily",
+    "Tourists dye the water"
+   ],
+   "answer": 0,
+   "why": "'the different colors indicate different temperatures from different bacteria'에서 설명돼요."
+  },
+  {
+   "q": "What happens as you move toward the rims of the spring?",
+   "options": [
+    "The temperature cools down and different bacteria grow",
+    "The water boils more intensely",
+    "The spring dries up"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 가장자리로 갈수록 온도가 낮아져 다른 박테리아가 자란다고 해요."
+  },
+  {
+   "q": "Who first described Grand Prismatic Spring, and roughly when?",
+   "options": [
+    "Trappers, around 1839",
+    "Scientists, in 1900",
+    "Park rangers, in 1950"
+   ],
+   "answer": 0,
+   "why": "'was first described probably by trappers in 1839'에서 알 수 있어요."
+  },
+  {
+   "q": "Were early observers certain about the source of the colors?",
+   "options": [
+    "No, they weren't sure what caused them",
+    "Yes, they knew it was bacteria immediately",
+    "They thought it was paint"
+   ],
+   "answer": 0,
+   "why": "'they said weren't sure what the colors were from'에서 확인돼요."
+  },
+  {
+   "q": "Who eventually investigated the cause of the colors?",
+   "options": [
+    "Curious scientists",
+    "Local farmers",
+    "Tour guides"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 호기심 많은 과학자들이 조사했다고 해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "rims",
+   "ko": "가장자리",
+   "note": "분화구나 웅덩이의 테두리를 가리켜요."
+  },
+  {
+   "term": "indicate",
+   "ko": "나타내다",
+   "note": "어떤 사실을 보여준다는 뜻이에요."
+  },
+  {
+   "term": "spectacular",
+   "ko": "놀랍도록 멋진",
+   "note": "시각적으로 인상적인 것을 묘사해요."
+  },
+  {
+   "term": "trappers",
+   "ko": "모피 사냥꾼",
+   "note": "과거에 동물을 잡아 모피를 거래하던 사람들이에요."
+  },
+  {
+   "term": "curious scientists",
+   "ko": "호기심 많은 과학자들",
+   "note": "궁금증을 갖고 탐구하는 과학자를 뜻해요."
+  }
+ ]
+}

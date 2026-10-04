@@ -1,0 +1,626 @@
+{
+ "video_id": "Ez8-e_GRAJc",
+ "source_title": "NIH SciBites: How “Al Dente” is Your Dengue?",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 12.91,
+  "end": 39.29
+ },
+ "sentences": [
+  {
+   "text": "Dry pasta is hard and not very appetizing, but cook it for five to 10 minutes, and it becomes nice and soft.",
+   "chunks": [
+    {
+     "en": "Dry pasta is hard and not very appetizing,",
+     "ko": "말린 파스타는 딱딱하고 별로 맛있어 보이지 않지만,"
+    },
+    {
+     "en": "but cook it for five to 10 minutes,",
+     "ko": "5분에서 10분 정도 삶으면,"
+    },
+    {
+     "en": "and it becomes nice and soft.",
+     "ko": "부드럽고 맛있게 됩니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Dry",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pasta",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false,
+     "syl": "HARD"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "appetizing,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cook",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minutes,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "becomes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nice",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soft.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "cook it은 k 소리가 다음 모음과 이어져요.",
+   "start": 12.91,
+   "end": 19.13
+  },
+  {
+   "text": "Different kinds of pasta require different cooking times to reach the ideal al dente doneness that professional chefs are aiming for, where it's both flexible and not too soft.",
+   "chunks": [
+    {
+     "en": "Different kinds of pasta require different cooking times",
+     "ko": "파스타 종류마다 삶는 시간이 다른데"
+    },
+    {
+     "en": "to reach the ideal al dente doneness",
+     "ko": "이상적인 알 덴테 상태에 도달하려면 말이죠"
+    },
+    {
+     "en": "that professional chefs are aiming for,",
+     "ko": "전문 셰프들이 목표로 하는 그 상태요,"
+    },
+    {
+     "en": "where it's both flexible and not too soft.",
+     "ko": "탄력 있으면서도 너무 부드럽지는 않은 상태입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kinds",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pasta",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "require",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "times",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reach",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ideal",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "al",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dente",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "doneness",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "professional",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chefs",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "aiming",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flexible",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soft.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "ideal al은 l 소리가 다음 모음과 이어져요.",
+   "start": 19.13,
+   "end": 29.32
+  },
+  {
+   "text": "Cook any pasta for an hour, though, and it pretty much becomes mush.",
+   "chunks": [
+    {
+     "en": "Cook any pasta for an hour, though,",
+     "ko": "하지만 파스타를 한 시간 동안 삶으면,"
+    },
+    {
+     "en": "and it pretty much becomes mush.",
+     "ko": "거의 죽처럼 흐물흐물해집니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Cook",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "any",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pasta",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "hour,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "though,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "becomes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mush.",
+     "strong": true,
+     "link": false,
+     "syl": "MUSH"
+    }
+   ],
+   "tip": "an hour는 n 소리가 다음 모음과 이어져요.",
+   "start": 29.32,
+   "end": 32.96
+  },
+  {
+   "text": "That might be great for someone who has trouble with their teeth, but an Italian nonna would disown you for cooking your pasta that way.",
+   "chunks": [
+    {
+     "en": "That might be great for someone who has trouble with their teeth,",
+     "ko": "그건 치아가 안 좋은 사람에게는 좋을 수도 있지만,"
+    },
+    {
+     "en": "but an Italian nonna would disown you",
+     "ko": "이탈리아 할머니라면 여러분과 인연을 끊으실 거예요"
+    },
+    {
+     "en": "for cooking your pasta that way.",
+     "ko": "파스타를 그렇게 요리했다는 이유로 말이죠."
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "might",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trouble",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teeth,",
+     "strong": true,
+     "link": false,
+     "syl": "TEETH"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Italian",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nonna",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disown",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pasta",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "disown you는 n 소리가 다음 모음과 이어져요.",
+   "start": 32.96,
+   "end": 39.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happens to dry pasta after cooking it for 5 to 10 minutes?",
+   "options": [
+    "It becomes nice and soft",
+    "It stays hard",
+    "It turns into mush"
+   ],
+   "answer": 0,
+   "why": "첫 번째 문장에서 5분에서 10분 삶으면 부드러워진다고 설명합니다."
+  },
+  {
+   "q": "What do professional chefs aim for when cooking pasta?",
+   "options": [
+    "The ideal al dente doneness",
+    "The softest texture possible",
+    "The driest texture possible"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 전문 셰프들이 이상적인 알 덴테 상태를 목표로 한다고 말합니다."
+  },
+  {
+   "q": "What happens if pasta is cooked for a full hour?",
+   "options": [
+    "It pretty much becomes mush",
+    "It becomes perfectly al dente",
+    "It stays hard"
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 한 시간 삶으면 거의 죽처럼 된다고 설명합니다."
+  },
+  {
+   "q": "Who might appreciate very soft, overcooked pasta?",
+   "options": [
+    "Someone who has trouble with their teeth",
+    "Someone training for a marathon",
+    "A professional chef"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 치아가 안 좋은 사람에게는 좋을 수도 있다고 말합니다."
+  },
+  {
+   "q": "How does the segment describe an Italian nonna's reaction to badly cooked pasta?",
+   "options": [
+    "She would disown you",
+    "She would be proud",
+    "She wouldn't notice"
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 이탈리아 할머니라면 그렇게 요리한 사람과 인연을 끊을 것이라고 말합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "appetizing",
+   "ko": "맛있어 보이는",
+   "note": "음식이 먹고 싶게 보일 때 쓰는 형용사예요."
+  },
+  {
+   "term": "al dente",
+   "ko": "알 덴테(적당히 씹히는 정도)",
+   "note": "이탈리아어로 '씹히는 맛이 있는' 파스타 삶기 정도를 말해요."
+  },
+  {
+   "term": "doneness",
+   "ko": "익힌 정도",
+   "note": "음식이 얼마나 익었는지를 나타내는 명사예요."
+  },
+  {
+   "term": "pretty much",
+   "ko": "거의, 사실상",
+   "note": "구어체로 '거의 다'라는 뜻을 더해줄 때 써요."
+  },
+  {
+   "term": "mush",
+   "ko": "흐물흐물한 죽 같은 것",
+   "note": "너무 삶아서 뭉개진 음식 상태를 가리켜요."
+  }
+ ]
+}

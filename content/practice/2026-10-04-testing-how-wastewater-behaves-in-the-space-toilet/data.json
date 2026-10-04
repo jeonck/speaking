@@ -1,0 +1,576 @@
+{
+ "video_id": "BOvyerl_0cE",
+ "source_title": "Go/No-Go: NASA’s Space Toilet Explained",
+ "source_channel": "NASA",
+ "segment": {
+  "start": 44.21,
+  "end": 68.83
+ },
+ "sentences": [
+  {
+   "text": "And there's a lot of theory and textbook work done when you assume it's pure water.",
+   "chunks": [
+    {
+     "en": "And there's a lot of theory and textbook work done",
+     "ko": "이론과 교과서적인 작업이 많이 되어 있다"
+    },
+    {
+     "en": "when you assume it's pure water.",
+     "ko": "순수한 물이라고 가정할 때는."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "theory",
+     "strong": true,
+     "link": false,
+     "syl": "THEO"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "textbook",
+     "strong": true,
+     "link": false,
+     "syl": "TEXT"
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": false,
+     "syl": "WORK"
+    },
+    {
+     "w": "done",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "assume",
+     "strong": true,
+     "link": true,
+     "syl": "SUME"
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pure",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water.",
+     "strong": true,
+     "link": false,
+     "syl": "WA"
+    }
+   ],
+   "tip": "lot of, assume it's처럼 자음 뒤 모음 연결에 주의하세요.",
+   "start": 44.21,
+   "end": 49.15
+  },
+  {
+   "text": "But when you introduce the variable of it being wastewater, there's other complex phenomena that we don't quite yet understand that are factoring into that vent line.",
+   "chunks": [
+    {
+     "en": "But when you introduce the variable of it being wastewater,",
+     "ko": "하지만 그것이 폐수라는 변수를 도입하면,"
+    },
+    {
+     "en": "there's other complex phenomena that we don't quite yet understand",
+     "ko": "우리가 아직 제대로 이해하지 못하는 다른 복잡한 현상들이 있고"
+    },
+    {
+     "en": "that are factoring into that vent line.",
+     "ko": "그것들이 그 배출 라인에 영향을 미치고 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "introduce",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "variable",
+     "strong": true,
+     "link": false,
+     "syl": "VAR"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wastewater,",
+     "strong": true,
+     "link": false,
+     "syl": "WASTE"
+    },
+    {
+     "w": "there's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "complex",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phenomena",
+     "strong": true,
+     "link": false,
+     "syl": "NOM"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quite",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yet",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "understand",
+     "strong": true,
+     "link": false,
+     "syl": "STAND"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "factoring",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vent",
+     "strong": true,
+     "link": false,
+     "syl": "VENT"
+    },
+    {
+     "w": "line.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "that are, factoring into처럼 연음을 살려 읽어보세요.",
+   "start": 49.15,
+   "end": 57.49
+  },
+  {
+   "text": "We see the Blizzard! Cool!",
+   "chunks": [
+    {
+     "en": "We see the Blizzard!",
+     "ko": "블리자드가 보인다!"
+    },
+    {
+     "en": "Cool!",
+     "ko": "멋지다!"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Blizzard!",
+     "strong": true,
+     "link": false,
+     "syl": "BLIZZ"
+    },
+    {
+     "w": "Cool!",
+     "strong": true,
+     "link": false,
+     "syl": "COOL"
+    }
+   ],
+   "tip": "",
+   "start": 57.49,
+   "end": 59.39
+  },
+  {
+   "text": "This is a good opportunity to learn now on a shorter mission, if changes are needed to be made to the spacecraft, we have opportunities before Artemis III to make those changes.",
+   "chunks": [
+    {
+     "en": "This is a good opportunity to learn now on a shorter mission,",
+     "ko": "이것은 더 짧은 임무에서 지금 배울 수 있는 좋은 기회이고,"
+    },
+    {
+     "en": "if changes are needed to be made to the spacecraft,",
+     "ko": "만약 우주선에 변경이 필요하다면,"
+    },
+    {
+     "en": "we have opportunities before Artemis III to make those changes.",
+     "ko": "아르테미스 3호 전에 그런 변경을 할 기회가 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opportunity",
+     "strong": true,
+     "link": false,
+     "syl": "TU"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shorter",
+     "strong": true,
+     "link": false,
+     "syl": "SHORT"
+    },
+    {
+     "w": "mission,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "needed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spacecraft,",
+     "strong": true,
+     "link": false,
+     "syl": "SPACE"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "opportunities",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Artemis",
+     "strong": true,
+     "link": false,
+     "syl": "AR"
+    },
+    {
+     "w": "III",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "learn now, have opportunities처럼 연음에 유의하세요.",
+   "start": 59.39,
+   "end": 68.83
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happens when engineers assume the fluid is pure water?",
+   "options": [
+    "There's a lot of established theory and textbook work to rely on.",
+    "There's no information at all.",
+    "The spacecraft can't be tested."
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 순수한 물이라고 가정하면 이론과 교과서적인 작업이 많이 되어 있다고 말합니다."
+  },
+  {
+   "q": "What makes wastewater different from pure water in this system?",
+   "options": [
+    "It involves complex phenomena that aren't fully understood yet.",
+    "It freezes instantly at room temperature.",
+    "It behaves in exactly the same way as pure water."
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 폐수는 아직 제대로 이해하지 못한 복잡한 현상들을 포함한다고 설명합니다."
+  },
+  {
+   "q": "Why is a shorter mission a good opportunity?",
+   "options": [
+    "It lets the team learn and make changes before a bigger mission.",
+    "It uses less fuel than any other mission.",
+    "It requires no testing at all."
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 짧은 임무에서 배우고 우주선에 변경을 할 기회가 있다고 말합니다."
+  },
+  {
+   "q": "By when do they hope to make needed spacecraft changes?",
+   "options": [
+    "Before Artemis III.",
+    "Before Artemis I.",
+    "After Artemis III launches."
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 아르테미스 3호 전에 변경을 할 기회가 있다고 언급합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "textbook work",
+   "ko": "교과서적인(이론적인) 작업",
+   "note": "이미 잘 정립된 이론 연구를 뜻함."
+  },
+  {
+   "term": "wastewater",
+   "ko": "폐수",
+   "note": "사용되고 난 더러운 물."
+  },
+  {
+   "term": "phenomena",
+   "ko": "현상들",
+   "note": "phenomenon의 복수형."
+  },
+  {
+   "term": "factoring into",
+   "ko": "~에 영향을 미치다, 반영되다",
+   "note": "어떤 결과에 포함되어 작용한다는 뜻."
+  },
+  {
+   "term": "vent line",
+   "ko": "배출 라인",
+   "note": "기체나 액체를 밖으로 내보내는 통로."
+  }
+ ]
+}

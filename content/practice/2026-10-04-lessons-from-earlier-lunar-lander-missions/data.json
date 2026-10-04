@@ -1,0 +1,658 @@
+{
+ "video_id": "Sempwv5MPMQ",
+ "source_title": "NASA Moon Base: Lunar Landers (August 2026 Update)",
+ "source_channel": "NASA",
+ "segment": {
+  "start": 488.99,
+  "end": 514.08
+ },
+ "sentences": [
+  {
+   "text": "We're also doing other science.",
+   "chunks": [
+    {
+     "en": "We're also doing",
+     "ko": "우리는 또한 하고 있다"
+    },
+    {
+     "en": "other science.",
+     "ko": "다른 과학 연구도."
+    }
+   ],
+   "words": [
+    {
+     "w": "We're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": true,
+     "link": false,
+     "syl": "AL"
+    },
+    {
+     "w": "doing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science.",
+     "strong": true,
+     "link": false,
+     "syl": "SCI"
+    }
+   ],
+   "tip": "",
+   "start": 488.99,
+   "end": 490.69
+  },
+  {
+   "text": "So we have six commercial payloads, we have a payload from the Italian Space Agency, and we have the five NASA payloads doing lots of different types of science.",
+   "chunks": [
+    {
+     "en": "So we have six commercial payloads,",
+     "ko": "그래서 우리는 상업용 탑재물 6개를 가지고 있고,"
+    },
+    {
+     "en": "we have a payload from the Italian Space Agency,",
+     "ko": "이탈리아 우주국에서 온 탑재물도 하나 있으며,"
+    },
+    {
+     "en": "and we have the five NASA payloads doing lots of different types of science.",
+     "ko": "그리고 다양한 종류의 과학 연구를 수행하는 NASA의 탑재물 5개도 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "six",
+     "strong": true,
+     "link": false,
+     "syl": "SIX"
+    },
+    {
+     "w": "commercial",
+     "strong": true,
+     "link": false,
+     "syl": "MER"
+    },
+    {
+     "w": "payloads,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "payload",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Italian",
+     "strong": true,
+     "link": false,
+     "syl": "TAL"
+    },
+    {
+     "w": "Space",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Agency,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NASA",
+     "strong": true,
+     "link": false,
+     "syl": "NA"
+    },
+    {
+     "w": "payloads",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lots",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "types",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "science.",
+     "strong": true,
+     "link": false,
+     "syl": "SCI"
+    }
+   ],
+   "tip": "",
+   "start": 490.69,
+   "end": 500.77
+  },
+  {
+   "text": "And this is the third IM CLPS delivery.",
+   "chunks": [
+    {
+     "en": "And this is",
+     "ko": "그리고 이것은"
+    },
+    {
+     "en": "the third IM CLPS delivery.",
+     "ko": "세 번째 IM CLPS 배송이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "third",
+     "strong": true,
+     "link": true,
+     "syl": "THIRD"
+    },
+    {
+     "w": "IM",
+     "strong": true,
+     "link": false,
+     "syl": "IM"
+    },
+    {
+     "w": "CLPS",
+     "strong": true,
+     "link": false,
+     "syl": "CLPS"
+    },
+    {
+     "w": "delivery.",
+     "strong": true,
+     "link": false,
+     "syl": "LIV"
+    }
+   ],
+   "tip": "",
+   "start": 500.77,
+   "end": 503.34
+  },
+  {
+   "text": "Can you talk about some of the lessons learned from the previous two and how that's being applied to this one?",
+   "chunks": [
+    {
+     "en": "Can you talk about some of the lessons learned from the previous two",
+     "ko": "이전 두 번으로부터 배운 교훈들에 대해 이야기해 줄 수 있나요"
+    },
+    {
+     "en": "and how that's being applied to this one?",
+     "ko": "그리고 그것이 이번 것에 어떻게 적용되고 있는지도."
+    }
+   ],
+   "words": [
+    {
+     "w": "Can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talk",
+     "strong": true,
+     "link": true,
+     "syl": "TALK"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lessons",
+     "strong": true,
+     "link": false,
+     "syl": "LES"
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": false,
+     "syl": "LEARNED"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "previous",
+     "strong": true,
+     "link": false,
+     "syl": "VI"
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "applied",
+     "strong": true,
+     "link": false,
+     "syl": "PLIED"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 503.34,
+   "end": 507.07
+  },
+  {
+   "text": "Yeah, absolutely.",
+   "chunks": [
+    {
+     "en": "Yeah, absolutely.",
+     "ko": "네, 전적으로요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Yeah,",
+     "strong": true,
+     "link": false,
+     "syl": "YEAH"
+    },
+    {
+     "w": "absolutely.",
+     "strong": true,
+     "link": false,
+     "syl": "LUTE"
+    }
+   ],
+   "tip": "",
+   "start": 507.07,
+   "end": 507.74
+  },
+  {
+   "text": "So on IM-1, which was in 2024, and IM-2, which was in 2025, we learned lessons.",
+   "chunks": [
+    {
+     "en": "So on IM-1, which was in 2024,",
+     "ko": "그래서 2024년에 있었던 IM-1에서,"
+    },
+    {
+     "en": "and IM-2, which was in 2025,",
+     "ko": "그리고 2025년에 있었던 IM-2에서,"
+    },
+    {
+     "en": "we learned lessons.",
+     "ko": "우리는 교훈을 얻었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "IM-1,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2024,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "IM-2,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2025,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": false,
+     "syl": "LEARNED"
+    },
+    {
+     "w": "lessons.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "was in처럼 자음 뒤 모음 연결에 유의하세요.",
+   "start": 507.74,
+   "end": 512.38
+  },
+  {
+   "text": "We learned things about this spacecraft.",
+   "chunks": [
+    {
+     "en": "We learned things about this spacecraft.",
+     "ko": "우리는 이 우주선에 대해 많은 것을 배웠다."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": false,
+     "syl": "LEARNED"
+    },
+    {
+     "w": "things",
+     "strong": true,
+     "link": false,
+     "syl": "THINGS"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spacecraft.",
+     "strong": true,
+     "link": false,
+     "syl": "SPACE"
+    }
+   ],
+   "tip": "",
+   "start": 512.38,
+   "end": 514.08
+  }
+ ],
+ "questions": [
+  {
+   "q": "How many commercial payloads are on this mission?",
+   "options": [
+    "Six.",
+    "Two.",
+    "Ten."
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 상업용 탑재물이 6개라고 말합니다."
+  },
+  {
+   "q": "Besides NASA, which agency also has a payload on this mission?",
+   "options": [
+    "The Italian Space Agency.",
+    "The Japanese Space Agency.",
+    "The Canadian Space Agency."
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 이탈리아 우주국에서 온 탑재물도 있다고 설명합니다."
+  },
+  {
+   "q": "Which mission number is this delivery?",
+   "options": [
+    "The third IM CLPS delivery.",
+    "The first IM CLPS delivery.",
+    "The fifth IM CLPS delivery."
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 이것이 세 번째 IM CLPS 배송이라고 말합니다."
+  },
+  {
+   "q": "What years were the two previous IM missions?",
+   "options": [
+    "2024 and 2025.",
+    "2020 and 2021.",
+    "2026 and 2027."
+   ],
+   "answer": 0,
+   "why": "뒤쪽 문장에서 IM-1은 2024년, IM-2는 2025년이었다고 설명합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "commercial payloads",
+   "ko": "상업용 탑재물",
+   "note": "민간 업체가 실어 보내는 장비나 실험물."
+  },
+  {
+   "term": "delivery",
+   "ko": "배송, 전달",
+   "note": "여기서는 달 착륙선이 화물을 달에 전달하는 임무를 뜻함."
+  },
+  {
+   "term": "lessons learned",
+   "ko": "배운 교훈들",
+   "note": "이전 경험에서 얻은 교훈을 가리키는 관용 표현."
+  },
+  {
+   "term": "applied to",
+   "ko": "~에 적용된",
+   "note": "이전 지식이나 방법을 새로운 상황에 사용한다는 뜻."
+  }
+ ]
+}

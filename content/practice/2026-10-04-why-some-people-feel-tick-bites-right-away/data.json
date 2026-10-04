@@ -1,0 +1,584 @@
+{
+ "video_id": "iYsORJAQAfc",
+ "source_title": "NIH SciBites: Using Itch to Fight Ticks",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 42.26,
+  "end": 68.19
+ },
+ "sentences": [
+  {
+   "text": "Unfortunately, finding and removing a tick can be tough.",
+   "chunks": [
+    {
+     "en": "Unfortunately,",
+     "ko": "불행히도,"
+    },
+    {
+     "en": "finding and removing a tick",
+     "ko": "진드기를 찾아서 제거하는 것은"
+    },
+    {
+     "en": "can be tough.",
+     "ko": "힘들 수 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Unfortunately,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finding",
+     "strong": true,
+     "link": true,
+     "syl": "FIND"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "removing",
+     "strong": true,
+     "link": true,
+     "syl": "MOV"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tick",
+     "strong": true,
+     "link": false,
+     "syl": "TICK"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tough.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "find*ing and*, remov*ing a*처럼 자음 뒤에 모음이 오면 자연스럽게 이어 읽어요.",
+   "start": 42.26,
+   "end": 46.18
+  },
+  {
+   "text": "Ticks can be as small as a speck of pepper, and they like to hitch a ride on parts of the body where they can easily hide, like in your hair.",
+   "chunks": [
+    {
+     "en": "Ticks can be as small as a speck of pepper,",
+     "ko": "진드기는 후추 알만큼 작을 수 있고,"
+    },
+    {
+     "en": "and they like to hitch a ride on parts of the body",
+     "ko": "그리고 그것들은 몸의 부위에 올라타는 것을 좋아하는데"
+    },
+    {
+     "en": "where they can easily hide, like in your hair.",
+     "ko": "거기서 쉽게 숨을 수 있다, 예를 들어 머리카락 속처럼."
+    }
+   ],
+   "words": [
+    {
+     "w": "Ticks",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speck",
+     "strong": true,
+     "link": true,
+     "syl": "SPECK"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pepper,",
+     "strong": true,
+     "link": false,
+     "syl": "PEP"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hitch",
+     "strong": true,
+     "link": false,
+     "syl": "HITCH"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ride",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parts",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "easily",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hide,",
+     "strong": true,
+     "link": false,
+     "syl": "HIDE"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hair.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "speck of, ride on, parts of처럼 자음+모음 연결에 유의하세요.",
+   "start": 46.18,
+   "end": 54.23
+  },
+  {
+   "text": "But it turns out that some people can feel a tick on their body right away.",
+   "chunks": [
+    {
+     "en": "But it turns out",
+     "ko": "하지만 밝혀진 바로는"
+    },
+    {
+     "en": "that some people can feel a tick on their body",
+     "ko": "어떤 사람들은 몸에 진드기가 있는 것을 느낄 수 있다는 것이다"
+    },
+    {
+     "en": "right away.",
+     "ko": "바로."
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turns",
+     "strong": true,
+     "link": true,
+     "syl": "TURNS"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": true,
+     "syl": "FEEL"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tick",
+     "strong": true,
+     "link": true,
+     "syl": "TICK"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "away.",
+     "strong": true,
+     "link": false,
+     "syl": "WAY"
+    }
+   ],
+   "tip": "turns out, feel a, tick on처럼 연음을 살려 읽어보세요.",
+   "start": 54.23,
+   "end": 59.2
+  },
+  {
+   "text": "And in areas where tick bites are especially common, people who say they find tick bites really itchy have lower rates of Lyme disease.",
+   "chunks": [
+    {
+     "en": "And in areas where tick bites are especially common,",
+     "ko": "그리고 진드기에 물리는 일이 특히 흔한 지역에서는,"
+    },
+    {
+     "en": "people who say they find tick bites really itchy",
+     "ko": "진드기에 물린 것이 정말 가렵다고 말하는 사람들이"
+    },
+    {
+     "en": "have lower rates of Lyme disease.",
+     "ko": "라임병 발병률이 더 낮다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "areas",
+     "strong": true,
+     "link": false,
+     "syl": "AR"
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tick",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bites",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "especially",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "common,",
+     "strong": true,
+     "link": false,
+     "syl": "COM"
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "say",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tick",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bites",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "itchy",
+     "strong": true,
+     "link": false,
+     "syl": "ITCH"
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lower",
+     "strong": true,
+     "link": false,
+     "syl": "LOW"
+    },
+    {
+     "w": "rates",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Lyme",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disease.",
+     "strong": true,
+     "link": false,
+     "syl": "EASE"
+    }
+   ],
+   "tip": "rates of처럼 자음 뒤 모음으로 이어지는 소리에 주의하세요.",
+   "start": 59.2,
+   "end": 68.19
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why can it be hard to find and remove a tick?",
+   "options": [
+    "Ticks can be very small and hide on hard-to-see parts of the body.",
+    "Ticks move extremely fast across skin.",
+    "Ticks only appear at night."
+   ],
+   "answer": 0,
+   "why": "첫 두 문장에서 진드기는 후추 알만큼 작고 머리카락처럼 숨기 쉬운 곳에 올라탄다고 설명합니다."
+  },
+  {
+   "q": "What do some people notice about tick bites?",
+   "options": [
+    "They can feel the tick on their body right away.",
+    "They never feel anything from a tick bite.",
+    "They feel pain only after a week."
+   ],
+   "answer": 0,
+   "why": "세 번째 문장에서 일부 사람들은 몸에 진드기가 있는 것을 바로 느낀다고 합니다."
+  },
+  {
+   "q": "What is true about people who say tick bites feel really itchy?",
+   "options": [
+    "They tend to have lower rates of Lyme disease.",
+    "They tend to have higher rates of Lyme disease.",
+    "They are more likely to be bitten again."
+   ],
+   "answer": 0,
+   "why": "마지막 문장에서 가렵다고 느끼는 사람들이 라임병 발병률이 더 낮다고 합니다."
+  },
+  {
+   "q": "Where do ticks like to hide on the body?",
+   "options": [
+    "In your hair and other hard-to-see spots.",
+    "Only on your hands.",
+    "Only on your face."
+   ],
+   "answer": 0,
+   "why": "두 번째 문장에서 머리카락처럼 쉽게 숨을 수 있는 부위를 언급합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "hitch a ride",
+   "ko": "무언가에 편승하다, 얻어 타다",
+   "note": "진드기가 몸에 올라타는 모습을 비유적으로 표현한 말."
+  },
+  {
+   "term": "speck of pepper",
+   "ko": "후추 알 하나 (아주 작은 크기)",
+   "note": "크기를 비유할 때 쓰는 표현."
+  },
+  {
+   "term": "it turns out that",
+   "ko": "알고 보니 ~이다",
+   "note": "예상과 다른 사실을 소개할 때 쓰는 표현."
+  },
+  {
+   "term": "Lyme disease",
+   "ko": "라임병",
+   "note": "진드기에 의해 전염되는 질병 이름."
+  },
+  {
+   "term": "right away",
+   "ko": "즉시, 바로",
+   "note": "시간 지체 없이 바로 일어남을 뜻함."
+  }
+ ]
+}

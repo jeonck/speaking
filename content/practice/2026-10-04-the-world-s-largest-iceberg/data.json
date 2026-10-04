@@ -1,0 +1,374 @@
+{
+ "video_id": "qfFwKaKKgK0",
+ "source_title": "Massive Iceberg on the Loose (Image of the Week)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 6.54,
+  "end": 30.34
+ },
+ "sentences": [
+  {
+   "text": "Image of the Week.",
+   "chunks": [
+    {
+     "en": "Image of the Week.",
+     "ko": "이번 주의 이미지입니다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Image",
+     "strong": true,
+     "link": true,
+     "syl": "IM"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Week.",
+     "strong": true,
+     "link": false,
+     "syl": "WEEK"
+    }
+   ],
+   "tip": "Image of처럼 자음 뒤 모음이 오면 이어서 발음한다.",
+   "start": 6.54,
+   "end": 8.79
+  },
+  {
+   "text": "The world's largest iceberg floats freely in the Southern Ocean.",
+   "chunks": [
+    {
+     "en": "The world's largest iceberg",
+     "ko": "세계에서 가장 큰 빙하가"
+    },
+    {
+     "en": "floats freely in the Southern Ocean.",
+     "ko": "남극해에서 자유롭게 떠다닌다."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "largest",
+     "strong": true,
+     "link": true,
+     "syl": "LAR"
+    },
+    {
+     "w": "iceberg",
+     "strong": true,
+     "link": false,
+     "syl": "ICE"
+    },
+    {
+     "w": "floats",
+     "strong": true,
+     "link": false,
+     "syl": "FLOATS"
+    },
+    {
+     "w": "freely",
+     "strong": true,
+     "link": true,
+     "syl": "FREE"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Southern",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Ocean.",
+     "strong": true,
+     "link": false,
+     "syl": "O"
+    }
+   ],
+   "tip": "largest iceberg, freely in처럼 끝소리와 다음 모음을 이어서 발음한다.",
+   "start": 8.79,
+   "end": 13.29
+  },
+  {
+   "text": "Iceberg A23a is a 1,500 square mile ice mass larger than the state of Rhode Island.",
+   "chunks": [
+    {
+     "en": "Iceberg A23a is a 1,500 square mile ice mass",
+     "ko": "빙하 A23a는 1,500 평방마일 크기의 얼음덩어리로"
+    },
+    {
+     "en": "larger than the state of Rhode Island.",
+     "ko": "로드아일랜드 주보다 더 크다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Iceberg",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "A23a",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1,500",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "square",
+     "strong": true,
+     "link": false,
+     "syl": "SQUARE"
+    },
+    {
+     "w": "mile",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ice",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mass",
+     "strong": true,
+     "link": false,
+     "syl": "MASS"
+    },
+    {
+     "w": "larger",
+     "strong": true,
+     "link": false,
+     "syl": "LAR"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "state",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Rhode",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Island.",
+     "strong": true,
+     "link": false,
+     "syl": "I"
+    }
+   ],
+   "tip": "state of, Rhode Island처럼 자음 뒤 모음을 이어서 발음한다.",
+   "start": 13.29,
+   "end": 22.83
+  },
+  {
+   "text": "A23a weighs approximately 1 trillion tons and measures around 1,300 feet thick.",
+   "chunks": [
+    {
+     "en": "A23a weighs approximately 1 trillion tons",
+     "ko": "A23a는 약 1조 톤의 무게가 나가고"
+    },
+    {
+     "en": "and measures around 1,300 feet thick.",
+     "ko": "두께는 약 1,300피트에 달한다."
+    }
+   ],
+   "words": [
+    {
+     "w": "A23a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weighs",
+     "strong": true,
+     "link": false,
+     "syl": "WEIGHS"
+    },
+    {
+     "w": "approximately",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trillion",
+     "strong": true,
+     "link": false,
+     "syl": "TRIL"
+    },
+    {
+     "w": "tons",
+     "strong": true,
+     "link": true,
+     "syl": "TONS"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "measures",
+     "strong": true,
+     "link": false,
+     "syl": "MEA"
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1,300",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feet",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thick.",
+     "strong": true,
+     "link": false,
+     "syl": "THICK"
+    }
+   ],
+   "tip": "tons and처럼 끝소리와 다음 모음을 이어서 발음한다.",
+   "start": 22.83,
+   "end": 30.34
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where does the world's largest iceberg float?",
+   "options": [
+    "In the Southern Ocean",
+    "In the Atlantic Ocean",
+    "In the Arctic Ocean"
+   ],
+   "answer": 0,
+   "why": "floats freely in the Southern Ocean이라고 언급됨."
+  },
+  {
+   "q": "How does the size of iceberg A23a compare to Rhode Island?",
+   "options": [
+    "It is larger than the state",
+    "It is about the same size",
+    "It is smaller than the state"
+   ],
+   "answer": 0,
+   "why": "larger than the state of Rhode Island라고 언급됨."
+  },
+  {
+   "q": "Approximately how much does A23a weigh?",
+   "options": [
+    "About 1 trillion tons",
+    "About 1 million tons",
+    "About 1 billion tons"
+   ],
+   "answer": 0,
+   "why": "weighs approximately 1 trillion tons라고 언급됨."
+  },
+  {
+   "q": "About how thick is A23a?",
+   "options": [
+    "Around 1,300 feet",
+    "Around 130 feet",
+    "Around 13,000 feet"
+   ],
+   "answer": 0,
+   "why": "measures around 1,300 feet thick라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "floats freely",
+   "ko": "자유롭게 떠다니다",
+   "note": "고정되지 않고 움직이는 모습을 표현"
+  },
+  {
+   "term": "square mile",
+   "ko": "평방마일(면적 단위)",
+   "note": "넓이를 나타낼 때 사용"
+  },
+  {
+   "term": "larger than",
+   "ko": "~보다 더 큰",
+   "note": "크기를 비교하는 표현"
+  },
+  {
+   "term": "approximately",
+   "ko": "대략, 약",
+   "note": "정확하지 않은 수치 앞에 사용"
+  },
+  {
+   "term": "trillion",
+   "ko": "1조",
+   "note": "아주 큰 수를 나타내는 단위"
+  }
+ ]
+}

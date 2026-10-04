@@ -1,0 +1,485 @@
+{
+ "video_id": "nmiaDXi_KFQ",
+ "source_title": "National Parks in the History of Science: Island Biogeography",
+ "source_channel": "National Park Service",
+ "segment": {
+  "start": 254.62,
+  "end": 279.98
+ },
+ "sentences": [
+  {
+   "text": "Their experiment, along with later experiments, showed that small islands had fewer species than bigger islands.",
+   "chunks": [
+    {
+     "en": "Their experiment, along with later experiments,",
+     "ko": "그들의 실험은, 이후의 실험들과 함께,"
+    },
+    {
+     "en": "showed that small islands had fewer species",
+     "ko": "작은 섬들이 더 적은 종을 가지고 있음을 보여주었다"
+    },
+    {
+     "en": "than bigger islands.",
+     "ko": "큰 섬들보다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Their",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "experiment,",
+     "strong": true,
+     "link": false,
+     "syl": "PER"
+    },
+    {
+     "w": "along",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "later",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "experiments,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "showed",
+     "strong": true,
+     "link": false,
+     "syl": "SHOWED"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": true,
+     "syl": "SMALL"
+    },
+    {
+     "w": "islands",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fewer",
+     "strong": true,
+     "link": false,
+     "syl": "FEW"
+    },
+    {
+     "w": "species",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bigger",
+     "strong": true,
+     "link": true,
+     "syl": "BIG"
+    },
+    {
+     "w": "islands.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "small islands처럼 자음 뒤 모음이 이어질 때 두 단어를 붙여서 발음한다.",
+   "start": 254.62,
+   "end": 261.8
+  },
+  {
+   "text": "And faraway islands had fewer species than nearby islands.",
+   "chunks": [
+    {
+     "en": "And faraway islands had fewer species",
+     "ko": "그리고 멀리 있는 섬들은 더 적은 종을 가지고 있었다"
+    },
+    {
+     "en": "than nearby islands.",
+     "ko": "가까운 섬들보다."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "faraway",
+     "strong": true,
+     "link": false,
+     "syl": "WAY"
+    },
+    {
+     "w": "islands",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fewer",
+     "strong": true,
+     "link": false,
+     "syl": "FEW"
+    },
+    {
+     "w": "species",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearby",
+     "strong": true,
+     "link": false,
+     "syl": "BY"
+    },
+    {
+     "w": "islands.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "faraway, nearby는 둘 다 두 번째 음절에 강세가 온다.",
+   "start": 261.8,
+   "end": 266.43
+  },
+  {
+   "text": "That's because islands of different sizes and distances had different rates of extinction and immigration.",
+   "chunks": [
+    {
+     "en": "That's because islands of different sizes and distances",
+     "ko": "그것은 섬들이 크기와 거리가 다르기 때문인데"
+    },
+    {
+     "en": "had different rates of extinction and immigration.",
+     "ko": "멸종과 이주의 비율이 서로 달랐기 때문이다."
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "islands",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sizes",
+     "strong": true,
+     "link": true,
+     "syl": "SI"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "distances",
+     "strong": true,
+     "link": false,
+     "syl": "DIS"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rates",
+     "strong": true,
+     "link": true,
+     "syl": "RATES"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "extinction",
+     "strong": true,
+     "link": true,
+     "syl": "TINC"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "immigration.",
+     "strong": true,
+     "link": false,
+     "syl": "GRA"
+    }
+   ],
+   "tip": "rates of, extinction and처럼 끝소리와 다음 모음을 이어서 발음한다.",
+   "start": 266.43,
+   "end": 272.74
+  },
+  {
+   "text": "All of this is what the mathematical theory of island biogeography predicted.",
+   "chunks": [
+    {
+     "en": "All of this is what the mathematical theory",
+     "ko": "이 모든 것이 바로 그 수학적 이론이"
+    },
+    {
+     "en": "of island biogeography predicted.",
+     "ko": "섬 생물지리학이 예측한 것이었다."
+    }
+   ],
+   "words": [
+    {
+     "w": "All",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mathematical",
+     "strong": true,
+     "link": false,
+     "syl": "MAT"
+    },
+    {
+     "w": "theory",
+     "strong": true,
+     "link": false,
+     "syl": "THE"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "island",
+     "strong": true,
+     "link": false,
+     "syl": "I"
+    },
+    {
+     "w": "biogeography",
+     "strong": true,
+     "link": false,
+     "syl": "OG"
+    },
+    {
+     "w": "predicted.",
+     "strong": true,
+     "link": false,
+     "syl": "DICT"
+    }
+   ],
+   "tip": "mathematical, biogeography처럼 긴 단어는 강세가 있는 음절만 또렷하게 발음한다.",
+   "start": 272.74,
+   "end": 277.48
+  },
+  {
+   "text": "So the experiment confirmed the model.",
+   "chunks": [
+    {
+     "en": "So the experiment confirmed",
+     "ko": "그래서 그 실험은 확인시켜 주었다"
+    },
+    {
+     "en": "the model.",
+     "ko": "그 모델을."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experiment",
+     "strong": true,
+     "link": false,
+     "syl": "PER"
+    },
+    {
+     "w": "confirmed",
+     "strong": true,
+     "link": false,
+     "syl": "FIRMED"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "model.",
+     "strong": true,
+     "link": false,
+     "syl": "MOD"
+    }
+   ],
+   "tip": "confirmed, model처럼 핵심 명사와 동사에 강세를 주며 문장을 마무리한다.",
+   "start": 277.48,
+   "end": 279.98
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did small islands have compared to bigger islands?",
+   "options": [
+    "Fewer species",
+    "More species",
+    "The same number of species"
+   ],
+   "answer": 0,
+   "why": "small islands had fewer species than bigger islands라고 언급됨."
+  },
+  {
+   "q": "What did faraway islands have compared to nearby islands?",
+   "options": [
+    "Fewer species",
+    "More species",
+    "The same number of species"
+   ],
+   "answer": 0,
+   "why": "faraway islands had fewer species than nearby islands라고 언급됨."
+  },
+  {
+   "q": "What caused the differences in species numbers between islands, according to the segment?",
+   "options": [
+    "Different rates of extinction and immigration",
+    "Different climates",
+    "Different predators"
+   ],
+   "answer": 0,
+   "why": "had different rates of extinction and immigration이라고 설명됨."
+  },
+  {
+   "q": "What did the experiment confirm?",
+   "options": [
+    "The mathematical model of island biogeography",
+    "A new way to count species",
+    "A theory about weather patterns"
+   ],
+   "answer": 0,
+   "why": "the experiment confirmed the model이라고 마지막에 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fewer species",
+   "ko": "더 적은 종(수)",
+   "note": "비교 표현 than과 함께 자주 쓰임"
+  },
+  {
+   "term": "rates of extinction and immigration",
+   "ko": "멸종과 이주의 비율",
+   "note": "생물지리학에서 핵심이 되는 개념"
+  },
+  {
+   "term": "mathematical theory",
+   "ko": "수학적 이론",
+   "note": "수치 모델을 가리킬 때 사용"
+  },
+  {
+   "term": "island biogeography",
+   "ko": "섬 생물지리학",
+   "note": "섬의 생물 분포를 연구하는 학문"
+  },
+  {
+   "term": "confirmed the model",
+   "ko": "모델을 입증했다",
+   "note": "실험 결과가 이론과 일치함을 나타냄"
+  }
+ ]
+}

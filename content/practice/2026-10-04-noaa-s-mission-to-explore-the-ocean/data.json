@@ -1,0 +1,452 @@
+{
+ "video_id": "JB1kYcJLr6o",
+ "source_title": "NOAA Ocean Exploration: Going Deep in Search of Discovery",
+ "source_channel": "NOAA",
+ "segment": {
+  "start": 56.56,
+  "end": 82.88
+ },
+ "sentences": [
+  {
+   "text": "When NOAA was established in 1970, exploration was highlighted as one of the primary tasks for the newly minted agency.",
+   "chunks": [
+    {
+     "en": "When NOAA was established in 1970,",
+     "ko": "NOAA가 1970년에 설립되었을 때,"
+    },
+    {
+     "en": "exploration was highlighted",
+     "ko": "탐사가 강조되었어요"
+    },
+    {
+     "en": "as one of the primary tasks for the newly minted agency.",
+     "ko": "새로 만들어진 기관의 주요 임무 중 하나로"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NOAA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "established",
+     "strong": true,
+     "link": true,
+     "syl": "STAB"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1970,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "exploration",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "highlighted",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "primary",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tasks",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "newly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minted",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "agency.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "\"established in\", \"highlighted as\"처럼 끝 자음이 다음 모음과 이어져요.",
+   "start": 56.56,
+   "end": 65.92
+  },
+  {
+   "text": "As NOAA advanced, a vision and strategy for a national program to explore our unknown ocean was outlined, setting the stage for NOAA to continue with the delivery of vital ocean information needed to strengthen the economy, health and security of our nation.",
+   "chunks": [
+    {
+     "en": "As NOAA advanced,",
+     "ko": "NOAA가 발전하면서,"
+    },
+    {
+     "en": "a vision and strategy for a national program to explore our unknown ocean was outlined,",
+     "ko": "미지의 바다를 탐사할 국가 프로그램을 위한 비전과 전략이 수립되었고,"
+    },
+    {
+     "en": "setting the stage for NOAA to continue",
+     "ko": "NOAA가 계속해 나갈 토대를 마련했어요"
+    },
+    {
+     "en": "with the delivery of vital ocean information",
+     "ko": "중요한 해양 정보를 전달하는 것으로"
+    },
+    {
+     "en": "needed to strengthen the economy,",
+     "ko": "경제를 강화하는 데 필요한,"
+    },
+    {
+     "en": "health and security of our nation.",
+     "ko": "우리나라의 건강과 안보를 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NOAA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "advanced,",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vision",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strategy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "national",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "program",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "explore",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unknown",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "ocean",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "outlined,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "setting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stage",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "NOAA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "continue",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "delivery",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vital",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "ocean",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "information",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "needed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strengthen",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "economy,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "health",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "security",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nation.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "\"unknown ocean\", \"explore our\"처럼 끝 자음이 다음 모음과 자연스럽게 이어져요.",
+   "start": 65.92,
+   "end": 82.88
+  }
+ ],
+ "questions": [
+  {
+   "q": "When was NOAA established?",
+   "options": [
+    "In 1970",
+    "In 1945",
+    "In 1990"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 NOAA가 1970년에 설립되었다고 말해요."
+  },
+  {
+   "q": "What was highlighted as one of the primary tasks for the newly formed agency?",
+   "options": [
+    "Exploration",
+    "Weather forecasting only",
+    "Space travel"
+   ],
+   "answer": 0,
+   "why": "첫 문장에서 탐사가 주요 임무 중 하나로 강조되었다고 해요."
+  },
+  {
+   "q": "What was outlined as NOAA advanced?",
+   "options": [
+    "A vision and strategy for a national program to explore the unknown ocean",
+    "A plan to stop all ocean research",
+    "A new tax policy"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 앞부분에서 미지의 바다를 탐사할 국가 프로그램을 위한 비전과 전략이 수립되었다고 말해요."
+  },
+  {
+   "q": "What does NOAA's delivery of vital ocean information help strengthen?",
+   "options": [
+    "The economy, health, and security of the nation",
+    "Only the tourism industry",
+    "Only international trade"
+   ],
+   "answer": 0,
+   "why": "두 번째 문장 끝부분에서 경제, 건강, 안보를 강화하는 데 필요하다고 설명해요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "newly minted",
+   "ko": "새로 만들어진, 신설된",
+   "note": "원래 동전을 찍어낸다는 뜻의 mint에서 와서 '새로 생긴'이라는 의미로 쓰여요."
+  },
+  {
+   "term": "set the stage for",
+   "ko": "~을 위한 토대를 마련하다",
+   "note": "다음에 일어날 일을 준비한다는 뜻의 표현이에요."
+  },
+  {
+   "term": "vision and strategy",
+   "ko": "비전과 전략",
+   "note": "장기적인 목표(vision)와 그것을 이루는 계획(strategy)을 함께 가리켜요."
+  },
+  {
+   "term": "vital",
+   "ko": "필수적인, 매우 중요한",
+   "note": "생명을 뜻하는 vita에서 와서 '없으면 안 되는'이라는 뜻이에요."
+  },
+  {
+   "term": "strengthen the economy",
+   "ko": "경제를 강화하다",
+   "note": "강하게 만든다는 동사 strengthen과 함께 자주 쓰여요."
+  }
+ ]
+}

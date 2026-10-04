@@ -1,0 +1,651 @@
+{
+ "video_id": "-58gT5f1OOc",
+ "source_title": "Roaring Mountain (Yellowstone Monthly Update - May 2026)",
+ "source_channel": "USGS",
+ "segment": {
+  "start": 52.67,
+  "end": 77.87
+ },
+ "sentences": [
+  {
+   "text": "And it's not just about the hot ground.",
+   "chunks": [
+    {
+     "en": "And it's not just about",
+     "ko": "그리고 그것은 단지 ~에 대한 것만은 아니에요"
+    },
+    {
+     "en": "the hot ground.",
+     "ko": "뜨거운 땅뿐만은."
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": true,
+     "link": false,
+     "syl": "JUST"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hot",
+     "strong": true,
+     "link": false,
+     "syl": "HOT"
+    },
+    {
+     "w": "ground.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 52.67,
+   "end": 54.17
+  },
+  {
+   "text": "There's a number of hydrothermal explosion craters near here.",
+   "chunks": [
+    {
+     "en": "There's a number of hydrothermal explosion craters",
+     "ko": "여러 개의 열수 폭발 분화구가 있어요"
+    },
+    {
+     "en": "near here.",
+     "ko": "바로 이 근처에."
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "number",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hydrothermal",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "explosion",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "craters",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "near",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "here.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 54.17,
+   "end": 56.93
+  },
+  {
+   "text": "Semi Centennial Geyser, which exploded in 1922, is nearby and up on the plateau just above Roaring Mountain, there are several hydrothermal explosion craters, one of them, some at a distance of about half a mile.",
+   "chunks": [
+    {
+     "en": "Semi Centennial Geyser, which exploded in 1922,",
+     "ko": "1922년에 폭발했던 세미 센테니얼 가이저는,"
+    },
+    {
+     "en": "is nearby",
+     "ko": "근처에 있어요"
+    },
+    {
+     "en": "and up on the plateau just above Roaring Mountain,",
+     "ko": "그리고 로링 마운틴 바로 위 고원에는,"
+    },
+    {
+     "en": "there are several hydrothermal explosion craters,",
+     "ko": "여러 개의 열수 폭발 분화구가 있고,"
+    },
+    {
+     "en": "one of them, some at a distance of about half a mile.",
+     "ko": "그중 하나는, 약 반 마일 정도 거리에 있어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Semi",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Centennial",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Geyser,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exploded",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "1922,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearby",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plateau",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "above",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Roaring",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Mountain,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "several",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hydrothermal",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "explosion",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "craters,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "distance",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "half",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mile.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "exploded in에서 d가 뒤 모음과 연음되고, half a도 자연스럽게 이어져요.",
+   "start": 56.93,
+   "end": 68.87
+  },
+  {
+   "text": "So Roaring Mountain may not be quite as loud as it used to be.",
+   "chunks": [
+    {
+     "en": "So Roaring Mountain",
+     "ko": "그래서 로링 마운틴은"
+    },
+    {
+     "en": "may not be quite as loud",
+     "ko": "예전처럼 그렇게 시끄럽지는 않을 수도 있어요"
+    },
+    {
+     "en": "as it used to be.",
+     "ko": "예전에 그랬던 것처럼."
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Roaring",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Mountain",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quite",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "loud",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 68.87,
+   "end": 71.87
+  },
+  {
+   "text": "Still one of the most intensely hot thermal areas in all of Yellowstone.",
+   "chunks": [
+    {
+     "en": "Still one of the most intensely hot",
+     "ko": "여전히 가장 뜨겁고 강렬한"
+    },
+    {
+     "en": "thermal areas",
+     "ko": "열수 지역 중 하나예요"
+    },
+    {
+     "en": "in all of Yellowstone.",
+     "ko": "옐로스톤 전체에서."
+    }
+   ],
+   "words": [
+    {
+     "w": "Still",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "intensely",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "hot",
+     "strong": true,
+     "link": false,
+     "syl": "HOT"
+    },
+    {
+     "w": "thermal",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "areas",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Yellowstone.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "all of에서 l이 뒤 모음과 연음돼요.",
+   "start": 71.87,
+   "end": 76.29285714285714
+  },
+  {
+   "text": "That's the story from Roaring Mountain.",
+   "chunks": [
+    {
+     "en": "That's the story",
+     "ko": "그것이 이야기예요"
+    },
+    {
+     "en": "from Roaring Mountain.",
+     "ko": "로링 마운틴에서 온."
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "story",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Roaring",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "Mountain.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "",
+   "start": 76.29285714285714,
+   "end": 77.87
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is Roaring Mountain known for, besides hot ground?",
+   "options": [
+    "Hydrothermal explosion craters nearby",
+    "Active lava flows",
+    "A large waterfall"
+   ],
+   "answer": 0,
+   "why": "'There's a number of hydrothermal explosion craters near here.'에서 알 수 있어요."
+  },
+  {
+   "q": "When did Semi Centennial Geyser explode?",
+   "options": [
+    "In 1922",
+    "In 1950",
+    "In 2026"
+   ],
+   "answer": 0,
+   "why": "'which exploded in 1922'에서 확인돼요."
+  },
+  {
+   "q": "About how far away is one of the explosion craters?",
+   "options": [
+    "About half a mile",
+    "About ten miles",
+    "Right next to the trail"
+   ],
+   "answer": 0,
+   "why": "'some at a distance of about half a mile'에서 알 수 있어요."
+  },
+  {
+   "q": "Has Roaring Mountain gotten quieter over time?",
+   "options": [
+    "Yes, it may not be as loud as it used to be",
+    "No, it has gotten much louder",
+    "It has always been silent"
+   ],
+   "answer": 0,
+   "why": "'may not be quite as loud as it used to be'에서 설명돼요."
+  },
+  {
+   "q": "How does the area compare to other thermal areas in Yellowstone?",
+   "options": [
+    "It's still one of the most intensely hot thermal areas",
+    "It's the coldest area in the park",
+    "It's no longer thermally active"
+   ],
+   "answer": 0,
+   "why": "'Still one of the most intensely hot thermal areas in all of Yellowstone.'에서 확인돼요."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "hydrothermal explosion craters",
+   "ko": "열수 폭발 분화구",
+   "note": "뜨거운 물과 증기가 폭발적으로 터져 생긴 구덩이예요."
+  },
+  {
+   "term": "plateau",
+   "ko": "고원",
+   "note": "평평하고 높은 지형을 가리켜요."
+  },
+  {
+   "term": "distance of about half a mile",
+   "ko": "약 반 마일 정도의 거리",
+   "note": "half a mile은 약 0.8km에 해당해요."
+  },
+  {
+   "term": "intensely hot",
+   "ko": "강렬하게 뜨거운",
+   "note": "intensely는 정도를 강하게 나타내는 부사예요."
+  },
+  {
+   "term": "thermal areas",
+   "ko": "열수 지역",
+   "note": "온천이나 분화구처럼 지열 활동이 있는 지역이에요."
+  }
+ ]
+}

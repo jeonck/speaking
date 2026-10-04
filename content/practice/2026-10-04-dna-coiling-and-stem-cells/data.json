@@ -1,0 +1,493 @@
+{
+ "video_id": "fQn7CNJaZF8",
+ "source_title": "NIH SciBites: Pursuing Lab-Grown Organs Through Stem Cell Studies",
+ "source_channel": "National Institutes of Health (NIH)",
+ "segment": {
+  "start": 76.18,
+  "end": 100.88
+ },
+ "sentences": [
+  {
+   "text": "DNA is like a really long piece of yarn coiled into a ball, and in each type of cell, that ball of yarn is coiled a little bit differently.",
+   "chunks": [
+    {
+     "en": "DNA is like a really long piece of yarn",
+     "ko": "DNA는 정말 긴 실 한 가닥과 같아서"
+    },
+    {
+     "en": "coiled into a ball, and in each type of cell,",
+     "ko": "공처럼 감겨 있는데, 각 세포 종류마다"
+    },
+    {
+     "en": "that ball of yarn is coiled a little bit differently.",
+     "ko": "그 실뭉치가 조금씩 다르게 감겨 있다."
+    }
+   ],
+   "words": [
+    {
+     "w": "DNA",
+     "strong": true,
+     "link": false,
+     "syl": "A"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "piece",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yarn",
+     "strong": true,
+     "link": false,
+     "syl": "YARN"
+    },
+    {
+     "w": "coiled",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ball,",
+     "strong": true,
+     "link": true,
+     "syl": "BALL"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "type",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cell,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ball",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yarn",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coiled",
+     "strong": true,
+     "link": true,
+     "syl": "COILED"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bit",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "differently.",
+     "strong": true,
+     "link": false,
+     "syl": "DIF"
+    }
+   ],
+   "tip": "piece of, type of처럼 자음 뒤에 모음이 오면 끊지 않고 이어서 발음한다.",
+   "start": 76.18,
+   "end": 86.38
+  },
+  {
+   "text": "Since these unique coils of DNA help make a heart cell a heart cell or a lung cell a lung cell, stem cells need to change how their balls of yarn are coiled in order to eventually grow into a specific organ.",
+   "chunks": [
+    {
+     "en": "Since these unique coils of DNA",
+     "ko": "이 독특하게 감긴 DNA 코일들이"
+    },
+    {
+     "en": "help make a heart cell a heart cell or a lung cell a lung cell,",
+     "ko": "심장 세포를 심장 세포답게, 폐 세포를 폐 세포답게 만들어 주기 때문에,"
+    },
+    {
+     "en": "stem cells need to change how their balls of yarn are coiled",
+     "ko": "줄기세포는 자신의 실뭉치가 감긴 방식을 바꿔야 하는데"
+    },
+    {
+     "en": "in order to eventually grow into a specific organ.",
+     "ko": "결국 특정 기관으로 자라나기 위해서다."
+    }
+   ],
+   "words": [
+    {
+     "w": "Since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unique",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coils",
+     "strong": true,
+     "link": true,
+     "syl": "COILS"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "DNA",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heart",
+     "strong": true,
+     "link": false,
+     "syl": "HEART"
+    },
+    {
+     "w": "cell",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heart",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cell",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lung",
+     "strong": true,
+     "link": false,
+     "syl": "LUNG"
+    },
+    {
+     "w": "cell",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lung",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cell,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stem",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cells",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "change",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "balls",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yarn",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coiled",
+     "strong": true,
+     "link": true,
+     "syl": "COILED"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "order",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eventually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grow",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "specific",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "organ.",
+     "strong": true,
+     "link": false,
+     "syl": "OR"
+    }
+   ],
+   "tip": "heart cell, lung cell이 반복될 때는 두 번째를 약하게, 대조되는 핵심 단어만 강하게 읽는다.",
+   "start": 86.38,
+   "end": 100.88
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is DNA compared to in this segment?",
+   "options": [
+    "A piece of yarn coiled into a ball",
+    "A map of the body",
+    "A set of building blocks"
+   ],
+   "answer": 0,
+   "why": "DNA is like a really long piece of yarn coiled into a ball라고 설명됨."
+  },
+  {
+   "q": "What makes a heart cell different from a lung cell, according to the segment?",
+   "options": [
+    "The way their DNA coils are arranged",
+    "The size of the cell",
+    "The color of the cell"
+   ],
+   "answer": 0,
+   "why": "unique coils of DNA help make a heart cell a heart cell or a lung cell a lung cell라고 언급됨."
+  },
+  {
+   "q": "What do stem cells need to do to grow into a specific organ?",
+   "options": [
+    "Change how their DNA is coiled",
+    "Divide faster than other cells",
+    "Move to a different part of the body"
+   ],
+   "answer": 0,
+   "why": "stem cells need to change how their balls of yarn are coiled... grow into a specific organ라고 설명됨."
+  },
+  {
+   "q": "What does each type of cell have, according to the segment?",
+   "options": [
+    "A differently coiled ball of DNA",
+    "A unique color",
+    "A different number of organs"
+   ],
+   "answer": 0,
+   "why": "that ball of yarn is coiled a little bit differently라고 언급됨."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "coiled into a ball",
+   "ko": "공처럼 감긴",
+   "note": "DNA가 뭉쳐진 모양을 비유적으로 표현"
+  },
+  {
+   "term": "unique coils",
+   "ko": "독특한 코일(감긴 형태)",
+   "note": "세포마다 다른 DNA 배열을 가리킴"
+  },
+  {
+   "term": "stem cells",
+   "ko": "줄기세포",
+   "note": "다양한 세포로 분화할 수 있는 세포"
+  },
+  {
+   "term": "in order to",
+   "ko": "~하기 위해서",
+   "note": "목적을 나타내는 표현"
+  },
+  {
+   "term": "a specific organ",
+   "ko": "특정 기관",
+   "note": "구체적인 신체 기관을 가리킬 때 사용"
+  }
+ ]
+}
