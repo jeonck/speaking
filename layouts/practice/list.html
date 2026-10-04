@@ -39,52 +39,93 @@
   </div>
   {{- /* 실습마다 오디오 파형 카드 한 장 */}}
   {{- partial "practice_cards.html" $pages }}
+  {{- /* 쪽 나누기 — 채널·정렬이 적용된 결과를 12장씩. 스크립트가 없으면 전부 보인다 */}}
+  <nav class="list-pager" aria-label="쪽 이동" data-list-pager hidden></nav>
   {{- else }}
   {{- partial "practice_rows.html" $pages }}
   {{- end }}
 </div>
 <script>
+  /* 채널 거르기·정렬·쪽 나누기를 한 상태로 묶는다: 거른 뒤 정렬한 결과를 PER장씩 보여 준다.
+     쪽 번호는 주소(?page=)에 남겨 실습을 보고 돌아와도 같은 쪽으로 온다. */
   (function () {
-    var nav = document.querySelector("[data-list-filter]");
-    var badge = document.querySelector("[data-list-count]");
-    var cards = document.querySelectorAll(".practice-cards > li");
-    if (!nav || !cards.length) return;
-    nav.hidden = false;
-    nav.addEventListener("click", function (e) {
-      var chip = e.target.closest("[data-filter]");
-      if (!chip) return; // '주제별로 보기' 링크는 그대로 이동
-      var tag = chip.dataset.filter;
-      var shown = 0;
-      cards.forEach(function (li) {
-        var match = !tag || li.dataset.channel === tag;
-        li.hidden = !match;
-        if (match) shown++;
-      });
-      nav.querySelectorAll("[data-filter]").forEach(function (c) {
-        var on = c === chip;
-        c.classList.toggle("is-active", on);
-        c.setAttribute("aria-pressed", String(on));
-      });
-      if (badge) badge.textContent = tag ? "실습 " + shown + "개 / " + cards.length + "개" : "실습 " + cards.length + "개";
-    });
-  })();
-  /* 정렬: 처음 순서(최신순)를 기억해 두고, 짧은 구간부터는 길이로 다시 꽂는다 */
-  (function () {
-    var bar = document.querySelector("[data-list-sort]");
+    var PER = 12;
     var list = document.querySelector(".practice-cards");
-    if (!bar || !list) return;
+    var nav = document.querySelector("[data-list-filter]");
+    var bar = document.querySelector("[data-list-sort]");
+    var pager = document.querySelector("[data-list-pager]");
+    var badge = document.querySelector("[data-list-count]");
+    if (!list) return;
     var original = Array.prototype.slice.call(list.children);
-    bar.hidden = false;
-    bar.addEventListener("click", function (e) {
-      var btn = e.target.closest("[data-sort]");
-      if (!btn) return;
+    var params = new URLSearchParams(location.search);
+    var state = { channel: "", sort: "date", page: Math.max(1, parseInt(params.get("page"), 10) || 1) };
+
+    function render(scroll) {
       var items = original.slice();
-      if (btn.dataset.sort === "duration") {
-        items.sort(function (a, b) { return a.dataset.duration - b.dataset.duration; });
-      }
+      if (state.sort === "duration") items.sort(function (a, b) { return a.dataset.duration - b.dataset.duration; });
       items.forEach(function (li) { list.appendChild(li); });
-      bar.querySelectorAll("[data-sort]").forEach(function (b) { b.setAttribute("aria-pressed", String(b === btn)); });
+      var matched = items.filter(function (li) { return !state.channel || li.dataset.channel === state.channel; });
+      var pages = Math.max(1, Math.ceil(matched.length / PER));
+      state.page = Math.min(state.page, pages);
+      var from = (state.page - 1) * PER;
+      items.forEach(function (li) { li.hidden = true; });
+      matched.slice(from, from + PER).forEach(function (li) { li.hidden = false; });
+
+      if (badge) badge.textContent = state.channel ? "실습 " + matched.length + "개 / " + original.length + "개" : "실습 " + original.length + "개";
+      var url = new URL(location.href);
+      if (state.page > 1) url.searchParams.set("page", state.page); else url.searchParams.delete("page");
+      history.replaceState(null, "", url);
+
+      pager.hidden = pages < 2;
+      pager.textContent = "";
+      function btn(label, page, opts) {
+        var b = document.createElement("button");
+        b.type = "button"; b.className = "list-pager-btn" + (opts && opts.cls ? " " + opts.cls : "");
+        b.textContent = label; b.dataset.page = page;
+        if (opts && opts.label) b.setAttribute("aria-label", opts.label);
+        if (page === state.page && !(opts && opts.cls)) b.setAttribute("aria-current", "page");
+        if (page < 1 || page > pages) b.disabled = true;
+        pager.appendChild(b);
+      }
+      btn("이전", state.page - 1, { cls: "list-pager-step", label: "이전 쪽" });
+      for (var i = 1; i <= pages; i++) btn(String(i), i, { label: i + "쪽" });
+      btn("다음", state.page + 1, { cls: "list-pager-step", label: "다음 쪽" });
+      if (scroll) list.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+
+    pager.addEventListener("click", function (e) {
+      var b = e.target.closest("[data-page]");
+      if (!b || b.disabled) return;
+      state.page = Number(b.dataset.page);
+      render(true);
     });
+    if (nav) {
+      nav.hidden = false;
+      nav.addEventListener("click", function (e) {
+        var chip = e.target.closest("[data-filter]");
+        if (!chip) return; // '주제별로 보기' 링크는 그대로 이동
+        state.channel = chip.dataset.filter || "";
+        state.page = 1;
+        nav.querySelectorAll("[data-filter]").forEach(function (c) {
+          var on = c === chip;
+          c.classList.toggle("is-active", on);
+          c.setAttribute("aria-pressed", String(on));
+        });
+        render(false);
+      });
+    }
+    if (bar) {
+      bar.hidden = false;
+      bar.addEventListener("click", function (e) {
+        var b = e.target.closest("[data-sort]");
+        if (!b) return;
+        state.sort = b.dataset.sort;
+        state.page = 1;
+        bar.querySelectorAll("[data-sort]").forEach(function (x) { x.setAttribute("aria-pressed", String(x === b)); });
+        render(false);
+      });
+    }
+    render(false);
   })();
 </script>
 {{- end }}

@@ -938,6 +938,19 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 .tag-chip--more { background: transparent; border-style: dashed; color: var(--primary); }
 .tag-chip--more:hover { color: var(--primary); }
 .practice-cards > li[hidden] { display: none; }
+/* 쪽 이동 — 단계 탭과 같은 회색 트랙 위 알약들, 지금 쪽은 잉크 */
+.list-pager[hidden] { display: none; }
+.list-pager { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.35rem; margin: 2.5rem 0 0; }
+.list-pager-btn {
+  min-width: 40px; min-height: 40px; padding: 0 0.75rem; border-radius: 9999px; cursor: pointer;
+  border: 1px solid var(--pr-rule-strong); background: var(--pr-paper); color: var(--primary);
+  font: inherit; font-size: 0.875rem; font-weight: 500; font-variant-numeric: tabular-nums;
+}
+.list-pager-btn:hover:not(:disabled) { border-color: var(--primary); }
+.list-pager-btn[aria-current="page"] { background: var(--pr-ink); border-color: var(--pr-ink); color: var(--pr-ink-on); }
+.list-pager-btn:disabled { opacity: 0.4; cursor: default; }
+.list-pager-btn:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 2px; }
+.list-pager-step { padding: 0 1rem; }
 .tag-chip--more:hover { color: var(--pr-ink-on); }
 .tag-chip:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
 
