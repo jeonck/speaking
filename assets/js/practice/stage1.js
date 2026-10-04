@@ -10,7 +10,7 @@ export function mountStage1(panel, ctx) {
     ${goalCard(`${seconds}초 안에 끝까지 읽고 이해하기`, "원어민이 말하는 속도로 이해할 수 있어야 귀로도 들립니다. 거꾸로 돌아가 읽지 말고 앞에서부터 쭉 읽어 보세요.")}
     <div class="pr-cover">
       ${redactedLines(data.sentences)}
-      <button class="pr-start pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 읽기 시작</button>
+      <button class="pr-start pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 직독직해 시작</button>
       <p class="pr-cover-hint">누르면 원고가 보이고 ${seconds}초 타이머가 흐르기 시작해요.</p>
     </div>
     <div class="pr-timer-row" hidden>

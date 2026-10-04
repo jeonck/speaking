@@ -312,10 +312,24 @@ body.list { background: var(--pr-desk); }
 .pr-chip--stuck[aria-pressed="true"] { border-color: var(--pr-warn); background: var(--pr-warn-soft); color: var(--pr-warn); }
 
 /* ---------- 2단계 녹음 ---------- */
+/* 녹음 바 — 원고를 읽으며 바로 누를 수 있게 화면 아래에 붙는다(sticky).
+   왼쪽 녹음 버튼, 오른쪽에 목표·타이머 / 파형 / 시간 막대를 겹쳐 높이를 줄인다. */
 .pr-record-card {
-  display: flex; flex-direction: column; gap: 1rem;
-  padding: 1.5rem; border-radius: 16px; border: 1px solid var(--pr-rule); background: var(--pr-paper); box-shadow: var(--pr-shadow);
+  position: sticky; bottom: 12px; z-index: 5;
+  display: grid; grid-template-columns: auto 1fr; align-items: center;
+  grid-template-areas: "btn head" "btn wave" "btn bar" "note note";
+  column-gap: 1.25rem; row-gap: 0.35rem;
+  padding: 0.85rem 1.25rem; border-radius: 16px; border: 1px solid var(--pr-rule); background: var(--pr-paper);
+  box-shadow: 0 -2px 0 var(--pr-desk), 0 12px 40px rgba(0, 0, 0, 0.12);
 }
+.pr-record-card > .pr-record { grid-area: btn; }
+.pr-record-card > .pr-record-head { grid-area: head; }
+.pr-record-card > .pr-wave { grid-area: wave; height: 32px; padding: 0; }
+.pr-record-card > .pr-timebar { grid-area: bar; }
+.pr-record-card > .pr-notice { grid-area: note; margin-top: 0.4rem; }
+.pr-record-card .practice-timer { font-size: 1.5rem; }
+/* 녹음이 끝나 버튼이 사라지면 한 열로 */
+.pr-record-card:has(> .pr-record[hidden]) { grid-template-columns: 1fr; grid-template-areas: "head" "wave" "bar" "note"; }
 .pr-record-head { display: flex; justify-content: space-between; align-items: center; color: var(--secondary); }
 .pr-record-head b { color: var(--primary); font-weight: 600; }
 .pr-record-card.is-recording { border-color: var(--pr-pencil); }
@@ -477,7 +491,11 @@ body.list { background: var(--pr-desk); }
   .practice-tab { flex-direction: column; gap: 0.25rem; min-height: 56px; border-radius: 16px; font-size: 0.75rem; }
   .pr-check-row { flex-direction: column; align-items: stretch; gap: 0.75rem; }
   .pr-check-group .pr-chip { flex: 1; }
-  .practice-panel > .pr-btn, .pr-check > .pr-btn, .pr-questions > .pr-btn, .pr-record-card > .pr-btn { align-self: stretch; }
+  .practice-panel > .pr-btn, .pr-check > .pr-btn, .pr-questions > .pr-btn { align-self: stretch; }
+  /* 녹음 바는 좁은 화면에서도 버튼을 왼쪽에 작게 둔다 */
+  .pr-record-card { column-gap: 0.9rem; padding: 0.75rem 0.9rem; bottom: 8px; }
+  .pr-record-card > .pr-btn--lg { width: auto; min-height: 44px; padding: 0.6rem 1rem; font-size: 0.9375rem; }
+  .pr-record-card .practice-timer { font-size: 1.25rem; min-width: 0; }
   .pr-script, .pr-full-script { padding: 0.25rem 1.1rem; }
   .pr-sentence-row { font-size: 1.15rem; }
   .pr-script > .pr-sentence-row:not(.pr-play-row)::before { line-height: calc(1.15rem * 1.85); }
