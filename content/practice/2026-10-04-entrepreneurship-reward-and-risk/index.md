@@ -1,8 +1,8 @@
 ---
 title: "Entrepreneurship: Reward and Risk"
 date: 2026-10-04T11:07:22.714457+09:00
-summary: "The segment explains that while entrepreneurship can be a rewarding career that generates money and opportunities for others, it carries the significant risk of taking a long time to become profitable, making careful planning essential."
-tags: ["business-english", "entrepreneurship", "risk"]
+summary: "Starting a business can be a great career and creates chances for others too. The risk is that money can take a long time to come, so you have to plan for it."
+tags: ["business-english", "entrepreneurship", "careers"]
 video_id: "qx2R3jni0RI"
-duration: 25
+duration: 23
 ---
