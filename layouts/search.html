@@ -64,23 +64,32 @@
       if (text != null) n.textContent = text;
       return n;
     }
-    // 검색어가 든 원고 문장들 — 전체 검색어가 먼저, 없으면 3글자 이상 낱말로
+    function esc(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+    // 검색어가 든 원고 문장들 — 전체 검색어가 먼저, 없으면 3글자 이상 낱말로.
+    // 낱말 단위(the가 then에 걸리지 않게)로 먼저 찾고, 없으면 낱말 일부로
     function hits(m, q) {
       var lines = m.lines || [];
       var words = [q].concat(q.split(/\s+/).filter(function (w) { return w.length >= 3; }));
-      for (var i = 0; i < words.length; i++) {
-        var w = words[i].toLowerCase();
-        var found = lines.filter(function (l) { return l.toLowerCase().indexOf(w) >= 0; });
-        if (found.length) return { word: w, lines: found };
+      for (var pass = 0; pass < 2; pass++) {
+        for (var i = 0; i < words.length; i++) {
+          var re = new RegExp(pass ? esc(words[i]) : "\\b" + esc(words[i]) + "\\b", "gi");
+          var found = lines.filter(function (l) { re.lastIndex = 0; return re.test(l); });
+          if (found.length) return { re: re, lines: found };
+        }
       }
       return null;
     }
-    // 검색어 부분만 <mark>로 감싼 문장
-    function hitLine(line, w) {
-      var at = line.toLowerCase().indexOf(w);
+    // 맞은 곳마다 <mark>로 감싼 문장
+    function hitLine(line, re) {
       var p = el("p", "search-hit-line");
       p.lang = "en";
-      p.append(line.slice(0, at), el("mark", null, line.slice(at, at + w.length)), line.slice(at + w.length));
+      var last = 0, m;
+      re.lastIndex = 0;
+      while ((m = re.exec(line))) {
+        p.append(line.slice(last, m.index), el("mark", null, m[0]));
+        last = m.index + m[0].length;
+      }
+      p.append(line.slice(last));
       return p;
     }
     function enrich() {
@@ -105,7 +114,7 @@
         }
         if (h) {
           var box = el("div", "search-hits");
-          h.lines.slice(0, 2).forEach(function (l) { box.append(hitLine(l, h.word)); });
+          h.lines.slice(0, 2).forEach(function (l) { box.append(hitLine(l, h.re)); });
           li.append(box);
         } else if (m.summary) {
           li.append(el("p", "search-hit-summary", m.summary));
@@ -116,6 +125,10 @@
     function update() {
       var q = input.value.trim();
       var n = list.children.length;
+      // 주소에 검색어를 남겨 공유·뒤로 가기에도 결과가 그대로
+      var url = new URL(location.href);
+      if (q) url.searchParams.set("q", q); else url.searchParams.delete("q");
+      history.replaceState(null, "", url);
       if (idle) idle.hidden = q !== "";
       if (!q) { status.hidden = true; return; }
       status.hidden = false;
@@ -127,6 +140,20 @@
     input.addEventListener("input", function () { setTimeout(update, 250); });
     input.addEventListener("search", function () { setTimeout(update, 0); });
     new MutationObserver(function () { enrich(); update(); }).observe(list, { childList: true });
+
+    // ?q=로 들어오면 그 검색어로 바로 찾는다. 테마의 색인 준비 완료 신호가 없어 결과가 나올 때까지 몇 번 다시 시도
+    var initial = new URLSearchParams(location.search).get("q");
+    if (initial) {
+      input.value = initial;
+      if (idle) idle.hidden = true;
+      window.addEventListener("load", function () {
+        var tries = 0;
+        (function run() {
+          input.dispatchEvent(new Event("input", { bubbles: true }));
+          if (!list.children.length && ++tries < 10) setTimeout(run, 300);
+        })();
+      });
+    }
 
     if (idle) {
       idle.addEventListener("click", function (e) {
