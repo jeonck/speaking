@@ -820,6 +820,12 @@ body.list { background: var(--pr-desk); }
 }
 .tag-chip:hover { border-color: var(--primary); }
 .tag-chip--more { background: var(--pr-ink); border-color: var(--pr-ink); color: var(--pr-ink-on); }
+/* 거르기 칩 — 고른 주제는 잉크 알약 */
+.tag-chip.is-active { background: var(--pr-ink); border-color: var(--pr-ink); color: var(--pr-ink-on); }
+.tag-chip.is-active:hover { color: var(--pr-ink-on); }
+.tag-chip--more { background: transparent; border-style: dashed; color: var(--primary); }
+.tag-chip--more:hover { color: var(--primary); }
+.practice-cards > li[hidden] { display: none; }
 .tag-chip--more:hover { color: var(--pr-ink-on); }
 .tag-chip:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
 

@@ -3,15 +3,17 @@
 <div class="pr-home pr-home--list pr-home--wide">
   <header class="practice-header list-hero">
     {{ partial "breadcrumbs.html" . }}
-    <p class="practice-meta"><span class="pr-badge">실습 {{ len $pages }}개</span></p>
+    <p class="practice-meta"><span class="pr-badge" data-list-count>실습 {{ len $pages }}개</span></p>
     <h1 class="home-title">실습 목록</h1>
     <p class="home-lede">유튜브 구간마다 한 장씩, 최신 순서로 정리돼 있어요.</p>
   </header>
 
   {{- with site.Taxonomies.tags.ByCount }}
-  <nav class="list-topics" aria-label="주제별로 보기">
-    <span class="list-topics-title">주제별로 보기</span>
-    {{- range first 8 . }}<a class="tag-chip" href="{{ .Page.RelPermalink }}">{{ partial "tag_name.html" .Page.Data.Term }}</a>{{ end }}
+  {{- /* 주제 칩은 같은 페이지에서 카드를 거른다(스크립트 없으면 주제 페이지 링크) */}}
+  <nav class="list-topics" aria-label="주제로 거르기" data-list-filter>
+    <span class="list-topics-title">주제로 거르기</span>
+    <a class="tag-chip is-active" href="{{ $.RelPermalink }}" data-filter="" aria-pressed="true">전체</a>
+    {{- range first 8 . }}<a class="tag-chip" href="{{ .Page.RelPermalink }}" data-filter="{{ .Page.Data.Term }}" aria-pressed="false">{{ partial "tag_name.html" .Page.Data.Term }}</a>{{ end }}
     {{- if gt (len .) 8 }}<a class="tag-chip tag-chip--more" href="{{ "tags/" | relURL }}">모든 주제 {{ len . }}개</a>{{ end }}
   </nav>
   {{- end }}
@@ -23,4 +25,30 @@
   {{- partial "practice_rows.html" $pages }}
   {{- end }}
 </div>
+<script>
+  (function () {
+    var nav = document.querySelector("[data-list-filter]");
+    var badge = document.querySelector("[data-list-count]");
+    var cards = document.querySelectorAll(".practice-cards > li");
+    if (!nav || !cards.length) return;
+    nav.addEventListener("click", function (e) {
+      var chip = e.target.closest("[data-filter]");
+      if (!chip) return; // '모든 주제' 링크는 그대로 이동
+      e.preventDefault();
+      var tag = chip.dataset.filter;
+      var shown = 0;
+      cards.forEach(function (li) {
+        var match = !tag || (" " + li.dataset.tags + " ").indexOf(" " + tag + " ") >= 0;
+        li.hidden = !match;
+        if (match) shown++;
+      });
+      nav.querySelectorAll("[data-filter]").forEach(function (c) {
+        var on = c === chip;
+        c.classList.toggle("is-active", on);
+        c.setAttribute("aria-pressed", String(on));
+      });
+      if (badge) badge.textContent = tag ? "실습 " + shown + "개 / " + cards.length + "개" : "실습 " + cards.length + "개";
+    });
+  })();
+</script>
 {{- end }}

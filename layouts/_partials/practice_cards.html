@@ -3,7 +3,7 @@
     {{- range . }}
     {{- $data := false }}
     {{- with .Resources.Get "data.json" }}{{ $data = . | transform.Unmarshal }}{{ end }}
-    <li>
+    <li data-tags="{{ delimit (.Params.tags | default slice) " " }}">
       <a class="practice-card" href="{{ .RelPermalink }}">
         <span class="practice-card-badges">
           <span class="pr-badge">{{ .Date.Format "1월 2일" }}</span>
