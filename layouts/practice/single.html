@@ -1,29 +1,37 @@
 {{- define "main" }}
+{{- $dataFile := .Resources.Get "data.json" }}
+{{- $data := false }}{{ with $dataFile }}{{ $data = . | transform.Unmarshal }}{{ end }}
 <article class="practice-page">
   <header class="practice-header">
     {{ partial "breadcrumbs.html" . }}
     <p class="practice-meta">
       <span class="pr-badge">{{ .Date.Format "2006년 1월 2일" }}</span>
       {{- with .Params.duration }}<span class="pr-badge">{{ . }}초 구간</span>{{ end }}
+      {{- with $data }}<span class="pr-badge">{{ len .sentences }}문장</span>{{ end }}
     </p>
     <h1>{{ .Title }}</h1>
     {{- with .Params.summary }}
     <p class="practice-summary">{{ . }}</p>
     {{- end }}
+    {{- /* 주제 — 누르면 같은 주제의 실습으로 */}}
+    {{- with .GetTerms "tags" }}
+    <p class="practice-topics">
+      {{- range . }}<a class="tag-chip tag-chip--sm" href="{{ .RelPermalink }}">{{ partial "tag_name.html" .Data.Term }}</a>{{ end }}
+    </p>
+    {{- end }}
     {{- /* 출처: 원본 영상 제목 + 구간 시작 시각으로 바로 가는 링크 */}}
-    {{- with .Resources.Get "data.json" }}{{ with (. | transform.Unmarshal) }}{{ if .source_title }}
+    {{- with $data }}{{ if .source_title }}
     <p class="practice-source">
       <span>출처</span>
       <a href="https://www.youtube.com/watch?v={{ .video_id }}&t={{ int .segment.start }}s" rel="noopener" target="_blank">{{ .source_title }}</a>
     </p>
-    {{- end }}{{ end }}{{ end }}
+    {{- end }}{{ end }}
   </header>
 
   <div id="practice-root" data-video-id="{{ .Params.video_id }}"></div>
 
-  {{- $dataFile := .Resources.Get "data.json" }}
-  {{- if $dataFile }}
-  <script type="application/json" id="practice-data">{{ $dataFile.Content | safeJS }}</script>
+  {{- with $dataFile }}
+  <script type="application/json" id="practice-data">{{ .Content | safeJS }}</script>
   {{- end }}
 
   {{- $js := resources.Get "js/practice/main.js" }}
@@ -32,4 +40,16 @@
   <script src="{{ $built.RelPermalink }}" defer></script>
   {{- end }}
 </article>
+
+{{- /* 다 끝낸 뒤 이어 갈 실습 — 최신 순 두 개 */}}
+{{- $others := where (where site.RegularPages "Section" "practice").ByDate.Reverse "RelPermalink" "ne" .RelPermalink }}
+{{- with first 2 $others }}
+<section class="practice-next" aria-labelledby="practice-next-title">
+  <div class="practice-next-head">
+    <h2 id="practice-next-title" class="pr-section-title">다른 실습</h2>
+    {{- with site.GetPage "/practice" }}<a class="pr-btn pr-btn--secondary pr-btn--sm" href="{{ .RelPermalink }}">모든 실습</a>{{ end }}
+  </div>
+  {{- partial "practice_cards.html" . }}
+</section>
+{{- end }}
 {{- end }}

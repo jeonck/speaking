@@ -80,7 +80,9 @@ export function initPractice(root, data, slug) {
   function renderProgress() {
     progress.innerHTML =
       `<div class="pr-progress-text"><span>오늘 <b>${ctx.attemptNumber}회째</b> 연습</span>` +
-      `<span>${STAGES.length}단계 중 <b>${done.size}</b>단계 완료</span></div>`;
+      `<span>${STAGES.length}단계 중 <b>${done.size}</b>단계 완료</span></div>` +
+      // 단계마다 한 칸 — 끝낸 단계는 잉크로 채운다
+      `<div class="pr-progress-bar" aria-hidden="true">${STAGES.map((s) => `<span${done.has(s.id) ? ' class="is-done"' : ""}></span>`).join("")}</div>`;
   }
 
   // 단계가 결과를 남기면 탭에 ✓를 달고 진행도를 올린다

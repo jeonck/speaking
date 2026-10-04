@@ -127,6 +127,13 @@ body.list { background: var(--pr-desk); }
   margin: 1rem 0 0; max-width: 60ch;
   font-size: 1.0625rem; line-height: 1.6; color: var(--pr-body);
 }
+.practice-topics { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1.1rem 0 0; }
+.tag-chip.tag-chip--sm { min-height: 30px; padding: 0 0.8rem; font-size: 0.8125rem; }
+.tag-chip.tag-chip--sm:hover { border-color: var(--primary); }
+/* 실습 아래 — 이어 갈 실습 두 장 */
+.practice-next { margin-top: 5rem; padding-top: 3rem; border-top: 1px solid var(--pr-rule); }
+.practice-next-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 1rem; margin-bottom: 1.5rem; }
+.practice-next-head .pr-section-title { margin: 0; }
 
 /* ---------- 버튼: 잉크 알약 / 테두리 알약 ---------- */
 .pr-btn {
@@ -170,6 +177,9 @@ body.list { background: var(--pr-desk); }
 /* ---------- 진행도 + 단계 레일 ---------- */
 .pr-progress-text { display: flex; justify-content: space-between; font-size: 0.875rem; color: var(--secondary); }
 .pr-progress-text b { color: var(--primary); font-weight: 600; }
+.pr-progress-bar { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; margin-top: 0.6rem; }
+.pr-progress-bar span { height: 3px; border-radius: 9999px; background: var(--pr-rule-strong); transition: background 0.3s ease; }
+.pr-progress-bar span.is-done { background: var(--pr-ink); }
 
 /* 단계 탭: 회색 트랙 안의 알약 세그먼트 — 지금 단계는 흰 알약이 떠오르고, 끝낸 단계는 ✓ */
 .practice-tabs {
