@@ -113,12 +113,15 @@ class WritePracticeBundleTest(unittest.TestCase):
                 shutil.rmtree(path)
 
     def test_writes_index_and_data_json(self):
-        path = generate.write_practice_bundle(self.item, self.result, "Original Title", self.now)
+        path = generate.write_practice_bundle(
+            self.item, self.result, "Original Title", self.now, "NOAA Channel"
+        )
         self.created.append(path.parent)
         self.assertTrue(path.exists())
         data = json.loads((path.parent / "data.json").read_text())
         self.assertEqual(data["video_id"], "7KMo8GOwg78")
         self.assertEqual(data["source_title"], "Original Title")
+        self.assertEqual(data["source_channel"], "NOAA Channel")
         self.assertEqual(data["sentences"][0]["start"], 0.0)
 
     def test_script_close_tag_in_data_is_escaped(self):

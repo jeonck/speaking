@@ -119,10 +119,22 @@ body.list { background: var(--pr-desk); }
   display: inline-flex; align-items: center; padding: 0.3rem 0.7rem; border-radius: 9999px;
   background: var(--pr-surface); color: var(--primary); font-size: 0.8125rem; font-weight: 500;
 }
-.practice-source { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem; margin: 0.9rem 0 0; font-size: 0.875rem; color: var(--secondary); }
-.practice-source a { color: var(--pr-body); text-decoration: underline; text-decoration-color: var(--pr-rule-strong); text-underline-offset: 4px; }
-.practice-source a:hover { color: var(--primary); text-decoration-color: var(--primary); }
-.practice-source a::after { content: " ↗"; font-size: 0.8em; }
+/* 출처 카드 — 재생 원 + 채널/영상 제목 + 구간 배지. 원본으로 가는 오디오 칩처럼 */
+.practice-source {
+  display: inline-flex; align-items: center; gap: 0.75rem; max-width: 100%; margin: 1.1rem 0 0; padding: 0.55rem 0.75rem 0.55rem 0.55rem;
+  border: 1px solid var(--pr-rule); border-radius: 14px; background: var(--pr-paper); color: inherit; text-decoration: none; box-shadow: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.practice-source:hover { border-color: var(--pr-rule-strong); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06); }
+.practice-source:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
+.practice-source-play {
+  display: inline-flex; align-items: center; justify-content: center; flex: none; width: 32px; height: 32px; border-radius: 50%;
+  background: var(--pr-ink); color: var(--pr-ink-on); padding-left: 2px;
+}
+.practice-source-main { display: flex; flex-direction: column; min-width: 0; line-height: 1.3; }
+.practice-source-channel { font-size: 0.75rem; color: var(--secondary); }
+.practice-source-title { font-size: 0.875rem; font-weight: 500; color: var(--primary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.practice-source-time { flex: none; font-size: 0.75rem; font-variant-numeric: tabular-nums; }
 .practice-summary {
   margin: 1rem 0 0; max-width: 60ch;
   font-size: 1.0625rem; line-height: 1.6; color: var(--pr-body);

@@ -1,554 +1,555 @@
 {
-  "video_id": "bBa9bVYKLP0",
-  "source_title": "Storm Surge Fast Draw",
-  "segment": {
-    "start": 14.5,
-    "end": 39.2
+ "video_id": "bBa9bVYKLP0",
+ "source_title": "Storm Surge Fast Draw",
+ "source_channel": "NOAA/NWS National Hurricane Center",
+ "segment": {
+  "start": 14.5,
+  "end": 39.2
+ },
+ "sentences": [
+  {
+   "text": "Storm surge is what happens when the winds of a coastal storm push water onto land.",
+   "chunks": [
+    {
+     "en": "Storm surge",
+     "ko": "폭풍 해일은"
+    },
+    {
+     "en": "is what happens",
+     "ko": "발생하는 현상이다"
+    },
+    {
+     "en": "when the winds of a coastal storm",
+     "ko": "해안 폭풍의 바람이"
+    },
+    {
+     "en": "push water onto land.",
+     "ko": "물을 육지로 밀어낼 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "Storm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surge",
+     "strong": true,
+     "link": true,
+     "syl": "surge"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happens",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "winds",
+     "strong": true,
+     "link": true,
+     "syl": "winds"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coastal",
+     "strong": true,
+     "link": false,
+     "syl": "coast"
+    },
+    {
+     "w": "storm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "push",
+     "strong": true,
+     "link": false,
+     "syl": "push"
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "onto",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "land.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'surge is', 'winds of', 'of a', 'water onto'는 모두 받침 자음이 다음 모음으로 연음되는 구간입니다.",
+   "start": 14.5,
+   "end": 20.0
   },
-  "sentences": [
+  {
+   "text": "In addition, large and destructive waves ride in on top of the surge.",
+   "chunks": [
     {
-      "text": "Storm surge is what happens when the winds of a coastal storm push water onto land.",
-      "chunks": [
-        {
-          "en": "Storm surge",
-          "ko": "폭풍 해일은"
-        },
-        {
-          "en": "is what happens",
-          "ko": "발생하는 현상이다"
-        },
-        {
-          "en": "when the winds of a coastal storm",
-          "ko": "해안 폭풍의 바람이"
-        },
-        {
-          "en": "push water onto land.",
-          "ko": "물을 육지로 밀어낼 때"
-        }
-      ],
-      "words": [
-        {
-          "w": "Storm",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "surge",
-          "strong": true,
-          "link": true,
-          "syl": "surge"
-        },
-        {
-          "w": "is",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "what",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "happens",
-          "strong": true,
-          "link": false,
-          "syl": "hap"
-        },
-        {
-          "w": "when",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "the",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "winds",
-          "strong": true,
-          "link": true,
-          "syl": "winds"
-        },
-        {
-          "w": "of",
-          "strong": false,
-          "link": true
-        },
-        {
-          "w": "a",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "coastal",
-          "strong": true,
-          "link": false,
-          "syl": "coast"
-        },
-        {
-          "w": "storm",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "push",
-          "strong": true,
-          "link": false,
-          "syl": "push"
-        },
-        {
-          "w": "water",
-          "strong": false,
-          "link": true
-        },
-        {
-          "w": "onto",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "land.",
-          "strong": false,
-          "link": false
-        }
-      ],
-      "tip": "'surge is', 'winds of', 'of a', 'water onto'는 모두 받침 자음이 다음 모음으로 연음되는 구간입니다.",
-      "start": 14.5,
-      "end": 20.0
+     "en": "In addition,",
+     "ko": "게다가,"
     },
     {
-      "text": "In addition, large and destructive waves ride in on top of the surge.",
-      "chunks": [
-        {
-          "en": "In addition,",
-          "ko": "게다가,"
-        },
-        {
-          "en": "large and destructive waves",
-          "ko": "크고 파괴적인 파도가"
-        },
-        {
-          "en": "ride in on top of the surge.",
-          "ko": "해일 위에 올라타며 밀려옵니다"
-        }
-      ],
-      "words": [
-        {
-          "w": "In",
-          "strong": false,
-          "link": true
-        },
-        {
-          "w": "addition,",
-          "strong": true,
-          "link": false,
-          "syl": "di"
-        },
-        {
-          "w": "large",
-          "strong": true,
-          "link": true,
-          "syl": "large"
-        },
-        {
-          "w": "and",
-          "strong": false,
-          "link": true
-        },
-        {
-          "w": "destructive",
-          "strong": true,
-          "link": false,
-          "syl": "struc"
-        },
-        {
-          "w": "waves",
-          "strong": true,
-          "link": false,
-          "syl": "waves"
-        },
-        {
-          "w": "ride",
-          "strong": false,
-          "link": true
-        },
-        {
-          "w": "in",
-          "strong": false,
-          "link": true
-        },
-        {
-          "w": "on",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "top",
-          "strong": false,
-          "link": true
-        },
-        {
-          "w": "of",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "the",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "surge.",
-          "strong": true,
-          "link": false,
-          "syl": "surge"
-        }
-      ],
-      "tip": "'In addition'(/n/+/ə/)부터 'ride in on top of'까지 자음-모음 연음이 연속으로 이어지므로 끊지 말고 흘려 읽습니다.",
-      "start": 20.0,
-      "end": 24.6
+     "en": "large and destructive waves",
+     "ko": "크고 파괴적인 파도가"
     },
     {
-      "text": "These water surges then wreak havoc and can cause major damage and flooding many miles from the storm.",
-      "chunks": [
-        {
-          "en": "These water surges",
-          "ko": "이 해일 물결들은"
-        },
-        {
-          "en": "then wreak havoc",
-          "ko": "그러고 나서 큰 피해를 야기하고"
-        },
-        {
-          "en": "and can cause major damage and flooding",
-          "ko": "심각한 피해와 침수를 유발할 수 있으며"
-        },
-        {
-          "en": "many miles from the storm.",
-          "ko": "폭풍으로부터 수 마일 떨어진 곳에서도"
-        }
-      ],
-      "words": [
-        {
-          "w": "These",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "water",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "surges",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "then",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "wreak",
-          "strong": true,
-          "link": false,
-          "syl": "wreak"
-        },
-        {
-          "w": "havoc",
-          "strong": true,
-          "link": true,
-          "syl": "hav"
-        },
-        {
-          "w": "and",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "can",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "cause",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "major",
-          "strong": true,
-          "link": false,
-          "syl": "ma"
-        },
-        {
-          "w": "damage",
-          "strong": true,
-          "link": true,
-          "syl": "dam"
-        },
-        {
-          "w": "and",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "flooding",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "many",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "miles",
-          "strong": true,
-          "link": false,
-          "syl": "miles"
-        },
-        {
-          "w": "from",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "the",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "storm.",
-          "strong": false,
-          "link": false
-        }
-      ],
-      "tip": "'wreak havoc'은 관용구로 두 단어 모두 강세를 줍니다; 'havoc and'(/k/+/æ/)와 'damage and'(/dʒ/+/æ/)도 연음 구간입니다.",
-      "start": 24.6,
-      "end": 31.5
-    },
-    {
-      "text": "Not limited to coastal properties, storm surges from sea water traveling up streams and rivers can flood inland homes too.",
-      "chunks": [
-        {
-          "en": "Not limited to coastal properties,",
-          "ko": "해안 건물에만 국한되지 않고,"
-        },
-        {
-          "en": "storm surges from sea water",
-          "ko": "바닷물에서 비롯된 폭풍 해일이"
-        },
-        {
-          "en": "traveling up streams and rivers",
-          "ko": "강과 하천을 거슬러 올라가"
-        },
-        {
-          "en": "can flood inland homes too.",
-          "ko": "내륙 가정집들도 침수시킬 수 있습니다"
-        }
-      ],
-      "words": [
-        {
-          "w": "Not",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "limited",
-          "strong": true,
-          "link": false,
-          "syl": "lim"
-        },
-        {
-          "w": "to",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "coastal",
-          "strong": true,
-          "link": false,
-          "syl": "coast"
-        },
-        {
-          "w": "properties,",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "storm",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "surges",
-          "strong": true,
-          "link": false,
-          "syl": "surg"
-        },
-        {
-          "w": "from",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "sea",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "water",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "traveling",
-          "strong": false,
-          "link": true
-        },
-        {
-          "w": "up",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "streams",
-          "strong": false,
-          "link": true
-        },
-        {
-          "w": "and",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "rivers",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "can",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "flood",
-          "strong": true,
-          "link": true,
-          "syl": "flood"
-        },
-        {
-          "w": "inland",
-          "strong": true,
-          "link": false,
-          "syl": "in"
-        },
-        {
-          "w": "homes",
-          "strong": false,
-          "link": false
-        },
-        {
-          "w": "too.",
-          "strong": false,
-          "link": false
-        }
-      ],
-      "tip": "'traveling up'(/ŋ/+/ʌ/), 'streams and'(/z/+/æ/), 'flood inland'(/d/+/ɪ/) 세 곳이 모두 연음 구간입니다.",
-      "start": 31.5,
-      "end": 39.2
+     "en": "ride in on top of the surge.",
+     "ko": "해일 위에 올라타며 밀려옵니다"
     }
-  ],
-  "questions": [
+   ],
+   "words": [
     {
-      "q": "What directly causes storm surge?",
-      "options": [
-        "Rising ocean tides pulled by gravity",
-        "Coastal storm winds pushing water onto land",
-        "Heavy rainfall pouring into the sea",
-        "Underwater earthquakes near the shore"
-      ],
-      "answer": 1,
-      "why": "문장 1: '해안 폭풍의 바람이 물을 육지로 밀어낸다'고 직접 정의합니다."
+     "w": "In",
+     "strong": false,
+     "link": true
     },
     {
-      "q": "What rides on top of the storm surge?",
-      "options": [
-        "Floating debris and driftwood",
-        "Large and destructive waves",
-        "A wall of sand and sediment",
-        "Cold air pushed down from clouds"
-      ],
-      "answer": 1,
-      "why": "문장 2: 'large and destructive waves ride in on top of the surge'라고 명시합니다."
+     "w": "addition,",
+     "strong": true,
+     "link": false,
+     "syl": "di"
     },
     {
-      "q": "How far can storm surge flooding extend from a storm?",
-      "options": [
-        "Only to the immediate shoreline",
-        "A few blocks from the beach",
-        "Many miles from the storm",
-        "Only as far as the nearest river mouth"
-      ],
-      "answer": 2,
-      "why": "문장 3: 'many miles from the storm'까지 피해가 미칠 수 있다고 설명합니다."
+     "w": "large",
+     "strong": true,
+     "link": true,
+     "syl": "large"
     },
     {
-      "q": "How can storm surge reach homes far from the coast?",
-      "options": [
-        "Through underground water tables",
-        "By traveling up streams and rivers",
-        "By evaporating and falling as rain",
-        "Through man-made drainage channels"
-      ],
-      "answer": 1,
-      "why": "문장 4: 'sea water traveling up streams and rivers can flood inland homes'라고 설명합니다."
+     "w": "and",
+     "strong": false,
+     "link": true
     },
     {
-      "q": "Which phrase best captures the meaning of 'wreak havoc' as used here?",
-      "options": [
-        "Move forward at great speed",
-        "Cause widespread damage and disruption",
-        "Rise above flood barriers",
-        "Drain away through the soil"
-      ],
-      "answer": 1,
-      "why": "문장 3에서 'wreak havoc'은 'major damage and flooding'과 나란히 쓰여 광범위한 피해를 뜻합니다."
+     "w": "destructive",
+     "strong": true,
+     "link": false,
+     "syl": "struc"
+    },
+    {
+     "w": "waves",
+     "strong": true,
+     "link": false,
+     "syl": "waves"
+    },
+    {
+     "w": "ride",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "top",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surge.",
+     "strong": true,
+     "link": false,
+     "syl": "surge"
     }
-  ],
-  "vocab": [
+   ],
+   "tip": "'In addition'(/n/+/ə/)부터 'ride in on top of'까지 자음-모음 연음이 연속으로 이어지므로 끊지 말고 흘려 읽습니다.",
+   "start": 20.0,
+   "end": 24.6
+  },
+  {
+   "text": "These water surges then wreak havoc and can cause major damage and flooding many miles from the storm.",
+   "chunks": [
     {
-      "term": "storm surge",
-      "ko": "폭풍 해일",
-      "note": "해안 폭풍이 바닷물을 육지 위로 밀어올리는 현상으로, 기상·방재 분야의 핵심 용어입니다."
+     "en": "These water surges",
+     "ko": "이 해일 물결들은"
     },
     {
-      "term": "wreak havoc",
-      "ko": "큰 혼란·피해를 일으키다",
-      "note": "'wreak'은 거의 항상 'havoc'과 결합해 쓰이는 관용 표현으로, 광범위한 파괴를 묘사합니다."
+     "en": "then wreak havoc",
+     "ko": "그러고 나서 큰 피해를 야기하고"
     },
     {
-      "term": "in addition",
-      "ko": "게다가, 덧붙여",
-      "note": "앞 내용에 새 정보를 추가할 때 문장 맨 앞에 쓰는 연결 표현입니다."
+     "en": "and can cause major damage and flooding",
+     "ko": "심각한 피해와 침수를 유발할 수 있으며"
     },
     {
-      "term": "not limited to",
-      "ko": "~에만 국한되지 않는",
-      "note": "영향 범위가 예상보다 넓음을 강조할 때 쓰며, 뒤에 명사구가 옵니다."
-    },
-    {
-      "term": "ride in on top of",
-      "ko": "~위에 올라타고 밀려오다",
-      "note": "파도가 해일 위를 타고 밀려드는 이미지를 생생하게 묘사하는 구어적 표현입니다."
-    },
-    {
-      "term": "inland",
-      "ko": "내륙의, 해안에서 먼 쪽",
-      "note": "해안(coastal)의 반대 개념으로, 바다에서 멀리 떨어진 육지 안쪽을 가리킵니다."
+     "en": "many miles from the storm.",
+     "ko": "폭풍으로부터 수 마일 떨어진 곳에서도"
     }
-  ]
+   ],
+   "words": [
+    {
+     "w": "These",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surges",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wreak",
+     "strong": true,
+     "link": false,
+     "syl": "wreak"
+    },
+    {
+     "w": "havoc",
+     "strong": true,
+     "link": true,
+     "syl": "hav"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cause",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "major",
+     "strong": true,
+     "link": false,
+     "syl": "ma"
+    },
+    {
+     "w": "damage",
+     "strong": true,
+     "link": true,
+     "syl": "dam"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flooding",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miles",
+     "strong": true,
+     "link": false,
+     "syl": "miles"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storm.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'wreak havoc'은 관용구로 두 단어 모두 강세를 줍니다; 'havoc and'(/k/+/æ/)와 'damage and'(/dʒ/+/æ/)도 연음 구간입니다.",
+   "start": 24.6,
+   "end": 31.5
+  },
+  {
+   "text": "Not limited to coastal properties, storm surges from sea water traveling up streams and rivers can flood inland homes too.",
+   "chunks": [
+    {
+     "en": "Not limited to coastal properties,",
+     "ko": "해안 건물에만 국한되지 않고,"
+    },
+    {
+     "en": "storm surges from sea water",
+     "ko": "바닷물에서 비롯된 폭풍 해일이"
+    },
+    {
+     "en": "traveling up streams and rivers",
+     "ko": "강과 하천을 거슬러 올라가"
+    },
+    {
+     "en": "can flood inland homes too.",
+     "ko": "내륙 가정집들도 침수시킬 수 있습니다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "limited",
+     "strong": true,
+     "link": false,
+     "syl": "lim"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coastal",
+     "strong": true,
+     "link": false,
+     "syl": "coast"
+    },
+    {
+     "w": "properties,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "storm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surges",
+     "strong": true,
+     "link": false,
+     "syl": "surg"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sea",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traveling",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "streams",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rivers",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flood",
+     "strong": true,
+     "link": true,
+     "syl": "flood"
+    },
+    {
+     "w": "inland",
+     "strong": true,
+     "link": false,
+     "syl": "in"
+    },
+    {
+     "w": "homes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'traveling up'(/ŋ/+/ʌ/), 'streams and'(/z/+/æ/), 'flood inland'(/d/+/ɪ/) 세 곳이 모두 연음 구간입니다.",
+   "start": 31.5,
+   "end": 39.2
+  }
+ ],
+ "questions": [
+  {
+   "q": "What directly causes storm surge?",
+   "options": [
+    "Rising ocean tides pulled by gravity",
+    "Coastal storm winds pushing water onto land",
+    "Heavy rainfall pouring into the sea",
+    "Underwater earthquakes near the shore"
+   ],
+   "answer": 1,
+   "why": "문장 1: '해안 폭풍의 바람이 물을 육지로 밀어낸다'고 직접 정의합니다."
+  },
+  {
+   "q": "What rides on top of the storm surge?",
+   "options": [
+    "Floating debris and driftwood",
+    "Large and destructive waves",
+    "A wall of sand and sediment",
+    "Cold air pushed down from clouds"
+   ],
+   "answer": 1,
+   "why": "문장 2: 'large and destructive waves ride in on top of the surge'라고 명시합니다."
+  },
+  {
+   "q": "How far can storm surge flooding extend from a storm?",
+   "options": [
+    "Only to the immediate shoreline",
+    "A few blocks from the beach",
+    "Many miles from the storm",
+    "Only as far as the nearest river mouth"
+   ],
+   "answer": 2,
+   "why": "문장 3: 'many miles from the storm'까지 피해가 미칠 수 있다고 설명합니다."
+  },
+  {
+   "q": "How can storm surge reach homes far from the coast?",
+   "options": [
+    "Through underground water tables",
+    "By traveling up streams and rivers",
+    "By evaporating and falling as rain",
+    "Through man-made drainage channels"
+   ],
+   "answer": 1,
+   "why": "문장 4: 'sea water traveling up streams and rivers can flood inland homes'라고 설명합니다."
+  },
+  {
+   "q": "Which phrase best captures the meaning of 'wreak havoc' as used here?",
+   "options": [
+    "Move forward at great speed",
+    "Cause widespread damage and disruption",
+    "Rise above flood barriers",
+    "Drain away through the soil"
+   ],
+   "answer": 1,
+   "why": "문장 3에서 'wreak havoc'은 'major damage and flooding'과 나란히 쓰여 광범위한 피해를 뜻합니다."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "storm surge",
+   "ko": "폭풍 해일",
+   "note": "해안 폭풍이 바닷물을 육지 위로 밀어올리는 현상으로, 기상·방재 분야의 핵심 용어입니다."
+  },
+  {
+   "term": "wreak havoc",
+   "ko": "큰 혼란·피해를 일으키다",
+   "note": "'wreak'은 거의 항상 'havoc'과 결합해 쓰이는 관용 표현으로, 광범위한 파괴를 묘사합니다."
+  },
+  {
+   "term": "in addition",
+   "ko": "게다가, 덧붙여",
+   "note": "앞 내용에 새 정보를 추가할 때 문장 맨 앞에 쓰는 연결 표현입니다."
+  },
+  {
+   "term": "not limited to",
+   "ko": "~에만 국한되지 않는",
+   "note": "영향 범위가 예상보다 넓음을 강조할 때 쓰며, 뒤에 명사구가 옵니다."
+  },
+  {
+   "term": "ride in on top of",
+   "ko": "~위에 올라타고 밀려오다",
+   "note": "파도가 해일 위를 타고 밀려드는 이미지를 생생하게 묘사하는 구어적 표현입니다."
+  },
+  {
+   "term": "inland",
+   "ko": "내륙의, 해안에서 먼 쪽",
+   "note": "해안(coastal)의 반대 개념으로, 바다에서 멀리 떨어진 육지 안쪽을 가리킵니다."
+  }
+ ]
 }

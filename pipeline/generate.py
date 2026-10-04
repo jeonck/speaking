@@ -134,22 +134,25 @@ def slugify(title: str) -> str:
     return (slug or "practice")[:60].rstrip("-")
 
 
-def fetch_oembed_title(video_id: str) -> str | None:
-    """oEmbed로 영상 제목을 가져온다. 임베드 자체가 불가능한 경우만 실패시키고,
-    그 외 네트워크 오류는 제목 없이 진행하도록 None을 돌려준다."""
+def fetch_oembed(video_id: str) -> dict:
+    """oEmbed로 영상 정보(title, author_name=채널)를 가져온다. 임베드 자체가 불가능한
+    경우만 실패시키고, 그 외 네트워크 오류는 정보 없이 진행하도록 빈 dict를 돌려준다."""
     url = OEMBED_URL.format(video_id=video_id)
     try:
         with urllib.request.urlopen(url, timeout=10) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-            return data.get("title")
+            return json.loads(resp.read().decode("utf-8"))
     except urllib.error.HTTPError as exc:
         if exc.code in (401, 403, 404):
             raise InputError(f"영상을 임베드할 수 없습니다 (oEmbed {exc.code})") from exc
         log(f"  oEmbed 경고: HTTP {exc.code} — 제목 없이 진행")
-        return None
+        return {}
     except Exception as exc:  # noqa: BLE001 - 네트워크 전반, 항목을 막지 않는다
         log(f"  oEmbed 경고: {exc} — 제목 없이 진행")
-        return None
+        return {}
+
+
+def fetch_oembed_title(video_id: str) -> str | None:
+    return fetch_oembed(video_id).get("title")
 
 
 def build_queue(today) -> list[dict]:
@@ -378,7 +381,8 @@ def yaml_quote(s: str) -> str:
 
 
 def write_practice_bundle(
-    item: dict, result: dict, source_title: str | None, date: datetime
+    item: dict, result: dict, source_title: str | None, date: datetime,
+    source_channel: str | None = None,
 ) -> Path:
     """content/practice/<slug>/{index.md,data.json} 페이지 번들을 쓴다."""
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
@@ -406,6 +410,7 @@ duration: {duration_seconds}
     data = {
         "video_id": item["video_id"],
         "source_title": source_title,
+        "source_channel": source_channel,
         "segment": {"start": item["start"], "end": item["end"]},
         "sentences": result["sentences"],
         "questions": result["questions"],
@@ -491,7 +496,7 @@ def main() -> int:
         duration = item["end"] - item["start"]
         log(f"\n오늘의 구간: {item['video_id']} ({duration:.0f}초)")
         try:
-            source_title = fetch_oembed_title(item["video_id"])
+            oembed = fetch_oembed(item["video_id"])
         except InputError as exc:
             log(f"  건너뜁니다: {exc}")
             failed += 1
@@ -500,6 +505,7 @@ def main() -> int:
         fragments_text = "\n".join(
             f"{i + 1}. {f['text']}" for i, f in enumerate(item["fragments"])
         )
+        source_title = oembed.get("title")
         title_note = f' (video title: "{source_title}")' if source_title else ""
         prompt = GENERATE_PROMPT.format(
             duration=duration, title_note=title_note, fragments=fragments_text
@@ -536,7 +542,7 @@ def main() -> int:
             log(json.dumps(result, ensure_ascii=False, indent=2))
             continue
 
-        path = write_practice_bundle(item, result, source_title, now)
+        path = write_practice_bundle(item, result, source_title, now, oembed.get("author_name"))
         log(f"  생성 파일: {path.relative_to(ROOT)}")
         processed[h] = now.date().isoformat()
         new_count += 1
