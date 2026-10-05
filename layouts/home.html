@@ -84,8 +84,11 @@
 
   <section class="home-band home-band--paper" aria-labelledby="home-marks">
     <h2 id="home-marks" class="home-h2">원고는 이렇게 읽어요</h2>
-    {{- /* 최신 실습의 한 문장을 실습 페이지와 같은 표기(강세·연음 ‿)로 */}}
-    {{- with $data }}
+    {{- /* 예시는 에디슨 실습으로 고정 — 아래 표시 설명(almost never, four or five)이 이 문장에서 나온다.
+           실습 페이지와 같은 표기(강세·연음 ‿)로 그린다 */}}
+    {{- $spec := site.GetPage "/practice/2026-10-04-why-edison-worked-18-hours-a-day" | default $latest }}
+    {{- $specData := false }}{{ with $spec }}{{ with .Resources.Get "data.json" }}{{ $specData = . | transform.Unmarshal }}{{ end }}{{ end }}
+    {{- with $specData }}
     {{- $pick := index .sentences 0 }}
     {{- range .sentences }}
       {{- if and (ge (len .text) 40) (le (len .text) 90) }}{{ $pick = . }}{{ break }}{{ end }}
@@ -102,7 +105,7 @@
     {{- end }}
     <figure class="home-specimen">
       <blockquote lang="en">{{ delimit $words " " | safeHTML }}</blockquote>
-      <figcaption><a href="{{ $latest.RelPermalink }}">{{ $latest.Title }}</a>에서</figcaption>
+      <figcaption><a href="{{ $spec.RelPermalink }}">{{ $spec.Title }}</a>에서</figcaption>
     </figure>
     {{- end }}
     <p class="home-sublede">실습 원고에는 원어민이 실제로 힘을 주고, 끊고, 붙여 읽는 곳이 표시돼 있어요.</p>
