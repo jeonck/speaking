@@ -30,15 +30,19 @@
   <section class="tag-vocab" aria-labelledby="tag-vocab-title">
     <h2 id="tag-vocab-title" class="pr-section-title">이 주제의 표현</h2>
     <p class="home-sublede">실습 원고에 나온 표현이에요. 누르면 그 실습으로 가요.</p>
-    <ul class="tag-vocab-list">
-      {{- range . }}
-      <li><a class="tag-vocab-item" href="{{ .page.RelPermalink }}">
+    {{- /* 실습이 많은 주제는 표현이 백 개를 넘는다 — 12개만 먼저, 나머지는 '더 보기'로 */}}
+    <ul class="tag-vocab-list" data-vocab-list>
+      {{- range $k, $v := . }}
+      <li{{ if ge $k 12 }} class="is-extra"{{ end }}><a class="tag-vocab-item" href="{{ .page.RelPermalink }}">
         <span class="tag-vocab-term" lang="en">{{ .term }}</span>
         <span class="tag-vocab-ko">{{ .ko }}</span>
         <span class="tag-vocab-from">{{ .page.Title }}</span>
       </a></li>
       {{- end }}
     </ul>
+    {{- if gt (len .) 12 }}
+    <button type="button" class="pr-btn pr-btn--secondary tag-vocab-more" data-vocab-more aria-expanded="false">+{{ sub (len .) 12 }}개 더 보기</button>
+    {{- end }}
   </section>
   {{- end }}
 
@@ -67,4 +71,15 @@
   </nav>
   {{- end }}
 </div>
+<script>
+  (function () {
+    var btn = document.querySelector("[data-vocab-more]");
+    var list = document.querySelector("[data-vocab-list]");
+    if (!btn || !list) return;
+    btn.addEventListener("click", function () {
+      list.classList.add("is-open");
+      btn.remove();
+    });
+  })();
+</script>
 {{- end }}

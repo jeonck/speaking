@@ -1165,3 +1165,11 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
 @media (max-width: 959px) {
   body:has(#practice-root) .top-link { display: none; }
 }
+
+/* ---------- 넓은 화면 — 실습 카드는 3열(목록·주제·홈). 실습 페이지 안(720px)은 2열 그대로 ---------- */
+@media (min-width: 1024px) {
+  .pr-home--wide .practice-cards, .pr-home--sections .practice-cards { grid-template-columns: repeat(3, 1fr); }
+}
+/* 주제 표현은 12개만 먼저 — 버튼을 누르면 모두 */
+.tag-vocab-list:not(.is-open) > li.is-extra { display: none; }
+.tag-vocab-more { display: flex; margin: 1.25rem auto 0; }

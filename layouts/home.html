@@ -150,12 +150,12 @@
         <h2 id="home-list-title" class="home-h2">최근 실습</h2>
         <p class="home-sublede">최신 구간부터 골라 시작하세요.</p>
       </div>
-      {{- if gt (len $pages) 4 }}
+      {{- if gt (len $pages) 6 }}
       <a class="pr-btn pr-btn--secondary" href="{{ "practice/" | relURL }}">전체 실습 {{ len $pages }}개 보기</a>
       {{- end }}
     </div>
     {{- if $pages }}
-    {{- partial "practice_cards.html" (first 4 $pages.ByDate.Reverse) }}
+    {{- partial "practice_cards.html" (first 6 $pages.ByDate.Reverse) }}
     {{- else }}
     {{- partial "practice_rows.html" $pages }}
     {{- end }}

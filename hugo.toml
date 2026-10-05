@@ -40,6 +40,8 @@ paginate = 10
     ignoreLocation = true
     threshold = 0.2
     minMatchCharLength = 2
+    # 비슷한 철자까지 걸려 결과가 수십 개가 되므로 점수 높은 순 20개만
+    limit = 20
     keys = ['title', 'summary', 'content']
 
   [[params.socialIcons]]
