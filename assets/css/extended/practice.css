@@ -818,9 +818,9 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 .list-toolbar { display: flex; align-items: center; justify-content: flex-end; gap: 0.5rem; margin: 0 0 1rem; }
 .list-toolbar[hidden] { display: none; }
 /* 회색 트랙 위 흰 알약 — 단계 탭과 같은 세그먼트 */
-.pr-seg { display: inline-flex; gap: 2px; padding: 3px; border-radius: 9999px; background: var(--pr-surface); }
+.pr-seg { display: inline-flex; flex: none; gap: 2px; padding: 3px; border-radius: 9999px; background: var(--pr-surface); }
 .pr-seg-btn {
-  min-height: 34px; padding: 0 0.9rem; border: 0; border-radius: 9999px; background: transparent; cursor: pointer;
+  min-height: 34px; padding: 0 0.9rem; border: 0; border-radius: 9999px; background: transparent; cursor: pointer; white-space: nowrap;
   color: var(--pr-body); font: inherit; font-size: 0.8125rem; font-weight: 500; transition: background-color 0.15s ease, color 0.15s ease;
 }
 .pr-seg-btn:hover { color: var(--primary); }
@@ -1014,13 +1014,16 @@ html { scroll-padding-top: 80px; }
 .menu a[href*="github.com"]:hover { background: var(--pr-ink-strong); color: var(--pr-ink-on); }
 .menu a:focus-visible, .theme-toggle:focus-visible, .logo > a:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; border-radius: 6px; }
 @media (max-width: 640px) {
-  /* 좁은 화면: 두 줄이라 고정하지 않는다 (화면을 너무 가림). 1줄 로고 + 토글, 2줄 메뉴 */
+  /* 좁은 화면: 로고·메뉴·테마 토글을 한 줄에. 화면을 덜 가리게 고정하지 않는다 */
   html { scroll-padding-top: 16px; }
   .header { position: relative; }
-  .header-nav { flex-wrap: wrap; row-gap: 0; }
-  .header-nav .logo-switches { order: 2; }
-  .header-nav .menu { order: 3; flex-basis: 100%; column-gap: 1.25rem; padding-bottom: 0.25rem; line-height: 52px; }
-  .logo > a { line-height: 56px; }
+  .header-nav { column-gap: 0.25rem; }
+  .logo > a { font-size: 21px; line-height: 56px; }
+  .menu { column-gap: 0; }
+  .menu li { margin: 0; }
+  /* 메뉴 글자는 작아도 누르는 자리는 44px 정사각 이상 */
+  .menu a { display: inline-flex; align-items: center; justify-content: center; min-width: 44px; min-height: 44px; padding: 0 0.4rem; }
+  .theme-toggle { width: 44px; height: 44px; }
 }
 
 /* ---------- 검색 ---------- */
@@ -1141,3 +1144,20 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
 
 /* 목록 페이지: 위치 표시(홈 ›)와 제목 사이 간격 */
 .breadcrumbs + .home-title, .breadcrumbs + .tag-title { margin-top: 1rem; }
+
+/* ---------- 손가락 화면(터치) — 누를 자리는 44px 이상 ---------- */
+@media (pointer: coarse) {
+  .tag-chip, .pr-chip, .list-pager-btn, .pr-seg-btn { min-height: 44px; }
+  .list-pager-btn { min-width: 44px; }
+  .pr-btn--sm { min-height: 44px; }
+  .pr-btn--play { width: 44px; height: 44px; min-height: 44px; margin-top: 0; }
+  .practice-source-link { min-height: 44px; }
+  .footer .pr-footer-col { gap: 0; }
+  .footer .pr-footer-col a { display: inline-flex; align-items: center; min-height: 44px; }
+  /* 키보드 단축키 안내는 터치 화면에서 쓸 일이 없다 */
+  .search-keys { display: none; }
+}
+/* 연습 화면 아래쪽에 붙는 막대('다 읽었어요'·녹음)와 '맨 위로' 버튼이 겹치지 않게 */
+@media (max-width: 640px) {
+  body:has(#practice-root) .top-link { display: none; }
+}
