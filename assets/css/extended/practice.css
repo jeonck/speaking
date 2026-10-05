@@ -1209,8 +1209,10 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
   display: flex; flex-direction: column; gap: 0.6rem; margin: 0; padding: 1.5rem;
   border-radius: 16px; border: 1px solid var(--pr-rule); background: var(--pr-paper);
 }
-.home-research-finding { margin: 0; font-size: 1rem; line-height: 1.65; color: var(--primary); }
-.home-research-use { margin: 0; font-size: 0.8125rem; font-weight: 600; color: var(--pr-ok); }
+.home-research-title { margin: 0; font-family: var(--pr-serif); font-size: 1.6rem; font-weight: 300; line-height: 1.2; letter-spacing: -0.01em; color: var(--primary); }
+.home-research-finding { margin: 0; font-size: 1rem; line-height: 1.65; color: var(--pr-body); }
+.home-research-use { margin: 0; font-size: 0.875rem; font-weight: 600; color: var(--pr-ok); }
+.home-research-note { margin: 1.25rem 0 0; font-size: 0.8125rem; color: var(--secondary); }
 .home-research-cite {
   margin-top: auto; padding-top: 0.75rem; border-top: 1px solid var(--pr-rule);
   font-size: 0.8125rem; line-height: 1.5; color: var(--secondary); text-decoration: none; box-shadow: none;
