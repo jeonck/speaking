@@ -2,7 +2,9 @@ import { renderStressedSentence, renderChunks, escapeHtml, goalCard } from "./ma
 import { formatSeconds } from "./timer.js";
 import { togglePlay } from "./playback.js";
 import { clearHistory, loadHistory, localDateISO } from "./store.js";
-import { reviewState } from "./review.js";
+import { reviewState, attemptScore } from "./review.js";
+
+const LEVELS = ["", "입문", "중급", "고급"];
 
 const DAILY_SETS = 3; // 영상에서 권한 "하루 세 번"
 
@@ -40,6 +42,16 @@ export function mountStage4(panel, ctx) {
     ? `<p class="pr-review-next"><b>다음 복습 ${Number(review.due.slice(5, 7))}월 ${Number(review.due.slice(8))}일</b>` +
       `<span>${review.days > 0 ? `${review.days}일 뒤` : "오늘"} 다시 들으면 오래 기억해요${review.weak ? ". 이번엔 어려웠던 만큼 간격을 짧게 잡았어요" : ""}.</span></p>`
     : "";
+  // 레벨 추천 — 이번 시도 성적(이해·문제·받아쓰기 평균)으로 한 단계 위/아래를 권한다
+  const score = attemptScore(results);
+  let levelRec = "";
+  if (ctx.level && score != null) {
+    const pct = Math.round(score * 100);
+    const to = score >= 0.8 ? Math.min(ctx.level + 1, 3) : score < 0.6 ? Math.max(ctx.level - 1, 1) : ctx.level;
+    const why = to > ctx.level ? "넉넉히 따라왔어요" : to < ctx.level ? "조금 버거웠어요" : score >= 0.8 ? "가장 높은 레벨도 잘 따라왔어요" : score < 0.6 ? "어렵다면 같은 레벨의 짧은 구간부터" : "지금 레벨이 잘 맞아요";
+    levelRec = `<p class="pr-level-rec"><b>${LEVELS[ctx.level]} 레벨에서 ${pct}%</b>` +
+      `<span>${why}. <a href="/practice/?level=${to}">${LEVELS[to]} 실습 ${to === ctx.level ? "더 하기" : "해 보기"}</a></span></p>`;
+  }
   // 하루 세트 진행 막대 — 칸마다 한 세트
   const segments = Array.from(
     { length: DAILY_SETS },
@@ -83,6 +95,7 @@ export function mountStage4(panel, ctx) {
       <p class="pr-sets-text"><b>오늘 ${attemptNumber}회째</b> 연습이에요<span>하루 ${DAILY_SETS}번 반복을 권해요.</span></p>
       <div class="pr-set-bar" role="img" aria-label="오늘 ${setsDone}/${DAILY_SETS}세트">${segments}</div>
       ${nextReview}
+      ${levelRec}
     </div>
     <h3 class="pr-section-title">이번 결과${prev ? ` <small>(직전 ${escapeHtml(String(prev.date))} 대비)</small>` : ""}</h3>
     <div class="practice-result-grid">${cards}</div>

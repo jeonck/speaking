@@ -5,4 +5,5 @@ summary: "The speaker explains that a robot's brain is really a computer, and co
 tags: ["education", "technology"]
 video_id: "_bvSFJ5RI7c"
 duration: 27
+level: 2
 ---

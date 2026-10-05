@@ -5,4 +5,5 @@ summary: "This segment introduces Dr. Sally Ride during Women's History Month, e
 tags: ["history", "space", "nasa"]
 video_id: "G2kPv7vBsII"
 duration: 26
+level: 1
 ---

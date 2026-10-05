@@ -5,4 +5,5 @@ summary: "The segment looks at Alexander Graham Bell's early telephone, how he d
 tags: ["inventors", "history", "technology"]
 video_id: "w6ASAs3siFg"
 duration: 25
+level: 2
 ---

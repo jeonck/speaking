@@ -5,4 +5,5 @@ summary: "This segment outlines Phase One of NASA's plan to reliably reach the M
 tags: ["nasa", "space", "technology"]
 video_id: "IwZVXmQdX1E"
 duration: 25
+level: 2
 ---

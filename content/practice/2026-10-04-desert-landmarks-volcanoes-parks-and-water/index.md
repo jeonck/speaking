@@ -5,4 +5,5 @@ summary: "A quick tour of desert features including a young volcanic cone, Joshu
 tags: ["national-parks", "nature", "environment"]
 video_id: "BJeNtoBREuU"
 duration: 25
+level: 1
 ---

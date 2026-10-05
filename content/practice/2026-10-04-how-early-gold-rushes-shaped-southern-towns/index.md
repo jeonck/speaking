@@ -5,4 +5,5 @@ summary: "The segment traces America's first two gold rushes in North Carolina a
 tags: ["cities", "history"]
 video_id: "B-9gQEbCgHI"
 duration: 25
+level: 1
 ---

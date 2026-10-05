@@ -5,4 +5,5 @@ summary: "This update explains how thick continental crust causes Yellowstone's 
 tags: ["science", "natural-disasters", "national-parks"]
 video_id: "5xV4BhAVXzg"
 duration: 26
+level: 3
 ---

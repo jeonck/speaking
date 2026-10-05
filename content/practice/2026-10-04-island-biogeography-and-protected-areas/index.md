@@ -5,4 +5,5 @@ summary: "A scientist recalls how early fieldwork on species extinction on small
 tags: ["science", "national-parks", "nature"]
 video_id: "nmiaDXi_KFQ"
 duration: 23
+level: 3
 ---

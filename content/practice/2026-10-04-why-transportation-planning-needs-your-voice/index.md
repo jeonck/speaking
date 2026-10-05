@@ -5,4 +5,5 @@ summary: "The segment explains that transportation planning shapes a community's
 tags: ["cities", "architecture"]
 video_id: "4TsEeFhrV-k"
 duration: 30
+level: 3
 ---

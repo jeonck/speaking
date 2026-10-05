@@ -5,4 +5,5 @@ summary: "The segment explains how an island experiment showed that island size 
 tags: ["science", "nature", "national-parks"]
 video_id: "nmiaDXi_KFQ"
 duration: 26
+level: 2
 ---

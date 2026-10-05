@@ -5,4 +5,5 @@ summary: "The segment describes how thousands of Black soldiers from segregated 
 tags: ["history", "careers"]
 video_id: "ejQ-QF2SvKM"
 duration: 23
+level: 1
 ---

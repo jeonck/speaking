@@ -5,4 +5,5 @@ summary: "A literacy expert explains how teachers can motivate kids to read in t
 tags: ["education", "language"]
 video_id: "sylEvvVAyFE"
 duration: 26
+level: 3
 ---

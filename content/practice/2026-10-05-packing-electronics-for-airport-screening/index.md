@@ -5,4 +5,5 @@ summary: "A quick travel-tip segment explains how high-tech travelers should pac
 tags: ["travel", "technology", "business-english"]
 video_id: "SAt0jnFefBk"
 duration: 22
+level: 2
 ---

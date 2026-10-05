@@ -5,4 +5,5 @@ summary: "The segment describes structural changes to the Cannon House Office Bu
 tags: ["architecture", "history", "cities"]
 video_id: "URojjqtH2CA"
 duration: 26
+level: 3
 ---

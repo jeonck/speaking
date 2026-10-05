@@ -5,4 +5,5 @@ summary: "Hubble has imaged a huge protoplanetary disk nicknamed Dracula's Chivi
 tags: ["space", "nasa", "science"]
 video_id: "C3nrk-vA_YE"
 duration: 26
+level: 2
 ---

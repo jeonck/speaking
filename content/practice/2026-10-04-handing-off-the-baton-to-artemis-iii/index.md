@@ -5,4 +5,5 @@ summary: "NASA astronauts explain that the Artemis II mission had one goal: prep
 tags: ["space", "nasa", "careers"]
 video_id: "jHKf1eHp3eQ"
 duration: 17
+level: 3
 ---

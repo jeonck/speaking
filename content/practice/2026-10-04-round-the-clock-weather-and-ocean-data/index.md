@@ -5,4 +5,5 @@ summary: "A NOAA team in the Pacific Islands provides weather, water and climate
 tags: ["oceans", "environment", "weather"]
 video_id: "jWA3_lz2uFw"
 duration: 25
+level: 3
 ---

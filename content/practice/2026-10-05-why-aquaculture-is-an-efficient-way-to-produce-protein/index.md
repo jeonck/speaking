@@ -5,4 +5,5 @@ summary: "The segment explains why farmed fish and shellfish are an efficient so
 tags: ["food", "animals", "oceans"]
 video_id: "3Oi9GARr-Xc"
 duration: 26
+level: 1
 ---

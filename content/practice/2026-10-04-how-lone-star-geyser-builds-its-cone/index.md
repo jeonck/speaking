@@ -5,4 +5,5 @@ summary: "This update explains how Lone Star Geyser's silica-sinter cone forms a
 tags: ["nature", "national-parks", "science"]
 video_id: "D86-mFw265k"
 duration: 26
+level: 2
 ---

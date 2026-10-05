@@ -5,4 +5,5 @@ summary: "The segment describes the challenge of fitting mechanical and electric
 tags: ["architecture", "history"]
 video_id: "RP4734XWdMM"
 duration: 24
+level: 3
 ---

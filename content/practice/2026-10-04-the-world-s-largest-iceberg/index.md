@@ -5,4 +5,5 @@ summary: "The segment describes iceberg A23a, the world's largest iceberg, notin
 tags: ["oceans", "nature", "environment"]
 video_id: "qfFwKaKKgK0"
 duration: 24
+level: 1
 ---

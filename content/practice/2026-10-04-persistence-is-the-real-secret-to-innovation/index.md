@@ -5,4 +5,5 @@ summary: "The segment argues that great ideas are easy, but turning them into re
 tags: ["inventors", "body-and-mind"]
 video_id: "aGDNAbNoLHY"
 duration: 25
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "The segment explains that cutting carbon dioxide emissions is the only
 tags: ["oceans", "environment", "science"]
 video_id: "K_ceKs5Iu0U"
 duration: 23
+level: 1
 ---

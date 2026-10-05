@@ -5,4 +5,5 @@ summary: "Three U.S. national parks - Zion, Everglades, and Big Bend - describe 
 tags: ["national-parks", "environment", "natural-disasters"]
 video_id: "lPl7QooZrWo"
 duration: 25
+level: 3
 ---

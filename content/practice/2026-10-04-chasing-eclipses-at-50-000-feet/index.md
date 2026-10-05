@@ -5,4 +5,5 @@ summary: "NASA pilots fly the WB-57 aircraft high into the stratosphere on eclip
 tags: ["space", "nasa", "weather"]
 video_id: "K6u0DU_hDHs"
 duration: 25
+level: 2
 ---

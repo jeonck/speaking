@@ -5,4 +5,5 @@ summary: "A coach describes a basketball exchange program that teaches fundament
 tags: ["sports", "culture", "education"]
 video_id: "S4VGmnxWJNg"
 duration: 25
+level: 1
 ---

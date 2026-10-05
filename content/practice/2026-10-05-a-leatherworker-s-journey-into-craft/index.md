@@ -5,4 +5,5 @@ summary: "The speaker explains that although people assume he grew up riding hor
 tags: ["arts", "culture"]
 video_id: "3f-hIL5HXUY"
 duration: 25
+level: 1
 ---

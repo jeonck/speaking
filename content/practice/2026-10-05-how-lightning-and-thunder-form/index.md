@@ -5,4 +5,5 @@ summary: "This segment explains how charge separation inside a thunderstorm clou
 tags: ["weather", "science", "natural-disasters"]
 video_id: "Vh4T-Wqrgvs"
 duration: 26
+level: 2
 ---

@@ -5,4 +5,5 @@ summary: "The speaker describes an intensive daily class learning Wolof, plus th
 tags: ["language", "culture", "travel"]
 video_id: "Z7TURFbPyjY"
 duration: 25
+level: 3
 ---

@@ -5,4 +5,5 @@ summary: "A new research project turns dense, technical healthcare pricing data 
 tags: ["health", "technology", "science"]
 video_id: "19aQoUOuEkY"
 duration: 22
+level: 2
 ---

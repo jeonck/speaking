@@ -5,4 +5,5 @@ summary: "A longtime jazz radio host describes preparing for broadcasts by liste
 tags: ["culture", "arts"]
 video_id: "Srgtl0ddmC0"
 duration: 24
+level: 1
 ---

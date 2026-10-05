@@ -5,4 +5,5 @@ summary: "A researcher explains that hearing damage from noise is irreversible, 
 tags: ["science", "health", "body-and-mind"]
 video_id: "Df-3RkFdHdA"
 duration: 26
+level: 3
 ---

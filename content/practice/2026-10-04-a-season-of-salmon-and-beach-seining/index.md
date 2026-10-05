@@ -5,4 +5,5 @@ summary: "An AmeriCorps member describes helping tribal and agency partners samp
 tags: ["animals", "environment", "careers"]
 video_id: "1gENfPoq3zg"
 duration: 26
+level: 3
 ---

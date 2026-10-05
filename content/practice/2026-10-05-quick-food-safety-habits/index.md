@@ -5,4 +5,5 @@ summary: "The segment explains simple food-safety habits, such as handwashing, w
 tags: ["food", "health"]
 video_id: "iguM_pqetzo"
 duration: 27
+level: 1
 ---

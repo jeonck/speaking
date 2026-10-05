@@ -5,4 +5,5 @@ summary: "The segment highlights wartime inventions: Andrew Higgins's amphibious
 tags: ["inventors", "history", "technology"]
 video_id: "5uNc_ZUeQrs"
 duration: 26
+level: 3
 ---

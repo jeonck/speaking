@@ -5,4 +5,5 @@ summary: "A community member describes a 20-year effort to turn Lions Park into 
 tags: ["cities", "national-parks"]
 video_id: "TgC9s3RTXIA"
 duration: 22
+level: 3
 ---

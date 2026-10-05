@@ -5,7 +5,7 @@
     {{ partial "breadcrumbs.html" . }}
     <p class="practice-meta"><span class="pr-badge" data-list-count>실습 {{ len $pages }}개</span></p>
     <h1 class="home-title">실습 목록</h1>
-    <p class="home-lede">유튜브 구간마다 한 장씩 모았어요. 기관으로 거르거나 짧은 구간부터 골라 보세요.</p>
+    <p class="home-lede">유튜브 구간마다 한 장씩 모았어요. 레벨이나 기관으로 거르고, 짧은 구간부터 골라 보세요.</p>
   </header>
 
   {{- /* 기관으로 거르기 — 같은 기관의 채널은 칩 하나로(실습 수). 많은 순 8개만 먼저, 나머지는 '더 보기'로.
@@ -35,7 +35,15 @@
   {{- if $pages }}
   {{- /* 정렬 — 스크립트가 있을 때만 보인다 */}}
   <div class="list-toolbar" data-list-sort hidden>
-    <span class="list-topics-title">정렬</span>
+    {{- /* 레벨 — 말 빠르기·문장 길이·어휘로 매긴 난이도(pipeline/level.py) */}}
+    <span class="list-topics-title">레벨</span>
+    <div class="pr-seg list-level" role="group" aria-label="레벨">
+      <button type="button" class="pr-seg-btn" data-level-filter="0" aria-pressed="true">전체</button>
+      <button type="button" class="pr-seg-btn" data-level-filter="1" aria-pressed="false">입문</button>
+      <button type="button" class="pr-seg-btn" data-level-filter="2" aria-pressed="false">중급</button>
+      <button type="button" class="pr-seg-btn" data-level-filter="3" aria-pressed="false">고급</button>
+    </div>
+    <span class="list-topics-title list-sort-title">정렬</span>
     <div class="pr-seg" role="group" aria-label="정렬">
       <button type="button" class="pr-seg-btn" data-sort="date" aria-pressed="true">최신순</button>
       <button type="button" class="pr-seg-btn" data-sort="duration" aria-pressed="false">짧은 구간부터</button>
@@ -62,22 +70,27 @@
     if (!list) return;
     var original = Array.prototype.slice.call(list.children);
     var params = new URLSearchParams(location.search);
-    var state = { channel: "", sort: "date", page: Math.max(1, parseInt(params.get("page"), 10) || 1) };
+    var lv = parseInt(params.get("level"), 10);
+    var state = { channel: "", level: lv >= 1 && lv <= 3 ? lv : 0, sort: "date", page: Math.max(1, parseInt(params.get("page"), 10) || 1) };
 
     function render(scroll) {
       var items = original.slice();
       if (state.sort === "duration") items.sort(function (a, b) { return a.dataset.duration - b.dataset.duration; });
       items.forEach(function (li) { list.appendChild(li); });
-      var matched = items.filter(function (li) { return !state.channel || li.dataset.channel === state.channel; });
+      var matched = items.filter(function (li) {
+        return (!state.channel || li.dataset.channel === state.channel) && (!state.level || Number(li.dataset.level) === state.level);
+      });
       var pages = Math.max(1, Math.ceil(matched.length / PER));
       state.page = Math.min(state.page, pages);
       var from = (state.page - 1) * PER;
       items.forEach(function (li) { li.hidden = true; });
       matched.slice(from, from + PER).forEach(function (li) { li.hidden = false; });
 
-      if (badge) badge.textContent = state.channel ? "실습 " + matched.length + "개 / " + original.length + "개" : "실습 " + original.length + "개";
+      if (badge) badge.textContent = state.channel || state.level ? "실습 " + matched.length + "개 / " + original.length + "개" : "실습 " + original.length + "개";
+      if (bar) bar.querySelectorAll("[data-level-filter]").forEach(function (x) { x.setAttribute("aria-pressed", String(Number(x.dataset.levelFilter) === state.level)); });
       var url = new URL(location.href);
       if (state.page > 1) url.searchParams.set("page", state.page); else url.searchParams.delete("page");
+      if (state.level) url.searchParams.set("level", state.level); else url.searchParams.delete("level");
       history.replaceState(null, "", url);
 
       pager.hidden = pages < 2;
@@ -140,6 +153,13 @@
     if (bar) {
       bar.hidden = false;
       bar.addEventListener("click", function (e) {
+        var lvBtn = e.target.closest("[data-level-filter]");
+        if (lvBtn) {
+          state.level = Number(lvBtn.dataset.levelFilter);
+          state.page = 1;
+          render(false);
+          return;
+        }
         var b = e.target.closest("[data-sort]");
         if (!b) return;
         state.sort = b.dataset.sort;

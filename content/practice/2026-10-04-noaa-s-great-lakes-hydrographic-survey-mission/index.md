@@ -5,4 +5,5 @@ summary: "The segment describes NOAA's first hydrographic ship deployment to the
 tags: ["oceans", "science", "environment"]
 video_id: "4X9Qa7nTeOA"
 duration: 27
+level: 3
 ---

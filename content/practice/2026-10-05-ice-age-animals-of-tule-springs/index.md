@@ -5,4 +5,5 @@ summary: "A paleontologist describes some of the large Ice Age animals once foun
 tags: ["animals", "national-parks", "history"]
 video_id: "e7iNYNmwckg"
 duration: 21
+level: 2
 ---

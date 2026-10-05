@@ -5,4 +5,5 @@ summary: "A veteran entrepreneur explains how military lessons like adapting, ov
 tags: ["business-english", "careers"]
 video_id: "hiw0dKatbI4"
 duration: 27
+level: 3
 ---

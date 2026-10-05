@@ -2,7 +2,9 @@
 // - 실습 카드: '복습할 때' / 'n일 뒤 복습' / '오늘 연습함'
 // - 홈: 오늘 복습할 실습(지난 순) — 없으면 다가오는 복습
 import { PREFIX, localDateISO } from "./practice/store.js";
-import { reviewState } from "./practice/review.js";
+import { reviewState, attemptScore, recommendLevel } from "./practice/review.js";
+
+const LEVELS = ["", "입문", "중급", "고급"];
 
 function readAll() {
   const mine = {};
@@ -56,6 +58,31 @@ function decorateCards(states) {
   });
 }
 
+/** 최근 연습 성적으로 다음 레벨 권하기 — 같은 레벨을 두 번 이상 해 봤을 때만 */
+function showLevelRec(box, mine, bySlug) {
+  const el = box.querySelector("[data-level-rec]");
+  if (!el) return;
+  const recent = [];
+  Object.keys(mine).forEach((slug) => {
+    const level = bySlug[slug] && Number(bySlug[slug].level);
+    mine[slug].forEach((a) => recent.push({ id: a.id || 0, level, score: attemptScore(a) }));
+  });
+  recent.sort((a, b) => b.id - a.id);
+  const r = recommendLevel(recent);
+  if (!r) return;
+  const pct = Math.round(r.avg * 100);
+  const lead = r.move === "up" ? `${LEVELS[r.from]} 레벨 최근 평균 ${pct}% — 한 단계 올려 볼 때예요.`
+    : r.move === "down" ? `${LEVELS[r.from]} 레벨 최근 평균 ${pct}% — 한 단계 쉬운 실습으로 감을 잡아 보세요.`
+    : `${LEVELS[r.from]} 레벨 최근 평균 ${pct}% — 지금 레벨이 잘 맞아요.`;
+  const b = document.createElement("b");
+  b.textContent = lead;
+  const a = document.createElement("a");
+  a.href = `/practice/?level=${r.level}`;
+  a.textContent = `${LEVELS[r.level]} 실습 보기`;
+  el.append(b, " ", a);
+  el.hidden = false;
+}
+
 function fillHome(states, mine) {
   const box = document.querySelector("[data-continue]");
   const picksEl = document.getElementById("home-today");
@@ -90,6 +117,7 @@ function fillHome(states, mine) {
     li.appendChild(a);
     list.appendChild(li);
   });
+  showLevelRec(box, mine, bySlug);
   box.hidden = false;
   box.querySelector("[data-continue-clear]").addEventListener("click", () => {
     if (!confirm("이 브라우저에 남은 연습 기록을 모두 지울까요? 복습 일정도 함께 사라지고, 되돌릴 수 없어요.")) return;

@@ -5,4 +5,5 @@ summary: "A Critical Language Scholarship participant describes the U.S. governm
 tags: ["language", "education", "culture"]
 video_id: "_AW4e9JZTXA"
 duration: 25
+level: 2
 ---

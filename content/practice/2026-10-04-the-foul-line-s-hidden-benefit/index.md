@@ -5,4 +5,5 @@ summary: "The segment explains how the foul line created a safe out-of-bounds ar
 tags: ["sports", "history"]
 video_id: "HxI4_IeTJh4"
 duration: 26
+level: 3
 ---

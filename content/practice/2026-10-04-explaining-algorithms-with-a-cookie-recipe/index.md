@@ -5,4 +5,5 @@ summary: "The speaker uses baking cookies as an everyday example to explain what
 tags: ["technology", "education", "food"]
 video_id: "8B2NlDUcAwY"
 duration: 25
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "The segment explains the U.S. State Department's four Travel Advisory 
 tags: ["travel", "natural-disasters"]
 video_id: "WmJQ1YKsvdc"
 duration: 25
+level: 3
 ---

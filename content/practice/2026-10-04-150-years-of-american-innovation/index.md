@@ -5,4 +5,5 @@ summary: "The segment traces how innovators and business owners transformed manu
 tags: ["inventors", "business-english", "history"]
 video_id: "SbWmtWkDLmo"
 duration: 26
+level: 1
 ---

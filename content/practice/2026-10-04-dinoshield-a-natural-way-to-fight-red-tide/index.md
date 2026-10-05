@@ -5,4 +5,5 @@ summary: "The segment describes how DinoSHIELD, after federal approval and local
 tags: ["oceans", "environment", "nature"]
 video_id: "LKMn-aDBWrA"
 duration: 26
+level: 3
 ---

@@ -5,4 +5,5 @@ summary: "A small business owner describes early revenue struggles at Northern W
 tags: ["business-english", "careers"]
 video_id: "J6zAHXlI4Dc"
 duration: 25
+level: 3
 ---

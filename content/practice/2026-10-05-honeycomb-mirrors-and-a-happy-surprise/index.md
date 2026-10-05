@@ -5,4 +5,5 @@ summary: "The speaker explains how nature's honeycomb structures inspired lightw
 tags: ["inventors", "space", "technology"]
 video_id: "x10axvIOD9Y"
 duration: 24
+level: 2
 ---

@@ -5,4 +5,5 @@ summary: "A speaker reflects on growing up finding solace in nature, doubting he
 tags: ["science", "nature", "education"]
 video_id: "Hzki38j_QRQ"
 duration: 26
+level: 2
 ---

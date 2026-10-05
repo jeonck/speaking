@@ -5,4 +5,5 @@ summary: "A forecaster explains what the hurricane forecast cone is for and how 
 tags: ["weather", "natural-disasters"]
 video_id: "04QRN5gUe08"
 duration: 26
+level: 2
 ---

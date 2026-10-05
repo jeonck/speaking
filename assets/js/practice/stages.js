@@ -15,7 +15,7 @@ const STAGES = [
 
 
 export function initPractice(root, data, slug) {
-  const ctx = { data, slug, player: null, results: {} };
+  const ctx = { data, slug, level: Number(root.dataset.level) || 0, player: null, results: {} };
 
   const progress = document.createElement("div");
   progress.className = "pr-progress";

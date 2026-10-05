@@ -5,4 +5,5 @@ summary: "The segment compares DNA to coiled yarn and explains how different coi
 tags: ["science", "body-and-mind", "health"]
 video_id: "fQn7CNJaZF8"
 duration: 25
+level: 3
 ---

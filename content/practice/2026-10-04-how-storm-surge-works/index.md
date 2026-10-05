@@ -5,4 +5,5 @@ summary: "Storm surge occurs when coastal storm winds push seawater inland, ofte
 tags: ["weather", "natural-disasters", "oceans"]
 video_id: "bBa9bVYKLP0"
 duration: 25
+level: 1
 ---

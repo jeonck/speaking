@@ -5,4 +5,5 @@ summary: "A scientist describes what fascinates them about hurricanes and how a 
 tags: ["natural-disasters", "weather", "careers"]
 video_id: "7suVdgfMjww"
 duration: 31
+level: 3
 ---

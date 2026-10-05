@@ -5,4 +5,5 @@ summary: "Scientists describe a newly observed ancient galaxy, MXDFz4.4, appeari
 tags: ["space", "nasa", "science"]
 video_id: "-tFs2-7OVD0"
 duration: 28
+level: 2
 ---

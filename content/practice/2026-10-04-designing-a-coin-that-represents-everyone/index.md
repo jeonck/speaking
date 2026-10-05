@@ -5,4 +5,5 @@ summary: "A coin designer explains why the figure of Liberty should let all Amer
 tags: ["culture", "arts", "history"]
 video_id: "NgE7ZVH6vjg"
 duration: 26
+level: 2
 ---

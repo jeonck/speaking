@@ -5,4 +5,5 @@ summary: "Staring at screens for hours keeps the eye's focusing muscle tight. An
 tags: ["health", "body-and-mind", "technology"]
 video_id: "JaTnpxNHuAs"
 duration: 26
+level: 1
 ---

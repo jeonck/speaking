@@ -5,4 +5,5 @@ summary: "This segment tells how William Thornton won the 1793 design competitio
 tags: ["architecture", "history"]
 video_id: "J1LmDAJFf94"
 duration: 25
+level: 1
 ---

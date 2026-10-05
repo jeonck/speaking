@@ -5,4 +5,5 @@ summary: "The USPTO renamed its Public Search Facility to honor historic patent 
 tags: ["inventors", "history"]
 video_id: "3VCvMplx7os"
 duration: 26
+level: 3
 ---

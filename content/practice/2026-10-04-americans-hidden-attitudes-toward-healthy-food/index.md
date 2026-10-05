@@ -5,4 +5,5 @@ summary: "A researcher describes a reaction-time test showing that Americans imp
 tags: ["food", "science", "health"]
 video_id: "8Go6ru7oROc"
 duration: 25
+level: 3
 ---

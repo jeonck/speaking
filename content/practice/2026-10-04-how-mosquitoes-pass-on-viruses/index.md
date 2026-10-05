@@ -5,4 +5,5 @@ summary: "The segment explains how a virus travels from a mosquito's stomach to 
 tags: ["science", "animals", "health"]
 video_id: "FxwXK5BAwq8"
 duration: 26
+level: 3
 ---

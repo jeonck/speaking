@@ -5,4 +5,5 @@ summary: "A music therapist explains how learning guitar chords, tapping rhythm,
 tags: ["arts", "body-and-mind", "health"]
 video_id: "MgJNx3Xb5QE"
 duration: 27
+level: 1
 ---

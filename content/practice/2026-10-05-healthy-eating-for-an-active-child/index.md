@@ -5,4 +5,5 @@ summary: "A parent explains what healthy eating means and describes how their ve
 tags: ["food", "health", "body-and-mind"]
 video_id: "_ZHbnBU5gM8"
 duration: 27
+level: 1
 ---

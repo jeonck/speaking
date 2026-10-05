@@ -5,4 +5,5 @@ summary: "The segment explains that LEED sets the standard for green building an
 tags: ["architecture", "environment", "technology"]
 video_id: "4XhAYJk2zAQ"
 duration: 25
+level: 3
 ---

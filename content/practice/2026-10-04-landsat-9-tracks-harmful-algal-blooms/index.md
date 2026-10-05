@@ -5,4 +5,5 @@ summary: "Landsat 9 reduces noise in its data so scientists don't miss important
 tags: ["nasa", "environment", "oceans"]
 video_id: "0rVQHFPZfJk"
 duration: 25
+level: 3
 ---

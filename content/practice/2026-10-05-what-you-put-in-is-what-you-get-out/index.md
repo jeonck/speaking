@@ -5,4 +5,5 @@ summary: "A Critical Language Scholarship alum reflects on the time and effort t
 tags: ["language", "education", "careers"]
 video_id: "rYWFrePFv3w"
 duration: 26
+level: 3
 ---

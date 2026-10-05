@@ -5,4 +5,5 @@ summary: "A poet reflects on how literary translation taught their craft and con
 tags: ["culture", "language", "arts"]
 video_id: "SA7BQ6XqsEE"
 duration: 25
+level: 2
 ---

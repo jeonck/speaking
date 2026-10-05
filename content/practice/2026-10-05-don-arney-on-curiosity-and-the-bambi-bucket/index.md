@@ -5,4 +5,5 @@ summary: "Don Arney, a 2017 National Inventors Hall of Fame inductee, reflects o
 tags: ["inventors", "technology", "careers"]
 video_id: "Rqequ7HdK5Y"
 duration: 26
+level: 1
 ---

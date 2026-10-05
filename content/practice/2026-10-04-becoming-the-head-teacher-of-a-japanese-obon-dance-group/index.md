@@ -5,4 +5,5 @@ summary: "The speaker recalls becoming a teacher of Japanese Obon dance, being a
 tags: ["culture", "arts", "education"]
 video_id: "BJMqs9vETo4"
 duration: 26
+level: 1
 ---

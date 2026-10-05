@@ -5,4 +5,5 @@ summary: "The segment traces how farm production feeds people and trade, then as
 tags: ["environment", "oceans", "nature"]
 video_id: "qVh_V72mcPQ"
 duration: 25
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "The segment encourages buying regional seafood, like shrimp in the Gul
 tags: ["food", "culture", "business-english"]
 video_id: "gpFCqsoDIp8"
 duration: 26
+level: 2
 ---

@@ -5,4 +5,5 @@ summary: "A researcher explains that tiny cellular markers called HLA, which wor
 tags: ["science", "health", "body-and-mind"]
 video_id: "CgY5QL-vYJE"
 duration: 25
+level: 1
 ---

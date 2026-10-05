@@ -5,4 +5,5 @@ summary: "This update explains how temperature differences create distinct bacte
 tags: ["nature", "science", "national-parks"]
 video_id: "65FbQxVdp48"
 duration: 26
+level: 3
 ---

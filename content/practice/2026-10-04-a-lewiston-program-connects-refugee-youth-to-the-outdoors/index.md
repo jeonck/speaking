@@ -5,4 +5,5 @@ summary: "The speaker describes a non-profit in downtown Lewiston that serves ov
 tags: ["cities", "culture", "education"]
 video_id: "eXVz4tXUeJ4"
 duration: 27
+level: 2
 ---

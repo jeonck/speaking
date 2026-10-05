@@ -5,4 +5,5 @@ summary: "The segment explains that bootstrapping is easier for some businesses 
 tags: ["business-english", "food", "careers"]
 video_id: "JV39gIQTHss"
 duration: 26
+level: 1
 ---

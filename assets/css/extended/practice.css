@@ -815,7 +815,10 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 .list-topics:not(.is-open) .tag-chip.is-extra:not(.is-active) { display: none; }
 .tag-chip-count { margin-left: 0.35rem; font-variant-numeric: tabular-nums; color: var(--secondary); }
 .tag-chip.is-active .tag-chip-count { color: inherit; opacity: 0.7; }
-.list-toolbar { display: flex; align-items: center; justify-content: flex-end; gap: 0.5rem; margin: 0 0 1rem; }
+.list-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin: 0 0 1rem; }
+/* 레벨은 왼쪽, 정렬은 오른쪽 끝 — 좁으면 두 줄로 */
+.list-toolbar .list-sort-title { margin-left: auto; }
+@media (max-width: 560px) { .list-toolbar .list-sort-title { margin-left: 0; } }
 .list-toolbar[hidden] { display: none; }
 /* 회색 트랙 위 흰 알약 — 단계 탭과 같은 세그먼트 */
 .pr-seg { display: inline-flex; flex: none; gap: 2px; padding: 3px; border-radius: 9999px; background: var(--pr-surface); }
@@ -1222,3 +1225,20 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
 .home-research-cite:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; border-radius: 4px; }
 @media (max-width: 640px) { .home-research { grid-template-columns: 1fr; } }
 @media (pointer: coarse) { .home-research-link { display: inline-flex; align-items: center; min-height: 44px; } }
+
+/* 난이도 배지 — 막대 셋 중 레벨만큼 채운다 */
+.pr-level { display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.3rem 0.7rem; border-radius: 9999px; background: var(--pr-surface); color: var(--primary); font-size: 0.8125rem; font-weight: 500; white-space: nowrap; }
+.pr-level-bars { display: inline-flex; align-items: flex-end; gap: 2px; height: 0.75rem; }
+.pr-level-bars i { display: block; width: 3px; border-radius: 1px; background: var(--pr-rule-strong); }
+.pr-level-bars i:nth-child(1) { height: 40%; }
+.pr-level-bars i:nth-child(2) { height: 70%; }
+.pr-level-bars i:nth-child(3) { height: 100%; }
+.pr-level--1 .pr-level-bars i:nth-child(-n + 1),
+.pr-level--2 .pr-level-bars i:nth-child(-n + 2),
+.pr-level--3 .pr-level-bars i { background: currentColor; }
+/* 레벨 추천 한 줄 — 홈 복습 칸, 정리 단계 */
+.home-level-rec[hidden] { display: none; }
+.home-level-rec, .pr-level-rec { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.25rem 0.6rem; margin: 1rem 0 0; font-size: 0.9375rem; color: var(--pr-body); }
+.pr-level-rec { margin-top: 0.6rem; }
+.home-level-rec b, .pr-level-rec b { color: var(--primary); font-weight: 600; }
+.home-level-rec a, .pr-level-rec a { color: var(--primary); font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }

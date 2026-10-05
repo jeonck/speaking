@@ -5,6 +5,7 @@
   <header class="practice-header">
     {{ partial "breadcrumbs.html" . }}
     <p class="practice-meta">
+      {{- partial "level_badge.html" .Params.level }}
       <span class="pr-badge">{{ .Date.Format "2006년 1월 2일" }}</span>
       {{- with .Params.duration }}<span class="pr-badge">{{ . }}초 구간</span>{{ end }}
       {{- with $data }}<span class="pr-badge">{{ len .sentences }}문장</span>{{ end }}
@@ -48,7 +49,7 @@
     {{- end }}{{ end }}{{ end }}
   </header>
 
-  <div id="practice-root" data-video-id="{{ .Params.video_id }}"></div>
+  <div id="practice-root" data-video-id="{{ .Params.video_id }}" data-level="{{ .Params.level | default 0 }}"></div>
 
   {{- with $dataFile }}
   <script type="application/json" id="practice-data">{{ .Content | safeJS }}</script>

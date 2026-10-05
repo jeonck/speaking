@@ -5,4 +5,5 @@ summary: "A speaker explains that the best way to protect a resource like the We
 tags: ["nature", "environment", "education"]
 video_id: "0bYytWIFbJs"
 duration: 28
+level: 2
 ---

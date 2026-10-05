@@ -5,4 +5,5 @@ summary: "Astronomers used several space and ground telescopes to detect a faint
 tags: ["space", "nasa", "science"]
 video_id: "EnzPNWDlSeM"
 duration: 26
+level: 3
 ---

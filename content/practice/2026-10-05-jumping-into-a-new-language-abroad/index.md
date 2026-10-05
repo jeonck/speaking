@@ -5,4 +5,5 @@ summary: "Language learners describe the challenge of suddenly using a brand-new
 tags: ["language", "travel", "culture"]
 video_id: "W5Y646UvXVc"
 duration: 24
+level: 2
 ---

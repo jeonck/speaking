@@ -5,4 +5,5 @@ summary: "This segment explains what cirrus clouds are, how high above the surfa
 tags: ["weather", "science", "language"]
 video_id: "FMagDRCpJ14"
 duration: 25
+level: 1
 ---

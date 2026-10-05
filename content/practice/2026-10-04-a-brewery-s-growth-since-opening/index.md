@@ -5,4 +5,5 @@ summary: "A brewery owner describes how the business has exceeded its original p
 tags: ["business-english", "food", "careers"]
 video_id: "hiw0dKatbI4"
 duration: 25
+level: 2
 ---

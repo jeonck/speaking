@@ -5,4 +5,5 @@ summary: "The segment explains how tens of thousands of unassessed mines in the 
 tags: ["nasa", "environment", "technology"]
 video_id: "Ac36aovF8ZQ"
 duration: 26
+level: 3
 ---

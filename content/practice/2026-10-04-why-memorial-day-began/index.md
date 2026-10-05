@@ -5,4 +5,5 @@ summary: "The segment traces Memorial Day from its 1868 origins as Decoration Da
 tags: ["history", "culture"]
 video_id: "0cudJh7vqgc"
 duration: 26
+level: 2
 ---

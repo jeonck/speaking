@@ -5,4 +5,5 @@ summary: "A guide explains how corn, beans, and squash were staples of the ances
 tags: ["food", "history", "culture"]
 video_id: "mRzugLiJpd4"
 duration: 30
+level: 1
 ---

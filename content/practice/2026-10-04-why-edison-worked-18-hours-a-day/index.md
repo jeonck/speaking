@@ -5,4 +5,5 @@ summary: "In 1913 a magazine called inventor Thomas Edison the most useful man i
 tags: ["inventors", "history", "careers"]
 video_id: "g5cu_IJ9crs"
 duration: 28
+level: 1
 ---

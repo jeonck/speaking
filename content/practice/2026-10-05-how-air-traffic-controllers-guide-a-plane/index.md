@@ -5,4 +5,5 @@ summary: "The segment explains how airport control towers use radar and visual o
 tags: ["travel", "technology"]
 video_id: "6R5mMb7y9Tg"
 duration: 25
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "A new study finds the United States could meet nearly all its demand f
 tags: ["science", "environment", "technology"]
 video_id: "gE6wcBSTiPA"
 duration: 25
+level: 3
 ---

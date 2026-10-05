@@ -5,4 +5,5 @@ summary: "The speaker credits living with a host family for deepening their Azer
 tags: ["language", "culture", "travel"]
 video_id: "HhEHPikm-CI"
 duration: 25
+level: 2
 ---

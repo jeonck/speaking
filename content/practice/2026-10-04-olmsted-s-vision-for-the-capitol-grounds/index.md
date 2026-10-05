@@ -5,4 +5,5 @@ summary: "The segment explains how Frederick Law Olmsted, known for large open p
 tags: ["architecture", "history", "culture"]
 video_id: "L_4bdC_oQdE"
 duration: 25
+level: 2
 ---

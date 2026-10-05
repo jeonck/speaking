@@ -5,4 +5,5 @@ summary: "The segment explains how sunlight breaks apart methane and nitrogen in
 tags: ["space", "nasa", "science"]
 video_id: "vSILdQ6kt3Y"
 duration: 26
+level: 1
 ---

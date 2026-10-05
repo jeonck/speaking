@@ -5,4 +5,5 @@ summary: "The segment contrasts inflammation that fades quickly with chronic inf
 tags: ["health", "body-and-mind", "science"]
 video_id: "e0Y5Tj5t20s"
 duration: 25
+level: 2
 ---

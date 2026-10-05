@@ -5,4 +5,5 @@ summary: "Astronomers combined Hubble's visible-light observations with Webb's i
 tags: ["space", "nasa", "science"]
 video_id: "KDQYSUR0F1o"
 duration: 25
+level: 3
 ---

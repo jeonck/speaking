@@ -5,4 +5,5 @@ summary: "This segment explains how warm tropical ocean basins like the Caribbea
 tags: ["weather", "oceans", "natural-disasters"]
 video_id: "6vgvTeuoDWY"
 duration: 29
+level: 1
 ---

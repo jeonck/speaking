@@ -5,4 +5,5 @@ summary: "This segment describes a lunar lander mission's science payloads from 
 tags: ["nasa", "space", "science"]
 video_id: "Sempwv5MPMQ"
 duration: 26
+level: 2
 ---

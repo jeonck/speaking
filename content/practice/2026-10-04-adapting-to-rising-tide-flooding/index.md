@@ -5,4 +5,5 @@ summary: "This segment explains why sinking land and rising seas are making high
 tags: ["weather", "natural-disasters", "environment"]
 video_id: "RPK50cw8_Bo"
 duration: 27
+level: 1
 ---

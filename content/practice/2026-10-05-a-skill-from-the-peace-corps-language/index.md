@@ -5,4 +5,5 @@ summary: "The speaker reflects on how serving in the Peace Corps sparked a deep 
 tags: ["language", "careers", "culture"]
 video_id: "bZ-lHhC-KTw"
 duration: 28
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "The speaker explains that giving young students texts, words, and task
 tags: ["education", "language"]
 video_id: "YatVvz66jPs"
 duration: 26
+level: 1
 ---

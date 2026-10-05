@@ -5,4 +5,5 @@ summary: "This segment lists several factors that can affect hearing as people a
 tags: ["health", "body-and-mind", "science"]
 video_id: "HOAMhuxJ6ZM"
 duration: 25
+level: 1
 ---

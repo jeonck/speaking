@@ -5,4 +5,5 @@ summary: "A USDA survey finds that American schools are increasingly serving loc
 tags: ["food", "education"]
 video_id: "pvZVZnFTUCI"
 duration: 26
+level: 2
 ---

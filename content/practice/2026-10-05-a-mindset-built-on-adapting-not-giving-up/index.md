@@ -5,4 +5,5 @@ summary: "The speaker explains that their injury wasn't really why they chose po
 tags: ["sports", "body-and-mind"]
 video_id: "dlNi273SauE"
 duration: 24
+level: 2
 ---

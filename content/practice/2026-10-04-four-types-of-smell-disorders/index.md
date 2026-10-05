@@ -5,4 +5,5 @@ summary: "This segment defines four smell-related conditions—hyposmia, anosmia
 tags: ["health", "body-and-mind", "science"]
 video_id: "_Qyp157Az50"
 duration: 25
+level: 2
 ---

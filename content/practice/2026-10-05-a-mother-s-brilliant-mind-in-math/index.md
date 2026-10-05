@@ -5,4 +5,5 @@ summary: "The speaker credits watching her mother's gift for math and science ev
 tags: ["education", "careers"]
 video_id: "-OKCsaksamI"
 duration: 26
+level: 3
 ---

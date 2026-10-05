@@ -5,4 +5,5 @@ summary: "A researcher explains that understanding how galanin affects brain cir
 tags: ["science", "health", "body-and-mind"]
 video_id: "4DiSB0u00nU"
 duration: 25
+level: 3
 ---

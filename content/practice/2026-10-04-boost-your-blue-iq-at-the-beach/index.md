@@ -5,4 +5,5 @@ summary: "A team including top college athletes wants to raise viewers' 'Blue IQ
 tags: ["oceans", "health", "sports"]
 video_id: "4nxvZTeUct4"
 duration: 26
+level: 1
 ---

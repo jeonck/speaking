@@ -5,4 +5,5 @@ summary: "The speaker describes everyday life abroad, from browsing street vendo
 tags: ["travel", "architecture", "culture"]
 video_id: "yNXox3cmoOc"
 duration: 26
+level: 1
 ---

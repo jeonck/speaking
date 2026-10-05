@@ -5,4 +5,5 @@ summary: "The segment explains how seasonal flooding changes the color and vital
 tags: ["nature", "environment"]
 video_id: "42PUJiJC65Q"
 duration: 25
+level: 2
 ---

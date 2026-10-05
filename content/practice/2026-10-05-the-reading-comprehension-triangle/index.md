@@ -5,4 +5,5 @@ summary: "A literacy researcher describes reading comprehension as a triangle wi
 tags: ["education", "language"]
 video_id: "ooEq08Gs1IU"
 duration: 18
+level: 3
 ---

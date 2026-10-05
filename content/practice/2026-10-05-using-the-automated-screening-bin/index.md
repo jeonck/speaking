@@ -5,4 +5,5 @@ summary: "A step-by-step travel-tip segment explains how to load, slide, and cle
 tags: ["travel", "technology"]
 video_id: "Ta9Wfc7ECwU"
 duration: 23
+level: 1
 ---

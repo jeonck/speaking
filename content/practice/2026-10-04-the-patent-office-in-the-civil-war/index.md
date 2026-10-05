@@ -5,4 +5,5 @@ summary: "The segment describes how the U.S. Patent Office served as a barracks,
 tags: ["history", "inventors"]
 video_id: "5uNc_ZUeQrs"
 duration: 26
+level: 2
 ---

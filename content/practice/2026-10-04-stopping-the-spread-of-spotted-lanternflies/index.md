@@ -5,4 +5,5 @@ summary: "The segment explains how spotted lanternflies damage plants and spread
 tags: ["animals", "nature", "environment"]
 video_id: "uLukSynTyqs"
 duration: 25
+level: 2
 ---

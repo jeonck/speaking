@@ -5,4 +5,5 @@ summary: "The segment gives step-by-step instructions for draining water, drying
 tags: ["environment", "nature", "animals"]
 video_id: "RgweRWM1vIQ"
 duration: 27
+level: 2
 ---

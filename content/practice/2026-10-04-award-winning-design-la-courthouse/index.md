@@ -5,4 +5,5 @@ summary: "The segment describes two award-winning features of the Los Angeles Co
 tags: ["architecture", "cities", "arts"]
 video_id: "vrc-ltr7_kI"
 duration: 25
+level: 3
 ---

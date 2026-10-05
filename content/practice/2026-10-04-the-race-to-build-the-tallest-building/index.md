@@ -5,4 +5,5 @@ summary: "After the first skyscraper, builders in Chicago and New York competed 
 tags: ["cities", "architecture", "history"]
 video_id: "yfPivlhb3b4"
 duration: 30
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "A surfer describes how the sport built her assertiveness and shares ho
 tags: ["sports", "environment", "careers"]
 video_id: "YYFLUfuKwXs"
 duration: 26
+level: 2
 ---

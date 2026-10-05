@@ -5,4 +5,5 @@ summary: "A juror and designer describe how the concept of transparency, both li
 tags: ["architecture", "culture"]
 video_id: "pgai_6wTP_I"
 duration: 26
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "The speaker, who comes from a seafaring people, reflects on how teachi
 tags: ["culture", "arts", "history"]
 video_id: "-B47lvOdvI4"
 duration: 26
+level: 2
 ---

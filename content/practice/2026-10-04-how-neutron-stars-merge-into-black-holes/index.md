@@ -5,4 +5,5 @@ summary: "The segment explains how dense neutron stars orbit and merge, producin
 tags: ["space", "science", "nasa"]
 video_id: "mt6vcy-hssA"
 duration: 25
+level: 1
 ---

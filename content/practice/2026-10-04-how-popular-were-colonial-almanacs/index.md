@@ -5,4 +5,5 @@ summary: "The segment explains how almanac sales soared in colonial America, why
 tags: ["history", "culture"]
 video_id: "S4-lSOQV9p0"
 duration: 26
+level: 3
 ---

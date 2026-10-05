@@ -5,4 +5,5 @@ summary: "A researcher explains how tracking brain activity during visual illusi
 tags: ["science", "body-and-mind"]
 video_id: "7bBXs8WcvFE"
 duration: 27
+level: 2
 ---

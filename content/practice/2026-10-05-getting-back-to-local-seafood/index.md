@@ -5,4 +5,5 @@ summary: "A seafood restaurant explains how most of its menu is seafood sourced 
 tags: ["food", "business-english", "culture"]
 video_id: "ZCfF2LoiqO0"
 duration: 26
+level: 2
 ---

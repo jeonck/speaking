@@ -5,4 +5,5 @@ summary: "This segment describes how genetic changes in the JC virus can let it 
 tags: ["health", "science", "body-and-mind"]
 video_id: "zXOeKjD2nQo"
 duration: 26
+level: 1
 ---

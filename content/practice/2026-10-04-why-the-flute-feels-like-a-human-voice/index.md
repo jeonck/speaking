@@ -5,4 +5,5 @@ summary: "A flutemaker describes a lifelong fascination with the flute, explaini
 tags: ["culture", "arts", "body-and-mind"]
 video_id: "LcqlDjxPVE4"
 duration: 26
+level: 1
 ---

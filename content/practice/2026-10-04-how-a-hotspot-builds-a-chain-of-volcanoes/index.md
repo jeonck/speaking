@@ -5,4 +5,5 @@ summary: "A geologist explains how a hotspot, a fixed area of melting deep withi
 tags: ["science", "nature"]
 video_id: "5xV4BhAVXzg"
 duration: 25
+level: 2
 ---

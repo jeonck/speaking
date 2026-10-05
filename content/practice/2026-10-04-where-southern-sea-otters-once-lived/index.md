@@ -5,4 +5,5 @@ summary: "The segment explains the historical range of the southern sea otter su
 tags: ["animals", "oceans", "environment"]
 video_id: "EED54e23D5g"
 duration: 24
+level: 3
 ---

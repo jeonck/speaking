@@ -68,7 +68,7 @@
       {{- $d := false }}{{ with .Resources.Get "data.json" }}{{ $d = . | transform.Unmarshal }}{{ end }}
       {{- $tags := slice }}{{ range .Params.tags }}{{ $tags = $tags | append (partial "tag_name.html" .) }}{{ end }}
       {{- $n := 0 }}{{ $line := "" }}{{ with $d }}{{ $n = len .sentences }}{{ $line = (index .sentences 0).text }}{{ end }}
-      {{- $picks = $picks | append (dict "url" .RelPermalink "title" .Title "secs" (.Params.duration | default 0) "tags" $tags "n" $n "line" $line) }}
+      {{- $picks = $picks | append (dict "url" .RelPermalink "title" .Title "secs" (.Params.duration | default 0) "tags" $tags "n" $n "line" $line "level" (.Params.level | default 0)) }}
     {{- end }}
     <script type="application/json" id="home-today">{{ $picks | jsonify | safeJS }}</script>
   </section>
@@ -80,6 +80,7 @@
       <button type="button" class="pr-link-btn home-continue-clear" data-continue-clear>기록 모두 지우기</button>
     </div>
     <ul class="home-continue-list" data-continue-list></ul>
+    <p class="home-level-rec" data-level-rec hidden></p>
     <p class="home-continue-note">잊어버리기 직전에 다시 들으면 오래 기억해요. 연습한 날이 쌓일수록 1·2·4·7·15·30일 간격으로 복습을 알려 드려요. 기록은 이 브라우저에만 저장돼요.</p>
   </section>
 

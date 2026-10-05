@@ -5,4 +5,5 @@ summary: "This segment gives practical tips for staying safe in extreme heat, in
 tags: ["weather", "health", "body-and-mind"]
 video_id: "FHXUAFqnuTw"
 duration: 25
+level: 1
 ---

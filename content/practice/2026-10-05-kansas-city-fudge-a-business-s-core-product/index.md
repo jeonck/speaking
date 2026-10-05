@@ -5,4 +5,5 @@ summary: "The speaker describes the wide range of candy their business makes, bu
 tags: ["business-english", "food"]
 video_id: "tYrViB9qNZo"
 duration: 24
+level: 1
 ---

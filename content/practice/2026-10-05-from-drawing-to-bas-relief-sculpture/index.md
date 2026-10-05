@@ -5,4 +5,5 @@ summary: "A U.S. Mint sculptor explains that whether a design comes from the scu
 tags: ["arts", "careers"]
 video_id: "NgLNi4s4cc0"
 duration: 23
+level: 3
 ---

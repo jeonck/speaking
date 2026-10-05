@@ -5,4 +5,5 @@ summary: "A business owner describes building an apparel company focused on crea
 tags: ["business-english", "careers"]
 video_id: "8NtiCLhDsCA"
 duration: 27
+level: 2
 ---

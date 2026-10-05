@@ -5,4 +5,5 @@ summary: "A famous astronomer in the 1800s and the first American to discover a 
 tags: ["history", "space"]
 video_id: "qjzb0ZRKtGE"
 duration: 25
+level: 3
 ---

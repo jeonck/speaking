@@ -5,4 +5,5 @@ summary: "A researcher explains how ultrasound imaging helps track muscle and ne
 tags: ["health", "body-and-mind", "science"]
 video_id: "BL-z9Y2pvnw"
 duration: 26
+level: 2
 ---

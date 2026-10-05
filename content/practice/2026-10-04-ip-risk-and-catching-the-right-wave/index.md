@@ -5,4 +5,5 @@ summary: "An entrepreneur reflects on how a patent made their company possible, 
 tags: ["business-english", "inventors", "sports"]
 video_id: "aGDNAbNoLHY"
 duration: 26
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "A guide describes the beauty of sunrise over the Capitol Dome and expl
 tags: ["architecture", "nature"]
 video_id: "ao3mxCVxIDM"
 duration: 26
+level: 2
 ---

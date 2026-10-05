@@ -5,4 +5,5 @@ summary: "During the War of 1812, British troops set fire to Washington's public
 tags: ["history", "architecture", "cities"]
 video_id: "-21tV-IYufw"
 duration: 23
+level: 3
 ---

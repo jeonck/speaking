@@ -5,4 +5,5 @@ summary: "A Peace Corps volunteer describes the close friendships she has built 
 tags: ["language", "culture", "travel"]
 video_id: "yF_I6D6pyZs"
 duration: 23
+level: 1
 ---

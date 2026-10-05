@@ -5,4 +5,5 @@ summary: "The segment contrasts how the Webb and Roman space telescopes will stu
 tags: ["space", "nasa", "science"]
 video_id: "45kYrhr_bQo"
 duration: 26
+level: 3
 ---

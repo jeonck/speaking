@@ -5,4 +5,5 @@ summary: "Student teams on two tracks, engineering and atmospheric science, buil
 tags: ["space", "weather", "education"]
 video_id: "7UqEGElLxfs"
 duration: 26
+level: 3
 ---

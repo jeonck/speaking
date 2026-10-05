@@ -5,4 +5,5 @@ summary: "The segment describes restoration projects in the Gulf of Mexico and G
 tags: ["oceans", "environment", "natural-disasters"]
 video_id: "3V2_OZRXZdM"
 duration: 25
+level: 3
 ---

@@ -5,4 +5,5 @@ summary: "Starting a business can be a great career and creates chances for othe
 tags: ["business-english", "careers"]
 video_id: "qx2R3jni0RI"
 duration: 23
+level: 2
 ---

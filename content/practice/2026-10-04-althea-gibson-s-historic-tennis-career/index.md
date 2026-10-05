@@ -5,4 +5,5 @@ summary: "The segment traces Althea Gibson's tennis milestones, from her first l
 tags: ["sports", "history", "culture"]
 video_id: "SU3xOewOWdU"
 duration: 25
+level: 1
 ---

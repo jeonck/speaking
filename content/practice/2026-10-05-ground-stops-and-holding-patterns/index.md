@@ -5,4 +5,5 @@ summary: "The segment explains how the FAA keeps planes on the ground during a g
 tags: ["travel", "weather"]
 video_id: "1O3iGACTfN8"
 duration: 25
+level: 1
 ---

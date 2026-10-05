@@ -5,4 +5,5 @@ summary: "This update covers typical swarm earthquake activity caused by water a
 tags: ["natural-disasters", "national-parks", "science"]
 video_id: "5xV4BhAVXzg"
 duration: 25
+level: 2
 ---

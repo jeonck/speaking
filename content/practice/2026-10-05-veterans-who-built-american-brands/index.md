@@ -5,4 +5,5 @@ summary: "The segment describes U.S. military veterans who went on to found majo
 tags: ["business-english", "history", "careers"]
 video_id: "SbWmtWkDLmo"
 duration: 26
+level: 2
 ---

@@ -5,4 +5,5 @@ summary: "The speaker recalls a demanding daily class and homework schedule whil
 tags: ["language", "education"]
 video_id: "jM_CLf-f5HE"
 duration: 22
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "A speaker explains how training in sports lets women and girls become 
 tags: ["sports", "culture", "body-and-mind"]
 video_id: "sEQuSjKLTEU"
 duration: 24
+level: 3
 ---

@@ -5,4 +5,5 @@ summary: "A designer in the Artistic Infusion Program describes creating a desig
 tags: ["arts", "national-parks", "history"]
 video_id: "GNMJe72q0pc"
 duration: 26
+level: 1
 ---

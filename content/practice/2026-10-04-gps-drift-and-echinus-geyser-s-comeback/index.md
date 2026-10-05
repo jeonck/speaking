@@ -5,4 +5,5 @@ summary: "An update on Yellowstone's monitoring stations and Echinus Geyser, whi
 tags: ["national-parks", "nature", "science"]
 video_id: "D86-mFw265k"
 duration: 26
+level: 2
 ---

@@ -5,4 +5,5 @@ summary: "This segment introduces the zero-gravity indicator, a soft toy mascot 
 tags: ["nasa", "space", "technology"]
 video_id: "QquPhtSOxas"
 duration: 26
+level: 2
 ---

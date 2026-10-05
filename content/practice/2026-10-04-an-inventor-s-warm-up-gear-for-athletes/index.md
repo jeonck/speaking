@@ -5,4 +5,5 @@ summary: "An inventor describes a warm-up device with a knee brace, resistance c
 tags: ["sports", "inventors"]
 video_id: "8b6xdk8xEc4"
 duration: 30
+level: 2
 ---

@@ -5,4 +5,5 @@ summary: "The speaker describes growing up in Puerto Rico, being introduced to e
 tags: ["education", "careers", "technology"]
 video_id: "S49l1P-d8rg"
 duration: 21
+level: 2
 ---

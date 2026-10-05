@@ -5,4 +5,5 @@ summary: "A speaker reflects on lifelong friendships built through international
 tags: ["sports", "culture", "careers"]
 video_id: "AtSnZKesd1U"
 duration: 25
+level: 2
 ---

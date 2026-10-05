@@ -5,4 +5,5 @@ summary: "A volunteer recalls learning about their assignment to Burkina Faso an
 tags: ["travel", "culture"]
 video_id: "1ZEzk1awIIA"
 duration: 31
+level: 1
 ---

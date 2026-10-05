@@ -5,4 +5,5 @@ summary: "This segment compares the rough, foul-free Massachusetts Game of early
 tags: ["sports", "history"]
 video_id: "HxI4_IeTJh4"
 duration: 26
+level: 2
 ---

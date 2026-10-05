@@ -5,4 +5,5 @@ summary: "The speaker describes a city's smart-mobility efforts, from an integra
 tags: ["cities", "technology", "travel"]
 video_id: "11Rr7W4rRuk"
 duration: 25
+level: 3
 ---

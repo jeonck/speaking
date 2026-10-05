@@ -5,4 +5,5 @@ summary: "This segment describes how a major winery used satellite data to cut w
 tags: ["environment", "technology", "business-english"]
 video_id: "azD5lXx59Lg"
 duration: 25
+level: 2
 ---

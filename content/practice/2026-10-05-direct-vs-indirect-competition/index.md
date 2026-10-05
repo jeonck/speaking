@@ -5,4 +5,5 @@ summary: "The speaker explains why entrepreneurs should analyze their market for
 tags: ["business-english", "careers"]
 video_id: "l7Q3P6dXxbM"
 duration: 25
+level: 3
 ---

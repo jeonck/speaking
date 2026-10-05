@@ -5,4 +5,5 @@ summary: "The segment describes the State Department's English Language Fellow p
 tags: ["language", "education", "careers"]
 video_id: "o-292Kcdtuc"
 duration: 25
+level: 1
 ---

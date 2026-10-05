@@ -5,4 +5,5 @@ summary: "The segment explains name, image, and likeness (NIL) rights, showing h
 tags: ["sports", "business-english", "careers"]
 video_id: "_RTP_3zrvQs"
 duration: 27
+level: 2
 ---

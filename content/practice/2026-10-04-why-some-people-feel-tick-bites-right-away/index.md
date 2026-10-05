@@ -5,4 +5,5 @@ summary: "This segment explains that ticks can be hard to find and remove, but s
 tags: ["health", "science", "animals"]
 video_id: "iYsORJAQAfc"
 duration: 26
+level: 1
 ---

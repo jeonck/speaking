@@ -5,4 +5,5 @@ summary: "A pool player describes how a childhood pool table started a lifelong 
 tags: ["sports", "body-and-mind"]
 video_id: "dlNi273SauE"
 duration: 22
+level: 3
 ---

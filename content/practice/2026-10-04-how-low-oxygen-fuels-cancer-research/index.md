@@ -5,4 +5,5 @@ summary: "A cancer researcher explains how staining mouse cells reveals proteins
 tags: ["health", "science", "body-and-mind"]
 video_id: "H7W4tLfZAaI"
 duration: 28
+level: 2
 ---

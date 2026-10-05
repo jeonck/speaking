@@ -5,4 +5,5 @@ summary: "The segment uses a coffee machine to show how everyday inventions are 
 tags: ["inventors", "technology"]
 video_id: "G_0uk05Pz3w"
 duration: 25
+level: 2
 ---

@@ -5,4 +5,5 @@ summary: "The segment gives Missouri homeowners tips on sourcing local firewood 
 tags: ["environment", "nature", "animals"]
 video_id: "hKetKAPhqhI"
 duration: 25
+level: 3
 ---

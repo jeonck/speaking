@@ -5,4 +5,5 @@ summary: "Standing at the site of a new pedestrian bridge next to the Metropolit
 tags: ["cities", "travel", "culture"]
 video_id: "m-4fgp7iIMQ"
 duration: 24
+level: 1
 ---

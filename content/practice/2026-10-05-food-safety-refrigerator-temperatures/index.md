@@ -5,4 +5,5 @@ summary: "Guidance on refrigerating or freezing perishable food promptly, avoidi
 tags: ["food", "health", "body-and-mind"]
 video_id: "O9vPNjlqHBc"
 duration: 25
+level: 2
 ---

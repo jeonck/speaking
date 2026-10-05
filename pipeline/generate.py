@@ -35,6 +35,7 @@ import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+from level import level_of
 from transcript import (
     InputError,
     align_sentences,
@@ -415,6 +416,7 @@ summary: {yaml_quote(result['summary'])}
 tags: [{tags_str}]
 video_id: {yaml_quote(item['video_id'])}
 duration: {duration_seconds}
+level: {level_of(result["sentences"])}
 ---
 """
     (dir_path / "index.md").write_text(index_md, encoding="utf-8")

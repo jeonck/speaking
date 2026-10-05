@@ -5,4 +5,5 @@ summary: "The history of iceberg A23a, from calving off Antarctica's Filchner Ic
 tags: ["oceans", "nature", "science"]
 video_id: "qfFwKaKKgK0"
 duration: 25
+level: 2
 ---

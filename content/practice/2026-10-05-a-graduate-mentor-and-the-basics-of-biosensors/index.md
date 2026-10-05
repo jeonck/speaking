@@ -5,4 +5,5 @@ summary: "The speaker recalls a graduate mentor who was both a gourmet cook and 
 tags: ["inventors", "science", "health"]
 video_id: "qZaAXLgBVvE"
 duration: 26
+level: 2
 ---

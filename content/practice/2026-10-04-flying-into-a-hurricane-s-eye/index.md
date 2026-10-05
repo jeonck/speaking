@@ -5,4 +5,5 @@ summary: "A P-3 hurricane hunter aircraft flies through devastating winds, and a
 tags: ["weather", "natural-disasters", "careers"]
 video_id: "70n7riR6fCM"
 duration: 25
+level: 1
 ---

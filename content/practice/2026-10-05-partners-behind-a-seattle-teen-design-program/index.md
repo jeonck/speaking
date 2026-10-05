@@ -5,4 +5,5 @@ summary: "The speaker explains how a city parks department, a community center, 
 tags: ["cities", "education", "arts"]
 video_id: "aGIe-BA2b0k"
 duration: 26
+level: 3
 ---

@@ -5,4 +5,5 @@ summary: "The speaker describes transitioning from a military career as an infan
 tags: ["business-english", "careers"]
 video_id: "dT0ESOQQKH0"
 duration: 20
+level: 3
 ---

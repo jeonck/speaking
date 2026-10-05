@@ -5,4 +5,5 @@ summary: "The speaker explains how AI-powered predictions are tested in the lab 
 tags: ["health", "technology", "science"]
 video_id: "4HOvs3V-EFM"
 duration: 26
+level: 3
 ---

@@ -5,4 +5,5 @@ summary: "A Navy veteran describes building a welcoming coffee shop inspired by 
 tags: ["business-english", "careers"]
 video_id: "f1K6s0QBvKg"
 duration: 27
+level: 3
 ---

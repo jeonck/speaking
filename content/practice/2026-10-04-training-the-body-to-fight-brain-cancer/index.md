@@ -5,4 +5,5 @@ summary: "A researcher explains how attaching sugar chains to tumor cells can tr
 tags: ["science", "health", "body-and-mind"]
 video_id: "9GSds-AfcFI"
 duration: 26
+level: 2
 ---

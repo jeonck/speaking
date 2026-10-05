@@ -5,4 +5,5 @@ summary: "This update explores the hydrothermal explosion craters near Roaring M
 tags: ["natural-disasters", "national-parks", "nature"]
 video_id: "-58gT5f1OOc"
 duration: 26
+level: 2
 ---

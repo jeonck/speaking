@@ -5,4 +5,5 @@ summary: "NOAA and NASA have partnered for nearly 50 years to build the world's 
 tags: ["weather", "nasa", "technology"]
 video_id: "CkOdrjI5dkU"
 duration: 25
+level: 3
 ---

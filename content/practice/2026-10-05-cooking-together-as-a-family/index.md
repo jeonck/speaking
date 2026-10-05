@@ -5,4 +5,5 @@ summary: "A parent describes how giving children jobs in the kitchen makes them 
 tags: ["food", "health", "education"]
 video_id: "1xdJTFmLpE0"
 duration: 27
+level: 2
 ---

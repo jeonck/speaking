@@ -5,4 +5,5 @@ summary: "A class watches an old silent film about collecting mail, and the stud
 tags: ["education", "history"]
 video_id: "RKC88CW3h00"
 duration: 25
+level: 1
 ---

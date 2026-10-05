@@ -21,6 +21,7 @@ from datetime import datetime
 from pathlib import Path
 
 from generate import CONTENT_DIR, KST, parse_result, slugify, yaml_quote
+from level import level_of
 
 SAMPLE_RATE = 44100
 
@@ -85,6 +86,7 @@ date: {now.isoformat()}
 summary: {yaml_quote(result['summary'])}
 tags: [{tags}]
 duration: {round(total)}
+level: {level_of(result["sentences"])}
 ---
 """, encoding="utf-8")
     data = {

@@ -5,4 +5,5 @@ summary: "An explanation of how dissolved gases in magma, especially sulfur diox
 tags: ["science", "nature", "natural-disasters"]
 video_id: "pKJDW8oOXuU"
 duration: 26
+level: 2
 ---

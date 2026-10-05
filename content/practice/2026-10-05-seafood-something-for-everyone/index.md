@@ -5,4 +5,5 @@ summary: "The segment highlights the variety of U.S. seafood, from finfish to sh
 tags: ["food", "health", "oceans"]
 video_id: "XBfGX8hsLN4"
 duration: 24
+level: 1
 ---

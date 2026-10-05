@@ -5,4 +5,5 @@ summary: "The segment explains how cells copy genes into messenger RNA, and how 
 tags: ["science", "health", "body-and-mind"]
 video_id: "6AR2CHKy5FU"
 duration: 26
+level: 3
 ---

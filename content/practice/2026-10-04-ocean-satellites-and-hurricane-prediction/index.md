@@ -5,4 +5,5 @@ summary: "This segment explains how scientists use a fleet of ocean-observing to
 tags: ["weather", "natural-disasters", "oceans"]
 video_id: "eKJkcIKEQO0"
 duration: 26
+level: 2
 ---

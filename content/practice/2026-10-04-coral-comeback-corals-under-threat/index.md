@@ -5,4 +5,5 @@ summary: "The segment describes how a mass bleaching event in 2016, caused by an
 tags: ["oceans", "nature", "environment"]
 video_id: "Pb36NsERXrU"
 duration: 26
+level: 1
 ---

@@ -5,4 +5,5 @@ summary: "NASA explains that the asteroid Apophis will pass unusually close to E
 tags: ["space", "nasa", "science"]
 video_id: "VUq3ClMyNUw"
 duration: 22
+level: 1
 ---

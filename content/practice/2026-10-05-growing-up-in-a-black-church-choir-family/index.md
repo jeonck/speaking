@@ -5,4 +5,5 @@ summary: "The speaker describes growing up in Miami with family life centered on
 tags: ["arts", "culture"]
 video_id: "PSp5dR4azp4"
 duration: 25
+level: 1
 ---

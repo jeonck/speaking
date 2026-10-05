@@ -5,4 +5,5 @@ summary: "A basketball player talks about how playing with girls from different 
 tags: ["sports", "culture"]
 video_id: "CpgAcQmIw8k"
 duration: 26
+level: 2
 ---

@@ -5,4 +5,5 @@ summary: "The speaker reflects on the challenge architects face when adapting hi
 tags: ["architecture", "history", "arts"]
 video_id: "vmXQt6wghe0"
 duration: 26
+level: 3
 ---

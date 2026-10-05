@@ -5,4 +5,5 @@ summary: "The segment describes the massive 1876 Centennial Exposition's main ex
 tags: ["inventors", "history", "technology"]
 video_id: "w6ASAs3siFg"
 duration: 25
+level: 3
 ---

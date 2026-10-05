@@ -5,4 +5,5 @@ summary: "Pregnant females lead the gray whales' southbound migration, followed 
 tags: ["animals", "oceans", "science"]
 video_id: "Cq2rALmjtsg"
 duration: 26
+level: 3
 ---

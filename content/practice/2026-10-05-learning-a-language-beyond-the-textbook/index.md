@@ -5,4 +5,5 @@ summary: "A speaker on an exchange program describes how taxi rides and living w
 tags: ["language", "culture", "travel"]
 video_id: "jM_CLf-f5HE"
 duration: 25
+level: 2
 ---

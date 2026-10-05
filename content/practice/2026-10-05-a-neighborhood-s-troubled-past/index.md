@@ -5,4 +5,5 @@ summary: "The speaker describes how a neighborhood was once surrounded by rundow
 tags: ["cities", "history", "architecture"]
 video_id: "4asSAKKa0Ro"
 duration: 26
+level: 1
 ---

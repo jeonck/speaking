@@ -5,4 +5,5 @@ summary: "The segment explains how everyday cooking actions, like kneading dough
 tags: ["food", "health", "body-and-mind"]
 video_id: "ZGErUO0a6oE"
 duration: 26
+level: 3
 ---

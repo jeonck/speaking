@@ -5,4 +5,5 @@ summary: "A fish biologist explains why Alaska's wild salmon populations remain 
 tags: ["animals", "nature", "environment"]
 video_id: "wo3bPOkeqYY"
 duration: 25
+level: 2
 ---

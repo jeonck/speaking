@@ -5,4 +5,5 @@ summary: "A short guide explains how to identify gopher tortoise burrows by thei
 tags: ["animals", "nature", "environment"]
 video_id: "anC8mjIhbPg"
 duration: 25
+level: 1
 ---

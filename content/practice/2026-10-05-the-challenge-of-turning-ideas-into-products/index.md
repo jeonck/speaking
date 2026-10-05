@@ -5,4 +5,5 @@ summary: "The segment contrasts how easy it is to come up with ideas with how ha
 tags: ["business-english", "inventors"]
 video_id: "b-msGs6UH6U"
 duration: 27
+level: 1
 ---

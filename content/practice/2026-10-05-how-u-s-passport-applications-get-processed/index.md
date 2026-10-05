@@ -5,4 +5,5 @@ summary: "The segment explains how Americans can renew or apply for passports on
 tags: ["travel", "technology"]
 video_id: "ipKhNJcxfvs"
 duration: 26
+level: 3
 ---

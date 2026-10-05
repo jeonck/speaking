@@ -5,4 +5,5 @@ summary: "A speaker reflects on how many architecture projects lose their origin
 tags: ["architecture", "technology"]
 video_id: "vrc-ltr7_kI"
 duration: 25
+level: 2
 ---

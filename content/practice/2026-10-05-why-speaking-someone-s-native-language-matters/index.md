@@ -5,4 +5,5 @@ summary: "The speaker reflects on how speaking someone's native language builds 
 tags: ["language", "culture"]
 video_id: "rYWFrePFv3w"
 duration: 25
+level: 3
 ---

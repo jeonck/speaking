@@ -5,4 +5,5 @@ summary: "The speaker describes rare observations of a Gila monster trying to di
 tags: ["animals", "nature", "environment"]
 video_id: "a5UG97nfov8"
 duration: 25
+level: 2
 ---

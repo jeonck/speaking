@@ -1,0 +1,4 @@
+{{- /* 난이도 배지 — 막대 셋 중 몇 개가 찼는지 + 이름. 인자: 레벨(1~3). 레벨이 없으면 아무것도 그리지 않는다 */ -}}
+{{- with . }}{{ $n := int . }}{{ if and (ge $n 1) (le $n 3) }}
+<span class="pr-level pr-level--{{ $n }}" title="난이도: 말 빠르기·문장 길이·어휘로 매긴 레벨"><span class="pr-level-bars" aria-hidden="true"><i></i><i></i><i></i></span>{{ index (slice "" "입문" "중급" "고급") $n }}</span>
+{{- end }}{{ end -}}

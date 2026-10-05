@@ -5,4 +5,5 @@ summary: "In 1929, Edwin Hubble showed the universe is expanding, and astronomer
 tags: ["space", "nasa", "science"]
 video_id: "CDwemQH2zDU"
 duration: 25
+level: 3
 ---

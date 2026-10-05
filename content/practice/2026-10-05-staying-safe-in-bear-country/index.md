@@ -5,4 +5,5 @@ summary: "A quick guide to how hikers should react if a bear notices them, from 
 tags: ["animals", "national-parks", "nature"]
 video_id: "yF8mdshGyFU"
 duration: 25
+level: 1
 ---

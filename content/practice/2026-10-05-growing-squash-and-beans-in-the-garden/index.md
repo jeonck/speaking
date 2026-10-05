@@ -5,4 +5,5 @@ summary: "The speaker explains how winter squash can be harvested later with a t
 tags: ["food", "nature"]
 video_id: "mRzugLiJpd4"
 duration: 28
+level: 1
 ---

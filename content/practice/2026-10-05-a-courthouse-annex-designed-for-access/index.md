@@ -5,4 +5,5 @@ summary: "A description of a renovated courthouse entrance, where sloped paths i
 tags: ["architecture", "cities"]
 video_id: "u0arRA7E2wI"
 duration: 28
+level: 2
 ---

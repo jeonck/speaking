@@ -5,4 +5,5 @@ summary: "The segment highlights the engineering and craftsmanship behind the U.
 tags: ["architecture", "history", "cities"]
 video_id: "qvgq1awXNzs"
 duration: 25
+level: 1
 ---

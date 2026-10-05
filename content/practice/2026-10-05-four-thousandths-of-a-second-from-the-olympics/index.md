@@ -5,4 +5,5 @@ summary: "An athlete reflects on narrowly missing the 2014 Olympics and describe
 tags: ["sports", "body-and-mind"]
 video_id: "07vfcNsWPbI"
 duration: 25
+level: 3
 ---
