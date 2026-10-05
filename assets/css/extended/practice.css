@@ -1197,3 +1197,26 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
 .pr-review-next { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.25rem 0.6rem; margin: 0.9rem 0 0; font-size: 0.9375rem; color: var(--pr-body); }
 .pr-review-next b { color: var(--primary); }
 @media (max-width: 640px) { .home-continue-list { grid-template-columns: 1fr; } }
+
+/* ---------- 홈: 근거가 된 연구 ---------- */
+.home-research-link {
+  align-self: center; font-size: 0.875rem; font-weight: 500; color: var(--pr-body);
+  text-decoration: underline; text-underline-offset: 4px; text-decoration-color: var(--pr-rule-strong); box-shadow: none;
+}
+.home-research-link:hover { color: var(--primary); text-decoration-color: var(--primary); }
+.home-research { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 0; padding: 0; list-style: none; }
+.home-research li {
+  display: flex; flex-direction: column; gap: 0.6rem; margin: 0; padding: 1.5rem;
+  border-radius: 16px; border: 1px solid var(--pr-rule); background: var(--pr-paper);
+}
+.home-research-finding { margin: 0; font-size: 1rem; line-height: 1.65; color: var(--primary); }
+.home-research-use { margin: 0; font-size: 0.8125rem; font-weight: 600; color: var(--pr-ok); }
+.home-research-cite {
+  margin-top: auto; padding-top: 0.75rem; border-top: 1px solid var(--pr-rule);
+  font-size: 0.8125rem; line-height: 1.5; color: var(--secondary); text-decoration: none; box-shadow: none;
+}
+.home-research-cite:hover { color: var(--primary); }
+.home-research-cite::after { content: " ↗"; }
+.home-research-cite:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; border-radius: 4px; }
+@media (max-width: 640px) { .home-research { grid-template-columns: 1fr; } }
+@media (pointer: coarse) { .home-research-link { display: inline-flex; align-items: center; min-height: 44px; } }

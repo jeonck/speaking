@@ -18,6 +18,7 @@
       유튜브 영상의 20~30초 구간을 원어민 속도로 이해하고, 같은 속도로 스피킹하고,
       원고 없이 들어 봐요. 한 구간을 네 단계로, 하루 세 번이면 충분해요.
     </p>
+    <a class="home-research-link" href="#home-research">근거가 된 연구 보기</a>
     <div class="home-actions">
       {{- with $latest }}
       <a class="pr-btn pr-btn--primary pr-btn--lg" href="{{ .RelPermalink }}" data-today-link data-today-cta>최신 실습 시작하기</a>
@@ -156,8 +157,36 @@
     </ol>
   </section>
 
+  {{- /* 근거가 된 연구 — DOI는 Crossref로 확인했다. '증명'이 아니라 이 방법이 기대는 연구라고 밝힌다 */}}
+  <section id="home-research" class="home-band home-band--paper" aria-labelledby="home-research-title">
+    <h2 id="home-research-title" class="home-h2">근거가 된 연구</h2>
+    <p class="home-sublede">말하고, 따라 하고, 간격을 두고 다시 듣는 이 방법은 아래 연구들에 기대고 있어요. 연구마다 대상과 조건이 달라서, 모든 학습자에게 같은 효과를 보장하지는 않아요.</p>
+    <ol class="home-research">
+      <li>
+        <p class="home-research-finding">말소리는 그 소리를 내는 발음 동작을 바탕으로 알아듣는다는 이론이에요. 직접 말해 본 소리가 더 잘 들리는 이유를 설명해요.</p>
+        <p class="home-research-use">스피킹 단계의 바탕</p>
+        <a class="home-research-cite" href="https://doi.org/10.1016/0010-0277(85)90021-6" rel="noopener" target="_blank">Liberman &amp; Mattingly (1985). The motor theory of speech perception revised. <i>Cognition</i>, 21(1), 1–36.</a>
+      </li>
+      <li>
+        <p class="home-research-finding">일본 대학생 43명이 들리는 대로 따라 말하기(섀도잉)를 훈련하자 소리를 구별하는 능력이 좋아졌고, 듣기가 약했던 학습자는 듣기 문제 점수도 올랐어요.</p>
+        <p class="home-research-use">스피킹·가리고 듣기 단계</p>
+        <a class="home-research-cite" href="https://doi.org/10.1177/1362168815597504" rel="noopener" target="_blank">Hamada (2016). Shadowing: Who benefits and how? <i>Language Teaching Research</i>, 20(1), 35–52.</a>
+      </li>
+      <li>
+        <p class="home-research-finding">같은 단어라도 소리 내어 읽은 것이 눈으로만 읽은 것보다 더 잘 기억났어요. 입 모양만 움직여도 효과가 있었어요(산출 효과).</p>
+        <p class="home-research-use">소리 내어 읽는 스피킹 단계</p>
+        <a class="home-research-cite" href="https://doi.org/10.1037/a0018785" rel="noopener" target="_blank">MacLeod, Gopie, Hourihan, Neary &amp; Ozubko (2010). The production effect: Delineation of a phenomenon. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, 36(3), 671–685.</a>
+      </li>
+      <li>
+        <p class="home-research-finding">317개 실험을 모아 분석한 결과, 몰아서 공부하기보다 며칠씩 간격을 두고 나눠 공부할 때 더 오래 기억했어요.</p>
+        <p class="home-research-use">망각 곡선에 맞춘 복습 일정</p>
+        <a class="home-research-cite" href="https://doi.org/10.1037/0033-2909.132.3.354" rel="noopener" target="_blank">Cepeda, Pashler, Vul, Wixted &amp; Rohrer (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <i>Psychological Bulletin</i>, 132(3), 354–380.</a>
+      </li>
+    </ol>
+  </section>
+
   {{- /* 4. 지금 할 수 있는 실습 */}}
-  <section class="home-band home-band--paper" aria-labelledby="home-list-title">
+  <section class="home-band" aria-labelledby="home-list-title">
     <div class="home-section-head">
       <div>
         <h2 id="home-list-title" class="home-h2">최근 실습</h2>
