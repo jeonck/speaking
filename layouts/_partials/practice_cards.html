@@ -8,9 +8,8 @@
       <a class="practice-card" href="{{ .RelPermalink }}">
         <span class="practice-card-badges">
           {{- partial "level_badge.html" .Params.level }}
-          <span class="pr-badge">{{ .Date.Format "1월 2일" }}</span>
-          {{- with .Params.duration }}<span class="pr-badge">{{ . }}초</span>{{ end }}
-          {{- with $data }}<span class="pr-badge">{{ len .sentences }}문장</span>{{ end }}
+          {{- $dur := .Params.duration }}
+          <span class="practice-card-meta">{{ with $dur }}{{ . }}초{{ end }}{{ with $data }}{{ if $dur }} · {{ end }}{{ len .sentences }}문장{{ end }}</span>
         </span>
         {{- with $channel }}<span class="practice-card-channel">{{ . }}</span>{{ end }}
         <span class="practice-card-title">{{ .Title }}</span>

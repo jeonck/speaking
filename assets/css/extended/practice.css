@@ -815,11 +815,34 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 .list-topics:not(.is-open) .tag-chip.is-extra:not(.is-active) { display: none; }
 .tag-chip-count { margin-left: 0.35rem; font-variant-numeric: tabular-nums; color: var(--secondary); }
 .tag-chip.is-active .tag-chip-count { color: inherit; opacity: 0.7; }
-.list-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin: 0 0 1rem; }
-/* 레벨은 왼쪽, 정렬은 오른쪽 끝 — 좁으면 두 줄로 */
-.list-toolbar .list-sort-title { margin-left: auto; }
-@media (max-width: 560px) { .list-toolbar .list-sort-title { margin-left: 0; } }
-.list-toolbar[hidden] { display: none; }
+/* 실습 목록 거르기 — 레벨·정렬 한 줄, 그 아래 기관 칩 한 줄, 카드와는 헤어라인으로 나눈다 */
+.list-filters { display: flex; flex-direction: column; gap: 1rem; margin: 0 0 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--pr-rule); }
+.list-filters[hidden] { display: none; }
+.list-toolbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.5rem; }
+.list-filters .list-topics { margin: 0; gap: 0.4rem; }
+.list-filters .list-topics .tag-chip { min-height: 32px; padding: 0 0.85rem; font-size: 0.8125rem; }
+.list-filters .list-topics-title { margin-right: 0.25rem; font-size: 0.8125rem; }
+.list-hero-links { margin: 1.5rem 0 0; }
+/* 빈 결과 — 막다른 길 대신 되돌아갈 버튼 */
+.list-empty { padding: 3.5rem 1.5rem; border: 1px dashed var(--pr-rule-strong); border-radius: 16px; text-align: center; }
+.list-empty[hidden] { display: none; }
+.list-empty-title { margin: 0; font-family: var(--pr-serif); font-size: 1.75rem; font-weight: 300; line-height: 1.2; color: var(--primary); }
+.list-empty-text { margin: 0.5rem 0 1.25rem; font-size: 0.9375rem; color: var(--pr-body); }
+@media (max-width: 640px) {
+  /* 세그먼트는 줄을 꽉 채우고, 기관 칩은 한 줄로 옆으로 밀어 본다(더 보기 없이 전부) */
+  .list-filters { margin-bottom: 0; } /* 폰에서는 바깥 flex gap이 간격을 맡는다 */
+  .list-toolbar .pr-seg { width: 100%; }
+  .list-toolbar .pr-seg-btn { flex: 1; padding: 0 0.5rem; }
+  .list-filters .list-topics {
+    flex-wrap: nowrap; overflow-x: auto; margin: 0 -1rem; padding: 2px 1rem; scrollbar-width: none;
+    -webkit-mask-image: linear-gradient(90deg, #000 85%, transparent); mask-image: linear-gradient(90deg, #000 85%, transparent);
+  }
+  .list-filters .list-topics::-webkit-scrollbar { display: none; }
+  .list-filters .list-topics > * { flex: none; }
+  .list-filters .list-topics .tag-chip.is-extra { display: inline-flex; }
+  .list-filters .list-topics [data-more] { display: none; }
+}
+@media (pointer: coarse) { .list-filters .list-topics .tag-chip { min-height: 44px; } }
 /* 회색 트랙 위 흰 알약 — 단계 탭과 같은 세그먼트 */
 .pr-seg { display: inline-flex; flex: none; gap: 2px; padding: 3px; border-radius: 9999px; background: var(--pr-surface); }
 .pr-seg-btn {
@@ -838,8 +861,9 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 }
 .practice-card:hover { border-color: var(--pr-rule-strong); box-shadow: 0 12px 40px rgba(0, 0, 0, 0.06); }
 .practice-card:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4px; }
-.practice-card-badges { display: flex; flex-wrap: wrap; gap: 0.35rem; }
-.practice-card-badges .pr-badge { font-size: 0.75rem; }
+.practice-card-badges { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.6rem; }
+.practice-card-badges .pr-badge, .practice-card-badges .pr-level { font-size: 0.75rem; }
+.practice-card-meta { font-size: 0.8125rem; font-weight: 500; color: var(--secondary); font-variant-numeric: tabular-nums; }
 /* 원본 채널 — 제목 바로 위 작은 줄 */
 .practice-card-channel { margin-bottom: -0.35rem; font-size: 0.8125rem; font-weight: 500; color: var(--secondary); }
 .practice-card-title { font-family: var(--pr-serif); font-size: 1.75rem; font-weight: 300; line-height: 1.15; letter-spacing: -0.02em; color: var(--primary); }
@@ -944,7 +968,7 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 .tag-chip.is-active:hover { color: var(--pr-ink-on); }
 .tag-chip--more { background: transparent; border-style: dashed; color: var(--primary); }
 .tag-chip--more:hover { color: var(--primary); }
-.practice-cards > li[hidden] { display: none; }
+.practice-cards[hidden], .practice-cards > li[hidden] { display: none; }
 /* 쪽 이동 — 단계 탭과 같은 회색 트랙 위 알약들, 지금 쪽은 잉크 */
 .list-pager[hidden] { display: none; }
 .list-pager { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.35rem; margin: 2.5rem 0 0; }
