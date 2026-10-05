@@ -1,4 +1,4 @@
-import { saveAttempt, todayCount, previousAttempt as getPreviousAttempt } from "./store.js";
+import { saveAttempt, todayCount, previousAttempt as getPreviousAttempt, localDateISO } from "./store.js";
 import { mountStage1 } from "./stage1.js";
 import { mountStage2 } from "./stage2.js";
 import { mountStage3 } from "./stage3.js";
@@ -13,9 +13,6 @@ const STAGES = [
   { id: "stage4", label: "정리", mount: mountStage4, remount: true },
 ];
 
-function todayISO() {
-  return new Date().toISOString().slice(0, 10);
-}
 
 export function initPractice(root, data, slug) {
   const ctx = { data, slug, player: null, results: {} };
@@ -87,25 +84,30 @@ export function initPractice(root, data, slug) {
       `<div class="pr-progress-bar" aria-hidden="true">${STAGES.map((s) => `<span${done.has(s.id) ? ' class="is-done"' : ""}></span>`).join("")}</div>`;
   }
 
-  // 단계가 결과를 남기면 탭에 ✓를 달고 진행도를 올린다
+  // 단계가 결과를 남기면 탭에 ✓를 달고 진행도를 올린 뒤 이번 시도를 바로 저장한다 —
+  // 정리 단계까지 가지 않고 떠나도 그날의 연습 횟수와 결과가 남게
   ctx.markDone = (id) => {
     done.add(id);
     tabEls[id].classList.add("is-done");
     tabEls[id].querySelector(".pr-step-num").textContent = "✓";
     renderProgress();
+    ctx.recordAttempt();
   };
   ctx.goTo = (id) => showStage(id);
   // ctx는 첫 showStage(mount) 호출 전에 완전히 갖춰져야 한다 — stage1 mount가
   // ctx.attemptNumber 등을 읽는 미래 변경이 undefined를 보지 않도록.
+  // 이 페이지를 연 한 번의 연습 = 시도 하나(id). 단계를 끝낼 때마다 같은 시도를 덮어쓴다
+  ctx.attemptId = Date.now();
+  ctx.attemptDate = localDateISO();
   ctx.recordAttempt = () => {
     try {
-      saveAttempt(slug, { date: todayISO(), ...ctx.results });
+      saveAttempt(slug, { id: ctx.attemptId, date: ctx.attemptDate, ...ctx.results });
     } catch {
       // 저장 실패는 조용히 무시 — 실습 흐름을 막지 않는다 (store.js 자체도 방어하지만 이중 방어)
     }
   };
-  ctx.previousAttempt = getPreviousAttempt(slug);
-  ctx.attemptNumber = todayCount(slug, todayISO()) + 1;
+  ctx.previousAttempt = getPreviousAttempt(slug, ctx.attemptId);
+  ctx.attemptNumber = todayCount(slug, ctx.attemptDate) + 1;
   renderProgress();
 
   // 주소 끝이 #stage2 같으면 그 단계로 바로 연다 (홈의 단계 카드가 쓰는 링크)

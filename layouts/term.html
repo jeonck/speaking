@@ -10,7 +10,7 @@
     {{- end }}
     <p class="practice-meta">
       <span class="pr-badge">실습 {{ len .Pages }}개</span>
-      {{- if $secs }}<span class="pr-badge">듣기 {{ $secs }}초</span>{{ end }}
+      {{- if $secs }}<span class="pr-badge">듣기 {{ if ge $secs 120 }}약 {{ div $secs 60 }}분{{ else }}{{ $secs }}초{{ end }}</span>{{ end }}
       {{- if $sents }}<span class="pr-badge">{{ $sents }}문장</span>{{ end }}
     </p>
     <h1 class="tag-title">{{ partial "tag_name.html" $current }}</h1>

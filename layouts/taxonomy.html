@@ -26,7 +26,7 @@
           <span class="tag-card-name">{{ partial "tag_name.html" .Data.Term }}</span>
           <span class="tag-card-badges">
             <span class="pr-badge">실습 {{ $count }}개</span>
-            {{- if $secs }}<span class="pr-badge">{{ $secs }}초</span>{{ end }}
+            {{- if $secs }}<span class="pr-badge">{{ if ge $secs 120 }}약 {{ div $secs 60 }}분{{ else }}{{ $secs }}초{{ end }}</span>{{ end }}
           </span>
         </span>
         <span class="tag-card-list">

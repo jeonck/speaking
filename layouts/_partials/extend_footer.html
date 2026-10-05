@@ -1,0 +1,5 @@
+{{- /* 개인화 — 이 브라우저의 연습 기록으로 복습 일정(망각 곡선)을 카드·홈에 보여 준다. assets/js/personal.js */ -}}
+{{- with resources.Get "js/personal.js" }}
+{{- $js := . | js.Build (dict "targetPath" "js/personal.js" "minify" hugo.IsProduction "format" "esm") | fingerprint }}
+<script type="module" src="{{ $js.RelPermalink }}"></script>
+{{- end }}

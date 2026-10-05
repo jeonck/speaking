@@ -72,6 +72,16 @@
   </section>
 
   {{- /* 2. 원고의 표시를 읽는 법 */}}
+  {{- /* 복습 — 이 브라우저에 연습 기록이 있을 때만 보인다(채우는 스크립트: assets/js/personal.js) */}}
+  <section class="home-band home-continue" aria-labelledby="home-continue-title" data-continue hidden>
+    <div class="home-section-head">
+      <h2 id="home-continue-title" class="home-h2" data-continue-title>오늘 복습할 실습</h2>
+      <button type="button" class="pr-link-btn home-continue-clear" data-continue-clear>기록 모두 지우기</button>
+    </div>
+    <ul class="home-continue-list" data-continue-list></ul>
+    <p class="home-continue-note">잊어버리기 직전에 다시 들으면 오래 기억해요. 연습한 날이 쌓일수록 1·2·4·7·15·30일 간격으로 복습을 알려 드려요. 기록은 이 브라우저에만 저장돼요.</p>
+  </section>
+
   <section class="home-band home-band--paper" aria-labelledby="home-marks">
     <h2 id="home-marks" class="home-h2">원고는 이렇게 읽어요</h2>
     {{- /* 최신 실습의 한 문장을 실습 페이지와 같은 표기(강세·연음 ‿)로 */}}

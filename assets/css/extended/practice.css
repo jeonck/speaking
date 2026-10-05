@@ -856,7 +856,9 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 
 /* 주제 목록 — 파스텔 구슬 카드 그리드 */
 .tag-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.75rem; margin: 0; padding: 0; list-style: none; }
-.tag-cards li { margin: 0; }
+/* 한 줄의 카드는 같은 높이로 — 실습 제목이 한 줄인 카드만 짧아지지 않게 */
+.tag-cards li { margin: 0; display: flex; }
+.tag-cards li > .tag-card { flex: 1; }
 .tag-card {
   position: relative; isolation: isolate; overflow: clip; /* hidden은 내부 스크롤이 생겨 구슬 때문에 내용이 밀린다 */
   display: flex; flex-direction: column; gap: 1.1rem; min-height: 200px;
@@ -1173,3 +1175,25 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
 /* 주제 표현은 12개만 먼저 — 버튼을 누르면 모두 */
 .tag-vocab-list:not(.is-open) > li.is-extra { display: none; }
 .tag-vocab-more { display: flex; margin: 1.25rem auto 0; }
+
+/* ---------- 개인화: 복습 일정(망각 곡선) ---------- */
+.pr-badge.pr-badge--mine { background: var(--pr-ok-soft); color: var(--pr-ok); }
+.pr-badge.pr-badge--mine.is-due { background: var(--pr-mark); color: var(--primary); }
+.home-continue[hidden] { display: none; }
+.home-continue .home-section-head { align-items: flex-end; }
+.home-continue-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem; margin: 0; padding: 0; list-style: none; }
+.home-continue-list li { margin: 0; }
+.home-continue-item {
+  display: flex; flex-direction: column; gap: 0.6rem; height: 100%; padding: 1.1rem 1.25rem;
+  border-radius: 16px; border: 1px solid var(--pr-rule); background: var(--pr-paper);
+  color: inherit; text-decoration: none; box-shadow: none; transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.home-continue-item:hover { border-color: var(--pr-rule-strong); box-shadow: var(--pr-shadow); }
+.home-continue-item:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
+.home-continue-title { font-family: var(--pr-serif); font-size: 1.35rem; font-weight: 300; line-height: 1.2; color: var(--primary); }
+.home-continue-meta { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.home-continue-meta .pr-badge { font-size: 0.75rem; }
+.home-continue-note { margin: 1rem 0 0; max-width: 60ch; font-size: 0.875rem; line-height: 1.6; color: var(--secondary); }
+.pr-review-next { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.25rem 0.6rem; margin: 0.9rem 0 0; font-size: 0.9375rem; color: var(--pr-body); }
+.pr-review-next b { color: var(--primary); }
+@media (max-width: 640px) { .home-continue-list { grid-template-columns: 1fr; } }

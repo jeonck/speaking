@@ -174,6 +174,7 @@ export function mountStage3(panel, ctx) {
         if (accuracies.length === data.sentences.length) {
           const avg = accuracies.reduce((a, b) => a + b, 0) / accuracies.length;
           ctx.results.stage3.dictationAccuracy = avg;
+          ctx.recordAttempt(); // 받아쓰기 점수도 이번 시도에 남긴다
           const summary = section.querySelector(".pr-dict-summary");
           summary.hidden = false;
           summary.innerHTML =

@@ -1,6 +1,8 @@
 import { renderStressedSentence, renderChunks, escapeHtml, goalCard } from "./markup.js";
 import { formatSeconds } from "./timer.js";
 import { togglePlay } from "./playback.js";
+import { clearHistory, loadHistory, localDateISO } from "./store.js";
+import { reviewState } from "./review.js";
 
 const DAILY_SETS = 3; // 영상에서 권한 "하루 세 번"
 
@@ -32,6 +34,12 @@ export function mountStage4(panel, ctx) {
   const p3 = prev && prev.stage3;
 
   const setsDone = Math.min(attemptNumber, DAILY_SETS);
+  // 망각 곡선 복습 일정 — 단계를 마칠 때마다 저장되므로 이번 연습까지 반영돼 있다
+  const review = reviewState(loadHistory(ctx.slug).attempts, localDateISO());
+  const nextReview = review
+    ? `<p class="pr-review-next"><b>다음 복습 ${Number(review.due.slice(5, 7))}월 ${Number(review.due.slice(8))}일</b>` +
+      `<span>${review.days > 0 ? `${review.days}일 뒤` : "오늘"} 다시 들으면 오래 기억해요${review.weak ? ". 이번엔 어려웠던 만큼 간격을 짧게 잡았어요" : ""}.</span></p>`
+    : "";
   // 하루 세트 진행 막대 — 칸마다 한 세트
   const segments = Array.from(
     { length: DAILY_SETS },
@@ -74,6 +82,7 @@ export function mountStage4(panel, ctx) {
     <div class="pr-sets">
       <p class="pr-sets-text"><b>오늘 ${attemptNumber}회째</b> 연습이에요<span>하루 ${DAILY_SETS}번 반복을 권해요.</span></p>
       <div class="pr-set-bar" role="img" aria-label="오늘 ${setsDone}/${DAILY_SETS}세트">${segments}</div>
+      ${nextReview}
     </div>
     <h3 class="pr-section-title">이번 결과${prev ? ` <small>(직전 ${escapeHtml(String(prev.date))} 대비)</small>` : ""}</h3>
     <div class="practice-result-grid">${cards}</div>
@@ -104,9 +113,10 @@ export function mountStage4(panel, ctx) {
         .join("")}
     </div>
     <div class="pr-finish">
-      <p class="pr-finish-title">오늘 연습을 기록할까요?</p>
-      <p class="pr-finish-why">저장하면 다음 연습 때 이번 결과와 비교해 보여 드려요.</p>
-      <button class="pr-restart pr-btn pr-btn--primary pr-btn--lg" type="button">✓ 기록 저장하고 다시 하기</button>
+      <p class="pr-finish-title">결과는 자동으로 저장돼요</p>
+      <p class="pr-finish-why">단계를 마칠 때마다 이 브라우저에만 저장하고, 다음 연습 때 이번 결과와 비교해 보여 드려요.</p>
+      <button class="pr-restart pr-btn pr-btn--primary pr-btn--lg" type="button">↺ 처음부터 다시 하기</button>
+      <button class="pr-clear pr-link-btn" type="button">이 실습 기록 지우기</button>
     </div>
   `;
 
@@ -121,8 +131,11 @@ export function mountStage4(panel, ctx) {
       });
     });
   });
-  panel.querySelector(".pr-restart").addEventListener("click", () => {
-    ctx.recordAttempt();
+  // 결과는 단계마다 이미 저장됐다 — 다시 하기는 새 시도를 여는 것뿐
+  panel.querySelector(".pr-restart").addEventListener("click", () => location.reload());
+  panel.querySelector(".pr-clear").addEventListener("click", () => {
+    if (!confirm("이 실습의 연습 기록을 모두 지울까요? 되돌릴 수 없어요.")) return;
+    clearHistory(ctx.slug);
     location.reload();
   });
 }
