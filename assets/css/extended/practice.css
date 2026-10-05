@@ -1154,10 +1154,14 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
   .practice-source-link { min-height: 44px; }
   .footer .pr-footer-col { gap: 0; }
   .footer .pr-footer-col a { display: inline-flex; align-items: center; min-height: 44px; }
+  /* 태블릿은 데스크톱 머리글을 쓰므로 메뉴·토글도 여기서 키운다 */
+  .menu a { display: inline-flex; align-items: center; justify-content: center; min-width: 44px; min-height: 44px; }
+  .theme-toggle { width: 44px; height: 44px; }
   /* 키보드 단축키 안내는 터치 화면에서 쓸 일이 없다 */
   .search-keys { display: none; }
 }
-/* 연습 화면 아래쪽에 붙는 막대('다 읽었어요'·녹음)와 '맨 위로' 버튼이 겹치지 않게 */
-@media (max-width: 640px) {
+/* 연습 화면 아래쪽에 붙는 막대('다 읽었어요'·녹음)와 '맨 위로' 버튼이 겹치지 않게 —
+   연습 단(720px)과 버튼이 나란히 놓일 만큼 넓지 않은 휴대폰·태블릿 세로 화면에서 */
+@media (max-width: 959px) {
   body:has(#practice-root) .top-link { display: none; }
 }
