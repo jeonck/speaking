@@ -1,0 +1,12 @@
+{{- /* 주제 슬러그 → 색상(HSL hue). 카드 위 띠·주제 점이 이 색으로 물든다.
+       과학·우주는 파랑, 자연·바다는 초록·청록, 몸·마음은 민트·라벤더, 문화·예술은 분홍·보라, 일·도시는 모래색.
+       코랄(말하기·재생 강조색, hue 10 근처)과 겹치지 않게 비워 둔다. 모르는 주제는 회색(-1) */ -}}
+{{- $map := dict
+  "science" 218 "space" 245 "nasa" 245 "technology" 200 "inventors" 232
+  "nature" 128 "environment" 105 "animals" 85 "national-parks" 145 "oceans" 188 "weather" 205 "natural-disasters" 170
+  "health" 158 "body-and-mind" 270
+  "culture" 322 "arts" 298 "history" 38 "language" 258 "education" 52 "sports" 340
+  "careers" 44 "business-english" 48 "food" 62 "cities" 192 "architecture" 34 "travel" 180 -}}
+{{- $h := index $map (lower .) -}}
+{{- if eq $h nil }}{{ $h = -1 }}{{ end -}}
+{{- return $h -}}

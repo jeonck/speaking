@@ -63,3 +63,12 @@ export function reviewState(attempts, today) {
   const left = dueDay - toDay(today);
   return { last, due: fromDay(dueDay), days: left, isDue: left <= 0, practicedToday: last === today, step, weak };
 }
+
+/** 연속 연습 일수 — 오늘(아직 안 했으면 어제)부터 거꾸로 하루도 안 빠진 날 수 */
+export function streakDays(dates, today) {
+  const set = new Set(dates);
+  let cur = set.has(today) ? toDay(today) : toDay(today) - 1;
+  let n = 0;
+  while (set.has(fromDay(cur))) { n++; cur--; }
+  return n;
+}

@@ -2,9 +2,28 @@
 // - 실습 카드: '복습할 때' / 'n일 뒤 복습' / '오늘 연습함'
 // - 홈: 오늘 복습할 실습(지난 순) — 없으면 다가오는 복습
 import { PREFIX, localDateISO } from "./practice/store.js";
-import { reviewState, attemptScore, recommendLevel } from "./practice/review.js";
+import { reviewState, attemptScore, recommendLevel, streakDays } from "./practice/review.js";
 
 const LEVELS = ["", "입문", "중급", "고급"];
+const DAILY_SETS = 3; // 하루 세 번 반복을 권한다(stage4.js와 같은 값)
+
+/** 홈 '오늘의 말하기 도전' — 오늘 연습 횟수 고리와 연속 일수 */
+function fillChallenge(mine, today) {
+  const all = Object.values(mine).flat().filter((a) => a && typeof a.date === "string");
+  const todayCount = all.filter((a) => a.date === today).length;
+  const ring = document.querySelector("[data-ring]");
+  if (ring) {
+    const done = Math.min(todayCount, DAILY_SETS);
+    ring.querySelector("[data-ring-count]").textContent = String(done);
+    const arc = ring.querySelector("[data-ring-arc]");
+    const len = 2 * Math.PI * 27;
+    arc.style.strokeDashoffset = String(len * (1 - done / DAILY_SETS));
+    ring.classList.toggle("is-done", done >= DAILY_SETS);
+    if (done >= DAILY_SETS) ring.querySelector(".home-ring-label").textContent = "오늘 목표 달성";
+  }
+  const streak = document.querySelector("[data-streak]");
+  if (streak) streak.textContent = String(streakDays(all.map((a) => a.date), today));
+}
 
 function readAll() {
   const mine = {};
@@ -137,5 +156,6 @@ Object.keys(mine).forEach((slug) => {
 });
 decorateCards(states);
 fillHome(states, mine);
+fillChallenge(mine, today);
 // 검색 결과 카드처럼 나중에 그려지는 카드도 표시한다
 new MutationObserver(() => decorateCards(states)).observe(document.body, { childList: true, subtree: true });

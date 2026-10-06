@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { reviewState, isWeak, attemptScore, recommendLevel } from "./review.js";
+import { reviewState, isWeak, attemptScore, recommendLevel, streakDays } from "./review.js";
 
 const good = { stage1: { understood: 4, total: 4 }, stage3: { questionScore: 4, questionTotal: 4, dictationAccuracy: 0.9 } };
 
@@ -63,4 +63,18 @@ test("60% 미만이면 한 단계 아래, 한 번만 해 봤으면 아직 판단
 test("맨 위·맨 아래 레벨에서는 그대로를 권한다", () => {
   assert.equal(recommendLevel([{ level: 3, score: 0.95 }, { level: 3, score: 0.9 }]).move, "stay");
   assert.equal(recommendLevel([{ level: 1, score: 0.3 }, { level: 1, score: 0.2 }]).move, "stay");
+});
+
+test("연속 일수: 오늘까지 이어진 날을 센다", () => {
+  assert.equal(streakDays(["2026-10-04", "2026-10-05", "2026-10-06"], "2026-10-06"), 3);
+});
+
+test("연속 일수: 오늘 아직 안 했으면 어제까지로 센다", () => {
+  assert.equal(streakDays(["2026-10-04", "2026-10-05"], "2026-10-06"), 2);
+});
+
+test("연속 일수: 하루라도 빠지면 끊기고, 월말도 넘긴다", () => {
+  assert.equal(streakDays(["2026-10-02", "2026-10-04"], "2026-10-04"), 1);
+  assert.equal(streakDays(["2026-09-30", "2026-10-01"], "2026-10-01"), 2);
+  assert.equal(streakDays([], "2026-10-01"), 0);
 });

@@ -1,23 +1,27 @@
-{{- /* 실습 오디오 파형 카드 그리드. 인자: 페이지 목록 (최신순으로 넘긴다) — 실습 목록·주제 페이지 공용 */ -}}
+{{- /* 실습 카드 그리드. 인자: 페이지 목록 (최신순으로 넘긴다) — 실습 목록·주제·홈·비슷한 실습 공용.
+       카드 = 오디오 클립 한 장: 주제 색 띠 위에 재생 버튼·파형·길이, 아래에 레벨·주제·제목만.
+       원고 미리보기는 싣지 않는다 — 원문은 실습 안에서 본다 */ -}}
   <ul class="practice-cards">
-    {{- range . }}
+    {{- range $i, $p := . }}
     {{- $data := false }}
     {{- with .Resources.Get "data.json" }}{{ $data = . | transform.Unmarshal }}{{ end }}
     {{- $channel := "" }}{{ with $data }}{{ $channel = .source_channel | default "" }}{{ end }}
+    {{- $topic := "" }}{{ with .Params.tags }}{{ $topic = index . 0 }}{{ end }}
+    {{- $hue := -1 }}{{ with $topic }}{{ $hue = partial "topic_hue.html" . }}{{ end }}
     <li data-channel="{{ with $channel }}{{ urlize (partial "agency.html" .) }}{{ end }}" data-level="{{ .Params.level | default 0 }}" data-duration="{{ .Params.duration | default 0 }}">
-      <a class="practice-card" href="{{ .RelPermalink }}">
+      <a class="practice-card{{ if lt $hue 0 }} practice-card--plain{{ end }}" href="{{ .RelPermalink }}"{{ if ge $hue 0 }} style="--topic-h: {{ $hue }}"{{ end }}>
+        <span class="practice-card-clip" aria-hidden="true">
+          <span class="pr-play-dot"><svg viewBox="0 0 24 24" width="16" height="16"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span>
+          <span class="practice-card-wave">{{ partial "pr_wave.html" (dict "n" 28 "from" (mul $i 7)) }}</span>
+          {{- with .Params.duration }}<span class="practice-card-len">{{ . }}초</span>{{ end }}
+        </span>
         <span class="practice-card-badges">
           {{- partial "level_badge.html" .Params.level }}
-          {{- $dur := .Params.duration }}
-          <span class="practice-card-meta">{{ with $dur }}{{ . }}초{{ end }}{{ with $data }}{{ if $dur }} · {{ end }}{{ len .sentences }}문장{{ end }}</span>
+          {{- with $topic }}<span class="practice-card-topic"><i aria-hidden="true"></i>{{ partial "tag_name.html" . }}</span>{{ end }}
+          {{- with $data }}<span class="practice-card-meta">{{ len .sentences }}문장</span>{{ end }}
         </span>
-        {{- with $channel }}<span class="practice-card-channel">{{ . }}</span>{{ end }}
         <span class="practice-card-title">{{ .Title }}</span>
-        {{- /* 주제 분류 — 카드 전체가 링크라 태그는 표시만 한다 */}}
-        {{- with .Params.tags }}<span class="practice-card-tags">{{ range . }}<span class="practice-card-tag">{{ partial "tag_name.html" . }}</span>{{ end }}</span>{{ end }}
-        {{- with .Params.summary }}<span class="practice-card-summary">{{ . }}</span>{{ end }}
-        <span class="practice-card-wave" aria-hidden="true">{{ partial "pr_wave.html" 40 }}</span>
-        <span class="practice-card-foot"><span class="pr-btn pr-btn--secondary pr-btn--sm">실습 열기</span></span>
+        {{- with $channel }}<span class="practice-card-channel">{{ . }}</span>{{ end }}
       </a>
     </li>
     {{- end }}
