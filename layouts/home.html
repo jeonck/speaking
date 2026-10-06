@@ -49,7 +49,8 @@
       <a class="pr-btn pr-btn--quiet pr-btn--lg" href="#home-research">왜 효과가 있을까요?</a>
     </div>
     {{- with site.Params.sources }}
-    <p class="home-sources">{{ range . }}<span class="home-source">{{ . }}</span>{{ end }}</p>
+    {{- /* 출처는 한 줄만 — 앞의 여섯 곳 + 나머지 수 */}}
+    <p class="home-sources">{{ range first 6 . }}<span class="home-source">{{ . }}</span>{{ end }}{{ if gt (len .) 6 }}<span class="home-source">외 {{ sub (len .) 6 }}곳</span>{{ end }}</p>
     {{- end }}
     {{- /* 오늘의 실습 후보 — 날마다 하나를 골라 위 알약·카드·버튼을 바꾼다(스크립트 없으면 최신 실습 그대로) */}}
     {{- $picks := slice }}
@@ -71,7 +72,7 @@
     </div>
     <ul class="home-continue-list" data-continue-list></ul>
     <p class="home-level-rec" data-level-rec hidden></p>
-    <p class="home-continue-note">잊어버리기 직전에 다시 들으면 오래 기억해요. 연습한 날이 쌓일수록 1·2·4·7·15·30일 간격으로 복습을 알려 드려요. 기록은 이 브라우저에만 저장돼요.</p>
+    <p class="home-continue-note">1·2·4·7·15·30일 간격으로 복습을 알려 드려요. 기록은 이 브라우저에만 남아요.</p>
   </section>
 
   {{- /* 왜 효과가 있나 — 혜택을 한 줄로 앞세우고, 뒷받침하는 연구를 아래에 단다.
@@ -132,15 +133,15 @@
   {{- /* 연습 방법 — 단계마다 한 장의 카드 */}}
   <section class="home-band" aria-labelledby="home-steps-title">
     <h2 id="home-steps-title" class="home-h2">네 단계로 연습해요</h2>
-    <p class="home-sublede">모든 단계의 시간 기준은 영상 속 실제 길이예요. 원어민과 같은 속도가 목표입니다.</p>
+    <p class="home-sublede">모든 단계의 목표는 원어민과 같은 속도예요.</p>
     {{- /* 단계마다 카드 한 장 + 그 단계 화면을 줄인 그림. 누르면 최신 실습의 그 단계로 */}}
     {{- $base := "" }}{{ with $latest }}{{ $base = .RelPermalink }}{{ end }}
     {{- $secs := 30 }}{{ with $latest }}{{ with .Params.duration }}{{ $secs = . }}{{ end }}{{ end }}
     {{- $steps := slice
-      (dict "id" "stage1" "name" "직독직해" "text" "음원 길이 안에 앞에서부터 읽으며 뜻을 잡아요. 막힌 문장은 덩어리 뜻으로 확인해요.")
-      (dict "id" "stage2" "name" "스피킹" "text" "원음을 듣고, 강세·연음 표시를 보며 같은 시간 안에 말하고 녹음해요.")
-      (dict "id" "stage3" "name" "가리고 듣기" "text" "원고 없이 듣고 내용 문제와 문장별 받아쓰기로 들렸는지 확인해요.")
-      (dict "id" "stage4" "name" "정리" "text" "기록을 저장하고 지난번과 비교해요. 하루 세 번 반복을 권해요.") }}
+      (dict "id" "stage1" "name" "직독직해" "text" "음원 길이 안에 앞에서부터 읽어요.")
+      (dict "id" "stage2" "name" "스피킹" "text" "강세·연음을 보며 같은 시간에 말해요.")
+      (dict "id" "stage3" "name" "가리고 듣기" "text" "원고 없이 듣고 문제·받아쓰기로 확인해요.")
+      (dict "id" "stage4" "name" "정리" "text" "지난번과 비교하고, 하루 세 번 반복해요.") }}
     <ol class="home-steps">
       {{- range $i, $st := $steps }}
       <li>
@@ -148,7 +149,7 @@
           <span class="home-step-visual home-step-visual--{{ .id }}" aria-hidden="true">
             {{- if eq .id "stage1" }}<span class="hv-time">0:{{ printf "%02d" $secs }}</span><span class="hv-bar"><span></span></span>
             {{- else if eq .id "stage2" }}<span class="hv-rec"></span><span class="hv-wave">{{ partial "pr_wave.html" (dict "n" 24 "from" 12) }}</span>
-            {{- else if eq .id "stage3" }}<span class="hv-lines"><span></span><span></span><span></span></span>
+            {{- else if eq .id "stage3" }}<span class="hv-ear"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 14v-2a9 9 0 0 1 18 0v2"/><rect x="3" y="14" width="4" height="6" rx="1.5"/><rect x="17" y="14" width="4" height="6" rx="1.5"/></svg></span><span class="hv-wave hv-wave--muted">{{ partial "pr_wave.html" (dict "n" 24 "from" 30) }}</span>
             {{- else }}<span class="hv-segs"><span></span><span></span><span></span><span></span></span>{{ end }}
           </span>
           <span class="pr-step-num">{{ add $i 1 }}</span>
@@ -187,19 +188,18 @@
       <figcaption><a href="{{ $spec.RelPermalink }}">{{ $spec.Title }}</a>에서</figcaption>
     </figure>
     {{- end }}
-    <p class="home-sublede">실습 원고에는 원어민이 실제로 힘을 주고, 끊고, 붙여 읽는 곳이 표시돼 있어요.</p>
     <dl class="home-marks">
       <div>
         <dt lang="en"><span class="pr-word pr-weak">almost</span> <span class="pr-word pr-strong"><span class="pr-syl">nev</span>er</span></dt>
-        <dd><b>형광펜은 강세</b>예요. 이 음절을 크고 길게, 나머지는 가볍고 빠르게 말해요.</dd>
+        <dd><b>형광펜은 강세</b>예요. 크고 길게 말해요.</dd>
       </div>
       <div>
         <dt lang="en">He never slept <span class="pr-chunk-break">/</span> more than five hours</dt>
-        <dd><b>빨간 사선은 끊어 읽기</b>예요. 사선 사이 덩어리째 뜻을 잡고, 사선에서 짧게 숨을 쉬어요.</dd>
+        <dd><b>빨간 사선은 끊어 읽기</b>예요. 덩어리째 뜻을 잡아요.</dd>
       </div>
       <div>
         <dt lang="en"><span class="pr-word pr-link">four</span> or five</dt>
-        <dd><b>‿ 표시는 연음</b>이에요. 앞 단어의 끝소리를 다음 모음에 붙여 한 단어처럼 말해요.</dd>
+        <dd><b>‿ 표시는 연음</b>이에요. 한 단어처럼 이어 말해요.</dd>
       </div>
     </dl>
   </section>
@@ -209,7 +209,6 @@
     <div class="home-section-head">
       <div>
         <h2 id="home-list-title" class="home-h2">최근 실습</h2>
-        <p class="home-sublede">최신 구간부터 골라 시작하세요.</p>
       </div>
       {{- if gt (len $pages) 6 }}
       <a class="pr-btn pr-btn--secondary" href="{{ "practice/" | relURL }}">전체 실습 {{ len $pages }}개 보기</a>

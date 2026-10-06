@@ -644,7 +644,7 @@ body.list { background: var(--pr-desk); }
 /* 섹션 머리: 왼쪽 제목·설명, 오른쪽 전체 보기 */
 .home-section-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 1rem 2rem; flex-wrap: wrap; margin-bottom: 2.5rem; }
 .home-section-head .home-sublede { margin-bottom: 0; }
-.home-topics { margin: 2rem 0 0; }
+.list-topics.home-topics { margin: 2rem 0 0; }
 .home-sublede { margin: 0.9rem 0 2.5rem; max-width: 58ch; font-size: 1.0625rem; line-height: 1.6; color: var(--pr-body); }
 
 /* 첫 화면: 가운데 정렬 헤드라인 뒤로 파스텔 구슬이 번진다 */
@@ -717,10 +717,9 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 .hv-wave { flex: 1; display: flex; align-items: center; justify-content: space-between; height: 44px; }
 .hv-wave span { flex: none; width: 3px; height: var(--h); border-radius: 9999px; background: var(--pr-coral); }
 .hv-wave span:nth-child(n + 13) { background: var(--pr-rule-strong); }
-.hv-lines { flex: 1; display: flex; flex-direction: column; gap: 9px; }
-.hv-lines span { height: 9px; border-radius: 9999px; background: var(--pr-rule-strong); }
-.hv-lines span:nth-child(2) { width: 78%; }
-.hv-lines span:nth-child(3) { width: 52%; }
+/* 가리고 듣기 — 귀 아이콘 + 회색 파형(원고는 없고 소리만) */
+.hv-ear { display: inline-flex; flex: none; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; background: var(--pr-coral-soft); color: var(--pr-coral-text); }
+.hv-wave.hv-wave--muted span { background: var(--pr-rule-strong); }
 .hv-segs { flex: 1; display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
 .hv-segs span { height: 6px; border-radius: 9999px; background: var(--pr-coral); }
 .hv-segs span:last-child { background: var(--pr-rule-strong); }
@@ -1310,3 +1309,5 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
   .home-research { grid-template-columns: 1fr; }
 }
 @media (prefers-reduced-motion: reduce) { .home-ring-arc, .home-challenge .pr-play-dot { transition: none; } }
+/* 원고 예시 바로 아래 표시 설명 — 설명 문단 없이 붙으므로 간격만 */
+.home-specimen + .home-marks { margin-top: 1rem; }
