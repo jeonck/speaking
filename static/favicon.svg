@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Speaking Lab: 코랄 바탕 위 말소리 파형 막대 넷 (32 격자, 화소에 맞춤) -->
+  <rect width="32" height="32" rx="7.5" fill="#ff6544"/>
+  <g fill="#1a0f0b">
+    <rect x="5" y="11" width="4" height="10" rx="2"/>
+    <rect x="11" y="8" width="4" height="16" rx="2"/>
+    <rect x="17" y="6" width="4" height="20" rx="2"/>
+    <rect x="23" y="10" width="4" height="12" rx="2"/>
+  </g>
+</svg>

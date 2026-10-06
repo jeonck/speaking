@@ -5,3 +5,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,500;6..72,600&family=Noto+Serif+KR:wght@300;400&display=swap">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+{{- /* 파비콘: 테마가 favicon.ico·PNG·애플 터치 아이콘을 걸고, 여기서 벡터 아이콘(우선 사용)과 앱 매니페스트를 더한다.
+       그림 원본은 static/favicon.svg — 코랄 바탕 위 말소리 파형 막대 넷 */}}
+<link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | absURL }}">
+<link rel="manifest" href="{{ "site.webmanifest" | absURL }}">
