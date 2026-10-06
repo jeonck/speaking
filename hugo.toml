@@ -32,6 +32,10 @@ paginate = 10
   # 방문자에게 '구간 추가' 안내(홈 섹션·바닥글 링크)를 보일지. 메뉴 항목도 함께 되살린다.
   showAddSegment = false
 
+  # 머리글 'Speaking Lab' 앞 아이콘 — 파비콘(static/favicon.svg)과 같은 그림을 글자 안에 바로 넣는다
+  [params.label]
+    iconSVG = '<svg class="site-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="7.5" fill="#ff6544"/><g fill="#1a0f0b"><rect x="5" y="11" width="4" height="10" rx="2"/><rect x="11" y="8" width="4" height="16" rx="2"/><rect x="17" y="6" width="4" height="20" rx="2"/><rect x="23" y="10" width="4" height="12" rx="2"/></g></svg>'
+
   # 파비콘 파일은 static/에 있고 테마 기본 이름을 그대로 쓴다. 여기서는 브라우저 막대 색만
   [params.assets]
     theme_color = '#f5f5f5'

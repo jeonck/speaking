@@ -1010,6 +1010,10 @@ html { scroll-padding-top: 80px; }
 .logo > a { order: 1; margin-right: auto; font-family: var(--pr-serif); font-size: 23px; font-weight: 400; letter-spacing: -0.02em; }
 .header-nav .menu { order: 2; }
 .header-nav .logo-switches { order: 3; }
+/* 'Speaking Lab' 앞 아이콘 — 파비콘과 같은 그림 */
+.logo > a { gap: 0.6rem; }
+.logo .site-logo { flex: none; width: 28px; height: 28px; border-radius: 0; }
+@media (max-width: 640px) { .logo .site-logo { width: 24px; height: 24px; } .logo > a { gap: 0.5rem; } }
 .theme-toggle {
   display: inline-flex; align-items: center; justify-content: center;
   width: 36px; height: 36px; padding: 0; border-radius: 50%; color: var(--primary);
