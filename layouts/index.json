@@ -17,9 +17,9 @@
     {{- end }}
     {{- /* 주제 이름도 넣어 주제로 찾아도 걸리게 */}}
     {{- $tags := slice }}
-    {{- range .Params.tags }}{{ $t := partial "tag_name.html" . }}{{ $tags = $tags | append $t }}{{ $content = printf "%s %s" $content $t }}{{ end }}
+    {{- range .Params.tags }}{{ $t := partial "tag_name.html" . }}{{ $tags = $tags | append $t }}{{ $content = printf "%s %s %s" $content $t (title (replace . "-" " ")) }}{{ end }}
     {{- $index = $index | append (dict
-        "title" .Title "content" $content "permalink" .Permalink "summary" .Summary
+        "title" .Title "content" $content "permalink" .Permalink "summary" (.Summary | plainify | htmlUnescape)
         "lines" $lines "vocab" $vocab "channel" $channel "tags" $tags "date" (.Date.Format "2006-01-02") "duration" (.Params.duration | default 0)) -}}
     {{- end }}
 {{- end -}}

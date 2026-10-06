@@ -1,15 +1,16 @@
-import { renderChunks, escapeHtml, goalCard, feedback, redactedLines } from "./markup.js";
+import { renderChunks, escapeHtml, goalCard, feedback, startFacts } from "./markup.js";
 import { startCountdown, formatSeconds } from "./timer.js";
 
 export function mountStage1(panel, ctx) {
   const { data } = ctx;
   const seconds = Math.ceil(data.segment.end - data.segment.start);
   let startedAt = null;
+  const words = data.sentences.reduce((n, s) => n + s.text.trim().split(/\s+/).length, 0);
 
   panel.innerHTML = `
     ${goalCard(`${seconds}초 안에 끝까지 읽고 이해하기`, "원어민이 말하는 속도로 이해할 수 있어야 귀로도 들립니다. 거꾸로 돌아가 읽지 말고 앞에서부터 쭉 읽어 보세요.")}
     <div class="pr-cover">
-      ${redactedLines(data.sentences)}
+      ${startFacts([[formatSeconds(seconds), "제한 시간"], [data.sentences.length, "문장"], [words, "단어"]])}
       <button class="pr-start pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 직독직해 시작</button>
       <p class="pr-cover-hint">누르면 원고가 보이고 ${seconds}초 타이머가 흐르기 시작해요.</p>
     </div>
@@ -66,7 +67,7 @@ export function mountStage1(panel, ctx) {
   function finish(elapsed, inTime) {
     if (cancelCountdown) cancelCountdown();
     readBar.hidden = true;
-    scriptEl.classList.add("pr-blurred");
+    scriptEl.hidden = true; // 고르는 동안 원고는 접는다 — 아래 목록에 문장이 다시 나온다
     checkEl.hidden = false;
     checkEl.innerHTML = `
       <h3 class="pr-check-title">${inTime ? "다 읽었네요!" : "시간이 다 됐어요."} 문장마다 이해했는지 골라 주세요</h3>
@@ -105,7 +106,7 @@ export function mountStage1(panel, ctx) {
           return `<p class="pr-sentence-row${stuck ? " is-stuck" : ""}" data-i="${i}">${renderChunks(s)}</p>`;
         })
         .join("");
-      scriptEl.classList.remove("pr-blurred");
+      scriptEl.hidden = false;
       checkEl.hidden = true;
 
       ctx.results.stage1 = { understood, total, elapsedSeconds: Math.round(elapsed) };

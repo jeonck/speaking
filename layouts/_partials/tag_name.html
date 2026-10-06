@@ -1,6 +1,5 @@
-{{- /* 주제 슬러그 → 화면 이름. "work-and-motivation" → "Work and Motivation"(제목 규칙), 약어는 대문자 그대로 */ -}}
+{{- /* 주제 슬러그 → 화면 이름. 이름은 content/tags/<슬러그>/_index.md의 title(한국어) 하나에서 온다.
+       파일이 없는 주제는 슬러그를 제목 규칙으로("work-and-motivation" → "Work and Motivation") */ -}}
 {{- $name := title (replace . "-" " ") -}}
-{{- range $k, $v := dict "nasa" "NASA" "voa" "VOA" "adhd" "ADHD" "ai" "AI" "noaa" "NOAA" "ngo" "NGO" "ngos" "NGOs" }}
-  {{- $name = replaceRE (printf `(?i)\b%s\b` $k) $v $name -}}
-{{- end -}}
+{{- with site.GetPage (printf "/tags/%s" (urlize .)) }}{{ if .File }}{{ $name = .Title }}{{ end }}{{ end -}}
 {{- return $name -}}

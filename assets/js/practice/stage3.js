@@ -4,17 +4,20 @@ import {
   renderDictationResult,
   escapeHtml,
   goalCard,
-  redactedLines,
+  waveBars,
+  startFacts,
   feedback,
 } from "./markup.js";
 import { scoreDictation } from "./score.js";
+import { formatSeconds } from "./timer.js";
 
 export function mountStage3(panel, ctx) {
   const { data } = ctx;
   panel.innerHTML = `
     ${goalCard("화면 없이 듣고 이해하기", "읽고 스피킹해 본 문장이 실제로 들리는지 확인해요. 전체를 듣고 문제를 푼 뒤, 한 문장씩 받아써 봅니다.")}
     <div class="pr-listen-card">
-      ${redactedLines(data.sentences)}
+      ${startFacts([[formatSeconds(data.segment.end - data.segment.start), "한 번 듣기"], [data.sentences.length, "가려진 문장"], [data.questions.length, "내용 문제"]])}
+      ${waveBars(48)}
       <div class="pr-listen-progress" style="--dur:${(data.segment.end - data.segment.start).toFixed(1)}s" aria-hidden="true"><div></div></div>
       <p class="pr-listen-hint">스크립트는 가려져 있어요. 소리에만 집중해 보세요.</p>
       <button class="pr-listen-all pr-btn pr-btn--primary pr-btn--lg" type="button">▶ 전체 듣기</button>
@@ -22,7 +25,7 @@ export function mountStage3(panel, ctx) {
     </div>
     <div class="pr-notice" data-notice="player" hidden></div>
     <h3 class="pr-section-title">① 내용 이해 문제</h3>
-    <p class="pr-locked">🔒 전체를 한 번 끝까지 들으면 문제가 열려요</p>
+    <p class="pr-locked"><span class="pr-locked-step" aria-hidden="true">▶</span>위 카드에서 전체를 한 번 끝까지 들으면 문제 ${data.questions.length}개가 여기 나와요</p>
     <div class="pr-questions" hidden></div>
     <div class="pr-stage3b" hidden></div>
   `;

@@ -245,10 +245,18 @@ body.list { background: var(--pr-desk); }
 .pr-section-title small { font-family: var(--pr-sans); font-weight: 400; color: var(--secondary); font-size: 0.875rem; letter-spacing: 0; }
 .pr-check-title { margin: 0.5rem 0 0; font-size: 1.125rem; font-weight: 500; line-height: 1.5; color: var(--primary); }
 .pr-hint { color: var(--secondary); font-size: 0.9375rem; margin: 0; }
+/* 다음에 열릴 것 안내 — 자리표시자처럼 보이지 않게 평범한 안내 줄로 */
 .pr-locked {
-  margin: 0; padding: 1.1rem; border-radius: 12px; border: 1px dashed var(--pr-rule-strong);
-  color: var(--secondary); font-size: 0.9375rem; text-align: center;
+  display: flex; align-items: center; gap: 0.75rem; margin: 0; padding: 0.9rem 1.1rem; border-radius: 12px;
+  background: var(--pr-surface); color: var(--pr-body); font-size: 0.9375rem; line-height: 1.5;
 }
+.pr-locked-step { display: inline-flex; flex: none; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 50%; background: var(--pr-coral-soft); color: var(--pr-coral-text); font-size: 0.6875rem; }
+/* 시작 전 카드의 숫자들 — 이번 단계가 요구하는 것 */
+.pr-facts { display: flex; justify-content: center; gap: 0.5rem 2.75rem; flex-wrap: wrap; margin: 0.25rem 0 0.5rem; }
+.pr-facts div { display: flex; flex-direction: column-reverse; align-items: center; }
+.pr-facts dt { font-size: 0.8125rem; font-weight: 500; color: var(--secondary); }
+.pr-facts dd { margin: 0; font-family: var(--pr-serif); font-size: 2.6rem; font-weight: 300; line-height: 1.1; letter-spacing: -0.02em; color: var(--primary); font-variant-numeric: tabular-nums; }
+@media (max-width: 640px) { .pr-facts { gap: 0.5rem 1.75rem; } .pr-facts dd { font-size: 2.1rem; } }
 .pr-notice {
   padding: 0.75rem 1rem; border-radius: 12px;
   background: var(--pr-warn-soft); color: var(--primary); font-size: 0.9375rem; line-height: 1.55;
@@ -294,7 +302,6 @@ body.list { background: var(--pr-desk); }
   padding: 0.5rem 1.5rem; border-radius: 16px;
   background: var(--pr-paper); border: 1px solid var(--pr-rule); box-shadow: var(--pr-shadow);
 }
-.pr-script.pr-blurred { filter: blur(6px); user-select: none; pointer-events: none; }
 .pr-sentence-row {
   position: relative; margin: 0; padding: 1rem 0;
   font-family: var(--pr-serif); font-size: 1.3rem; line-height: 1.85; letter-spacing: 0; color: var(--primary);
@@ -435,21 +442,19 @@ body.list { background: var(--pr-desk); }
     radial-gradient(35% 45% at 30% 35%, var(--pr-orb-sky), transparent 70%),
     radial-gradient(35% 45% at 70% 65%, var(--pr-orb-lavender), transparent 70%);
 }
-/* 가려진 원고 — 문장 길이만큼의 막대. 듣는 동안 잉크색으로 흐른다 */
-.pr-redacted { align-self: stretch; display: flex; flex-direction: column; gap: 0.75rem; padding: 0.25rem 0 0.5rem; }
-.pr-redacted span { display: block; height: 0.8rem; border-radius: 9999px; background: var(--pr-rule-strong); opacity: 0.7; }
-.pr-listen-card.is-playing .pr-redacted span {
-  opacity: 1;
-  background: linear-gradient(90deg, var(--pr-rule-strong) 0%, var(--pr-ink) 45%, var(--pr-rule-strong) 90%) 0 0 / 220% 100%;
-  animation: pr-sweep 2.4s linear infinite;
-}
-.pr-listen-card.is-playing .pr-redacted span:nth-child(2n) { animation-delay: -0.8s; }
-@keyframes pr-sweep { from { background-position: 100% 0; } to { background-position: -120% 0; } }
+/* 가려진 원고 대신 파형 — 듣는 동안 코랄로 출렁인다 */
+.pr-listen-card .pr-wave { align-self: stretch; height: 48px; }
+.pr-listen-card.is-playing .pr-wave span { background: var(--pr-coral); animation: pr-wave 0.9s ease-in-out infinite alternate; }
+.pr-listen-card.is-playing .pr-wave span:nth-child(3n) { animation-delay: -0.3s; }
+.pr-listen-card.is-playing .pr-wave span:nth-child(3n + 1) { animation-delay: -0.6s; }
+/* 전체 듣기 = 재생 — 코랄 */
+.pr-btn--primary.pr-listen-all { background: var(--pr-coral); color: var(--pr-coral-on); }
+.pr-btn--primary.pr-listen-all:hover:not(:disabled) { background: var(--pr-coral); filter: brightness(1.05); }
 .pr-listen-hint { margin: 0; color: var(--pr-body); font-size: 0.9375rem; }
 .pr-play-count { font-size: 0.8125rem; }
 /* 재생 진행선 — 구간 길이(--dur)만큼 차오른다. 버퍼링이 있으면 소리보다 조금 앞설 수 있다 */
 .pr-listen-progress { align-self: stretch; height: 3px; border-radius: 9999px; background: var(--pr-rule-strong); overflow: hidden; }
-.pr-listen-progress > div { width: 0; height: 100%; border-radius: inherit; background: var(--pr-ink); }
+.pr-listen-progress > div { width: 0; height: 100%; border-radius: inherit; background: var(--pr-coral); }
 .pr-listen-card.is-playing .pr-listen-progress > div { animation: pr-fill var(--dur, 20s) linear forwards; }
 @keyframes pr-fill { from { width: 0; } to { width: 100%; } }
 
@@ -583,7 +588,6 @@ body.list { background: var(--pr-desk); }
     radial-gradient(35% 45% at 28% 40%, var(--pr-orb-mint), transparent 70%),
     radial-gradient(35% 45% at 72% 62%, var(--pr-orb-peach), transparent 70%);
 }
-.pr-cover .pr-redacted span { height: 0.9rem; }
 .pr-cover-hint { margin: 0; font-size: 0.9375rem; color: var(--pr-body); }
 
 /* ---------- 모바일·접근성 (실습) ---------- */
@@ -1155,6 +1159,8 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
 /* ---------- 손가락 화면(터치) — 누를 자리는 44px 이상 ---------- */
 @media (pointer: coarse) {
   .tag-chip, .pr-chip, .list-pager-btn, .pr-seg-btn { min-height: 44px; }
+  .tag-chip.tag-chip--sm { min-height: 44px; }
+  .breadcrumbs a { display: inline-flex; align-items: center; min-height: 44px; }
   .list-pager-btn { min-width: 44px; }
   .pr-btn--sm { min-height: 44px; }
   .pr-btn--play { width: 44px; height: 44px; min-height: 44px; margin-top: 0; }

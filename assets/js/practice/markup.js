@@ -41,12 +41,20 @@ export function goalCard(title, why) {
 }
 
 /** 가려진 원고 — 문장 길이만큼의 막대로 "여기 문장이 있다"만 보여준다. */
-export function redactedLines(sentences) {
-  const maxLen = Math.max(...sentences.map((s) => s.text.length));
-  const bars = sentences
-    .map((s) => `<span style="width:${Math.max(30, Math.round((s.text.length / maxLen) * 100))}%"></span>`)
-    .join("");
-  return `<div class="pr-redacted" aria-hidden="true">${bars}</div>`;
+/** 파형 장식 — 말소리처럼 오르내리는 고정 패턴이라 매번 같은 모양이다 (녹음 카드·가리고 듣기 카드) */
+export function waveBars(n = 40) {
+  const bars = Array.from(
+    { length: n },
+    (_, i) => `<span style="--h:${Math.min(100, Math.round(30 + 65 * Math.abs(Math.sin(i * 0.55) * Math.sin(i * 0.21 + 1.2)) + 12 * Math.abs(Math.sin(i * 2.7))))}%"></span>`
+  ).join("");
+  return `<div class="pr-wave" aria-hidden="true">${bars}</div>`;
+}
+
+/** 시작 전 카드에 보이는 숫자들 — 이번 단계가 무엇을 요구하는지 */
+export function startFacts(items) {
+  return `<dl class="pr-facts">${items
+    .map(([value, label]) => `<div><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(String(value))}</dd></div>`)
+    .join("")}</dl>`;
 }
 
 /** 결과에 맞춘 격려 문구. tone: "great" | "good" | "keep" */

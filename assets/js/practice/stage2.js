@@ -1,4 +1,4 @@
-import { renderStressedSentence, escapeHtml, goalCard, feedback } from "./markup.js";
+import { renderStressedSentence, escapeHtml, goalCard, feedback, waveBars } from "./markup.js";
 import { startStopwatch, formatSeconds } from "./timer.js";
 import { togglePlay } from "./playback.js";
 import {
@@ -11,11 +11,7 @@ import { scoreDictation } from "./score.js";
 
 const PASS_RATIO = 1.15;
 
-// 녹음 카드의 파형 장식 — 말소리처럼 오르내리는 고정 패턴이라 매번 같은 모양이다
-const WAVE = `<div class="pr-wave" aria-hidden="true">${Array.from(
-  { length: 40 },
-  (_, i) => `<span style="--h:${Math.min(100, Math.round(30 + 65 * Math.abs(Math.sin(i * 0.55) * Math.sin(i * 0.21 + 1.2)) + 12 * Math.abs(Math.sin(i * 2.7))))}%"></span>`
-).join("")}</div>`;
+const WAVE = waveBars(40);
 
 export function mountStage2(panel, ctx) {
   const { data } = ctx;
