@@ -848,8 +848,13 @@ a.home-step:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 4p
 .practice-card:hover .pr-play-dot { transform: scale(1.08); }
 .practice-card-badges { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.7rem; }
 .practice-card-badges .pr-badge, .practice-card-badges .pr-level { font-size: 0.75rem; }
-.practice-card-topic { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.8125rem; font-weight: 500; color: var(--pr-body); }
-.practice-card-topic i { width: 8px; height: 8px; border-radius: 50%; background: hsl(var(--topic-h, 30) calc(var(--topic-s, 70%) * 0.8) 52%); }
+/* 주제 알약 — 위 띠와 같은 색. 색은 주제를 뜻한다(레벨은 회색 막대 배지) */
+.practice-card-topic {
+  display: inline-flex; align-items: center; padding: 0.3rem 0.7rem; border-radius: 9999px; font-size: 0.75rem; font-weight: 600;
+  background: hsl(var(--topic-h, 30) var(--topic-s, 70%) 93%); color: hsl(var(--topic-h, 30) calc(var(--topic-s, 70%) * 0.6) 28%);
+}
+:root[data-theme="dark"] .practice-card-topic { background: hsl(var(--topic-h, 30) calc(var(--topic-s, 70%) * 0.35) 18%); color: hsl(var(--topic-h, 30) calc(var(--topic-s, 70%) * 0.6) 80%); }
+.practice-card-topic i { display: none; }
 .practice-card-meta { font-size: 0.8125rem; font-weight: 500; color: var(--secondary); font-variant-numeric: tabular-nums; }
 .practice-card-title { font-family: var(--pr-serif); font-size: 1.6rem; font-weight: 300; line-height: 1.18; letter-spacing: -0.02em; color: var(--primary); }
 /* 원본 기관 — 맨 아래 작은 줄 */
