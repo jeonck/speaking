@@ -1,12 +1,15 @@
 {{- /* 실습 카드 그리드. 인자: 페이지 목록 (최신순으로 넘긴다) — 실습 목록·주제·홈·비슷한 실습 공용.
+       주제 페이지는 dict "pages" 목록 "topic" 주제슬러그 로 넘겨, 카드마다 첫 주제 대신 그 주제를 보인다.
        카드 = 오디오 클립 한 장: 주제 색 띠 위에 재생 버튼·파형·길이, 아래에 레벨·주제·제목만.
        원고 미리보기는 싣지 않는다 — 원문은 실습 안에서 본다 */ -}}
+  {{- $pages := . }}{{ $only := "" }}
+  {{- if reflect.IsMap . }}{{ $pages = .pages }}{{ $only = .topic }}{{ end }}
   <ul class="practice-cards">
-    {{- range $i, $p := . }}
+    {{- range $i, $p := $pages }}
     {{- $data := false }}
     {{- with .Resources.Get "data.json" }}{{ $data = . | transform.Unmarshal }}{{ end }}
     {{- $channel := "" }}{{ with $data }}{{ $channel = .source_channel | default "" }}{{ end }}
-    {{- $topic := "" }}{{ with .Params.tags }}{{ $topic = index . 0 }}{{ end }}
+    {{- $topic := "" }}{{ with .Params.tags }}{{ $topic = index . 0 }}{{ end }}{{ with $only }}{{ $topic = . }}{{ end }}
     {{- $hue := -1 }}{{ with $topic }}{{ $hue = partial "topic_hue.html" . }}{{ end }}
     <li data-channel="{{ with $channel }}{{ urlize (partial "agency.html" .) }}{{ end }}" data-level="{{ .Params.level | default 0 }}" data-duration="{{ .Params.duration | default 0 }}">
       <a class="practice-card{{ if lt $hue 0 }} practice-card--plain{{ end }}" href="{{ .RelPermalink }}"{{ if ge $hue 0 }} style="--topic-h: {{ $hue }}"{{ end }}>

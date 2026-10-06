@@ -16,7 +16,7 @@
     <h1 class="tag-title">{{ partial "tag_name.html" $current }}</h1>
     <p class="home-lede">이 주제의 실습을 최신 순서로 모았어요.</p>
   </header>
-  {{- partial "practice_cards.html" .Pages.ByDate.Reverse }}
+  {{- partial "practice_cards.html" (dict "pages" .Pages.ByDate.Reverse "topic" .Data.Term) }}
 
   {{- /* 이 주제의 실습에 나온 어휘를 한데 — 표현마다 뜻과 나온 실습 */}}
   {{- $words := slice }}
