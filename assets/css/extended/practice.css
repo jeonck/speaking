@@ -1142,7 +1142,6 @@ button.tag-chip { font: inherit; font-size: 0.875rem; font-weight: 500; cursor: 
   margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--pr-rule);
   font-size: 0.8125rem; color: var(--secondary);
 }
-.footer.pr-footer .pr-footer-credit a { color: inherit; text-decoration: underline; text-decoration-color: var(--pr-rule-strong); text-underline-offset: 3px; }
 .footer.pr-footer a:focus-visible { outline: 2px solid var(--pr-ink); outline-offset: 3px; }
 @media (max-width: 640px) {
   .footer.pr-footer { padding-top: 3rem; }
