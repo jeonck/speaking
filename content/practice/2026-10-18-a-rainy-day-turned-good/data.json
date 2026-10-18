@@ -1,0 +1,338 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16072.72,
+  "end": 16125.05,
+  "clips": [
+   [
+    16072.72,
+    16076.81
+   ],
+   [
+    16097.12,
+    16101.45
+   ],
+   [
+    16120.88,
+    16125.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My shoes were soaked, but luckily my phone stayed dry.",
+   "chunks": [
+    {
+     "en": "My shoes were soaked,",
+     "ko": "신발이 흠뻑 젖었지만"
+    },
+    {
+     "en": "but luckily",
+     "ko": "다행히"
+    },
+    {
+     "en": "my phone stayed dry.",
+     "ko": "휴대폰은 말랐어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shoes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soaked,",
+     "strong": true,
+     "link": false,
+     "syl": "soaked"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "luckily",
+     "strong": true,
+     "link": false,
+     "syl": "luck"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "link": false,
+     "syl": "phone"
+    },
+    {
+     "w": "stayed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dry.",
+     "strong": true,
+     "link": false,
+     "syl": "dry"
+    }
+   ],
+   "tip": "luckily는 LUCK-i-ly, 첫 음절을 세게 읽어요.",
+   "start": 16072.72,
+   "end": 16076.81
+  },
+  {
+   "text": "We ended up talking over coffee for the rest of the afternoon.",
+   "chunks": [
+    {
+     "en": "We ended up talking",
+     "ko": "결국 이야기를 나눴어요"
+    },
+    {
+     "en": "over coffee",
+     "ko": "커피를 마시며"
+    },
+    {
+     "en": "for the rest of the afternoon.",
+     "ko": "오후 내내"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ended",
+     "strong": true,
+     "link": true,
+     "syl": "end"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talking",
+     "strong": true,
+     "link": false,
+     "syl": "talk"
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coffee",
+     "strong": true,
+     "link": false,
+     "syl": "cof"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rest",
+     "strong": true,
+     "link": true,
+     "syl": "rest"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "afternoon.",
+     "strong": true,
+     "link": false,
+     "syl": "noon"
+    }
+   ],
+   "tip": "ended up은 '엔디덥'처럼 이어 읽어요.",
+   "start": 16097.12,
+   "end": 16101.45
+  },
+  {
+   "text": "It wasn't the day we'd planned, but we still had a good time.",
+   "chunks": [
+    {
+     "en": "It wasn't the day",
+     "ko": "그런 날은 아니었지만"
+    },
+    {
+     "en": "we'd planned,",
+     "ko": "우리가 계획했던"
+    },
+    {
+     "en": "but we still had a good time.",
+     "ko": "그래도 즐거운 시간을 보냈어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wasn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "planned,",
+     "strong": true,
+     "link": false,
+     "syl": "plan"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    },
+    {
+     "w": "time.",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "we'd는 'we had'의 축약이라 '위드'처럼 짧게 읽어요.",
+   "start": 16120.88,
+   "end": 16125.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What stayed dry?",
+   "options": [
+    "The speaker's bag",
+    "The speaker's shoes",
+    "The speaker's phone"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: my phone stayed dry"
+  },
+  {
+   "q": "What did the speaker do for the rest of the afternoon?",
+   "options": [
+    "Talked over coffee",
+    "Went shopping",
+    "Slept at home"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: talking over coffee for the rest of the afternoon"
+  },
+  {
+   "q": "How did the day turn out?",
+   "options": [
+    "They went home early",
+    "They still had a good time",
+    "They had an argument"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: we still had a good time"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "soaked",
+   "ko": "흠뻑 젖은",
+   "note": "wet보다 훨씬 심하게 젖었을 때 써요."
+  },
+  {
+   "term": "luckily",
+   "ko": "다행히",
+   "note": "좋지 않은 상황 뒤에 반전으로 써요."
+  },
+  {
+   "term": "end up -ing",
+   "ko": "결국 ~하게 되다",
+   "note": "계획 없이 그렇게 된 결과를 말해요."
+  },
+  {
+   "term": "the rest of the afternoon",
+   "ko": "오후의 남은 시간",
+   "note": "rest of the는 빠르게 이어 읽어요."
+  },
+  {
+   "term": "we'd planned",
+   "ko": "우리가 계획했던",
+   "note": "we'd는 we had의 줄임말이에요."
+  }
+ ]
+}

@@ -1,0 +1,335 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9767.6,
+  "end": 9821.93,
+  "clips": [
+   [
+    9767.6,
+    9771.69
+   ],
+   [
+    9792.72,
+    9796.65
+   ],
+   [
+    9817.04,
+    9821.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I was so touched that I almost cried in front of everyone.",
+   "chunks": [
+    {
+     "en": "I was so touched",
+     "ko": "정말 감동해서"
+    },
+    {
+     "en": "that I almost cried",
+     "ko": "거의 울 뻔했어요"
+    },
+    {
+     "en": "in front of everyone.",
+     "ko": "모두가 보는 앞에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "touched",
+     "strong": true,
+     "link": false,
+     "syl": "touched"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almost",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "cried",
+     "strong": true,
+     "link": true,
+     "syl": "cried"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "front",
+     "strong": true,
+     "link": true,
+     "syl": "front"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "everyone.",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    }
+   ],
+   "tip": "front of everyone은 '프런토브에브리원'처럼 이어 읽어요.",
+   "start": 9767.6,
+   "end": 9771.69
+  },
+  {
+   "text": "It made me realize how lucky I am to work with them.",
+   "chunks": [
+    {
+     "en": "It made me realize",
+     "ko": "깨닫게 해줬어요"
+    },
+    {
+     "en": "how lucky I am",
+     "ko": "내가 얼마나 운이 좋은지"
+    },
+    {
+     "en": "to work with them.",
+     "ko": "그들과 함께 일하는 것이"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "realize",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lucky",
+     "strong": true,
+     "link": false,
+     "syl": "luck"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "am",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them.",
+     "strong": true,
+     "link": false,
+     "syl": "them"
+    }
+   ],
+   "tip": "how lucky I am은 lucky에 강세를 두고 I am은 약하게 이어져요.",
+   "start": 9792.72,
+   "end": 9796.65
+  },
+  {
+   "text": "One of my most embarrassing moments was during an important presentation.",
+   "chunks": [
+    {
+     "en": "One of my most embarrassing moments",
+     "ko": "가장 창피했던 순간 중 하나는"
+    },
+    {
+     "en": "was during an important presentation.",
+     "ko": "중요한 발표 도중이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "embarrassing",
+     "strong": true,
+     "link": false,
+     "syl": "bar"
+    },
+    {
+     "w": "moments",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "during",
+     "strong": true,
+     "link": true,
+     "syl": "dur"
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "important",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    },
+    {
+     "w": "presentation.",
+     "strong": true,
+     "link": false,
+     "syl": "ta"
+    }
+   ],
+   "tip": "most embarrassing은 '모스템배러싱'처럼 t가 약해지며 이어져요.",
+   "start": 9817.04,
+   "end": 9821.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the speaker feel at the party?",
+   "options": [
+    "Angry",
+    "Bored",
+    "Touched, almost crying"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: I was so touched that I almost cried"
+  },
+  {
+   "q": "What did the surprise make the speaker realize?",
+   "options": [
+    "How lucky it is to work with them",
+    "How tired the speaker was",
+    "How old the speaker had become"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: how lucky I am to work with them"
+  },
+  {
+   "q": "What was the embarrassing moment during?",
+   "options": [
+    "A job interview",
+    "An important presentation",
+    "A long flight"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: during an important presentation"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "be touched",
+   "ko": "감동받다",
+   "note": "touched는 마음이 움직였다는 뜻이에요."
+  },
+  {
+   "term": "in front of everyone",
+   "ko": "모두가 보는 앞에서",
+   "note": "front of는 이어 읽어요."
+  },
+  {
+   "term": "realize",
+   "ko": "깨닫다",
+   "note": "how 절과 함께 자주 써요."
+  },
+  {
+   "term": "embarrassing",
+   "ko": "창피한",
+   "note": "사람이 느끼면 embarrassed예요."
+  },
+  {
+   "term": "presentation",
+   "ko": "발표",
+   "note": "give a presentation으로 써요."
+  }
+ ]
+}

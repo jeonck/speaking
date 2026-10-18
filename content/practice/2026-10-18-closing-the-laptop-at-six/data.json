@@ -1,0 +1,322 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12025.12,
+  "end": 12076.25,
+  "clips": [
+   [
+    12025.12,
+    12029.21
+   ],
+   [
+    12049.28,
+    12053.37
+   ],
+   [
+    12072.64,
+    12076.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I've learned to stop working and close my laptop at 6.",
+   "chunks": [
+    {
+     "en": "I've learned to stop working",
+     "ko": "나는 일을 멈추는 법을 배웠어요"
+    },
+    {
+     "en": "and close my laptop",
+     "ko": "그리고 노트북을 닫는"
+    },
+    {
+     "en": "at 6.",
+     "ko": "6시에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": true,
+     "syl": "learned"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stop",
+     "strong": true,
+     "link": true,
+     "syl": "stop"
+    },
+    {
+     "w": "working",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "close",
+     "strong": true,
+     "link": false,
+     "syl": "close"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laptop",
+     "strong": true,
+     "link": false,
+     "syl": "lap"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "6.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "close my laptop은 'close'를 세게 읽어요.",
+   "start": 12025.12,
+   "end": 12029.21
+  },
+  {
+   "text": "Getting around the city is much easier than it used to be.",
+   "chunks": [
+    {
+     "en": "Getting around the city",
+     "ko": "도시를 돌아다니는 것은"
+    },
+    {
+     "en": "is much easier",
+     "ko": "훨씬 더 쉬워요"
+    },
+    {
+     "en": "than it used to be.",
+     "ko": "예전에 그랬던 것보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Getting",
+     "strong": true,
+     "link": false,
+     "syl": "Get"
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city",
+     "strong": true,
+     "link": false,
+     "syl": "cit"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false,
+     "syl": "much"
+    },
+    {
+     "w": "easier",
+     "strong": true,
+     "link": false,
+     "syl": "eas"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "used to be는 '유스투비'를 약하고 빠르게 읽어요.",
+   "start": 12049.28,
+   "end": 12053.37
+  },
+  {
+   "text": "Years ago, I had to wait forever for the bus.",
+   "chunks": [
+    {
+     "en": "Years ago,",
+     "ko": "몇 년 전에는,"
+    },
+    {
+     "en": "I had to wait forever",
+     "ko": "나는 한참을 기다려야 했어요"
+    },
+    {
+     "en": "for the bus.",
+     "ko": "버스를"
+    }
+   ],
+   "words": [
+    {
+     "w": "Years",
+     "strong": true,
+     "link": true,
+     "syl": "Years"
+    },
+    {
+     "w": "ago,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wait",
+     "strong": true,
+     "link": false,
+     "syl": "wait"
+    },
+    {
+     "w": "forever",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bus.",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    }
+   ],
+   "tip": "wait forever는 forever를 길게 끌어 '아주 오래'를 표현해요.",
+   "start": 12072.64,
+   "end": 12076.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What time does the speaker close the laptop?",
+   "options": [
+    "At 5",
+    "At 6",
+    "At 8"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: close my laptop at 6"
+  },
+  {
+   "q": "What is easier than it used to be?",
+   "options": [
+    "Finding a job",
+    "Cooking dinner",
+    "Getting around the city"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: Getting around the city is much easier"
+  },
+  {
+   "q": "What did the speaker have to do years ago?",
+   "options": [
+    "Wait forever for the bus",
+    "Walk to work",
+    "Drive every day"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I had to wait forever for the bus"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "close my laptop",
+   "ko": "노트북을 닫다",
+   "note": "업무 종료를 뜻하기도 해요."
+  },
+  {
+   "term": "get around",
+   "ko": "돌아다니다",
+   "note": "도시 안에서 이동할 때 써요."
+  },
+  {
+   "term": "used to be",
+   "ko": "예전에는 ~였다",
+   "note": "과거의 상태를 말해요."
+  },
+  {
+   "term": "wait forever",
+   "ko": "한참 기다리다",
+   "note": "forever는 과장해서 '아주 오래'란 뜻이에요."
+  }
+ ]
+}

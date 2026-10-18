@@ -1,0 +1,309 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16145.28,
+  "end": 16196.81,
+  "clips": [
+   [
+    16145.28,
+    16149.45
+   ],
+   [
+    16169.28,
+    16173.21
+   ],
+   [
+    16192.64,
+    16196.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now I check the forecast before making outdoor plans.",
+   "chunks": [
+    {
+     "en": "Now I check the forecast",
+     "ko": "이제 일기예보를 확인해요"
+    },
+    {
+     "en": "before making outdoor plans.",
+     "ko": "야외 계획을 세우기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "check",
+     "strong": true,
+     "link": false,
+     "syl": "check"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forecast",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": true,
+     "link": true,
+     "syl": "mak"
+    },
+    {
+     "w": "outdoor",
+     "strong": true,
+     "link": false,
+     "syl": "out"
+    },
+    {
+     "w": "plans.",
+     "strong": true,
+     "link": false,
+     "syl": "plans"
+    }
+   ],
+   "tip": "forecast는 FORE-cast, 첫 음절에 강세가 와요.",
+   "start": 16145.28,
+   "end": 16149.45
+  },
+  {
+   "text": "I normally take the same bus to work every morning.",
+   "chunks": [
+    {
+     "en": "I normally take the same bus",
+     "ko": "저는 보통 같은 버스를 타요"
+    },
+    {
+     "en": "to work",
+     "ko": "출근하려고"
+    },
+    {
+     "en": "every morning.",
+     "ko": "매일 아침"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "normally",
+     "strong": true,
+     "link": false,
+     "syl": "nor"
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": true,
+     "link": false,
+     "syl": "same"
+    },
+    {
+     "w": "bus",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning.",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    }
+   ],
+   "tip": "work every는 '워커브리'처럼 이어 읽어요.",
+   "start": 16169.28,
+   "end": 16173.21
+  },
+  {
+   "text": "One morning, the bus didn't arrive when I expected it to.",
+   "chunks": [
+    {
+     "en": "One morning,",
+     "ko": "어느 날 아침"
+    },
+    {
+     "en": "the bus didn't arrive",
+     "ko": "버스가 오지 않았어요"
+    },
+    {
+     "en": "when I expected it to.",
+     "ko": "제가 예상한 때에"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning,",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't",
+     "strong": true,
+     "link": false,
+     "syl": "did"
+    },
+    {
+     "w": "arrive",
+     "strong": true,
+     "link": false,
+     "syl": "rive"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "expected",
+     "strong": true,
+     "link": true,
+     "syl": "pect"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "expected it to는 '익스펙티딧투'처럼 이어 읽어요.",
+   "start": 16192.64,
+   "end": 16196.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "When does the speaker check the forecast?",
+   "options": [
+    "After work",
+    "Every night",
+    "Before making outdoor plans"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: before making outdoor plans"
+  },
+  {
+   "q": "How does the speaker normally get to work?",
+   "options": [
+    "By subway",
+    "By bus",
+    "By bike"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: take the same bus to work"
+  },
+  {
+   "q": "What happened one morning?",
+   "options": [
+    "The bus did not arrive when expected",
+    "The speaker overslept",
+    "The bus came early"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: the bus didn't arrive when I expected it to"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "forecast",
+   "ko": "예보",
+   "note": "weather forecast는 일기예보예요."
+  },
+  {
+   "term": "outdoor plans",
+   "ko": "야외 계획",
+   "note": "outdoor는 '야외의'라는 뜻이에요."
+  },
+  {
+   "term": "normally",
+   "ko": "보통, 평소에",
+   "note": "usually와 비슷해요."
+  },
+  {
+   "term": "didn't arrive",
+   "ko": "도착하지 않았다",
+   "note": "arrive는 뒤에 at이 필요 없는 동사예요."
+  },
+  {
+   "term": "when I expected it to",
+   "ko": "제가 예상한 때에",
+   "note": "to 뒤의 arrive는 생략돼요."
+  }
+ ]
+}

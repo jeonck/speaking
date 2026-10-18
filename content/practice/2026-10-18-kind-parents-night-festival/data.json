@@ -1,0 +1,324 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10439.84,
+  "end": 10495.85,
+  "clips": [
+   [
+    10439.84,
+    10444.25
+   ],
+   [
+    10464.64,
+    10468.97
+   ],
+   [
+    10491.36,
+    10495.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My parents ate every bite anyway and said it was delicious.",
+   "chunks": [
+    {
+     "en": "My parents ate every bite anyway",
+     "ko": "부모님은 그래도 한 입도 남기지 않고 드셨고"
+    },
+    {
+     "en": "and said it was delicious.",
+     "ko": "맛있다고 말씀하셨다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parents",
+     "strong": true,
+     "syl": "par",
+     "link": false
+    },
+    {
+     "w": "ate",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "every",
+     "strong": true,
+     "syl": "ev",
+     "link": false
+    },
+    {
+     "w": "bite",
+     "strong": true,
+     "syl": "bite",
+     "link": false
+    },
+    {
+     "w": "anyway",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "said",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "delicious.",
+     "strong": true,
+     "syl": "li",
+     "link": false
+    }
+   ],
+   "tip": "ate every, said it은 '에이레브리', '세딧'처럼 이어 읽어요.",
+   "start": 10439.84,
+   "end": 10444.25
+  },
+  {
+   "text": "One of my best travel memories is a night festival by the sea.",
+   "chunks": [
+    {
+     "en": "One of my best travel memories",
+     "ko": "내 최고의 여행 추억 중 하나는"
+    },
+    {
+     "en": "is a night festival",
+     "ko": "밤 축제이다"
+    },
+    {
+     "en": "by the sea.",
+     "ko": "바닷가의"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "syl": "trav",
+     "link": false
+    },
+    {
+     "w": "memories",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night",
+     "strong": true,
+     "syl": "night",
+     "link": false
+    },
+    {
+     "w": "festival",
+     "strong": true,
+     "syl": "fes",
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sea.",
+     "strong": true,
+     "syl": "sea",
+     "link": false
+    }
+   ],
+   "tip": "one of는 '원업', is a는 '이저'처럼 이어요.",
+   "start": 10464.64,
+   "end": 10468.97
+  },
+  {
+   "text": "There were lanterns everywhere and food stalls lined the beach.",
+   "chunks": [
+    {
+     "en": "There were lanterns everywhere",
+     "ko": "등불이 사방에 있었고"
+    },
+    {
+     "en": "and food stalls lined the beach.",
+     "ko": "음식 가판대가 해변을 따라 늘어서 있었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lanterns",
+     "strong": true,
+     "syl": "lan",
+     "link": false
+    },
+    {
+     "w": "everywhere",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "syl": "food",
+     "link": false
+    },
+    {
+     "w": "stalls",
+     "strong": true,
+     "syl": "stalls",
+     "link": false
+    },
+    {
+     "w": "lined",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beach.",
+     "strong": true,
+     "syl": "beach",
+     "link": false
+    }
+   ],
+   "tip": "food stalls에 강세를 주고 lined the beach는 부드럽게 말해요.",
+   "start": 10491.36,
+   "end": 10495.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the speaker's parents react to the meal?",
+   "options": [
+    "They left it unfinished",
+    "They ate every bite and said it was delicious",
+    "They ordered takeout"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: ate every bite anyway and said it was delicious"
+  },
+  {
+   "q": "Where was the festival?",
+   "options": [
+    "In the mountains",
+    "In a city park",
+    "By the sea"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: a night festival by the sea"
+  },
+  {
+   "q": "What lined the beach?",
+   "options": [
+    "Food stalls",
+    "Tents",
+    "Boats"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: food stalls lined the beach"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "every bite",
+   "ko": "한 입도 남김없이",
+   "note": "ate every bite는 싹 먹었다는 뜻이에요."
+  },
+  {
+   "term": "anyway",
+   "ko": "어쨌든, 그래도",
+   "note": "앞의 상황과 상관없이 이어 말할 때 써요."
+  },
+  {
+   "term": "travel memories",
+   "ko": "여행 추억",
+   "note": "memory는 복수로 쓰는 경우가 많아요."
+  },
+  {
+   "term": "lanterns",
+   "ko": "등불",
+   "note": "축제 분위기를 묘사할 때 써요."
+  },
+  {
+   "term": "food stalls",
+   "ko": "음식 가판대",
+   "note": "stall은 작은 노점이에요."
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10208.4,
+  "end": 10262.49,
+  "clips": [
+   [
+    10208.4,
+    10212.65
+   ],
+   [
+    10233.84,
+    10237.69
+   ],
+   [
+    10258.0,
+    10262.49
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "On my first day, a shy little dog would not leave my side.",
+   "chunks": [
+    {
+     "en": "On my first day,",
+     "ko": "첫날에"
+    },
+    {
+     "en": "a shy little dog",
+     "ko": "수줍음 많은 작은 강아지가"
+    },
+    {
+     "en": "would not leave my side.",
+     "ko": "내 곁을 떠나지 않으려 했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "syl": "first",
+     "link": false
+    },
+    {
+     "w": "day,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shy",
+     "strong": true,
+     "syl": "shy",
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dog",
+     "strong": true,
+     "syl": "dog",
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leave",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "side.",
+     "strong": true,
+     "syl": "side",
+     "link": false
+    }
+   ],
+   "tip": "shy little dog에 강세를 주고 would not은 또박또박 읽어요.",
+   "start": 10208.4,
+   "end": 10212.65
+  },
+  {
+   "text": "I ended up visiting him every weekend for months.",
+   "chunks": [
+    {
+     "en": "I ended up visiting him",
+     "ko": "결국 그를 찾아가게 됐다"
+    },
+    {
+     "en": "every weekend for months.",
+     "ko": "몇 달 동안 주말마다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ended",
+     "strong": true,
+     "syl": "end",
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visiting",
+     "strong": true,
+     "syl": "vis",
+     "link": false
+    },
+    {
+     "w": "him",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekend",
+     "strong": true,
+     "syl": "week",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "months.",
+     "strong": true,
+     "syl": "months",
+     "link": false
+    }
+   ],
+   "tip": "ended up은 '엔디덥'처럼 이어 읽어요.",
+   "start": 10233.84,
+   "end": 10237.69
+  },
+  {
+   "text": "When he finally got adopted, I was happy but a little sad.",
+   "chunks": [
+    {
+     "en": "When he finally got adopted,",
+     "ko": "그가 마침내 입양되었을 때"
+    },
+    {
+     "en": "I was happy",
+     "ko": "나는 기뻤지만"
+    },
+    {
+     "en": "but a little sad.",
+     "ko": "조금은 슬프기도 했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finally",
+     "strong": true,
+     "syl": "fi",
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "adopted,",
+     "strong": true,
+     "syl": "dop",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happy",
+     "strong": true,
+     "syl": "hap",
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sad.",
+     "strong": true,
+     "syl": "sad",
+     "link": false
+    }
+   ],
+   "tip": "got adopted는 '가러답티드', but a는 '버터'처럼 이어요.",
+   "start": 10258.0,
+   "end": 10262.49
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the shy dog do on the speaker's first day?",
+   "options": [
+    "It ran away",
+    "It stayed by the speaker's side",
+    "It barked loudly"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: would not leave my side"
+  },
+  {
+   "q": "How often did the speaker visit the dog?",
+   "options": [
+    "Every day",
+    "Once a month",
+    "Every weekend"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: visiting him every weekend for months"
+  },
+  {
+   "q": "How did the speaker feel when the dog was adopted?",
+   "options": [
+    "Happy but a little sad",
+    "Angry and upset",
+    "Completely bored"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I was happy but a little sad"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "leave my side",
+   "ko": "내 곁을 떠나다",
+   "note": "누군가 계속 붙어 있을 때 not leave one's side라고 해요."
+  },
+  {
+   "term": "ended up visiting",
+   "ko": "결국 방문하게 됐다",
+   "note": "end up -ing는 예상 못 한 결과를 말해요."
+  },
+  {
+   "term": "every weekend",
+   "ko": "주말마다",
+   "note": "every + 시간 표현으로 반복을 말해요."
+  },
+  {
+   "term": "got adopted",
+   "ko": "입양되었다",
+   "note": "get + 과거분사는 '~되다'예요."
+  },
+  {
+   "term": "a little sad",
+   "ko": "조금 슬픈",
+   "note": "a little은 긍정/부정 형용사 앞에서 정도를 낮춰요."
+  }
+ ]
+}

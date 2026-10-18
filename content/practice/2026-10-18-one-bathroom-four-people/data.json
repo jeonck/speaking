@@ -1,0 +1,283 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2845.2,
+  "end": 2890.33,
+  "clips": [
+   [
+    2845.2,
+    2848.65
+   ],
+   [
+    2865.6,
+    2869.21
+   ],
+   [
+    2886.64,
+    2890.33
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The bathroom was remodeled a few years ago.",
+   "chunks": [
+    {
+     "en": "The bathroom",
+     "ko": "욕실은"
+    },
+    {
+     "en": "was remodeled",
+     "ko": "리모델링되었어요"
+    },
+    {
+     "en": "a few years ago.",
+     "ko": "몇 년 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bathroom",
+     "strong": true,
+     "syl": "bath",
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "remodeled",
+     "strong": true,
+     "syl": "mod",
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "syl": "years",
+     "link": false
+    },
+    {
+     "w": "ago.",
+     "strong": true,
+     "syl": "go",
+     "link": false
+    }
+   ],
+   "tip": "remodeled는 'ㄹ리마들드'처럼 mod에 강세를 둬요.",
+   "start": 2845.2,
+   "end": 2848.65
+  },
+  {
+   "text": "But we have only one bathroom for four people.",
+   "chunks": [
+    {
+     "en": "But we have only one bathroom",
+     "ko": "하지만 욕실은 하나뿐이에요"
+    },
+    {
+     "en": "for four people.",
+     "ko": "네 명이 쓰는데"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": true,
+     "syl": "on",
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": true,
+     "syl": "one",
+     "link": false
+    },
+    {
+     "w": "bathroom",
+     "strong": true,
+     "syl": "bath",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "four",
+     "strong": true,
+     "syl": "four",
+     "link": false
+    },
+    {
+     "w": "people.",
+     "strong": true,
+     "syl": "peo",
+     "link": false
+    }
+   ],
+   "tip": "only one은 '온리원'으로 이어 읽고, one과 four를 또렷하게 대비시켜요.",
+   "start": 2865.6,
+   "end": 2869.21
+  },
+  {
+   "text": "Mornings can get a little chaotic because of that.",
+   "chunks": [
+    {
+     "en": "Mornings can get a little chaotic",
+     "ko": "아침은 조금 정신없어질 수 있어요"
+    },
+    {
+     "en": "because of that.",
+     "ko": "그 때문에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Mornings",
+     "strong": true,
+     "syl": "morn",
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chaotic",
+     "strong": true,
+     "syl": "cha",
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "chaotic은 '케이아틱'처럼 읽으며 두 번째 음절 ot에 강세가 와요. get a는 '게러'처럼 이어요.",
+   "start": 2886.64,
+   "end": 2890.33
+  }
+ ],
+ "questions": [
+  {
+   "q": "When was the bathroom remodeled?",
+   "options": [
+    "Last month",
+    "A few years ago",
+    "This year"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: remodeled a few years ago"
+  },
+  {
+   "q": "How many people share one bathroom?",
+   "options": [
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: only one bathroom for four people"
+  },
+  {
+   "q": "Which part of the day can get chaotic?",
+   "options": [
+    "Mornings",
+    "Evenings",
+    "Weekends"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: Mornings can get a little chaotic"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "remodel",
+   "ko": "리모델링하다",
+   "note": "집 내부를 새로 고칠 때 써요"
+  },
+  {
+   "term": "a few years ago",
+   "ko": "몇 년 전에",
+   "note": "ago는 항상 시간 표현 뒤에 와요"
+  },
+  {
+   "term": "only one",
+   "ko": "단 하나",
+   "note": "only는 '오직'이라는 부정적 뉘앙스도 가져요"
+  },
+  {
+   "term": "chaotic",
+   "ko": "혼란스러운, 정신없는",
+   "note": "아침 출근 준비 같은 상황에 자주 써요"
+  },
+  {
+   "term": "because of that",
+   "ko": "그것 때문에",
+   "note": "앞 문장의 이유를 이어받을 때 써요"
+  }
+ ]
+}

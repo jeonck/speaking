@@ -1,0 +1,293 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13379.28,
+  "end": 13429.53,
+  "clips": [
+   [
+    13379.28,
+    13383.13
+   ],
+   [
+    13401.68,
+    13405.53
+   ],
+   [
+    13425.28,
+    13429.53
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "We can also wear jeans and sneakers to the office.",
+   "chunks": [
+    {
+     "en": "We can also wear jeans",
+     "ko": "우리는 청바지도 입을 수 있고"
+    },
+    {
+     "en": "and sneakers",
+     "ko": "그리고 운동화도"
+    },
+    {
+     "en": "to the office.",
+     "ko": "사무실에"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wear",
+     "strong": true,
+     "link": false,
+     "syl": "wear"
+    },
+    {
+     "w": "jeans",
+     "strong": true,
+     "link": true,
+     "syl": "jeans"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sneakers",
+     "strong": true,
+     "link": false,
+     "syl": "sneak"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "office.",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    }
+   ],
+   "tip": "can은 약하게, wear와 jeans를 강하게 말해요. jeans and는 '진잔'처럼 이어져요.",
+   "start": 13379.28,
+   "end": 13383.13
+  },
+  {
+   "text": "The way I study English has changed completely.",
+   "chunks": [
+    {
+     "en": "The way I study English",
+     "ko": "내가 영어를 공부하는 방식은"
+    },
+    {
+     "en": "has changed completely.",
+     "ko": "완전히 바뀌었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study",
+     "strong": true,
+     "link": false,
+     "syl": "stud"
+    },
+    {
+     "w": "English",
+     "strong": true,
+     "link": false,
+     "syl": "Eng"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "completely.",
+     "strong": true,
+     "link": false,
+     "syl": "plete"
+    }
+   ],
+   "tip": "completely는 두 번째 음절 plete에 강세가 와요: '컴플리-틀리'.",
+   "start": 13401.68,
+   "end": 13405.53
+  },
+  {
+   "text": "In school, I just memorized grammar rules for tests.",
+   "chunks": [
+    {
+     "en": "In school,",
+     "ko": "학교에서는"
+    },
+    {
+     "en": "I just memorized grammar rules",
+     "ko": "나는 그저 문법 규칙을 외웠다"
+    },
+    {
+     "en": "for tests.",
+     "ko": "시험을 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "school,",
+     "strong": true,
+     "link": false,
+     "syl": "school"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "memorized",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    },
+    {
+     "w": "grammar",
+     "strong": true,
+     "link": false,
+     "syl": "gram"
+    },
+    {
+     "w": "rules",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tests.",
+     "strong": true,
+     "link": false,
+     "syl": "tests"
+    }
+   ],
+   "tip": "memorized는 첫 음절 MEM에 강세: '메머라이즈드'.",
+   "start": 13425.28,
+   "end": 13429.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What can the speaker wear to the office now?",
+   "options": [
+    "A suit and tie",
+    "Jeans and sneakers",
+    "A uniform"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: wear jeans and sneakers to the office"
+  },
+  {
+   "q": "What has changed completely?",
+   "options": [
+    "The speaker's office",
+    "The speaker's school",
+    "The way the speaker studies English"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: The way I study English has changed completely"
+  },
+  {
+   "q": "What did the speaker do in school?",
+   "options": [
+    "Memorized grammar rules for tests",
+    "Watched English videos",
+    "Spoke with foreign teachers"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: memorized grammar rules for tests"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sneakers",
+   "ko": "운동화",
+   "note": "미국식 표현이고 영국에선 trainers라고도 해요."
+  },
+  {
+   "term": "The way I study",
+   "ko": "내가 공부하는 방식",
+   "note": "the way + 주어 + 동사로 '~하는 방식'을 말해요."
+  },
+  {
+   "term": "completely",
+   "ko": "완전히",
+   "note": "changed completely처럼 변화 강조에 좋아요."
+  },
+  {
+   "term": "memorize",
+   "ko": "외우다",
+   "note": "암기식 학습을 말할 때 써요."
+  },
+  {
+   "term": "grammar rules",
+   "ko": "문법 규칙",
+   "note": "rules for tests처럼 목적을 붙여 말해요."
+  }
+ ]
+}

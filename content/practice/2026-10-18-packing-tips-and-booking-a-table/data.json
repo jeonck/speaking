@@ -1,0 +1,322 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14196.08,
+  "end": 14243.93,
+  "clips": [
+   [
+    14196.08,
+    14199.53
+   ],
+   [
+    14216.88,
+    14220.65
+   ],
+   [
+    14239.76,
+    14243.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Let me know if you need any tips on packing.",
+   "chunks": [
+    {
+     "en": "Let me know",
+     "ko": "알려 주세요"
+    },
+    {
+     "en": "if you need any tips",
+     "ko": "조언이 필요하면"
+    },
+    {
+     "en": "on packing.",
+     "ko": "짐 싸기에 대한"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": true,
+     "link": false,
+     "syl": "know"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "any",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tips",
+     "strong": true,
+     "link": false,
+     "syl": "tips"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "packing.",
+     "strong": true,
+     "link": false,
+     "syl": "pack"
+    }
+   ],
+   "tip": "need any는 '니데니'처럼 d와 a를 이어 읽어요.",
+   "start": 14196.08,
+   "end": 14199.53
+  },
+  {
+   "text": "Hello, I'd like to make a reservation for this Friday.",
+   "chunks": [
+    {
+     "en": "Hello,",
+     "ko": "안녕하세요,"
+    },
+    {
+     "en": "I'd like to make a reservation",
+     "ko": "예약을 하고 싶어요"
+    },
+    {
+     "en": "for this Friday.",
+     "ko": "이번 금요일로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Hello,",
+     "strong": true,
+     "link": false,
+     "syl": "Hel"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reservation",
+     "strong": true,
+     "link": false,
+     "syl": "va"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Friday.",
+     "strong": true,
+     "link": false,
+     "syl": "Fri"
+    }
+   ],
+   "tip": "make a는 '메이커'처럼 이어 읽고 reservation은 va에 강세를 둬요.",
+   "start": 14216.88,
+   "end": 14220.65
+  },
+  {
+   "text": "Do you have a table for 4 around 7 in the evening?",
+   "chunks": [
+    {
+     "en": "Do you have a table",
+     "ko": "테이블 있나요"
+    },
+    {
+     "en": "for 4",
+     "ko": "4명이"
+    },
+    {
+     "en": "around 7",
+     "ko": "7시쯤"
+    },
+    {
+     "en": "in the evening?",
+     "ko": "저녁에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "table",
+     "strong": true,
+     "link": false,
+     "syl": "ta"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "4",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "7",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "evening?",
+     "strong": true,
+     "link": false,
+     "syl": "eve"
+    }
+   ],
+   "tip": "have a는 '해버'처럼 이어 읽어요.",
+   "start": 14239.76,
+   "end": 14243.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker offer help with?",
+   "options": [
+    "Booking flights",
+    "Finding a hotel",
+    "Packing tips"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: tips on packing"
+  },
+  {
+   "q": "For which day does the speaker want a reservation?",
+   "options": [
+    "This Friday",
+    "This Saturday",
+    "Next Friday"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: a reservation for this Friday"
+  },
+  {
+   "q": "How many people is the table for?",
+   "options": [
+    "2",
+    "4",
+    "6"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: a table for 4"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "tips on packing",
+   "ko": "짐 싸기 요령",
+   "note": "tips on + 주제로 말해요."
+  },
+  {
+   "term": "make a reservation",
+   "ko": "예약하다",
+   "note": "식당, 호텔 모두 써요."
+  },
+  {
+   "term": "a table for 4",
+   "ko": "4인 테이블",
+   "note": "table for + 인원수 형태예요."
+  },
+  {
+   "term": "around 7",
+   "ko": "7시쯤",
+   "note": "around는 대략적인 시간에 써요."
+  },
+  {
+   "term": "let me know",
+   "ko": "알려 주세요",
+   "note": "부담 없이 부탁할 때 쓰는 표현이에요."
+  }
+ ]
+}

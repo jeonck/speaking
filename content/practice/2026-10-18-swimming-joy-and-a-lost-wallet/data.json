@@ -1,0 +1,319 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10734.96,
+  "end": 10786.97,
+  "clips": [
+   [
+    10734.96,
+    10739.37
+   ],
+   [
+    10760.48,
+    10764.17
+   ],
+   [
+    10782.96,
+    10786.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The first time I swam across the pool, I couldn't stop smiling.",
+   "chunks": [
+    {
+     "en": "The first time I swam",
+     "ko": "처음 내가 수영했을 때"
+    },
+    {
+     "en": "across the pool,",
+     "ko": "수영장을 가로질러"
+    },
+    {
+     "en": "I couldn't stop smiling.",
+     "ko": "나는 웃음을 멈출 수 없었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "swam",
+     "strong": true,
+     "link": true,
+     "syl": "swam"
+    },
+    {
+     "w": "across",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pool,",
+     "strong": true,
+     "link": false,
+     "syl": "pool"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "couldn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stop",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smiling.",
+     "strong": true,
+     "link": false,
+     "syl": "smil"
+    }
+   ],
+   "tip": "swam across는 '스웜어크로스'처럼 m과 a를 이어 읽어요.",
+   "start": 10734.96,
+   "end": 10739.37
+  },
+  {
+   "text": "Once I lost my wallet on a crowded subway.",
+   "chunks": [
+    {
+     "en": "Once I lost my wallet",
+     "ko": "한번은 내가 지갑을 잃어버렸어요"
+    },
+    {
+     "en": "on a crowded subway.",
+     "ko": "붐비는 지하철에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lost",
+     "strong": true,
+     "link": false,
+     "syl": "lost"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wallet",
+     "strong": true,
+     "link": true,
+     "syl": "wal"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crowded",
+     "strong": true,
+     "link": false,
+     "syl": "crow"
+    },
+    {
+     "w": "subway.",
+     "strong": true,
+     "link": false,
+     "syl": "sub"
+    }
+   ],
+   "tip": "wallet on a는 '월렛어너'처럼 세 단어를 한 덩어리로 이어 읽어요.",
+   "start": 10760.48,
+   "end": 10764.17
+  },
+  {
+   "text": "I thought it was gone for good, so I canceled all my cards.",
+   "chunks": [
+    {
+     "en": "I thought it was gone for good,",
+     "ko": "나는 그게 영영 사라졌다고 생각했어요"
+    },
+    {
+     "en": "so I canceled all my cards.",
+     "ko": "그래서 내 카드를 전부 취소했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thought",
+     "strong": true,
+     "link": true,
+     "syl": "thought"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gone",
+     "strong": true,
+     "link": false,
+     "syl": "gone"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "canceled",
+     "strong": true,
+     "link": true,
+     "syl": "can"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cards.",
+     "strong": true,
+     "link": false,
+     "syl": "cards"
+    }
+   ],
+   "tip": "thought it은 '쏘릿'처럼 t가 약해지며 이어지고, gone for good은 '영원히 사라진'이라는 뜻이에요.",
+   "start": 10782.96,
+   "end": 10786.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What made the speaker unable to stop smiling?",
+   "options": [
+    "Winning a swimming race",
+    "Swimming across the pool for the first time",
+    "Finding a new pool"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: The first time I swam across the pool, I couldn't stop smiling"
+  },
+  {
+   "q": "Where did the speaker lose the wallet?",
+   "options": [
+    "On a crowded subway",
+    "At the swimming pool",
+    "In a taxi"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: lost my wallet on a crowded subway"
+  },
+  {
+   "q": "What did the speaker do after thinking the wallet was gone?",
+   "options": [
+    "Called the police",
+    "Canceled all the cards",
+    "Bought a new wallet"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I canceled all my cards"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "swim across",
+   "ko": "~을 헤엄쳐 건너다",
+   "note": "across 뒤에 장소를 바로 붙여요."
+  },
+  {
+   "term": "crowded",
+   "ko": "붐비는",
+   "note": "crowded subway처럼 장소 앞에 써요."
+  },
+  {
+   "term": "gone for good",
+   "ko": "영영 사라진",
+   "note": "for good은 '영원히'라는 뜻이에요."
+  },
+  {
+   "term": "cancel",
+   "ko": "취소하다",
+   "note": "카드는 cancel a card라고 해요."
+  }
+ ]
+}

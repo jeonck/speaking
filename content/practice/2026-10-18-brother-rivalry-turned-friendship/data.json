@@ -1,0 +1,299 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1732.08,
+  "end": 1777.61,
+  "clips": [
+   [
+    1732.08,
+    1735.61
+   ],
+   [
+    1753.92,
+    1757.13
+   ],
+   [
+    1773.76,
+    1777.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My younger brother and I used to fight all the time.",
+   "chunks": [
+    {
+     "en": "My younger brother and I",
+     "ko": "내 남동생과 나는"
+    },
+    {
+     "en": "used to fight",
+     "ko": "싸우곤 했다"
+    },
+    {
+     "en": "all the time.",
+     "ko": "항상"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "younger",
+     "strong": true,
+     "link": false,
+     "syl": "young"
+    },
+    {
+     "w": "brother",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fight",
+     "strong": true,
+     "link": true,
+     "syl": "fight"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time.",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "used to는 '유스투'가 아니라 '유스트'처럼 약하게 이어 읽어요.",
+   "start": 1732.08,
+   "end": 1735.61
+  },
+  {
+   "text": "Now he's one of my closest friends.",
+   "chunks": [
+    {
+     "en": "Now he's",
+     "ko": "이제 그는"
+    },
+    {
+     "en": "one of my closest friends.",
+     "ko": "내 가장 친한 친구들 중 하나이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": true,
+     "link": false,
+     "syl": "Now"
+    },
+    {
+     "w": "he's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "closest",
+     "strong": true,
+     "link": false,
+     "syl": "clos"
+    },
+    {
+     "w": "friends.",
+     "strong": true,
+     "link": false,
+     "syl": "friends"
+    }
+   ],
+   "tip": "one of는 '워너브'처럼 이어 읽어요.",
+   "start": 1753.92,
+   "end": 1757.13
+  },
+  {
+   "text": "We also have a dog that's been with us for 10 years.",
+   "chunks": [
+    {
+     "en": "We also have a dog",
+     "ko": "우리는 또한 개 한 마리가 있다"
+    },
+    {
+     "en": "that's been with us",
+     "ko": "우리와 함께 지내 온"
+    },
+    {
+     "en": "for 10 years.",
+     "ko": "10년 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dog",
+     "strong": true,
+     "link": false,
+     "syl": "dog"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    }
+   ],
+   "tip": "that's been with us에서 been은 '빈'처럼 약하게 읽어요.",
+   "start": 1773.76,
+   "end": 1777.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker and a younger brother used to do?",
+   "options": [
+    "Fight all the time",
+    "Play sports together",
+    "Study in the same room"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: used to fight all the time"
+  },
+  {
+   "q": "How does the speaker describe the brother now?",
+   "options": [
+    "A neighbor",
+    "A rival",
+    "One of the closest friends"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: one of my closest friends"
+  },
+  {
+   "q": "How long has the family had the dog?",
+   "options": [
+    "For 5 years",
+    "For 10 years",
+    "For 2 years"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: for 10 years"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "used to",
+   "ko": "~하곤 했다",
+   "note": "과거의 반복된 습관을 말할 때 써요."
+  },
+  {
+   "term": "all the time",
+   "ko": "항상, 늘",
+   "note": "always보다 구어체예요."
+  },
+  {
+   "term": "one of my closest friends",
+   "ko": "가장 친한 친구 중 하나",
+   "note": "one of 뒤에는 복수명사를 써요."
+  },
+  {
+   "term": "been with us for 10 years",
+   "ko": "10년 동안 함께해 왔다",
+   "note": "기간 앞에는 for를 써요."
+  }
+ ]
+}

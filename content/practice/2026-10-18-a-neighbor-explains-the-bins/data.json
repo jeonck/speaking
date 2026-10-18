@@ -1,0 +1,360 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17453.04,
+  "end": 17509.77,
+  "clips": [
+   [
+    17453.04,
+    17456.89
+   ],
+   [
+    17477.12,
+    17481.85
+   ],
+   [
+    17505.2,
+    17509.77
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "There were signs, but some of the rules were new to me.",
+   "chunks": [
+    {
+     "en": "There were signs,",
+     "ko": "표지판이 있었지만"
+    },
+    {
+     "en": "but some of the rules",
+     "ko": "규칙 중 일부는"
+    },
+    {
+     "en": "were new to me.",
+     "ko": "저에게 새로웠어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "signs,",
+     "strong": true,
+     "link": false,
+     "syl": "signs"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rules",
+     "strong": true,
+     "link": false,
+     "syl": "rules"
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "but some of the는 '벗 섬 어브 더'처럼 약하게 붙여 말해요.",
+   "start": 17453.04,
+   "end": 17456.89
+  },
+  {
+   "text": "One evening, a neighbor noticed me standing there with a bag of containers.",
+   "chunks": [
+    {
+     "en": "One evening,",
+     "ko": "어느 저녁"
+    },
+    {
+     "en": "a neighbor noticed me",
+     "ko": "이웃이 저를 알아챘어요"
+    },
+    {
+     "en": "standing there",
+     "ko": "거기 서 있는 것을"
+    },
+    {
+     "en": "with a bag of containers.",
+     "ko": "용기들이 든 봉지를 들고"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "evening,",
+     "strong": true,
+     "link": false,
+     "syl": "eve"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighbor",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "noticed",
+     "strong": true,
+     "link": false,
+     "syl": "no"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "standing",
+     "strong": true,
+     "link": false,
+     "syl": "stand"
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bag",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "containers.",
+     "strong": true,
+     "link": false,
+     "syl": "tain"
+    }
+   ],
+   "tip": "neighbor의 gh는 소리 나지 않아 '네이버'로 읽어요.",
+   "start": 17477.12,
+   "end": 17481.85
+  },
+  {
+   "text": "She showed me where to put the plastic and where to leave the cardboard.",
+   "chunks": [
+    {
+     "en": "She showed me",
+     "ko": "그녀가 알려 줬어요"
+    },
+    {
+     "en": "where to put the plastic",
+     "ko": "플라스틱을 어디에 둘지"
+    },
+    {
+     "en": "and where to leave the cardboard.",
+     "ko": "그리고 골판지는 어디에 둘지"
+    }
+   ],
+   "words": [
+    {
+     "w": "She",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "showed",
+     "strong": true,
+     "link": false,
+     "syl": "showed"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plastic",
+     "strong": true,
+     "link": false,
+     "syl": "plas"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leave",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cardboard.",
+     "strong": true,
+     "link": false,
+     "syl": "card"
+    }
+   ],
+   "tip": "put the는 '푸더'처럼 t가 가볍게 이어져요.",
+   "start": 17505.2,
+   "end": 17509.77
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the neighbor notice?",
+   "options": [
+    "The speaker losing a key",
+    "The speaker standing with a bag of containers",
+    "The speaker carrying boxes upstairs"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: noticed me standing there with a bag of containers"
+  },
+  {
+   "q": "What was true about the rules?",
+   "options": [
+    "All were too easy",
+    "They were not posted",
+    "Some were new to the speaker"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: some of the rules were new to me"
+  },
+  {
+   "q": "What did the neighbor show the speaker?",
+   "options": [
+    "Where to put plastic and cardboard",
+    "How to cook dinner",
+    "Where the mailbox was"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: where to put the plastic and where to leave the cardboard"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "signs",
+   "ko": "표지판",
+   "note": "sign은 서명이라는 뜻도 있어요."
+  },
+  {
+   "term": "new to me",
+   "ko": "나에게 처음인",
+   "note": "익숙하지 않은 것을 말할 때 써요."
+  },
+  {
+   "term": "noticed",
+   "ko": "알아차렸다",
+   "note": "notice 뒤에 사람+동작을 이어요."
+  },
+  {
+   "term": "containers",
+   "ko": "용기, 통",
+   "note": "플라스틱 용기를 뜻할 때가 많아요."
+  },
+  {
+   "term": "cardboard",
+   "ko": "골판지",
+   "note": "박스를 만드는 두꺼운 종이예요."
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17531.92,
+  "end": 17585.61,
+  "clips": [
+   [
+    17531.92,
+    17535.93
+   ],
+   [
+    17554.8,
+    17559.53
+   ],
+   [
+    17581.04,
+    17585.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I thanked her and took a photo of the instructions.",
+   "chunks": [
+    {
+     "en": "I thanked her",
+     "ko": "저는 그녀에게 감사했고"
+    },
+    {
+     "en": "and took a photo",
+     "ko": "사진을 찍었어요"
+    },
+    {
+     "en": "of the instructions.",
+     "ko": "안내문을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thanked",
+     "strong": true,
+     "link": false,
+     "syl": "thanked"
+    },
+    {
+     "w": "her",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "photo",
+     "strong": true,
+     "link": false,
+     "syl": "pho"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "instructions.",
+     "strong": true,
+     "link": false,
+     "syl": "struc"
+    }
+   ],
+   "tip": "took a는 '투커'처럼 이어서 읽어요.",
+   "start": 17531.92,
+   "end": 17535.93
+  },
+  {
+   "text": "Now I rinse containers and flatten boxes before taking them out.",
+   "chunks": [
+    {
+     "en": "Now I rinse containers",
+     "ko": "이제 저는 헹궈요 용기를"
+    },
+    {
+     "en": "and flatten boxes",
+     "ko": "그리고 납작하게 해요 상자를"
+    },
+    {
+     "en": "before taking them out.",
+     "ko": "내놓기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rinse",
+     "strong": true,
+     "link": false,
+     "syl": "rinse"
+    },
+    {
+     "w": "containers",
+     "strong": true,
+     "link": false,
+     "syl": "tain"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flatten",
+     "strong": true,
+     "link": false,
+     "syl": "flat"
+    },
+    {
+     "w": "boxes",
+     "strong": true,
+     "link": false,
+     "syl": "box"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taking",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "flatten은 t를 삼키듯 '플랫'으로 짧게 읽어요.",
+   "start": 17554.8,
+   "end": 17559.53
+  },
+  {
+   "text": "It takes a little extra effort, but it's become part of my routine.",
+   "chunks": [
+    {
+     "en": "It takes a little extra effort,",
+     "ko": "약간의 추가 노력이 들지만"
+    },
+    {
+     "en": "but it's become part of my routine.",
+     "ko": "이제 제 일상의 일부가 됐어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "takes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "extra",
+     "strong": true,
+     "link": false,
+     "syl": "ex"
+    },
+    {
+     "w": "effort,",
+     "strong": true,
+     "link": false,
+     "syl": "ef"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": true,
+     "link": false,
+     "syl": "come"
+    },
+    {
+     "w": "part",
+     "strong": true,
+     "link": false,
+     "syl": "part"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "routine.",
+     "strong": true,
+     "link": false,
+     "syl": "tine"
+    }
+   ],
+   "tip": "effort는 '에퍼트'처럼 첫음절에 강세를 줘요.",
+   "start": 17581.04,
+   "end": 17585.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker do after the neighbor helped?",
+   "options": [
+    "Wrote a letter",
+    "Bought new bins",
+    "Took a photo of the instructions"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: took a photo of the instructions"
+  },
+  {
+   "q": "What does the speaker do to boxes?",
+   "options": [
+    "Flatten them",
+    "Paint them",
+    "Sell them"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: flatten boxes before taking them out"
+  },
+  {
+   "q": "How does the speaker describe the extra effort?",
+   "options": [
+    "Too much to continue",
+    "A little, but now routine",
+    "Not needed anymore"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: it takes a little extra effort, but it's become part of my routine"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "rinse",
+   "ko": "헹구다",
+   "note": "rinse out처럼 구동사로도 써요."
+  },
+  {
+   "term": "flatten",
+   "ko": "납작하게 만들다",
+   "note": "flat(납작한)에서 나온 동사예요."
+  },
+  {
+   "term": "take out",
+   "ko": "내다 놓다",
+   "note": "take out the trash는 쓰레기를 내놓다예요."
+  },
+  {
+   "term": "extra effort",
+   "ko": "추가 노력",
+   "note": "a little extra를 붙이면 '조금 더'예요."
+  },
+  {
+   "term": "part of my routine",
+   "ko": "일상의 일부",
+   "note": "become part of ~ 형태로 자주 써요."
+  }
+ ]
+}

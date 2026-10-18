@@ -1,0 +1,316 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12948.4,
+  "end": 12998.97,
+  "clips": [
+   [
+    12948.4,
+    12952.17
+   ],
+   [
+    12971.04,
+    12974.65
+   ],
+   [
+    12994.64,
+    12998.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "That's why I try to call my parents at least once a week.",
+   "chunks": [
+    {
+     "en": "That's why",
+     "ko": "그래서"
+    },
+    {
+     "en": "I try to call my parents",
+     "ko": "저는 부모님께 전화하려고 해요"
+    },
+    {
+     "en": "at least once a week.",
+     "ko": "적어도 일주일에 한 번은"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "why",
+     "strong": true,
+     "link": false,
+     "syl": "why"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "call",
+     "strong": true,
+     "link": false,
+     "syl": "call"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parents",
+     "strong": true,
+     "link": false,
+     "syl": "par"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": true,
+     "link": true,
+     "syl": "least"
+    },
+    {
+     "w": "once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week.",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    }
+   ],
+   "tip": "'at least'는 '앳리스트'로 붙이고 'once a'는 '원서'처럼 이어요.",
+   "start": 12948.4,
+   "end": 12952.17
+  },
+  {
+   "text": "Even the weather seems different from when I was little.",
+   "chunks": [
+    {
+     "en": "Even the weather seems different",
+     "ko": "날씨조차 달라 보여요"
+    },
+    {
+     "en": "from when I was little.",
+     "ko": "제가 어렸을 때와는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weather",
+     "strong": true,
+     "link": false,
+     "syl": "wea"
+    },
+    {
+     "w": "seems",
+     "strong": true,
+     "link": true,
+     "syl": "seems"
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "diff"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little.",
+     "strong": true,
+     "link": false,
+     "syl": "lit"
+    }
+   ],
+   "tip": "'weather'는 '웨더'로 th를 부드럽게 읽어요.",
+   "start": 12971.04,
+   "end": 12974.65
+  },
+  {
+   "text": "Summers seem hotter now and winters don't feel as long.",
+   "chunks": [
+    {
+     "en": "Summers seem hotter now",
+     "ko": "여름은 지금 더 더워 보이고"
+    },
+    {
+     "en": "and winters don't feel as long.",
+     "ko": "겨울은 그렇게 길게 느껴지지 않아요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Summers",
+     "strong": true,
+     "link": false,
+     "syl": "sum"
+    },
+    {
+     "w": "seem",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotter",
+     "strong": true,
+     "link": false,
+     "syl": "hot"
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "winters",
+     "strong": true,
+     "link": false,
+     "syl": "win"
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long.",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    }
+   ],
+   "tip": "'don't feel as'는 '돈필애즈'처럼 이어서 읽어요.",
+   "start": 12994.64,
+   "end": 12998.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "How often does the speaker call their parents?",
+   "options": [
+    "At least once a week",
+    "Every day",
+    "Once a year"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: at least once a week"
+  },
+  {
+   "q": "What seems different from childhood?",
+   "options": [
+    "The weather",
+    "The food",
+    "The neighbors"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Even the weather seems different"
+  },
+  {
+   "q": "What do winters feel like now?",
+   "options": [
+    "Not as long",
+    "Much longer",
+    "Much warmer in summer only"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: winters don't feel as long"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "at least once a week",
+   "ko": "적어도 일주일에 한 번",
+   "note": "빈도를 말할 때 유용해요."
+  },
+  {
+   "term": "That's why",
+   "ko": "그래서 ~예요",
+   "note": "앞 내용이 이유임을 나타내요."
+  },
+  {
+   "term": "seem different",
+   "ko": "달라 보이다",
+   "note": "seem 뒤에 형용사를 바로 써요."
+  },
+  {
+   "term": "when I was little",
+   "ko": "어렸을 때",
+   "note": "when I was a kid와 같아요."
+  }
+ ]
+}

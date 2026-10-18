@@ -1,0 +1,302 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2590.16,
+  "end": 2636.41,
+  "clips": [
+   [
+    2590.16,
+    2593.69
+   ],
+   [
+    2610.0,
+    2613.61
+   ],
+   [
+    2632.72,
+    2636.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My room isn't very big, but it's cozy.",
+   "chunks": [
+    {
+     "en": "My room isn't very big,",
+     "ko": "내 방은 그렇게 크지 않아요"
+    },
+    {
+     "en": "but it's cozy.",
+     "ko": "하지만 아늑해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room",
+     "strong": true,
+     "syl": "room",
+     "link": false
+    },
+    {
+     "w": "isn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big,",
+     "strong": true,
+     "syl": "big",
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cozy.",
+     "strong": true,
+     "syl": "co",
+     "link": false
+    }
+   ],
+   "tip": "isn't very big의 isn't는 '이즌트'로 짧게, big을 크게 강조해요.",
+   "start": 2590.16,
+   "end": 2593.69
+  },
+  {
+   "text": "I have a bed, a desk, and a bookshelf in there.",
+   "chunks": [
+    {
+     "en": "I have a bed,",
+     "ko": "침대가 있어요"
+    },
+    {
+     "en": "a desk,",
+     "ko": "책상"
+    },
+    {
+     "en": "and a bookshelf in there.",
+     "ko": "그리고 책장도 그 안에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bed,",
+     "strong": true,
+     "syl": "bed",
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "desk,",
+     "strong": true,
+     "syl": "desk",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bookshelf",
+     "strong": true,
+     "syl": "book",
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and a는 '앤더'처럼 이어 읽어요. 나열할 때는 bed, desk를 또렷하게 끊어요.",
+   "start": 2610.0,
+   "end": 2613.61
+  },
+  {
+   "text": "My desk is by the window, so I get natural light.",
+   "chunks": [
+    {
+     "en": "My desk is by the window,",
+     "ko": "내 책상은 창가에 있어요"
+    },
+    {
+     "en": "so I get natural light.",
+     "ko": "그래서 자연광이 들어와요"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "desk",
+     "strong": true,
+     "syl": "desk",
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "window,",
+     "strong": true,
+     "syl": "win",
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "natural",
+     "strong": true,
+     "syl": "nat",
+     "link": false
+    },
+    {
+     "w": "light.",
+     "strong": true,
+     "syl": "light",
+     "link": false
+    }
+   ],
+   "tip": "get natural은 '게트내추럴'처럼 t가 모음으로 이어져요.",
+   "start": 2632.72,
+   "end": 2636.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker describe the room?",
+   "options": [
+    "Huge and bright",
+    "Not very big, but cozy",
+    "Cold and empty"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: isn't very big, but it's cozy"
+  },
+  {
+   "q": "What furniture is in the room?",
+   "options": [
+    "A sofa and a TV",
+    "A bed, a desk, and a bookshelf",
+    "Two beds and a table"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: a bed, a desk, and a bookshelf"
+  },
+  {
+   "q": "Why does the speaker get natural light?",
+   "options": [
+    "The desk is by the window",
+    "The ceiling has a skylight",
+    "The lamp is very bright"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: My desk is by the window"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "cozy",
+   "ko": "아늑한",
+   "note": "작고 편안한 공간을 칭찬할 때 써요"
+  },
+  {
+   "term": "bookshelf",
+   "ko": "책장",
+   "note": "book에 강세를 둬요"
+  },
+  {
+   "term": "by the window",
+   "ko": "창가에",
+   "note": "by는 '바로 옆에'라는 뜻이에요"
+  },
+  {
+   "term": "natural light",
+   "ko": "자연광",
+   "note": "햇빛이 들어오는 것을 말해요"
+  },
+  {
+   "term": "in there",
+   "ko": "그 안에",
+   "note": "방 안을 가리키는 구어체 표현이에요"
+  }
+ ]
+}

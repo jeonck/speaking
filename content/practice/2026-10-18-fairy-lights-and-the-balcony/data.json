@@ -1,0 +1,297 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2719.84,
+  "end": 2763.93,
+  "clips": [
+   [
+    2719.84,
+    2722.81
+   ],
+   [
+    2739.04,
+    2742.49
+   ],
+   [
+    2760.48,
+    2763.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "They make the room feel cozy at night.",
+   "chunks": [
+    {
+     "en": "They make the room",
+     "ko": "그것들은 방을 만들어요"
+    },
+    {
+     "en": "feel cozy",
+     "ko": "아늑하게 느껴지게"
+    },
+    {
+     "en": "at night.",
+     "ko": "밤에"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": true,
+     "syl": "make",
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room",
+     "strong": true,
+     "syl": "room",
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "cozy",
+     "strong": true,
+     "syl": "co",
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night.",
+     "strong": true,
+     "syl": "night",
+     "link": false
+    }
+   ],
+   "tip": "make the room feel cozy에서 room과 cozy를 강하게 읽어요.",
+   "start": 2719.84,
+   "end": 2722.81
+  },
+  {
+   "text": "My favorite spot in the house is the balcony.",
+   "chunks": [
+    {
+     "en": "My favorite spot",
+     "ko": "내가 가장 좋아하는 장소는"
+    },
+    {
+     "en": "in the house",
+     "ko": "집에서"
+    },
+    {
+     "en": "is the balcony.",
+     "ko": "발코니예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "syl": "fa",
+     "link": false
+    },
+    {
+     "w": "spot",
+     "strong": true,
+     "syl": "spot",
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "house",
+     "strong": true,
+     "syl": "house",
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "balcony.",
+     "strong": true,
+     "syl": "bal",
+     "link": false
+    }
+   ],
+   "tip": "favorite는 보통 '페이버릿' 두 음절처럼 짧게, balcony는 첫 음절 bal에 강세를 둬요.",
+   "start": 2739.04,
+   "end": 2742.49
+  },
+  {
+   "text": "We keep a few plants and two chairs out there.",
+   "chunks": [
+    {
+     "en": "We keep a few plants",
+     "ko": "우리는 식물 몇 개를 둬요"
+    },
+    {
+     "en": "and two chairs",
+     "ko": "그리고 의자 두 개를"
+    },
+    {
+     "en": "out there.",
+     "ko": "저기 밖에"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "syl": "keep",
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plants",
+     "strong": true,
+     "syl": "plants",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": true,
+     "syl": "two",
+     "link": false
+    },
+    {
+     "w": "chairs",
+     "strong": true,
+     "syl": "chairs",
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "there.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "keep a는 '키퍼'처럼 이어 읽고, chairs out은 '체어자웃'처럼 이어져요.",
+   "start": 2760.48,
+   "end": 2763.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "When do the lights make the room feel cozy?",
+   "options": [
+    "In the morning",
+    "At night",
+    "In the afternoon"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: feel cozy at night"
+  },
+  {
+   "q": "What is the speaker's favorite spot in the house?",
+   "options": [
+    "The balcony",
+    "The kitchen",
+    "The living room"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: favorite spot in the house is the balcony"
+  },
+  {
+   "q": "What is kept on the balcony?",
+   "options": [
+    "Some plants and two chairs",
+    "A table and a grill",
+    "Bicycles"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: a few plants and two chairs"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "feel cozy",
+   "ko": "아늑하게 느껴지다",
+   "note": "make + 목적어 + feel + 형용사 구조예요"
+  },
+  {
+   "term": "favorite spot",
+   "ko": "가장 좋아하는 장소",
+   "note": "spot은 특정한 작은 장소를 뜻해요"
+  },
+  {
+   "term": "balcony",
+   "ko": "발코니",
+   "note": "첫 음절 bal에 강세를 둬요"
+  },
+  {
+   "term": "a few",
+   "ko": "몇 개의",
+   "note": "셀 수 있는 명사 앞에 써요"
+  },
+  {
+   "term": "out there",
+   "ko": "저기 밖에",
+   "note": "멀지 않은 바깥 공간을 가리켜요"
+  }
+ ]
+}

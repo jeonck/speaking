@@ -1,0 +1,278 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1176.64,
+  "end": 1224.41,
+  "clips": [
+   [
+    1176.64,
+    1180.09
+   ],
+   [
+    1198.08,
+    1201.69
+   ],
+   [
+    1220.08,
+    1224.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "On Sunday nights, I plan out the week ahead.",
+   "chunks": [
+    {
+     "en": "On Sunday nights,",
+     "ko": "일요일 밤마다"
+    },
+    {
+     "en": "I plan out the week ahead.",
+     "ko": "나는 다가올 한 주를 계획한다"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sunday",
+     "strong": true,
+     "syl": "Sun",
+     "link": false
+    },
+    {
+     "w": "nights,",
+     "strong": true,
+     "syl": "nights",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plan",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "ahead.",
+     "strong": true,
+     "syl": "head",
+     "link": false
+    }
+   ],
+   "tip": "plan out은 '플래나웃'처럼 이어 읽어요.",
+   "start": 1176.64,
+   "end": 1180.09
+  },
+  {
+   "text": "Writing things down helps me stay organized.",
+   "chunks": [
+    {
+     "en": "Writing things down",
+     "ko": "적어 두는 것은"
+    },
+    {
+     "en": "helps me stay organized.",
+     "ko": "내가 정리된 상태를 유지하도록 돕는다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Writing",
+     "strong": true,
+     "syl": "Writ",
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": true,
+     "syl": "things",
+     "link": false
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helps",
+     "strong": true,
+     "syl": "helps",
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "organized.",
+     "strong": true,
+     "syl": "or",
+     "link": false
+    }
+   ],
+   "tip": "organized는 '오-거나이즈드'로 첫 음절을 강하게 읽어요.",
+   "start": 1198.08,
+   "end": 1201.69
+  },
+  {
+   "text": "Honestly, my routine hasn't changed much in the past year.",
+   "chunks": [
+    {
+     "en": "Honestly,",
+     "ko": "솔직히"
+    },
+    {
+     "en": "my routine hasn't changed much",
+     "ko": "내 루틴은 별로 변하지 않았다"
+    },
+    {
+     "en": "in the past year.",
+     "ko": "지난 1년간"
+    }
+   ],
+   "words": [
+    {
+     "w": "Honestly,",
+     "strong": true,
+     "syl": "Hon",
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "routine",
+     "strong": true,
+     "syl": "tine",
+     "link": false
+    },
+    {
+     "w": "hasn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "syl": "changed",
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "past",
+     "strong": true,
+     "syl": "past",
+     "link": false
+    },
+    {
+     "w": "year.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "much in은 '머친'처럼 이어서 읽어요.",
+   "start": 1220.08,
+   "end": 1224.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "When does the speaker plan the week ahead?",
+   "options": [
+    "Monday mornings",
+    "Sunday nights",
+    "Friday evenings"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: On Sunday nights, I plan out the week ahead"
+  },
+  {
+   "q": "What helps the speaker stay organized?",
+   "options": [
+    "Using an app",
+    "Asking friends",
+    "Writing things down"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: Writing things down helps me stay organized"
+  },
+  {
+   "q": "How has the routine changed in the past year?",
+   "options": [
+    "Not much",
+    "A lot",
+    "It has completely changed"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: my routine hasn't changed much in the past year"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "plan out",
+   "ko": "꼼꼼히 계획하다",
+   "note": "out이 붙으면 세부까지 짠다는 느낌이에요."
+  },
+  {
+   "term": "the week ahead",
+   "ko": "다가오는 한 주",
+   "note": "'앞으로의 주'라는 뜻으로 자주 써요."
+  },
+  {
+   "term": "write down",
+   "ko": "적어 두다",
+   "note": "memo를 남길 때 쓰는 기본 표현이에요."
+  },
+  {
+   "term": "stay organized",
+   "ko": "정돈된 상태를 유지하다",
+   "note": "stay + 형용사 패턴이에요."
+  }
+ ]
+}

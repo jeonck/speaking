@@ -1,0 +1,293 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15605.04,
+  "end": 15650.57,
+  "clips": [
+   [
+    15605.04,
+    15608.17
+   ],
+   [
+    15624.4,
+    15628.17
+   ],
+   [
+    15646.96,
+    15650.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "What happens if I have to miss the class?",
+   "chunks": [
+    {
+     "en": "What happens",
+     "ko": "어떻게 되나요"
+    },
+    {
+     "en": "if I have to miss the class?",
+     "ko": "제가 수업을 빠져야 한다면"
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happens",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miss",
+     "strong": true,
+     "link": false,
+     "syl": "miss"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class?",
+     "strong": true,
+     "link": false,
+     "syl": "class"
+    }
+   ],
+   "tip": "if I는 '이파이'처럼 이어 읽어요.",
+   "start": 15605.04,
+   "end": 15608.17
+  },
+  {
+   "text": "Hi, I'm calling about the apartment listed for rent.",
+   "chunks": [
+    {
+     "en": "Hi, I'm calling",
+     "ko": "안녕하세요, 전화드려요"
+    },
+    {
+     "en": "about the apartment",
+     "ko": "그 아파트에 대해"
+    },
+    {
+     "en": "listed for rent.",
+     "ko": "임대로 나온"
+    }
+   ],
+   "words": [
+    {
+     "w": "Hi,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "calling",
+     "strong": true,
+     "link": true,
+     "syl": "call"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "apartment",
+     "strong": true,
+     "link": false,
+     "syl": "part"
+    },
+    {
+     "w": "listed",
+     "strong": true,
+     "link": false,
+     "syl": "list"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rent.",
+     "strong": true,
+     "link": false,
+     "syl": "rent"
+    }
+   ],
+   "tip": "calling about은 '콜링어바웃'처럼 이어 읽어요.",
+   "start": 15624.4,
+   "end": 15628.17
+  },
+  {
+   "text": "Is it still available and when could I come see it?",
+   "chunks": [
+    {
+     "en": "Is it still available",
+     "ko": "아직 가능한가요"
+    },
+    {
+     "en": "and when could I come see it?",
+     "ko": "그리고 언제 보러 갈 수 있나요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "available",
+     "strong": true,
+     "link": true,
+     "syl": "vail"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": true,
+     "link": false,
+     "syl": "when"
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": true,
+     "link": false,
+     "syl": "see"
+    },
+    {
+     "w": "it?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "available and는 '어베일러블앤'처럼 이어 읽어요.",
+   "start": 15646.96,
+   "end": 15650.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask about missing class?",
+   "options": [
+    "Whether the class is free",
+    "What happens if they miss it",
+    "Who the teacher is"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: What happens if I have to miss the class?"
+  },
+  {
+   "q": "What is the speaker calling about?",
+   "options": [
+    "An apartment for rent",
+    "A car for sale",
+    "A job opening"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: calling about the apartment listed for rent"
+  },
+  {
+   "q": "What does the speaker ask about the apartment?",
+   "options": [
+    "How big it is and what it costs",
+    "Whether pets are allowed",
+    "Whether it is available and when to see it"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: Is it still available and when could I come see it?"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "miss the class",
+   "ko": "수업을 빠지다",
+   "note": "miss는 놓치다, 빠지다 모두 돼요."
+  },
+  {
+   "term": "calling about",
+   "ko": "~ 때문에 전화하다",
+   "note": "용건을 밝힐 때 쓰는 표현이에요."
+  },
+  {
+   "term": "listed for rent",
+   "ko": "임대로 나와 있는",
+   "note": "for sale은 매매로 나온 거예요."
+  },
+  {
+   "term": "still available",
+   "ko": "아직 이용 가능한",
+   "note": "still을 넣으면 '아직도'라는 뉘앙스예요."
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13306.08,
+  "end": 13360.41,
+  "clips": [
+   [
+    13306.08,
+    13310.65
+   ],
+   [
+    13332.64,
+    13336.73
+   ],
+   [
+    13356.56,
+    13360.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The culture at my office has become more relaxed in recent years.",
+   "chunks": [
+    {
+     "en": "The culture at my office",
+     "ko": "우리 사무실의 분위기는"
+    },
+    {
+     "en": "has become more relaxed",
+     "ko": "더 느슨해졌다"
+    },
+    {
+     "en": "in recent years.",
+     "ko": "최근 몇 년 사이에"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "culture",
+     "strong": true,
+     "link": false,
+     "syl": "cul"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "office",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relaxed",
+     "strong": true,
+     "link": true,
+     "syl": "laxed"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recent",
+     "strong": true,
+     "link": false,
+     "syl": "re"
+    },
+    {
+     "w": "years.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "relaxed in은 '릴랙스딘'처럼 이어 읽어요.",
+   "start": 13306.08,
+   "end": 13310.65
+  },
+  {
+   "text": "In the past, we were expected to stay until the boss left.",
+   "chunks": [
+    {
+     "en": "In the past,",
+     "ko": "과거에는"
+    },
+    {
+     "en": "we were expected to stay",
+     "ko": "우리는 머물러야 했다"
+    },
+    {
+     "en": "until the boss left.",
+     "ko": "상사가 떠날 때까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "past,",
+     "strong": true,
+     "link": false,
+     "syl": "past"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "expected",
+     "strong": true,
+     "link": false,
+     "syl": "pect"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": true,
+     "link": false,
+     "syl": "stay"
+    },
+    {
+     "w": "until",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "boss",
+     "strong": true,
+     "link": false,
+     "syl": "boss"
+    },
+    {
+     "w": "left.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "expected to는 -ed가 약해져 '익스펙티 투'처럼 들려요.",
+   "start": 13332.64,
+   "end": 13336.73
+  },
+  {
+   "text": "Now we leave on time and nobody seems to mind.",
+   "chunks": [
+    {
+     "en": "Now we leave on time",
+     "ko": "이제 우리는 제시간에 퇴근하고"
+    },
+    {
+     "en": "and nobody seems to mind.",
+     "ko": "아무도 신경 쓰지 않는 것 같다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leave",
+     "strong": true,
+     "link": true,
+     "syl": "leave"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": true,
+     "syl": "time"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nobody",
+     "strong": true,
+     "link": false,
+     "syl": "no"
+    },
+    {
+     "w": "seems",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mind.",
+     "strong": true,
+     "link": false,
+     "syl": "mind"
+    }
+   ],
+   "tip": "leave on은 '리본'처럼 이어 읽어요.",
+   "start": 13356.56,
+   "end": 13360.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "How has the office culture changed?",
+   "options": [
+    "It has become more relaxed",
+    "It has become more strict",
+    "It has become more competitive"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: has become more relaxed in recent years"
+  },
+  {
+   "q": "What was expected in the past?",
+   "options": [
+    "Working on weekends",
+    "Staying until the boss left",
+    "Dressing formally"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: expected to stay until the boss left"
+  },
+  {
+   "q": "How do people react now when employees leave on time?",
+   "options": [
+    "The boss gets angry",
+    "They have to explain why",
+    "Nobody seems to mind"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: nobody seems to mind"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "relaxed",
+   "ko": "느슨한, 여유로운",
+   "note": "분위기나 사람에게 모두 쓸 수 있어요."
+  },
+  {
+   "term": "in recent years",
+   "ko": "최근 몇 년 사이에",
+   "note": "변화를 말할 때 현재완료와 자주 써요."
+  },
+  {
+   "term": "be expected to",
+   "ko": "~하도록 기대되다",
+   "note": "규칙처럼 암묵적인 기대를 말해요."
+  },
+  {
+   "term": "on time",
+   "ko": "제시간에",
+   "note": "in time(시간 안에)과 구분하세요."
+  },
+  {
+   "term": "nobody seems to mind",
+   "ko": "아무도 신경 쓰지 않는 것 같다",
+   "note": "mind는 '신경 쓰다, 꺼리다'예요."
+  }
+ ]
+}

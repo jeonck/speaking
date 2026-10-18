@@ -1,0 +1,315 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6846.32,
+  "end": 6902.25,
+  "clips": [
+   [
+    6846.32,
+    6849.85
+   ],
+   [
+    6868.4,
+    6873.29
+   ],
+   [
+    6898.08,
+    6902.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Traveling alone lets me go wherever I want.",
+   "chunks": [
+    {
+     "en": "Traveling alone",
+     "ko": "혼자 여행하면"
+    },
+    {
+     "en": "lets me go wherever I want.",
+     "ko": "가고 싶은 곳 어디든 갈 수 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Traveling",
+     "strong": true,
+     "syl": "Trav",
+     "link": false
+    },
+    {
+     "w": "alone",
+     "strong": true,
+     "syl": "lone",
+     "link": false
+    },
+    {
+     "w": "lets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wherever",
+     "strong": true,
+     "syl": "ever",
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want.",
+     "strong": true,
+     "syl": "want",
+     "link": false
+    }
+   ],
+   "tip": "wherever I는 '웨어에버라이'처럼 이어 읽어요.",
+   "start": 6846.32,
+   "end": 6849.85
+  },
+  {
+   "text": "I prefer domestic trips because they're cheaper and easier to plan.",
+   "chunks": [
+    {
+     "en": "I prefer domestic trips",
+     "ko": "저는 국내 여행을 더 좋아해요"
+    },
+    {
+     "en": "because they're cheaper",
+     "ko": "더 싸기 때문에"
+    },
+    {
+     "en": "and easier to plan.",
+     "ko": "계획하기도 더 쉬워서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prefer",
+     "strong": true,
+     "syl": "fer",
+     "link": false
+    },
+    {
+     "w": "domestic",
+     "strong": true,
+     "syl": "mes",
+     "link": false
+    },
+    {
+     "w": "trips",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cheaper",
+     "strong": true,
+     "syl": "cheap",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "easier",
+     "strong": true,
+     "syl": "eas",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plan.",
+     "strong": true,
+     "syl": "plan",
+     "link": false
+    }
+   ],
+   "tip": "cheaper and는 '치퍼런'처럼 이어 읽어요.",
+   "start": 6868.4,
+   "end": 6873.29
+  },
+  {
+   "text": "My favorite place to go is a quiet beach town in the south.",
+   "chunks": [
+    {
+     "en": "My favorite place to go",
+     "ko": "제가 가장 좋아하는 곳은"
+    },
+    {
+     "en": "is a quiet beach town",
+     "ko": "조용한 해변 마을이에요"
+    },
+    {
+     "en": "in the south.",
+     "ko": "남쪽에 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "syl": "fav",
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "syl": "qui",
+     "link": false
+    },
+    {
+     "w": "beach",
+     "strong": true,
+     "syl": "beach",
+     "link": false
+    },
+    {
+     "w": "town",
+     "strong": true,
+     "syl": "town",
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "south.",
+     "strong": true,
+     "syl": "south",
+     "link": false
+    }
+   ],
+   "tip": "favorite는 보통 '페이버릿' 두 음절로 줄여 읽어요.",
+   "start": 6898.08,
+   "end": 6902.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does traveling alone let the speaker do?",
+   "options": [
+    "Save money",
+    "Go wherever they want",
+    "Meet locals"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: lets me go wherever I want"
+  },
+  {
+   "q": "Why does the speaker prefer domestic trips?",
+   "options": [
+    "They are cheaper and easier to plan",
+    "They are shorter",
+    "They have better weather"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: they're cheaper and easier to plan"
+  },
+  {
+   "q": "Where is the speaker's favorite place?",
+   "options": [
+    "A big city in the north",
+    "A quiet beach town in the south",
+    "A mountain village"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: a quiet beach town in the south"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "wherever I want",
+   "ko": "내가 원하는 곳 어디든",
+   "note": "wherever는 '어디든'을 뜻해요."
+  },
+  {
+   "term": "domestic trip",
+   "ko": "국내 여행",
+   "note": "해외 여행은 overseas trip이에요."
+  },
+  {
+   "term": "easier to plan",
+   "ko": "계획하기 더 쉬운",
+   "note": "형용사 + to + 동사 형태예요."
+  },
+  {
+   "term": "quiet beach town",
+   "ko": "조용한 해변 마을",
+   "note": "quiet는 '콰이엇'처럼 두 음절이에요."
+  }
+ ]
+}

@@ -1,0 +1,303 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13527.6,
+  "end": 13579.29,
+  "clips": [
+   [
+    13527.6,
+    13531.61
+   ],
+   [
+    13551.92,
+    13555.61
+   ],
+   [
+    13575.44,
+    13579.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "On the other hand, people seem more stressed than before.",
+   "chunks": [
+    {
+     "en": "On the other hand,",
+     "ko": "반면에"
+    },
+    {
+     "en": "people seem more stressed",
+     "ko": "사람들은 더 스트레스를 받는 것 같다"
+    },
+    {
+     "en": "than before.",
+     "ko": "예전보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": true,
+     "link": false,
+     "syl": "oth"
+    },
+    {
+     "w": "hand,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "seem",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stressed",
+     "strong": true,
+     "link": false,
+     "syl": "stressed"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before.",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    }
+   ],
+   "tip": "On the other hand는 한 덩어리로 빠르게 말하고 other에 강세를 둬요.",
+   "start": 13527.6,
+   "end": 13531.61
+  },
+  {
+   "text": "Some changes are for the better and some are not.",
+   "chunks": [
+    {
+     "en": "Some changes are for the better",
+     "ko": "어떤 변화는 더 나은 쪽이고"
+    },
+    {
+     "en": "and some are not.",
+     "ko": "어떤 변화는 그렇지 않다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes",
+     "strong": true,
+     "link": true,
+     "syl": "chang"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": true,
+     "link": false,
+     "syl": "bet"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": true,
+     "link": true,
+     "syl": "some"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not.",
+     "strong": true,
+     "link": false,
+     "syl": "not"
+    }
+   ],
+   "tip": "changes are는 '체인지저'처럼 이어 읽어요.",
+   "start": 13551.92,
+   "end": 13555.61
+  },
+  {
+   "text": "Overall, I think the changes have been mostly positive.",
+   "chunks": [
+    {
+     "en": "Overall,",
+     "ko": "전반적으로"
+    },
+    {
+     "en": "I think the changes have been",
+     "ko": "나는 변화들이 ~이었다고 생각한다"
+    },
+    {
+     "en": "mostly positive.",
+     "ko": "대체로 긍정적"
+    }
+   ],
+   "words": [
+    {
+     "w": "Overall,",
+     "strong": true,
+     "link": false,
+     "syl": "all"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes",
+     "strong": true,
+     "link": false,
+     "syl": "chang"
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mostly",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "positive.",
+     "strong": true,
+     "link": false,
+     "syl": "pos"
+    }
+   ],
+   "tip": "positive는 첫 음절 POS에 강세: '파저티브'.",
+   "start": 13575.44,
+   "end": 13579.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about people today?",
+   "options": [
+    "They seem more stressed than before",
+    "They seem happier than before",
+    "They seem lazier than before"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: people seem more stressed than before"
+  },
+  {
+   "q": "What does the speaker say about the changes?",
+   "options": [
+    "All are good",
+    "All are bad",
+    "Some are better and some are not"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: some are for the better and some are not"
+  },
+  {
+   "q": "What is the speaker's overall opinion?",
+   "options": [
+    "Mostly negative",
+    "Mostly positive",
+    "Not sure"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: the changes have been mostly positive"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "On the other hand",
+   "ko": "반면에",
+   "note": "앞 내용과 대조되는 점을 말할 때 써요."
+  },
+  {
+   "term": "stressed",
+   "ko": "스트레스를 받는",
+   "note": "형용사로 'be/feel stressed'처럼 써요."
+  },
+  {
+   "term": "for the better",
+   "ko": "더 나은 쪽으로",
+   "note": "change for the better는 좋은 변화예요."
+  },
+  {
+   "term": "Overall",
+   "ko": "전반적으로",
+   "note": "결론을 말하기 전에 문장 앞에 써요."
+  },
+  {
+   "term": "mostly",
+   "ko": "대체로",
+   "note": "positive 같은 형용사 앞에 붙여요."
+  }
+ ]
+}

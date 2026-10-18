@@ -1,0 +1,319 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3314.32,
+  "end": 3368.09,
+  "clips": [
+   [
+    3314.32,
+    3318.65
+   ],
+   [
+    3338.16,
+    3342.41
+   ],
+   [
+    3363.52,
+    3368.09
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "There are also lots of food delivery options in the area.",
+   "chunks": [
+    {
+     "en": "There are also lots of",
+     "ko": "또한 많은"
+    },
+    {
+     "en": "food delivery options",
+     "ko": "음식 배달 선택지가"
+    },
+    {
+     "en": "in the area.",
+     "ko": "그 지역에"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "lots",
+     "strong": true,
+     "link": false,
+     "syl": "lots"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    },
+    {
+     "w": "delivery",
+     "strong": true,
+     "link": false,
+     "syl": "liv"
+    },
+    {
+     "w": "options",
+     "strong": true,
+     "link": false,
+     "syl": "op"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "area.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'There are also'는 'There are'가 '데어라'처럼 붙고 also로 이어져요.",
+   "start": 3314.32,
+   "end": 3318.65
+  },
+  {
+   "text": "Basically everything I need is within walking distance.",
+   "chunks": [
+    {
+     "en": "Basically everything I need",
+     "ko": "기본적으로 내가 필요한 모든 게"
+    },
+    {
+     "en": "is within walking distance.",
+     "ko": "걸어갈 거리 안에 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Basically",
+     "strong": true,
+     "link": false,
+     "syl": "ba"
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": true,
+     "link": true,
+     "syl": "need"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "within",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "walking",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "distance.",
+     "strong": true,
+     "link": false,
+     "syl": "dis"
+    }
+   ],
+   "tip": "'within'은 with-IN처럼 두 번째 음절이 살짝 세고, 'is within'은 이어서 읽어요.",
+   "start": 3338.16,
+   "end": 3342.41
+  },
+  {
+   "text": "My favorite place in the neighborhood is a little cafe on the corner.",
+   "chunks": [
+    {
+     "en": "My favorite place",
+     "ko": "내가 가장 좋아하는 장소는"
+    },
+    {
+     "en": "in the neighborhood",
+     "ko": "동네에서"
+    },
+    {
+     "en": "is a little cafe",
+     "ko": "작은 카페예요"
+    },
+    {
+     "en": "on the corner.",
+     "ko": "모퉁이에 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "link": false,
+     "syl": "fa"
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": false,
+     "syl": "place"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood",
+     "strong": true,
+     "link": true,
+     "syl": "neigh"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cafe",
+     "strong": true,
+     "link": false,
+     "syl": "fe"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "corner.",
+     "strong": true,
+     "link": false,
+     "syl": "cor"
+    }
+   ],
+   "tip": "'neighborhood'는 첫 음절 neigh에 강세, 뒤 -borhood는 약하게 '네이버후드'로 읽어요.",
+   "start": 3363.52,
+   "end": 3368.09
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is within walking distance for the speaker?",
+   "options": [
+    "Only the cafe",
+    "Basically everything needed",
+    "Just the food delivery shops"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: everything I need is within walking distance"
+  },
+  {
+   "q": "Where is the speaker's favorite place in the neighborhood?",
+   "options": [
+    "On the corner",
+    "Near the station",
+    "Next to the park"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: a little cafe on the corner"
+  },
+  {
+   "q": "What does the speaker say there are lots of in the area?",
+   "options": [
+    "Food delivery options",
+    "Parking spaces",
+    "Cafes with reading rooms"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: lots of food delivery options in the area"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "within walking distance",
+   "ko": "걸어서 갈 수 있는 거리에",
+   "note": "장소의 접근성을 말할 때 쓰는 대표 표현이에요."
+  },
+  {
+   "term": "delivery options",
+   "ko": "배달 선택지",
+   "note": "options를 붙이면 '선택할 수 있는 곳이 많다'는 뜻이 돼요."
+  },
+  {
+   "term": "basically",
+   "ko": "기본적으로, 사실상",
+   "note": "말을 요약해서 시작할 때 쓰는 말이에요."
+  },
+  {
+   "term": "on the corner",
+   "ko": "모퉁이에",
+   "note": "건물 위치를 알려줄 때 자주 써요."
+  }
+ ]
+}

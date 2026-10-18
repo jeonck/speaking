@@ -1,0 +1,293 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10063.52,
+  "end": 10118.33,
+  "clips": [
+   [
+    10063.52,
+    10067.77
+   ],
+   [
+    10087.76,
+    10092.09
+   ],
+   [
+    10114.48,
+    10118.33
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Strangely enough, it's one of my favorite family memories.",
+   "chunks": [
+    {
+     "en": "Strangely enough,",
+     "ko": "이상하게도"
+    },
+    {
+     "en": "it's one of my favorite family memories.",
+     "ko": "그것은 내가 가장 좋아하는 가족 추억 중 하나다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Strangely",
+     "strong": true,
+     "syl": "strange",
+     "link": false
+    },
+    {
+     "w": "enough,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "syl": "fa",
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "memories.",
+     "strong": true,
+     "syl": "mem",
+     "link": false
+    }
+   ],
+   "tip": "Strangely enough는 Strange에 강세를 주고, one of는 '원업'처럼 이어요.",
+   "start": 10063.52,
+   "end": 10067.77
+  },
+  {
+   "text": "My college graduation day was also really special to me.",
+   "chunks": [
+    {
+     "en": "My college graduation day",
+     "ko": "대학 졸업식 날도"
+    },
+    {
+     "en": "was also really special to me.",
+     "ko": "나에게 정말 특별했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college",
+     "strong": true,
+     "syl": "col",
+     "link": false
+    },
+    {
+     "w": "graduation",
+     "strong": true,
+     "syl": "a",
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "special",
+     "strong": true,
+     "syl": "spe",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "graduation은 gra-ju-A-tion, 세 번째 음절이 강해요.",
+   "start": 10087.76,
+   "end": 10092.09
+  },
+  {
+   "text": "My grandparents traveled a long way just to be there.",
+   "chunks": [
+    {
+     "en": "My grandparents traveled a long way",
+     "ko": "조부모님이 먼 길을 오셨다"
+    },
+    {
+     "en": "just to be there.",
+     "ko": "오직 그곳에 있기 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grandparents",
+     "strong": true,
+     "syl": "grand",
+     "link": false
+    },
+    {
+     "w": "traveled",
+     "strong": true,
+     "syl": "trav",
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "syl": "long",
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there.",
+     "strong": true,
+     "syl": "there",
+     "link": false
+    }
+   ],
+   "tip": "traveled a는 '트래블러'처럼 이어 읽어요.",
+   "start": 10114.48,
+   "end": 10118.33
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker describe the memory in the first sentence?",
+   "options": [
+    "A bad memory to forget",
+    "One of the favorite family memories",
+    "A boring routine"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: one of my favorite family memories"
+  },
+  {
+   "q": "Which day was also special to the speaker?",
+   "options": [
+    "A birthday",
+    "A wedding day",
+    "College graduation day"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: My college graduation day was also really special"
+  },
+  {
+   "q": "Why did the grandparents travel a long way?",
+   "options": [
+    "To be there",
+    "To go shopping",
+    "To visit a doctor"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: just to be there"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "strangely enough",
+   "ko": "이상하게도",
+   "note": "뜻밖의 사실을 말할 때 문장 앞에 써요."
+  },
+  {
+   "term": "graduation day",
+   "ko": "졸업식 날",
+   "note": "graduation은 [그래쥬에이션]으로 읽어요."
+  },
+  {
+   "term": "special to me",
+   "ko": "나에게 특별한",
+   "note": "special to + 사람 형태로 써요."
+  },
+  {
+   "term": "traveled a long way",
+   "ko": "먼 길을 오다",
+   "note": "way는 '길·거리'를 뜻해요."
+  },
+  {
+   "term": "just to be there",
+   "ko": "오직 그곳에 있으려고",
+   "note": "just to + 동사는 '~하기 위해서만'이에요."
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18980.4,
+  "end": 19034.09,
+  "clips": [
+   [
+    18980.4,
+    18984.49
+   ],
+   [
+    19004.64,
+    19008.97
+   ],
+   [
+    19029.84,
+    19034.09
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Most of my friends never learned how to do their taxes.",
+   "chunks": [
+    {
+     "en": "Most of my friends",
+     "ko": "제 친구들 대부분은"
+    },
+    {
+     "en": "never learned how to do",
+     "ko": "하는 법을 배운 적이 없어요"
+    },
+    {
+     "en": "their taxes.",
+     "ko": "세금 신고를"
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": true,
+     "syl": "most",
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends",
+     "strong": true,
+     "syl": "friend",
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "syl": "nev",
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taxes.",
+     "strong": true,
+     "syl": "tax",
+     "link": false
+    }
+   ],
+   "tip": "Most of는 '모스트오브'를 이어 '모스터브'처럼 읽어요.",
+   "start": 18980.4,
+   "end": 18984.49
+  },
+  {
+   "text": "Group projects teach students how to work with different people.",
+   "chunks": [
+    {
+     "en": "Group projects teach students",
+     "ko": "팀 과제는 학생들에게 가르쳐요"
+    },
+    {
+     "en": "how to work with",
+     "ko": "함께 일하는 법을"
+    },
+    {
+     "en": "different people.",
+     "ko": "다양한 사람들과"
+    }
+   ],
+   "words": [
+    {
+     "w": "Group",
+     "strong": true,
+     "syl": "group",
+     "link": false
+    },
+    {
+     "w": "projects",
+     "strong": true,
+     "syl": "proj",
+     "link": false
+    },
+    {
+     "w": "teach",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "syl": "work",
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "syl": "diff",
+     "link": false
+    },
+    {
+     "w": "people.",
+     "strong": true,
+     "syl": "peo",
+     "link": false
+    }
+   ],
+   "tip": "projects는 명사라서 첫 음절 'proj'에 강세를 둬요.",
+   "start": 19004.64,
+   "end": 19008.97
+  },
+  {
+   "text": "If I had to choose, I'd rather work for a small company.",
+   "chunks": [
+    {
+     "en": "If I had to choose,",
+     "ko": "골라야 한다면"
+    },
+    {
+     "en": "I'd rather work for",
+     "ko": "차라리 일하겠어요"
+    },
+    {
+     "en": "a small company.",
+     "ko": "작은 회사에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "choose,",
+     "strong": true,
+     "syl": "choose",
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rather",
+     "strong": true,
+     "syl": "rath",
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "syl": "small",
+     "link": false
+    },
+    {
+     "w": "company.",
+     "strong": true,
+     "syl": "com",
+     "link": false
+    }
+   ],
+   "tip": "I'd rather는 'rath'에 강세를 둬요: 아이드 래더.",
+   "start": 19029.84,
+   "end": 19034.09
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did most of the speaker's friends never learn?",
+   "options": [
+    "How to cook",
+    "How to drive",
+    "How to do their taxes"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: never learned how to do their taxes"
+  },
+  {
+   "q": "What do group projects teach students?",
+   "options": [
+    "How to study alone",
+    "How to work with different people",
+    "How to use computers"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: how to work with different people"
+  },
+  {
+   "q": "What kind of company would the speaker rather work for?",
+   "options": [
+    "A small company",
+    "A large company",
+    "A foreign company"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I'd rather work for a small company"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "do their taxes",
+   "ko": "세금 신고를 하다",
+   "note": "do one's taxes는 세금 신고를 한다는 뜻이에요."
+  },
+  {
+   "term": "group projects",
+   "ko": "조별 과제",
+   "note": "팀으로 하는 과제예요."
+  },
+  {
+   "term": "different people",
+   "ko": "다양한 사람들",
+   "note": "성격·배경이 다른 사람들이에요."
+  },
+  {
+   "term": "If I had to choose,",
+   "ko": "굳이 고르라면",
+   "note": "선택을 강요받는 상황에서 써요."
+  },
+  {
+   "term": "I'd rather",
+   "ko": "차라리 ~하겠다",
+   "note": "I'd rather + 동사원형으로 써요."
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 108.08,
+  "end": 154.73,
+  "clips": [
+   [
+    108.08,
+    114.81
+   ],
+   [
+    132.56,
+    136.01
+   ],
+   [
+    152.16,
+    154.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Before that, I studied economics in college.",
+   "chunks": [
+    {
+     "en": "Before that,",
+     "ko": "그 전에는,"
+    },
+    {
+     "en": "I studied economics",
+     "ko": "나는 경제학을 공부했어요"
+    },
+    {
+     "en": "in college.",
+     "ko": "대학에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "studied",
+     "strong": true,
+     "link": true,
+     "syl": "stud"
+    },
+    {
+     "w": "economics",
+     "strong": true,
+     "link": true,
+     "syl": "nom"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college.",
+     "strong": true,
+     "link": false,
+     "syl": "col"
+    }
+   ],
+   "tip": "economics는 '이카나믹스'처럼 읽고 nom에 강세를 둬요. studied economics는 이어서 '스터디드이커나믹스'로 흘러요.",
+   "start": 108.08,
+   "end": 114.81
+  },
+  {
+   "text": "I live with my parents and my younger brother.",
+   "chunks": [
+    {
+     "en": "I live",
+     "ko": "나는 살아요"
+    },
+    {
+     "en": "with my parents",
+     "ko": "부모님과 함께"
+    },
+    {
+     "en": "and my younger brother.",
+     "ko": "그리고 남동생과"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": false,
+     "syl": "live"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parents",
+     "strong": true,
+     "link": true,
+     "syl": "par"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "younger",
+     "strong": true,
+     "link": false,
+     "syl": "youn"
+    },
+    {
+     "w": "brother.",
+     "strong": true,
+     "link": false,
+     "syl": "broth"
+    }
+   ],
+   "tip": "parents and는 '페어런츤'처럼 이어 읽어요.",
+   "start": 132.56,
+   "end": 136.01
+  },
+  {
+   "text": "I have one younger brother.",
+   "chunks": [
+    {
+     "en": "I have",
+     "ko": "나는 가지고 있어요"
+    },
+    {
+     "en": "one younger brother.",
+     "ko": "남동생 한 명을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "one",
+     "strong": true,
+     "link": false,
+     "syl": "one"
+    },
+    {
+     "w": "younger",
+     "strong": true,
+     "link": false,
+     "syl": "youn"
+    },
+    {
+     "w": "brother.",
+     "strong": true,
+     "link": false,
+     "syl": "broth"
+    }
+   ],
+   "tip": "have one은 '해브원'이 아니라 '해번'처럼 이어 읽어요.",
+   "start": 152.16,
+   "end": 154.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker study in college?",
+   "options": [
+    "Law",
+    "Economics",
+    "Marketing"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I studied economics in college"
+  },
+  {
+   "q": "Who does the speaker live with?",
+   "options": [
+    "Alone",
+    "Roommates",
+    "Parents and a younger brother"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I live with my parents and my younger brother"
+  },
+  {
+   "q": "How many younger brothers does the speaker have?",
+   "options": [
+    "One",
+    "Two",
+    "None"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I have one younger brother"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "studied economics",
+   "ko": "경제학을 공부했다",
+   "note": "studied 뒤에 전공을 바로 붙여요."
+  },
+  {
+   "term": "younger brother",
+   "ko": "남동생",
+   "note": "형제 관계는 younger/older로 나이를 구분해요."
+  },
+  {
+   "term": "live with",
+   "ko": "~와 함께 살다",
+   "note": "누구와 사는지 말할 때 써요."
+  },
+  {
+   "term": "Before that",
+   "ko": "그 전에는",
+   "note": "앞선 시기를 꺼낼 때 쓰는 연결 표현이에요."
+  }
+ ]
+}

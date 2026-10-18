@@ -1,0 +1,299 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6044.56,
+  "end": 6092.89,
+  "clips": [
+   [
+    6044.56,
+    6048.25
+   ],
+   [
+    6065.92,
+    6069.61
+   ],
+   [
+    6088.96,
+    6092.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I like going to the swimming pool early in the morning.",
+   "chunks": [
+    {
+     "en": "I like going",
+     "ko": "저는 가는 것을 좋아해요"
+    },
+    {
+     "en": "to the swimming pool",
+     "ko": "수영장에"
+    },
+    {
+     "en": "early in the morning.",
+     "ko": "아침 일찍요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "swimming",
+     "strong": true,
+     "link": false,
+     "syl": "swim"
+    },
+    {
+     "w": "pool",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "early",
+     "strong": true,
+     "link": true,
+     "syl": "ear"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning.",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    }
+   ],
+   "tip": "early in the는 '얼리인더'처럼 이어서 읽어요.",
+   "start": 6044.56,
+   "end": 6048.25
+  },
+  {
+   "text": "It's quiet and the water feels so refreshing.",
+   "chunks": [
+    {
+     "en": "It's quiet",
+     "ko": "조용해요"
+    },
+    {
+     "en": "and the water",
+     "ko": "그리고 물이"
+    },
+    {
+     "en": "feels so refreshing.",
+     "ko": "정말 상쾌하게 느껴져요."
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "link": true,
+     "syl": "qui"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": true,
+     "link": false,
+     "syl": "wa"
+    },
+    {
+     "w": "feels",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "refreshing.",
+     "strong": true,
+     "link": false,
+     "syl": "fresh"
+    }
+   ],
+   "tip": "refreshing은 두 번째 음절 fresh에 강세를 줘요.",
+   "start": 6065.92,
+   "end": 6069.61
+  },
+  {
+   "text": "Sometimes I spend all of Sunday doing nothing at all.",
+   "chunks": [
+    {
+     "en": "Sometimes I spend",
+     "ko": "가끔 저는 보내요"
+    },
+    {
+     "en": "all of Sunday",
+     "ko": "일요일 전부를"
+    },
+    {
+     "en": "doing nothing at all.",
+     "ko": "아무것도 안 하면서요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Sometimes",
+     "strong": true,
+     "link": false,
+     "syl": "Some"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spend",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Sunday",
+     "strong": true,
+     "link": false,
+     "syl": "Sun"
+    },
+    {
+     "w": "doing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nothing",
+     "strong": true,
+     "link": true,
+     "syl": "noth"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "nothing at all은 '나씽앳올'처럼 이어서 읽어요.",
+   "start": 6088.96,
+   "end": 6092.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "When does the speaker like going to the pool?",
+   "options": [
+    "Late at night",
+    "Early in the morning",
+    "At noon"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: early in the morning"
+  },
+  {
+   "q": "How does the water feel?",
+   "options": [
+    "Refreshing",
+    "Freezing",
+    "Warm"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: the water feels so refreshing"
+  },
+  {
+   "q": "What does the speaker sometimes do on Sunday?",
+   "options": [
+    "Go climbing",
+    "Do nothing all day",
+    "Visit friends"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I spend all of Sunday doing nothing at all."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "swimming pool",
+   "ko": "수영장",
+   "note": "pool 앞에 swimming을 붙여요."
+  },
+  {
+   "term": "early in the morning",
+   "ko": "아침 일찍",
+   "note": "early를 '얼리'로 읽어요."
+  },
+  {
+   "term": "refreshing",
+   "ko": "상쾌한",
+   "note": "기분을 새롭게 하는 느낌에 써요."
+  },
+  {
+   "term": "nothing at all",
+   "ko": "전혀 아무것도",
+   "note": "at all은 강조하는 표현이에요."
+  }
+ ]
+}

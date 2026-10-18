@@ -1,0 +1,298 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4927.52,
+  "end": 4974.49,
+  "clips": [
+   [
+    4927.52,
+    4931.37
+   ],
+   [
+    4949.92,
+    4953.45
+   ],
+   [
+    4971.36,
+    4974.49
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Exercise has become a big part of my routine.",
+   "chunks": [
+    {
+     "en": "Exercise has become",
+     "ko": "운동은 되었다"
+    },
+    {
+     "en": "a big part",
+     "ko": "큰 부분이"
+    },
+    {
+     "en": "of my routine.",
+     "ko": "내 일과의"
+    }
+   ],
+   "words": [
+    {
+     "w": "Exercise",
+     "strong": true,
+     "syl": "ercis",
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "part",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "routine.",
+     "strong": true,
+     "syl": "tine",
+     "link": false
+    }
+   ],
+   "tip": "'part of'는 '파르토브'처럼 이어 읽어요.",
+   "start": 4927.52,
+   "end": 4931.37
+  },
+  {
+   "text": "I go jogging along the river three times a week.",
+   "chunks": [
+    {
+     "en": "I go jogging",
+     "ko": "나는 조깅하러 간다"
+    },
+    {
+     "en": "along the river",
+     "ko": "강을 따라"
+    },
+    {
+     "en": "three times",
+     "ko": "세 번"
+    },
+    {
+     "en": "a week.",
+     "ko": "일주일에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jogging",
+     "strong": true,
+     "syl": "jog",
+     "link": false
+    },
+    {
+     "w": "along",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "river",
+     "strong": true,
+     "syl": "riv",
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "times",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'times a'는 '타임저'처럼 이어서 빠르게 말해요.",
+   "start": 4949.92,
+   "end": 4953.45
+  },
+  {
+   "text": "It's the best way for me to clear my head.",
+   "chunks": [
+    {
+     "en": "It's the best way",
+     "ko": "그것은 가장 좋은 방법이다"
+    },
+    {
+     "en": "for me",
+     "ko": "나에게"
+    },
+    {
+     "en": "to clear my head.",
+     "ko": "머리를 비우는"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clear",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "head.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "마지막 'head'에 강세를 실어 문장을 또렷하게 마무리해요.",
+   "start": 4971.36,
+   "end": 4974.49
+  }
+ ],
+ "questions": [
+  {
+   "q": "How often does the speaker go jogging?",
+   "options": [
+    "Twice a week",
+    "Three times a week",
+    "Every day"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: three times a week"
+  },
+  {
+   "q": "Where does the speaker jog?",
+   "options": [
+    "Along the river",
+    "Around a stadium",
+    "On a treadmill"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: along the river"
+  },
+  {
+   "q": "According to the speaker, what is jogging the best way to do?",
+   "options": [
+    "Save money",
+    "Meet new people",
+    "Clear their head"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: the best way for me to clear my head"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "routine",
+   "ko": "일과, 습관",
+   "note": "a big part of my routine처럼 자주 써요."
+  },
+  {
+   "term": "go jogging",
+   "ko": "조깅하러 가다",
+   "note": "go + -ing로 활동을 말해요."
+  },
+  {
+   "term": "three times a week",
+   "ko": "일주일에 세 번",
+   "note": "빈도는 '횟수 + a week'로 말해요."
+  },
+  {
+   "term": "clear my head",
+   "ko": "머리를 비우다",
+   "note": "복잡할 때 기분 전환을 말하는 표현이에요."
+  }
+ ]
+}

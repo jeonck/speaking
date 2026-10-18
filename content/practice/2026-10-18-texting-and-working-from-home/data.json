@@ -1,0 +1,291 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11882.48,
+  "end": 11934.01,
+  "clips": [
+   [
+    11882.48,
+    11886.89
+   ],
+   [
+    11907.2,
+    11911.21
+   ],
+   [
+    11930.56,
+    11934.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now, most of my conversations happen through text messages.",
+   "chunks": [
+    {
+     "en": "Now,",
+     "ko": "이제는,"
+    },
+    {
+     "en": "most of my conversations happen",
+     "ko": "내 대화의 대부분이 이뤄져요"
+    },
+    {
+     "en": "through text messages.",
+     "ko": "문자 메시지를 통해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": true,
+     "link": true,
+     "syl": "most"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "conversations",
+     "strong": true,
+     "link": false,
+     "syl": "sa"
+    },
+    {
+     "w": "happen",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "text",
+     "strong": true,
+     "link": false,
+     "syl": "text"
+    },
+    {
+     "w": "messages.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "most of my는 '모스트업마이'처럼 of를 약하게 읽어요.",
+   "start": 11882.48,
+   "end": 11886.89
+  },
+  {
+   "text": "It's faster, but sometimes it feels less personal.",
+   "chunks": [
+    {
+     "en": "It's faster,",
+     "ko": "더 빨라요,"
+    },
+    {
+     "en": "but sometimes",
+     "ko": "하지만 가끔은"
+    },
+    {
+     "en": "it feels less personal.",
+     "ko": "덜 개인적으로 느껴져요."
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "faster,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "sometimes",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feels",
+     "strong": true,
+     "link": false,
+     "syl": "feels"
+    },
+    {
+     "w": "less",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "personal.",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    }
+   ],
+   "tip": "personal은 첫 음절 'per'를 세게 읽어요.",
+   "start": 11907.2,
+   "end": 11911.21
+  },
+  {
+   "text": "The biggest change for me has been working from home.",
+   "chunks": [
+    {
+     "en": "The biggest change for me",
+     "ko": "나에게 가장 큰 변화는"
+    },
+    {
+     "en": "has been working",
+     "ko": "일하는 것이었어요"
+    },
+    {
+     "en": "from home.",
+     "ko": "집에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biggest",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "link": false,
+     "syl": "change"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "working",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    }
+   ],
+   "tip": "has been은 '해즈빈'을 약하고 빠르게 읽어요.",
+   "start": 11930.56,
+   "end": 11934.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "How do most of the speaker's conversations happen?",
+   "options": [
+    "By letters",
+    "By text messages",
+    "In person"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: through text messages"
+  },
+  {
+   "q": "What is the downside of texting?",
+   "options": [
+    "It feels less personal",
+    "It is expensive",
+    "It is slower"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: sometimes it feels less personal"
+  },
+  {
+   "q": "What is the biggest change for the speaker?",
+   "options": [
+    "A new house",
+    "A new school",
+    "Working from home"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: The biggest change for me has been working from home"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "conversations happen",
+   "ko": "대화가 이뤄지다",
+   "note": "happen through ~로 수단을 나타내요."
+  },
+  {
+   "term": "text messages",
+   "ko": "문자 메시지",
+   "note": "text만 써도 '문자를 보내다'가 돼요."
+  },
+  {
+   "term": "less personal",
+   "ko": "덜 개인적인",
+   "note": "less + 형용사로 정도를 낮춰요."
+  },
+  {
+   "term": "working from home",
+   "ko": "재택근무",
+   "note": "remote work와 같은 의미예요."
+  }
+ ]
+}

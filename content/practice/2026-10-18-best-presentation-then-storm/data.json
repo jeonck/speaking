@@ -1,0 +1,317 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9916.88,
+  "end": 9967.21,
+  "clips": [
+   [
+    9916.88,
+    9921.21
+   ],
+   [
+    9941.28,
+    9945.21
+   ],
+   [
+    9963.28,
+    9967.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Surprisingly, my boss said it was my best presentation yet.",
+   "chunks": [
+    {
+     "en": "Surprisingly,",
+     "ko": "놀랍게도"
+    },
+    {
+     "en": "my boss said",
+     "ko": "상사가 말했다"
+    },
+    {
+     "en": "it was my best presentation yet.",
+     "ko": "그것이 지금까지 최고의 발표였다고"
+    }
+   ],
+   "words": [
+    {
+     "w": "Surprisingly,",
+     "strong": true,
+     "syl": "pris",
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "boss",
+     "strong": true,
+     "syl": "boss",
+     "link": false
+    },
+    {
+     "w": "said",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "syl": "best",
+     "link": false
+    },
+    {
+     "w": "presentation",
+     "strong": true,
+     "syl": "ta",
+     "link": false
+    },
+    {
+     "w": "yet.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Surprisingly는 prise에 강세를 두고, said it은 '세딧'처럼 이어요.",
+   "start": 9916.88,
+   "end": 9921.21
+  },
+  {
+   "text": "Now I laugh about it, but back then it was a nightmare.",
+   "chunks": [
+    {
+     "en": "Now I laugh about it,",
+     "ko": "지금은 그 일을 웃으며 말하지만"
+    },
+    {
+     "en": "but back then",
+     "ko": "하지만 그때는"
+    },
+    {
+     "en": "it was a nightmare.",
+     "ko": "악몽이었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laugh",
+     "strong": true,
+     "syl": "laugh",
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": true,
+     "syl": "back",
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nightmare.",
+     "strong": true,
+     "syl": "night",
+     "link": false
+    }
+   ],
+   "tip": "laugh about it은 '래프 어바우릿'처럼 about it을 이어 읽어요.",
+   "start": 9941.28,
+   "end": 9945.21
+  },
+  {
+   "text": "I also remember a huge storm that hit my town.",
+   "chunks": [
+    {
+     "en": "I also remember a huge storm",
+     "ko": "나는 또 거대한 폭풍을 기억한다"
+    },
+    {
+     "en": "that hit my town.",
+     "ko": "우리 동네를 강타한"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remember",
+     "strong": true,
+     "syl": "mem",
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "huge",
+     "strong": true,
+     "syl": "huge",
+     "link": false
+    },
+    {
+     "w": "storm",
+     "strong": true,
+     "syl": "storm",
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hit",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "town.",
+     "strong": true,
+     "syl": "town",
+     "link": false
+    }
+   ],
+   "tip": "remember a는 '리멤버러'처럼 이어 읽어요.",
+   "start": 9963.28,
+   "end": 9967.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the boss say about the presentation?",
+   "options": [
+    "It was too short",
+    "It needed more slides",
+    "It was the speaker's best yet"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: it was my best presentation yet"
+  },
+  {
+   "q": "How does the speaker feel about it now?",
+   "options": [
+    "The speaker laughs about it",
+    "The speaker still feels angry",
+    "The speaker has forgotten it"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Now I laugh about it"
+  },
+  {
+   "q": "What hit the speaker's town?",
+   "options": [
+    "A big fire",
+    "A huge storm",
+    "A heat wave"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: a huge storm that hit my town"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "surprisingly",
+   "ko": "놀랍게도",
+   "note": "예상과 다른 결과를 말할 때 문장 앞에 써요."
+  },
+  {
+   "term": "best ... yet",
+   "ko": "지금까지 중 최고의",
+   "note": "최상급 뒤에 yet을 붙여요."
+  },
+  {
+   "term": "laugh about it",
+   "ko": "그 일을 웃으며 얘기하다",
+   "note": "지난 힘든 일을 가볍게 말할 때 써요."
+  },
+  {
+   "term": "a nightmare",
+   "ko": "악몽 같은 일",
+   "note": "아주 힘든 경험을 비유할 때 써요."
+  },
+  {
+   "term": "hit my town",
+   "ko": "우리 동네를 강타하다",
+   "note": "폭풍·재난이 지역을 덮칠 때 hit을 써요."
+  }
+ ]
+}

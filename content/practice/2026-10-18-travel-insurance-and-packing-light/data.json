@@ -1,0 +1,294 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7053.92,
+  "end": 7104.25,
+  "clips": [
+   [
+    7053.92,
+    7057.93
+   ],
+   [
+    7076.96,
+    7080.97
+   ],
+   [
+    7099.92,
+    7104.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I always buy travel insurance before going abroad.",
+   "chunks": [
+    {
+     "en": "I always buy travel insurance",
+     "ko": "저는 항상 여행자 보험을 들어요"
+    },
+    {
+     "en": "before going abroad.",
+     "ko": "해외에 가기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buy",
+     "strong": true,
+     "syl": "buy",
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "syl": "trav",
+     "link": true
+    },
+    {
+     "w": "insurance",
+     "strong": true,
+     "syl": "sur",
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "abroad.",
+     "strong": true,
+     "syl": "broad",
+     "link": false
+    }
+   ],
+   "tip": "travel insurance는 '트래벌인슈어런스'처럼 이어 읽어요.",
+   "start": 7053.92,
+   "end": 7057.93
+  },
+  {
+   "text": "When I pack, I try to bring as little as possible.",
+   "chunks": [
+    {
+     "en": "When I pack,",
+     "ko": "짐을 쌀 때"
+    },
+    {
+     "en": "I try to bring",
+     "ko": "저는 가져가려고 해요"
+    },
+    {
+     "en": "as little as possible.",
+     "ko": "가능한 한 적게"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pack,",
+     "strong": true,
+     "syl": "pack",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": true,
+     "syl": "bring",
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "syl": "lit",
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possible.",
+     "strong": true,
+     "syl": "poss",
+     "link": false
+    }
+   ],
+   "tip": "as little as possible은 little과 possible에 강세를 줘요.",
+   "start": 7076.96,
+   "end": 7080.97
+  },
+  {
+   "text": "I always forget to pack something like my phone charger.",
+   "chunks": [
+    {
+     "en": "I always forget to pack",
+     "ko": "저는 항상 챙기는 걸 잊어요"
+    },
+    {
+     "en": "something like my phone charger.",
+     "ko": "휴대폰 충전기 같은 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forget",
+     "strong": true,
+     "syl": "get",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pack",
+     "strong": true,
+     "syl": "pack",
+     "link": false
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "syl": "phone",
+     "link": false
+    },
+    {
+     "w": "charger.",
+     "strong": true,
+     "syl": "char",
+     "link": false
+    }
+   ],
+   "tip": "forget은 두 번째 음절 GET에 강세가 와요.",
+   "start": 7099.92,
+   "end": 7104.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "When does the speaker buy travel insurance?",
+   "options": [
+    "After the trip",
+    "Before going abroad",
+    "At the airport"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: before going abroad"
+  },
+  {
+   "q": "How much does the speaker try to bring?",
+   "options": [
+    "As little as possible",
+    "As much as possible",
+    "Exactly one bag"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: as little as possible"
+  },
+  {
+   "q": "What does the speaker always forget to pack?",
+   "options": [
+    "A passport",
+    "Clothes",
+    "Something like a phone charger"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: something like my phone charger"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "travel insurance",
+   "ko": "여행자 보험",
+   "note": "insurance 강세는 두 번째 음절 SUR예요."
+  },
+  {
+   "term": "go abroad",
+   "ko": "해외에 가다",
+   "note": "abroad 앞에는 to를 쓰지 않아요."
+  },
+  {
+   "term": "as little as possible",
+   "ko": "가능한 한 적게",
+   "note": "as + 형용사 + as possible 형태예요."
+  },
+  {
+   "term": "forget to pack",
+   "ko": "챙기는 걸 깜빡하다",
+   "note": "forget to + 동사는 '~할 것을 잊다'예요."
+  }
+ ]
+}

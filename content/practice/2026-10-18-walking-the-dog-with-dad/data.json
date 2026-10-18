@@ -1,0 +1,333 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1796.48,
+  "end": 1847.61,
+  "clips": [
+   [
+    1796.48,
+    1800.33
+   ],
+   [
+    1819.28,
+    1823.45
+   ],
+   [
+    1843.36,
+    1847.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Taking him for a walk is part of my daily routine.",
+   "chunks": [
+    {
+     "en": "Taking him for a walk",
+     "ko": "그를 산책시키는 것은"
+    },
+    {
+     "en": "is part of my daily routine.",
+     "ko": "내 일상의 일부이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Taking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "him",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walk",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "part",
+     "strong": true,
+     "link": true,
+     "syl": "part"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "daily",
+     "strong": true,
+     "link": false,
+     "syl": "dai"
+    },
+    {
+     "w": "routine.",
+     "strong": true,
+     "link": false,
+     "syl": "tine"
+    }
+   ],
+   "tip": "part of는 '파르톱'이 아니라 '파러브'처럼 이어 읽어요.",
+   "start": 1796.48,
+   "end": 1800.33
+  },
+  {
+   "text": "On weekends, my dad and I take him to the park together.",
+   "chunks": [
+    {
+     "en": "On weekends,",
+     "ko": "주말에는"
+    },
+    {
+     "en": "my dad and I",
+     "ko": "아빠와 나는"
+    },
+    {
+     "en": "take him to the park together.",
+     "ko": "그를 공원에 함께 데려간다"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekends,",
+     "strong": true,
+     "link": false,
+     "syl": "end"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dad",
+     "strong": true,
+     "link": false,
+     "syl": "dad"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "him",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "park",
+     "strong": true,
+     "link": false,
+     "syl": "park"
+    },
+    {
+     "w": "together.",
+     "strong": true,
+     "link": false,
+     "syl": "geth"
+    }
+   ],
+   "tip": "take him은 h가 약해져 '테이킴'처럼 들려요.",
+   "start": 1819.28,
+   "end": 1823.45
+  },
+  {
+   "text": "I'm not a morning person, but I've gotten used to getting up early.",
+   "chunks": [
+    {
+     "en": "I'm not a morning person,",
+     "ko": "나는 아침형 인간이 아니다"
+    },
+    {
+     "en": "but I've gotten used to",
+     "ko": "하지만 ~에 익숙해졌다"
+    },
+    {
+     "en": "getting up early.",
+     "ko": "일찍 일어나는 것에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    },
+    {
+     "w": "person,",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gotten",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": true,
+     "link": false,
+     "syl": "used"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "getting",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "early.",
+     "strong": true,
+     "link": false,
+     "syl": "ear"
+    }
+   ],
+   "tip": "getting up early는 '게링업얼리'처럼 이어 읽어요.",
+   "start": 1843.36,
+   "end": 1847.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say is part of the daily routine?",
+   "options": [
+    "Walking the dog",
+    "Cooking breakfast",
+    "Going to the gym"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Taking him for a walk is part of my daily routine"
+  },
+  {
+   "q": "Who goes to the park with the speaker on weekends?",
+   "options": [
+    "A friend",
+    "The speaker's dad",
+    "The speaker's brother"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: my dad and I take him to the park"
+  },
+  {
+   "q": "What has the speaker gotten used to?",
+   "options": [
+    "Staying up late",
+    "Working on weekends",
+    "Getting up early"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I've gotten used to getting up early"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "part of my daily routine",
+   "ko": "내 일상의 일부",
+   "note": "routine은 '루틴'이 아니라 '루티인'에 가깝게 발음해요."
+  },
+  {
+   "term": "take him to the park",
+   "ko": "그를 공원에 데려가다",
+   "note": "take A to B는 'A를 B로 데려가다'예요."
+  },
+  {
+   "term": "not a morning person",
+   "ko": "아침형 인간이 아니다",
+   "note": "반대는 a morning person이에요."
+  },
+  {
+   "term": "get used to",
+   "ko": "~에 익숙해지다",
+   "note": "뒤에는 명사나 -ing가 와요."
+  }
+ ]
+}

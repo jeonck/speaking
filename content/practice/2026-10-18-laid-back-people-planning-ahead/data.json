@@ -1,0 +1,277 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22401.2,
+  "end": 22444.97,
+  "clips": [
+   [
+    22401.2,
+    22404.25
+   ],
+   [
+    22419.84,
+    22423.69
+   ],
+   [
+    22441.68,
+    22444.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Actually, I went there just last month.",
+   "chunks": [
+    {
+     "en": "Actually,",
+     "ko": "사실,"
+    },
+    {
+     "en": "I went there",
+     "ko": "저는 거기에 갔어요"
+    },
+    {
+     "en": "just last month.",
+     "ko": "바로 지난달에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Actually,",
+     "strong": true,
+     "link": false,
+     "syl": "ac"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": true,
+     "link": false,
+     "syl": "went"
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": true,
+     "link": false,
+     "syl": "last"
+    },
+    {
+     "w": "month.",
+     "strong": true,
+     "link": false,
+     "syl": "month"
+    }
+   ],
+   "tip": "Actually는 첫 음절 Ac-에 강세가 있어서 'ACtually'처럼 읽어요.",
+   "start": 22401.2,
+   "end": 22404.25
+  },
+  {
+   "text": "Generally speaking, people here are very laid-back.",
+   "chunks": [
+    {
+     "en": "Generally speaking,",
+     "ko": "일반적으로 말하면,"
+    },
+    {
+     "en": "people here are",
+     "ko": "여기 사람들은 ~해요"
+    },
+    {
+     "en": "very laid-back.",
+     "ko": "매우 느긋해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Generally",
+     "strong": true,
+     "link": false,
+     "syl": "gen"
+    },
+    {
+     "w": "speaking,",
+     "strong": true,
+     "link": false,
+     "syl": "speak"
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laid-back.",
+     "strong": true,
+     "link": false,
+     "syl": "laid"
+    }
+   ],
+   "tip": "laid-back은 'LAID-back'처럼 앞부분을 더 세게 읽어요.",
+   "start": 22419.84,
+   "end": 22423.69
+  },
+  {
+   "text": "Most of the time I try to plan ahead.",
+   "chunks": [
+    {
+     "en": "Most of the time",
+     "ko": "대부분의 경우,"
+    },
+    {
+     "en": "I try to",
+     "ko": "저는 ~하려고 해요"
+    },
+    {
+     "en": "plan ahead.",
+     "ko": "미리 계획을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": true,
+     "link": true,
+     "syl": "most"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plan",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ahead.",
+     "strong": true,
+     "link": false,
+     "syl": "head"
+    }
+   ],
+   "tip": "plan ahead는 '플래너헤드'처럼 이어서 읽어요.",
+   "start": 22441.68,
+   "end": 22444.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "When did the speaker go there?",
+   "options": [
+    "Last month",
+    "Last year",
+    "Last week"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: just last month"
+  },
+  {
+   "q": "How does the speaker describe people there?",
+   "options": [
+    "Very busy",
+    "Very serious",
+    "Very laid-back"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: people here are very laid-back"
+  },
+  {
+   "q": "What does the speaker try to do most of the time?",
+   "options": [
+    "Stay up late",
+    "Plan ahead",
+    "Go with the flow"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I try to plan ahead"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Actually",
+   "ko": "사실",
+   "note": "앞말을 바로잡거나 새 정보를 줄 때 써요."
+  },
+  {
+   "term": "Generally speaking",
+   "ko": "일반적으로 말하면",
+   "note": "일반화할 때 써요."
+  },
+  {
+   "term": "laid-back",
+   "ko": "느긋한",
+   "note": "성격이나 분위기가 여유로울 때 써요."
+  },
+  {
+   "term": "Most of the time",
+   "ko": "대부분의 경우",
+   "note": "always보다 약한 표현이에요."
+  },
+  {
+   "term": "plan ahead",
+   "ko": "미리 계획하다",
+   "note": "ahead는 '앞서'예요."
+  }
+ ]
+}

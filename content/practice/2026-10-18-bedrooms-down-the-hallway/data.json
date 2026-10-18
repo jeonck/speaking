@@ -1,0 +1,282 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2529.52,
+  "end": 2571.37,
+  "clips": [
+   [
+    2529.52,
+    2532.65
+   ],
+   [
+    2548.64,
+    2551.93
+   ],
+   [
+    2569.04,
+    2571.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My room is at the end of the hallway.",
+   "chunks": [
+    {
+     "en": "My room",
+     "ko": "내 방은"
+    },
+    {
+     "en": "is at the end",
+     "ko": "끝에 있어요"
+    },
+    {
+     "en": "of the hallway.",
+     "ko": "복도의"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room",
+     "strong": true,
+     "syl": "room",
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "end",
+     "strong": true,
+     "syl": "end",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hallway.",
+     "strong": true,
+     "syl": "hall",
+     "link": false
+    }
+   ],
+   "tip": "end of는 '엔도브'처럼 이어 읽고, hallway는 앞쪽 hall에 강세를 둬요.",
+   "start": 2529.52,
+   "end": 2532.65
+  },
+  {
+   "text": "My brother's room is right across from mine.",
+   "chunks": [
+    {
+     "en": "My brother's room",
+     "ko": "내 형제의 방은"
+    },
+    {
+     "en": "is right across",
+     "ko": "바로 맞은편에 있어요"
+    },
+    {
+     "en": "from mine.",
+     "ko": "내 방에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brother's",
+     "strong": true,
+     "syl": "broth",
+     "link": false
+    },
+    {
+     "w": "room",
+     "strong": true,
+     "syl": "room",
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "across",
+     "strong": true,
+     "syl": "cross",
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mine.",
+     "strong": true,
+     "syl": "mine",
+     "link": false
+    }
+   ],
+   "tip": "right across는 across의 cross에 강세를 두고, is right는 '이즈 라잇'으로 부드럽게 이어요.",
+   "start": 2548.64,
+   "end": 2551.93
+  },
+  {
+   "text": "His room is always messy, unlike mine.",
+   "chunks": [
+    {
+     "en": "His room",
+     "ko": "그의 방은"
+    },
+    {
+     "en": "is always messy,",
+     "ko": "항상 어질러져 있어요"
+    },
+    {
+     "en": "unlike mine.",
+     "ko": "내 방과 달리"
+    }
+   ],
+   "words": [
+    {
+     "w": "His",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room",
+     "strong": true,
+     "syl": "room",
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "syl": "al",
+     "link": false
+    },
+    {
+     "w": "messy,",
+     "strong": true,
+     "syl": "mess",
+     "link": false
+    },
+    {
+     "w": "unlike",
+     "strong": true,
+     "syl": "like",
+     "link": false
+    },
+    {
+     "w": "mine.",
+     "strong": true,
+     "syl": "mine",
+     "link": false
+    }
+   ],
+   "tip": "unlike mine에서 mine을 강하게 읽어 '나와 대조'를 살려요.",
+   "start": 2569.04,
+   "end": 2571.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the speaker's room?",
+   "options": [
+    "Next to the kitchen",
+    "At the end of the hallway",
+    "Upstairs"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: at the end of the hallway"
+  },
+  {
+   "q": "Where is the brother's room?",
+   "options": [
+    "Right across from the speaker's",
+    "Downstairs",
+    "At the end of the street"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: right across from mine"
+  },
+  {
+   "q": "How is the brother's room different?",
+   "options": [
+    "It is bigger",
+    "It is always messy",
+    "It is always locked"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: always messy, unlike mine"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "at the end of",
+   "ko": "~의 끝에",
+   "note": "장소 끝을 말할 때 at the end of + 장소"
+  },
+  {
+   "term": "hallway",
+   "ko": "복도",
+   "note": "집 안 복도. hall이라고도 해요"
+  },
+  {
+   "term": "right across from",
+   "ko": "바로 맞은편에",
+   "note": "right를 붙이면 '바로'의 느낌이 더해져요"
+  },
+  {
+   "term": "messy",
+   "ko": "어질러진, 지저분한",
+   "note": "방이나 책상이 어수선할 때 써요"
+  },
+  {
+   "term": "unlike mine",
+   "ko": "내 것과 달리",
+   "note": "mine은 my room을 대신하는 말이에요"
+  }
+ ]
+}

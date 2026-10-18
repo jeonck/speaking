@@ -1,0 +1,282 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14448.56,
+  "end": 14488.25,
+  "clips": [
+   [
+    14448.56,
+    14452.41
+   ],
+   [
+    14469.12,
+    14471.53
+   ],
+   [
+    14484.72,
+    14488.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "There's a concert in the park and I have two tickets.",
+   "chunks": [
+    {
+     "en": "There's a concert in the park",
+     "ko": "공원에서 콘서트가 있어요"
+    },
+    {
+     "en": "and I have two tickets.",
+     "ko": "그리고 저는 티켓이 두 장 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "concert",
+     "strong": true,
+     "link": true,
+     "syl": "con"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "park",
+     "strong": true,
+     "link": true,
+     "syl": "park"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": true,
+     "link": false,
+     "syl": "two"
+    },
+    {
+     "w": "tickets.",
+     "strong": true,
+     "link": false,
+     "syl": "tick"
+    }
+   ],
+   "tip": "concert in, park and, and I를 이어 읽어 리듬을 살려요.",
+   "start": 14448.56,
+   "end": 14452.41
+  },
+  {
+   "text": "Would you like to come with me?",
+   "chunks": [
+    {
+     "en": "Would you like to come",
+     "ko": "오고 싶으세요"
+    },
+    {
+     "en": "with me?",
+     "ko": "저와 함께"
+    }
+   ],
+   "words": [
+    {
+     "w": "Would",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": false,
+     "syl": "like"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": true,
+     "link": false,
+     "syl": "come"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me?",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "Would you는 '우쥬'처럼 이어 읽어요.",
+   "start": 14469.12,
+   "end": 14471.53
+  },
+  {
+   "text": "Should we grab dinner before the show starts?",
+   "chunks": [
+    {
+     "en": "Should we grab",
+     "ko": "~할까요"
+    },
+    {
+     "en": "dinner",
+     "ko": "저녁을"
+    },
+    {
+     "en": "before the show starts?",
+     "ko": "공연이 시작하기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grab",
+     "strong": true,
+     "link": false,
+     "syl": "grab"
+    },
+    {
+     "w": "dinner",
+     "strong": true,
+     "link": false,
+     "syl": "din"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "show",
+     "strong": true,
+     "link": false,
+     "syl": "show"
+    },
+    {
+     "w": "starts?",
+     "strong": true,
+     "link": false,
+     "syl": "starts"
+    }
+   ],
+   "tip": "grab dinner, show starts처럼 내용어에 강세를 줘요.",
+   "start": 14484.72,
+   "end": 14488.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the concert?",
+   "options": [
+    "At a school",
+    "In a stadium",
+    "In the park"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: a concert in the park"
+  },
+  {
+   "q": "How many tickets does the speaker have?",
+   "options": [
+    "One",
+    "Two",
+    "Four"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I have two tickets"
+  },
+  {
+   "q": "What does the speaker suggest doing before the show?",
+   "options": [
+    "Grab dinner",
+    "Go shopping",
+    "Take a walk"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: grab dinner before the show starts"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a concert in the park",
+   "ko": "공원에서 하는 콘서트",
+   "note": "장소는 in the park처럼 뒤에 붙여요."
+  },
+  {
+   "term": "have two tickets",
+   "ko": "티켓이 두 장 있다",
+   "note": "초대할 때 먼저 상황을 알려 줘요."
+  },
+  {
+   "term": "Would you like to...?",
+   "ko": "~하고 싶으세요?",
+   "note": "정중하게 권유할 때 써요."
+  },
+  {
+   "term": "grab dinner",
+   "ko": "(간단히) 저녁을 먹다",
+   "note": "grab은 가볍게 먹는다는 느낌이에요."
+  },
+  {
+   "term": "before the show starts",
+   "ko": "공연이 시작하기 전에",
+   "note": "before 뒤에는 현재형을 써요."
+  }
+ ]
+}

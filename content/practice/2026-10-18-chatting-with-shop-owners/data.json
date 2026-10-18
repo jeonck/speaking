@@ -1,0 +1,325 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11810.48,
+  "end": 11862.73,
+  "clips": [
+   [
+    11810.48,
+    11814.89
+   ],
+   [
+    11834.16,
+    11838.41
+   ],
+   [
+    11858.48,
+    11862.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It saves a lot of time, but I miss chatting with shop owners.",
+   "chunks": [
+    {
+     "en": "It saves a lot of time,",
+     "ko": "많은 시간을 아껴 줘요,"
+    },
+    {
+     "en": "but I miss chatting",
+     "ko": "하지만 나는 수다 떠는 게 그리워요"
+    },
+    {
+     "en": "with shop owners.",
+     "ko": "가게 주인들과"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saves",
+     "strong": true,
+     "link": true,
+     "syl": "saves"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "time,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miss",
+     "strong": true,
+     "link": false,
+     "syl": "miss"
+    },
+    {
+     "w": "chatting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shop",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "owners.",
+     "strong": true,
+     "link": false,
+     "syl": "own"
+    }
+   ],
+   "tip": "a lot of는 '얼라롭'처럼 이어서 읽어요.",
+   "start": 11810.48,
+   "end": 11814.89
+  },
+  {
+   "text": "People communicate differently than they did 20 years ago.",
+   "chunks": [
+    {
+     "en": "People communicate differently",
+     "ko": "사람들은 다르게 소통해요"
+    },
+    {
+     "en": "than they did",
+     "ko": "그들이 했던 것과는"
+    },
+    {
+     "en": "20 years ago.",
+     "ko": "20년 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "People",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "communicate",
+     "strong": true,
+     "link": true,
+     "syl": "mu"
+    },
+    {
+     "w": "differently",
+     "strong": true,
+     "link": false,
+     "syl": "dif"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "did",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "20",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ago.",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    }
+   ],
+   "tip": "communicate는 두 번째 음절 'mu'에 강세를 둬요.",
+   "start": 11834.16,
+   "end": 11838.41
+  },
+  {
+   "text": "We used to write letters or call each other on home phones.",
+   "chunks": [
+    {
+     "en": "We used to write letters",
+     "ko": "우리는 편지를 쓰곤 했어요"
+    },
+    {
+     "en": "or call each other",
+     "ko": "혹은 서로에게 전화하곤 했어요"
+    },
+    {
+     "en": "on home phones.",
+     "ko": "집 전화로"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "write",
+     "strong": true,
+     "link": false,
+     "syl": "write"
+    },
+    {
+     "w": "letters",
+     "strong": true,
+     "link": false,
+     "syl": "let"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "call",
+     "strong": true,
+     "link": false,
+     "syl": "call"
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "phones.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "each other는 '이치아더'처럼 이어 읽어요.",
+   "start": 11858.48,
+   "end": 11862.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker miss?",
+   "options": [
+    "Writing letters",
+    "Chatting with shop owners",
+    "Walking to work"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I miss chatting with shop owners"
+  },
+  {
+   "q": "What does online shopping save?",
+   "options": [
+    "A lot of time",
+    "A lot of money",
+    "A lot of space"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: It saves a lot of time"
+  },
+  {
+   "q": "How long ago did people communicate differently?",
+   "options": [
+    "Two years",
+    "Ten years",
+    "Twenty years"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: than they did 20 years ago"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "saves a lot of time",
+   "ko": "시간을 많이 아껴 주다",
+   "note": "save + time으로 시간 절약을 말해요."
+  },
+  {
+   "term": "chatting with",
+   "ko": "~와 수다 떨다",
+   "note": "chat with 뒤에 사람을 써요."
+  },
+  {
+   "term": "communicate differently",
+   "ko": "다르게 소통하다",
+   "note": "differently는 부사라 동사 뒤에 와요."
+  },
+  {
+   "term": "each other",
+   "ko": "서로",
+   "note": "call each other처럼 목적어 자리에 써요."
+  }
+ ]
+}

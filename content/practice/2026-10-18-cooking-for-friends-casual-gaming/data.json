@@ -1,0 +1,303 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5383.44,
+  "end": 5434.89,
+  "clips": [
+   [
+    5383.44,
+    5387.53
+   ],
+   [
+    5407.2,
+    5411.13
+   ],
+   [
+    5430.4,
+    5434.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Sometimes I invite friends over and cook dinner for them.",
+   "chunks": [
+    {
+     "en": "Sometimes",
+     "ko": "가끔"
+    },
+    {
+     "en": "I invite friends over",
+     "ko": "나는 친구들을 집에 초대한다"
+    },
+    {
+     "en": "and cook dinner",
+     "ko": "그리고 저녁을 요리한다"
+    },
+    {
+     "en": "for them.",
+     "ko": "그들을 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sometimes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "invite",
+     "strong": true,
+     "syl": "vite",
+     "link": false
+    },
+    {
+     "w": "friends",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cook",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "dinner",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'over and'는 '오버랜'처럼 이어 읽어요.",
+   "start": 5383.44,
+   "end": 5387.53
+  },
+  {
+   "text": "Seeing them enjoy my food makes me really happy.",
+   "chunks": [
+    {
+     "en": "Seeing them enjoy my food",
+     "ko": "그들이 내 음식을 즐기는 걸 보면"
+    },
+    {
+     "en": "makes me really happy.",
+     "ko": "나는 정말 행복해진다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Seeing",
+     "strong": true,
+     "syl": "see",
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoy",
+     "strong": true,
+     "syl": "joy",
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "syl": "real",
+     "link": false
+    },
+    {
+     "w": "happy.",
+     "strong": true,
+     "syl": "hap",
+     "link": false
+    }
+   ],
+   "tip": "'really happy'는 둘 다 힘주어 감정을 전해요.",
+   "start": 5407.2,
+   "end": 5411.13
+  },
+  {
+   "text": "I'm not a big gamer, but I play mobile games sometimes.",
+   "chunks": [
+    {
+     "en": "I'm not a big gamer,",
+     "ko": "나는 게임을 많이 하는 사람은 아니지만"
+    },
+    {
+     "en": "but I play mobile games",
+     "ko": "모바일 게임은 한다"
+    },
+    {
+     "en": "sometimes.",
+     "ko": "가끔"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gamer,",
+     "strong": true,
+     "syl": "gam",
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mobile",
+     "strong": true,
+     "syl": "mo",
+     "link": false
+    },
+    {
+     "w": "games",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "sometimes.",
+     "strong": true,
+     "syl": "some",
+     "link": false
+    }
+   ],
+   "tip": "'not a'는 '나러'처럼 이어 읽어요.",
+   "start": 5430.4,
+   "end": 5434.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker sometimes do for friends?",
+   "options": [
+    "Cook dinner",
+    "Plan a trip",
+    "Teach a class"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: cook dinner for them"
+  },
+  {
+   "q": "What makes the speaker really happy?",
+   "options": [
+    "Winning a game",
+    "Getting gifts",
+    "Seeing friends enjoy the food"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: Seeing them enjoy my food makes me really happy"
+  },
+  {
+   "q": "What kind of games does the speaker play?",
+   "options": [
+    "Console games",
+    "Mobile games",
+    "Board games"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I play mobile games sometimes"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "invite ... over",
+   "ko": "집으로 초대하다",
+   "note": "invite friends over로 이어 써요."
+  },
+  {
+   "term": "enjoy my food",
+   "ko": "내 음식을 즐기다",
+   "note": "enjoy + 목적어로 써요."
+  },
+  {
+   "term": "not a big gamer",
+   "ko": "게임을 많이 하는 편은 아닌",
+   "note": "not a big + 사람으로 취향을 말해요."
+  },
+  {
+   "term": "mobile games",
+   "ko": "모바일 게임",
+   "note": "휴대폰으로 하는 게임이에요."
+  }
+ ]
+}

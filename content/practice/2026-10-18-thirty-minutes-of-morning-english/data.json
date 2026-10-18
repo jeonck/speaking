@@ -1,0 +1,286 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1244.16,
+  "end": 1292.65,
+  "clips": [
+   [
+    1244.16,
+    1248.33
+   ],
+   [
+    1267.84,
+    1271.61
+   ],
+   [
+    1289.44,
+    1292.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "But I've recently added English practice to my routine.",
+   "chunks": [
+    {
+     "en": "But I've recently added",
+     "ko": "하지만 나는 최근에 추가했다"
+    },
+    {
+     "en": "English practice",
+     "ko": "영어 연습을"
+    },
+    {
+     "en": "to my routine.",
+     "ko": "내 루틴에"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recently",
+     "strong": true,
+     "syl": "cent",
+     "link": false
+    },
+    {
+     "w": "added",
+     "strong": true,
+     "syl": "add",
+     "link": true
+    },
+    {
+     "w": "English",
+     "strong": true,
+     "syl": "Eng",
+     "link": false
+    },
+    {
+     "w": "practice",
+     "strong": true,
+     "syl": "prac",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "routine.",
+     "strong": true,
+     "syl": "tine",
+     "link": false
+    }
+   ],
+   "tip": "added English는 '애디딩글리시'처럼 이어서 읽어요.",
+   "start": 1244.16,
+   "end": 1248.33
+  },
+  {
+   "text": "I study English for 30 minutes every morning.",
+   "chunks": [
+    {
+     "en": "I study English",
+     "ko": "나는 영어를 공부한다"
+    },
+    {
+     "en": "for 30 minutes",
+     "ko": "30분 동안"
+    },
+    {
+     "en": "every morning.",
+     "ko": "매일 아침"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study",
+     "strong": true,
+     "syl": "stud",
+     "link": true
+    },
+    {
+     "w": "English",
+     "strong": true,
+     "syl": "Eng",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "30",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": true,
+     "syl": "min",
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning.",
+     "strong": true,
+     "syl": "morn",
+     "link": false
+    }
+   ],
+   "tip": "study English는 '스터디잉글리시'처럼 y와 E가 이어져요.",
+   "start": 1267.84,
+   "end": 1271.61
+  },
+  {
+   "text": "I've been doing it for about six months now.",
+   "chunks": [
+    {
+     "en": "I've been doing it",
+     "ko": "나는 그것을 해 오고 있다"
+    },
+    {
+     "en": "for about six months",
+     "ko": "약 6개월 동안"
+    },
+    {
+     "en": "now.",
+     "ko": "지금까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": true,
+     "syl": "bout",
+     "link": false
+    },
+    {
+     "w": "six",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "months",
+     "strong": true,
+     "syl": "months",
+     "link": false
+    },
+    {
+     "w": "now.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "for about은 '포러바웃'처럼 이어 읽어요.",
+   "start": 1289.44,
+   "end": 1292.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker recently add to the routine?",
+   "options": [
+    "English practice",
+    "Morning exercise",
+    "Cooking classes"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: recently added English practice to my routine"
+  },
+  {
+   "q": "How long does the speaker study each morning?",
+   "options": [
+    "20 minutes",
+    "30 minutes",
+    "an hour"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: for 30 minutes every morning"
+  },
+  {
+   "q": "How long has the speaker been doing it?",
+   "options": [
+    "About a year",
+    "About three months",
+    "About six months"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: for about six months now"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "add to",
+   "ko": "~에 추가하다",
+   "note": "add A to B 형태로 써요."
+  },
+  {
+   "term": "practice",
+   "ko": "연습",
+   "note": "영어 공부는 'English practice'로도 말해요."
+  },
+  {
+   "term": "every morning",
+   "ko": "매일 아침",
+   "note": "every는 단수 명사와 함께 써요."
+  },
+  {
+   "term": "I've been doing",
+   "ko": "~해 오고 있다",
+   "note": "현재완료진행으로 지속 기간을 말해요."
+  }
+ ]
+}

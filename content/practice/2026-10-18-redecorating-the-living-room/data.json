@@ -1,0 +1,309 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2979.44,
+  "end": 3029.93,
+  "clips": [
+   [
+    2979.44,
+    2983.29
+   ],
+   [
+    3002.16,
+    3006.25
+   ],
+   [
+    3026.08,
+    3029.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My parents redecorated the living room last year.",
+   "chunks": [
+    {
+     "en": "My parents",
+     "ko": "우리 부모님은"
+    },
+    {
+     "en": "redecorated the living room",
+     "ko": "거실을 새로 꾸미셨어요"
+    },
+    {
+     "en": "last year.",
+     "ko": "작년에"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parents",
+     "strong": true,
+     "syl": "par",
+     "link": false
+    },
+    {
+     "w": "redecorated",
+     "strong": true,
+     "syl": "dec",
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "living",
+     "strong": true,
+     "syl": "liv",
+     "link": false
+    },
+    {
+     "w": "room",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": true,
+     "syl": "last",
+     "link": false
+    },
+    {
+     "w": "year.",
+     "strong": true,
+     "syl": "year",
+     "link": false
+    }
+   ],
+   "tip": "redecorated는 dec에 강세를 둬요. last year는 둘 다 또렷하게 읽어요.",
+   "start": 2979.44,
+   "end": 2983.29
+  },
+  {
+   "text": "They painted the walls a light gray and got new curtains.",
+   "chunks": [
+    {
+     "en": "They painted the walls",
+     "ko": "그들은 벽을 칠했어요"
+    },
+    {
+     "en": "a light gray",
+     "ko": "연한 회색으로"
+    },
+    {
+     "en": "and got new curtains.",
+     "ko": "그리고 새 커튼을 샀어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "painted",
+     "strong": true,
+     "syl": "paint",
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walls",
+     "strong": true,
+     "syl": "walls",
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "light",
+     "strong": true,
+     "syl": "light",
+     "link": true
+    },
+    {
+     "w": "gray",
+     "strong": true,
+     "syl": "gray",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "syl": "new",
+     "link": false
+    },
+    {
+     "w": "curtains.",
+     "strong": true,
+     "syl": "cur",
+     "link": false
+    }
+   ],
+   "tip": "light gray는 두 단어 모두 강세가 있어 '라잇 그레이'로 또렷하게 이어요.",
+   "start": 3002.16,
+   "end": 3006.25
+  },
+  {
+   "text": "It made the whole place look brighter and more modern.",
+   "chunks": [
+    {
+     "en": "It made the whole place",
+     "ko": "그것은 집 전체를 만들었어요"
+    },
+    {
+     "en": "look brighter",
+     "ko": "더 밝아 보이게"
+    },
+    {
+     "en": "and more modern.",
+     "ko": "그리고 더 현대적으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whole",
+     "strong": true,
+     "syl": "whole",
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brighter",
+     "strong": true,
+     "syl": "bright",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "modern.",
+     "strong": true,
+     "syl": "mod",
+     "link": false
+    }
+   ],
+   "tip": "whole place는 '홀 플레이스'로 이어 읽고, brighter와 more modern을 대비시켜요.",
+   "start": 3026.08,
+   "end": 3029.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who redecorated the living room?",
+   "options": [
+    "The speaker's parents",
+    "The speaker's brother",
+    "A friend"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: My parents redecorated the living room"
+  },
+  {
+   "q": "What color did they paint the walls?",
+   "options": [
+    "White",
+    "Light gray",
+    "Blue"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: painted the walls a light gray"
+  },
+  {
+   "q": "What was the result?",
+   "options": [
+    "The place looked brighter and more modern",
+    "The room looked smaller",
+    "The room looked darker"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: look brighter and more modern"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "redecorate",
+   "ko": "다시 꾸미다",
+   "note": "인테리어를 새로 바꾸는 것을 말해요"
+  },
+  {
+   "term": "last year",
+   "ko": "작년에",
+   "note": "과거 시제와 함께 써요"
+  },
+  {
+   "term": "paint the walls",
+   "ko": "벽을 칠하다",
+   "note": "색은 a light gray처럼 뒤에 붙여요"
+  },
+  {
+   "term": "curtains",
+   "ko": "커튼",
+   "note": "복수형으로 자주 써요"
+  },
+  {
+   "term": "the whole place",
+   "ko": "집 전체, 공간 전체",
+   "note": "place는 집이나 공간을 구어체로 가리켜요"
+  }
+ ]
+}

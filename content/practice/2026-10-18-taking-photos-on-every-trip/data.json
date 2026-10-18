@@ -1,0 +1,276 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8146.16,
+  "end": 8191.85,
+  "clips": [
+   [
+    8146.16,
+    8149.93
+   ],
+   [
+    8168.16,
+    8171.45
+   ],
+   [
+    8188.08,
+    8191.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Taking pictures is a big part of traveling for me.",
+   "chunks": [
+    {
+     "en": "Taking pictures",
+     "ko": "사진 찍기는"
+    },
+    {
+     "en": "is a big part",
+     "ko": "큰 부분이에요"
+    },
+    {
+     "en": "of traveling for me.",
+     "ko": "여행에서 저에게는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Taking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pictures",
+     "strong": true,
+     "link": false,
+     "syl": "pic"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "part",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traveling",
+     "strong": true,
+     "link": false,
+     "syl": "trav"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "part of는 '파-롭'처럼 이어 읽고, pictures와 big을 또렷하게 강조해요.",
+   "start": 8146.16,
+   "end": 8149.93
+  },
+  {
+   "text": "I take hundreds of photos on every trip.",
+   "chunks": [
+    {
+     "en": "I take hundreds of photos",
+     "ko": "저는 수백 장의 사진을 찍어요"
+    },
+    {
+     "en": "on every trip.",
+     "ko": "여행마다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hundreds",
+     "strong": true,
+     "link": true,
+     "syl": "hun"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "photos",
+     "strong": true,
+     "link": false,
+     "syl": "pho"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip.",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    }
+   ],
+   "tip": "hundreds of는 '헌드레즈업'처럼 이어서 가볍게 읽어요.",
+   "start": 8168.16,
+   "end": 8171.45
+  },
+  {
+   "text": "Looking at them later brings back great memories.",
+   "chunks": [
+    {
+     "en": "Looking at them later",
+     "ko": "나중에 그것들을 보면"
+    },
+    {
+     "en": "brings back great memories.",
+     "ko": "멋진 추억이 되살아나요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Looking",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "later",
+     "strong": true,
+     "link": false,
+     "syl": "la"
+    },
+    {
+     "w": "brings",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false,
+     "syl": "great"
+    },
+    {
+     "w": "memories.",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    }
+   ],
+   "tip": "Looking at은 '루킹앳'처럼 이어 읽고, memories의 mem에 강세를 둬요.",
+   "start": 8188.08,
+   "end": 8191.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "How many photos does the speaker take on each trip?",
+   "options": [
+    "A few dozen",
+    "Hundreds",
+    "Only about ten"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: I take hundreds of photos on every trip."
+  },
+  {
+   "q": "What does looking at the photos later do?",
+   "options": [
+    "It makes the speaker want to delete them",
+    "It helps plan the next trip",
+    "It brings back great memories"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: brings back great memories."
+  },
+  {
+   "q": "What role does taking pictures play in the speaker's travel?",
+   "options": [
+    "A big part of it",
+    "A small hobby",
+    "A job requirement"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: a big part of traveling for me."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a big part of",
+   "ko": "~의 큰 부분",
+   "note": "a big part of + 명사/-ing로 중요한 비중을 말해요."
+  },
+  {
+   "term": "hundreds of",
+   "ko": "수백 개의",
+   "note": "정확한 수 대신 '아주 많다'는 느낌으로 써요."
+  },
+  {
+   "term": "on every trip",
+   "ko": "여행할 때마다",
+   "note": "every + 명사 앞에는 on/in을 붙여 반복을 표현해요."
+  },
+  {
+   "term": "bring back memories",
+   "ko": "추억을 되살리다",
+   "note": "사진이나 노래가 옛 기억을 떠올리게 할 때 써요."
+  }
+ ]
+}

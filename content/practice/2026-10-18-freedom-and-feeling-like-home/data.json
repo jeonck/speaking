@@ -1,0 +1,326 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22704.56,
+  "end": 22756.81,
+  "clips": [
+   [
+    22704.56,
+    22708.57
+   ],
+   [
+    22728.56,
+    22732.57
+   ],
+   [
+    22752.96,
+    22756.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "If I had to sum it up in one word, it would be freedom.",
+   "chunks": [
+    {
+     "en": "If I had to sum it up",
+     "ko": "한마디로 요약하자면"
+    },
+    {
+     "en": "in one word,",
+     "ko": "한 단어로"
+    },
+    {
+     "en": "it would be freedom.",
+     "ko": "자유일 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sum",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "word,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "freedom.",
+     "strong": true,
+     "link": false,
+     "syl": "free"
+    }
+   ],
+   "tip": "'sum it up in'은 '서미럽인'처럼 한 번에 이어 읽어요.",
+   "start": 22704.56,
+   "end": 22708.57
+  },
+  {
+   "text": "The easiest way to describe it is that it felt like home.",
+   "chunks": [
+    {
+     "en": "The easiest way to describe it",
+     "ko": "그것을 설명하는 가장 쉬운 방법은"
+    },
+    {
+     "en": "is that",
+     "ko": "~라는 거예요"
+    },
+    {
+     "en": "it felt like home.",
+     "ko": "집처럼 느껴졌다는"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "easiest",
+     "strong": true,
+     "link": false,
+     "syl": "eas"
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "describe",
+     "strong": true,
+     "link": true,
+     "syl": "scribe"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "felt",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'describe it'은 '디스크라이빗'처럼 이어 읽어요.",
+   "start": 22728.56,
+   "end": 22732.57
+  },
+  {
+   "text": "What mattered most was getting to spend time together.",
+   "chunks": [
+    {
+     "en": "What mattered most",
+     "ko": "가장 중요했던 것은"
+    },
+    {
+     "en": "was getting to spend time together.",
+     "ko": "함께 시간을 보내는 것이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mattered",
+     "strong": true,
+     "link": false,
+     "syl": "mat"
+    },
+    {
+     "w": "most",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "getting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spend",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together.",
+     "strong": true,
+     "link": false,
+     "syl": "geth"
+    }
+   ],
+   "tip": "'mattered'는 미국식으로 t를 가볍게 굴려 '매러드'처럼 읽어요.",
+   "start": 22752.96,
+   "end": 22756.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What one word does the speaker choose?",
+   "options": [
+    "Freedom",
+    "Comfort",
+    "Adventure"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: it would be freedom"
+  },
+  {
+   "q": "What did it feel like?",
+   "options": [
+    "A holiday",
+    "Home",
+    "A school"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: it felt like home"
+  },
+  {
+   "q": "What mattered most to the speaker?",
+   "options": [
+    "Saving money",
+    "Seeing new places",
+    "Spending time together"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: getting to spend time together"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sum it up",
+   "ko": "요약하다",
+   "note": "한 문장으로 정리할 때 써요."
+  },
+  {
+   "term": "the easiest way to describe it",
+   "ko": "그것을 설명하는 가장 쉬운 방법",
+   "note": "설명을 시작하는 표현이에요."
+  },
+  {
+   "term": "felt like home",
+   "ko": "집처럼 느껴졌다",
+   "note": "편안했다는 뜻이에요."
+  },
+  {
+   "term": "what mattered most",
+   "ko": "가장 중요했던 것",
+   "note": "핵심을 말할 때 써요."
+  },
+  {
+   "term": "spend time together",
+   "ko": "함께 시간을 보내다",
+   "note": "관계 이야기에 자주 나와요."
+  }
+ ]
+}

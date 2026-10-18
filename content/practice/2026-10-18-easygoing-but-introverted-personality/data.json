@@ -1,0 +1,305 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 169.6,
+  "end": 220.57,
+  "clips": [
+   [
+    169.6,
+    173.61
+   ],
+   [
+    193.52,
+    197.69
+   ],
+   [
+    216.88,
+    220.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "People often tell me that I'm easygoing and friendly.",
+   "chunks": [
+    {
+     "en": "People often tell me",
+     "ko": "사람들은 자주 말해요"
+    },
+    {
+     "en": "that I'm easygoing",
+     "ko": "내가 느긋하다고"
+    },
+    {
+     "en": "and friendly.",
+     "ko": "그리고 친근하다고"
+    }
+   ],
+   "words": [
+    {
+     "w": "People",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "often",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "tell",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "easygoing",
+     "strong": true,
+     "link": true,
+     "syl": "eas"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friendly.",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    }
+   ],
+   "tip": "easygoing은 '이지고잉'으로 첫 음절 eas에 강세를 둬요.",
+   "start": 169.6,
+   "end": 173.61
+  },
+  {
+   "text": "To be honest, I'm more of an introvert than an extrovert.",
+   "chunks": [
+    {
+     "en": "To be honest,",
+     "ko": "솔직히 말하면,"
+    },
+    {
+     "en": "I'm more of an introvert",
+     "ko": "나는 내향적인 편이에요"
+    },
+    {
+     "en": "than an extrovert.",
+     "ko": "외향적인 사람보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honest,",
+     "strong": true,
+     "link": false,
+     "syl": "hon"
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "introvert",
+     "strong": true,
+     "link": false,
+     "syl": "in"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "extrovert.",
+     "strong": true,
+     "link": false,
+     "syl": "ex"
+    }
+   ],
+   "tip": "more of an은 '모어러번'처럼 한 덩어리로 이어 읽어요.",
+   "start": 193.52,
+   "end": 197.69
+  },
+  {
+   "text": "I recharge by spending quiet time on my own.",
+   "chunks": [
+    {
+     "en": "I recharge",
+     "ko": "나는 재충전해요"
+    },
+    {
+     "en": "by spending quiet time",
+     "ko": "조용한 시간을 보내면서"
+    },
+    {
+     "en": "on my own.",
+     "ko": "혼자서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recharge",
+     "strong": true,
+     "link": false,
+     "syl": "charge"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spending",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "link": false,
+     "syl": "qui"
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": true,
+     "syl": "time"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own.",
+     "strong": true,
+     "link": false,
+     "syl": "own"
+    }
+   ],
+   "tip": "on my own은 약하게 '온마이오운'으로, 마지막 own에 힘을 줘요.",
+   "start": 216.88,
+   "end": 220.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do people often say about the speaker?",
+   "options": [
+    "Shy and quiet",
+    "Easygoing and friendly",
+    "Funny and loud"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I'm easygoing and friendly"
+  },
+  {
+   "q": "Which does the speaker say they are more like?",
+   "options": [
+    "An extrovert",
+    "Equally both",
+    "An introvert"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I'm more of an introvert than an extrovert"
+  },
+  {
+   "q": "How does the speaker recharge?",
+   "options": [
+    "By spending quiet time alone",
+    "By going out with friends",
+    "By exercising"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I recharge by spending quiet time on my own"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "easygoing",
+   "ko": "느긋한, 성격 좋은",
+   "note": "사람의 성격을 말할 때 자주 써요."
+  },
+  {
+   "term": "introvert",
+   "ko": "내향적인 사람",
+   "note": "반대말은 extrovert예요."
+  },
+  {
+   "term": "recharge",
+   "ko": "재충전하다",
+   "note": "배터리 충전처럼 기운을 회복한다는 뜻이에요."
+  },
+  {
+   "term": "To be honest",
+   "ko": "솔직히 말하면",
+   "note": "속마음을 말하기 전에 붙여요."
+  },
+  {
+   "term": "on my own",
+   "ko": "혼자서",
+   "note": "alone보다 자립적인 느낌이 있어요."
+  }
+ ]
+}

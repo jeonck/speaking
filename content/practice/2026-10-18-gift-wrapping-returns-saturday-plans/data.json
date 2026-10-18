@@ -1,0 +1,287 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14386.32,
+  "end": 14430.25,
+  "clips": [
+   [
+    14386.32,
+    14389.29
+   ],
+   [
+    14405.44,
+    14409.05
+   ],
+   [
+    14426.72,
+    14430.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Can I get it gift wrapped for free?",
+   "chunks": [
+    {
+     "en": "Can I get it",
+     "ko": "~해 줄 수 있나요"
+    },
+    {
+     "en": "gift wrapped",
+     "ko": "선물 포장으로"
+    },
+    {
+     "en": "for free?",
+     "ko": "무료로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gift",
+     "strong": true,
+     "link": false,
+     "syl": "gift"
+    },
+    {
+     "w": "wrapped",
+     "strong": true,
+     "link": false,
+     "syl": "wrapped"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "free?",
+     "strong": true,
+     "link": false,
+     "syl": "free"
+    }
+   ],
+   "tip": "get it은 '게릿'처럼 이어 읽어요.",
+   "start": 14386.32,
+   "end": 14389.29
+  },
+  {
+   "text": "What's your return policy if she doesn't like it?",
+   "chunks": [
+    {
+     "en": "What's your return policy",
+     "ko": "반품 정책이 뭐예요"
+    },
+    {
+     "en": "if she doesn't like it?",
+     "ko": "그녀가 마음에 들어 하지 않으면"
+    }
+   ],
+   "words": [
+    {
+     "w": "What's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "return",
+     "strong": true,
+     "link": false,
+     "syl": "turn"
+    },
+    {
+     "w": "policy",
+     "strong": true,
+     "link": false,
+     "syl": "pol"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doesn't",
+     "strong": true,
+     "link": false,
+     "syl": "does"
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": true,
+     "syl": "like"
+    },
+    {
+     "w": "it?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "like it은 '라이킷'처럼 이어 읽어요.",
+   "start": 14405.44,
+   "end": 14409.05
+  },
+  {
+   "text": "I was wondering if you're free this Saturday evening.",
+   "chunks": [
+    {
+     "en": "I was wondering",
+     "ko": "궁금했어요"
+    },
+    {
+     "en": "if you're free",
+     "ko": "시간 되시는지"
+    },
+    {
+     "en": "this Saturday evening.",
+     "ko": "이번 토요일 저녁에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wondering",
+     "strong": true,
+     "link": true,
+     "syl": "won"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "free",
+     "strong": true,
+     "link": false,
+     "syl": "free"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Saturday",
+     "strong": true,
+     "link": false,
+     "syl": "Sat"
+    },
+    {
+     "w": "evening.",
+     "strong": true,
+     "link": false,
+     "syl": "eve"
+    }
+   ],
+   "tip": "wondering if는 '원더링이프'처럼 g와 i를 이어 읽어요.",
+   "start": 14426.72,
+   "end": 14430.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker want done to the item?",
+   "options": [
+    "Gift wrapped",
+    "Engraved",
+    "Delivered"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: gift wrapped for free"
+  },
+  {
+   "q": "What does the speaker ask about the return policy?",
+   "options": [
+    "Whether there is a discount",
+    "How long the store is open",
+    "What happens if she doesn't like it"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: return policy if she doesn't like it"
+  },
+  {
+   "q": "When does the speaker ask if the friend is free?",
+   "options": [
+    "Friday morning",
+    "Saturday evening",
+    "Sunday afternoon"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: free this Saturday evening"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "gift wrapped",
+   "ko": "선물 포장된",
+   "note": "get it gift wrapped는 '선물 포장해 주세요'라는 뜻이에요."
+  },
+  {
+   "term": "for free",
+   "ko": "무료로",
+   "note": "free of charge보다 구어적이에요."
+  },
+  {
+   "term": "return policy",
+   "ko": "반품 정책",
+   "note": "환불은 refund policy라고도 해요."
+  },
+  {
+   "term": "I was wondering if",
+   "ko": "~인지 궁금해서요",
+   "note": "정중하게 물을 때 써요."
+  },
+  {
+   "term": "be free",
+   "ko": "시간이 비다",
+   "note": "여기서 free는 '무료'가 아니라 '한가한'이에요."
+  }
+ ]
+}

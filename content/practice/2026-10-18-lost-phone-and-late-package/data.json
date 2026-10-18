@@ -1,0 +1,300 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14960.24,
+  "end": 15004.41,
+  "clips": [
+   [
+    14960.24,
+    14963.85
+   ],
+   [
+    14980.8,
+    14984.17
+   ],
+   [
+    15000.72,
+    15004.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I think I left my phone in the taxi I just took.",
+   "chunks": [
+    {
+     "en": "I think I left my phone",
+     "ko": "제 전화기를 두고 온 것 같아요"
+    },
+    {
+     "en": "in the taxi I just took.",
+     "ko": "방금 탄 택시에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "left",
+     "strong": true,
+     "link": false,
+     "syl": "left"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "link": false,
+     "syl": "phone"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taxi",
+     "strong": true,
+     "link": false,
+     "syl": "tax"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took.",
+     "strong": true,
+     "link": false,
+     "syl": "took"
+    }
+   ],
+   "tip": "think I는 '띵카이'처럼 이어 읽어요.",
+   "start": 14960.24,
+   "end": 14963.85
+  },
+  {
+   "text": "Is there a lost and found number I can call?",
+   "chunks": [
+    {
+     "en": "Is there a lost and found number",
+     "ko": "분실물 보관소 번호가 있나요"
+    },
+    {
+     "en": "I can call?",
+     "ko": "제가 전화할 수 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lost",
+     "strong": true,
+     "link": true,
+     "syl": "lost"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": true,
+     "link": false,
+     "syl": "found"
+    },
+    {
+     "w": "number",
+     "strong": true,
+     "link": false,
+     "syl": "num"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "call?",
+     "strong": true,
+     "link": false,
+     "syl": "call"
+    }
+   ],
+   "tip": "lost and found는 '로스턴파운드'처럼 이어 읽어요.",
+   "start": 14980.8,
+   "end": 14984.17
+  },
+  {
+   "text": "The package was supposed to arrive 3 days ago.",
+   "chunks": [
+    {
+     "en": "The package was supposed to arrive",
+     "ko": "소포가 도착하기로 되어 있었어요"
+    },
+    {
+     "en": "3 days ago.",
+     "ko": "3일 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "package",
+     "strong": true,
+     "link": false,
+     "syl": "pack"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supposed",
+     "strong": true,
+     "link": false,
+     "syl": "pose"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "arrive",
+     "strong": true,
+     "link": false,
+     "syl": "rive"
+    },
+    {
+     "w": "3",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days",
+     "strong": true,
+     "link": true,
+     "syl": "days"
+    },
+    {
+     "w": "ago.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "supposed to는 '서포스투'처럼 d를 거의 안 들리게 읽어요.",
+   "start": 15000.72,
+   "end": 15004.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where does the speaker think the phone was left?",
+   "options": [
+    "On a train",
+    "In a taxi",
+    "At a restaurant"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I think I left my phone in the taxi"
+  },
+  {
+   "q": "What does the speaker ask about?",
+   "options": [
+    "A taxi fare refund",
+    "A phone repair shop",
+    "A lost and found number"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: Is there a lost and found number I can call?"
+  },
+  {
+   "q": "When was the package supposed to arrive?",
+   "options": [
+    "3 days ago",
+    "Yesterday",
+    "Next week"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: supposed to arrive 3 days ago"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "left my phone",
+   "ko": "전화기를 두고 오다",
+   "note": "leave + 물건은 '두고 오다'라는 뜻이에요."
+  },
+  {
+   "term": "lost and found",
+   "ko": "분실물 보관소",
+   "note": "한 덩어리로 외워 두면 좋아요."
+  },
+  {
+   "term": "supposed to",
+   "ko": "~하기로 되어 있다",
+   "note": "예정이나 기대를 나타낼 때 써요."
+  },
+  {
+   "term": "the taxi I just took",
+   "ko": "방금 탄 택시",
+   "note": "관계대명사 없이 명사 뒤에서 꾸며 줘요."
+  }
+ ]
+}

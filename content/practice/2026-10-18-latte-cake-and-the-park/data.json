@@ -1,0 +1,326 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5586.24,
+  "end": 5636.41,
+  "clips": [
+   [
+    5586.24,
+    5590.09
+   ],
+   [
+    5609.68,
+    5613.53
+   ],
+   [
+    5632.4,
+    5636.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I usually order an iced latte and a slice of cake.",
+   "chunks": [
+    {
+     "en": "I usually order",
+     "ko": "나는 보통 주문한다"
+    },
+    {
+     "en": "an iced latte",
+     "ko": "아이스 라테를"
+    },
+    {
+     "en": "and a slice of cake.",
+     "ko": "그리고 케이크 한 조각을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "order",
+     "strong": true,
+     "syl": "or",
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "iced",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "latte",
+     "strong": true,
+     "syl": "lat",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "slice",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cake.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'slice of'는 '슬라이소브'처럼 이어 읽어요.",
+   "start": 5586.24,
+   "end": 5590.09
+  },
+  {
+   "text": "I like to sit by the window and read for hours.",
+   "chunks": [
+    {
+     "en": "I like to sit",
+     "ko": "나는 앉는 것을 좋아한다"
+    },
+    {
+     "en": "by the window",
+     "ko": "창가에"
+    },
+    {
+     "en": "and read for hours.",
+     "ko": "그리고 몇 시간씩 책을 읽는다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sit",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "window",
+     "strong": true,
+     "syl": "win",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "read",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hours.",
+     "strong": true,
+     "syl": "hour",
+     "link": false
+    }
+   ],
+   "tip": "'hours'의 h는 소리 나지 않아 '아워즈'로 읽어요.",
+   "start": 5609.68,
+   "end": 5613.53
+  },
+  {
+   "text": "Going to the park is one of my favorite ways to unwind.",
+   "chunks": [
+    {
+     "en": "Going to the park",
+     "ko": "공원에 가는 것은"
+    },
+    {
+     "en": "is one of my favorite ways",
+     "ko": "내가 가장 좋아하는 방법 중 하나다"
+    },
+    {
+     "en": "to unwind.",
+     "ko": "긴장을 푸는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "park",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "syl": "fav",
+     "link": false
+    },
+    {
+     "w": "ways",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unwind.",
+     "strong": true,
+     "syl": "wind",
+     "link": false
+    }
+   ],
+   "tip": "'one of my'는 '원어브마이'처럼 이어져요.",
+   "start": 5632.4,
+   "end": 5636.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker usually order?",
+   "options": [
+    "A hot tea and a cookie",
+    "An iced latte and a slice of cake",
+    "A smoothie and a sandwich"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: an iced latte and a slice of cake"
+  },
+  {
+   "q": "Where does the speaker like to sit?",
+   "options": [
+    "By the window",
+    "Near the door",
+    "Outside on a bench"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: by the window"
+  },
+  {
+   "q": "How does the speaker describe going to the park?",
+   "options": [
+    "A tiring chore",
+    "A way to meet coworkers",
+    "One of the favorite ways to unwind"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: one of my favorite ways to unwind"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "iced latte",
+   "ko": "아이스 라테",
+   "note": "iced는 차가운 음료에 써요."
+  },
+  {
+   "term": "a slice of",
+   "ko": "~ 한 조각",
+   "note": "cake, pizza 등에 써요."
+  },
+  {
+   "term": "for hours",
+   "ko": "몇 시간 동안",
+   "note": "오랜 시간을 말할 때 써요."
+  },
+  {
+   "term": "one of my favorite",
+   "ko": "내가 좋아하는 것 중 하나",
+   "note": "뒤에 복수 명사가 와요."
+  },
+  {
+   "term": "unwind",
+   "ko": "긴장을 풀다",
+   "note": "휴식을 말하는 표현이에요."
+  }
+ ]
+}

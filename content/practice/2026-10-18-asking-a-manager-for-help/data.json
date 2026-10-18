@@ -1,0 +1,296 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15144.96,
+  "end": 15190.89,
+  "clips": [
+   [
+    15144.96,
+    15149.13
+   ],
+   [
+    15168.24,
+    15171.37
+   ],
+   [
+    15187.28,
+    15190.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I know you're busy, but could you help me get this charge corrected?",
+   "chunks": [
+    {
+     "en": "I know you're busy,",
+     "ko": "바쁘신 건 알지만"
+    },
+    {
+     "en": "but could you help me",
+     "ko": "도와주실 수 있나요"
+    },
+    {
+     "en": "get this charge corrected?",
+     "ko": "이 청구를 정정하도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "busy,",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": true,
+     "link": false,
+     "syl": "help"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "charge",
+     "strong": true,
+     "link": false,
+     "syl": "charge"
+    },
+    {
+     "w": "corrected?",
+     "strong": true,
+     "link": false,
+     "syl": "rect"
+    }
+   ],
+   "tip": "could you는 '쿠주'처럼 이어 읽어요.",
+   "start": 15144.96,
+   "end": 15149.13
+  },
+  {
+   "text": "Is there a manager I could speak to?",
+   "chunks": [
+    {
+     "en": "Is there a manager",
+     "ko": "관리자가 계신가요"
+    },
+    {
+     "en": "I could speak to?",
+     "ko": "제가 얘기할 수 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "manager",
+     "strong": true,
+     "link": true,
+     "syl": "man"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speak",
+     "strong": true,
+     "link": false,
+     "syl": "speak"
+    },
+    {
+     "w": "to?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "manager I는 '매니저라이'처럼 이어 읽어요.",
+   "start": 15168.24,
+   "end": 15171.37
+  },
+  {
+   "text": "What would you suggest I do in this situation?",
+   "chunks": [
+    {
+     "en": "What would you suggest",
+     "ko": "무엇을 제안하시겠어요"
+    },
+    {
+     "en": "I do in this situation?",
+     "ko": "제가 이 상황에서 해야 할"
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "suggest",
+     "strong": true,
+     "link": true,
+     "syl": "gest"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": true,
+     "link": false,
+     "syl": "do"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "situation?",
+     "strong": true,
+     "link": false,
+     "syl": "tu"
+    }
+   ],
+   "tip": "suggest I는 '서제스타이'처럼 t를 이어 읽어요.",
+   "start": 15187.28,
+   "end": 15190.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker want corrected?",
+   "options": [
+    "A booking date",
+    "A charge",
+    "An address"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: help me get this charge corrected"
+  },
+  {
+   "q": "Who does the speaker ask to speak to?",
+   "options": [
+    "A manager",
+    "A driver",
+    "A cashier"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Is there a manager I could speak to?"
+  },
+  {
+   "q": "What does the speaker ask for in the last sentence?",
+   "options": [
+    "A discount code",
+    "A phone number",
+    "A suggestion about what to do"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: What would you suggest I do in this situation?"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "I know you're busy, but",
+   "ko": "바쁘신 건 알지만",
+   "note": "부탁 전에 붙이는 공손한 도입이에요."
+  },
+  {
+   "term": "get this charge corrected",
+   "ko": "이 청구를 정정받다",
+   "note": "get + 목적어 + 과거분사 구조예요."
+  },
+  {
+   "term": "speak to a manager",
+   "ko": "관리자와 이야기하다",
+   "note": "항의나 요청 때 자주 써요."
+  },
+  {
+   "term": "What would you suggest",
+   "ko": "어떻게 하라고 권하시겠어요",
+   "note": "조언을 구하는 정중한 표현이에요."
+  }
+ ]
+}

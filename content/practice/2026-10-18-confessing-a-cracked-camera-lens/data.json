@@ -1,0 +1,294 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15396.8,
+  "end": 15442.17,
+  "clips": [
+   [
+    15396.8,
+    15400.01
+   ],
+   [
+    15416.4,
+    15420.09
+   ],
+   [
+    15438.32,
+    15442.17
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Thanks so much for being so patient with me.",
+   "chunks": [
+    {
+     "en": "Thanks so much",
+     "ko": "정말 고마워요"
+    },
+    {
+     "en": "for being so patient with me.",
+     "ko": "저에게 이렇게 참아 주셔서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Thanks",
+     "strong": true,
+     "link": false,
+     "syl": "Thanks"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false,
+     "syl": "much"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patient",
+     "strong": true,
+     "link": false,
+     "syl": "pa"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "patient는 첫 음절 PA에 강세를 둬요.",
+   "start": 15396.8,
+   "end": 15400.01
+  },
+  {
+   "text": "I have some bad news about the camera you lent me.",
+   "chunks": [
+    {
+     "en": "I have some bad news",
+     "ko": "안 좋은 소식이 있어요"
+    },
+    {
+     "en": "about the camera you lent me.",
+     "ko": "빌려주신 카메라에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bad",
+     "strong": true,
+     "link": false,
+     "syl": "bad"
+    },
+    {
+     "w": "news",
+     "strong": true,
+     "link": false,
+     "syl": "news"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "camera",
+     "strong": true,
+     "link": false,
+     "syl": "cam"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lent",
+     "strong": true,
+     "link": false,
+     "syl": "lent"
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "camera는 '캐므라'처럼 가운데 모음을 약하게 읽어요.",
+   "start": 15416.4,
+   "end": 15420.09
+  },
+  {
+   "text": "I accidentally dropped it and now the lens is cracked.",
+   "chunks": [
+    {
+     "en": "I accidentally dropped it",
+     "ko": "실수로 떨어뜨렸어요"
+    },
+    {
+     "en": "and now the lens is cracked.",
+     "ko": "그리고 이제 렌즈가 깨졌어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "accidentally",
+     "strong": true,
+     "link": false,
+     "syl": "dent"
+    },
+    {
+     "w": "dropped",
+     "strong": true,
+     "link": true,
+     "syl": "drop"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lens",
+     "strong": true,
+     "link": true,
+     "syl": "lens"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cracked.",
+     "strong": true,
+     "link": false,
+     "syl": "crack"
+    }
+   ],
+   "tip": "dropped it은 '드랍팃'처럼 이어 읽어요.",
+   "start": 15438.32,
+   "end": 15442.17
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker want to share?",
+   "options": [
+    "A plan to travel",
+    "Bad news about a borrowed camera",
+    "A new job offer"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: I have some bad news about the camera you lent me."
+  },
+  {
+   "q": "What happened to the camera?",
+   "options": [
+    "It was stolen",
+    "It was lost",
+    "It was dropped"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I accidentally dropped it"
+  },
+  {
+   "q": "What part of the camera is damaged?",
+   "options": [
+    "The lens",
+    "The strap",
+    "The battery"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: the lens is cracked"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "patient with me",
+   "ko": "저에게 인내심 있는",
+   "note": "be patient with someone으로 써요."
+  },
+  {
+   "term": "bad news",
+   "ko": "나쁜 소식",
+   "note": "news는 셀 수 없는 명사예요."
+  },
+  {
+   "term": "lent me",
+   "ko": "나에게 빌려줬다",
+   "note": "lend는 빌려주다, borrow는 빌리다예요."
+  },
+  {
+   "term": "accidentally",
+   "ko": "실수로",
+   "note": "강세는 -den- 부분에 와요."
+  }
+ ]
+}

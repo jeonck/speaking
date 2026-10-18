@@ -1,0 +1,320 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11524.0,
+  "end": 11576.65,
+  "clips": [
+   [
+    11524.0,
+    11527.85
+   ],
+   [
+    11547.52,
+    11551.69
+   ],
+   [
+    11572.24,
+    11576.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now there's a tall apartment building where it used to be.",
+   "chunks": [
+    {
+     "en": "Now there's a tall apartment building",
+     "ko": "지금은 높은 아파트 건물이 있어요"
+    },
+    {
+     "en": "where it used to be.",
+     "ko": "그것이 있던 자리에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tall",
+     "strong": true,
+     "link": false,
+     "syl": "tall"
+    },
+    {
+     "w": "apartment",
+     "strong": true,
+     "link": false,
+     "syl": "part"
+    },
+    {
+     "w": "building",
+     "strong": true,
+     "link": false,
+     "syl": "build"
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": true,
+     "link": false,
+     "syl": "used"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "apartment는 '어파트먼트'처럼 두 번째 음절 part에 강세가 와요.",
+   "start": 11524.0,
+   "end": 11527.85
+  },
+  {
+   "text": "These days, the streets are much busier, especially at night.",
+   "chunks": [
+    {
+     "en": "These days,",
+     "ko": "요즘은"
+    },
+    {
+     "en": "the streets are much busier,",
+     "ko": "거리가 훨씬 더 붐벼요"
+    },
+    {
+     "en": "especially at night.",
+     "ko": "특히 밤에"
+    }
+   ],
+   "words": [
+    {
+     "w": "These",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days,",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "streets",
+     "strong": true,
+     "link": true,
+     "syl": "street"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "busier,",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "especially",
+     "strong": true,
+     "link": false,
+     "syl": "spe"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night.",
+     "strong": true,
+     "link": false,
+     "syl": "night"
+    }
+   ],
+   "tip": "busier는 '비지어'처럼 철자와 달리 bus가 '비즈'로 소리 나요.",
+   "start": 11547.52,
+   "end": 11551.69
+  },
+  {
+   "text": "On the bright side, there are more coffee shops and stores now.",
+   "chunks": [
+    {
+     "en": "On the bright side,",
+     "ko": "좋은 점은"
+    },
+    {
+     "en": "there are more coffee shops",
+     "ko": "커피숍이 더 많아졌다는 거예요"
+    },
+    {
+     "en": "and stores now.",
+     "ko": "그리고 가게도 지금은"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bright",
+     "strong": true,
+     "link": false,
+     "syl": "bright"
+    },
+    {
+     "w": "side,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coffee",
+     "strong": true,
+     "link": false,
+     "syl": "cof"
+    },
+    {
+     "w": "shops",
+     "strong": true,
+     "link": true,
+     "syl": "shops"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stores",
+     "strong": true,
+     "link": false,
+     "syl": "stor"
+    },
+    {
+     "w": "now.",
+     "strong": true,
+     "link": false,
+     "syl": "now"
+    }
+   ],
+   "tip": "On the bright side는 '좋은 점은'이라는 표현이에요. bright side에 강세를 둬요.",
+   "start": 11572.24,
+   "end": 11576.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "What stands where the playground used to be?",
+   "options": [
+    "A tall apartment building",
+    "A parking lot",
+    "A new park"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: a tall apartment building where it used to be"
+  },
+  {
+   "q": "When are the streets especially busy?",
+   "options": [
+    "In the morning",
+    "At night",
+    "On weekends"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: much busier, especially at night"
+  },
+  {
+   "q": "What is the bright side?",
+   "options": [
+    "Fewer cars",
+    "More parks",
+    "More coffee shops and stores"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: more coffee shops and stores now"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "These days",
+   "ko": "요즘은",
+   "note": "현재의 변화를 말할 때 써요."
+  },
+  {
+   "term": "much busier",
+   "ko": "훨씬 더 붐비는",
+   "note": "비교급 앞의 much는 강조예요."
+  },
+  {
+   "term": "especially",
+   "ko": "특히",
+   "note": "강조할 부분 앞에 써요."
+  },
+  {
+   "term": "on the bright side",
+   "ko": "좋은 점은",
+   "note": "단점 뒤에 장점을 말할 때 써요."
+  }
+ ]
+}

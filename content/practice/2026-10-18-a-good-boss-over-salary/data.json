@@ -1,0 +1,333 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19128.0,
+  "end": 19183.29,
+  "clips": [
+   [
+    19128.0,
+    19132.09
+   ],
+   [
+    19152.72,
+    19157.13
+   ],
+   [
+    19178.96,
+    19183.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "For me, a good boss matters more than a high salary.",
+   "chunks": [
+    {
+     "en": "For me,",
+     "ko": "제게는"
+    },
+    {
+     "en": "a good boss matters more",
+     "ko": "좋은 상사가 더 중요해요"
+    },
+    {
+     "en": "than a high salary.",
+     "ko": "높은 월급보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "syl": "good",
+     "link": false
+    },
+    {
+     "w": "boss",
+     "strong": true,
+     "syl": "boss",
+     "link": false
+    },
+    {
+     "w": "matters",
+     "strong": true,
+     "syl": "mat",
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high",
+     "strong": true,
+     "syl": "high",
+     "link": false
+    },
+    {
+     "w": "salary.",
+     "strong": true,
+     "syl": "sal",
+     "link": false
+    }
+   ],
+   "tip": "than a는 '댄어'로 약하게 이어서 읽어요.",
+   "start": 19128.0,
+   "end": 19132.09
+  },
+  {
+   "text": "A supportive manager can make even a tough job enjoyable.",
+   "chunks": [
+    {
+     "en": "A supportive manager",
+     "ko": "지원해주는 상사는"
+    },
+    {
+     "en": "can make even a tough job",
+     "ko": "힘든 일조차 만들 수 있어요"
+    },
+    {
+     "en": "enjoyable.",
+     "ko": "즐겁게"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supportive",
+     "strong": true,
+     "syl": "port",
+     "link": false
+    },
+    {
+     "w": "manager",
+     "strong": true,
+     "syl": "man",
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tough",
+     "strong": true,
+     "syl": "tough",
+     "link": false
+    },
+    {
+     "w": "job",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoyable.",
+     "strong": true,
+     "syl": "joy",
+     "link": false
+    }
+   ],
+   "tip": "tough는 '터프'로, gh를 f 소리로 읽어요.",
+   "start": 19152.72,
+   "end": 19157.13
+  },
+  {
+   "text": "I once quit a job that paid well because of a bad boss.",
+   "chunks": [
+    {
+     "en": "I once quit a job",
+     "ko": "저는 한때 일을 그만뒀어요"
+    },
+    {
+     "en": "that paid well",
+     "ko": "보수가 좋았던"
+    },
+    {
+     "en": "because of a bad boss.",
+     "ko": "나쁜 상사 때문에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quit",
+     "strong": true,
+     "syl": "quit",
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "job",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "paid",
+     "strong": true,
+     "syl": "paid",
+     "link": false
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bad",
+     "strong": true,
+     "syl": "bad",
+     "link": false
+    },
+    {
+     "w": "boss.",
+     "strong": true,
+     "syl": "boss",
+     "link": false
+    }
+   ],
+   "tip": "quit a는 '쿠이러'처럼 t가 ㄹ에 가깝게 이어져요.",
+   "start": 19178.96,
+   "end": 19183.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What matters more to the speaker than a high salary?",
+   "options": [
+    "A short commute",
+    "A good boss",
+    "A nice office"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a good boss matters more than a high salary"
+  },
+  {
+   "q": "What can a supportive manager do?",
+   "options": [
+    "Make even a tough job enjoyable",
+    "Raise everyone's pay",
+    "Cut work hours"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: make even a tough job enjoyable"
+  },
+  {
+   "q": "Why did the speaker quit a job that paid well?",
+   "options": [
+    "The work was boring",
+    "The office was far away",
+    "Because of a bad boss"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: because of a bad boss"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "matters",
+   "ko": "중요하다",
+   "note": "동사 matter는 '중요하다'예요."
+  },
+  {
+   "term": "supportive",
+   "ko": "지원해주는",
+   "note": "supportive manager처럼 사람에게 써요."
+  },
+  {
+   "term": "tough",
+   "ko": "힘든",
+   "note": "a tough job처럼 써요."
+  },
+  {
+   "term": "enjoyable",
+   "ko": "즐거운",
+   "note": "enjoy + able이에요."
+  },
+  {
+   "term": "quit a job",
+   "ko": "일을 그만두다",
+   "note": "quit은 과거형도 quit이에요."
+  }
+ ]
+}

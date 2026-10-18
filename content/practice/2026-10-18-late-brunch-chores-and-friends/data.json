@@ -1,0 +1,280 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1044.64,
+  "end": 1093.61,
+  "clips": [
+   [
+    1044.64,
+    1047.93
+   ],
+   [
+    1064.96,
+    1069.61
+   ],
+   [
+    1090.24,
+    1093.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Then I have a late brunch with my family.",
+   "chunks": [
+    {
+     "en": "Then I have a late brunch",
+     "ko": "그러고 나서 나는 늦은 브런치를 먹는다"
+    },
+    {
+     "en": "with my family.",
+     "ko": "가족과"
+    }
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "late",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "brunch",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family.",
+     "strong": true,
+     "syl": "fam",
+     "link": false
+    }
+   ],
+   "tip": "have a는 '해버'처럼 v와 a가 이어져요.",
+   "start": 1044.64,
+   "end": 1047.93
+  },
+  {
+   "text": "In the afternoon, I catch up on chores like laundry and cleaning.",
+   "chunks": [
+    {
+     "en": "In the afternoon,",
+     "ko": "오후에는"
+    },
+    {
+     "en": "I catch up on chores",
+     "ko": "나는 밀린 집안일을 따라잡는다"
+    },
+    {
+     "en": "like laundry and cleaning.",
+     "ko": "빨래와 청소 같은"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "afternoon,",
+     "strong": true,
+     "syl": "noon",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "catch",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chores",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laundry",
+     "strong": true,
+     "syl": "laun",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cleaning.",
+     "strong": true,
+     "syl": "clean",
+     "link": false
+    }
+   ],
+   "tip": "catch up on은 '캐청온'처럼 이어 읽어요.",
+   "start": 1064.96,
+   "end": 1069.61
+  },
+  {
+   "text": "Saturday evenings are for meeting friends.",
+   "chunks": [
+    {
+     "en": "Saturday evenings are for",
+     "ko": "토요일 저녁은 ~를 위한 시간이다"
+    },
+    {
+     "en": "meeting friends.",
+     "ko": "친구를 만나는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Saturday",
+     "strong": true,
+     "syl": "Sat",
+     "link": false
+    },
+    {
+     "w": "evenings",
+     "strong": true,
+     "syl": "eve",
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meeting",
+     "strong": true,
+     "syl": "meet",
+     "link": false
+    },
+    {
+     "w": "friends.",
+     "strong": true,
+     "syl": "friends",
+     "link": false
+    }
+   ],
+   "tip": "evenings are는 '이브닝자'처럼 이어져요.",
+   "start": 1090.24,
+   "end": 1093.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who does the speaker have a late brunch with?",
+   "options": [
+    "Friends",
+    "Co-workers",
+    "Family"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: a late brunch with my family"
+  },
+  {
+   "q": "What does the speaker do in the afternoon?",
+   "options": [
+    "Catches up on chores",
+    "Goes shopping",
+    "Plays sports"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I catch up on chores like laundry and cleaning"
+  },
+  {
+   "q": "What are Saturday evenings for?",
+   "options": [
+    "Studying",
+    "Meeting friends",
+    "Resting alone"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: Saturday evenings are for meeting friends"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "late brunch",
+   "ko": "늦은 브런치",
+   "note": "아침 겸 점심을 늦게 먹는 식사예요."
+  },
+  {
+   "term": "catch up on",
+   "ko": "밀린 ~를 따라잡다",
+   "note": "밀린 일이나 소식을 처리할 때 써요."
+  },
+  {
+   "term": "chores",
+   "ko": "집안일",
+   "note": "보통 복수형으로 써요."
+  },
+  {
+   "term": "be for ~ing",
+   "ko": "~하는 시간이다",
+   "note": "'Evenings are for ~ing' 형태로 외워 두세요."
+  }
+ ]
+}

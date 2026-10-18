@@ -1,0 +1,338 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17606.16,
+  "end": 17655.85,
+  "clips": [
+   [
+    17606.16,
+    17610.33
+   ],
+   [
+    17630.0,
+    17633.77
+   ],
+   [
+    17651.68,
+    17655.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I also try to buy things with less packaging when I can.",
+   "chunks": [
+    {
+     "en": "I also try to buy things",
+     "ko": "저는 또한 노력해요 물건을 사려고"
+    },
+    {
+     "en": "with less packaging",
+     "ko": "포장이 덜한 것으로"
+    },
+    {
+     "en": "when I can.",
+     "ko": "할 수 있을 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buy",
+     "strong": true,
+     "link": false,
+     "syl": "buy"
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "less",
+     "strong": true,
+     "link": false,
+     "syl": "less"
+    },
+    {
+     "w": "packaging",
+     "strong": true,
+     "link": false,
+     "syl": "pack"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "packaging은 '패키징'으로 첫음절에 강세가 와요.",
+   "start": 17606.16,
+   "end": 17610.33
+  },
+  {
+   "text": "I do most of my banking on my phone these days.",
+   "chunks": [
+    {
+     "en": "I do most of my banking",
+     "ko": "저는 은행 업무 대부분을 해요"
+    },
+    {
+     "en": "on my phone",
+     "ko": "휴대폰으로"
+    },
+    {
+     "en": "these days.",
+     "ko": "요즘"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "banking",
+     "strong": true,
+     "link": false,
+     "syl": "bank"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "link": false,
+     "syl": "phone"
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days.",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    }
+   ],
+   "tip": "most of my는 '모스트어브 마이'로 약하게 이어져요.",
+   "start": 17630.0,
+   "end": 17633.77
+  },
+  {
+   "text": "It's especially useful when I need to send money to a friend.",
+   "chunks": [
+    {
+     "en": "It's especially useful",
+     "ko": "특히 유용해요"
+    },
+    {
+     "en": "when I need to send money",
+     "ko": "돈을 보내야 할 때"
+    },
+    {
+     "en": "to a friend.",
+     "ko": "친구에게"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "especially",
+     "strong": true,
+     "link": false,
+     "syl": "spe"
+    },
+    {
+     "w": "useful",
+     "strong": true,
+     "link": false,
+     "syl": "use"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "send",
+     "strong": true,
+     "link": false,
+     "syl": "send"
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "link": false,
+     "syl": "mon"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend.",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    }
+   ],
+   "tip": "especially는 '스페셜리'처럼 앞 e를 약하게 읽어요.",
+   "start": 17651.68,
+   "end": 17655.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker try to buy?",
+   "options": [
+    "Things with less packaging",
+    "Only used items",
+    "Larger boxes"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: buy things with less packaging"
+  },
+  {
+   "q": "Where does the speaker do most banking?",
+   "options": [
+    "At a branch",
+    "On a phone",
+    "At a store"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: most of my banking on my phone"
+  },
+  {
+   "q": "When is the phone especially useful?",
+   "options": [
+    "When shopping for shoes",
+    "When checking the weather",
+    "When sending money to a friend"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: when I need to send money to a friend"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "packaging",
+   "ko": "포장재",
+   "note": "less packaging은 포장이 적다는 뜻이에요."
+  },
+  {
+   "term": "when I can",
+   "ko": "할 수 있을 때",
+   "note": "항상은 아니라는 뉘앙스예요."
+  },
+  {
+   "term": "banking",
+   "ko": "은행 업무",
+   "note": "online banking은 인터넷 뱅킹이에요."
+  },
+  {
+   "term": "these days",
+   "ko": "요즘",
+   "note": "현재의 습관을 말할 때 써요."
+  },
+  {
+   "term": "especially useful",
+   "ko": "특히 유용한",
+   "note": "very보다 강조하는 느낌이에요."
+  }
+ ]
+}

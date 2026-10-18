@@ -1,0 +1,293 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11596.16,
+  "end": 11644.81,
+  "clips": [
+   [
+    11596.16,
+    11600.01
+   ],
+   [
+    11618.08,
+    11621.93
+   ],
+   [
+    11640.8,
+    11644.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I miss the old days, but I like the convenience.",
+   "chunks": [
+    {
+     "en": "I miss the old days,",
+     "ko": "옛날이 그립지만,"
+    },
+    {
+     "en": "but I like",
+     "ko": "하지만 나는 좋아해요"
+    },
+    {
+     "en": "the convenience.",
+     "ko": "그 편리함이"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miss",
+     "strong": true,
+     "link": true,
+     "syl": "miss"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "old",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    },
+    {
+     "w": "days,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": false,
+     "syl": "like"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "convenience.",
+     "strong": true,
+     "link": false,
+     "syl": "ven"
+    }
+   ],
+   "tip": "miss the old days는 'miss'를 가장 세게, the old days는 이어서 읽어요.",
+   "start": 11596.16,
+   "end": 11600.01
+  },
+  {
+   "text": "Technology has completely changed the way we live.",
+   "chunks": [
+    {
+     "en": "Technology has completely changed",
+     "ko": "기술은 완전히 바꿔 놓았어요"
+    },
+    {
+     "en": "the way we live.",
+     "ko": "우리가 사는 방식을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Technology",
+     "strong": true,
+     "link": false,
+     "syl": "nol"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "completely",
+     "strong": true,
+     "link": false,
+     "syl": "plete"
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": false,
+     "syl": "changed"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live.",
+     "strong": true,
+     "link": false,
+     "syl": "live"
+    }
+   ],
+   "tip": "has는 약하게 '즈'처럼, completely의 'plete'에 강세를 줘요.",
+   "start": 11618.08,
+   "end": 11621.93
+  },
+  {
+   "text": "Back then, I had to remember my friend's phone numbers.",
+   "chunks": [
+    {
+     "en": "Back then,",
+     "ko": "그때는,"
+    },
+    {
+     "en": "I had to remember",
+     "ko": "나는 외워야 했어요"
+    },
+    {
+     "en": "my friend's phone numbers.",
+     "ko": "내 친구의 전화번호들을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Back",
+     "strong": true,
+     "link": false,
+     "syl": "Back"
+    },
+    {
+     "w": "then,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remember",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "link": false,
+     "syl": "phone"
+    },
+    {
+     "w": "numbers.",
+     "strong": true,
+     "link": false,
+     "syl": "num"
+    }
+   ],
+   "tip": "had to는 '해럴투'처럼 붙여 약하게 읽어요.",
+   "start": 11640.8,
+   "end": 11644.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about the past?",
+   "options": [
+    "It was boring",
+    "The speaker misses it",
+    "The speaker hated it"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I miss the old days"
+  },
+  {
+   "q": "What has technology changed?",
+   "options": [
+    "The way we live",
+    "The weather",
+    "The price of phones"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Technology has completely changed the way we live"
+  },
+  {
+   "q": "What did the speaker have to remember back then?",
+   "options": [
+    "Bus times",
+    "Passwords",
+    "Friends' phone numbers"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I had to remember my friend's phone numbers"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "miss the old days",
+   "ko": "옛날이 그립다",
+   "note": "과거를 그리워할 때 써요."
+  },
+  {
+   "term": "convenience",
+   "ko": "편리함",
+   "note": "like the convenience처럼 장점을 말할 때 써요."
+  },
+  {
+   "term": "completely changed",
+   "ko": "완전히 바꿨다",
+   "note": "change를 강조하는 부사 completely."
+  },
+  {
+   "term": "back then",
+   "ko": "그때는",
+   "note": "과거의 시점을 가리킬 때 써요."
+  }
+ ]
+}

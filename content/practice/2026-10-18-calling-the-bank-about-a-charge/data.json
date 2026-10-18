@@ -1,0 +1,322 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17750.64,
+  "end": 17799.93,
+  "clips": [
+   [
+    17750.64,
+    17754.57
+   ],
+   [
+    17772.0,
+    17775.93
+   ],
+   [
+    17795.52,
+    17799.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "So, I called the bank and asked for more information.",
+   "chunks": [
+    {
+     "en": "So, I called the bank",
+     "ko": "그래서 은행에 전화했고"
+    },
+    {
+     "en": "and asked for more information.",
+     "ko": "더 많은 정보를 요청했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "So,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": true,
+     "link": false,
+     "syl": "called"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bank",
+     "strong": true,
+     "link": false,
+     "syl": "bank"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "asked",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "information.",
+     "strong": true,
+     "link": false,
+     "syl": "ma"
+    }
+   ],
+   "tip": "asked for는 '애스트포'처럼 d 소리 없이 이어요.",
+   "start": 17750.64,
+   "end": 17754.57
+  },
+  {
+   "text": "They told me the name of the business and then I remembered.",
+   "chunks": [
+    {
+     "en": "They told me the name of the business",
+     "ko": "그들이 사업체 이름을 말해 줬고"
+    },
+    {
+     "en": "and then I remembered.",
+     "ko": "그러고 나서 기억났어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "told",
+     "strong": true,
+     "link": false,
+     "syl": "told"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "name",
+     "strong": true,
+     "link": false,
+     "syl": "name"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remembered.",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    }
+   ],
+   "tip": "business는 '비즈니스'로 가운데 i를 거의 빼고 읽어요.",
+   "start": 17772.0,
+   "end": 17775.93
+  },
+  {
+   "text": "It was a yearly subscription I'd signed up for and forgotten about.",
+   "chunks": [
+    {
+     "en": "It was a yearly subscription",
+     "ko": "연간 구독이었어요"
+    },
+    {
+     "en": "I'd signed up for",
+     "ko": "가입해 놓은"
+    },
+    {
+     "en": "and forgotten about.",
+     "ko": "그리고 잊고 있던"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yearly",
+     "strong": true,
+     "link": false,
+     "syl": "year"
+    },
+    {
+     "w": "subscription",
+     "strong": true,
+     "link": false,
+     "syl": "scrip"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "signed",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forgotten",
+     "strong": true,
+     "link": false,
+     "syl": "got"
+    },
+    {
+     "w": "about.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "signed up for는 '싸인덥포'처럼 이어서 읽어요.",
+   "start": 17795.52,
+   "end": 17799.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why did the speaker call the bank?",
+   "options": [
+    "To close the account",
+    "To get a new card",
+    "To ask for more information"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: I called the bank and asked for more information"
+  },
+  {
+   "q": "What did the bank tell the speaker?",
+   "options": [
+    "The name of the business",
+    "The speaker's balance",
+    "A new password"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: They told me the name of the business"
+  },
+  {
+   "q": "What was the payment for?",
+   "options": [
+    "A new phone",
+    "A yearly subscription",
+    "A restaurant meal"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: a yearly subscription I'd signed up for"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "asked for",
+   "ko": "~을 요청하다",
+   "note": "ask for more information은 추가 정보를 요청하다예요."
+  },
+  {
+   "term": "remembered",
+   "ko": "기억해 냈다",
+   "note": "remember가 갑자기 떠오를 때도 써요."
+  },
+  {
+   "term": "yearly subscription",
+   "ko": "연간 구독",
+   "note": "monthly는 월간이에요."
+  },
+  {
+   "term": "sign up for",
+   "ko": "~에 가입하다",
+   "note": "sign up for a class처럼 써요."
+  },
+  {
+   "term": "forgotten about",
+   "ko": "~을 잊어버린",
+   "note": "forget about은 존재 자체를 잊었다는 느낌이에요."
+  }
+ ]
+}

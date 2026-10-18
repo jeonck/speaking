@@ -1,0 +1,316 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3455.92,
+  "end": 3507.53,
+  "clips": [
+   [
+    3455.92,
+    3459.85
+   ],
+   [
+    3479.68,
+    3483.93
+   ],
+   [
+    3503.76,
+    3507.53
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "There's also a big park about 10 minutes away on foot.",
+   "chunks": [
+    {
+     "en": "There's also a big park",
+     "ko": "큰 공원도 있어요"
+    },
+    {
+     "en": "about 10 minutes away",
+     "ko": "약 10분 거리에"
+    },
+    {
+     "en": "on foot.",
+     "ko": "걸어서"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "park",
+     "strong": true,
+     "link": false,
+     "syl": "park"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "away",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foot.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'away on foot'처럼 away와 on이 이어져 '어웨이온'으로 들려요.",
+   "start": 3455.92,
+   "end": 3459.85
+  },
+  {
+   "text": "It has a walking trail, a playground, and a small pond.",
+   "chunks": [
+    {
+     "en": "It has a walking trail,",
+     "ko": "산책로가 있고"
+    },
+    {
+     "en": "a playground,",
+     "ko": "놀이터가 있고"
+    },
+    {
+     "en": "and a small pond.",
+     "ko": "작은 연못이 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walking",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "trail,",
+     "strong": true,
+     "link": false,
+     "syl": "trail"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "playground,",
+     "strong": true,
+     "link": false,
+     "syl": "play"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pond.",
+     "strong": true,
+     "link": false,
+     "syl": "pond"
+    }
+   ],
+   "tip": "나열할 때는 trail, playground, pond 각각의 끝을 살짝 올렸다가 마지막만 내려요.",
+   "start": 3479.68,
+   "end": 3483.93
+  },
+  {
+   "text": "In the spring, the park is full of cherry blossoms.",
+   "chunks": [
+    {
+     "en": "In the spring,",
+     "ko": "봄에는"
+    },
+    {
+     "en": "the park is full of",
+     "ko": "공원이 가득 차요"
+    },
+    {
+     "en": "cherry blossoms.",
+     "ko": "벚꽃으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spring,",
+     "strong": true,
+     "link": false,
+     "syl": "spring"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "park",
+     "strong": true,
+     "link": false,
+     "syl": "park"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "full",
+     "strong": true,
+     "link": true,
+     "syl": "full"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "cherry",
+     "strong": true,
+     "link": false,
+     "syl": "che"
+    },
+    {
+     "w": "blossoms.",
+     "strong": true,
+     "link": false,
+     "syl": "blos"
+    }
+   ],
+   "tip": "'full of'는 '풀러브'처럼 이어 읽고 of는 약하게 'ʌv'로 줄여요.",
+   "start": 3503.76,
+   "end": 3507.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "How far is the park on foot?",
+   "options": [
+    "About 10 minutes",
+    "About 15 minutes",
+    "About 30 minutes"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: about 10 minutes away on foot"
+  },
+  {
+   "q": "Which of these is NOT mentioned as being in the park?",
+   "options": [
+    "A walking trail",
+    "A small pond",
+    "A swimming pool"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: a walking trail, a playground, and a small pond"
+  },
+  {
+   "q": "What fills the park in spring?",
+   "options": [
+    "Cherry blossoms",
+    "Food stalls",
+    "Families on bikes"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: the park is full of cherry blossoms"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "on foot",
+   "ko": "걸어서",
+   "note": "교통수단 대신 도보를 말할 때 써요."
+  },
+  {
+   "term": "walking trail",
+   "ko": "산책로",
+   "note": "공원이나 숲의 길을 가리켜요."
+  },
+  {
+   "term": "playground",
+   "ko": "놀이터",
+   "note": "한 단어로 붙여 쓰고 첫 음절에 강세가 와요."
+  },
+  {
+   "term": "full of",
+   "ko": "~로 가득한",
+   "note": "full of 뒤에 명사를 붙여요."
+  }
+ ]
+}

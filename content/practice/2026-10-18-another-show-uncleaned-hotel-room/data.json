@@ -1,0 +1,311 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14766.08,
+  "end": 14810.01,
+  "clips": [
+   [
+    14766.08,
+    14769.53
+   ],
+   [
+    14786.4,
+    14790.09
+   ],
+   [
+    14806.8,
+    14810.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Or maybe we could go to another show next month.",
+   "chunks": [
+    {
+     "en": "Or maybe",
+     "ko": "아니면 어쩌면"
+    },
+    {
+     "en": "we could go",
+     "ko": "우리 갈 수도 있어요"
+    },
+    {
+     "en": "to another show",
+     "ko": "다른 공연에"
+    },
+    {
+     "en": "next month.",
+     "ko": "다음 달에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "maybe",
+     "strong": true,
+     "link": false,
+     "syl": "may"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "another",
+     "strong": true,
+     "link": false,
+     "syl": "noth"
+    },
+    {
+     "w": "show",
+     "strong": true,
+     "link": false,
+     "syl": "show"
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month.",
+     "strong": true,
+     "link": false,
+     "syl": "month"
+    }
+   ],
+   "tip": "another는 '어나더'로 noth에 강세를 둬요.",
+   "start": 14766.08,
+   "end": 14769.53
+  },
+  {
+   "text": "I just checked in, but my room hasn't been cleaned.",
+   "chunks": [
+    {
+     "en": "I just checked in,",
+     "ko": "방금 체크인했는데"
+    },
+    {
+     "en": "but my room",
+     "ko": "제 방이"
+    },
+    {
+     "en": "hasn't been cleaned.",
+     "ko": "청소가 안 되어 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": true,
+     "link": false,
+     "syl": "just"
+    },
+    {
+     "w": "checked",
+     "strong": true,
+     "link": true,
+     "syl": "check"
+    },
+    {
+     "w": "in,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room",
+     "strong": true,
+     "link": false,
+     "syl": "room"
+    },
+    {
+     "w": "hasn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cleaned.",
+     "strong": true,
+     "link": false,
+     "syl": "clean"
+    }
+   ],
+   "tip": "checked in은 '첵틴'처럼 이어 읽어요.",
+   "start": 14786.4,
+   "end": 14790.09
+  },
+  {
+   "text": "Could you move me to a different room, please?",
+   "chunks": [
+    {
+     "en": "Could you move me",
+     "ko": "저를 옮겨 주시겠어요"
+    },
+    {
+     "en": "to a different room,",
+     "ko": "다른 방으로"
+    },
+    {
+     "en": "please?",
+     "ko": "부탁드려요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "move",
+     "strong": true,
+     "link": false,
+     "syl": "move"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "diff"
+    },
+    {
+     "w": "room,",
+     "strong": true,
+     "link": false,
+     "syl": "room"
+    },
+    {
+     "w": "please?",
+     "strong": true,
+     "link": false,
+     "syl": "please"
+    }
+   ],
+   "tip": "Could you는 '쿠쥬'처럼 이어 읽어요.",
+   "start": 14806.8,
+   "end": 14810.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker suggest doing next month?",
+   "options": [
+    "Take a trip",
+    "Have dinner",
+    "Go to another show"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: go to another show next month"
+  },
+  {
+   "q": "What is wrong with the room?",
+   "options": [
+    "It is too noisy",
+    "It has not been cleaned",
+    "The air conditioner is broken"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: my room hasn't been cleaned"
+  },
+  {
+   "q": "What does the speaker ask for?",
+   "options": [
+    "A different room",
+    "A late checkout",
+    "A free breakfast"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: move me to a different room"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "another show",
+   "ko": "다른 공연",
+   "note": "another는 '또 다른 하나'라는 뜻이에요."
+  },
+  {
+   "term": "just checked in",
+   "ko": "방금 체크인했다",
+   "note": "just는 '방금'이라는 뜻이에요."
+  },
+  {
+   "term": "hasn't been cleaned",
+   "ko": "청소되지 않았다",
+   "note": "현재완료 수동태 부정형이에요."
+  },
+  {
+   "term": "move me to",
+   "ko": "저를 ~로 옮겨 주세요",
+   "note": "move + 사람 + to 장소예요."
+  },
+  {
+   "term": "different room",
+   "ko": "다른 방",
+   "note": "same room의 반대말이에요."
+  }
+ ]
+}

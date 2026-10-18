@@ -1,0 +1,345 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9064.32,
+  "end": 9116.01,
+  "clips": [
+   [
+    9064.32,
+    9068.25
+   ],
+   [
+    9088.16,
+    9092.17
+   ],
+   [
+    9112.08,
+    9116.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I was supposed to meet my best friend at the train station.",
+   "chunks": [
+    {
+     "en": "I was supposed to meet",
+     "ko": "만나기로 되어 있었어요"
+    },
+    {
+     "en": "my best friend",
+     "ko": "내 가장 친한 친구를"
+    },
+    {
+     "en": "at the train station.",
+     "ko": "기차역에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supposed",
+     "strong": true,
+     "link": false,
+     "syl": "pos"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meet",
+     "strong": true,
+     "link": false,
+     "syl": "meet"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "link": false,
+     "syl": "best"
+    },
+    {
+     "w": "friend",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "train",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "station.",
+     "strong": true,
+     "link": false,
+     "syl": "sta"
+    }
+   ],
+   "tip": "supposed to는 '서포스투'처럼 d를 약하게 읽어요.",
+   "start": 9064.32,
+   "end": 9068.25
+  },
+  {
+   "text": "On the way there, I realized I had left my phone at home.",
+   "chunks": [
+    {
+     "en": "On the way there,",
+     "ko": "그곳으로 가는 길에"
+    },
+    {
+     "en": "I realized",
+     "ko": "깨달았어요"
+    },
+    {
+     "en": "I had left my phone at home.",
+     "ko": "휴대폰을 집에 두고 왔다는 걸"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "there,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "realized",
+     "strong": true,
+     "link": true,
+     "syl": "real"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "left",
+     "strong": true,
+     "link": false,
+     "syl": "left"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "link": true,
+     "syl": "phone"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    }
+   ],
+   "tip": "realized I는 '리얼라이즈다이'처럼 이어 읽어요.",
+   "start": 9088.16,
+   "end": 9092.17
+  },
+  {
+   "text": "I had no way to contact her, so I started to panic.",
+   "chunks": [
+    {
+     "en": "I had no way to contact her,",
+     "ko": "그녀에게 연락할 방법이 없어서"
+    },
+    {
+     "en": "so I started to panic.",
+     "ko": "당황하기 시작했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "contact",
+     "strong": true,
+     "link": true,
+     "syl": "con"
+    },
+    {
+     "w": "her,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "panic.",
+     "strong": true,
+     "link": false,
+     "syl": "pan"
+    }
+   ],
+   "tip": "contact her는 '컨택커'처럼 her의 h를 약하게 읽어요.",
+   "start": 9112.08,
+   "end": 9116.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where was the speaker supposed to meet the friend?",
+   "options": [
+    "At a cafe",
+    "At the airport",
+    "At the train station"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: meet my best friend at the train station"
+  },
+  {
+   "q": "What did the speaker leave at home?",
+   "options": [
+    "A bag",
+    "The phone",
+    "A wallet"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: I had left my phone at home"
+  },
+  {
+   "q": "What did the speaker do when there was no way to contact the friend?",
+   "options": [
+    "Started to panic",
+    "Went home",
+    "Called a taxi"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: so I started to panic"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "be supposed to",
+   "ko": "~하기로 되어 있다",
+   "note": "약속이나 예정을 말할 때 써요."
+  },
+  {
+   "term": "on the way there",
+   "ko": "그곳으로 가는 길에",
+   "note": "on the way to 장소로도 써요."
+  },
+  {
+   "term": "leave A at home",
+   "ko": "A를 집에 두고 오다",
+   "note": "left는 leave의 과거형이에요."
+  },
+  {
+   "term": "contact",
+   "ko": "연락하다",
+   "note": "전치사 없이 바로 사람이 와요."
+  },
+  {
+   "term": "panic",
+   "ko": "당황하다",
+   "note": "start to panic은 허둥대기 시작한다는 뜻이에요."
+  }
+ ]
+}

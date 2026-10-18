@@ -1,0 +1,337 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1933.36,
+  "end": 1985.13,
+  "clips": [
+   [
+    1933.36,
+    1937.53
+   ],
+   [
+    1958.24,
+    1962.09
+   ],
+   [
+    1980.88,
+    1985.13
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My goal this year is to save enough money to travel abroad.",
+   "chunks": [
+    {
+     "en": "My goal this year",
+     "ko": "올해 내 목표는"
+    },
+    {
+     "en": "is to save enough money",
+     "ko": "충분한 돈을 모으는 것이다"
+    },
+    {
+     "en": "to travel abroad.",
+     "ko": "해외여행을 가기 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "goal",
+     "strong": true,
+     "link": false,
+     "syl": "goal"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "save",
+     "strong": true,
+     "link": false,
+     "syl": "save"
+    },
+    {
+     "w": "enough",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "link": false,
+     "syl": "mon"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "abroad.",
+     "strong": true,
+     "link": false,
+     "syl": "broad"
+    }
+   ],
+   "tip": "abroad는 두 번째 음절 -broad에 강세를 줘요.",
+   "start": 1933.36,
+   "end": 1937.53
+  },
+  {
+   "text": "I'd also like to get a high score on the speaking test.",
+   "chunks": [
+    {
+     "en": "I'd also like to get",
+     "ko": "또한 얻고 싶다"
+    },
+    {
+     "en": "a high score",
+     "ko": "높은 점수를"
+    },
+    {
+     "en": "on the speaking test.",
+     "ko": "스피킹 시험에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high",
+     "strong": true,
+     "link": false,
+     "syl": "high"
+    },
+    {
+     "w": "score",
+     "strong": true,
+     "link": false,
+     "syl": "score"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speaking",
+     "strong": true,
+     "link": false,
+     "syl": "speak"
+    },
+    {
+     "w": "test.",
+     "strong": true,
+     "link": false,
+     "syl": "test"
+    }
+   ],
+   "tip": "get a는 '게러'처럼 t가 ㄹ에 가깝게 이어져요.",
+   "start": 1958.24,
+   "end": 1962.09
+  },
+  {
+   "text": "Speaking English well would open up a lot of doors for me.",
+   "chunks": [
+    {
+     "en": "Speaking English well",
+     "ko": "영어를 잘 말하는 것은"
+    },
+    {
+     "en": "would open up",
+     "ko": "열어 줄 것이다"
+    },
+    {
+     "en": "a lot of doors for me.",
+     "ko": "나에게 많은 문들을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Speaking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "English",
+     "strong": true,
+     "link": false,
+     "syl": "Eng"
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "open",
+     "strong": true,
+     "link": true,
+     "syl": "o"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": true,
+     "syl": "lot"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doors",
+     "strong": true,
+     "link": false,
+     "syl": "doors"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "open up a lot of는 '오픈업 어랏어브'처럼 쭉 이어 읽어요.",
+   "start": 1980.88,
+   "end": 1985.13
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker want to save money for?",
+   "options": [
+    "A new car",
+    "Traveling abroad",
+    "A bigger home"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: save enough money to travel abroad"
+  },
+  {
+   "q": "Which test does the speaker want a high score on?",
+   "options": [
+    "The speaking test",
+    "The writing test",
+    "The driving test"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: a high score on the speaking test"
+  },
+  {
+   "q": "What would speaking English well do for the speaker?",
+   "options": [
+    "Make work easier",
+    "Help with cooking",
+    "Open up a lot of doors"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: would open up a lot of doors for me"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "save enough money",
+   "ko": "충분한 돈을 모으다",
+   "note": "save는 저축과 절약 둘 다 뜻해요."
+  },
+  {
+   "term": "travel abroad",
+   "ko": "해외여행을 가다",
+   "note": "abroad 앞에는 to를 쓰지 않아요."
+  },
+  {
+   "term": "get a high score",
+   "ko": "높은 점수를 받다",
+   "note": "get 대신 achieve도 쓸 수 있어요."
+  },
+  {
+   "term": "open up a lot of doors",
+   "ko": "많은 기회를 열어 주다",
+   "note": "door는 '기회'를 비유해요."
+  }
+ ]
+}

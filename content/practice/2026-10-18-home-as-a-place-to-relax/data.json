@@ -1,0 +1,207 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4477.36,
+  "end": 4504.17,
+  "clips": [
+   [
+    4477.36,
+    4481.37
+   ],
+   [
+    4501.04,
+    4504.17
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It's a place where I can truly relax after a long day.",
+   "chunks": [
+    {
+     "en": "It's a place",
+     "ko": "그곳은 장소예요"
+    },
+    {
+     "en": "where I can truly relax",
+     "ko": "제가 진정으로 쉴 수 있는"
+    },
+    {
+     "en": "after a long day.",
+     "ko": "긴 하루 뒤에"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "truly",
+     "strong": true,
+     "link": false,
+     "syl": "tru"
+    },
+    {
+     "w": "relax",
+     "strong": true,
+     "link": false,
+     "syl": "lax"
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "day.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "It's a place는 '잇써플레이스'처럼 이어 읽어요.",
+   "start": 4477.36,
+   "end": 4481.37
+  },
+  {
+   "text": "That's why I feel lucky to live here.",
+   "chunks": [
+    {
+     "en": "That's why",
+     "ko": "그래서"
+    },
+    {
+     "en": "I feel lucky",
+     "ko": "운이 좋다고 느껴요"
+    },
+    {
+     "en": "to live here.",
+     "ko": "여기 사는 게"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "why",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "lucky",
+     "strong": true,
+     "link": false,
+     "syl": "luck"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "here.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "That's why I feel은 한 호흡으로 읽고 lucky의 luck에 강세를 줘요.",
+   "start": 4501.04,
+   "end": 4504.17
+  }
+ ],
+ "questions": [
+  {
+   "q": "When can the speaker truly relax at home?",
+   "options": [
+    "Before work",
+    "After a long day",
+    "On holidays"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: relax after a long day"
+  },
+  {
+   "q": "How does the speaker feel about living here?",
+   "options": [
+    "Lucky",
+    "Worried",
+    "Lonely"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I feel lucky to live here"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "truly relax",
+   "ko": "진정으로 쉬다",
+   "note": "truly는 relax를 강조해요."
+  },
+  {
+   "term": "after a long day",
+   "ko": "긴 하루를 보낸 뒤",
+   "note": "'after a long day'는 하루 끝을 말할 때 자주 써요."
+  },
+  {
+   "term": "feel lucky to",
+   "ko": "~해서 운이 좋다고 느끼다",
+   "note": "뒤에 동사원형이 와요."
+  }
+ ]
+}

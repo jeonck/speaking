@@ -1,0 +1,302 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21925.76,
+  "end": 21972.73,
+  "clips": [
+   [
+    21925.76,
+    21929.45
+   ],
+   [
+    21947.28,
+    21951.05
+   ],
+   [
+    21968.72,
+    21972.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "On the bright side, I made a lot of new friends.",
+   "chunks": [
+    {
+     "en": "On the bright side,",
+     "ko": "좋은 점은,"
+    },
+    {
+     "en": "I made a lot of",
+     "ko": "저는 많이 사귀었어요"
+    },
+    {
+     "en": "new friends.",
+     "ko": "새 친구들을"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bright",
+     "strong": true,
+     "link": false,
+     "syl": "bright"
+    },
+    {
+     "w": "side,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": true,
+     "syl": "lot"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "friends.",
+     "strong": true,
+     "link": false,
+     "syl": "friends"
+    }
+   ],
+   "tip": "made a lot of는 '메이더랏업'처럼 이어서 읽어요.",
+   "start": 21925.76,
+   "end": 21929.45
+  },
+  {
+   "text": "Unlike before, I now enjoy cooking at home.",
+   "chunks": [
+    {
+     "en": "Unlike before,",
+     "ko": "예전과 달리,"
+    },
+    {
+     "en": "I now enjoy cooking",
+     "ko": "저는 이제 요리를 즐겨요"
+    },
+    {
+     "en": "at home.",
+     "ko": "집에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Unlike",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before,",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoy",
+     "strong": true,
+     "link": false,
+     "syl": "joy"
+    },
+    {
+     "w": "cooking",
+     "strong": true,
+     "link": true,
+     "syl": "cook"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    }
+   ],
+   "tip": "cooking at은 '쿠킹앳'처럼 g와 a를 이어서 읽어요.",
+   "start": 21947.28,
+   "end": 21951.05
+  },
+  {
+   "text": "Compared to my hometown, the city is much busier.",
+   "chunks": [
+    {
+     "en": "Compared to my hometown,",
+     "ko": "제 고향에 비하면,"
+    },
+    {
+     "en": "the city is",
+     "ko": "그 도시는"
+    },
+    {
+     "en": "much busier.",
+     "ko": "훨씬 더 붐벼요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Compared",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hometown,",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city",
+     "strong": true,
+     "link": true,
+     "syl": "ci"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false,
+     "syl": "much"
+    },
+    {
+     "w": "busier.",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    }
+   ],
+   "tip": "city is는 '시티이즈'가 아니라 '시리즈'처럼 이어 읽어요.",
+   "start": 21968.72,
+   "end": 21972.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "What good thing does the speaker mention first?",
+   "options": [
+    "Got a new job",
+    "Moved to a bigger house",
+    "Made a lot of new friends"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: I made a lot of new friends"
+  },
+  {
+   "q": "What does the speaker enjoy now?",
+   "options": [
+    "Cooking at home",
+    "Eating out",
+    "Baking bread"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I now enjoy cooking at home"
+  },
+  {
+   "q": "How does the speaker describe the city?",
+   "options": [
+    "Much quieter than the hometown",
+    "Much busier than the hometown",
+    "About the same as the hometown"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: the city is much busier"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "On the bright side",
+   "ko": "좋은 점은",
+   "note": "안 좋은 얘기 뒤에 긍정적인 면을 말할 때 써요."
+  },
+  {
+   "term": "a lot of",
+   "ko": "많은",
+   "note": "lots of와 같은 뜻이에요."
+  },
+  {
+   "term": "Unlike before",
+   "ko": "예전과 달리",
+   "note": "변화를 말할 때 써요."
+  },
+  {
+   "term": "Compared to",
+   "ko": "~에 비하면",
+   "note": "비교 대상 앞에 붙여요."
+  },
+  {
+   "term": "much busier",
+   "ko": "훨씬 더 붐비는",
+   "note": "much는 비교급을 강조해요."
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12881.6,
+  "end": 12927.69,
+  "clips": [
+   [
+    12881.6,
+    12885.29
+   ],
+   [
+    12903.52,
+    12906.73
+   ],
+   [
+    12923.52,
+    12927.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My family has changed a lot over the years, too.",
+   "chunks": [
+    {
+     "en": "My family has changed a lot",
+     "ko": "우리 가족은 많이 변했어요"
+    },
+    {
+     "en": "over the years, too.",
+     "ko": "세월이 지나면서 역시"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "link": false,
+     "syl": "fam"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": true,
+     "syl": "changed"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": false,
+     "syl": "lot"
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years,",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    },
+    {
+     "w": "too.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'changed a'는 '체인지다'처럼 이어 읽어요.",
+   "start": 12881.6,
+   "end": 12885.29
+  },
+  {
+   "text": "We used to have dinner together every night.",
+   "chunks": [
+    {
+     "en": "We used to have dinner together",
+     "ko": "우리는 함께 저녁을 먹곤 했어요"
+    },
+    {
+     "en": "every night.",
+     "ko": "매일 밤"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "dinner",
+     "strong": true,
+     "link": false,
+     "syl": "din"
+    },
+    {
+     "w": "together",
+     "strong": true,
+     "link": false,
+     "syl": "geth"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night.",
+     "strong": true,
+     "link": false,
+     "syl": "night"
+    }
+   ],
+   "tip": "'used to'는 '유스투'로 붙여 읽어요.",
+   "start": 12903.52,
+   "end": 12906.73
+  },
+  {
+   "text": "Now everyone is so busy that we only meet on holidays.",
+   "chunks": [
+    {
+     "en": "Now everyone is so busy",
+     "ko": "이제는 모두가 너무 바빠서"
+    },
+    {
+     "en": "that we only meet on holidays.",
+     "ko": "우리는 명절에만 만나요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everyone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "busy",
+     "strong": true,
+     "link": false,
+     "syl": "bu"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "meet",
+     "strong": true,
+     "link": false,
+     "syl": "meet"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "holidays.",
+     "strong": true,
+     "link": false,
+     "syl": "hol"
+    }
+   ],
+   "tip": "'only meet'는 '온리밋'처럼 부드럽게 이어요.",
+   "start": 12923.52,
+   "end": 12927.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the family do every night before?",
+   "options": [
+    "Have dinner together",
+    "Watch TV",
+    "Go for walks"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: We used to have dinner together every night"
+  },
+  {
+   "q": "Why do they rarely meet now?",
+   "options": [
+    "Everyone is busy",
+    "They moved abroad",
+    "They dislike holidays"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: everyone is so busy"
+  },
+  {
+   "q": "When does the family meet now?",
+   "options": [
+    "On holidays",
+    "Every weekend",
+    "Every night"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: we only meet on holidays"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "over the years",
+   "ko": "세월이 지나면서",
+   "note": "서서히 일어난 변화에 써요."
+  },
+  {
+   "term": "have dinner",
+   "ko": "저녁을 먹다",
+   "note": "eat dinner보다 자연스러워요."
+  },
+  {
+   "term": "so busy that",
+   "ko": "너무 바빠서 ~하다",
+   "note": "so ~ that으로 결과를 이어요."
+  },
+  {
+   "term": "on holidays",
+   "ko": "명절/휴일에",
+   "note": "특정 휴일은 on을 써요."
+  }
+ ]
+}

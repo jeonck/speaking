@@ -1,0 +1,316 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9693.28,
+  "end": 9747.85,
+  "clips": [
+   [
+    9693.28,
+    9697.37
+   ],
+   [
+    9718.08,
+    9722.25
+   ],
+   [
+    9743.6,
+    9747.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Last year, my co-workers threw me a surprise birthday party.",
+   "chunks": [
+    {
+     "en": "Last year,",
+     "ko": "작년에"
+    },
+    {
+     "en": "my co-workers",
+     "ko": "직장 동료들이"
+    },
+    {
+     "en": "threw me a surprise birthday party.",
+     "ko": "깜짝 생일 파티를 열어줬어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year,",
+     "strong": true,
+     "link": false,
+     "syl": "year"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "co-workers",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    },
+    {
+     "w": "threw",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surprise",
+     "strong": true,
+     "link": false,
+     "syl": "prise"
+    },
+    {
+     "w": "birthday",
+     "strong": true,
+     "link": false,
+     "syl": "birth"
+    },
+    {
+     "w": "party.",
+     "strong": true,
+     "link": false,
+     "syl": "par"
+    }
+   ],
+   "tip": "surprise는 두 번째 음절 prise에 강세를 둬요.",
+   "start": 9693.28,
+   "end": 9697.37
+  },
+  {
+   "text": "I had no idea because everyone acted normal all day.",
+   "chunks": [
+    {
+     "en": "I had no idea",
+     "ko": "전혀 몰랐어요"
+    },
+    {
+     "en": "because everyone acted normal all day.",
+     "ko": "모두가 하루 종일 평소처럼 행동했거든요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "idea",
+     "strong": true,
+     "link": false,
+     "syl": "dea"
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everyone",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "acted",
+     "strong": true,
+     "link": false,
+     "syl": "act"
+    },
+    {
+     "w": "normal",
+     "strong": true,
+     "link": true,
+     "syl": "nor"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day.",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    }
+   ],
+   "tip": "normal all은 '노멀롤'처럼 이어 읽어요.",
+   "start": 9718.08,
+   "end": 9722.25
+  },
+  {
+   "text": "When I opened the meeting room door, they all yelled, \"Surprise!\"",
+   "chunks": [
+    {
+     "en": "When I opened the meeting room door,",
+     "ko": "내가 회의실 문을 열자"
+    },
+    {
+     "en": "they all yelled,",
+     "ko": "모두가 외쳤어요"
+    },
+    {
+     "en": "\"Surprise!\"",
+     "ko": "'서프라이즈!'"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opened",
+     "strong": true,
+     "link": false,
+     "syl": "o"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meeting",
+     "strong": true,
+     "link": false,
+     "syl": "meet"
+    },
+    {
+     "w": "room",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "door,",
+     "strong": true,
+     "link": false,
+     "syl": "door"
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yelled,",
+     "strong": true,
+     "link": false,
+     "syl": "yell"
+    },
+    {
+     "w": "\"Surprise!\"",
+     "strong": true,
+     "link": false,
+     "syl": "prise"
+    }
+   ],
+   "tip": "\"Surprise!\"는 prise에 가장 세게 힘을 줘서 외쳐요.",
+   "start": 9743.6,
+   "end": 9747.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who threw the surprise party?",
+   "options": [
+    "The speaker's family",
+    "The speaker's co-workers",
+    "The speaker's classmates"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: my co-workers threw me a surprise birthday party"
+  },
+  {
+   "q": "Why did the speaker have no idea?",
+   "options": [
+    "Everyone acted normal all day",
+    "Everyone was away",
+    "The speaker forgot the date"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: everyone acted normal all day"
+  },
+  {
+   "q": "Where did they yell \"Surprise!\"?",
+   "options": [
+    "In the lobby",
+    "In the cafeteria",
+    "In the meeting room"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: When I opened the meeting room door"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "throw a party",
+   "ko": "파티를 열어주다",
+   "note": "threw는 throw의 과거형이에요."
+  },
+  {
+   "term": "have no idea",
+   "ko": "전혀 모르다",
+   "note": "I had no idea는 정말 몰랐다는 뜻이에요."
+  },
+  {
+   "term": "act normal",
+   "ko": "평소처럼 행동하다",
+   "note": "normal은 형용사로 써요."
+  },
+  {
+   "term": "yell",
+   "ko": "크게 외치다",
+   "note": "화났을 때뿐 아니라 기쁠 때도 써요."
+  },
+  {
+   "term": "co-workers",
+   "ko": "직장 동료",
+   "note": "colleagues와 비슷해요."
+  }
+ ]
+}

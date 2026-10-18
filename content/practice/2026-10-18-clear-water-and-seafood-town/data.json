@@ -1,0 +1,274 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6921.6,
+  "end": 6968.17,
+  "clips": [
+   [
+    6921.6,
+    6925.45
+   ],
+   [
+    6944.08,
+    6947.13
+   ],
+   [
+    6964.48,
+    6968.17
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The water is clear and the seafood is amazing.",
+   "chunks": [
+    {
+     "en": "The water is clear",
+     "ko": "물이 맑고"
+    },
+    {
+     "en": "and the seafood is amazing.",
+     "ko": "해산물이 환상적이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": true,
+     "syl": "wa",
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clear",
+     "strong": true,
+     "syl": "clear",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seafood",
+     "strong": true,
+     "syl": "sea",
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amazing.",
+     "strong": true,
+     "syl": "maz",
+     "link": false
+    }
+   ],
+   "tip": "water is, seafood is는 뒤 단어와 이어 읽어요.",
+   "start": 6921.6,
+   "end": 6925.45
+  },
+  {
+   "text": "I've been there at least five times.",
+   "chunks": [
+    {
+     "en": "I've been there",
+     "ko": "저는 그곳에 가 봤어요"
+    },
+    {
+     "en": "at least five times.",
+     "ko": "적어도 다섯 번"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": true,
+     "syl": "least",
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": true,
+     "syl": "five",
+     "link": false
+    },
+    {
+     "w": "times.",
+     "strong": true,
+     "syl": "times",
+     "link": false
+    }
+   ],
+   "tip": "there at은 '데어랫'처럼 이어 읽어요.",
+   "start": 6944.08,
+   "end": 6947.13
+  },
+  {
+   "text": "Before a trip, I always do a lot of research.",
+   "chunks": [
+    {
+     "en": "Before a trip,",
+     "ko": "여행 전에"
+    },
+    {
+     "en": "I always do a lot of research.",
+     "ko": "저는 항상 조사를 많이 해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Before",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip,",
+     "strong": true,
+     "syl": "trip",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "syl": "al",
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "syl": "lot",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "research.",
+     "strong": true,
+     "syl": "search",
+     "link": false
+    }
+   ],
+   "tip": "a lot of는 '얼라러브'처럼 빠르게 이어 읽어요.",
+   "start": 6964.48,
+   "end": 6968.17
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker describe the water?",
+   "options": [
+    "Clear",
+    "Cold",
+    "Rough"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: The water is clear"
+  },
+  {
+   "q": "How many times has the speaker been there?",
+   "options": [
+    "At least three times",
+    "At least five times",
+    "Only once"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: at least five times"
+  },
+  {
+   "q": "What does the speaker do before a trip?",
+   "options": [
+    "Pack early",
+    "Ask friends for money",
+    "A lot of research"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I always do a lot of research"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "amazing",
+   "ko": "놀라운, 굉장한",
+   "note": "맛이나 풍경 모두에 쓸 수 있어요."
+  },
+  {
+   "term": "at least five times",
+   "ko": "적어도 다섯 번",
+   "note": "횟수는 'number + times'로 말해요."
+  },
+  {
+   "term": "do research",
+   "ko": "조사하다",
+   "note": "research는 셀 수 없는 명사예요."
+  },
+  {
+   "term": "a lot of",
+   "ko": "많은",
+   "note": "말할 때는 '어로러브'처럼 들려요."
+  }
+ ]
+}

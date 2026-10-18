@@ -1,0 +1,295 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 920.64,
+  "end": 968.41,
+  "clips": [
+   [
+    920.64,
+    925.05
+   ],
+   [
+    945.04,
+    948.65
+   ],
+   [
+    965.2,
+    968.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Sometimes I watch an episode or two of a drama before bed.",
+   "chunks": [
+    {
+     "en": "Sometimes I watch",
+     "ko": "가끔 나는 본다"
+    },
+    {
+     "en": "an episode or two",
+     "ko": "한두 편을"
+    },
+    {
+     "en": "of a drama",
+     "ko": "드라마의"
+    },
+    {
+     "en": "before bed.",
+     "ko": "자기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sometimes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "watch",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "episode",
+     "strong": true,
+     "syl": "pi",
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drama",
+     "strong": true,
+     "syl": "dra",
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bed.",
+     "strong": true,
+     "syl": "bed",
+     "link": false
+    }
+   ],
+   "tip": "episode or two of a는 '에피소더투오버러'처럼 이어서 읽어요.",
+   "start": 920.64,
+   "end": 925.05
+  },
+  {
+   "text": "I try not to look at my phone after 11.",
+   "chunks": [
+    {
+     "en": "I try not to look",
+     "ko": "나는 보지 않으려고 노력한다"
+    },
+    {
+     "en": "at my phone",
+     "ko": "내 휴대폰을"
+    },
+    {
+     "en": "after 11.",
+     "ko": "11시 이후에는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "11.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "look at은 '루캣'처럼 이어 읽어요.",
+   "start": 945.04,
+   "end": 948.65
+  },
+  {
+   "text": "I usually go to bed around 11.",
+   "chunks": [
+    {
+     "en": "I usually go to bed",
+     "ko": "나는 보통 자러 간다"
+    },
+    {
+     "en": "around 11.",
+     "ko": "11시쯤"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "syl": "u",
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bed",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "around",
+     "strong": true,
+     "syl": "round",
+     "link": false
+    },
+    {
+     "w": "11.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "bed around는 '베다라운드'처럼 d와 a가 이어져요.",
+   "start": 965.2,
+   "end": 968.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker sometimes watch before bed?",
+   "options": [
+    "A movie",
+    "An episode or two of a drama",
+    "The news"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: an episode or two of a drama before bed"
+  },
+  {
+   "q": "What does the speaker try to avoid after 11?",
+   "options": [
+    "Looking at the phone",
+    "Drinking coffee",
+    "Watching dramas"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I try not to look at my phone after 11"
+  },
+  {
+   "q": "When does the speaker usually go to bed?",
+   "options": [
+    "Around 10",
+    "Around midnight",
+    "Around 11"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I usually go to bed around 11"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "an episode or two",
+   "ko": "한두 편",
+   "note": "드라마 편수를 말할 때 쓰는 가벼운 표현이에요."
+  },
+  {
+   "term": "before bed",
+   "ko": "자기 전에",
+   "note": "'at night'보다 잠들기 직전의 느낌이에요."
+  },
+  {
+   "term": "try not to",
+   "ko": "~하지 않으려고 노력하다",
+   "note": "not은 to 앞에 둬요."
+  },
+  {
+   "term": "around 11",
+   "ko": "11시쯤",
+   "note": "around는 대략적인 시각을 말할 때 써요."
+  }
+ ]
+}

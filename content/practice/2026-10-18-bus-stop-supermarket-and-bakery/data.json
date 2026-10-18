@@ -1,0 +1,314 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3242.08,
+  "end": 3292.17,
+  "clips": [
+   [
+    3242.08,
+    3246.25
+   ],
+   [
+    3265.12,
+    3268.57
+   ],
+   [
+    3287.36,
+    3292.17
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The bus stop is right in front of our apartment complex.",
+   "chunks": [
+    {
+     "en": "The bus stop",
+     "ko": "버스 정류장은"
+    },
+    {
+     "en": "is right in front of",
+     "ko": "바로 앞에 있어요"
+    },
+    {
+     "en": "our apartment complex.",
+     "ko": "우리 아파트 단지의"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bus",
+     "strong": true,
+     "syl": "bus",
+     "link": false
+    },
+    {
+     "w": "stop",
+     "strong": true,
+     "syl": "stop",
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "front",
+     "strong": true,
+     "syl": "front",
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "apartment",
+     "strong": true,
+     "syl": "part",
+     "link": false
+    },
+    {
+     "w": "complex.",
+     "strong": true,
+     "syl": "com",
+     "link": false
+    }
+   ],
+   "tip": "right in front of는 '라이린프런토브'처럼 이어 읽어요.",
+   "start": 3242.08,
+   "end": 3246.25
+  },
+  {
+   "text": "There's a big supermarket right across the street.",
+   "chunks": [
+    {
+     "en": "There's a big supermarket",
+     "ko": "큰 슈퍼마켓이 있어요"
+    },
+    {
+     "en": "right across the street.",
+     "ko": "길 바로 건너편에"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "syl": "big",
+     "link": false
+    },
+    {
+     "w": "supermarket",
+     "strong": true,
+     "syl": "su",
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "across",
+     "strong": true,
+     "syl": "cross",
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "street.",
+     "strong": true,
+     "syl": "street",
+     "link": false
+    }
+   ],
+   "tip": "supermarket은 첫 음절 su에 강세를 두고, right across the street는 across의 cross를 살려요.",
+   "start": 3265.12,
+   "end": 3268.57
+  },
+  {
+   "text": "We also have a bakery, a pharmacy, and a few restaurants nearby.",
+   "chunks": [
+    {
+     "en": "We also have a bakery,",
+     "ko": "우리는 빵집도 있어요"
+    },
+    {
+     "en": "a pharmacy,",
+     "ko": "약국"
+    },
+    {
+     "en": "and a few restaurants nearby.",
+     "ko": "그리고 식당 몇 곳이 근처에"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bakery,",
+     "strong": true,
+     "syl": "ba",
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pharmacy,",
+     "strong": true,
+     "syl": "phar",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "restaurants",
+     "strong": true,
+     "syl": "rest",
+     "link": false
+    },
+    {
+     "w": "nearby.",
+     "strong": true,
+     "syl": "by",
+     "link": false
+    }
+   ],
+   "tip": "pharmacy는 '파머시', restaurants는 'ㄹ레스트란츠'로 읽어요.",
+   "start": 3287.36,
+   "end": 3292.17
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the bus stop?",
+   "options": [
+    "Right in front of the apartment complex",
+    "Behind the supermarket",
+    "Next to the bakery"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: right in front of our apartment complex"
+  },
+  {
+   "q": "What is right across the street?",
+   "options": [
+    "A big supermarket",
+    "A small park",
+    "A subway station"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: a big supermarket right across the street"
+  },
+  {
+   "q": "Which of these is nearby?",
+   "options": [
+    "A pharmacy",
+    "A bank",
+    "A cinema"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: a bakery, a pharmacy, and a few restaurants nearby"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "in front of",
+   "ko": "~의 앞에",
+   "note": "'인프런토브'처럼 이어 읽어요"
+  },
+  {
+   "term": "apartment complex",
+   "ko": "아파트 단지",
+   "note": "여러 동이 있는 단지를 말해요"
+  },
+  {
+   "term": "across the street",
+   "ko": "길 건너편에",
+   "note": "street 뒤에 from을 붙일 수도 있어요"
+  },
+  {
+   "term": "pharmacy",
+   "ko": "약국",
+   "note": "미국 구어에서는 drugstore라고도 해요"
+  },
+  {
+   "term": "nearby",
+   "ko": "근처에",
+   "note": "부사로 쓰이며 문장 끝에 자주 와요"
+  }
+ ]
+}

@@ -1,0 +1,315 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12242.8,
+  "end": 12293.37,
+  "clips": [
+   [
+    12242.8,
+    12246.97
+   ],
+   [
+    12266.64,
+    12270.73
+   ],
+   [
+    12290.08,
+    12293.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I used to hate exercising, but now I can't live without it.",
+   "chunks": [
+    {
+     "en": "I used to hate exercising,",
+     "ko": "나는 운동을 싫어했었지만,"
+    },
+    {
+     "en": "but now I can't live",
+     "ko": "이제는 살 수 없어요"
+    },
+    {
+     "en": "without it.",
+     "ko": "그것 없이는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hate",
+     "strong": true,
+     "link": false,
+     "syl": "hate"
+    },
+    {
+     "w": "exercising,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": true,
+     "link": false,
+     "syl": "now"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": false,
+     "syl": "live"
+    },
+    {
+     "w": "without",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "can't live는 can't의 't'를 거의 삼키고 live를 강조해요.",
+   "start": 12242.8,
+   "end": 12246.97
+  },
+  {
+   "text": "It all started when a friend dragged me to a yoga class.",
+   "chunks": [
+    {
+     "en": "It all started",
+     "ko": "그 모든 것은 시작됐어요"
+    },
+    {
+     "en": "when a friend dragged me",
+     "ko": "친구가 나를 끌고 갔을 때"
+    },
+    {
+     "en": "to a yoga class.",
+     "ko": "요가 수업에"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    },
+    {
+     "w": "dragged",
+     "strong": true,
+     "link": false,
+     "syl": "dragged"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yoga",
+     "strong": true,
+     "link": false,
+     "syl": "yo"
+    },
+    {
+     "w": "class.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "dragged me는 '드래그드미'로 d를 가볍게 이어 읽어요.",
+   "start": 12266.64,
+   "end": 12270.73
+  },
+  {
+   "text": "At first, I could barely touch my toes.",
+   "chunks": [
+    {
+     "en": "At first,",
+     "ko": "처음에는,"
+    },
+    {
+     "en": "I could barely touch",
+     "ko": "나는 겨우 닿을 수 있었어요"
+    },
+    {
+     "en": "my toes.",
+     "ko": "내 발끝에"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "first,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "barely",
+     "strong": true,
+     "link": false,
+     "syl": "bare"
+    },
+    {
+     "w": "touch",
+     "strong": true,
+     "link": false,
+     "syl": "touch"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "toes.",
+     "strong": true,
+     "link": false,
+     "syl": "toes"
+    }
+   ],
+   "tip": "barely는 '베얼리'로 첫 음절을 세게 읽어요.",
+   "start": 12290.08,
+   "end": 12293.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the speaker feel about exercising before?",
+   "options": [
+    "Loved it",
+    "Hated it",
+    "Never thought about it"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I used to hate exercising"
+  },
+  {
+   "q": "Who took the speaker to a yoga class?",
+   "options": [
+    "A teacher",
+    "A coworker",
+    "A friend"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: a friend dragged me to a yoga class"
+  },
+  {
+   "q": "What could the speaker barely do at first?",
+   "options": [
+    "Touch the toes",
+    "Run a mile",
+    "Lift weights"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I could barely touch my toes"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "used to hate",
+   "ko": "싫어했었다",
+   "note": "지금은 아니라는 뉘앙스가 있어요."
+  },
+  {
+   "term": "can't live without",
+   "ko": "~ 없이는 못 산다",
+   "note": "좋아하는 것을 강조할 때 써요."
+  },
+  {
+   "term": "dragged me to",
+   "ko": "나를 억지로 데려갔다",
+   "note": "drag는 끌고 가다예요."
+  },
+  {
+   "term": "barely",
+   "ko": "겨우, 간신히",
+   "note": "거의 못 한다는 부정적 뉘앙스예요."
+  }
+ ]
+}

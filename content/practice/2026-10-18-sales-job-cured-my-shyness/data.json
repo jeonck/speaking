@@ -1,0 +1,307 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12521.76,
+  "end": 12575.45,
+  "clips": [
+   [
+    12521.76,
+    12525.93
+   ],
+   [
+    12546.48,
+    12551.13
+   ],
+   [
+    12572.08,
+    12575.45
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Working in sales forced me to step out of my comfort zone.",
+   "chunks": [
+    {
+     "en": "Working in sales",
+     "ko": "영업 일을 하는 것이"
+    },
+    {
+     "en": "forced me",
+     "ko": "저를 강제로 ~하게 했어요"
+    },
+    {
+     "en": "to step out of my comfort zone.",
+     "ko": "안전지대 밖으로 나오게"
+    }
+   ],
+   "words": [
+    {
+     "w": "Working",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sales",
+     "strong": true,
+     "link": false,
+     "syl": "sales"
+    },
+    {
+     "w": "forced",
+     "strong": true,
+     "link": false,
+     "syl": "forced"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "step",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comfort",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "zone.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'out of'는 '아우롭'처럼 이어 읽어요.",
+   "start": 12521.76,
+   "end": 12525.93
+  },
+  {
+   "text": "Now I actually enjoy meeting people and starting conversations.",
+   "chunks": [
+    {
+     "en": "Now I actually enjoy",
+     "ko": "지금은 정말로 즐겨요"
+    },
+    {
+     "en": "meeting people",
+     "ko": "사람들을 만나는 걸"
+    },
+    {
+     "en": "and starting conversations.",
+     "ko": "그리고 대화를 시작하는 걸"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoy",
+     "strong": true,
+     "link": false,
+     "syl": "joy"
+    },
+    {
+     "w": "meeting",
+     "strong": true,
+     "link": false,
+     "syl": "meet"
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "starting",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "conversations.",
+     "strong": true,
+     "link": false,
+     "syl": "sa"
+    }
+   ],
+   "tip": "'and'는 약하게 '앤'으로 줄이고 meeting, starting에 힘을 줘요.",
+   "start": 12546.48,
+   "end": 12551.13
+  },
+  {
+   "text": "I'm also much more patient than I used to be.",
+   "chunks": [
+    {
+     "en": "I'm also much more patient",
+     "ko": "저는 또한 훨씬 더 참을성이 있어요"
+    },
+    {
+     "en": "than I used to be.",
+     "ko": "예전보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false,
+     "syl": "much"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patient",
+     "strong": true,
+     "link": false,
+     "syl": "pa"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": true,
+     "link": true,
+     "syl": "used"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'used to be'는 '유스투비'처럼 한 덩어리로 읽어요.",
+   "start": 12572.08,
+   "end": 12575.45
+  }
+ ],
+ "questions": [
+  {
+   "q": "What made the speaker leave their comfort zone?",
+   "options": [
+    "A sales job",
+    "A trip abroad",
+    "A new school"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Working in sales forced me to step out of my comfort zone"
+  },
+  {
+   "q": "What does the speaker enjoy now?",
+   "options": [
+    "Meeting people",
+    "Staying home",
+    "Reading alone"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I actually enjoy meeting people"
+  },
+  {
+   "q": "What else is better about the speaker now?",
+   "options": [
+    "They are more patient",
+    "They are taller",
+    "They are richer"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I'm also much more patient"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "step out of one's comfort zone",
+   "ko": "안전지대를 벗어나다",
+   "note": "새로운 도전을 말할 때 자주 써요."
+  },
+  {
+   "term": "sales",
+   "ko": "영업",
+   "note": "직무를 말할 때 working in sales라고 해요."
+  },
+  {
+   "term": "start a conversation",
+   "ko": "대화를 시작하다",
+   "note": "start 대신 strike up도 써요."
+  },
+  {
+   "term": "than I used to be",
+   "ko": "예전의 나보다",
+   "note": "변화 비교의 마무리 표현이에요."
+  }
+ ]
+}

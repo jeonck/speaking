@@ -1,0 +1,331 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12381.12,
+  "end": 12434.57,
+  "clips": [
+   [
+    12381.12,
+    12385.85
+   ],
+   [
+    12408.24,
+    12412.25
+   ],
+   [
+    12430.48,
+    12434.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now I pay a monthly fee and stream whatever I feel like listening to.",
+   "chunks": [
+    {
+     "en": "Now I pay a monthly fee",
+     "ko": "이제 나는 월 이용료를 내고"
+    },
+    {
+     "en": "and stream whatever",
+     "ko": "무엇이든 스트리밍해요"
+    },
+    {
+     "en": "I feel like listening to.",
+     "ko": "듣고 싶은 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pay",
+     "strong": true,
+     "link": false,
+     "syl": "pay"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "monthly",
+     "strong": true,
+     "link": false,
+     "syl": "month"
+    },
+    {
+     "w": "fee",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "stream",
+     "strong": true,
+     "link": false,
+     "syl": "stream"
+    },
+    {
+     "w": "whatever",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listening",
+     "strong": true,
+     "link": false,
+     "syl": "lis"
+    },
+    {
+     "w": "to.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "feel like listening은 'feel like'를 이어 읽어요.",
+   "start": 12381.12,
+   "end": 12385.85
+  },
+  {
+   "text": "Similarly, I rarely go to the movies these days.",
+   "chunks": [
+    {
+     "en": "Similarly,",
+     "ko": "마찬가지로,"
+    },
+    {
+     "en": "I rarely go to the movies",
+     "ko": "나는 영화관에 거의 안 가요"
+    },
+    {
+     "en": "these days.",
+     "ko": "요즘"
+    }
+   ],
+   "words": [
+    {
+     "w": "Similarly,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rarely",
+     "strong": true,
+     "link": true,
+     "syl": "rare"
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "movies",
+     "strong": true,
+     "link": false,
+     "syl": "mov"
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days.",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    }
+   ],
+   "tip": "rarely는 '레얼리'로 첫 음절을 세게 읽어요.",
+   "start": 12408.24,
+   "end": 12412.25
+  },
+  {
+   "text": "It's more comfortable to watch films at home on a big TV.",
+   "chunks": [
+    {
+     "en": "It's more comfortable",
+     "ko": "더 편안해요"
+    },
+    {
+     "en": "to watch films at home",
+     "ko": "집에서 영화를 보는 게"
+    },
+    {
+     "en": "on a big TV.",
+     "ko": "큰 TV로"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comfortable",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "watch",
+     "strong": true,
+     "link": true,
+     "syl": "watch"
+    },
+    {
+     "w": "films",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "TV.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "comfortable은 'comf-ta-ble' 세 음절로 읽어요.",
+   "start": 12430.48,
+   "end": 12434.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker pay for music?",
+   "options": [
+    "Per song",
+    "A monthly fee",
+    "Not at all"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: pay a monthly fee and stream"
+  },
+  {
+   "q": "How often does the speaker go to the movies?",
+   "options": [
+    "Rarely",
+    "Every week",
+    "Every day"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I rarely go to the movies"
+  },
+  {
+   "q": "Where does the speaker prefer to watch films?",
+   "options": [
+    "At a theater",
+    "On a phone",
+    "At home on a big TV"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: watch films at home on a big TV"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "monthly fee",
+   "ko": "월 이용료",
+   "note": "구독 서비스 비용을 말해요."
+  },
+  {
+   "term": "stream",
+   "ko": "스트리밍하다",
+   "note": "인터넷으로 바로 재생한다는 뜻이에요."
+  },
+  {
+   "term": "feel like",
+   "ko": "~하고 싶다",
+   "note": "feel like + -ing 형태예요."
+  },
+  {
+   "term": "rarely",
+   "ko": "거의 ~하지 않다",
+   "note": "빈도가 매우 낮을 때 써요."
+  }
+ ]
+}

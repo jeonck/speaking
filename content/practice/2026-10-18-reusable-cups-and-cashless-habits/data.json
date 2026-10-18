@@ -1,0 +1,300 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13018.8,
+  "end": 13070.41,
+  "clips": [
+   [
+    13018.8,
+    13023.21
+   ],
+   [
+    13043.52,
+    13047.93
+   ],
+   [
+    13067.2,
+    13070.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "People seem more aware of environmental issues these days.",
+   "chunks": [
+    {
+     "en": "People seem more aware",
+     "ko": "사람들은 더 잘 알고 있는 것 같아요"
+    },
+    {
+     "en": "of environmental issues",
+     "ko": "환경 문제를"
+    },
+    {
+     "en": "these days.",
+     "ko": "요즘"
+    }
+   ],
+   "words": [
+    {
+     "w": "People",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "seem",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "aware",
+     "strong": true,
+     "link": true,
+     "syl": "ware"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "environmental",
+     "strong": true,
+     "link": false,
+     "syl": "ron"
+    },
+    {
+     "w": "issues",
+     "strong": true,
+     "link": false,
+     "syl": "is"
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days.",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    }
+   ],
+   "tip": "'aware of'는 '어웨어러브'처럼 이어 읽어요.",
+   "start": 13018.8,
+   "end": 13023.21
+  },
+  {
+   "text": "I now bring a reusable cup and a shopping bag when I go out.",
+   "chunks": [
+    {
+     "en": "I now bring a reusable cup",
+     "ko": "저는 이제 재사용 컵을 가져가요"
+    },
+    {
+     "en": "and a shopping bag",
+     "ko": "그리고 장바구니를"
+    },
+    {
+     "en": "when I go out.",
+     "ko": "외출할 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": true,
+     "link": false,
+     "syl": "bring"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reusable",
+     "strong": true,
+     "link": false,
+     "syl": "usa"
+    },
+    {
+     "w": "cup",
+     "strong": true,
+     "link": false,
+     "syl": "cup"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shopping",
+     "strong": true,
+     "link": false,
+     "syl": "shop"
+    },
+    {
+     "w": "bag",
+     "strong": true,
+     "link": false,
+     "syl": "bag"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'reusable'은 '리유저블'로 가운데 -us-에 강세를 둬요.",
+   "start": 13043.52,
+   "end": 13047.93
+  },
+  {
+   "text": "I hardly ever carry cash anymore.",
+   "chunks": [
+    {
+     "en": "I hardly ever carry cash",
+     "ko": "저는 현금을 거의 안 들고 다녀요"
+    },
+    {
+     "en": "anymore.",
+     "ko": "이제는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hardly",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "ever",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carry",
+     "strong": true,
+     "link": false,
+     "syl": "car"
+    },
+    {
+     "w": "cash",
+     "strong": true,
+     "link": false,
+     "syl": "cash"
+    },
+    {
+     "w": "anymore.",
+     "strong": true,
+     "link": false,
+     "syl": "more"
+    }
+   ],
+   "tip": "'hardly ever'는 '하들리에버'처럼 이어요.",
+   "start": 13067.2,
+   "end": 13070.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do people seem more aware of?",
+   "options": [
+    "Environmental issues",
+    "Fashion trends",
+    "Sports news"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: more aware of environmental issues"
+  },
+  {
+   "q": "What does the speaker bring when going out?",
+   "options": [
+    "A reusable cup and a shopping bag",
+    "A water bottle only",
+    "A big umbrella"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: a reusable cup and a shopping bag"
+  },
+  {
+   "q": "What does the speaker rarely carry now?",
+   "options": [
+    "Cash",
+    "A phone",
+    "Keys"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I hardly ever carry cash anymore"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "aware of",
+   "ko": "~을 인식하는",
+   "note": "of 뒤에 대상을 붙여요."
+  },
+  {
+   "term": "reusable",
+   "ko": "재사용 가능한",
+   "note": "reuse에 -able을 붙인 말이에요."
+  },
+  {
+   "term": "go out",
+   "ko": "외출하다",
+   "note": "집 밖으로 나갈 때 써요."
+  },
+  {
+   "term": "hardly ever",
+   "ko": "거의 ~않다",
+   "note": "never에 가까운 빈도예요."
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15854.72,
+  "end": 15917.37,
+  "clips": [
+   [
+    15854.72,
+    15858.33
+   ],
+   [
+    15875.68,
+    15878.81
+   ],
+   [
+    15894.48,
+    15897.77
+   ],
+   [
+    15914.4,
+    15917.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Thank you for taking the time to help me with this.",
+   "chunks": [
+    {
+     "en": "Thank you for taking the time",
+     "ko": "시간을 내주셔서 감사합니다"
+    },
+    {
+     "en": "to help me with this.",
+     "ko": "이 일을 도와주신"
+    }
+   ],
+   "words": [
+    {
+     "w": "Thank",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taking",
+     "strong": true,
+     "link": false,
+     "syl": "tak"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": true,
+     "link": false,
+     "syl": "help"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Thank you for는 '땡큐퍼'로 가볍게 이어 읽어요.",
+   "start": 15854.72,
+   "end": 15858.33
+  },
+  {
+   "text": "That sounds like a great solution to me.",
+   "chunks": [
+    {
+     "en": "That sounds like a great solution",
+     "ko": "정말 좋은 해결책 같네요"
+    },
+    {
+     "en": "to me.",
+     "ko": "저에게는"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sounds",
+     "strong": true,
+     "link": false,
+     "syl": "sounds"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false,
+     "syl": "great"
+    },
+    {
+     "w": "solution",
+     "strong": true,
+     "link": false,
+     "syl": "lu"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "like a는 '라이커'처럼 이어 읽어요.",
+   "start": 15875.68,
+   "end": 15878.81
+  },
+  {
+   "text": "I hope we can sort everything out by Friday.",
+   "chunks": [
+    {
+     "en": "I hope we can sort everything out",
+     "ko": "모든 걸 정리할 수 있기를 바라요"
+    },
+    {
+     "en": "by Friday.",
+     "ko": "금요일까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hope",
+     "strong": true,
+     "link": false,
+     "syl": "hope"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sort",
+     "strong": true,
+     "link": true,
+     "syl": "sort"
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": true,
+     "syl": "every"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Friday.",
+     "strong": true,
+     "link": false,
+     "syl": "Fri"
+    }
+   ],
+   "tip": "sort everything out은 '소르에브리띵아웃'처럼 이어 읽어요.",
+   "start": 15894.48,
+   "end": 15897.77
+  },
+  {
+   "text": "Thanks again and have a nice day.",
+   "chunks": [
+    {
+     "en": "Thanks again",
+     "ko": "다시 한번 감사해요"
+    },
+    {
+     "en": "and have a nice day.",
+     "ko": "좋은 하루 보내세요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Thanks",
+     "strong": true,
+     "link": false,
+     "syl": "thanks"
+    },
+    {
+     "w": "again",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nice",
+     "strong": true,
+     "link": false,
+     "syl": "nice"
+    },
+    {
+     "w": "day.",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    }
+   ],
+   "tip": "have a은 '해버'처럼 이어 읽어요.",
+   "start": 15914.4,
+   "end": 15917.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker thank the person for?",
+   "options": [
+    "Lending money",
+    "Sending a gift",
+    "Taking the time to help"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: Thank you for taking the time to help me"
+  },
+  {
+   "q": "When does the speaker hope to sort everything out?",
+   "options": [
+    "By Friday",
+    "By Monday",
+    "By Sunday"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: sort everything out by Friday"
+  },
+  {
+   "q": "How does the speaker feel about the solution?",
+   "options": [
+    "It is too slow",
+    "It sounds great",
+    "It is confusing"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: That sounds like a great solution"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "take the time to",
+   "ko": "시간을 내서 ~하다",
+   "note": "감사 인사에 자주 쓰는 표현이에요."
+  },
+  {
+   "term": "sounds like",
+   "ko": "~처럼 들리다",
+   "note": "제안에 동의할 때 써요."
+  },
+  {
+   "term": "solution",
+   "ko": "해결책",
+   "note": "강세는 -lu-에 있어요."
+  },
+  {
+   "term": "sort out",
+   "ko": "해결하다, 정리하다",
+   "note": "문제를 정리해 끝낼 때 써요."
+  },
+  {
+   "term": "have a nice day",
+   "ko": "좋은 하루 보내세요",
+   "note": "통화나 대화를 마칠 때 써요."
+  }
+ ]
+}

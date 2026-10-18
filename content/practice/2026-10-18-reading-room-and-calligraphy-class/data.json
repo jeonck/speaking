@@ -1,0 +1,306 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3941.28,
+  "end": 3992.89,
+  "clips": [
+   [
+    3941.28,
+    3945.69
+   ],
+   [
+    3964.16,
+    3968.33
+   ],
+   [
+    3988.8,
+    3992.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It's quiet and it has a nice reading room on the top floor.",
+   "chunks": [
+    {
+     "en": "It's quiet",
+     "ko": "조용하고"
+    },
+    {
+     "en": "and it has a nice reading room",
+     "ko": "좋은 열람실도 있어요"
+    },
+    {
+     "en": "on the top floor.",
+     "ko": "맨 위층에"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "link": false,
+     "syl": "qui"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nice",
+     "strong": true,
+     "link": false,
+     "syl": "nice"
+    },
+    {
+     "w": "reading",
+     "strong": true,
+     "link": false,
+     "syl": "read"
+    },
+    {
+     "w": "room",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "top",
+     "strong": true,
+     "link": false,
+     "syl": "top"
+    },
+    {
+     "w": "floor.",
+     "strong": true,
+     "link": false,
+     "syl": "floor"
+    }
+   ],
+   "tip": "'quiet'는 '콰이엇' 두 음절이에요. 'quite'와 헷갈리지 않게 읽어요.",
+   "start": 3941.28,
+   "end": 3945.69
+  },
+  {
+   "text": "There's also a community center that offers free classes.",
+   "chunks": [
+    {
+     "en": "There's also a community center",
+     "ko": "주민센터도 있어요"
+    },
+    {
+     "en": "that offers free classes.",
+     "ko": "무료 수업을 제공하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "community",
+     "strong": true,
+     "link": false,
+     "syl": "mu"
+    },
+    {
+     "w": "center",
+     "strong": true,
+     "link": false,
+     "syl": "cen"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "offers",
+     "strong": true,
+     "link": true,
+     "syl": "of"
+    },
+    {
+     "w": "free",
+     "strong": true,
+     "link": false,
+     "syl": "free"
+    },
+    {
+     "w": "classes.",
+     "strong": true,
+     "link": false,
+     "syl": "class"
+    }
+   ],
+   "tip": "'community'는 두 번째 음절 mu에 강세가 와서 '커뮤너티'처럼 읽어요.",
+   "start": 3964.16,
+   "end": 3968.33
+  },
+  {
+   "text": "My dad takes a calligraphy class there on Tuesdays.",
+   "chunks": [
+    {
+     "en": "My dad takes a calligraphy class",
+     "ko": "아빠가 서예 수업을 들어요"
+    },
+    {
+     "en": "there on Tuesdays.",
+     "ko": "거기서 화요일마다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dad",
+     "strong": true,
+     "link": false,
+     "syl": "dad"
+    },
+    {
+     "w": "takes",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "calligraphy",
+     "strong": true,
+     "link": false,
+     "syl": "lig"
+    },
+    {
+     "w": "class",
+     "strong": true,
+     "link": false,
+     "syl": "class"
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Tuesdays.",
+     "strong": true,
+     "link": false,
+     "syl": "tues"
+    }
+   ],
+   "tip": "'takes a'는 '테익서'처럼 s와 a가 이어져요.",
+   "start": 3988.8,
+   "end": 3992.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the reading room?",
+   "options": [
+    "On the top floor",
+    "In the basement",
+    "Next to the entrance"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: a nice reading room on the top floor"
+  },
+  {
+   "q": "What does the community center offer?",
+   "options": [
+    "Free classes",
+    "Cheap meals",
+    "Sports equipment"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: offers free classes"
+  },
+  {
+   "q": "When does the speaker's dad take the calligraphy class?",
+   "options": [
+    "On Tuesdays",
+    "On Sundays",
+    "Every morning"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: calligraphy class there on Tuesdays"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "reading room",
+   "ko": "열람실",
+   "note": "도서관의 조용한 독서 공간이에요."
+  },
+  {
+   "term": "community center",
+   "ko": "주민센터, 커뮤니티 센터",
+   "note": "동네 사람들을 위한 시설이에요."
+  },
+  {
+   "term": "offer",
+   "ko": "제공하다",
+   "note": "서비스나 수업을 제공할 때 써요."
+  },
+  {
+   "term": "calligraphy",
+   "ko": "서예",
+   "note": "발음이 어려우니 '컬리그러피'로 연습해 보세요."
+  }
+ ]
+}

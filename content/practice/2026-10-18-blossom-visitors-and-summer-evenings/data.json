@@ -1,0 +1,299 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3526.48,
+  "end": 3576.73,
+  "clips": [
+   [
+    3526.48,
+    3530.33
+   ],
+   [
+    3549.28,
+    3553.45
+   ],
+   [
+    3572.4,
+    3576.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "People come from other neighborhoods just to see them.",
+   "chunks": [
+    {
+     "en": "People come from",
+     "ko": "사람들이 와요"
+    },
+    {
+     "en": "other neighborhoods",
+     "ko": "다른 동네에서"
+    },
+    {
+     "en": "just to see them.",
+     "ko": "그저 그것들을 보려고"
+    }
+   ],
+   "words": [
+    {
+     "w": "People",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "come",
+     "strong": true,
+     "link": true,
+     "syl": "come"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": true,
+     "link": false,
+     "syl": "oth"
+    },
+    {
+     "w": "neighborhoods",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": true,
+     "link": false,
+     "syl": "see"
+    },
+    {
+     "w": "them.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'come from'은 '컴프럼'처럼 from이 약해져 붙어요.",
+   "start": 3526.48,
+   "end": 3530.33
+  },
+  {
+   "text": "On summer evenings, families gather there to cool off.",
+   "chunks": [
+    {
+     "en": "On summer evenings,",
+     "ko": "여름 저녁에는"
+    },
+    {
+     "en": "families gather there",
+     "ko": "가족들이 거기 모여요"
+    },
+    {
+     "en": "to cool off.",
+     "ko": "열기를 식히려고"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "summer",
+     "strong": true,
+     "link": false,
+     "syl": "sum"
+    },
+    {
+     "w": "evenings,",
+     "strong": true,
+     "link": false,
+     "syl": "eve"
+    },
+    {
+     "w": "families",
+     "strong": true,
+     "link": false,
+     "syl": "fam"
+    },
+    {
+     "w": "gather",
+     "strong": true,
+     "link": false,
+     "syl": "gath"
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cool",
+     "strong": true,
+     "link": true,
+     "syl": "cool"
+    },
+    {
+     "w": "off.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'cool off'는 '쿨오프'처럼 l과 o가 이어져 부드럽게 들려요.",
+   "start": 3549.28,
+   "end": 3553.45
+  },
+  {
+   "text": "I often see older people doing exercises in the morning.",
+   "chunks": [
+    {
+     "en": "I often see older people",
+     "ko": "저는 나이 드신 분들을 자주 봐요"
+    },
+    {
+     "en": "doing exercises",
+     "ko": "운동을 하는"
+    },
+    {
+     "en": "in the morning.",
+     "ko": "아침에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "often",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "older",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exercises",
+     "strong": true,
+     "link": true,
+     "syl": "ex"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning.",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    }
+   ],
+   "tip": "'often'은 t를 거의 발음하지 않고 '오픈'에 가깝게 읽어요.",
+   "start": 3572.4,
+   "end": 3576.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why do people come from other neighborhoods?",
+   "options": [
+    "To see the cherry blossoms",
+    "To buy fresh food",
+    "To visit a school"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: People come from other neighborhoods just to see them"
+  },
+  {
+   "q": "What do families do on summer evenings?",
+   "options": [
+    "Gather to cool off",
+    "Play baseball",
+    "Go shopping"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: families gather there to cool off"
+  },
+  {
+   "q": "Who does the speaker often see exercising in the morning?",
+   "options": [
+    "Kids",
+    "Older people",
+    "Dog owners"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: older people doing exercises in the morning"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "just to see",
+   "ko": "그저 보려고",
+   "note": "'just to + 동사'는 단순한 목적을 강조해요."
+  },
+  {
+   "term": "gather",
+   "ko": "모이다",
+   "note": "사람들이 한곳에 모일 때 써요."
+  },
+  {
+   "term": "cool off",
+   "ko": "열을 식히다",
+   "note": "더운 날 시원하게 쉬는 상황에 써요."
+  },
+  {
+   "term": "older people",
+   "ko": "나이 드신 분들",
+   "note": "old people보다 부드러운 표현이에요."
+  }
+ ]
+}

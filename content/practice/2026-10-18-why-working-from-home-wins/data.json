@@ -1,0 +1,316 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18356.0,
+  "end": 18418.73,
+  "clips": [
+   [
+    18356.0,
+    18359.53
+   ],
+   [
+    18384.96,
+    18390.41
+   ],
+   [
+    18414.64,
+    18418.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I think I'd come home feeling much more rested.",
+   "chunks": [
+    {
+     "en": "I think",
+     "ko": "제 생각엔"
+    },
+    {
+     "en": "I'd come home feeling",
+     "ko": "집에 와서 느낄 거예요"
+    },
+    {
+     "en": "much more rested.",
+     "ko": "훨씬 더 쉰 기분으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "syl": "home",
+     "link": false
+    },
+    {
+     "w": "feeling",
+     "strong": true,
+     "syl": "feel",
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "syl": "much",
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rested.",
+     "strong": true,
+     "syl": "rest",
+     "link": false
+    }
+   ],
+   "tip": "rested는 'rest'에 강세를 두고 끝의 -ed는 '이드'로 약하게 읽어요.",
+   "start": 18356.0,
+   "end": 18359.53
+  },
+  {
+   "text": "Personally, I think working from home has more advantages than disadvantages.",
+   "chunks": [
+    {
+     "en": "Personally,",
+     "ko": "개인적으로"
+    },
+    {
+     "en": "I think working from home",
+     "ko": "집에서 일하는 것이"
+    },
+    {
+     "en": "has more advantages",
+     "ko": "더 많은 장점이 있다고"
+    },
+    {
+     "en": "than disadvantages.",
+     "ko": "단점보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Personally,",
+     "strong": true,
+     "syl": "per",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": true,
+     "syl": "work",
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "advantages",
+     "strong": true,
+     "syl": "van",
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disadvantages.",
+     "strong": true,
+     "syl": "van",
+     "link": false
+    }
+   ],
+   "tip": "advantages와 disadvantages 모두 'van'에 강세가 와요.",
+   "start": 18384.96,
+   "end": 18390.41
+  },
+  {
+   "text": "I'd say the biggest benefit is saving time on commuting.",
+   "chunks": [
+    {
+     "en": "I'd say",
+     "ko": "제 생각에는"
+    },
+    {
+     "en": "the biggest benefit",
+     "ko": "가장 큰 이점은"
+    },
+    {
+     "en": "is saving time on commuting.",
+     "ko": "통근 시간을 아끼는 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "say",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biggest",
+     "strong": true,
+     "syl": "big",
+     "link": false
+    },
+    {
+     "w": "benefit",
+     "strong": true,
+     "syl": "ben",
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saving",
+     "strong": true,
+     "syl": "sav",
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "commuting.",
+     "strong": true,
+     "syl": "mu",
+     "link": false
+    }
+   ],
+   "tip": "benefit is는 '베너피티즈'처럼 이어 읽어요.",
+   "start": 18414.64,
+   "end": 18418.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which describes how the speaker would feel after coming home?",
+   "options": [
+    "Much more rested",
+    "Very busy",
+    "A little bored"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: come home feeling much more rested"
+  },
+  {
+   "q": "What does the speaker think about working from home?",
+   "options": [
+    "It has more disadvantages",
+    "It has more advantages",
+    "It is the same as the office"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: more advantages than disadvantages"
+  },
+  {
+   "q": "What is the biggest benefit the speaker mentions?",
+   "options": [
+    "Lower costs",
+    "Free meals",
+    "Saving time on commuting"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: saving time on commuting"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "rested",
+   "ko": "푹 쉰",
+   "note": "feel rested는 충분히 쉬어서 개운하다는 뜻이에요."
+  },
+  {
+   "term": "Personally,",
+   "ko": "개인적으로",
+   "note": "의견을 말하기 전에 붙이는 표현이에요."
+  },
+  {
+   "term": "advantages",
+   "ko": "장점",
+   "note": "반대말은 disadvantages예요."
+  },
+  {
+   "term": "benefit",
+   "ko": "이점",
+   "note": "the biggest benefit처럼 가장 좋은 점을 말할 때 써요."
+  },
+  {
+   "term": "commuting",
+   "ko": "통근하기",
+   "note": "commute는 집과 직장을 오가는 일이에요."
+  }
+ ]
+}

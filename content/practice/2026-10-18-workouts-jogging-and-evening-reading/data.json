@@ -1,0 +1,332 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 853.12,
+  "end": 902.01,
+  "clips": [
+   [
+    853.12,
+    856.65
+   ],
+   [
+    875.04,
+    879.21
+   ],
+   [
+    898.32,
+    902.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Working out helps me shake off the stress from work.",
+   "chunks": [
+    {
+     "en": "Working out",
+     "ko": "운동하는 것은"
+    },
+    {
+     "en": "helps me shake off the stress",
+     "ko": "스트레스를 털어내도록 도와줘요"
+    },
+    {
+     "en": "from work.",
+     "ko": "일에서 오는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Working",
+     "strong": true,
+     "link": true,
+     "syl": "work"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helps",
+     "strong": true,
+     "link": false,
+     "syl": "helps"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shake",
+     "strong": true,
+     "link": true,
+     "syl": "shake"
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stress",
+     "strong": true,
+     "link": false,
+     "syl": "stress"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "shake off는 '셰이컵'처럼 이어 읽어요.",
+   "start": 853.12,
+   "end": 856.65
+  },
+  {
+   "text": "On the other days, I go for a jog along the river.",
+   "chunks": [
+    {
+     "en": "On the other days,",
+     "ko": "다른 날에는,"
+    },
+    {
+     "en": "I go for a jog",
+     "ko": "나는 조깅하러 가요"
+    },
+    {
+     "en": "along the river.",
+     "ko": "강을 따라"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": true,
+     "link": false,
+     "syl": "oth"
+    },
+    {
+     "w": "days,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jog",
+     "strong": true,
+     "link": false,
+     "syl": "jog"
+    },
+    {
+     "w": "along",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "river.",
+     "strong": true,
+     "link": false,
+     "syl": "riv"
+    }
+   ],
+   "tip": "go for a jog는 '고포러조그'처럼 이어 읽어요.",
+   "start": 875.04,
+   "end": 879.21
+  },
+  {
+   "text": "In the evening, I like to wind down with a good book.",
+   "chunks": [
+    {
+     "en": "In the evening,",
+     "ko": "저녁에는,"
+    },
+    {
+     "en": "I like to wind down",
+     "ko": "나는 긴장을 풀기를 좋아해요"
+    },
+    {
+     "en": "with a good book.",
+     "ko": "좋은 책과 함께"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "evening,",
+     "strong": true,
+     "link": false,
+     "syl": "eve"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wind",
+     "strong": true,
+     "link": false,
+     "syl": "wind"
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    },
+    {
+     "w": "book.",
+     "strong": true,
+     "link": false,
+     "syl": "book"
+    }
+   ],
+   "tip": "wind down의 wind는 '윈드(바람)'가 아니라 '와인드'로 읽어요.",
+   "start": 898.32,
+   "end": 902.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does working out help the speaker do?",
+   "options": [
+    "Save money",
+    "Shake off work stress",
+    "Make friends"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: helps me shake off the stress from work"
+  },
+  {
+   "q": "What does the speaker do on the other days?",
+   "options": [
+    "Go for a jog along the river",
+    "Swim at the pool",
+    "Go hiking"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I go for a jog along the river"
+  },
+  {
+   "q": "How does the speaker wind down in the evening?",
+   "options": [
+    "Watching a movie",
+    "Playing video games",
+    "Reading a good book"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: wind down with a good book"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "work out",
+   "ko": "운동하다",
+   "note": "명사형은 workout이에요."
+  },
+  {
+   "term": "shake off",
+   "ko": "털어내다",
+   "note": "스트레스나 피로를 떨쳐낼 때 써요."
+  },
+  {
+   "term": "go for a jog",
+   "ko": "조깅하러 가다",
+   "note": "go for a + 운동 형태예요."
+  },
+  {
+   "term": "along the river",
+   "ko": "강을 따라",
+   "note": "along은 '~을 따라'라는 뜻이에요."
+  },
+  {
+   "term": "wind down",
+   "ko": "긴장을 풀다",
+   "note": "하루를 마무리하며 쉴 때 써요."
+  }
+ ]
+}

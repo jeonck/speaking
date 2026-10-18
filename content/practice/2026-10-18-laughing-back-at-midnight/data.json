@@ -1,0 +1,258 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21667.92,
+  "end": 21711.05,
+  "clips": [
+   [
+    21667.92,
+    21671.21
+   ],
+   [
+    21687.28,
+    21690.41
+   ],
+   [
+    21708.0,
+    21711.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Before I knew it, it was already midnight.",
+   "chunks": [
+    {
+     "en": "Before I knew it,",
+     "ko": "어느새"
+    },
+    {
+     "en": "it was already midnight.",
+     "ko": "벌써 자정이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Before",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "knew",
+     "strong": true,
+     "link": false,
+     "syl": "knew"
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "already",
+     "strong": true,
+     "link": false,
+     "syl": "read"
+    },
+    {
+     "w": "midnight.",
+     "strong": true,
+     "link": false,
+     "syl": "mid"
+    }
+   ],
+   "tip": "before I knew it은 하나의 덩어리처럼 빠르게 말해요.",
+   "start": 21667.92,
+   "end": 21671.21
+  },
+  {
+   "text": "In the end, everything turned out fine.",
+   "chunks": [
+    {
+     "en": "In the end,",
+     "ko": "결국"
+    },
+    {
+     "en": "everything turned out fine.",
+     "ko": "모든 게 괜찮게 끝났어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "end,",
+     "strong": true,
+     "link": false,
+     "syl": "end"
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": false,
+     "syl": "thing"
+    },
+    {
+     "w": "turned",
+     "strong": true,
+     "link": true,
+     "syl": "turned"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fine.",
+     "strong": true,
+     "link": false,
+     "syl": "fine"
+    }
+   ],
+   "tip": "turned out은 '턴다웃'처럼 이어 읽어요.",
+   "start": 21687.28,
+   "end": 21690.41
+  },
+  {
+   "text": "Looking back now, I can laugh about it.",
+   "chunks": [
+    {
+     "en": "Looking back now,",
+     "ko": "이제 돌아보면"
+    },
+    {
+     "en": "I can laugh about it.",
+     "ko": "그 일을 웃으며 얘기할 수 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Looking",
+     "strong": true,
+     "link": false,
+     "syl": "Look"
+    },
+    {
+     "w": "back",
+     "strong": true,
+     "link": false,
+     "syl": "back"
+    },
+    {
+     "w": "now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laugh",
+     "strong": true,
+     "link": true,
+     "syl": "laugh"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "laugh about it은 '래퍼바우릿'처럼 이어 읽어요.",
+   "start": 21708.0,
+   "end": 21711.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What time was it before the speaker knew it?",
+   "options": [
+    "Noon",
+    "Midnight",
+    "Dawn"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: it was already midnight"
+  },
+  {
+   "q": "How did everything turn out?",
+   "options": [
+    "Fine",
+    "Badly",
+    "Unclear"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: everything turned out fine"
+  },
+  {
+   "q": "How does the speaker feel about it now?",
+   "options": [
+    "Embarrassed",
+    "Angry",
+    "They can laugh about it"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I can laugh about it"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "before I knew it",
+   "ko": "어느새",
+   "note": "시간이 빨리 갔을 때 써요."
+  },
+  {
+   "term": "turn out fine",
+   "ko": "잘 풀리다",
+   "note": "결과가 좋게 끝났을 때 써요."
+  },
+  {
+   "term": "in the end",
+   "ko": "결국",
+   "note": "이야기를 마무리할 때 써요."
+  },
+  {
+   "term": "looking back",
+   "ko": "돌아보면",
+   "note": "지난 일을 되돌아볼 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20523.52,
+  "end": 20568.33,
+  "clips": [
+   [
+    20523.52,
+    20527.37
+   ],
+   [
+    20545.52,
+    20548.73
+   ],
+   [
+    20564.88,
+    20568.33
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My grandmother started learning piano at 70.",
+   "chunks": [
+    {
+     "en": "My grandmother started learning piano",
+     "ko": "할머니는 피아노를 배우기 시작하셨다"
+    },
+    {
+     "en": "at 70.",
+     "ko": "일흔 살에"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grandmother",
+     "strong": true,
+     "link": false,
+     "syl": "moth"
+    },
+    {
+     "w": "started",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "learning",
+     "strong": true,
+     "link": false,
+     "syl": "learn"
+    },
+    {
+     "w": "piano",
+     "strong": true,
+     "link": false,
+     "syl": "an"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "70.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "piano는 'an'에 강세를 둬요: pi-AN-o. at 70은 '앳 세븐티'로 이어져요.",
+   "start": 20523.52,
+   "end": 20527.37
+  },
+  {
+   "text": "It's never too late to try something new.",
+   "chunks": [
+    {
+     "en": "It's never too late",
+     "ko": "절대 너무 늦지 않다"
+    },
+    {
+     "en": "to try something new.",
+     "ko": "새로운 것을 시도하는 데"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": true,
+     "syl": "nev"
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "late",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": true,
+     "syl": "try"
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new.",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    }
+   ],
+   "tip": "It's never는 '잇츠네버'로 축약해요. try something은 '트라이섬띵'처럼 이어 읽어요.",
+   "start": 20545.52,
+   "end": 20548.73
+  },
+  {
+   "text": "I prefer taking the bus when I go downtown.",
+   "chunks": [
+    {
+     "en": "I prefer taking the bus",
+     "ko": "나는 버스를 타는 걸 선호한다"
+    },
+    {
+     "en": "when I go downtown.",
+     "ko": "시내에 갈 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prefer",
+     "strong": true,
+     "link": true,
+     "syl": "fer"
+    },
+    {
+     "w": "taking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bus",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": true,
+     "link": true,
+     "syl": "go"
+    },
+    {
+     "w": "downtown.",
+     "strong": true,
+     "link": false,
+     "syl": "down"
+    }
+   ],
+   "tip": "prefer는 두 번째 음절 'fer'에 강세예요: pre-FER. go downtown은 'go'를 가볍게 읽어요.",
+   "start": 20564.88,
+   "end": 20568.33
+  }
+ ],
+ "questions": [
+  {
+   "q": "How old was the speaker's grandmother when she started piano?",
+   "options": [
+    "50",
+    "60",
+    "70"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: started learning piano at 70"
+  },
+  {
+   "q": "What does the speaker say about trying new things?",
+   "options": [
+    "It's never too late",
+    "It's too risky",
+    "It takes a lot of money"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: never too late to try something new"
+  },
+  {
+   "q": "How does the speaker prefer to go downtown?",
+   "options": [
+    "By car",
+    "By bus",
+    "By subway"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I prefer taking the bus when I go downtown"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "It's never too late to",
+   "ko": "~하기에 너무 늦은 때는 없다",
+   "note": "격려할 때 자주 써요."
+  },
+  {
+   "term": "try something new",
+   "ko": "새로운 것을 시도하다",
+   "note": "something + 형용사 순서예요."
+  },
+  {
+   "term": "prefer taking",
+   "ko": "~하는 것을 선호하다",
+   "note": "prefer + -ing 또는 to 동사원형이에요."
+  },
+  {
+   "term": "downtown",
+   "ko": "시내에, 도심에",
+   "note": "부사로 쓰면 to 없이 go downtown이에요."
+  }
+ ]
+}

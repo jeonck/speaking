@@ -1,0 +1,313 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1309.92,
+  "end": 1357.21,
+  "clips": [
+   [
+    1309.92,
+    1314.01
+   ],
+   [
+    1332.8,
+    1335.93
+   ],
+   [
+    1352.88,
+    1357.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It's become a habit, so it doesn't feel like a chore anymore.",
+   "chunks": [
+    {
+     "en": "It's become a habit,",
+     "ko": "그것은 습관이 되었다"
+    },
+    {
+     "en": "so it doesn't feel like a chore",
+     "ko": "그래서 허드렛일처럼 느껴지지 않는다"
+    },
+    {
+     "en": "anymore.",
+     "ko": "더 이상"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": true,
+     "syl": "come",
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "habit,",
+     "strong": true,
+     "syl": "hab",
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doesn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chore",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "anymore.",
+     "strong": true,
+     "syl": "more",
+     "link": false
+    }
+   ],
+   "tip": "like a는 '라이커'처럼 이어서 읽어요.",
+   "start": 1309.92,
+   "end": 1314.01
+  },
+  {
+   "text": "Let me tell you a bit more about my job.",
+   "chunks": [
+    {
+     "en": "Let me tell you",
+     "ko": "말씀드릴게요"
+    },
+    {
+     "en": "a bit more about my job.",
+     "ko": "내 일에 대해 조금 더"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bit",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "job.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "tell you는 '텔류'처럼 합쳐져요.",
+   "start": 1332.8,
+   "end": 1335.93
+  },
+  {
+   "text": "I'm in charge of planning online promotions for our products.",
+   "chunks": [
+    {
+     "en": "I'm in charge of",
+     "ko": "나는 ~를 맡고 있다"
+    },
+    {
+     "en": "planning online promotions",
+     "ko": "온라인 프로모션을 기획하는 일을"
+    },
+    {
+     "en": "for our products.",
+     "ko": "우리 제품을 위한"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "charge",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "planning",
+     "strong": true,
+     "syl": "plan",
+     "link": true
+    },
+    {
+     "w": "online",
+     "strong": true,
+     "syl": "line",
+     "link": false
+    },
+    {
+     "w": "promotions",
+     "strong": true,
+     "syl": "mo",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "products.",
+     "strong": true,
+     "syl": "prod",
+     "link": false
+    }
+   ],
+   "tip": "in charge of는 '인차-저브'처럼 이어 읽어요.",
+   "start": 1352.88,
+   "end": 1357.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the English routine no longer like?",
+   "options": [
+    "A hobby",
+    "A chore",
+    "A game"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: it doesn't feel like a chore anymore"
+  },
+  {
+   "q": "What does the speaker offer to tell more about?",
+   "options": [
+    "The family",
+    "The hometown",
+    "The job"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: tell you a bit more about my job"
+  },
+  {
+   "q": "What is the speaker in charge of?",
+   "options": [
+    "Planning online promotions",
+    "Managing a team",
+    "Writing reports"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: in charge of planning online promotions"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "become a habit",
+   "ko": "습관이 되다",
+   "note": "become + a + 명사 형태예요."
+  },
+  {
+   "term": "chore",
+   "ko": "허드렛일, 귀찮은 일",
+   "note": "집안일뿐 아니라 하기 싫은 일에도 써요."
+  },
+  {
+   "term": "be in charge of",
+   "ko": "~를 맡고 있다",
+   "note": "담당 업무를 말할 때 써요."
+  },
+  {
+   "term": "promotion",
+   "ko": "판촉, 홍보",
+   "note": "마케팅에서는 '프로모션'이라고 그대로 써요."
+  },
+  {
+   "term": "anymore",
+   "ko": "더 이상",
+   "note": "부정문 끝에 와요."
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22775.92,
+  "end": 22831.37,
+  "clips": [
+   [
+    22775.92,
+    22780.73
+   ],
+   [
+    22804.16,
+    22807.61
+   ],
+   [
+    22827.12,
+    22831.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I haven't had that exact experience, but something similar happened to me.",
+   "chunks": [
+    {
+     "en": "I haven't had that exact experience,",
+     "ko": "정확히 그 경험은 없지만"
+    },
+    {
+     "en": "but something similar",
+     "ko": "하지만 비슷한 일이"
+    },
+    {
+     "en": "happened to me.",
+     "ko": "저한테 있었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "haven't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "exact",
+     "strong": true,
+     "link": false,
+     "syl": "xact"
+    },
+    {
+     "w": "experience,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "something",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "similar",
+     "strong": true,
+     "link": false,
+     "syl": "sim"
+    },
+    {
+     "w": "happened",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'that exact'는 '대디그잭트'처럼 이어 읽어요.",
+   "start": 22775.92,
+   "end": 22780.73
+  },
+  {
+   "text": "I'll focus on the neighborhood where I live now.",
+   "chunks": [
+    {
+     "en": "I'll focus on the neighborhood",
+     "ko": "동네에 초점을 맞출게요"
+    },
+    {
+     "en": "where I live now.",
+     "ko": "제가 지금 사는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "focus",
+     "strong": true,
+     "link": true,
+     "syl": "fo"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "now.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'focus on'은 '포커손'처럼 이어 읽어요.",
+   "start": 22804.16,
+   "end": 22807.61
+  },
+  {
+   "text": "I don't know much about the topic, but I can share what I've noticed.",
+   "chunks": [
+    {
+     "en": "I don't know much about the topic,",
+     "ko": "그 주제에 대해 잘 모르지만"
+    },
+    {
+     "en": "but I can share",
+     "ko": "공유할 수는 있어요"
+    },
+    {
+     "en": "what I've noticed.",
+     "ko": "제가 알아챈 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "topic,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "share",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "noticed.",
+     "strong": true,
+     "link": false,
+     "syl": "not"
+    }
+   ],
+   "tip": "'much about'은 '머처바웃'처럼 이어 읽어요.",
+   "start": 22827.12,
+   "end": 22831.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about the exact experience?",
+   "options": [
+    "They have had it many times",
+    "They have not had it, but something similar happened",
+    "They read about it"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I haven't had that exact experience, but something similar happened to me"
+  },
+  {
+   "q": "What will the speaker focus on?",
+   "options": [
+    "Their hometown",
+    "Their workplace",
+    "The neighborhood where they live now"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: the neighborhood where I live now"
+  },
+  {
+   "q": "What can the speaker share about the topic?",
+   "options": [
+    "What they have noticed",
+    "A detailed report",
+    "Expert advice"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I can share what I've noticed"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "exact experience",
+   "ko": "정확히 같은 경험",
+   "note": "질문과 딱 맞지 않을 때 써요."
+  },
+  {
+   "term": "something similar",
+   "ko": "비슷한 것",
+   "note": "대신 비슷한 사례를 말할 때 써요."
+  },
+  {
+   "term": "focus on",
+   "ko": "~에 집중하다",
+   "note": "답변 범위를 좁힐 때 써요."
+  },
+  {
+   "term": "neighborhood",
+   "ko": "동네",
+   "note": "where I live now와 자주 써요."
+  },
+  {
+   "term": "share what I've noticed",
+   "ko": "제가 알아챈 것을 공유하다",
+   "note": "아는 게 적을 때 쓰는 표현이에요."
+  }
+ ]
+}

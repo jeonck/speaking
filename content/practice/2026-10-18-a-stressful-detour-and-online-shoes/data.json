@@ -1,0 +1,307 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16359.76,
+  "end": 16406.81,
+  "clips": [
+   [
+    16359.76,
+    16363.93
+   ],
+   [
+    16383.92,
+    16387.05
+   ],
+   [
+    16403.36,
+    16406.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The whole thing was stressful, but it helped me learn another route.",
+   "chunks": [
+    {
+     "en": "The whole thing was stressful,",
+     "ko": "전체가 스트레스였지만"
+    },
+    {
+     "en": "but it helped me learn",
+     "ko": "배우는 데 도움이 됐어요"
+    },
+    {
+     "en": "another route.",
+     "ko": "다른 길을"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whole",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stressful,",
+     "strong": true,
+     "link": false,
+     "syl": "stress"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helped",
+     "strong": true,
+     "link": false,
+     "syl": "helped"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": true,
+     "syl": "learn"
+    },
+    {
+     "w": "another",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "route.",
+     "strong": true,
+     "link": false,
+     "syl": "route"
+    }
+   ],
+   "tip": "learn another는 '런어나더'처럼 이어 읽어요.",
+   "start": 16359.76,
+   "end": 16363.93
+  },
+  {
+   "text": "If it happens again, I'll know where to go.",
+   "chunks": [
+    {
+     "en": "If it happens again,",
+     "ko": "또 그런 일이 생기면"
+    },
+    {
+     "en": "I'll know",
+     "ko": "알 거예요"
+    },
+    {
+     "en": "where to go.",
+     "ko": "어디로 가야 할지"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happens",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "again,",
+     "strong": true,
+     "link": false,
+     "syl": "gain"
+    },
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": true,
+     "link": false,
+     "syl": "know"
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go.",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    }
+   ],
+   "tip": "If it은 '이핏'처럼 이어 읽고, I'll은 'I will'의 축약이에요.",
+   "start": 16383.92,
+   "end": 16387.05
+  },
+  {
+   "text": "I recently ordered a pair of shoes online.",
+   "chunks": [
+    {
+     "en": "I recently ordered",
+     "ko": "최근에 주문했어요"
+    },
+    {
+     "en": "a pair of shoes",
+     "ko": "신발 한 켤레를"
+    },
+    {
+     "en": "online.",
+     "ko": "온라인으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recently",
+     "strong": true,
+     "link": false,
+     "syl": "cent"
+    },
+    {
+     "w": "ordered",
+     "strong": true,
+     "link": true,
+     "syl": "or"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pair",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shoes",
+     "strong": true,
+     "link": false,
+     "syl": "shoes"
+    },
+    {
+     "w": "online.",
+     "strong": true,
+     "link": false,
+     "syl": "line"
+    }
+   ],
+   "tip": "a pair of는 '어페어러브'처럼 이어 읽어요.",
+   "start": 16403.36,
+   "end": 16406.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the experience help the speaker do?",
+   "options": [
+    "Lose weight",
+    "Learn another route",
+    "Find a shortcut to the park"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: it helped me learn another route"
+  },
+  {
+   "q": "What will the speaker know if it happens again?",
+   "options": [
+    "When to leave",
+    "Whom to call",
+    "Where to go"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I'll know where to go"
+  },
+  {
+   "q": "What did the speaker recently order online?",
+   "options": [
+    "A pair of shoes",
+    "A jacket",
+    "A bag"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I recently ordered a pair of shoes online"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "stressful",
+   "ko": "스트레스가 많은",
+   "note": "stress에 강세가 와요."
+  },
+  {
+   "term": "learn another route",
+   "ko": "다른 길을 알게 되다",
+   "note": "route는 '루트'로 읽어요."
+  },
+  {
+   "term": "If it happens again",
+   "ko": "또 그런 일이 생기면",
+   "note": "조건절은 현재 시제로 말해요."
+  },
+  {
+   "term": "recently ordered",
+   "ko": "최근에 주문했다",
+   "note": "recently는 과거 시제와 써요."
+  },
+  {
+   "term": "a pair of shoes",
+   "ko": "신발 한 켤레",
+   "note": "shoes는 항상 한 켤레 단위로 세요."
+  }
+ ]
+}

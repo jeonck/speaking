@@ -1,0 +1,310 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4593.36,
+  "end": 4643.69,
+  "clips": [
+   [
+    4593.36,
+    4597.45
+   ],
+   [
+    4616.88,
+    4620.81
+   ],
+   [
+    4640.16,
+    4643.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'm really into thrillers and crime movies these days.",
+   "chunks": [
+    {
+     "en": "I'm really into",
+     "ko": "정말 빠져 있어요"
+    },
+    {
+     "en": "thrillers and crime movies",
+     "ko": "스릴러와 범죄 영화에"
+    },
+    {
+     "en": "these days.",
+     "ko": "요즘"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thrillers",
+     "strong": true,
+     "link": true,
+     "syl": "thrill"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crime",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "movies",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "be into는 '~에 푹 빠져 있다'이고 thrillers and는 '스릴러전'처럼 이어요.",
+   "start": 4593.36,
+   "end": 4597.45
+  },
+  {
+   "text": "When I go to the movies, I usually go with my best friend.",
+   "chunks": [
+    {
+     "en": "When I go to the movies,",
+     "ko": "영화관에 갈 때"
+    },
+    {
+     "en": "I usually go",
+     "ko": "보통 가요"
+    },
+    {
+     "en": "with my best friend.",
+     "ko": "가장 친한 친구와"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "movies,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": false,
+     "syl": "u"
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "friend.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "When I는 '웨나이'처럼 이어 읽어요.",
+   "start": 4616.88,
+   "end": 4620.81
+  },
+  {
+   "text": "We like to grab a bite before the movie starts.",
+   "chunks": [
+    {
+     "en": "We like to grab a bite",
+     "ko": "간단히 먹는 걸 좋아해요"
+    },
+    {
+     "en": "before the movie starts.",
+     "ko": "영화가 시작하기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grab",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bite",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "movie",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "starts.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "grab a bite는 '그래버바이트'처럼 이어 읽어요.",
+   "start": 4640.16,
+   "end": 4643.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kinds of movies is the speaker into?",
+   "options": [
+    "Comedies and musicals",
+    "Thrillers and crime movies",
+    "Romance and fantasy"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: thrillers and crime movies"
+  },
+  {
+   "q": "Who does the speaker usually go to the movies with?",
+   "options": [
+    "A coworker",
+    "A sibling",
+    "A best friend"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: with my best friend"
+  },
+  {
+   "q": "What do they do before the movie starts?",
+   "options": [
+    "Grab a bite",
+    "Buy popcorn only",
+    "Take photos"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: grab a bite before the movie starts"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "be into",
+   "ko": "~에 빠져 있다",
+   "note": "취미나 관심사를 말할 때 써요."
+  },
+  {
+   "term": "these days",
+   "ko": "요즘",
+   "note": "현재의 경향을 말할 때 써요."
+  },
+  {
+   "term": "grab a bite",
+   "ko": "간단히 먹다",
+   "note": "격식 없는 표현이에요."
+  },
+  {
+   "term": "best friend",
+   "ko": "가장 친한 친구",
+   "note": "close friend보다 더 가까운 사이예요."
+  },
+  {
+   "term": "before the movie starts",
+   "ko": "영화가 시작하기 전에",
+   "note": "시간 접속사 뒤에는 현재시제를 써요."
+  }
+ ]
+}

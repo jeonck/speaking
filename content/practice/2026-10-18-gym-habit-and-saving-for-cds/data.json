@@ -1,0 +1,312 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12311.2,
+  "end": 12359.21,
+  "clips": [
+   [
+    12311.2,
+    12315.29
+   ],
+   [
+    12334.08,
+    12337.53
+   ],
+   [
+    12354.72,
+    12359.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Three years later, I'm going to the gym four times a week.",
+   "chunks": [
+    {
+     "en": "Three years later,",
+     "ko": "3년 뒤인 지금,"
+    },
+    {
+     "en": "I'm going to the gym",
+     "ko": "나는 헬스장에 다녀요"
+    },
+    {
+     "en": "four times a week.",
+     "ko": "일주일에 네 번"
+    }
+   ],
+   "words": [
+    {
+     "w": "Three",
+     "strong": true,
+     "link": false,
+     "syl": "Three"
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "later,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gym",
+     "strong": true,
+     "link": false,
+     "syl": "gym"
+    },
+    {
+     "w": "four",
+     "strong": true,
+     "link": false,
+     "syl": "four"
+    },
+    {
+     "w": "times",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week.",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    }
+   ],
+   "tip": "four times a week는 '포타임저윅'처럼 이어 읽어요.",
+   "start": 12311.2,
+   "end": 12315.29
+  },
+  {
+   "text": "The way I listen to music has also changed.",
+   "chunks": [
+    {
+     "en": "The way I listen to music",
+     "ko": "내가 음악을 듣는 방식도"
+    },
+    {
+     "en": "has also changed.",
+     "ko": "또한 바뀌었어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listen",
+     "strong": true,
+     "link": false,
+     "syl": "lis"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "music",
+     "strong": true,
+     "link": false,
+     "syl": "mu"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "also",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "changed.",
+     "strong": true,
+     "link": false,
+     "syl": "changed"
+    }
+   ],
+   "tip": "listen의 't'는 소리 나지 않아요 '리쓴'.",
+   "start": 12334.08,
+   "end": 12337.53
+  },
+  {
+   "text": "As a teenager, I saved up my allowance to buy CDs.",
+   "chunks": [
+    {
+     "en": "As a teenager,",
+     "ko": "십 대 시절에는,"
+    },
+    {
+     "en": "I saved up my allowance",
+     "ko": "나는 용돈을 모았어요"
+    },
+    {
+     "en": "to buy CDs.",
+     "ko": "CD를 사려고"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teenager,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saved",
+     "strong": true,
+     "link": true,
+     "syl": "saved"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "allowance",
+     "strong": true,
+     "link": false,
+     "syl": "low"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "CDs.",
+     "strong": true,
+     "link": false,
+     "syl": "CDs"
+    }
+   ],
+   "tip": "saved up은 '세이브덥'처럼 이어 읽어요.",
+   "start": 12354.72,
+   "end": 12359.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "How often does the speaker go to the gym?",
+   "options": [
+    "Twice a week",
+    "Four times a week",
+    "Every day"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: four times a week"
+  },
+  {
+   "q": "What else has changed for the speaker?",
+   "options": [
+    "The way the speaker listens to music",
+    "The way the speaker cooks",
+    "The way the speaker commutes"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: The way I listen to music has also changed"
+  },
+  {
+   "q": "What did the speaker buy with saved allowance?",
+   "options": [
+    "CDs",
+    "Concert tickets",
+    "Books"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: saved up my allowance to buy CDs"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "four times a week",
+   "ko": "일주일에 네 번",
+   "note": "횟수 + times a week로 빈도를 말해요."
+  },
+  {
+   "term": "the way I listen",
+   "ko": "내가 듣는 방식",
+   "note": "the way + 주어 + 동사 구조예요."
+  },
+  {
+   "term": "saved up",
+   "ko": "돈을 모았다",
+   "note": "save up은 목표를 위해 모으는 거예요."
+  },
+  {
+   "term": "allowance",
+   "ko": "용돈",
+   "note": "부모에게 정기적으로 받는 돈이에요."
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5188.96,
+  "end": 5231.85,
+  "clips": [
+   [
+    5188.96,
+    5192.33
+   ],
+   [
+    5209.44,
+    5212.49
+   ],
+   [
+    5228.56,
+    5231.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Reading is another hobby I really enjoy.",
+   "chunks": [
+    {
+     "en": "Reading is another hobby",
+     "ko": "독서는 또 다른 취미이다"
+    },
+    {
+     "en": "I really enjoy.",
+     "ko": "내가 정말 즐기는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Reading",
+     "strong": true,
+     "syl": "read",
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "another",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hobby",
+     "strong": true,
+     "syl": "hob",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "syl": "real",
+     "link": false
+    },
+    {
+     "w": "enjoy.",
+     "strong": true,
+     "syl": "joy",
+     "link": false
+    }
+   ],
+   "tip": "'Reading is'는 'g'와 'i'가 이어져 '리딩이즈'처럼 들려요.",
+   "start": 5188.96,
+   "end": 5192.33
+  },
+  {
+   "text": "I try to read at least one book a month.",
+   "chunks": [
+    {
+     "en": "I try to read",
+     "ko": "나는 읽으려 노력한다"
+    },
+    {
+     "en": "at least one book",
+     "ko": "적어도 책 한 권을"
+    },
+    {
+     "en": "a month.",
+     "ko": "한 달에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "read",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "book",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'at least one'은 '앳리스트원'처럼 이어 말해요.",
+   "start": 5209.44,
+   "end": 5212.49
+  },
+  {
+   "text": "I mostly read novels and essays.",
+   "chunks": [
+    {
+     "en": "I mostly read",
+     "ko": "나는 주로 읽는다"
+    },
+    {
+     "en": "novels and essays.",
+     "ko": "소설과 에세이를"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mostly",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "read",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "novels",
+     "strong": true,
+     "syl": "nov",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "essays.",
+     "strong": true,
+     "syl": "ess",
+     "link": false
+    }
+   ],
+   "tip": "'novels and'는 '노블젠'처럼 이어 읽어요.",
+   "start": 5228.56,
+   "end": 5231.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "How many books does the speaker try to read a month?",
+   "options": [
+    "At least one",
+    "At least five",
+    "Exactly two"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: at least one book a month"
+  },
+  {
+   "q": "What does the speaker mostly read?",
+   "options": [
+    "Magazines",
+    "Comic books",
+    "Novels and essays"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I mostly read novels and essays"
+  },
+  {
+   "q": "What does the speaker call reading?",
+   "options": [
+    "A required task",
+    "Another hobby they enjoy",
+    "A job skill"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: Reading is another hobby I really enjoy"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "another hobby",
+   "ko": "또 다른 취미",
+   "note": "another + 단수 명사로 써요."
+  },
+  {
+   "term": "at least",
+   "ko": "적어도",
+   "note": "최소한의 수를 말할 때 써요."
+  },
+  {
+   "term": "a month",
+   "ko": "한 달에",
+   "note": "빈도는 'a + 기간'으로 말해요."
+  },
+  {
+   "term": "mostly",
+   "ko": "주로",
+   "note": "대부분을 말할 때 써요."
+  },
+  {
+   "term": "essay",
+   "ko": "수필, 에세이",
+   "note": "소설과 구별되는 글 종류예요."
+  }
+ ]
+}

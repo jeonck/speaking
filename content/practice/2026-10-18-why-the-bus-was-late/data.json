@@ -1,0 +1,353 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16215.36,
+  "end": 16266.01,
+  "clips": [
+   [
+    16215.36,
+    16218.89
+   ],
+   [
+    16237.36,
+    16241.21
+   ],
+   [
+    16261.36,
+    16266.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "At first, I thought it was just a few minutes late.",
+   "chunks": [
+    {
+     "en": "At first,",
+     "ko": "처음에는"
+    },
+    {
+     "en": "I thought it was just",
+     "ko": "그냥 ~라고 생각했어요"
+    },
+    {
+     "en": "a few minutes late.",
+     "ko": "몇 분 늦었다고"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first,",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thought",
+     "strong": true,
+     "link": true,
+     "syl": "thought"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": true,
+     "link": false,
+     "syl": "min"
+    },
+    {
+     "w": "late.",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    }
+   ],
+   "tip": "thought it은 'thought'의 t가 'it'과 만나 '쏘릿'처럼 이어져요.",
+   "start": 16215.36,
+   "end": 16218.89
+  },
+  {
+   "text": "Then I checked the app and saw that the route had changed.",
+   "chunks": [
+    {
+     "en": "Then I checked the app",
+     "ko": "앱을 확인해 보니"
+    },
+    {
+     "en": "and saw",
+     "ko": "알게 됐어요"
+    },
+    {
+     "en": "that the route had changed.",
+     "ko": "노선이 바뀌었다는 걸"
+    }
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "checked",
+     "strong": true,
+     "link": false,
+     "syl": "checked"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "app",
+     "strong": true,
+     "link": true,
+     "syl": "app"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saw",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "route",
+     "strong": true,
+     "link": false,
+     "syl": "route"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed.",
+     "strong": true,
+     "link": false,
+     "syl": "changed"
+    }
+   ],
+   "tip": "app and는 '애팬'처럼 이어 읽어요.",
+   "start": 16237.36,
+   "end": 16241.21
+  },
+  {
+   "text": "There was road work near my stop, so the bus was taking a different street.",
+   "chunks": [
+    {
+     "en": "There was road work",
+     "ko": "도로 공사가 있었어요"
+    },
+    {
+     "en": "near my stop,",
+     "ko": "제 정류장 근처에"
+    },
+    {
+     "en": "so the bus was taking a different street.",
+     "ko": "그래서 버스가 다른 길로 갔어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "road",
+     "strong": true,
+     "link": false,
+     "syl": "road"
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    },
+    {
+     "w": "near",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stop,",
+     "strong": true,
+     "link": false,
+     "syl": "stop"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taking",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "dif"
+    },
+    {
+     "w": "street.",
+     "strong": true,
+     "link": false,
+     "syl": "street"
+    }
+   ],
+   "tip": "road work처럼 명사+명사 복합어는 앞 단어를 더 세게 읽어요.",
+   "start": 16261.36,
+   "end": 16266.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker first think?",
+   "options": [
+    "The bus was cancelled",
+    "The bus was just a few minutes late",
+    "The speaker's watch was wrong"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I thought it was just a few minutes late"
+  },
+  {
+   "q": "What did the speaker check?",
+   "options": [
+    "A newspaper",
+    "A text message",
+    "The app"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I checked the app"
+  },
+  {
+   "q": "Why was the bus taking a different street?",
+   "options": [
+    "There was road work near the stop",
+    "There was an accident",
+    "There was a parade"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: There was road work near my stop"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "at first",
+   "ko": "처음에는",
+   "note": "나중에 상황이 바뀔 때 함께 써요."
+  },
+  {
+   "term": "a few minutes late",
+   "ko": "몇 분 늦은",
+   "note": "a few는 '몇몇'이라는 뜻이에요."
+  },
+  {
+   "term": "route",
+   "ko": "노선, 경로",
+   "note": "'루트'로 읽어요."
+  },
+  {
+   "term": "road work",
+   "ko": "도로 공사",
+   "note": "미국 영어에서 흔한 표현이에요."
+  },
+  {
+   "term": "taking a different street",
+   "ko": "다른 길로 가다",
+   "note": "take는 경로를 고를 때도 써요."
+  }
+ ]
+}

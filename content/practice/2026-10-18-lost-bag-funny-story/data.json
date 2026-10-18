@@ -1,0 +1,308 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7599.44,
+  "end": 7647.53,
+  "clips": [
+   [
+    7599.44,
+    7603.05
+   ],
+   [
+    7622.0,
+    7626.01
+   ],
+   [
+    7644.16,
+    7647.53
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I had to buy new clothes for the first three days.",
+   "chunks": [
+    {
+     "en": "I had to buy new clothes",
+     "ko": "나는 새 옷을 사야 했다"
+    },
+    {
+     "en": "for the first three days.",
+     "ko": "처음 3일 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buy",
+     "strong": true,
+     "link": false,
+     "syl": "buy"
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "clothes",
+     "strong": true,
+     "link": false,
+     "syl": "clothes"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "three",
+     "strong": true,
+     "link": false,
+     "syl": "three"
+    },
+    {
+     "w": "days.",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    }
+   ],
+   "tip": "had to는 '해드투'처럼 가볍게 이어 읽어요.",
+   "start": 7599.44,
+   "end": 7603.05
+  },
+  {
+   "text": "Luckily, they found my bag and delivered it to my hotel.",
+   "chunks": [
+    {
+     "en": "Luckily,",
+     "ko": "다행히도"
+    },
+    {
+     "en": "they found my bag",
+     "ko": "그들은 내 가방을 찾았고"
+    },
+    {
+     "en": "and delivered it to my hotel.",
+     "ko": "그걸 내 호텔로 배달해 줬다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Luckily,",
+     "strong": true,
+     "link": false,
+     "syl": "luck"
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": true,
+     "link": false,
+     "syl": "found"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bag",
+     "strong": true,
+     "link": false,
+     "syl": "bag"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "delivered",
+     "strong": true,
+     "link": true,
+     "syl": "liv"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotel.",
+     "strong": true,
+     "link": false,
+     "syl": "ho"
+    }
+   ],
+   "tip": "delivered it은 '딜리버딧'처럼 이어 읽어요.",
+   "start": 7622.0,
+   "end": 7626.01
+  },
+  {
+   "text": "Looking back, it's actually a funny story now.",
+   "chunks": [
+    {
+     "en": "Looking back,",
+     "ko": "돌이켜 보면"
+    },
+    {
+     "en": "it's actually a funny story now.",
+     "ko": "이제는 사실 웃기는 이야기다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Looking",
+     "strong": true,
+     "link": false,
+     "syl": "look"
+    },
+    {
+     "w": "back,",
+     "strong": true,
+     "link": false,
+     "syl": "back"
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": true,
+     "link": true,
+     "syl": "ac"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "funny",
+     "strong": true,
+     "link": false,
+     "syl": "fun"
+    },
+    {
+     "w": "story",
+     "strong": true,
+     "link": false,
+     "syl": "sto"
+    },
+    {
+     "w": "now.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "it's actually a는 '잇쳇추얼리어'처럼 부드럽게 이어져요.",
+   "start": 7644.16,
+   "end": 7647.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker have to buy?",
+   "options": [
+    "A new suitcase",
+    "New clothes",
+    "A phone charger"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I had to buy new clothes"
+  },
+  {
+   "q": "Where was the bag delivered?",
+   "options": [
+    "To the speaker's home",
+    "To the airport",
+    "To the hotel"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: delivered it to my hotel"
+  },
+  {
+   "q": "How does the speaker feel about it now?",
+   "options": [
+    "It is a funny story",
+    "It still feels upsetting",
+    "It was not worth telling"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: it's actually a funny story now"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "for the first three days",
+   "ko": "처음 3일 동안",
+   "note": "기간 앞엔 for를 써요."
+  },
+  {
+   "term": "Luckily",
+   "ko": "다행히도",
+   "note": "좋은 소식을 알릴 때 문장 앞에 써요."
+  },
+  {
+   "term": "deliver",
+   "ko": "배달하다",
+   "note": "deliver it to ~ 형태로 써요."
+  },
+  {
+   "term": "Looking back",
+   "ko": "돌이켜 보면",
+   "note": "지난 일을 회상할 때 써요."
+  },
+  {
+   "term": "a funny story",
+   "ko": "웃긴 이야기",
+   "note": "funny는 '웃기는'이라는 뜻이에요."
+  }
+ ]
+}

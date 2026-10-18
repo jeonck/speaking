@@ -1,0 +1,336 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13449.28,
+  "end": 13504.25,
+  "clips": [
+   [
+    13449.28,
+    13453.77
+   ],
+   [
+    13474.16,
+    13478.17
+   ],
+   [
+    13499.52,
+    13504.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now I learn by watching videos and speaking out loud every day.",
+   "chunks": [
+    {
+     "en": "Now I learn",
+     "ko": "이제 나는 배운다"
+    },
+    {
+     "en": "by watching videos",
+     "ko": "영상을 보면서"
+    },
+    {
+     "en": "and speaking out loud",
+     "ko": "그리고 소리 내어 말하면서"
+    },
+    {
+     "en": "every day.",
+     "ko": "매일"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": false,
+     "syl": "learn"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "watching",
+     "strong": true,
+     "link": false,
+     "syl": "watch"
+    },
+    {
+     "w": "videos",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speaking",
+     "strong": true,
+     "link": true,
+     "syl": "speak"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "loud",
+     "strong": true,
+     "link": false,
+     "syl": "loud"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "speaking out은 '스피킹아웃'처럼 이어 읽어요.",
+   "start": 13449.28,
+   "end": 13453.77
+  },
+  {
+   "text": "Thanks to that, I feel much more confident when I speak.",
+   "chunks": [
+    {
+     "en": "Thanks to that,",
+     "ko": "그 덕분에"
+    },
+    {
+     "en": "I feel much more confident",
+     "ko": "나는 훨씬 더 자신감이 느껴진다"
+    },
+    {
+     "en": "when I speak.",
+     "ko": "말할 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "Thanks",
+     "strong": true,
+     "link": false,
+     "syl": "Thanks"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false,
+     "syl": "much"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "confident",
+     "strong": true,
+     "link": false,
+     "syl": "con"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "speak.",
+     "strong": true,
+     "link": false,
+     "syl": "speak"
+    }
+   ],
+   "tip": "confident는 첫 음절 CON에 강세: '칸피던트'.",
+   "start": 13474.16,
+   "end": 13478.17
+  },
+  {
+   "text": "Compared to 10 years ago, life feels faster and more convenient.",
+   "chunks": [
+    {
+     "en": "Compared to 10 years ago,",
+     "ko": "10년 전과 비교하면"
+    },
+    {
+     "en": "life feels faster",
+     "ko": "삶이 더 빠르게 느껴지고"
+    },
+    {
+     "en": "and more convenient.",
+     "ko": "더 편리하다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Compared",
+     "strong": true,
+     "link": false,
+     "syl": "pared"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    },
+    {
+     "w": "ago,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feels",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "faster",
+     "strong": true,
+     "link": true,
+     "syl": "fast"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "convenient.",
+     "strong": true,
+     "link": false,
+     "syl": "ven"
+    }
+   ],
+   "tip": "convenient는 둘째 음절 VEE에 강세: '컨비니언트'.",
+   "start": 13499.52,
+   "end": 13504.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker learn English now?",
+   "options": [
+    "By memorizing word lists",
+    "By watching videos and speaking out loud",
+    "By taking grammar tests"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: learn by watching videos and speaking out loud"
+  },
+  {
+   "q": "What is the result of this method?",
+   "options": [
+    "The speaker feels more confident",
+    "The speaker has less free time",
+    "The speaker finds English boring"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I feel much more confident when I speak"
+  },
+  {
+   "q": "How does life feel compared to 10 years ago?",
+   "options": [
+    "Slower and quieter",
+    "Cheaper and simpler",
+    "Faster and more convenient"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: life feels faster and more convenient"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "out loud",
+   "ko": "소리 내어",
+   "note": "speak out loud는 '크게 소리 내어 말하다'예요."
+  },
+  {
+   "term": "Thanks to that",
+   "ko": "그 덕분에",
+   "note": "좋은 결과의 원인을 말할 때 써요."
+  },
+  {
+   "term": "confident",
+   "ko": "자신감 있는",
+   "note": "feel confident when I speak처럼 써요."
+  },
+  {
+   "term": "Compared to",
+   "ko": "~와 비교하면",
+   "note": "문장 앞에 두어 비교를 시작해요."
+  },
+  {
+   "term": "convenient",
+   "ko": "편리한",
+   "note": "life feels convenient처럼 느낌을 말해요."
+  }
+ ]
+}

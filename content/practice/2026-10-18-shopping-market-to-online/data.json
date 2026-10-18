@@ -1,0 +1,311 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11737.84,
+  "end": 11788.09,
+  "clips": [
+   [
+    11737.84,
+    11741.69
+   ],
+   [
+    11760.8,
+    11764.49
+   ],
+   [
+    11783.44,
+    11788.09
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The way people shop is also very different from before.",
+   "chunks": [
+    {
+     "en": "The way people shop",
+     "ko": "사람들이 쇼핑하는 방식은"
+    },
+    {
+     "en": "is also very different",
+     "ko": "또한 매우 달라요"
+    },
+    {
+     "en": "from before.",
+     "ko": "예전과는"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "shop",
+     "strong": true,
+     "link": false,
+     "syl": "shop"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "dif"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before.",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    }
+   ],
+   "tip": "different는 'dif-frent' 두 박자로 짧게 읽어요.",
+   "start": 11737.84,
+   "end": 11741.69
+  },
+  {
+   "text": "My parents used to go to the market every weekend.",
+   "chunks": [
+    {
+     "en": "My parents used to go",
+     "ko": "우리 부모님은 가곤 했어요"
+    },
+    {
+     "en": "to the market",
+     "ko": "시장에"
+    },
+    {
+     "en": "every weekend.",
+     "ko": "매주 주말마다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parents",
+     "strong": true,
+     "link": false,
+     "syl": "par"
+    },
+    {
+     "w": "used",
+     "strong": true,
+     "link": true,
+     "syl": "used"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "market",
+     "strong": true,
+     "link": false,
+     "syl": "mar"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "weekend.",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    }
+   ],
+   "tip": "used to는 '유스투'가 아니라 '유스트'처럼 붙여 읽어요.",
+   "start": 11760.8,
+   "end": 11764.49
+  },
+  {
+   "text": "Nowadays, we order groceries online and get them the next morning.",
+   "chunks": [
+    {
+     "en": "Nowadays,",
+     "ko": "요즘은,"
+    },
+    {
+     "en": "we order groceries online",
+     "ko": "우리는 온라인으로 식료품을 주문하고"
+    },
+    {
+     "en": "and get them the next morning.",
+     "ko": "다음 날 아침에 받아요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Nowadays,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "order",
+     "strong": true,
+     "link": true,
+     "syl": "or"
+    },
+    {
+     "w": "groceries",
+     "strong": true,
+     "link": false,
+     "syl": "gro"
+    },
+    {
+     "w": "online",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning.",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    }
+   ],
+   "tip": "get them은 '게뎀'처럼 이어 읽어요.",
+   "start": 11783.44,
+   "end": 11788.09
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who used to go to the market every weekend?",
+   "options": [
+    "The speaker's parents",
+    "The speaker's friends",
+    "The speaker's children"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: My parents used to go to the market every weekend"
+  },
+  {
+   "q": "How does the speaker buy groceries now?",
+   "options": [
+    "At a big mall",
+    "From a neighbor",
+    "Online"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: we order groceries online"
+  },
+  {
+   "q": "When do the groceries arrive?",
+   "options": [
+    "The next morning",
+    "The same night",
+    "Within a week"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: get them the next morning"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "used to go",
+   "ko": "~하곤 했다",
+   "note": "과거의 반복 습관을 말해요."
+  },
+  {
+   "term": "every weekend",
+   "ko": "주말마다",
+   "note": "every + 시간 표현으로 반복을 나타내요."
+  },
+  {
+   "term": "nowadays",
+   "ko": "요즘은",
+   "note": "과거와 대비해 현재를 말할 때 써요."
+  },
+  {
+   "term": "order groceries",
+   "ko": "식료품을 주문하다",
+   "note": "online을 붙여 인터넷 주문을 말해요."
+  }
+ ]
+}

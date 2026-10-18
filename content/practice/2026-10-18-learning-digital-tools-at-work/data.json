@@ -1,0 +1,330 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20065.52,
+  "end": 20119.13,
+  "clips": [
+   [
+    20065.52,
+    20069.61
+   ],
+   [
+    20089.2,
+    20093.29
+   ],
+   [
+    20114.24,
+    20119.13
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "At my company, we already use it to draft meeting notes.",
+   "chunks": [
+    {
+     "en": "At my company,",
+     "ko": "우리 회사에서는"
+    },
+    {
+     "en": "we already use it",
+     "ko": "이미 그것을 쓰고 있어요"
+    },
+    {
+     "en": "to draft meeting notes.",
+     "ko": "회의록 초안을 작성하는 데"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "company,",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "already",
+     "strong": true,
+     "link": false,
+     "syl": "read"
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "draft",
+     "strong": true,
+     "link": false,
+     "syl": "draft"
+    },
+    {
+     "w": "meeting",
+     "strong": true,
+     "link": false,
+     "syl": "meet"
+    },
+    {
+     "w": "notes.",
+     "strong": true,
+     "link": false,
+     "syl": "notes"
+    }
+   ],
+   "tip": "use it은 '유짓'처럼 이어 읽어요.",
+   "start": 20065.52,
+   "end": 20069.61
+  },
+  {
+   "text": "That's one reason I want to keep learning new digital tools.",
+   "chunks": [
+    {
+     "en": "That's one reason",
+     "ko": "그게 한 가지 이유예요"
+    },
+    {
+     "en": "I want to keep learning",
+     "ko": "제가 계속 배우고 싶은"
+    },
+    {
+     "en": "new digital tools.",
+     "ko": "새 디지털 도구를"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "reason",
+     "strong": true,
+     "link": false,
+     "syl": "rea"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "link": false,
+     "syl": "keep"
+    },
+    {
+     "w": "learning",
+     "strong": true,
+     "link": false,
+     "syl": "learn"
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "digital",
+     "strong": true,
+     "link": false,
+     "syl": "dig"
+    },
+    {
+     "w": "tools.",
+     "strong": true,
+     "link": false,
+     "syl": "tools"
+    }
+   ],
+   "tip": "want to는 편하게 '워너'처럼 줄여 읽어요.",
+   "start": 20089.2,
+   "end": 20093.29
+  },
+  {
+   "text": "Some older people find apps and online banking difficult to use.",
+   "chunks": [
+    {
+     "en": "Some older people",
+     "ko": "일부 나이 든 사람들은"
+    },
+    {
+     "en": "find apps and online banking",
+     "ko": "앱과 온라인 뱅킹이"
+    },
+    {
+     "en": "difficult to use.",
+     "ko": "사용하기 어렵다고 느껴요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "older",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "apps",
+     "strong": true,
+     "link": true,
+     "syl": "apps"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "online",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "banking",
+     "strong": true,
+     "link": false,
+     "syl": "bank"
+    },
+    {
+     "w": "difficult",
+     "strong": true,
+     "link": false,
+     "syl": "dif"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "find apps and online은 '파인댑샌온라인'처럼 이어 읽어요.",
+   "start": 20114.24,
+   "end": 20119.13
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker's company already use it for?",
+   "options": [
+    "Booking travel",
+    "Drafting meeting notes",
+    "Answering customer calls"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: we already use it to draft meeting notes"
+  },
+  {
+   "q": "Why does the speaker want to keep learning new digital tools?",
+   "options": [
+    "To change jobs",
+    "To save money",
+    "To keep up at work"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: That's one reason I want to keep learning new digital tools"
+  },
+  {
+   "q": "Who finds apps and online banking difficult?",
+   "options": [
+    "Some older people",
+    "Most students",
+    "Office managers"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: Some older people find apps and online banking difficult to use"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "draft meeting notes",
+   "ko": "회의록 초안을 쓰다",
+   "note": "draft는 동사로 '초안을 쓰다'예요."
+  },
+  {
+   "term": "That's one reason",
+   "ko": "그게 한 가지 이유예요",
+   "note": "이유가 여러 개일 때 one reason이라 해요."
+  },
+  {
+   "term": "digital tools",
+   "ko": "디지털 도구",
+   "note": "앱, 프로그램 등을 가리켜요."
+  },
+  {
+   "term": "online banking",
+   "ko": "온라인 뱅킹",
+   "note": "인터넷으로 하는 은행 업무예요."
+  },
+  {
+   "term": "difficult to use",
+   "ko": "사용하기 어려운",
+   "note": "difficult to + 동사 형태예요."
+  }
+ ]
+}

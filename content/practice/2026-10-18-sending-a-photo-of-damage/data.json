@@ -1,0 +1,298 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15338.16,
+  "end": 15381.53,
+  "clips": [
+   [
+    15338.16,
+    15341.77
+   ],
+   [
+    15358.96,
+    15362.25
+   ],
+   [
+    15378.24,
+    15381.53
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Would it help if I sent you a photo of the damage?",
+   "chunks": [
+    {
+     "en": "Would it help",
+     "ko": "도움이 될까요"
+    },
+    {
+     "en": "if I sent you a photo",
+     "ko": "제가 사진을 보내 드린다면"
+    },
+    {
+     "en": "of the damage?",
+     "ko": "그 손상에 대한"
+    }
+   ],
+   "words": [
+    {
+     "w": "Would",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": true,
+     "link": true,
+     "syl": "help"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sent",
+     "strong": true,
+     "link": false,
+     "syl": "sent"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "photo",
+     "strong": true,
+     "link": true,
+     "syl": "pho"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "damage?",
+     "strong": true,
+     "link": false,
+     "syl": "dam"
+    }
+   ],
+   "tip": "help if I는 '헬피파이'처럼 이어 읽어요.",
+   "start": 15338.16,
+   "end": 15341.77
+  },
+  {
+   "text": "I can wait a few more days if necessary.",
+   "chunks": [
+    {
+     "en": "I can wait a few more days",
+     "ko": "며칠 더 기다릴 수 있어요"
+    },
+    {
+     "en": "if necessary.",
+     "ko": "필요하다면"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wait",
+     "strong": true,
+     "link": true,
+     "syl": "wait"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": true,
+     "link": false,
+     "syl": "few"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days",
+     "strong": true,
+     "link": true,
+     "syl": "days"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "necessary.",
+     "strong": true,
+     "link": false,
+     "syl": "ces"
+    }
+   ],
+   "tip": "wait a는 '웨이러'처럼 t를 가볍게 이어 읽어요.",
+   "start": 15358.96,
+   "end": 15362.25
+  },
+  {
+   "text": "Please give me a call once it's been fixed.",
+   "chunks": [
+    {
+     "en": "Please give me a call",
+     "ko": "전화 주세요"
+    },
+    {
+     "en": "once it's been fixed.",
+     "ko": "수리되면"
+    }
+   ],
+   "words": [
+    {
+     "w": "Please",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "give",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "call",
+     "strong": true,
+     "link": true,
+     "syl": "call"
+    },
+    {
+     "w": "once",
+     "strong": true,
+     "link": true,
+     "syl": "once"
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fixed.",
+     "strong": true,
+     "link": false,
+     "syl": "fixed"
+    }
+   ],
+   "tip": "call once는 '콜원스'처럼 매끄럽게 이어 읽어요.",
+   "start": 15378.24,
+   "end": 15381.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker offer to send?",
+   "options": [
+    "A copy of the receipt",
+    "A written complaint",
+    "A photo of the damage"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: if I sent you a photo of the damage"
+  },
+  {
+   "q": "How long can the speaker wait?",
+   "options": [
+    "A few more days",
+    "Two weeks",
+    "One more hour"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I can wait a few more days"
+  },
+  {
+   "q": "When should the listener call?",
+   "options": [
+    "Before noon",
+    "Once it has been fixed",
+    "Tomorrow morning"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: give me a call once it's been fixed"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Would it help if",
+   "ko": "~하면 도움이 될까요",
+   "note": "상대에게 제안할 때 쓰는 부드러운 질문이에요."
+  },
+  {
+   "term": "the damage",
+   "ko": "손상",
+   "note": "셀 수 없는 명사라 a damage라고 하지 않아요."
+  },
+  {
+   "term": "if necessary",
+   "ko": "필요하다면",
+   "note": "if it is necessary의 줄임이에요."
+  },
+  {
+   "term": "give me a call",
+   "ko": "전화해 주세요",
+   "note": "call me보다 부드럽고 자주 써요."
+  }
+ ]
+}

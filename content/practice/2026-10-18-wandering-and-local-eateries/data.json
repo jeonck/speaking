@@ -1,0 +1,289 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7200.96,
+  "end": 7250.65,
+  "clips": [
+   [
+    7200.96,
+    7204.73
+   ],
+   [
+    7224.72,
+    7228.33
+   ],
+   [
+    7246.96,
+    7250.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'd rather walk around than follow a tight schedule.",
+   "chunks": [
+    {
+     "en": "I'd rather walk around",
+     "ko": "저는 차라리 돌아다니겠어요"
+    },
+    {
+     "en": "than follow a tight schedule.",
+     "ko": "빡빡한 일정을 따르기보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walk",
+     "strong": true,
+     "syl": "walk",
+     "link": true
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "follow",
+     "strong": true,
+     "syl": "fol",
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tight",
+     "strong": true,
+     "syl": "tight",
+     "link": false
+    },
+    {
+     "w": "schedule.",
+     "strong": true,
+     "syl": "sched",
+     "link": false
+    }
+   ],
+   "tip": "walk around는 '워커라운드'처럼 이어 읽어요.",
+   "start": 7200.96,
+   "end": 7204.73
+  },
+  {
+   "text": "Trying local food is the best part of any trip.",
+   "chunks": [
+    {
+     "en": "Trying local food",
+     "ko": "현지 음식을 먹어 보는 건"
+    },
+    {
+     "en": "is the best part of any trip.",
+     "ko": "어떤 여행이든 최고의 부분이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Trying",
+     "strong": true,
+     "syl": "Try",
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "syl": "food",
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "syl": "best",
+     "link": false
+    },
+    {
+     "w": "part",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "any",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip.",
+     "strong": true,
+     "syl": "trip",
+     "link": false
+    }
+   ],
+   "tip": "food is는 '푸디즈'처럼 이어 읽어요.",
+   "start": 7224.72,
+   "end": 7228.33
+  },
+  {
+   "text": "I always look for small restaurants where locals eat.",
+   "chunks": [
+    {
+     "en": "I always look for",
+     "ko": "저는 항상 찾아요"
+    },
+    {
+     "en": "small restaurants",
+     "ko": "작은 식당을"
+    },
+    {
+     "en": "where locals eat.",
+     "ko": "현지인이 먹는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": true,
+     "syl": "look",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "syl": "small",
+     "link": false
+    },
+    {
+     "w": "restaurants",
+     "strong": true,
+     "syl": "rest",
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "locals",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "eat.",
+     "strong": true,
+     "syl": "eat",
+     "link": false
+    }
+   ],
+   "tip": "locals eat은 '로컬제트'처럼 이어 읽어요.",
+   "start": 7246.96,
+   "end": 7250.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "What would the speaker rather do than follow a tight schedule?",
+   "options": [
+    "Rest at the hotel",
+    "Walk around",
+    "Take a tour bus"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I'd rather walk around"
+  },
+  {
+   "q": "What is the best part of any trip for the speaker?",
+   "options": [
+    "Trying local food",
+    "Shopping",
+    "Taking photos"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Trying local food is the best part"
+  },
+  {
+   "q": "What kind of restaurants does the speaker look for?",
+   "options": [
+    "Fancy ones",
+    "Fast food chains",
+    "Small ones where locals eat"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: small restaurants where locals eat"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "I'd rather",
+   "ko": "차라리 ~하겠다",
+   "note": "would rather + 동사원형으로 써요."
+  },
+  {
+   "term": "tight schedule",
+   "ko": "빡빡한 일정",
+   "note": "tight은 '꽉 짜인'이란 뜻이에요."
+  },
+  {
+   "term": "the best part of",
+   "ko": "~의 가장 좋은 부분",
+   "note": "좋아하는 점을 말할 때 써요."
+  },
+  {
+   "term": "locals",
+   "ko": "현지인들",
+   "note": "tourists의 반대말이에요."
+  }
+ ]
+}

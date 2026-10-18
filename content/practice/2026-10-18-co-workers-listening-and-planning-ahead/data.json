@@ -1,0 +1,305 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1450.8,
+  "end": 1503.61,
+  "clips": [
+   [
+    1450.8,
+    1454.97
+   ],
+   [
+    1480.24,
+    1484.17
+   ],
+   [
+    1499.52,
+    1503.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Getting along with my co-workers makes a huge difference.",
+   "chunks": [
+    {
+     "en": "Getting along with my co-workers",
+     "ko": "동료들과 잘 지내는 것은"
+    },
+    {
+     "en": "makes a huge difference.",
+     "ko": "큰 차이를 만든다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Getting",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "along",
+     "strong": true,
+     "syl": "long",
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "co-workers",
+     "strong": true,
+     "syl": "co",
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "huge",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "difference.",
+     "strong": true,
+     "syl": "dif",
+     "link": false
+    }
+   ],
+   "tip": "makes a는 '메익스어'처럼 이어서 읽어요.",
+   "start": 1450.8,
+   "end": 1454.97
+  },
+  {
+   "text": "If you ask my friends, they'd say I'm a good listener.",
+   "chunks": [
+    {
+     "en": "If you ask my friends,",
+     "ko": "내 친구들에게 물어보면"
+    },
+    {
+     "en": "they'd say",
+     "ko": "그들은 말할 것이다"
+    },
+    {
+     "en": "I'm a good listener.",
+     "ko": "내가 잘 들어주는 사람이라고"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ask",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends,",
+     "strong": true,
+     "syl": "friends",
+     "link": false
+    },
+    {
+     "w": "they'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "say",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "listener.",
+     "strong": true,
+     "syl": "lis",
+     "link": false
+    }
+   ],
+   "tip": "I'm a는 '아이머'처럼 m과 a가 이어져요.",
+   "start": 1480.24,
+   "end": 1484.17
+  },
+  {
+   "text": "I'm also the kind of person who plans everything in advance.",
+   "chunks": [
+    {
+     "en": "I'm also the kind of person",
+     "ko": "나는 ~한 종류의 사람이기도 하다"
+    },
+    {
+     "en": "who plans everything",
+     "ko": "모든 것을 계획하는"
+    },
+    {
+     "en": "in advance.",
+     "ko": "미리"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "person",
+     "strong": true,
+     "syl": "per",
+     "link": false
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plans",
+     "strong": true,
+     "syl": "plans",
+     "link": false
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "syl": "ev",
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "advance.",
+     "strong": true,
+     "syl": "vance",
+     "link": false
+    }
+   ],
+   "tip": "kind of는 '카인더브'처럼 이어서 읽어요.",
+   "start": 1499.52,
+   "end": 1503.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "What makes a huge difference, according to the speaker?",
+   "options": [
+    "Working long hours",
+    "Getting along with co-workers",
+    "Having a big salary"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: Getting along with my co-workers makes a huge difference"
+  },
+  {
+   "q": "What would the speaker's friends say?",
+   "options": [
+    "The speaker is funny",
+    "The speaker is shy",
+    "The speaker is a good listener"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: they'd say I'm a good listener"
+  },
+  {
+   "q": "What kind of person is the speaker?",
+   "options": [
+    "One who plans everything in advance",
+    "One who acts without thinking",
+    "One who dislikes plans"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: plans everything in advance"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "get along with",
+   "ko": "~와 잘 지내다",
+   "note": "사람 관계에서 가장 흔히 쓰는 표현이에요."
+  },
+  {
+   "term": "make a huge difference",
+   "ko": "큰 차이를 만들다",
+   "note": "difference 앞에 big/huge를 써요."
+  },
+  {
+   "term": "good listener",
+   "ko": "잘 들어주는 사람",
+   "note": "성격을 소개할 때 자주 써요."
+  },
+  {
+   "term": "in advance",
+   "ko": "미리",
+   "note": "일정이나 준비를 말할 때 써요."
+  }
+ ]
+}

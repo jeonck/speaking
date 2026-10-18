@@ -1,0 +1,334 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21221.84,
+  "end": 21273.21,
+  "clips": [
+   [
+    21221.84,
+    21225.45
+   ],
+   [
+    21244.8,
+    21248.81
+   ],
+   [
+    21268.72,
+    21273.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "And best of all, the view from there is amazing.",
+   "chunks": [
+    {
+     "en": "And best of all,",
+     "ko": "무엇보다도"
+    },
+    {
+     "en": "the view from there",
+     "ko": "그곳에서 보는 경치가"
+    },
+    {
+     "en": "is amazing.",
+     "ko": "놀라워요"
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "link": false,
+     "syl": "best"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "view",
+     "strong": true,
+     "link": false,
+     "syl": "view"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "amazing.",
+     "strong": true,
+     "link": false,
+     "syl": "maz"
+    }
+   ],
+   "tip": "best of all은 '베스토브올'처럼 이어 읽어요.",
+   "start": 21221.84,
+   "end": 21225.45
+  },
+  {
+   "text": "For instance, last weekend I went there with my cousin.",
+   "chunks": [
+    {
+     "en": "For instance,",
+     "ko": "예를 들어"
+    },
+    {
+     "en": "last weekend",
+     "ko": "지난 주말에"
+    },
+    {
+     "en": "I went there",
+     "ko": "저는 그곳에 갔어요"
+    },
+    {
+     "en": "with my cousin.",
+     "ko": "사촌과 함께"
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "instance,",
+     "strong": true,
+     "link": false,
+     "syl": "in"
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekend",
+     "strong": true,
+     "link": true,
+     "syl": "week"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cousin.",
+     "strong": true,
+     "link": false,
+     "syl": "cou"
+    }
+   ],
+   "tip": "cousin은 '커즌'이라고 읽어요.",
+   "start": 21244.8,
+   "end": 21248.81
+  },
+  {
+   "text": "To give you an idea of how close it is, it's only a 10-minute walk.",
+   "chunks": [
+    {
+     "en": "To give you an idea",
+     "ko": "감이 오시도록 말하면"
+    },
+    {
+     "en": "of how close it is,",
+     "ko": "얼마나 가까운지"
+    },
+    {
+     "en": "it's only a 10-minute walk.",
+     "ko": "걸어서 10분밖에 안 걸려요"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "give",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "idea",
+     "strong": true,
+     "link": true,
+     "syl": "dea"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": true,
+     "link": true,
+     "syl": "close"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10-minute",
+     "strong": true,
+     "link": false,
+     "syl": "min"
+    },
+    {
+     "w": "walk.",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    }
+   ],
+   "tip": "an idea는 '어나이디어'처럼 이어 읽어요.",
+   "start": 21268.72,
+   "end": 21273.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is amazing about the place?",
+   "options": [
+    "The view",
+    "The food",
+    "The music"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: the view from there is amazing"
+  },
+  {
+   "q": "Who did the speaker go with last weekend?",
+   "options": [
+    "A coworker",
+    "A cousin",
+    "A neighbor"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: with my cousin"
+  },
+  {
+   "q": "How long is the walk to the place?",
+   "options": [
+    "Five minutes",
+    "Twenty minutes",
+    "Ten minutes"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: only a 10-minute walk"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "best of all",
+   "ko": "무엇보다도",
+   "note": "가장 좋은 점을 말할 때 써요."
+  },
+  {
+   "term": "for instance",
+   "ko": "예를 들어",
+   "note": "예시를 들 때 써요."
+  },
+  {
+   "term": "to give you an idea",
+   "ko": "감을 잡도록 말하면",
+   "note": "설명에 구체성을 줄 때 써요."
+  },
+  {
+   "term": "10-minute walk",
+   "ko": "걸어서 10분",
+   "note": "하이픈 뒤 minute는 단수예요."
+  }
+ ]
+}

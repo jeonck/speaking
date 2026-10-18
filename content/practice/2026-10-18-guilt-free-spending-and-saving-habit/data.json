@@ -1,0 +1,344 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19845.04,
+  "end": 19897.61,
+  "clips": [
+   [
+    19845.04,
+    19848.73
+   ],
+   [
+    19867.6,
+    19872.09
+   ],
+   [
+    19893.44,
+    19897.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Then I spend the rest without feeling guilty about it.",
+   "chunks": [
+    {
+     "en": "Then I spend the rest",
+     "ko": "그다음 나머지는 써요"
+    },
+    {
+     "en": "without feeling guilty",
+     "ko": "죄책감 느끼지 않고"
+    },
+    {
+     "en": "about it.",
+     "ko": "그것에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spend",
+     "strong": true,
+     "link": false,
+     "syl": "spend"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rest",
+     "strong": true,
+     "link": false,
+     "syl": "rest"
+    },
+    {
+     "w": "without",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feeling",
+     "strong": true,
+     "link": false,
+     "syl": "feel"
+    },
+    {
+     "w": "guilty",
+     "strong": true,
+     "link": false,
+     "syl": "guil"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "about it은 '어바우릿'처럼 이어 읽어요.",
+   "start": 19845.04,
+   "end": 19848.73
+  },
+  {
+   "text": "I'd like to learn more about managing money before I start investing.",
+   "chunks": [
+    {
+     "en": "I'd like to learn more",
+     "ko": "더 배우고 싶어요"
+    },
+    {
+     "en": "about managing money",
+     "ko": "돈 관리에 대해"
+    },
+    {
+     "en": "before I start investing.",
+     "ko": "투자를 시작하기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": false,
+     "syl": "learn"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "managing",
+     "strong": true,
+     "link": false,
+     "syl": "man"
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "link": false,
+     "syl": "mon"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "investing.",
+     "strong": true,
+     "link": false,
+     "syl": "vest"
+    }
+   ],
+   "tip": "learn more about은 '런모어바웃'처럼 이어 읽어요.",
+   "start": 19867.6,
+   "end": 19872.09
+  },
+  {
+   "text": "For now, I'm trying to build a habit of saving a little every month.",
+   "chunks": [
+    {
+     "en": "For now,",
+     "ko": "지금은"
+    },
+    {
+     "en": "I'm trying to build a habit",
+     "ko": "저는 습관을 만들려고 노력 중이에요"
+    },
+    {
+     "en": "of saving a little every month.",
+     "ko": "매달 조금씩 저축하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now,",
+     "strong": true,
+     "link": false,
+     "syl": "now"
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "build",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "habit",
+     "strong": true,
+     "link": true,
+     "syl": "hab"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saving",
+     "strong": true,
+     "link": true,
+     "syl": "sav"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "link": false,
+     "syl": "lit"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month.",
+     "strong": true,
+     "link": false,
+     "syl": "month"
+    }
+   ],
+   "tip": "habit of는 '해비토브'처럼 이어 읽어요.",
+   "start": 19893.44,
+   "end": 19897.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker feel about spending the rest of their money?",
+   "options": [
+    "Nervous",
+    "Not guilty",
+    "Regretful"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: without feeling guilty about it"
+  },
+  {
+   "q": "What does the speaker want to learn about before investing?",
+   "options": [
+    "Managing money",
+    "Tax laws",
+    "Stock charts"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: learn more about managing money"
+  },
+  {
+   "q": "What habit is the speaker trying to build for now?",
+   "options": [
+    "Spending less on food",
+    "Checking the news daily",
+    "Saving a little every month"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: build a habit of saving a little every month"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "the rest",
+   "ko": "나머지",
+   "note": "the rest of the money처럼 써요."
+  },
+  {
+   "term": "feel guilty",
+   "ko": "죄책감을 느끼다",
+   "note": "guilty는 '죄책감을 느끼는'이에요."
+  },
+  {
+   "term": "manage money",
+   "ko": "돈을 관리하다",
+   "note": "manage는 '관리하다'예요."
+  },
+  {
+   "term": "start investing",
+   "ko": "투자를 시작하다",
+   "note": "start 뒤에 -ing를 써요."
+  },
+  {
+   "term": "build a habit",
+   "ko": "습관을 만들다",
+   "note": "build 대신 form도 써요."
+  }
+ ]
+}

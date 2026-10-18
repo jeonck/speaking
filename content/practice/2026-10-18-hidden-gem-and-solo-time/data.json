@@ -1,0 +1,332 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22130.16,
+  "end": 22183.77,
+  "clips": [
+   [
+    22130.16,
+    22133.29
+   ],
+   [
+    22151.04,
+    22155.77
+   ],
+   [
+    22179.44,
+    22183.77
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I guess you could call it a hidden gem.",
+   "chunks": [
+    {
+     "en": "I guess",
+     "ko": "제 생각엔"
+    },
+    {
+     "en": "you could call it",
+     "ko": "그걸 ~라고 부를 수 있겠어요"
+    },
+    {
+     "en": "a hidden gem.",
+     "ko": "숨은 보석"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "guess",
+     "strong": true,
+     "link": false,
+     "syl": "guess"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "call",
+     "strong": true,
+     "link": true,
+     "syl": "call"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hidden",
+     "strong": true,
+     "link": false,
+     "syl": "hid"
+    },
+    {
+     "w": "gem.",
+     "strong": true,
+     "link": false,
+     "syl": "gem"
+    }
+   ],
+   "tip": "call it a는 '콜리러'처럼 이어서 읽어요.",
+   "start": 22130.16,
+   "end": 22133.29
+  },
+  {
+   "text": "It's hard to describe, but it felt both exciting and a little scary.",
+   "chunks": [
+    {
+     "en": "It's hard to describe,",
+     "ko": "설명하기 어렵지만,"
+    },
+    {
+     "en": "but it felt",
+     "ko": "그건 느껴졌어요"
+    },
+    {
+     "en": "both exciting and a little scary.",
+     "ko": "신나면서도 조금 무섭게"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "describe,",
+     "strong": true,
+     "link": false,
+     "syl": "scribe"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "felt",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exciting",
+     "strong": true,
+     "link": true,
+     "syl": "cit"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scary.",
+     "strong": true,
+     "link": false,
+     "syl": "scar"
+    }
+   ],
+   "tip": "exciting and a는 '익사이팅앤더'처럼 이어서 읽어요.",
+   "start": 22151.04,
+   "end": 22155.77
+  },
+  {
+   "text": "It may sound strange, but I actually enjoyed being on my own.",
+   "chunks": [
+    {
+     "en": "It may sound strange,",
+     "ko": "이상하게 들릴 수도 있지만,"
+    },
+    {
+     "en": "but I actually enjoyed",
+     "ko": "저는 사실 즐겼어요"
+    },
+    {
+     "en": "being on my own.",
+     "ko": "혼자 있는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sound",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strange,",
+     "strong": true,
+     "link": false,
+     "syl": "strange"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": true,
+     "link": false,
+     "syl": "ac"
+    },
+    {
+     "w": "enjoyed",
+     "strong": true,
+     "link": false,
+     "syl": "joyed"
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own.",
+     "strong": true,
+     "link": false,
+     "syl": "own"
+    }
+   ],
+   "tip": "being on은 '비잉온'처럼 이어서 읽어요.",
+   "start": 22179.44,
+   "end": 22183.77
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker call it?",
+   "options": [
+    "A hidden gem",
+    "A lucky mistake",
+    "A tourist trap"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: call it a hidden gem"
+  },
+  {
+   "q": "How did it feel?",
+   "options": [
+    "Boring and calm",
+    "Sad and lonely",
+    "Exciting and a little scary"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: both exciting and a little scary"
+  },
+  {
+   "q": "What did the speaker enjoy?",
+   "options": [
+    "Meeting strangers",
+    "Being alone",
+    "Traveling with a group"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: enjoyed being on my own"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "hidden gem",
+   "ko": "숨은 보석",
+   "note": "잘 알려지지 않은 좋은 장소에 써요."
+  },
+  {
+   "term": "hard to describe",
+   "ko": "설명하기 어려운",
+   "note": "감정을 말로 표현하기 힘들 때 써요."
+  },
+  {
+   "term": "a little scary",
+   "ko": "조금 무서운",
+   "note": "a little은 '조금'이에요."
+  },
+  {
+   "term": "It may sound strange",
+   "ko": "이상하게 들릴 수도 있지만",
+   "note": "뜻밖의 의견을 말하기 전에 써요."
+  },
+  {
+   "term": "on my own",
+   "ko": "혼자서",
+   "note": "alone과 비슷하지만 스스로 한다는 느낌이에요."
+  }
+ ]
+}

@@ -1,0 +1,301 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2005.2,
+  "end": 2055.29,
+  "clips": [
+   [
+    2005.2,
+    2009.29
+   ],
+   [
+    2030.0,
+    2033.69
+   ],
+   [
+    2051.84,
+    2055.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "In the long run, I'd love to work for a global company.",
+   "chunks": [
+    {
+     "en": "In the long run,",
+     "ko": "장기적으로는"
+    },
+    {
+     "en": "I'd love to work",
+     "ko": "일하고 싶다"
+    },
+    {
+     "en": "for a global company.",
+     "ko": "글로벌 기업에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    },
+    {
+     "w": "run,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": true,
+     "link": false,
+     "syl": "love"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "global",
+     "strong": true,
+     "link": false,
+     "syl": "glo"
+    },
+    {
+     "w": "company.",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    }
+   ],
+   "tip": "In the long run은 long과 run을 강하게, 나머지는 빠르게 흘려요.",
+   "start": 2005.2,
+   "end": 2009.29
+  },
+  {
+   "text": "Overall, I'd say I live a pretty balanced life.",
+   "chunks": [
+    {
+     "en": "Overall, I'd say",
+     "ko": "전반적으로 말하자면"
+    },
+    {
+     "en": "I live",
+     "ko": "나는 산다"
+    },
+    {
+     "en": "a pretty balanced life.",
+     "ko": "꽤 균형 잡힌 삶을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Overall,",
+     "strong": true,
+     "link": false,
+     "syl": "all"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "say",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "balanced",
+     "strong": true,
+     "link": false,
+     "syl": "bal"
+    },
+    {
+     "w": "life.",
+     "strong": true,
+     "link": false,
+     "syl": "life"
+    }
+   ],
+   "tip": "pretty는 '프리티'가 아니라 '프리디'처럼 들려요.",
+   "start": 2030.0,
+   "end": 2033.69
+  },
+  {
+   "text": "Of course, some weeks are busier than others.",
+   "chunks": [
+    {
+     "en": "Of course,",
+     "ko": "물론"
+    },
+    {
+     "en": "some weeks",
+     "ko": "어떤 주는"
+    },
+    {
+     "en": "are busier than others.",
+     "ko": "다른 주보다 더 바쁘다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "course,",
+     "strong": true,
+     "link": false,
+     "syl": "course"
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weeks",
+     "strong": true,
+     "link": true,
+     "syl": "weeks"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "busier",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "others.",
+     "strong": true,
+     "link": false,
+     "syl": "oth"
+    }
+   ],
+   "tip": "busier는 '비지어'로 읽고 첫 음절에 강세가 있어요.",
+   "start": 2051.84,
+   "end": 2055.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What would the speaker like to do in the long run?",
+   "options": [
+    "Start a business",
+    "Work for a global company",
+    "Teach English"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I'd love to work for a global company"
+  },
+  {
+   "q": "How does the speaker describe life overall?",
+   "options": [
+    "Pretty balanced",
+    "Very quiet",
+    "Too busy"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I live a pretty balanced life"
+  },
+  {
+   "q": "What does the speaker say about some weeks?",
+   "options": [
+    "They are boring",
+    "They are shorter",
+    "They are busier than others"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: some weeks are busier than others"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "in the long run",
+   "ko": "장기적으로는",
+   "note": "in the short run의 반대예요."
+  },
+  {
+   "term": "work for a global company",
+   "ko": "글로벌 기업에서 일하다",
+   "note": "work for + 회사 형태로 써요."
+  },
+  {
+   "term": "Overall, I'd say",
+   "ko": "전반적으로 말하자면",
+   "note": "의견을 정리해 말할 때 써요."
+  },
+  {
+   "term": "busier than others",
+   "ko": "다른 때보다 더 바쁜",
+   "note": "busy의 비교급은 busier예요."
+  }
+ ]
+}

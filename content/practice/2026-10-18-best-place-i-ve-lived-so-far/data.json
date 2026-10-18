@@ -1,0 +1,270 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22573.6,
+  "end": 22622.25,
+  "clips": [
+   [
+    22573.6,
+    22577.13
+   ],
+   [
+    22594.88,
+    22598.73
+   ],
+   [
+    22618.8,
+    22622.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "All in all, it was an amazing experience.",
+   "chunks": [
+    {
+     "en": "All in all,",
+     "ko": "전반적으로"
+    },
+    {
+     "en": "it was an amazing experience.",
+     "ko": "놀라운 경험이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "All",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amazing",
+     "strong": true,
+     "link": false,
+     "syl": "ma"
+    },
+    {
+     "w": "experience.",
+     "strong": true,
+     "link": false,
+     "syl": "peri"
+    }
+   ],
+   "tip": "'All in all'은 '올리놀'처럼 이어서 한 덩어리로 읽어요.",
+   "start": 22573.6,
+   "end": 22577.13
+  },
+  {
+   "text": "Overall, I'm really happy with how things turned out.",
+   "chunks": [
+    {
+     "en": "Overall,",
+     "ko": "전반적으로"
+    },
+    {
+     "en": "I'm really happy",
+     "ko": "저는 정말 만족해요"
+    },
+    {
+     "en": "with how things turned out.",
+     "ko": "일이 풀린 방식에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Overall,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "happy",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turned",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "out.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'turned out'은 '턴다웃'처럼 이어 읽어요.",
+   "start": 22594.88,
+   "end": 22598.73
+  },
+  {
+   "text": "It's probably the best place I've lived so far.",
+   "chunks": [
+    {
+     "en": "It's probably the best place",
+     "ko": "아마 가장 좋은 곳일 거예요"
+    },
+    {
+     "en": "I've lived so far.",
+     "ko": "제가 지금까지 살아본"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "probably",
+     "strong": true,
+     "link": false,
+     "syl": "prob"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lived",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "far.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'so far'는 far에 강세를 둬요.",
+   "start": 22618.8,
+   "end": 22622.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker describe the experience?",
+   "options": [
+    "Boring",
+    "Amazing",
+    "Stressful"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: it was an amazing experience"
+  },
+  {
+   "q": "How does the speaker feel about how things turned out?",
+   "options": [
+    "Really happy",
+    "A little worried",
+    "Disappointed"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I'm really happy with how things turned out"
+  },
+  {
+   "q": "What does the speaker say about the place?",
+   "options": [
+    "It is too expensive",
+    "It is the best place they have lived so far",
+    "They plan to leave soon"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: the best place I've lived so far"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "all in all",
+   "ko": "전반적으로",
+   "note": "결론을 말할 때 쓰는 표현이에요."
+  },
+  {
+   "term": "turned out",
+   "ko": "(결과가) ~하게 되었다",
+   "note": "일이 풀린 결과를 말해요."
+  },
+  {
+   "term": "so far",
+   "ko": "지금까지",
+   "note": "현재까지의 경험을 말할 때 써요."
+  },
+  {
+   "term": "overall",
+   "ko": "전반적으로",
+   "note": "all in all과 비슷한 마무리 표현이에요."
+  }
+ ]
+}

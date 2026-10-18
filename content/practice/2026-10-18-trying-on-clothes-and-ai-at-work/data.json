@@ -1,0 +1,306 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19997.76,
+  "end": 20046.41,
+  "clips": [
+   [
+    19997.76,
+    20001.13
+   ],
+   [
+    20019.36,
+    20022.97
+   ],
+   [
+    20042.56,
+    20046.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I need to try things on before I can decide.",
+   "chunks": [
+    {
+     "en": "I need to try things on",
+     "ko": "저는 입어 봐야 해요"
+    },
+    {
+     "en": "before I can decide.",
+     "ko": "결정하기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": true,
+     "link": false,
+     "syl": "need"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "things",
+     "strong": true,
+     "link": true,
+     "syl": "things"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decide.",
+     "strong": true,
+     "link": false,
+     "syl": "cide"
+    }
+   ],
+   "tip": "things on은 이어서 '띵전'처럼 들려요.",
+   "start": 19997.76,
+   "end": 20001.13
+  },
+  {
+   "text": "I think AI will change the way many people work.",
+   "chunks": [
+    {
+     "en": "I think AI will change",
+     "ko": "제 생각에 AI는 바꿀 거예요"
+    },
+    {
+     "en": "the way many people work.",
+     "ko": "많은 사람들이 일하는 방식을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "AI",
+     "strong": true,
+     "link": false,
+     "syl": "AI"
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "link": false,
+     "syl": "change"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "work.",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    }
+   ],
+   "tip": "AI는 '에이아이', 두 글자를 모두 또렷하게 읽어요.",
+   "start": 20019.36,
+   "end": 20022.97
+  },
+  {
+   "text": "I'm not sure which jobs will change the most, though.",
+   "chunks": [
+    {
+     "en": "I'm not sure",
+     "ko": "잘 모르겠어요"
+    },
+    {
+     "en": "which jobs will change the most,",
+     "ko": "어떤 직업이 가장 많이 바뀔지"
+    },
+    {
+     "en": "though.",
+     "ko": "그래도"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false,
+     "syl": "not"
+    },
+    {
+     "w": "sure",
+     "strong": true,
+     "link": false,
+     "syl": "sure"
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jobs",
+     "strong": true,
+     "link": false,
+     "syl": "jobs"
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "link": false,
+     "syl": "change"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most,",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "though.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "문장 끝 though는 '도우'로 가볍게 덧붙이듯 읽어요.",
+   "start": 20042.56,
+   "end": 20046.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker need to do before deciding?",
+   "options": [
+    "Ask a friend",
+    "Try things on",
+    "Compare prices"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I need to try things on before I can decide"
+  },
+  {
+   "q": "What does the speaker think AI will change?",
+   "options": [
+    "How many people work",
+    "Where people live",
+    "The way many people work"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: AI will change the way many people work"
+  },
+  {
+   "q": "What is the speaker unsure about?",
+   "options": [
+    "Which jobs will change the most",
+    "Whether AI is useful",
+    "When AI will arrive"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: not sure which jobs will change the most"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "try things on",
+   "ko": "(옷을) 입어 보다",
+   "note": "try on은 옷, 신발에 써요."
+  },
+  {
+   "term": "before I can decide",
+   "ko": "결정하기 전에",
+   "note": "결정에 필요한 조건을 말해요."
+  },
+  {
+   "term": "change the way",
+   "ko": "방식을 바꾸다",
+   "note": "the way 뒤에 절이 와요."
+  },
+  {
+   "term": "I'm not sure",
+   "ko": "잘 모르겠어요",
+   "note": "확신이 없을 때 써요."
+  },
+  {
+   "term": "though",
+   "ko": "그래도, 하지만",
+   "note": "문장 끝에 붙여 부드럽게 반전해요."
+  }
+ ]
+}

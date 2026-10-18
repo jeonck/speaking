@@ -1,0 +1,330 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12812.64,
+  "end": 12862.01,
+  "clips": [
+   [
+    12812.64,
+    12816.97
+   ],
+   [
+    12836.64,
+    12839.85
+   ],
+   [
+    12857.76,
+    12862.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "A cup of coffee used to cost about half of what it does now.",
+   "chunks": [
+    {
+     "en": "A cup of coffee used to cost",
+     "ko": "커피 한 잔은 가격이 나갔어요"
+    },
+    {
+     "en": "about half of what it does now.",
+     "ko": "지금의 대략 절반이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cup",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coffee",
+     "strong": true,
+     "link": false,
+     "syl": "cof"
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cost",
+     "strong": true,
+     "link": false,
+     "syl": "cost"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "half",
+     "strong": true,
+     "link": false,
+     "syl": "half"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now.",
+     "strong": true,
+     "link": false,
+     "syl": "now"
+    }
+   ],
+   "tip": "'a cup of'는 '어컵어브'처럼 이어 읽어요.",
+   "start": 12812.64,
+   "end": 12816.97
+  },
+  {
+   "text": "Rent has gone up so much in my city.",
+   "chunks": [
+    {
+     "en": "Rent has gone up",
+     "ko": "월세가 올랐어요"
+    },
+    {
+     "en": "so much",
+     "ko": "아주 많이"
+    },
+    {
+     "en": "in my city.",
+     "ko": "제가 사는 도시에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Rent",
+     "strong": true,
+     "link": false,
+     "syl": "rent"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gone",
+     "strong": true,
+     "link": true,
+     "syl": "gone"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false,
+     "syl": "much"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city.",
+     "strong": true,
+     "link": false,
+     "syl": "ci"
+    }
+   ],
+   "tip": "'gone up'은 '고넙'처럼 이어 읽어요.",
+   "start": 12836.64,
+   "end": 12839.85
+  },
+  {
+   "text": "Because of that, many of my friends still live with their parents.",
+   "chunks": [
+    {
+     "en": "Because of that,",
+     "ko": "그 때문에"
+    },
+    {
+     "en": "many of my friends",
+     "ko": "제 친구들 중 많은 수가"
+    },
+    {
+     "en": "still live with their parents.",
+     "ko": "여전히 부모님과 살아요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Because",
+     "strong": true,
+     "link": false,
+     "syl": "cause"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": true,
+     "link": false,
+     "syl": "man"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends",
+     "strong": true,
+     "link": false,
+     "syl": "friends"
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": false,
+     "syl": "live"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parents.",
+     "strong": true,
+     "link": false,
+     "syl": "par"
+    }
+   ],
+   "tip": "'because of'는 '비커저브'처럼 이어요.",
+   "start": 12857.76,
+   "end": 12862.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What used to cost about half as much?",
+   "options": [
+    "A cup of coffee",
+    "A bus ticket",
+    "A movie"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: A cup of coffee used to cost about half"
+  },
+  {
+   "q": "What has gone up in the speaker's city?",
+   "options": [
+    "Rent",
+    "Salaries",
+    "Taxes"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Rent has gone up so much"
+  },
+  {
+   "q": "Where do many of the speaker's friends still live?",
+   "options": [
+    "With their parents",
+    "Abroad",
+    "In dorms"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: still live with their parents"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "used to cost",
+   "ko": "예전에는 ~했다 (가격)",
+   "note": "과거와 지금을 비교할 때 써요."
+  },
+  {
+   "term": "about half",
+   "ko": "대략 절반",
+   "note": "about으로 어림수를 나타내요."
+  },
+  {
+   "term": "go up",
+   "ko": "오르다",
+   "note": "가격이나 월세에 모두 써요."
+  },
+  {
+   "term": "because of that",
+   "ko": "그것 때문에",
+   "note": "앞 문장의 결과를 이어요."
+  }
+ ]
+}

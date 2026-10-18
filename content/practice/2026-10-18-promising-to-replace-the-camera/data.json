@@ -1,0 +1,295 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15478.8,
+  "end": 15522.41,
+  "clips": [
+   [
+    15478.8,
+    15482.25
+   ],
+   [
+    15498.48,
+    15501.69
+   ],
+   [
+    15518.72,
+    15522.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "If it can't be fixed, I'll buy you a new one.",
+   "chunks": [
+    {
+     "en": "If it can't be fixed,",
+     "ko": "고칠 수 없다면"
+    },
+    {
+     "en": "I'll buy you a new one.",
+     "ko": "새 것으로 사 드릴게요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": true,
+     "link": false,
+     "syl": "can"
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fixed,",
+     "strong": true,
+     "link": false,
+     "syl": "fixed"
+    },
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buy",
+     "strong": true,
+     "link": false,
+     "syl": "buy"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": true,
+     "syl": "new"
+    },
+    {
+     "w": "one.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "can't be는 '캔비'처럼 t를 거의 생략해 읽어요.",
+   "start": 15478.8,
+   "end": 15482.25
+  },
+  {
+   "text": "I know a repair shop that does great work.",
+   "chunks": [
+    {
+     "en": "I know a repair shop",
+     "ko": "아는 수리점이 있어요"
+    },
+    {
+     "en": "that does great work.",
+     "ko": "일을 아주 잘하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "repair",
+     "strong": true,
+     "link": false,
+     "syl": "pair"
+    },
+    {
+     "w": "shop",
+     "strong": true,
+     "link": false,
+     "syl": "shop"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false,
+     "syl": "great"
+    },
+    {
+     "w": "work.",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    }
+   ],
+   "tip": "know a는 '노우어'처럼 이어 읽어요.",
+   "start": 15498.48,
+   "end": 15501.69
+  },
+  {
+   "text": "I'm really sorry and I'll be more careful next time.",
+   "chunks": [
+    {
+     "en": "I'm really sorry",
+     "ko": "정말 죄송해요"
+    },
+    {
+     "en": "and I'll be more careful next time.",
+     "ko": "다음엔 더 조심할게요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "sorry",
+     "strong": true,
+     "link": false,
+     "syl": "sor"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "careful",
+     "strong": true,
+     "link": false,
+     "syl": "care"
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "time.",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "careful은 첫 음절 care에 강세를 둬요.",
+   "start": 15518.72,
+   "end": 15522.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What will the speaker do if it can't be fixed?",
+   "options": [
+    "Ask for a refund",
+    "Return it",
+    "Buy a new one"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: I'll buy you a new one."
+  },
+  {
+   "q": "What does the speaker know about?",
+   "options": [
+    "A repair shop that does great work",
+    "A cheap camera store",
+    "A good lawyer"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I know a repair shop that does great work."
+  },
+  {
+   "q": "What does the speaker promise?",
+   "options": [
+    "To call every day",
+    "To be more careful next time",
+    "To pay in cash"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I'll be more careful next time."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "can't be fixed",
+   "ko": "고칠 수 없다",
+   "note": "수동태 부정형이에요."
+  },
+  {
+   "term": "buy you a new one",
+   "ko": "새 것을 사 드리다",
+   "note": "one은 앞의 명사를 대신해요."
+  },
+  {
+   "term": "repair shop",
+   "ko": "수리점",
+   "note": "자동차는 body shop이라고도 해요."
+  },
+  {
+   "term": "more careful next time",
+   "ko": "다음엔 더 조심하는",
+   "note": "사과 뒤 약속으로 자주 써요."
+  }
+ ]
+}

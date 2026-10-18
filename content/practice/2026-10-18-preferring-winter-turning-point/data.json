@@ -1,0 +1,321 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22204.64,
+  "end": 22251.69,
+  "clips": [
+   [
+    22204.64,
+    22208.57
+   ],
+   [
+    22227.12,
+    22230.49
+   ],
+   [
+    22248.08,
+    22251.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "You might be surprised, but I actually prefer winter.",
+   "chunks": [
+    {
+     "en": "You might be surprised,",
+     "ko": "놀라실지도 모르지만,"
+    },
+    {
+     "en": "but I actually prefer",
+     "ko": "저는 사실 더 좋아해요"
+    },
+    {
+     "en": "winter.",
+     "ko": "겨울을"
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "might",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "surprised,",
+     "strong": true,
+     "link": false,
+     "syl": "prised"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": true,
+     "link": false,
+     "syl": "ac"
+    },
+    {
+     "w": "prefer",
+     "strong": true,
+     "link": false,
+     "syl": "fer"
+    },
+    {
+     "w": "winter.",
+     "strong": true,
+     "link": false,
+     "syl": "win"
+    }
+   ],
+   "tip": "but I actually는 '버라이 액추얼리'처럼 이어서 읽어요.",
+   "start": 22204.64,
+   "end": 22208.57
+  },
+  {
+   "text": "Now that I think about it, it was a turning point.",
+   "chunks": [
+    {
+     "en": "Now that I think about it,",
+     "ko": "지금 생각해 보니,"
+    },
+    {
+     "en": "it was",
+     "ko": "그건 ~였어요"
+    },
+    {
+     "en": "a turning point.",
+     "ko": "전환점"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": true,
+     "syl": "think"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turning",
+     "strong": true,
+     "link": false,
+     "syl": "turn"
+    },
+    {
+     "w": "point.",
+     "strong": true,
+     "link": false,
+     "syl": "point"
+    }
+   ],
+   "tip": "think about it은 '씽커바우릿'처럼 한 덩어리로 이어 읽어요.",
+   "start": 22227.12,
+   "end": 22230.49
+  },
+  {
+   "text": "Come to think of it, I haven't been there in years.",
+   "chunks": [
+    {
+     "en": "Come to think of it,",
+     "ko": "생각해 보니,"
+    },
+    {
+     "en": "I haven't been there",
+     "ko": "저는 거기 가 본 적이 없어요"
+    },
+    {
+     "en": "in years.",
+     "ko": "몇 년 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "Come",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": true,
+     "syl": "think"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "haven't",
+     "strong": true,
+     "link": false,
+     "syl": "have"
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": true,
+     "link": false,
+     "syl": "there"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    }
+   ],
+   "tip": "think of it은 '씽커빗'처럼 이어서 읽어요.",
+   "start": 22248.08,
+   "end": 22251.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "What season does the speaker prefer?",
+   "options": [
+    "Summer",
+    "Winter",
+    "Spring"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I actually prefer winter"
+  },
+  {
+   "q": "What does the speaker call it?",
+   "options": [
+    "A turning point",
+    "A lucky break",
+    "A bad habit"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: it was a turning point"
+  },
+  {
+   "q": "How long has the speaker been away from there?",
+   "options": [
+    "Since last week",
+    "Since last month",
+    "For years"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I haven't been there in years"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "You might be surprised",
+   "ko": "놀라실지도 모르지만",
+   "note": "의외의 취향을 말하기 전에 써요."
+  },
+  {
+   "term": "prefer",
+   "ko": "더 좋아하다",
+   "note": "like better와 같아요."
+  },
+  {
+   "term": "Now that I think about it",
+   "ko": "지금 생각해 보니",
+   "note": "새삼 깨달았을 때 써요."
+  },
+  {
+   "term": "turning point",
+   "ko": "전환점",
+   "note": "삶이 바뀐 계기를 말할 때 써요."
+  },
+  {
+   "term": "Come to think of it",
+   "ko": "생각해 보니",
+   "note": "갑자기 떠오른 사실을 말할 때 써요."
+  },
+  {
+   "term": "in years",
+   "ko": "몇 년 동안",
+   "note": "부정문과 함께 써요."
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9550.24,
+  "end": 9601.93,
+  "clips": [
+   [
+    9550.24,
+    9554.25
+   ],
+   [
+    9574.16,
+    9578.01
+   ],
+   [
+    9598.0,
+    9601.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "We took a wrong turn and ended up deep in the woods.",
+   "chunks": [
+    {
+     "en": "We took a wrong turn",
+     "ko": "길을 잘못 들었고"
+    },
+    {
+     "en": "and ended up deep in the woods.",
+     "ko": "깊은 숲속까지 들어가게 됐어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wrong",
+     "strong": true,
+     "link": false,
+     "syl": "wrong"
+    },
+    {
+     "w": "turn",
+     "strong": true,
+     "link": false,
+     "syl": "turn"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ended",
+     "strong": true,
+     "link": true,
+     "syl": "end"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deep",
+     "strong": true,
+     "link": true,
+     "syl": "deep"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "woods.",
+     "strong": true,
+     "link": false,
+     "syl": "woods"
+    }
+   ],
+   "tip": "took a는 '투커', ended up은 '엔디덥'처럼 이어 읽어요.",
+   "start": 9550.24,
+   "end": 9554.25
+  },
+  {
+   "text": "It was getting dark and our phones had no signal.",
+   "chunks": [
+    {
+     "en": "It was getting dark",
+     "ko": "어두워지고 있었고"
+    },
+    {
+     "en": "and our phones had no signal.",
+     "ko": "휴대폰은 신호가 없었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "getting",
+     "strong": true,
+     "link": false,
+     "syl": "get"
+    },
+    {
+     "w": "dark",
+     "strong": true,
+     "link": false,
+     "syl": "dark"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phones",
+     "strong": true,
+     "link": false,
+     "syl": "phones"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "signal.",
+     "strong": true,
+     "link": false,
+     "syl": "sig"
+    }
+   ],
+   "tip": "and our는 '앤다워'처럼 이어서 빠르게 읽어요.",
+   "start": 9574.16,
+   "end": 9578.01
+  },
+  {
+   "text": "To be honest, I was scared, but I tried to stay calm.",
+   "chunks": [
+    {
+     "en": "To be honest,",
+     "ko": "솔직히 말해서"
+    },
+    {
+     "en": "I was scared,",
+     "ko": "무서웠지만"
+    },
+    {
+     "en": "but I tried to stay calm.",
+     "ko": "침착하려고 노력했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honest,",
+     "strong": true,
+     "link": false,
+     "syl": "hon"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scared,",
+     "strong": true,
+     "link": false,
+     "syl": "scared"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tried",
+     "strong": true,
+     "link": false,
+     "syl": "tried"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": true,
+     "link": false,
+     "syl": "stay"
+    },
+    {
+     "w": "calm.",
+     "strong": true,
+     "link": false,
+     "syl": "calm"
+    }
+   ],
+   "tip": "honest의 h는 소리 나지 않아 '아니스트'처럼 읽어요.",
+   "start": 9598.0,
+   "end": 9601.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the group do wrong?",
+   "options": [
+    "Took a wrong turn",
+    "Lost their food",
+    "Missed the bus"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: We took a wrong turn"
+  },
+  {
+   "q": "What was the problem with the phones?",
+   "options": [
+    "Low battery",
+    "No signal",
+    "Broken screens"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: our phones had no signal"
+  },
+  {
+   "q": "How did the speaker try to act?",
+   "options": [
+    "Run away",
+    "Shout loudly",
+    "Stay calm"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I tried to stay calm"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "take a wrong turn",
+   "ko": "길을 잘못 들다",
+   "note": "운전이나 도보에서 모두 써요."
+  },
+  {
+   "term": "end up",
+   "ko": "결국 ~하게 되다",
+   "note": "뜻밖의 결과에 써요."
+  },
+  {
+   "term": "no signal",
+   "ko": "신호 없음",
+   "note": "전화 수신 상태를 말해요."
+  },
+  {
+   "term": "to be honest",
+   "ko": "솔직히 말해서",
+   "note": "h는 소리 나지 않아요."
+  },
+  {
+   "term": "stay calm",
+   "ko": "침착함을 유지하다",
+   "note": "calm down과 구분해 쓰세요."
+  }
+ ]
+}

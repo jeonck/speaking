@@ -1,0 +1,288 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14891.04,
+  "end": 14941.53,
+  "clips": [
+   [
+    14891.04,
+    14895.29
+   ],
+   [
+    14916.08,
+    14919.85
+   ],
+   [
+    14937.84,
+    14941.53
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Does the warranty cover repairs or would there be a charge?",
+   "chunks": [
+    {
+     "en": "Does the warranty cover repairs",
+     "ko": "보증이 수리를 포함하나요"
+    },
+    {
+     "en": "or would there be a charge?",
+     "ko": "아니면 요금이 있나요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Does",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "warranty",
+     "strong": true,
+     "link": false,
+     "syl": "war"
+    },
+    {
+     "w": "cover",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "repairs",
+     "strong": true,
+     "link": true,
+     "syl": "pairs"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "charge?",
+     "strong": true,
+     "link": false,
+     "syl": "charge"
+    }
+   ],
+   "tip": "repairs or는 '리페어졸'처럼 이어 읽어요.",
+   "start": 14891.04,
+   "end": 14895.29
+  },
+  {
+   "text": "When is the earliest a technician could come by?",
+   "chunks": [
+    {
+     "en": "When is the earliest",
+     "ko": "언제가 가장 빠른"
+    },
+    {
+     "en": "a technician could come by?",
+     "ko": "기술자가 들를 수 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "earliest",
+     "strong": true,
+     "link": true,
+     "syl": "ear"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "technician",
+     "strong": true,
+     "link": false,
+     "syl": "nic"
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": true,
+     "link": false,
+     "syl": "come"
+    },
+    {
+     "w": "by?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "earliest a는 '얼리에스터'처럼 t를 a에 붙여 읽어요.",
+   "start": 14916.08,
+   "end": 14919.85
+  },
+  {
+   "text": "I'll be home all day tomorrow, so anytime works.",
+   "chunks": [
+    {
+     "en": "I'll be home all day tomorrow,",
+     "ko": "저는 내일 하루 종일 집에 있을 거예요"
+    },
+    {
+     "en": "so anytime works.",
+     "ko": "그래서 언제든 괜찮아요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "link": true,
+     "syl": "home"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tomorrow,",
+     "strong": true,
+     "link": false,
+     "syl": "mor"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "anytime",
+     "strong": true,
+     "link": false,
+     "syl": "any"
+    },
+    {
+     "w": "works.",
+     "strong": true,
+     "link": false,
+     "syl": "works"
+    }
+   ],
+   "tip": "home all은 '홈올'처럼 m을 다음 단어에 붙여 읽어요.",
+   "start": 14937.84,
+   "end": 14941.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask about the warranty?",
+   "options": [
+    "Whether it covers repairs or costs extra",
+    "How long the warranty lasts",
+    "Where to buy the warranty"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Does the warranty cover repairs or would there be a charge?"
+  },
+  {
+   "q": "What does the speaker want to know about the technician?",
+   "options": [
+    "Which technician is the best",
+    "How much the technician charges",
+    "The earliest time the technician could come"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: When is the earliest a technician could come by?"
+  },
+  {
+   "q": "When will the speaker be home?",
+   "options": [
+    "Tonight after work",
+    "All day tomorrow",
+    "Tomorrow morning only"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I'll be home all day tomorrow"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "warranty",
+   "ko": "품질 보증",
+   "note": "'under warranty'는 보증 기간 안이라는 뜻이에요."
+  },
+  {
+   "term": "cover repairs",
+   "ko": "수리를 보장하다",
+   "note": "보험·보증이 비용을 부담할 때 cover를 써요."
+  },
+  {
+   "term": "come by",
+   "ko": "잠깐 들르다",
+   "note": "방문할 때 자주 쓰는 구동사예요."
+  },
+  {
+   "term": "anytime works",
+   "ko": "언제든 괜찮다",
+   "note": "시간 약속에서 '아무 때나 좋아요'라는 표현이에요."
+  }
+ ]
+}

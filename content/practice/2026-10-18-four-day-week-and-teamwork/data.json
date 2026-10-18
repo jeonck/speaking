@@ -1,0 +1,327 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19206.24,
+  "end": 19261.69,
+  "clips": [
+   [
+    19206.24,
+    19210.81
+   ],
+   [
+    19232.0,
+    19236.25
+   ],
+   [
+    19256.88,
+    19261.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Honestly, I think working 4 days a week would boost productivity.",
+   "chunks": [
+    {
+     "en": "Honestly,",
+     "ko": "솔직히"
+    },
+    {
+     "en": "I think",
+     "ko": "제 생각에는"
+    },
+    {
+     "en": "working 4 days a week",
+     "ko": "주 4일 근무가"
+    },
+    {
+     "en": "would boost productivity.",
+     "ko": "생산성을 높일 것 같아요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Honestly,",
+     "strong": true,
+     "link": false,
+     "syl": "hon"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    },
+    {
+     "w": "4",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "boost",
+     "strong": true,
+     "link": false,
+     "syl": "boost"
+    },
+    {
+     "w": "productivity.",
+     "strong": true,
+     "link": false,
+     "syl": "tiv"
+    }
+   ],
+   "tip": "productivity는 세 번째 음절 tiv에 강세가 와요.",
+   "start": 19206.24,
+   "end": 19210.81
+  },
+  {
+   "text": "I think people make fewer mistakes when they've had enough rest.",
+   "chunks": [
+    {
+     "en": "I think",
+     "ko": "제 생각에"
+    },
+    {
+     "en": "people make fewer mistakes",
+     "ko": "사람들은 실수를 덜 해요"
+    },
+    {
+     "en": "when they've had enough rest.",
+     "ko": "충분히 쉬었을 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fewer",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mistakes",
+     "strong": true,
+     "link": false,
+     "syl": "take"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "enough",
+     "strong": true,
+     "link": false,
+     "syl": "nough"
+    },
+    {
+     "w": "rest.",
+     "strong": true,
+     "link": false,
+     "syl": "rest"
+    }
+   ],
+   "tip": "had enough는 '해드이너프'처럼 이어 읽어요.",
+   "start": 19232.0,
+   "end": 19236.25
+  },
+  {
+   "text": "Teamwork is important, but individual skills matter just as much.",
+   "chunks": [
+    {
+     "en": "Teamwork is important,",
+     "ko": "팀워크는 중요하지만"
+    },
+    {
+     "en": "but individual skills",
+     "ko": "개인의 기술도"
+    },
+    {
+     "en": "matter just as much.",
+     "ko": "똑같이 중요해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Teamwork",
+     "strong": true,
+     "link": false,
+     "syl": "team"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important,",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "individual",
+     "strong": true,
+     "link": false,
+     "syl": "vid"
+    },
+    {
+     "w": "skills",
+     "strong": true,
+     "link": false,
+     "syl": "skills"
+    },
+    {
+     "w": "matter",
+     "strong": true,
+     "link": false,
+     "syl": "mat"
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "just as much는 '저스태스머치'처럼 이어 읽어요.",
+   "start": 19256.88,
+   "end": 19261.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker think working 4 days a week would do?",
+   "options": [
+    "Lower salaries",
+    "Boost productivity",
+    "Reduce teamwork"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: working 4 days a week would boost productivity"
+  },
+  {
+   "q": "According to the speaker, when do people make fewer mistakes?",
+   "options": [
+    "When they have enough rest",
+    "When they work alone",
+    "When they get a raise"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: when they've had enough rest"
+  },
+  {
+   "q": "What does the speaker say matters just as much as teamwork?",
+   "options": [
+    "Office location",
+    "Individual skills",
+    "Longer meetings"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: individual skills matter just as much"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "boost productivity",
+   "ko": "생산성을 높이다",
+   "note": "boost는 '올리다, 북돋우다'라는 뜻이에요."
+  },
+  {
+   "term": "fewer mistakes",
+   "ko": "더 적은 실수",
+   "note": "셀 수 있는 명사 앞에는 less가 아니라 fewer를 써요."
+  },
+  {
+   "term": "enough rest",
+   "ko": "충분한 휴식",
+   "note": "enough는 명사 앞에 와요: enough rest."
+  },
+  {
+   "term": "individual skills",
+   "ko": "개인의 기술",
+   "note": "team과 대비해서 자주 써요."
+  },
+  {
+   "term": "matter just as much",
+   "ko": "똑같이 중요하다",
+   "note": "matter는 동사로 '중요하다'예요."
+  }
+ ]
+}

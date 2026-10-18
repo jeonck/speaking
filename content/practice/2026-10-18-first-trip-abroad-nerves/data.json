@@ -1,0 +1,300 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7405.36,
+  "end": 7453.13,
+  "clips": [
+   [
+    7405.36,
+    7409.21
+   ],
+   [
+    7426.72,
+    7430.25
+   ],
+   [
+    7449.2,
+    7453.13
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My first trip abroad was when I was in college.",
+   "chunks": [
+    {
+     "en": "My first trip abroad",
+     "ko": "내 첫 해외여행은"
+    },
+    {
+     "en": "was when I was in college.",
+     "ko": "내가 대학에 다닐 때였다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "abroad",
+     "strong": true,
+     "link": false,
+     "syl": "broad"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college.",
+     "strong": true,
+     "link": false,
+     "syl": "col"
+    }
+   ],
+   "tip": "abroad는 두 번째 음절 '브로-'에 강세가 와요.",
+   "start": 7405.36,
+   "end": 7409.21
+  },
+  {
+   "text": "I was so nervous at the airport that I couldn't eat.",
+   "chunks": [
+    {
+     "en": "I was so nervous at the airport",
+     "ko": "나는 공항에서 너무 긴장해서"
+    },
+    {
+     "en": "that I couldn't eat.",
+     "ko": "먹을 수가 없었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nervous",
+     "strong": true,
+     "link": false,
+     "syl": "ner"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "airport",
+     "strong": true,
+     "link": false,
+     "syl": "air"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "couldn't",
+     "strong": true,
+     "link": true,
+     "syl": "could"
+    },
+    {
+     "w": "eat.",
+     "strong": true,
+     "link": false,
+     "syl": "eat"
+    }
+   ],
+   "tip": "couldn't eat은 '쿠든릿'처럼 이어 읽어요.",
+   "start": 7426.72,
+   "end": 7430.25
+  },
+  {
+   "text": "Everything felt new from the signs to the food.",
+   "chunks": [
+    {
+     "en": "Everything felt new",
+     "ko": "모든 게 새롭게 느껴졌다"
+    },
+    {
+     "en": "from the signs to the food.",
+     "ko": "표지판부터 음식까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "Everything",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "felt",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "signs",
+     "strong": true,
+     "link": false,
+     "syl": "signs"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food.",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    }
+   ],
+   "tip": "from the는 약하게 '프럼더'로 읽고 signs, food를 세게 읽어요.",
+   "start": 7449.2,
+   "end": 7453.13
+  }
+ ],
+ "questions": [
+  {
+   "q": "When was the speaker's first trip abroad?",
+   "options": [
+    "During college",
+    "After starting work",
+    "In high school"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: was when I was in college"
+  },
+  {
+   "q": "Why couldn't the speaker eat at the airport?",
+   "options": [
+    "The food was too expensive",
+    "The flight was called early",
+    "The speaker was very nervous"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I was so nervous at the airport that I couldn't eat"
+  },
+  {
+   "q": "What felt new to the speaker?",
+   "options": [
+    "Only the weather",
+    "Everything, from signs to food",
+    "Just the language"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: Everything felt new from the signs to the food"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "trip abroad",
+   "ko": "해외여행",
+   "note": "abroad는 부사라 to 없이 써요."
+  },
+  {
+   "term": "so nervous that I couldn't eat",
+   "ko": "너무 긴장해서 먹을 수 없었다",
+   "note": "so ~ that ... 구문이에요."
+  },
+  {
+   "term": "at the airport",
+   "ko": "공항에서",
+   "note": "장소 앞엔 at을 써요."
+  },
+  {
+   "term": "feel new",
+   "ko": "새롭게 느껴지다",
+   "note": "feel + 형용사 패턴이에요."
+  },
+  {
+   "term": "from the signs to the food",
+   "ko": "표지판부터 음식까지",
+   "note": "from A to B는 범위를 나타내요."
+  }
+ ]
+}

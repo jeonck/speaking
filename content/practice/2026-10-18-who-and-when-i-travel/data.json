@@ -1,0 +1,308 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6774.64,
+  "end": 6826.73,
+  "clips": [
+   [
+    6774.64,
+    6778.73
+   ],
+   [
+    6798.56,
+    6802.57
+   ],
+   [
+    6822.56,
+    6826.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I usually travel with my family or close friends.",
+   "chunks": [
+    {
+     "en": "I usually travel",
+     "ko": "저는 보통 여행해요"
+    },
+    {
+     "en": "with my family",
+     "ko": "가족과 함께"
+    },
+    {
+     "en": "or close friends.",
+     "ko": "또는 친한 친구들과"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "syl": "trav",
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "syl": "fam",
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": true,
+     "syl": "close",
+     "link": false
+    },
+    {
+     "w": "friends.",
+     "strong": true,
+     "syl": "friends",
+     "link": false
+    }
+   ],
+   "tip": "family or는 '패멀리올'처럼 이어 읽어요.",
+   "start": 6774.64,
+   "end": 6778.73
+  },
+  {
+   "text": "I usually travel in the fall because the weather is perfect.",
+   "chunks": [
+    {
+     "en": "I usually travel in the fall",
+     "ko": "저는 보통 가을에 여행해요"
+    },
+    {
+     "en": "because the weather is perfect.",
+     "ko": "날씨가 완벽하기 때문에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "syl": "trav",
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fall",
+     "strong": true,
+     "syl": "fall",
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weather",
+     "strong": true,
+     "syl": "weath",
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "perfect.",
+     "strong": true,
+     "syl": "perf",
+     "link": false
+    }
+   ],
+   "tip": "travel in은 '트래벌인'처럼 이어 읽어요.",
+   "start": 6798.56,
+   "end": 6802.57
+  },
+  {
+   "text": "Sometimes I travel alone when I need some time to myself.",
+   "chunks": [
+    {
+     "en": "Sometimes I travel alone",
+     "ko": "가끔은 혼자 여행해요"
+    },
+    {
+     "en": "when I need some time",
+     "ko": "시간이 필요할 때"
+    },
+    {
+     "en": "to myself.",
+     "ko": "저만의"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sometimes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "syl": "trav",
+     "link": true
+    },
+    {
+     "w": "alone",
+     "strong": true,
+     "syl": "lone",
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "syl": "time",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "syl": "self",
+     "link": false
+    }
+   ],
+   "tip": "to myself는 myself의 self에 강세가 와요.",
+   "start": 6822.56,
+   "end": 6826.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who does the speaker usually travel with?",
+   "options": [
+    "Coworkers",
+    "Family or close friends",
+    "A tour group"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: with my family or close friends"
+  },
+  {
+   "q": "When does the speaker usually travel?",
+   "options": [
+    "In the fall",
+    "In the summer",
+    "In the winter"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: in the fall because the weather is perfect"
+  },
+  {
+   "q": "Why does the speaker sometimes travel alone?",
+   "options": [
+    "It is cheaper",
+    "To meet new people",
+    "To have time to themselves"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: when I need some time to myself"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "close friends",
+   "ko": "친한 친구들",
+   "note": "close는 '클로스'로 발음해요."
+  },
+  {
+   "term": "because the weather is perfect",
+   "ko": "날씨가 완벽해서",
+   "note": "because 뒤에는 절이 와요."
+  },
+  {
+   "term": "time to myself",
+   "ko": "혼자만의 시간",
+   "note": "some time to myself로 자주 써요."
+  },
+  {
+   "term": "usually",
+   "ko": "보통",
+   "note": "빈도부사는 일반동사 앞에 둬요."
+  }
+ ]
+}

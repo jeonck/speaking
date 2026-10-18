@@ -1,0 +1,313 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1868.16,
+  "end": 1915.05,
+  "clips": [
+   [
+    1868.16,
+    1871.85
+   ],
+   [
+    1889.44,
+    1893.21
+   ],
+   [
+    1911.52,
+    1915.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It took me a while to adjust to my work schedule.",
+   "chunks": [
+    {
+     "en": "It took me a while",
+     "ko": "나는 한참 걸렸다"
+    },
+    {
+     "en": "to adjust to",
+     "ko": "적응하는 데"
+    },
+    {
+     "en": "my work schedule.",
+     "ko": "내 업무 일정에"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": true,
+     "link": false,
+     "syl": "took"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "while",
+     "strong": true,
+     "link": false,
+     "syl": "while"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "adjust",
+     "strong": true,
+     "link": false,
+     "syl": "just"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "schedule.",
+     "strong": true,
+     "link": false,
+     "syl": "sched"
+    }
+   ],
+   "tip": "It took me는 t가 약해져 '잇툭미'처럼 흘러요.",
+   "start": 1868.16,
+   "end": 1871.85
+  },
+  {
+   "text": "If I had more free time, I'd take a cooking class.",
+   "chunks": [
+    {
+     "en": "If I had more free time,",
+     "ko": "시간이 더 있다면"
+    },
+    {
+     "en": "I'd take a cooking class.",
+     "ko": "요리 수업을 들을 것이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": true,
+     "link": false,
+     "syl": "more"
+    },
+    {
+     "w": "free",
+     "strong": true,
+     "link": false,
+     "syl": "free"
+    },
+    {
+     "w": "time,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking",
+     "strong": true,
+     "link": false,
+     "syl": "cook"
+    },
+    {
+     "w": "class.",
+     "strong": true,
+     "link": false,
+     "syl": "class"
+    }
+   ],
+   "tip": "I'd take a는 '아이드테이커'처럼 이어 읽어요.",
+   "start": 1889.44,
+   "end": 1893.21
+  },
+  {
+   "text": "I've always wanted to learn how to play the guitar.",
+   "chunks": [
+    {
+     "en": "I've always wanted to learn",
+     "ko": "나는 늘 배우고 싶었다"
+    },
+    {
+     "en": "how to play",
+     "ko": "연주하는 법을"
+    },
+    {
+     "en": "the guitar.",
+     "ko": "기타를"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "wanted",
+     "strong": true,
+     "link": false,
+     "syl": "want"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": false,
+     "syl": "learn"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "guitar.",
+     "strong": true,
+     "link": false,
+     "syl": "tar"
+    }
+   ],
+   "tip": "wanted to는 '워니투'처럼 줄여 읽어요.",
+   "start": 1911.52,
+   "end": 1915.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What took the speaker a while?",
+   "options": [
+    "Finding a new job",
+    "Adjusting to the work schedule",
+    "Learning to drive"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: It took me a while to adjust to my work schedule"
+  },
+  {
+   "q": "What would the speaker do with more free time?",
+   "options": [
+    "Travel abroad",
+    "Learn French",
+    "Take a cooking class"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I'd take a cooking class"
+  },
+  {
+   "q": "What does the speaker want to learn to play?",
+   "options": [
+    "The guitar",
+    "The piano",
+    "The drums"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: learn how to play the guitar"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "adjust to",
+   "ko": "~에 적응하다",
+   "note": "뒤에는 명사나 -ing가 와요."
+  },
+  {
+   "term": "It took me a while",
+   "ko": "시간이 좀 걸렸다",
+   "note": "It takes/took + 사람 + 시간 형태로 써요."
+  },
+  {
+   "term": "If I had..., I'd...",
+   "ko": "~이 있다면 ...할 텐데",
+   "note": "현실과 반대되는 가정에 써요."
+  },
+  {
+   "term": "have always wanted to",
+   "ko": "늘 ~하고 싶었다",
+   "note": "현재완료로 오랜 바람을 표현해요."
+  }
+ ]
+}

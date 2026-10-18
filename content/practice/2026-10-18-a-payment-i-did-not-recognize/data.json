@@ -1,0 +1,333 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17677.12,
+  "end": 17731.37,
+  "clips": [
+   [
+    17677.12,
+    17681.53
+   ],
+   [
+    17702.96,
+    17706.89
+   ],
+   [
+    17727.44,
+    17731.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Recently, I noticed a payment I didn't recognize on my account.",
+   "chunks": [
+    {
+     "en": "Recently,",
+     "ko": "최근에"
+    },
+    {
+     "en": "I noticed a payment",
+     "ko": "결제 내역을 발견했어요"
+    },
+    {
+     "en": "I didn't recognize",
+     "ko": "제가 알아보지 못한"
+    },
+    {
+     "en": "on my account.",
+     "ko": "제 계정에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Recently,",
+     "strong": true,
+     "link": false,
+     "syl": "cent"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "noticed",
+     "strong": true,
+     "link": false,
+     "syl": "no"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "payment",
+     "strong": true,
+     "link": false,
+     "syl": "pay"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recognize",
+     "strong": true,
+     "link": false,
+     "syl": "rec"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "account.",
+     "strong": true,
+     "link": false,
+     "syl": "count"
+    }
+   ],
+   "tip": "recognize는 '레컥나이즈'처럼 첫음절에 강세가 와요.",
+   "start": 17677.12,
+   "end": 17681.53
+  },
+  {
+   "text": "At first, I worried that someone else had used my card.",
+   "chunks": [
+    {
+     "en": "At first,",
+     "ko": "처음에는"
+    },
+    {
+     "en": "I worried",
+     "ko": "걱정했어요"
+    },
+    {
+     "en": "that someone else had used my card.",
+     "ko": "다른 누군가가 제 카드를 썼을까 봐"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first,",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worried",
+     "strong": true,
+     "link": false,
+     "syl": "wor"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "else",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "card.",
+     "strong": true,
+     "link": false,
+     "syl": "card"
+    }
+   ],
+   "tip": "someone else는 '섬원 엘스'로 이어 읽어요.",
+   "start": 17702.96,
+   "end": 17706.89
+  },
+  {
+   "text": "I checked the date and amount, but I still couldn't place it.",
+   "chunks": [
+    {
+     "en": "I checked the date and amount,",
+     "ko": "날짜와 금액을 확인했지만"
+    },
+    {
+     "en": "but I still couldn't place it.",
+     "ko": "여전히 그게 뭔지 짚이지 않았어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "checked",
+     "strong": true,
+     "link": false,
+     "syl": "checked"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "date",
+     "strong": true,
+     "link": false,
+     "syl": "date"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amount,",
+     "strong": true,
+     "link": false,
+     "syl": "mount"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "couldn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "couldn't는 '쿠든'처럼 끝의 t를 거의 삼켜요.",
+   "start": 17727.44,
+   "end": 17731.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker notice on the account?",
+   "options": [
+    "A missing card",
+    "A payment the speaker did not recognize",
+    "A late fee"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a payment I didn't recognize on my account"
+  },
+  {
+   "q": "What was the speaker worried about at first?",
+   "options": [
+    "The bank had closed",
+    "The account was too small",
+    "Someone else had used the card"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: someone else had used my card"
+  },
+  {
+   "q": "What two things did the speaker check?",
+   "options": [
+    "The date and amount",
+    "The name and address",
+    "The phone and email"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I checked the date and amount"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "recognize",
+   "ko": "알아보다",
+   "note": "recognize a payment는 낯익은 결제인지 알아본다는 뜻이에요."
+  },
+  {
+   "term": "account",
+   "ko": "계좌",
+   "note": "bank account의 줄임이에요."
+  },
+  {
+   "term": "worried that",
+   "ko": "~일까 걱정하다",
+   "note": "that 뒤에 걱정 내용을 이어요."
+  },
+  {
+   "term": "amount",
+   "ko": "금액",
+   "note": "a large amount처럼 써요."
+  },
+  {
+   "term": "place it",
+   "ko": "그게 뭔지 짚어내다",
+   "note": "couldn't place it은 기억이 안 난다는 뜻이에요."
+  }
+ ]
+}

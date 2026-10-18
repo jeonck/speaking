@@ -1,0 +1,328 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20446.32,
+  "end": 20503.21,
+  "clips": [
+   [
+    20446.32,
+    20450.25
+   ],
+   [
+    20471.6,
+    20476.25
+   ],
+   [
+    20499.12,
+    20503.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I don't think money alone is enough to make someone happy.",
+   "chunks": [
+    {
+     "en": "I don't think money alone",
+     "ko": "나는 돈만으로는"
+    },
+    {
+     "en": "is enough",
+     "ko": "충분하지 않다고 생각한다"
+    },
+    {
+     "en": "to make someone happy.",
+     "ko": "누군가를 행복하게 만들기에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "link": true,
+     "syl": "mon"
+    },
+    {
+     "w": "alone",
+     "strong": true,
+     "link": true,
+     "syl": "lone"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enough",
+     "strong": true,
+     "link": false,
+     "syl": "nough"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happy.",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    }
+   ],
+   "tip": "enough는 '이너프'로 'nough'에 강세를 둬요. money alone은 '머니얼론'처럼 이어져요.",
+   "start": 20446.32,
+   "end": 20450.25
+  },
+  {
+   "text": "Once I can cover my basic needs, relationships matter more to me.",
+   "chunks": [
+    {
+     "en": "Once I can cover my basic needs,",
+     "ko": "기본적인 필요를 충족할 수 있게 되면"
+    },
+    {
+     "en": "relationships matter more to me.",
+     "ko": "인간관계가 나에게 더 중요하다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Once",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cover",
+     "strong": true,
+     "link": false,
+     "syl": "cov"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basic",
+     "strong": true,
+     "link": false,
+     "syl": "ba"
+    },
+    {
+     "w": "needs,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relationships",
+     "strong": true,
+     "link": false,
+     "syl": "la"
+    },
+    {
+     "w": "matter",
+     "strong": true,
+     "link": false,
+     "syl": "mat"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "Once I는 '원사이'처럼 이어 읽고, relationships는 'la'에 강세가 와요.",
+   "start": 20471.6,
+   "end": 20476.25
+  },
+  {
+   "text": "Some people say age is just a number and I agree.",
+   "chunks": [
+    {
+     "en": "Some people say",
+     "ko": "어떤 사람들은 말한다"
+    },
+    {
+     "en": "age is just a number",
+     "ko": "나이는 단지 숫자일 뿐이라고"
+    },
+    {
+     "en": "and I agree.",
+     "ko": "그리고 나는 동의한다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "say",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "age",
+     "strong": true,
+     "link": false,
+     "syl": "age"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "number",
+     "strong": true,
+     "link": false,
+     "syl": "num"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "agree.",
+     "strong": true,
+     "link": false,
+     "syl": "gree"
+    }
+   ],
+   "tip": "just a number는 '저스터넘버'처럼 이어 읽어요. and I는 '앤다이'로 이어져요.",
+   "start": 20499.12,
+   "end": 20503.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say is not enough to make someone happy?",
+   "options": [
+    "Money alone",
+    "A good job",
+    "Free time"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: money alone is enough to make someone happy (not)"
+  },
+  {
+   "q": "When do relationships matter more to the speaker?",
+   "options": [
+    "After retirement",
+    "Once basic needs are covered",
+    "When traveling"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: Once I can cover my basic needs"
+  },
+  {
+   "q": "What does the speaker agree with?",
+   "options": [
+    "Time is money",
+    "Practice makes perfect",
+    "Age is just a number"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: age is just a number and I agree"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "alone",
+   "ko": "~만으로, 혼자",
+   "note": "money alone처럼 명사 뒤에 붙으면 '~만으로'예요."
+  },
+  {
+   "term": "cover my basic needs",
+   "ko": "기본 필요를 충족하다",
+   "note": "cover는 '비용·필요를 감당하다'예요."
+  },
+  {
+   "term": "matter more",
+   "ko": "더 중요하다",
+   "note": "matter는 동사로 '중요하다'예요."
+  },
+  {
+   "term": "age is just a number",
+   "ko": "나이는 숫자일 뿐",
+   "note": "자주 쓰는 관용 표현이에요."
+  },
+  {
+   "term": "I agree",
+   "ko": "나는 동의해요",
+   "note": "의견을 말한 뒤 덧붙여요."
+  }
+ ]
+}

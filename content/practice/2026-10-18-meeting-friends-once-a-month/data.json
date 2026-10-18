@@ -1,0 +1,336 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16856.48,
+  "end": 16907.29,
+  "clips": [
+   [
+    16856.48,
+    16860.65
+   ],
+   [
+    16880.4,
+    16884.09
+   ],
+   [
+    16903.04,
+    16907.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Since then, I've always checked both the date and the time.",
+   "chunks": [
+    {
+     "en": "Since then,",
+     "ko": "그 이후로"
+    },
+    {
+     "en": "I've always checked",
+     "ko": "나는 항상 확인한다"
+    },
+    {
+     "en": "both the date and the time.",
+     "ko": "날짜와 시간 둘 다를"
+    }
+   ],
+   "words": [
+    {
+     "w": "Since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "checked",
+     "strong": true,
+     "link": false,
+     "syl": "checked"
+    },
+    {
+     "w": "both",
+     "strong": true,
+     "link": false,
+     "syl": "both"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "date",
+     "strong": true,
+     "link": true,
+     "syl": "date"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "date and는 '데이트앤'처럼 and를 약하게 이어 읽어요.",
+   "start": 16856.48,
+   "end": 16860.65
+  },
+  {
+   "text": "My friends and I try to meet up at least once a month.",
+   "chunks": [
+    {
+     "en": "My friends and I",
+     "ko": "내 친구들과 나는"
+    },
+    {
+     "en": "try to meet up",
+     "ko": "만나려고 노력한다"
+    },
+    {
+     "en": "at least once a month.",
+     "ko": "적어도 한 달에 한 번"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends",
+     "strong": true,
+     "link": false,
+     "syl": "friends"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meet",
+     "strong": true,
+     "link": true,
+     "syl": "meet"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "once",
+     "strong": true,
+     "link": true,
+     "syl": "once"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "meet up at은 '미텁앳'처럼 이어 읽어요.",
+   "start": 16880.4,
+   "end": 16884.09
+  },
+  {
+   "text": "Finding a day that works for everyone is usually the hardest part.",
+   "chunks": [
+    {
+     "en": "Finding a day",
+     "ko": "날을 잡는 것"
+    },
+    {
+     "en": "that works for everyone",
+     "ko": "모두에게 맞는"
+    },
+    {
+     "en": "is usually the hardest part.",
+     "ko": "보통 가장 어려운 부분이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Finding",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "works",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everyone",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hardest",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "part.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "hardest part는 hard와 part에 힘을 주고 나머지는 가볍게 읽어요.",
+   "start": 16903.04,
+   "end": 16907.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What has the speaker always checked since then?",
+   "options": [
+    "The menu and the price",
+    "Both the date and the time",
+    "The address and the weather"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: checked both the date and the time"
+  },
+  {
+   "q": "How often do the speaker and friends try to meet?",
+   "options": [
+    "At least once a month",
+    "Once a week",
+    "Once a year"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: at least once a month"
+  },
+  {
+   "q": "What is usually the hardest part?",
+   "options": [
+    "Choosing a restaurant",
+    "Paying the bill",
+    "Finding a day that works for everyone"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: Finding a day that works for everyone is usually the hardest part"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Since then",
+   "ko": "그 이후로",
+   "note": "현재완료(I've checked)와 같이 써요."
+  },
+  {
+   "term": "meet up",
+   "ko": "(약속해서) 만나다",
+   "note": "meet up with 사람 형태로도 써요."
+  },
+  {
+   "term": "at least",
+   "ko": "적어도",
+   "note": "at least once a month처럼 횟수 앞에 둬요."
+  },
+  {
+   "term": "works for everyone",
+   "ko": "모두에게 괜찮다",
+   "note": "일정이 맞을 때 works for를 써요."
+  }
+ ]
+}

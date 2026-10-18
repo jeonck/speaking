@@ -1,0 +1,293 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15540.08,
+  "end": 15586.65,
+  "clips": [
+   [
+    15540.08,
+    15543.93
+   ],
+   [
+    15561.92,
+    15565.37
+   ],
+   [
+    15582.64,
+    15586.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'd like to sign up for the cooking class on Thursdays.",
+   "chunks": [
+    {
+     "en": "I'd like to sign up",
+     "ko": "등록하고 싶어요"
+    },
+    {
+     "en": "for the cooking class",
+     "ko": "요리 수업에"
+    },
+    {
+     "en": "on Thursdays.",
+     "ko": "목요일마다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sign",
+     "strong": true,
+     "link": true,
+     "syl": "sign"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking",
+     "strong": true,
+     "link": false,
+     "syl": "cook"
+    },
+    {
+     "w": "class",
+     "strong": true,
+     "link": true,
+     "syl": "class"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Thursdays.",
+     "strong": true,
+     "link": false,
+     "syl": "Thurs"
+    }
+   ],
+   "tip": "sign up은 '사이넙'처럼 이어 읽어요.",
+   "start": 15540.08,
+   "end": 15543.93
+  },
+  {
+   "text": "How many people are usually in each class?",
+   "chunks": [
+    {
+     "en": "How many people",
+     "ko": "몇 명이"
+    },
+    {
+     "en": "are usually in each class?",
+     "ko": "보통 각 수업에 있나요"
+    }
+   ],
+   "words": [
+    {
+     "w": "How",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": true,
+     "link": false,
+     "syl": "man"
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": true,
+     "syl": "peo"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": true,
+     "syl": "us"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class?",
+     "strong": true,
+     "link": false,
+     "syl": "class"
+    }
+   ],
+   "tip": "are usually는 '알유주얼리'처럼 이어 읽어요.",
+   "start": 15561.92,
+   "end": 15565.37
+  },
+  {
+   "text": "Are all the ingredients provided or should I bring some?",
+   "chunks": [
+    {
+     "en": "Are all the ingredients provided",
+     "ko": "모든 재료가 제공되나요"
+    },
+    {
+     "en": "or should I bring some?",
+     "ko": "아니면 제가 가져가야 하나요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ingredients",
+     "strong": true,
+     "link": false,
+     "syl": "gre"
+    },
+    {
+     "w": "provided",
+     "strong": true,
+     "link": true,
+     "syl": "vid"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": true,
+     "link": false,
+     "syl": "bring"
+    },
+    {
+     "w": "some?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "provided or는 '프로바이디더'처럼 이어 읽어요.",
+   "start": 15582.64,
+   "end": 15586.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which class does the speaker want to join?",
+   "options": [
+    "A yoga class on Tuesdays",
+    "A cooking class on Thursdays",
+    "A baking class on Fridays"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: sign up for the cooking class on Thursdays"
+  },
+  {
+   "q": "What does the speaker ask about the class size?",
+   "options": [
+    "How long each class lasts",
+    "How much the class costs",
+    "How many people are in each class"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: How many people are usually in each class?"
+  },
+  {
+   "q": "What does the speaker ask about ingredients?",
+   "options": [
+    "Whether they are provided or should be brought",
+    "Where to buy them",
+    "Which ones are organic"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: Are all the ingredients provided or should I bring some?"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sign up for",
+   "ko": "~에 등록하다",
+   "note": "수업·행사 신청에 쓰는 구동사예요."
+  },
+  {
+   "term": "on Thursdays",
+   "ko": "목요일마다",
+   "note": "복수형 요일은 '매주 그 요일'을 뜻해요."
+  },
+  {
+   "term": "usually",
+   "ko": "보통",
+   "note": "강세는 첫 음절 us에 와요."
+  },
+  {
+   "term": "ingredients",
+   "ko": "재료",
+   "note": "음식 재료는 늘 복수로 써요."
+  }
+ ]
+}

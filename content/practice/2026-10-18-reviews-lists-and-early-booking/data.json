@@ -1,0 +1,309 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6986.08,
+  "end": 7036.33,
+  "clips": [
+   [
+    6986.08,
+    6990.09
+   ],
+   [
+    7009.2,
+    7013.05
+   ],
+   [
+    7032.64,
+    7036.33
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I read reviews and make a list of places to visit.",
+   "chunks": [
+    {
+     "en": "I read reviews",
+     "ko": "저는 후기를 읽어요"
+    },
+    {
+     "en": "and make a list of places",
+     "ko": "그리고 장소 목록을 만들어요"
+    },
+    {
+     "en": "to visit.",
+     "ko": "방문할"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "read",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reviews",
+     "strong": true,
+     "syl": "views",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "list",
+     "strong": true,
+     "syl": "list",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "places",
+     "strong": true,
+     "syl": "plac",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visit.",
+     "strong": true,
+     "syl": "vis",
+     "link": false
+    }
+   ],
+   "tip": "make a는 '메이커'처럼 이어 읽어요.",
+   "start": 6986.08,
+   "end": 6990.09
+  },
+  {
+   "text": "I book my flights and hotel at least a month ahead.",
+   "chunks": [
+    {
+     "en": "I book my flights and hotel",
+     "ko": "저는 항공편과 호텔을 예약해요"
+    },
+    {
+     "en": "at least a month ahead.",
+     "ko": "적어도 한 달 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "book",
+     "strong": true,
+     "syl": "book",
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flights",
+     "strong": true,
+     "syl": "flights",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotel",
+     "strong": true,
+     "syl": "tel",
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month",
+     "strong": true,
+     "syl": "month",
+     "link": true
+    },
+    {
+     "w": "ahead.",
+     "strong": true,
+     "syl": "head",
+     "link": false
+    }
+   ],
+   "tip": "hotel at은 '호텔랫'처럼 이어 읽어요.",
+   "start": 7009.2,
+   "end": 7013.05
+  },
+  {
+   "text": "Booking early usually saves me a lot of money.",
+   "chunks": [
+    {
+     "en": "Booking early",
+     "ko": "일찍 예약하면"
+    },
+    {
+     "en": "usually saves me",
+     "ko": "보통 저에게 아껴 줘요"
+    },
+    {
+     "en": "a lot of money.",
+     "ko": "많은 돈을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Booking",
+     "strong": true,
+     "syl": "Book",
+     "link": false
+    },
+    {
+     "w": "early",
+     "strong": true,
+     "syl": "ear",
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saves",
+     "strong": true,
+     "syl": "saves",
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "money.",
+     "strong": true,
+     "syl": "mon",
+     "link": false
+    }
+   ],
+   "tip": "lot of는 '라러브'처럼 이어 읽어요.",
+   "start": 7032.64,
+   "end": 7036.33
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker read before traveling?",
+   "options": [
+    "Reviews",
+    "Maps",
+    "Novels"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I read reviews"
+  },
+  {
+   "q": "How far ahead does the speaker book flights and hotel?",
+   "options": [
+    "A week",
+    "A month",
+    "A year"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: at least a month ahead"
+  },
+  {
+   "q": "What does booking early usually do?",
+   "options": [
+    "Gives free upgrades",
+    "Shortens the trip",
+    "Saves a lot of money"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: usually saves me a lot of money"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "make a list of",
+   "ko": "~의 목록을 만들다",
+   "note": "make a list of + 복수명사로 써요."
+  },
+  {
+   "term": "book a flight",
+   "ko": "항공편을 예약하다",
+   "note": "book은 동사로 '예약하다'예요."
+  },
+  {
+   "term": "a month ahead",
+   "ko": "한 달 전에",
+   "note": "ahead는 '미리'라는 뜻이에요."
+  },
+  {
+   "term": "save money",
+   "ko": "돈을 아끼다",
+   "note": "save + 사람 + 돈 형태도 가능해요."
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9257.76,
+  "end": 9310.17,
+  "clips": [
+   [
+    9257.76,
+    9261.53
+   ],
+   [
+    9281.28,
+    9285.45
+   ],
+   [
+    9306.0,
+    9310.17
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I went with my family when I was about 12 years old.",
+   "chunks": [
+    {
+     "en": "I went with my family",
+     "ko": "가족과 함께 갔어요"
+    },
+    {
+     "en": "when I was about 12 years old.",
+     "ko": "내가 약 12살이었을 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": true,
+     "link": false,
+     "syl": "went"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "link": false,
+     "syl": "fam"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "12",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "old.",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    }
+   ],
+   "tip": "years old는 '이어졸드'처럼 이어 읽어요.",
+   "start": 9257.76,
+   "end": 9261.53
+  },
+  {
+   "text": "Everything felt new from the food to the street signs.",
+   "chunks": [
+    {
+     "en": "Everything felt new",
+     "ko": "모든 것이 새롭게 느껴졌어요"
+    },
+    {
+     "en": "from the food",
+     "ko": "음식부터"
+    },
+    {
+     "en": "to the street signs.",
+     "ko": "거리 표지판까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "Everything",
+     "strong": true,
+     "link": false,
+     "syl": "Ev"
+    },
+    {
+     "w": "felt",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "street",
+     "strong": true,
+     "link": false,
+     "syl": "street"
+    },
+    {
+     "w": "signs.",
+     "strong": true,
+     "link": false,
+     "syl": "signs"
+    }
+   ],
+   "tip": "from A to B 구조에서 food와 street signs를 강하게 읽어요.",
+   "start": 9281.28,
+   "end": 9285.45
+  },
+  {
+   "text": "I remember being too nervous to order food by myself.",
+   "chunks": [
+    {
+     "en": "I remember",
+     "ko": "기억나요"
+    },
+    {
+     "en": "being too nervous",
+     "ko": "너무 긴장했던 것이"
+    },
+    {
+     "en": "to order food by myself.",
+     "ko": "혼자 음식을 주문하기에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remember",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nervous",
+     "strong": true,
+     "link": false,
+     "syl": "nerv"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "order",
+     "strong": true,
+     "link": false,
+     "syl": "or"
+    },
+    {
+     "w": "food",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    }
+   ],
+   "tip": "nervous는 첫 음절 ner에 강세를 둬요.",
+   "start": 9306.0,
+   "end": 9310.17
+  }
+ ],
+ "questions": [
+  {
+   "q": "How old was the speaker?",
+   "options": [
+    "About 8",
+    "About 12",
+    "About 16"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: when I was about 12 years old"
+  },
+  {
+   "q": "What felt new?",
+   "options": [
+    "Everything, from the food to the street signs",
+    "Only the weather",
+    "Only the language classes"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Everything felt new from the food to the street signs"
+  },
+  {
+   "q": "What was the speaker too nervous to do?",
+   "options": [
+    "Take a train",
+    "Talk to a teacher",
+    "Order food alone"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: too nervous to order food by myself"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "about 12 years old",
+   "ko": "약 12살",
+   "note": "나이 앞의 about은 대략을 뜻해요."
+  },
+  {
+   "term": "from A to B",
+   "ko": "A부터 B까지",
+   "note": "범위를 말할 때 써요."
+  },
+  {
+   "term": "too nervous to",
+   "ko": "너무 긴장해서 ~못하는",
+   "note": "too ~ to 구조예요."
+  },
+  {
+   "term": "order food",
+   "ko": "음식을 주문하다",
+   "note": "order 뒤에 바로 음식이 와요."
+  },
+  {
+   "term": "by myself",
+   "ko": "혼자서",
+   "note": "on my own과 비슷해요."
+  }
+ ]
+}

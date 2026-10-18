@@ -1,0 +1,271 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5522.08,
+  "end": 5569.61,
+  "clips": [
+   [
+    5522.08,
+    5525.85
+   ],
+   [
+    5544.8,
+    5548.57
+   ],
+   [
+    5566.08,
+    5569.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I also love going to cafes on weekends.",
+   "chunks": [
+    {
+     "en": "I also love going to cafes",
+     "ko": "나는 또한 카페에 가는 것을 아주 좋아한다"
+    },
+    {
+     "en": "on weekends.",
+     "ko": "주말에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cafes",
+     "strong": true,
+     "syl": "caf",
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekends.",
+     "strong": true,
+     "syl": "week",
+     "link": false
+    }
+   ],
+   "tip": "'cafes'는 '카페이'가 아니라 '카페즈'로 끝을 살려요.",
+   "start": 5522.08,
+   "end": 5525.85
+  },
+  {
+   "text": "There's a cozy little cafe near my office.",
+   "chunks": [
+    {
+     "en": "There's a cozy little cafe",
+     "ko": "아늑한 작은 카페가 있다"
+    },
+    {
+     "en": "near my office.",
+     "ko": "내 사무실 근처에"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cozy",
+     "strong": true,
+     "syl": "co",
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "syl": "lit",
+     "link": false
+    },
+    {
+     "w": "cafe",
+     "strong": true,
+     "syl": "caf",
+     "link": false
+    },
+    {
+     "w": "near",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "office.",
+     "strong": true,
+     "syl": "of",
+     "link": false
+    }
+   ],
+   "tip": "'There's a'는 '데얼저'처럼 이어 읽어요.",
+   "start": 5544.8,
+   "end": 5548.57
+  },
+  {
+   "text": "It's kind of a hidden gem in the area.",
+   "chunks": [
+    {
+     "en": "It's kind of a hidden gem",
+     "ko": "그곳은 일종의 숨은 보석이다"
+    },
+    {
+     "en": "in the area.",
+     "ko": "그 지역에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hidden",
+     "strong": true,
+     "syl": "hid",
+     "link": false
+    },
+    {
+     "w": "gem",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "area.",
+     "strong": true,
+     "syl": "ar",
+     "link": false
+    }
+   ],
+   "tip": "'kind of a'는 '카인더버'처럼 이어 읽어요.",
+   "start": 5566.08,
+   "end": 5569.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "When does the speaker like to go to cafes?",
+   "options": [
+    "On weekdays after work",
+    "On weekends",
+    "Every morning"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: on weekends"
+  },
+  {
+   "q": "Where is the cozy cafe?",
+   "options": [
+    "Near the speaker's office",
+    "Next to the subway",
+    "Inside the park"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: near my office"
+  },
+  {
+   "q": "How does the speaker describe the cafe?",
+   "options": [
+    "A big chain",
+    "A tourist spot",
+    "A hidden gem"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: kind of a hidden gem"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "cozy",
+   "ko": "아늑한",
+   "note": "분위기가 편안한 곳에 써요."
+  },
+  {
+   "term": "near my office",
+   "ko": "내 사무실 근처에",
+   "note": "near + 장소로 위치를 말해요."
+  },
+  {
+   "term": "kind of",
+   "ko": "약간, 일종의",
+   "note": "표현을 부드럽게 만들어요."
+  },
+  {
+   "term": "hidden gem",
+   "ko": "숨은 보석 같은 곳",
+   "note": "잘 알려지지 않은 좋은 장소에 써요."
+  },
+  {
+   "term": "in the area",
+   "ko": "그 지역에",
+   "note": "주변 동네를 가리켜요."
+  }
+ ]
+}

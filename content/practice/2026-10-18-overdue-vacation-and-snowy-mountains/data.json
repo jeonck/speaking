@@ -1,0 +1,317 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8602.8,
+  "end": 8651.45,
+  "clips": [
+   [
+    8602.8,
+    8606.41
+   ],
+   [
+    8624.48,
+    8628.33
+   ],
+   [
+    8646.96,
+    8651.45
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I've never seen a snow-covered mountain up close.",
+   "chunks": [
+    {
+     "en": "I've never seen",
+     "ko": "저는 본 적이 없어요"
+    },
+    {
+     "en": "a snow-covered mountain",
+     "ko": "눈 덮인 산을"
+    },
+    {
+     "en": "up close.",
+     "ko": "가까이에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "nev"
+    },
+    {
+     "w": "seen",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "snow-covered",
+     "strong": true,
+     "link": false,
+     "syl": "cov"
+    },
+    {
+     "w": "mountain",
+     "strong": true,
+     "link": false,
+     "syl": "moun"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close.",
+     "strong": true,
+     "link": false,
+     "syl": "close"
+    }
+   ],
+   "tip": "never에 강세를 두고, snow-covered는 snow와 cov 두 곳을 살려 읽어요.",
+   "start": 8602.8,
+   "end": 8606.41
+  },
+  {
+   "text": "It's been ages since I went on a real vacation.",
+   "chunks": [
+    {
+     "en": "It's been ages",
+     "ko": "아주 오래됐어요"
+    },
+    {
+     "en": "since I went on a real vacation.",
+     "ko": "제가 진짜 휴가를 간 이후로"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ages",
+     "strong": true,
+     "link": false,
+     "syl": "ages"
+    },
+    {
+     "w": "since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "real",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "vacation.",
+     "strong": true,
+     "link": false,
+     "syl": "ca"
+    }
+   ],
+   "tip": "went on a는 '웬트오너'처럼 이어 읽어요. ages는 길게 말해 '오래'를 강조해요.",
+   "start": 8624.48,
+   "end": 8628.33
+  },
+  {
+   "text": "Work has been so busy that I haven't been able to take time off.",
+   "chunks": [
+    {
+     "en": "Work has been so busy",
+     "ko": "일이 너무 바빠서"
+    },
+    {
+     "en": "that I haven't been able",
+     "ko": "제가 할 수 없었어요"
+    },
+    {
+     "en": "to take time off.",
+     "ko": "휴가를 내는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Work",
+     "strong": true,
+     "link": false,
+     "syl": "Work"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "busy",
+     "strong": true,
+     "link": false,
+     "syl": "bu"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "haven't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "able",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": true,
+     "syl": "time"
+    },
+    {
+     "w": "off.",
+     "strong": true,
+     "link": false,
+     "syl": "off"
+    }
+   ],
+   "tip": "time off는 '타임오프'처럼 이어요. so busy에서 so를 길게 해 정도를 강조해요.",
+   "start": 8646.96,
+   "end": 8651.45
+  }
+ ],
+ "questions": [
+  {
+   "q": "What has the speaker never seen up close?",
+   "options": [
+    "A frozen lake",
+    "A volcano",
+    "A snow-covered mountain"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: never seen a snow-covered mountain up close."
+  },
+  {
+   "q": "How does the speaker describe the time since the last real vacation?",
+   "options": [
+    "Only a few weeks",
+    "Ages",
+    "Exactly one year"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: It's been ages since I went on a real vacation."
+  },
+  {
+   "q": "Why hasn't the speaker been able to take time off?",
+   "options": [
+    "Work has been so busy",
+    "The speaker is saving money",
+    "The weather was bad"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: Work has been so busy that I haven't been able to take time off."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "up close",
+   "ko": "가까이에서",
+   "note": "see something up close로 '직접 가까이서 보다'를 말해요."
+  },
+  {
+   "term": "snow-covered",
+   "ko": "눈 덮인",
+   "note": "하이픈으로 연결한 복합 형용사예요."
+  },
+  {
+   "term": "It's been ages since ~",
+   "ko": "~한 지 오래됐어요",
+   "note": "It's been a long time since ~와 같은 뜻이에요."
+  },
+  {
+   "term": "take time off",
+   "ko": "휴가를 내다",
+   "note": "일에서 쉬는 시간을 가진다는 뜻이에요."
+  },
+  {
+   "term": "real vacation",
+   "ko": "제대로 된 휴가",
+   "note": "출장이나 짧은 외출과 구분해 줘요."
+  }
+ ]
+}

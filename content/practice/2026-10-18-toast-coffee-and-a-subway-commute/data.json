@@ -1,0 +1,280 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 376.0,
+  "end": 423.29,
+  "clips": [
+   [
+    376.0,
+    380.25
+   ],
+   [
+    399.12,
+    402.49
+   ],
+   [
+    419.6,
+    423.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Most mornings I have toast and a cup of black coffee.",
+   "chunks": [
+    {
+     "en": "Most mornings",
+     "ko": "대부분의 아침에는"
+    },
+    {
+     "en": "I have toast",
+     "ko": "나는 토스트를 먹어요"
+    },
+    {
+     "en": "and a cup of black coffee.",
+     "ko": "그리고 블랙커피 한 잔"
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mornings",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "toast",
+     "strong": true,
+     "link": true,
+     "syl": "toast"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cup",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "black",
+     "strong": true,
+     "link": false,
+     "syl": "black"
+    },
+    {
+     "w": "coffee.",
+     "strong": true,
+     "link": false,
+     "syl": "cof"
+    }
+   ],
+   "tip": "cup of는 '커퍼브'처럼 이어서 빠르게 읽어요.",
+   "start": 376.0,
+   "end": 380.25
+  },
+  {
+   "text": "I leave home at around 7:45.",
+   "chunks": [
+    {
+     "en": "I leave home",
+     "ko": "나는 집을 나서요"
+    },
+    {
+     "en": "at around 7:45.",
+     "ko": "7시 45분쯤에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leave",
+     "strong": true,
+     "link": false,
+     "syl": "leave"
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "7:45.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "at around는 '애러라운드'처럼 이어 읽어요.",
+   "start": 399.12,
+   "end": 402.49
+  },
+  {
+   "text": "My commute takes about 40 minutes by subway.",
+   "chunks": [
+    {
+     "en": "My commute takes",
+     "ko": "내 통근은 걸려요"
+    },
+    {
+     "en": "about 40 minutes",
+     "ko": "약 40분"
+    },
+    {
+     "en": "by subway.",
+     "ko": "지하철로"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "commute",
+     "strong": true,
+     "link": false,
+     "syl": "mute"
+    },
+    {
+     "w": "takes",
+     "strong": true,
+     "link": true,
+     "syl": "takes"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "40",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "subway.",
+     "strong": true,
+     "link": false,
+     "syl": "sub"
+    }
+   ],
+   "tip": "commute는 '커뮤트'로 뒤의 mute에 강세를 둬요.",
+   "start": 419.6,
+   "end": 423.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker usually have for breakfast?",
+   "options": [
+    "Cereal and tea",
+    "Eggs and juice",
+    "Toast and black coffee"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: toast and a cup of black coffee"
+  },
+  {
+   "q": "What time does the speaker leave home?",
+   "options": [
+    "Around 7:15",
+    "Around 7:45",
+    "Around 8:45"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: I leave home at around 7:45"
+  },
+  {
+   "q": "How long is the commute?",
+   "options": [
+    "About 40 minutes by subway",
+    "About 40 minutes by bus",
+    "About 20 minutes by subway"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: about 40 minutes by subway"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "black coffee",
+   "ko": "블랙커피",
+   "note": "설탕이나 우유 없는 커피예요."
+  },
+  {
+   "term": "leave home",
+   "ko": "집을 나서다",
+   "note": "at around + 시각으로 출발 시간을 말해요."
+  },
+  {
+   "term": "commute",
+   "ko": "통근, 출퇴근",
+   "note": "명사와 동사로 모두 써요."
+  },
+  {
+   "term": "by subway",
+   "ko": "지하철로",
+   "note": "교통수단은 by + 무관사 명사예요."
+  },
+  {
+   "term": "Most mornings",
+   "ko": "대부분의 아침",
+   "note": "빈도를 말하는 부사구예요."
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4012.08,
+  "end": 4058.17,
+  "clips": [
+   [
+    4012.08,
+    4015.85
+   ],
+   [
+    4033.04,
+    4036.65
+   ],
+   [
+    4054.56,
+    4058.17
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "One downside is that parking is hard to find.",
+   "chunks": [
+    {
+     "en": "One downside is that",
+     "ko": "한 가지 단점은"
+    },
+    {
+     "en": "parking is hard to find.",
+     "ko": "주차할 곳을 찾기 어렵다는 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "downside",
+     "strong": true,
+     "link": false,
+     "syl": "down"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parking",
+     "strong": true,
+     "link": false,
+     "syl": "park"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find.",
+     "strong": true,
+     "link": false,
+     "syl": "find"
+    }
+   ],
+   "tip": "'downside'는 down에 강세, side는 약하게 '다운사이드'로 읽어요.",
+   "start": 4012.08,
+   "end": 4015.85
+  },
+  {
+   "text": "On weekends, the main road gets really crowded.",
+   "chunks": [
+    {
+     "en": "On weekends,",
+     "ko": "주말에는"
+    },
+    {
+     "en": "the main road",
+     "ko": "큰길이"
+    },
+    {
+     "en": "gets really crowded.",
+     "ko": "정말 붐벼요"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekends,",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "main",
+     "strong": true,
+     "link": false,
+     "syl": "main"
+    },
+    {
+     "w": "road",
+     "strong": true,
+     "link": false,
+     "syl": "road"
+    },
+    {
+     "w": "gets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "crowded.",
+     "strong": true,
+     "link": false,
+     "syl": "crow"
+    }
+   ],
+   "tip": "'crowded'는 '크라우디드'처럼 crowd에 강세를 줘요.",
+   "start": 4033.04,
+   "end": 4036.65
+  },
+  {
+   "text": "There's been a lot of construction going on lately.",
+   "chunks": [
+    {
+     "en": "There's been a lot of construction",
+     "ko": "많은 공사가"
+    },
+    {
+     "en": "going on lately.",
+     "ko": "최근에 진행되고 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": true,
+     "syl": "lot"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "construction",
+     "strong": true,
+     "link": false,
+     "syl": "struc"
+    },
+    {
+     "w": "going",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lately.",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    }
+   ],
+   "tip": "'a lot of'는 '얼라러브'처럼 이어서 빠르게 읽어요.",
+   "start": 4054.56,
+   "end": 4058.17
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is hard to find?",
+   "options": [
+    "Parking",
+    "Restaurants",
+    "Public transport"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: parking is hard to find"
+  },
+  {
+   "q": "When does the main road get crowded?",
+   "options": [
+    "On weekends",
+    "On weekday mornings",
+    "Late at night"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: On weekends, the main road gets really crowded"
+  },
+  {
+   "q": "What has been going on lately?",
+   "options": [
+    "A lot of construction",
+    "A big festival",
+    "Road closures for a race"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: a lot of construction going on lately"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "downside",
+   "ko": "단점",
+   "note": "장점은 upside라고 해요."
+  },
+  {
+   "term": "hard to find",
+   "ko": "찾기 어려운",
+   "note": "'hard to + 동사'로 어려움을 말해요."
+  },
+  {
+   "term": "crowded",
+   "ko": "붐비는",
+   "note": "장소에 사람이 많을 때 써요."
+  },
+  {
+   "term": "going on lately",
+   "ko": "최근에 진행 중인",
+   "note": "lately는 최근 상황에 써요."
+  }
+ ]
+}

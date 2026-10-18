@@ -1,0 +1,291 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 578.4,
+  "end": 626.97,
+  "clips": [
+   [
+    578.4,
+    581.93
+   ],
+   [
+    599.92,
+    604.09
+   ],
+   [
+    622.88,
+    626.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My mornings are usually packed with meetings.",
+   "chunks": [
+    {
+     "en": "My mornings",
+     "ko": "내 아침은"
+    },
+    {
+     "en": "are usually packed",
+     "ko": "보통 가득 차 있어요"
+    },
+    {
+     "en": "with meetings.",
+     "ko": "회의로"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mornings",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "packed",
+     "strong": true,
+     "link": false,
+     "syl": "packed"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meetings.",
+     "strong": true,
+     "link": false,
+     "syl": "meet"
+    }
+   ],
+   "tip": "packed with는 '팩트윗'처럼 t가 약하게 들려요.",
+   "start": 578.4,
+   "end": 581.93
+  },
+  {
+   "text": "Around noon, I grab lunch with a few co-workers.",
+   "chunks": [
+    {
+     "en": "Around noon,",
+     "ko": "정오쯤에는,"
+    },
+    {
+     "en": "I grab lunch",
+     "ko": "나는 점심을 먹어요"
+    },
+    {
+     "en": "with a few co-workers.",
+     "ko": "동료 몇 명과"
+    }
+   ],
+   "words": [
+    {
+     "w": "Around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "noon,",
+     "strong": true,
+     "link": false,
+     "syl": "noon"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grab",
+     "strong": true,
+     "link": false,
+     "syl": "grab"
+    },
+    {
+     "w": "lunch",
+     "strong": true,
+     "link": false,
+     "syl": "lunch"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "co-workers.",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    }
+   ],
+   "tip": "grab lunch는 간단히 점심을 먹는다는 느낌의 표현이에요. '그랩런치'로 읽어요.",
+   "start": 599.92,
+   "end": 604.09
+  },
+  {
+   "text": "We usually eat at a small restaurant near the office.",
+   "chunks": [
+    {
+     "en": "We usually eat",
+     "ko": "우리는 보통 먹어요"
+    },
+    {
+     "en": "at a small restaurant",
+     "ko": "작은 식당에서"
+    },
+    {
+     "en": "near the office.",
+     "ko": "사무실 근처의"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eat",
+     "strong": true,
+     "link": true,
+     "syl": "eat"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "restaurant",
+     "strong": true,
+     "link": false,
+     "syl": "rest"
+    },
+    {
+     "w": "near",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "office.",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    }
+   ],
+   "tip": "restaurant는 '레스터란트'처럼 짧게 읽어요.",
+   "start": 622.88,
+   "end": 626.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What are the speaker's mornings usually packed with?",
+   "options": [
+    "Phone calls",
+    "Emails",
+    "Meetings"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: packed with meetings"
+  },
+  {
+   "q": "When does the speaker have lunch?",
+   "options": [
+    "Around noon",
+    "Around two",
+    "Around ten"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Around noon, I grab lunch"
+  },
+  {
+   "q": "Where do they usually eat?",
+   "options": [
+    "At the office cafeteria",
+    "At a small restaurant near the office",
+    "At home"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: a small restaurant near the office"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "packed with",
+   "ko": "~로 가득 찬",
+   "note": "일정이 빡빡할 때 써요."
+  },
+  {
+   "term": "grab lunch",
+   "ko": "점심을 간단히 먹다",
+   "note": "grab은 '재빨리 먹다'의 느낌이에요."
+  },
+  {
+   "term": "co-worker",
+   "ko": "직장 동료",
+   "note": "colleague보다 편한 말이에요."
+  },
+  {
+   "term": "a few",
+   "ko": "몇 명의, 몇 개의",
+   "note": "셀 수 있는 명사 앞에 써요."
+  },
+  {
+   "term": "Around noon",
+   "ko": "정오쯤에",
+   "note": "around + 시각으로 대략을 나타내요."
+  }
+ ]
+}

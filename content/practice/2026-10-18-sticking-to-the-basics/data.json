@@ -1,0 +1,298 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2072.8,
+  "end": 2125.21,
+  "clips": [
+   [
+    2072.8,
+    2076.81
+   ],
+   [
+    2097.6,
+    2101.93
+   ],
+   [
+    2121.76,
+    2125.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "When things get hectic, I try to stick to the basics.",
+   "chunks": [
+    {
+     "en": "When things get hectic,",
+     "ko": "상황이 정신없어지면"
+    },
+    {
+     "en": "I try to stick to",
+     "ko": "~을 고수하려 한다"
+    },
+    {
+     "en": "the basics.",
+     "ko": "기본에"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hectic,",
+     "strong": true,
+     "link": false,
+     "syl": "hec"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stick",
+     "strong": true,
+     "link": false,
+     "syl": "stick"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basics.",
+     "strong": true,
+     "link": false,
+     "syl": "ba"
+    }
+   ],
+   "tip": "hectic은 첫 음절 hec에 강세를 둬요.",
+   "start": 2072.8,
+   "end": 2076.81
+  },
+  {
+   "text": "That means eating well, sleeping enough and moving my body.",
+   "chunks": [
+    {
+     "en": "That means",
+     "ko": "그것은 의미한다"
+    },
+    {
+     "en": "eating well, sleeping enough",
+     "ko": "잘 먹고 충분히 자고"
+    },
+    {
+     "en": "and moving my body.",
+     "ko": "몸을 움직이는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "means",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eating",
+     "strong": true,
+     "link": false,
+     "syl": "eat"
+    },
+    {
+     "w": "well,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sleeping",
+     "strong": true,
+     "link": false,
+     "syl": "sleep"
+    },
+    {
+     "w": "enough",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moving",
+     "strong": true,
+     "link": false,
+     "syl": "mov"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body.",
+     "strong": true,
+     "link": false,
+     "syl": "bod"
+    }
+   ],
+   "tip": "sleeping enough and는 '슬리핑이너프앤'처럼 이어져요.",
+   "start": 2097.6,
+   "end": 2101.93
+  },
+  {
+   "text": "A small routine like that keeps me going.",
+   "chunks": [
+    {
+     "en": "A small routine like that",
+     "ko": "그런 작은 루틴이"
+    },
+    {
+     "en": "keeps me going.",
+     "ko": "나를 계속 나아가게 한다"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "routine",
+     "strong": true,
+     "link": false,
+     "syl": "tine"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keeps",
+     "strong": true,
+     "link": false,
+     "syl": "keeps"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going.",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    }
+   ],
+   "tip": "keeps me going에서는 going을 가장 강하게 읽어요.",
+   "start": 2121.76,
+   "end": 2125.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker try to do when things get hectic?",
+   "options": [
+    "Take a long break",
+    "Stick to the basics",
+    "Cancel all plans"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I try to stick to the basics"
+  },
+  {
+   "q": "Which of these is part of the basics?",
+   "options": [
+    "Watching TV",
+    "Skipping meals",
+    "Sleeping enough"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: eating well, sleeping enough and moving my body"
+  },
+  {
+   "q": "What keeps the speaker going?",
+   "options": [
+    "A small routine",
+    "Strong coffee",
+    "A big vacation"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: A small routine like that keeps me going"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "hectic",
+   "ko": "정신없이 바쁜",
+   "note": "busy보다 더 어수선한 느낌이에요."
+  },
+  {
+   "term": "stick to the basics",
+   "ko": "기본을 지키다",
+   "note": "stick to + 계획/규칙으로도 써요."
+  },
+  {
+   "term": "moving my body",
+   "ko": "몸을 움직이다",
+   "note": "운동을 부드럽게 말하는 표현이에요."
+  },
+  {
+   "term": "keeps me going",
+   "ko": "나를 계속 버티게 하다",
+   "note": "keep + 사람 + going 형태예요."
+  }
+ ]
+}

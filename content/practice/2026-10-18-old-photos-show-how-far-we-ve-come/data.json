@@ -1,0 +1,317 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13670.24,
+  "end": 13724.89,
+  "clips": [
+   [
+    13670.24,
+    13674.41
+   ],
+   [
+    13695.68,
+    13699.93
+   ],
+   [
+    13720.32,
+    13724.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It's amazing how much can change in just a few years.",
+   "chunks": [
+    {
+     "en": "It's amazing",
+     "ko": "놀랍다"
+    },
+    {
+     "en": "how much can change",
+     "ko": "얼마나 많은 것이 바뀔 수 있는지"
+    },
+    {
+     "en": "in just a few years.",
+     "ko": "불과 몇 년 사이에"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "amazing",
+     "strong": true,
+     "link": false,
+     "syl": "ma"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false,
+     "syl": "much"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "link": true,
+     "syl": "change"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    }
+   ],
+   "tip": "just a는 '저스터'처럼 이어 읽어요.",
+   "start": 13670.24,
+   "end": 13674.41
+  },
+  {
+   "text": "Looking at old photos always reminds me how far we've come.",
+   "chunks": [
+    {
+     "en": "Looking at old photos",
+     "ko": "옛날 사진을 보면"
+    },
+    {
+     "en": "always reminds me",
+     "ko": "늘 나에게 상기시킨다"
+    },
+    {
+     "en": "how far we've come.",
+     "ko": "우리가 얼마나 멀리 왔는지"
+    }
+   ],
+   "words": [
+    {
+     "w": "Looking",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "old",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "photos",
+     "strong": true,
+     "link": false,
+     "syl": "pho"
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "reminds",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "far",
+     "strong": true,
+     "link": false,
+     "syl": "far"
+    },
+    {
+     "w": "we've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come.",
+     "strong": true,
+     "link": false,
+     "syl": "come"
+    }
+   ],
+   "tip": "Looking at old는 '루킹앳올드'를 매끄럽게 이어 읽어요.",
+   "start": 13695.68,
+   "end": 13699.93
+  },
+  {
+   "text": "My grandmother says she barely recognizes her hometown now.",
+   "chunks": [
+    {
+     "en": "My grandmother says",
+     "ko": "우리 할머니는 말한다"
+    },
+    {
+     "en": "she barely recognizes",
+     "ko": "거의 알아보지 못한다고"
+    },
+    {
+     "en": "her hometown now.",
+     "ko": "이제 고향을"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grandmother",
+     "strong": true,
+     "link": false,
+     "syl": "grand"
+    },
+    {
+     "w": "says",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "barely",
+     "strong": true,
+     "link": false,
+     "syl": "bare"
+    },
+    {
+     "w": "recognizes",
+     "strong": true,
+     "link": false,
+     "syl": "rec"
+    },
+    {
+     "w": "her",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hometown",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "now.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "recognizes는 첫 음절 REC에 강세: '레컥나이지스'.",
+   "start": 13720.32,
+   "end": 13724.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker find amazing?",
+   "options": [
+    "How much can change in a few years",
+    "How old the photos are",
+    "How fast people walk"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: amazing how much can change in just a few years"
+  },
+  {
+   "q": "What do old photos remind the speaker of?",
+   "options": [
+    "How young everyone looked",
+    "How much things cost",
+    "How far we've come"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: reminds me how far we've come"
+  },
+  {
+   "q": "What does the speaker's grandmother say about her hometown?",
+   "options": [
+    "She barely recognizes it",
+    "She wants to move back",
+    "She visits it every year"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: she barely recognizes her hometown now"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "It's amazing how",
+   "ko": "얼마나 ~인지 놀랍다",
+   "note": "뒤에 '주어 + 동사' 절이 이어져요."
+  },
+  {
+   "term": "a few years",
+   "ko": "몇 년",
+   "note": "just를 붙이면 '불과'라는 느낌이에요."
+  },
+  {
+   "term": "remind me how",
+   "ko": "내게 ~을 상기시키다",
+   "note": "remind + 사람 + 내용 순서예요."
+  },
+  {
+   "term": "how far we've come",
+   "ko": "우리가 얼마나 발전했는지",
+   "note": "far는 거리뿐 아니라 발전 정도도 말해요."
+  },
+  {
+   "term": "barely recognize",
+   "ko": "거의 알아보지 못하다",
+   "note": "barely는 '간신히, 거의 ~않다'예요."
+  }
+ ]
+}

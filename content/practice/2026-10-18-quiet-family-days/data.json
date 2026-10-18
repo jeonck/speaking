@@ -1,0 +1,322 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18049.84,
+  "end": 18104.73,
+  "clips": [
+   [
+    18049.84,
+    18053.45
+   ],
+   [
+    18072.48,
+    18077.13
+   ],
+   [
+    18099.52,
+    18104.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "That small change made it taste much better.",
+   "chunks": [
+    {
+     "en": "That small change",
+     "ko": "그 작은 변화가"
+    },
+    {
+     "en": "made it taste much better.",
+     "ko": "맛을 훨씬 더 좋게 만들었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "link": false,
+     "syl": "change"
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taste",
+     "strong": true,
+     "link": false,
+     "syl": "taste"
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better.",
+     "strong": true,
+     "link": false,
+     "syl": "bet"
+    }
+   ],
+   "tip": "much better는 '머취 베러'처럼 t를 가볍게 굴려요.",
+   "start": 18049.84,
+   "end": 18053.45
+  },
+  {
+   "text": "We ate together and spent the afternoon looking at old photos.",
+   "chunks": [
+    {
+     "en": "We ate together",
+     "ko": "우리는 함께 먹었고"
+    },
+    {
+     "en": "and spent the afternoon",
+     "ko": "오후를 보냈어요"
+    },
+    {
+     "en": "looking at old photos.",
+     "ko": "오래된 사진을 보면서"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ate",
+     "strong": true,
+     "link": false,
+     "syl": "ate"
+    },
+    {
+     "w": "together",
+     "strong": true,
+     "link": false,
+     "syl": "geth"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spent",
+     "strong": true,
+     "link": false,
+     "syl": "spent"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "afternoon",
+     "strong": true,
+     "link": false,
+     "syl": "noon"
+    },
+    {
+     "w": "looking",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "old",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    },
+    {
+     "w": "photos.",
+     "strong": true,
+     "link": false,
+     "syl": "pho"
+    }
+   ],
+   "tip": "looking at은 '루킹앳'처럼 이어서 읽어요.",
+   "start": 18072.48,
+   "end": 18077.13
+  },
+  {
+   "text": "As I've gotten older, I've come to appreciate those quiet family days more.",
+   "chunks": [
+    {
+     "en": "As I've gotten older,",
+     "ko": "나이가 들면서"
+    },
+    {
+     "en": "I've come to appreciate",
+     "ko": "점점 소중히 여기게 됐어요"
+    },
+    {
+     "en": "those quiet family days more.",
+     "ko": "그 조용한 가족의 날들을 더"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gotten",
+     "strong": true,
+     "link": false,
+     "syl": "got"
+    },
+    {
+     "w": "older,",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": true,
+     "link": false,
+     "syl": "come"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "appreciate",
+     "strong": true,
+     "link": false,
+     "syl": "pre"
+    },
+    {
+     "w": "those",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "link": false,
+     "syl": "qui"
+    },
+    {
+     "w": "family",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    },
+    {
+     "w": "more.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "gotten은 미국식으로 '가튼'이라고 읽어요.",
+   "start": 18099.52,
+   "end": 18104.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "What made the dish taste much better?",
+   "options": [
+    "A small change",
+    "A new oven",
+    "More guests"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: That small change made it taste much better"
+  },
+  {
+   "q": "What did the family do in the afternoon?",
+   "options": [
+    "Went hiking",
+    "Looked at old photos",
+    "Watched a game"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: spent the afternoon looking at old photos"
+  },
+  {
+   "q": "What does the speaker appreciate more with age?",
+   "options": [
+    "Big parties",
+    "Long trips",
+    "Quiet family days"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: appreciate those quiet family days more"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "small change",
+   "ko": "작은 변화",
+   "note": "a small tweak와 비슷해요."
+  },
+  {
+   "term": "spent the afternoon",
+   "ko": "오후를 보냈다",
+   "note": "spend time -ing 형태로 이어요."
+  },
+  {
+   "term": "old photos",
+   "ko": "옛 사진",
+   "note": "family photos도 자주 써요."
+  },
+  {
+   "term": "come to appreciate",
+   "ko": "점점 소중히 여기게 되다",
+   "note": "come to + 동사는 서서히 변화를 뜻해요."
+  },
+  {
+   "term": "as I've gotten older",
+   "ko": "나이가 들면서",
+   "note": "as 뒤에 현재완료로 변화를 말해요."
+  }
+ ]
+}

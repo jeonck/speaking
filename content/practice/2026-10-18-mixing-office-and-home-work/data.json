@@ -1,0 +1,332 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18514.56,
+  "end": 18570.65,
+  "clips": [
+   [
+    18514.56,
+    18518.97
+   ],
+   [
+    18541.04,
+    18545.45
+   ],
+   [
+    18566.56,
+    18570.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "That said, working alone at home can feel lonely sometimes.",
+   "chunks": [
+    {
+     "en": "That said,",
+     "ko": "그렇긴 하지만"
+    },
+    {
+     "en": "working alone at home",
+     "ko": "집에서 혼자 일하는 것은"
+    },
+    {
+     "en": "can feel lonely sometimes.",
+     "ko": "가끔 외롭게 느껴질 수 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "said,",
+     "strong": true,
+     "syl": "said",
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "alone",
+     "strong": true,
+     "syl": "lone",
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lonely",
+     "strong": true,
+     "syl": "lone",
+     "link": false
+    },
+    {
+     "w": "sometimes.",
+     "strong": true,
+     "syl": "some",
+     "link": false
+    }
+   ],
+   "tip": "That said는 '댓 세드'로 said를 또렷하게 읽어요.",
+   "start": 18514.56,
+   "end": 18518.97
+  },
+  {
+   "text": "So, I think a mix of office work and working from home works best.",
+   "chunks": [
+    {
+     "en": "So, I think",
+     "ko": "그래서 제 생각엔"
+    },
+    {
+     "en": "a mix of office work and working from home",
+     "ko": "사무실 근무와 재택근무의 조합이"
+    },
+    {
+     "en": "works best.",
+     "ko": "가장 잘 맞아요"
+    }
+   ],
+   "words": [
+    {
+     "w": "So,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mix",
+     "strong": true,
+     "syl": "mix",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "office",
+     "strong": true,
+     "syl": "of",
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "syl": "home",
+     "link": false
+    },
+    {
+     "w": "works",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best.",
+     "strong": true,
+     "syl": "best",
+     "link": false
+    }
+   ],
+   "tip": "mix of office는 '믹소브 오피스'처럼 이어 읽어요.",
+   "start": 18541.04,
+   "end": 18545.45
+  },
+  {
+   "text": "When it comes to social media, I have mixed feelings.",
+   "chunks": [
+    {
+     "en": "When it comes to",
+     "ko": "~에 관해서라면"
+    },
+    {
+     "en": "social media,",
+     "ko": "소셜 미디어"
+    },
+    {
+     "en": "I have mixed feelings.",
+     "ko": "복잡한 감정이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "social",
+     "strong": true,
+     "syl": "so",
+     "link": false
+    },
+    {
+     "w": "media,",
+     "strong": true,
+     "syl": "me",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mixed",
+     "strong": true,
+     "syl": "mixed",
+     "link": false
+    },
+    {
+     "w": "feelings.",
+     "strong": true,
+     "syl": "feel",
+     "link": false
+    }
+   ],
+   "tip": "When it comes to는 '웬잇컴스투'로 한 덩어리처럼 빠르게 읽어요.",
+   "start": 18566.56,
+   "end": 18570.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "How can working alone at home feel sometimes?",
+   "options": [
+    "Stressful",
+    "Boring",
+    "Lonely"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: can feel lonely sometimes"
+  },
+  {
+   "q": "What does the speaker think works best?",
+   "options": [
+    "Only working from home",
+    "A mix of office work and working from home",
+    "Only working at the office"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: a mix of office work and working from home works best"
+  },
+  {
+   "q": "How does the speaker feel about social media?",
+   "options": [
+    "Mixed feelings",
+    "Totally positive",
+    "Totally negative"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I have mixed feelings"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "That said,",
+   "ko": "그렇긴 하지만",
+   "note": "앞말에 반대되는 점을 꺼낼 때 써요."
+  },
+  {
+   "term": "lonely",
+   "ko": "외로운",
+   "note": "alone(혼자)과 구별해서 써요."
+  },
+  {
+   "term": "a mix of",
+   "ko": "~의 조합",
+   "note": "a mix of A and B 형태로 써요."
+  },
+  {
+   "term": "works best",
+   "ko": "가장 잘 맞다",
+   "note": "work이 '효과가 있다'는 뜻이에요."
+  },
+  {
+   "term": "When it comes to",
+   "ko": "~에 관해서라면",
+   "note": "주제를 꺼낼 때 써요."
+  }
+ ]
+}

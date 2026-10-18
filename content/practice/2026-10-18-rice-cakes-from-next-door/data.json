@@ -1,0 +1,319 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3729.68,
+  "end": 3778.73,
+  "clips": [
+   [
+    3729.68,
+    3733.54
+   ],
+   [
+    3752.96,
+    3756.89
+   ],
+   [
+    3775.36,
+    3778.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Our neighbors next door sometimes share food with us.",
+   "chunks": [
+    {
+     "en": "Our neighbors next door",
+     "ko": "우리 옆집 이웃들은"
+    },
+    {
+     "en": "sometimes share food",
+     "ko": "가끔 음식을 나눠요"
+    },
+    {
+     "en": "with us.",
+     "ko": "우리와"
+    }
+   ],
+   "words": [
+    {
+     "w": "Our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighbors",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "door",
+     "strong": true,
+     "link": false,
+     "syl": "door"
+    },
+    {
+     "w": "sometimes",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "share",
+     "strong": true,
+     "link": false,
+     "syl": "share"
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "us.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'next door'는 t가 약해져 '넥스도어'처럼 들려요.",
+   "start": 3729.68,
+   "end": 3733.54
+  },
+  {
+   "text": "When we moved in, they brought us a plate of rice cakes.",
+   "chunks": [
+    {
+     "en": "When we moved in,",
+     "ko": "우리가 이사 왔을 때"
+    },
+    {
+     "en": "they brought us",
+     "ko": "그들이 가져다줬어요"
+    },
+    {
+     "en": "a plate of rice cakes.",
+     "ko": "떡 한 접시를"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moved",
+     "strong": true,
+     "link": true,
+     "syl": "moved"
+    },
+    {
+     "w": "in,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brought",
+     "strong": true,
+     "link": false,
+     "syl": "brought"
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plate",
+     "strong": true,
+     "link": true,
+     "syl": "plate"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rice",
+     "strong": true,
+     "link": false,
+     "syl": "rice"
+    },
+    {
+     "w": "cakes.",
+     "strong": true,
+     "link": false,
+     "syl": "cakes"
+    }
+   ],
+   "tip": "'moved in'은 d와 i가 이어져 '무브딘'처럼 들려요.",
+   "start": 3752.96,
+   "end": 3756.89
+  },
+  {
+   "text": "That's when I knew this was a good place to live.",
+   "chunks": [
+    {
+     "en": "That's when I knew",
+     "ko": "그때 알았어요"
+    },
+    {
+     "en": "this was a good place",
+     "ko": "이곳이 좋은 곳이란 걸"
+    },
+    {
+     "en": "to live.",
+     "ko": "살기에"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "knew",
+     "strong": true,
+     "link": false,
+     "syl": "knew"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": false,
+     "syl": "place"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live.",
+     "strong": true,
+     "link": false,
+     "syl": "live"
+    }
+   ],
+   "tip": "'That's when'은 '댓스웬'처럼 이어서 시간을 짚어줘요.",
+   "start": 3775.36,
+   "end": 3778.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the neighbors bring when the speaker moved in?",
+   "options": [
+    "A plate of rice cakes",
+    "A bag of fruit",
+    "A cake"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: a plate of rice cakes"
+  },
+  {
+   "q": "Who sometimes shares food with the speaker?",
+   "options": [
+    "The cafe owner",
+    "The neighbors next door",
+    "The speaker's mom"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: neighbors next door sometimes share food"
+  },
+  {
+   "q": "What did the speaker realize at that moment?",
+   "options": [
+    "It was a good place to live",
+    "The area was noisy",
+    "The rent was cheap"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I knew this was a good place to live"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "next door",
+   "ko": "옆집의",
+   "note": "next door neighbors처럼 이웃 앞에 붙여 써요."
+  },
+  {
+   "term": "move in",
+   "ko": "이사 들어오다",
+   "note": "새 집에 들어갈 때 써요."
+  },
+  {
+   "term": "a plate of",
+   "ko": "한 접시의",
+   "note": "음식 양을 셀 때 써요."
+  },
+  {
+   "term": "rice cakes",
+   "ko": "떡",
+   "note": "한국 음식을 설명할 때 자주 쓰는 말이에요."
+  }
+ ]
+}

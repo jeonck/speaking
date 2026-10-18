@@ -1,0 +1,325 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16716.8,
+  "end": 16766.01,
+  "clips": [
+   [
+    16716.8,
+    16720.89
+   ],
+   [
+    16739.68,
+    16743.37
+   ],
+   [
+    16761.76,
+    16766.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I had made a reservation, but the staff couldn't find it.",
+   "chunks": [
+    {
+     "en": "I had made a reservation,",
+     "ko": "예약을 해 둔 상태였지만"
+    },
+    {
+     "en": "but the staff",
+     "ko": "직원들이"
+    },
+    {
+     "en": "couldn't find it.",
+     "ko": "찾지 못했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": true,
+     "link": false,
+     "syl": "made"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reservation,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "staff",
+     "strong": true,
+     "link": false,
+     "syl": "staff"
+    },
+    {
+     "w": "couldn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": true,
+     "link": true,
+     "syl": "find"
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "find it은 '파인딧'처럼 이어 읽어요.",
+   "start": 16716.8,
+   "end": 16720.89
+  },
+  {
+   "text": "I showed them the confirmation message on my phone.",
+   "chunks": [
+    {
+     "en": "I showed them",
+     "ko": "그들에게 보여 줬다"
+    },
+    {
+     "en": "the confirmation message",
+     "ko": "확인 메시지를"
+    },
+    {
+     "en": "on my phone.",
+     "ko": "내 휴대폰에 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "showed",
+     "strong": true,
+     "link": false,
+     "syl": "showed"
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "confirmation",
+     "strong": true,
+     "link": false,
+     "syl": "ma"
+    },
+    {
+     "w": "message",
+     "strong": true,
+     "link": true,
+     "syl": "mes"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "confirmation은 세 번째 음절 'ma'에 강세를 둬요.",
+   "start": 16739.68,
+   "end": 16743.37
+  },
+  {
+   "text": "It turned out that I had booked a table for the following evening.",
+   "chunks": [
+    {
+     "en": "It turned out",
+     "ko": "알고 보니"
+    },
+    {
+     "en": "that I had booked a table",
+     "ko": "내가 테이블을 예약했던 것이"
+    },
+    {
+     "en": "for the following evening.",
+     "ko": "다음 날 저녁이었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "turned",
+     "strong": true,
+     "link": true,
+     "syl": "turned"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "booked",
+     "strong": true,
+     "link": false,
+     "syl": "booked"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "table",
+     "strong": true,
+     "link": false,
+     "syl": "ta"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "following",
+     "strong": true,
+     "link": false,
+     "syl": "fol"
+    },
+    {
+     "w": "evening.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "turned out은 '턴다웃'처럼 이어 읽어요.",
+   "start": 16761.76,
+   "end": 16766.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happened when the speaker arrived?",
+   "options": [
+    "The restaurant was closed",
+    "The staff could not find the reservation",
+    "The table was too small"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: the staff couldn't find it"
+  },
+  {
+   "q": "What did the speaker show the staff?",
+   "options": [
+    "A confirmation message",
+    "A printed ticket",
+    "A phone call record"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: the confirmation message on my phone"
+  },
+  {
+   "q": "What was the problem with the booking?",
+   "options": [
+    "It was for the wrong restaurant",
+    "It was for too few people",
+    "It was for the following evening"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: booked a table for the following evening"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "make a reservation",
+   "ko": "예약하다",
+   "note": "book a table과 거의 같은 뜻이에요."
+  },
+  {
+   "term": "staff",
+   "ko": "직원(들)",
+   "note": "staff는 집합 명사라 보통 복수처럼 써요."
+  },
+  {
+   "term": "confirmation message",
+   "ko": "확인 메시지",
+   "note": "예약 후 오는 확인 문자나 이메일이에요."
+  },
+  {
+   "term": "It turned out that",
+   "ko": "알고 보니 ~였다",
+   "note": "예상과 다른 결과를 말할 때 써요."
+  },
+  {
+   "term": "the following evening",
+   "ko": "다음 날 저녁",
+   "note": "following은 '그다음의'라는 뜻이에요."
+  }
+ ]
+}

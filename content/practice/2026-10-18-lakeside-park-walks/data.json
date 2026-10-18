@@ -1,0 +1,297 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5656.64,
+  "end": 5702.97,
+  "clips": [
+   [
+    5656.64,
+    5660.09
+   ],
+   [
+    5677.52,
+    5680.89
+   ],
+   [
+    5698.64,
+    5702.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "There's a big park with a lake near my apartment.",
+   "chunks": [
+    {
+     "en": "There's a big park",
+     "ko": "큰 공원이 있다"
+    },
+    {
+     "en": "with a lake",
+     "ko": "호수가 있는"
+    },
+    {
+     "en": "near my apartment.",
+     "ko": "내 아파트 근처에"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "park",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lake",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "near",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "apartment.",
+     "strong": true,
+     "syl": "part",
+     "link": false
+    }
+   ],
+   "tip": "'with a'는 '위더'처럼 이어 읽어요.",
+   "start": 5656.64,
+   "end": 5660.09
+  },
+  {
+   "text": "I often go there for a walk after dinner.",
+   "chunks": [
+    {
+     "en": "I often go there",
+     "ko": "나는 자주 그곳에 간다"
+    },
+    {
+     "en": "for a walk",
+     "ko": "산책하러"
+    },
+    {
+     "en": "after dinner.",
+     "ko": "저녁 식사 후에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "often",
+     "strong": true,
+     "syl": "of",
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walk",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "after",
+     "strong": true,
+     "syl": "af",
+     "link": false
+    },
+    {
+     "w": "dinner.",
+     "strong": true,
+     "syl": "din",
+     "link": false
+    }
+   ],
+   "tip": "'walk after'는 '워커프터'처럼 이어져요.",
+   "start": 5677.52,
+   "end": 5680.89
+  },
+  {
+   "text": "In spring, people have picnics under the cherry blossoms.",
+   "chunks": [
+    {
+     "en": "In spring,",
+     "ko": "봄에는"
+    },
+    {
+     "en": "people have picnics",
+     "ko": "사람들이 소풍을 즐긴다"
+    },
+    {
+     "en": "under the cherry blossoms.",
+     "ko": "벚꽃 아래에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spring,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "picnics",
+     "strong": true,
+     "syl": "pic",
+     "link": false
+    },
+    {
+     "w": "under",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cherry",
+     "strong": true,
+     "syl": "cher",
+     "link": false
+    },
+    {
+     "w": "blossoms.",
+     "strong": true,
+     "syl": "bloss",
+     "link": false
+    }
+   ],
+   "tip": "'picnics'는 'pic'에 강세를 줘요.",
+   "start": 5698.64,
+   "end": 5702.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is near the speaker's apartment?",
+   "options": [
+    "A shopping mall",
+    "A big park with a lake",
+    "A mountain trail"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a big park with a lake near my apartment"
+  },
+  {
+   "q": "When does the speaker often go for a walk there?",
+   "options": [
+    "Before breakfast",
+    "During lunch",
+    "After dinner"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: for a walk after dinner"
+  },
+  {
+   "q": "What do people do in spring?",
+   "options": [
+    "Have picnics under the cherry blossoms",
+    "Go swimming in the lake",
+    "Fly kites"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: people have picnics under the cherry blossoms"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "go for a walk",
+   "ko": "산책하러 가다",
+   "note": "go for a + 명사 형태예요."
+  },
+  {
+   "term": "after dinner",
+   "ko": "저녁 식사 후에",
+   "note": "식사 앞에는 관사를 쓰지 않아요."
+  },
+  {
+   "term": "have a picnic",
+   "ko": "소풍을 즐기다",
+   "note": "picnic은 야외 식사를 뜻해요."
+  },
+  {
+   "term": "cherry blossoms",
+   "ko": "벚꽃",
+   "note": "보통 복수로 써요."
+  },
+  {
+   "term": "apartment",
+   "ko": "아파트",
+   "note": "영어에서는 아파트 한 가구를 뜻해요."
+  }
+ ]
+}

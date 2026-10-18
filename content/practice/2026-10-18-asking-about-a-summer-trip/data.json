@@ -1,0 +1,273 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14078.56,
+  "end": 14117.69,
+  "clips": [
+   [
+    14078.56,
+    14081.77
+   ],
+   [
+    14096.96,
+    14100.09
+   ],
+   [
+    14114.64,
+    14117.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Where are you thinking of going this time?",
+   "chunks": [
+    {
+     "en": "Where are you thinking of going",
+     "ko": "어디로 갈 생각이야"
+    },
+    {
+     "en": "this time?",
+     "ko": "이번에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Where",
+     "strong": true,
+     "link": true,
+     "syl": "Where"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thinking",
+     "strong": true,
+     "link": true,
+     "syl": "think"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time?",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "Where are you는 '웨어라유'처럼 이어 읽어요.",
+   "start": 14078.56,
+   "end": 14081.77
+  },
+  {
+   "text": "How long are you planning to stay there?",
+   "chunks": [
+    {
+     "en": "How long",
+     "ko": "얼마나 오래"
+    },
+    {
+     "en": "are you planning to stay",
+     "ko": "머무를 계획이야"
+    },
+    {
+     "en": "there?",
+     "ko": "거기에"
+    }
+   ],
+   "words": [
+    {
+     "w": "How",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "link": true,
+     "syl": "long"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "planning",
+     "strong": true,
+     "link": false,
+     "syl": "plan"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": true,
+     "link": false,
+     "syl": "stay"
+    },
+    {
+     "w": "there?",
+     "strong": true,
+     "link": false,
+     "syl": "there"
+    }
+   ],
+   "tip": "How long are는 '하울롱가'처럼 이어 읽어요.",
+   "start": 14096.96,
+   "end": 14100.09
+  },
+  {
+   "text": "Are you going alone or with your family?",
+   "chunks": [
+    {
+     "en": "Are you going alone",
+     "ko": "혼자 갈 거야"
+    },
+    {
+     "en": "or with your family?",
+     "ko": "아니면 가족과"
+    }
+   ],
+   "words": [
+    {
+     "w": "Are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    },
+    {
+     "w": "alone",
+     "strong": true,
+     "link": true,
+     "syl": "lone"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family?",
+     "strong": true,
+     "link": false,
+     "syl": "fam"
+    }
+   ],
+   "tip": "Are you는 '아유'처럼 짧게 말해요.",
+   "start": 14114.64,
+   "end": 14117.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask about the destination?",
+   "options": [
+    "Where the friend is thinking of going",
+    "How the friend will get there",
+    "Who recommended it"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Where are you thinking of going this time"
+  },
+  {
+   "q": "What is the speaker asking about the length of the trip?",
+   "options": [
+    "When it begins",
+    "How long the friend will stay",
+    "How much it costs"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: How long are you planning to stay there"
+  },
+  {
+   "q": "Who might the friend travel with?",
+   "options": [
+    "Coworkers",
+    "A tour group",
+    "Family"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: alone or with your family"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "thinking of going",
+   "ko": "갈 생각 중인",
+   "note": "think of + -ing로 막연한 계획을 말해요."
+  },
+  {
+   "term": "this time",
+   "ko": "이번에는",
+   "note": "지난번과 대비할 때 써요."
+  },
+  {
+   "term": "How long ... stay",
+   "ko": "얼마나 오래 머무르나",
+   "note": "기간을 묻는 기본 표현이에요."
+  },
+  {
+   "term": "planning to stay",
+   "ko": "머물 계획인",
+   "note": "plan to + 동사원형으로 써요."
+  },
+  {
+   "term": "alone or with",
+   "ko": "혼자 또는 ~와 함께",
+   "note": "or로 두 선택지를 비교해요."
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15792.56,
+  "end": 15838.81,
+  "clips": [
+   [
+    15792.56,
+    15795.85
+   ],
+   [
+    15812.96,
+    15816.73
+   ],
+   [
+    15835.6,
+    15838.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Could you send someone to check the connection?",
+   "chunks": [
+    {
+     "en": "Could you send someone",
+     "ko": "누군가를 보내주실 수 있나요"
+    },
+    {
+     "en": "to check the connection?",
+     "ko": "연결을 확인하러"
+    }
+   ],
+   "words": [
+    {
+     "w": "Could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "send",
+     "strong": true,
+     "link": false,
+     "syl": "send"
+    },
+    {
+     "w": "someone",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "check",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "connection?",
+     "strong": true,
+     "link": false,
+     "syl": "nec"
+    }
+   ],
+   "tip": "Could you는 '쿠쥬'처럼 이어 읽어요.",
+   "start": 15792.56,
+   "end": 15795.85
+  },
+  {
+   "text": "So just to confirm the technician will come at 10.",
+   "chunks": [
+    {
+     "en": "So just to confirm",
+     "ko": "확인하자면"
+    },
+    {
+     "en": "the technician will come",
+     "ko": "기술자가 올 거라는 것"
+    },
+    {
+     "en": "at 10.",
+     "ko": "10시에"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "confirm",
+     "strong": true,
+     "link": false,
+     "syl": "firm"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "technician",
+     "strong": true,
+     "link": false,
+     "syl": "ni"
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "technician은 tech-NI-shun, 두 번째 음절에 강세가 와요.",
+   "start": 15812.96,
+   "end": 15816.73
+  },
+  {
+   "text": "Could you send me a text with the details?",
+   "chunks": [
+    {
+     "en": "Could you send me a text",
+     "ko": "저에게 문자를 보내주실 수 있나요"
+    },
+    {
+     "en": "with the details?",
+     "ko": "세부 사항과 함께"
+    }
+   ],
+   "words": [
+    {
+     "w": "Could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "send",
+     "strong": true,
+     "link": false,
+     "syl": "send"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "text",
+     "strong": true,
+     "link": false,
+     "syl": "text"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "details?",
+     "strong": true,
+     "link": false,
+     "syl": "tail"
+    }
+   ],
+   "tip": "details는 di-TAILS, 뒤쪽 TAILS에 강세가 와요.",
+   "start": 15835.6,
+   "end": 15838.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker want someone to check?",
+   "options": [
+    "The connection",
+    "The TV",
+    "The bill"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: check the connection"
+  },
+  {
+   "q": "What time will the technician come?",
+   "options": [
+    "At 8",
+    "At 9",
+    "At 10"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: the technician will come at 10"
+  },
+  {
+   "q": "How does the speaker want to get the details?",
+   "options": [
+    "By email",
+    "By text",
+    "By letter"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: send me a text with the details"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "send someone",
+   "ko": "누군가를 보내다",
+   "note": "서비스 기사 등을 요청할 때 써요."
+  },
+  {
+   "term": "technician",
+   "ko": "기술자",
+   "note": "강세는 두 번째 음절 -ni-예요."
+  },
+  {
+   "term": "to confirm",
+   "ko": "확인하다",
+   "note": "So just to confirm...은 마지막 확인에 써요."
+  },
+  {
+   "term": "send me a text",
+   "ko": "문자를 보내다",
+   "note": "text는 문자 메시지를 뜻해요."
+  },
+  {
+   "term": "the details",
+   "ko": "세부 사항",
+   "note": "보통 복수형 details로 써요."
+  }
+ ]
+}

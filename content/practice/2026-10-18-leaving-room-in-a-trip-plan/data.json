@@ -1,0 +1,358 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18275.6,
+  "end": 18332.25,
+  "clips": [
+   [
+    18275.6,
+    18280.01
+   ],
+   [
+    18301.52,
+    18306.09
+   ],
+   [
+    18327.28,
+    18332.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'd leave some time unplanned so I could explore without rushing.",
+   "chunks": [
+    {
+     "en": "I'd leave some time unplanned",
+     "ko": "계획 없는 시간을 좀 남겨둘 거예요"
+    },
+    {
+     "en": "so I could explore",
+     "ko": "그래서 둘러볼 수 있도록"
+    },
+    {
+     "en": "without rushing.",
+     "ko": "서두르지 않고"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leave",
+     "strong": true,
+     "syl": "leave",
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "syl": "time",
+     "link": false
+    },
+    {
+     "w": "unplanned",
+     "strong": true,
+     "syl": "plan",
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "explore",
+     "strong": true,
+     "syl": "plore",
+     "link": false
+    },
+    {
+     "w": "without",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rushing.",
+     "strong": true,
+     "syl": "rush",
+     "link": false
+    }
+   ],
+   "tip": "unplanned는 'plan'에 강세를 두고 '언플랜드'로 읽어요.",
+   "start": 18275.6,
+   "end": 18280.01
+  },
+  {
+   "text": "If the weather were bad, I'd find a museum or a cozy cafe.",
+   "chunks": [
+    {
+     "en": "If the weather were bad,",
+     "ko": "날씨가 나쁘면"
+    },
+    {
+     "en": "I'd find a museum",
+     "ko": "박물관을 찾을 거예요"
+    },
+    {
+     "en": "or a cozy cafe.",
+     "ko": "아니면 아늑한 카페를"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weather",
+     "strong": true,
+     "syl": "wea",
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bad,",
+     "strong": true,
+     "syl": "bad",
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "museum",
+     "strong": true,
+     "syl": "mu",
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cozy",
+     "strong": true,
+     "syl": "co",
+     "link": false
+    },
+    {
+     "w": "cafe.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "find a는 '파인더'처럼, or a는 '어러'처럼 이어 읽어요.",
+   "start": 18301.52,
+   "end": 18306.09
+  },
+  {
+   "text": "The point would be to slow down rather than see as many places as possible.",
+   "chunks": [
+    {
+     "en": "The point would be",
+     "ko": "요점은 ~일 거예요"
+    },
+    {
+     "en": "to slow down",
+     "ko": "속도를 늦추는 것"
+    },
+    {
+     "en": "rather than see as many places as possible.",
+     "ko": "가능한 한 많은 곳을 보기보다는"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "point",
+     "strong": true,
+     "syl": "point",
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "slow",
+     "strong": true,
+     "syl": "slow",
+     "link": false
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "places",
+     "strong": true,
+     "syl": "pla",
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possible.",
+     "strong": true,
+     "syl": "poss",
+     "link": false
+    }
+   ],
+   "tip": "as many places as possible에서 'as'는 '즈'처럼 약하게 읽어요.",
+   "start": 18327.28,
+   "end": 18332.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why would the speaker leave some time unplanned?",
+   "options": [
+    "To explore without rushing",
+    "To save money",
+    "To visit more places"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: so I could explore without rushing"
+  },
+  {
+   "q": "What would the speaker do if the weather were bad?",
+   "options": [
+    "Stay in a hotel",
+    "Find a museum or a cozy cafe",
+    "Go to the beach"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: I'd find a museum or a cozy cafe"
+  },
+  {
+   "q": "What is the point of the trip?",
+   "options": [
+    "To see as many places as possible",
+    "To take many photos",
+    "To slow down"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: slow down rather than see as many places as possible"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "unplanned",
+   "ko": "계획되지 않은",
+   "note": "unplanned time처럼 일정 사이의 빈 시간을 말해요."
+  },
+  {
+   "term": "explore",
+   "ko": "둘러보다, 탐험하다",
+   "note": "도시나 장소를 자유롭게 돌아볼 때 써요."
+  },
+  {
+   "term": "cozy",
+   "ko": "아늑한",
+   "note": "cozy cafe처럼 편안한 공간에 써요."
+  },
+  {
+   "term": "slow down",
+   "ko": "속도를 늦추다",
+   "note": "여행·일상에서 여유를 갖자는 뜻으로도 써요."
+  },
+  {
+   "term": "rather than",
+   "ko": "~보다는",
+   "note": "두 선택 중 앞의 것을 고를 때 써요."
+  }
+ ]
+}

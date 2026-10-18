@@ -1,0 +1,301 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5249.12,
+  "end": 5299.13,
+  "clips": [
+   [
+    5249.12,
+    5253.05
+   ],
+   [
+    5271.92,
+    5275.69
+   ],
+   [
+    5295.44,
+    5299.13
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Reading before bed helps me fall asleep faster.",
+   "chunks": [
+    {
+     "en": "Reading before bed",
+     "ko": "자기 전에 책을 읽으면"
+    },
+    {
+     "en": "helps me fall asleep",
+     "ko": "잠드는 데 도움이 된다"
+    },
+    {
+     "en": "faster.",
+     "ko": "더 빨리"
+    }
+   ],
+   "words": [
+    {
+     "w": "Reading",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bed",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "helps",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fall",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "asleep",
+     "strong": true,
+     "syl": "sleep",
+     "link": false
+    },
+    {
+     "w": "faster.",
+     "strong": true,
+     "syl": "fast",
+     "link": false
+    }
+   ],
+   "tip": "'fall asleep'은 '폴어슬립'처럼 이어 읽어요.",
+   "start": 5249.12,
+   "end": 5253.05
+  },
+  {
+   "text": "I recently joined a book club that meets once a month.",
+   "chunks": [
+    {
+     "en": "I recently joined",
+     "ko": "나는 최근에 가입했다"
+    },
+    {
+     "en": "a book club",
+     "ko": "독서 모임에"
+    },
+    {
+     "en": "that meets once a month.",
+     "ko": "한 달에 한 번 모이는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recently",
+     "strong": true,
+     "syl": "cent",
+     "link": false
+    },
+    {
+     "w": "joined",
+     "strong": true,
+     "syl": "join",
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "book",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "club",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "once",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'joined a'는 '조인드어'처럼 이어 읽어요.",
+   "start": 5271.92,
+   "end": 5275.69
+  },
+  {
+   "text": "It's fun to hear how others see the same story.",
+   "chunks": [
+    {
+     "en": "It's fun",
+     "ko": "재미있다"
+    },
+    {
+     "en": "to hear how others see",
+     "ko": "다른 사람들이 어떻게 보는지 듣는 것이"
+    },
+    {
+     "en": "the same story.",
+     "ko": "같은 이야기를"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fun",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hear",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "others",
+     "strong": true,
+     "syl": "oth",
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "story.",
+     "strong": true,
+     "syl": "sto",
+     "link": false
+    }
+   ],
+   "tip": "'others'는 첫 음절 'oth'에 강세를 줘요.",
+   "start": 5295.44,
+   "end": 5299.13
+  }
+ ],
+ "questions": [
+  {
+   "q": "What helps the speaker fall asleep faster?",
+   "options": [
+    "Listening to music",
+    "Reading before bed",
+    "Drinking tea"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: Reading before bed helps me fall asleep faster"
+  },
+  {
+   "q": "How often does the book club meet?",
+   "options": [
+    "Once a week",
+    "Twice a month",
+    "Once a month"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: meets once a month"
+  },
+  {
+   "q": "What does the speaker find fun about the club?",
+   "options": [
+    "Hearing how others see the same story",
+    "Writing reviews",
+    "Eating snacks together"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: to hear how others see the same story"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "fall asleep",
+   "ko": "잠들다",
+   "note": "fall asleep faster처럼 부사를 붙여요."
+  },
+  {
+   "term": "book club",
+   "ko": "독서 모임",
+   "note": "join a book club으로 가입을 말해요."
+  },
+  {
+   "term": "recently",
+   "ko": "최근에",
+   "note": "과거형과 함께 써요."
+  },
+  {
+   "term": "once a month",
+   "ko": "한 달에 한 번",
+   "note": "빈도 표현의 기본 틀이에요."
+  },
+  {
+   "term": "the same story",
+   "ko": "같은 이야기",
+   "note": "the same + 명사 형태예요."
+  }
+ ]
+}

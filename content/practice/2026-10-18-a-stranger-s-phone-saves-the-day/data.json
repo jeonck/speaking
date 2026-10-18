@@ -1,0 +1,410 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9136.56,
+  "end": 9213.05,
+  "clips": [
+   [
+    9136.56,
+    9140.57
+   ],
+   [
+    9160.16,
+    9164.25
+   ],
+   [
+    9183.92,
+    9187.93
+   ],
+   [
+    9208.88,
+    9213.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Luckily, a kind stranger let me borrow his phone.",
+   "chunks": [
+    {
+     "en": "Luckily,",
+     "ko": "다행히"
+    },
+    {
+     "en": "a kind stranger",
+     "ko": "친절한 낯선 사람이"
+    },
+    {
+     "en": "let me borrow his phone.",
+     "ko": "내가 그의 휴대폰을 빌리게 해줬어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Luckily,",
+     "strong": true,
+     "link": false,
+     "syl": "Luck"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": true,
+     "link": false,
+     "syl": "kind"
+    },
+    {
+     "w": "stranger",
+     "strong": true,
+     "link": false,
+     "syl": "stran"
+    },
+    {
+     "w": "let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "borrow",
+     "strong": true,
+     "link": false,
+     "syl": "bor"
+    },
+    {
+     "w": "his",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone.",
+     "strong": true,
+     "link": false,
+     "syl": "phone"
+    }
+   ],
+   "tip": "borrow는 '바로우'처럼 첫 음절 bor에 강세를 둬요.",
+   "start": 9136.56,
+   "end": 9140.57
+  },
+  {
+   "text": "When I finally found my friend, we both burst out laughing.",
+   "chunks": [
+    {
+     "en": "When I finally found my friend,",
+     "ko": "마침내 친구를 찾았을 때"
+    },
+    {
+     "en": "we both burst out laughing.",
+     "ko": "우리 둘 다 웃음을 터뜨렸어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finally",
+     "strong": true,
+     "link": false,
+     "syl": "fi"
+    },
+    {
+     "w": "found",
+     "strong": true,
+     "link": false,
+     "syl": "found"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "both",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "burst",
+     "strong": true,
+     "link": true,
+     "syl": "burst"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laughing.",
+     "strong": true,
+     "link": false,
+     "syl": "laugh"
+    }
+   ],
+   "tip": "burst out은 '버스타웃'처럼 이어 읽어요.",
+   "start": 9160.16,
+   "end": 9164.25
+  },
+  {
+   "text": "Looking back, it was a small thing, but it taught me a lot.",
+   "chunks": [
+    {
+     "en": "Looking back,",
+     "ko": "돌이켜보면"
+    },
+    {
+     "en": "it was a small thing,",
+     "ko": "그건 사소한 일이었지만"
+    },
+    {
+     "en": "but it taught me a lot.",
+     "ko": "많은 걸 가르쳐 줬어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Looking",
+     "strong": true,
+     "link": false,
+     "syl": "Look"
+    },
+    {
+     "w": "back,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "thing,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taught",
+     "strong": true,
+     "link": false,
+     "syl": "taught"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot.",
+     "strong": true,
+     "link": false,
+     "syl": "lot"
+    }
+   ],
+   "tip": "but it은 '버릿'처럼 t가 이어져 소리나요.",
+   "start": 9183.92,
+   "end": 9187.93
+  },
+  {
+   "text": "Since then, I always check my bag twice before I leave.",
+   "chunks": [
+    {
+     "en": "Since then,",
+     "ko": "그 이후로"
+    },
+    {
+     "en": "I always check my bag twice",
+     "ko": "나는 항상 가방을 두 번 확인해요"
+    },
+    {
+     "en": "before I leave.",
+     "ko": "떠나기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "check",
+     "strong": true,
+     "link": false,
+     "syl": "check"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bag",
+     "strong": true,
+     "link": false,
+     "syl": "bag"
+    },
+    {
+     "w": "twice",
+     "strong": true,
+     "link": false,
+     "syl": "twice"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leave.",
+     "strong": true,
+     "link": false,
+     "syl": "leave"
+    }
+   ],
+   "tip": "before I는 '비포라이'처럼 r이 다음 모음과 이어져요.",
+   "start": 9208.88,
+   "end": 9213.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who let the speaker borrow a phone?",
+   "options": [
+    "A kind stranger",
+    "A police officer",
+    "A teacher"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: a kind stranger let me borrow his phone"
+  },
+  {
+   "q": "How did the speaker and friend react when they met?",
+   "options": [
+    "They argued",
+    "They burst out laughing",
+    "They went home"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: we both burst out laughing"
+  },
+  {
+   "q": "What does the speaker do before leaving now?",
+   "options": [
+    "Locks the door twice",
+    "Calls a friend",
+    "Checks the bag twice"
+   ],
+   "answer": 2,
+   "why": "4번째 문장: I always check my bag twice before I leave"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "borrow",
+   "ko": "빌리다",
+   "note": "lend(빌려주다)와 헷갈리지 마세요."
+  },
+  {
+   "term": "burst out laughing",
+   "ko": "웃음을 터뜨리다",
+   "note": "burst out 뒤에 -ing를 써요."
+  },
+  {
+   "term": "looking back",
+   "ko": "돌이켜보면",
+   "note": "과거를 회상할 때 써요."
+  },
+  {
+   "term": "taught me a lot",
+   "ko": "많은 걸 가르쳐 줬다",
+   "note": "teach의 과거형은 taught예요."
+  },
+  {
+   "term": "Since then",
+   "ko": "그 이후로",
+   "note": "현재형 습관과 함께 써요."
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5121.12,
+  "end": 5169.85,
+  "clips": [
+   [
+    5121.12,
+    5125.37
+   ],
+   [
+    5145.36,
+    5148.73
+   ],
+   [
+    5165.76,
+    5169.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I also play badminton at a community center near my home.",
+   "chunks": [
+    {
+     "en": "I also play badminton",
+     "ko": "나는 또한 배드민턴을 친다"
+    },
+    {
+     "en": "at a community center",
+     "ko": "지역 문화센터에서"
+    },
+    {
+     "en": "near my home.",
+     "ko": "우리 집 근처의"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "badminton",
+     "strong": true,
+     "syl": "bad",
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "community",
+     "strong": true,
+     "syl": "mun",
+     "link": false
+    },
+    {
+     "w": "center",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "near",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'badminton'은 첫 음절 'bad'에 강세를 둬요.",
+   "start": 5121.12,
+   "end": 5125.37
+  },
+  {
+   "text": "It's a great way to meet people in the neighborhood.",
+   "chunks": [
+    {
+     "en": "It's a great way",
+     "ko": "그것은 아주 좋은 방법이다"
+    },
+    {
+     "en": "to meet people",
+     "ko": "사람들을 만나는"
+    },
+    {
+     "en": "in the neighborhood.",
+     "ko": "동네에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meet",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood.",
+     "strong": true,
+     "syl": "neigh",
+     "link": false
+    }
+   ],
+   "tip": "'neighborhood'는 'neigh'에 강세를 줘요.",
+   "start": 5145.36,
+   "end": 5148.73
+  },
+  {
+   "text": "Lately, I've started doing yoga to help with my back pain.",
+   "chunks": [
+    {
+     "en": "Lately,",
+     "ko": "최근에는"
+    },
+    {
+     "en": "I've started doing yoga",
+     "ko": "나는 요가를 하기 시작했다"
+    },
+    {
+     "en": "to help with my back pain.",
+     "ko": "허리 통증에 도움이 되도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "Lately,",
+     "strong": true,
+     "syl": "late",
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yoga",
+     "strong": true,
+     "syl": "yo",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "pain.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'Lately,'는 뒤에 쉼표만큼 짧게 쉬어 줘요.",
+   "start": 5165.76,
+   "end": 5169.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where does the speaker play badminton?",
+   "options": [
+    "At a gym",
+    "At a community center",
+    "At a school"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: at a community center near my home"
+  },
+  {
+   "q": "What is a great way to meet people in the neighborhood?",
+   "options": [
+    "Playing badminton",
+    "Hiking",
+    "Cooking"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: a great way to meet people in the neighborhood"
+  },
+  {
+   "q": "Why did the speaker start doing yoga?",
+   "options": [
+    "To lose weight",
+    "To meet friends",
+    "To help with back pain"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: to help with my back pain"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "community center",
+   "ko": "지역 문화센터",
+   "note": "동네 주민을 위한 시설이에요."
+  },
+  {
+   "term": "neighborhood",
+   "ko": "동네",
+   "note": "in the neighborhood로 자주 써요."
+  },
+  {
+   "term": "lately",
+   "ko": "최근에",
+   "note": "현재완료와 함께 자주 써요."
+  },
+  {
+   "term": "back pain",
+   "ko": "허리 통증",
+   "note": "body part + pain으로 통증을 말해요."
+  }
+ ]
+}

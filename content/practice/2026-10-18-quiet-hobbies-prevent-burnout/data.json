@@ -1,0 +1,286 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6446.16,
+  "end": 6497.29,
+  "clips": [
+   [
+    6446.16,
+    6450.25
+   ],
+   [
+    6470.24,
+    6474.33
+   ],
+   [
+    6494.0,
+    6497.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now I prefer quiet activities like reading and walking.",
+   "chunks": [
+    {
+     "en": "Now I prefer",
+     "ko": "이제 저는 선호해요"
+    },
+    {
+     "en": "quiet activities",
+     "ko": "조용한 활동들을"
+    },
+    {
+     "en": "like reading and walking.",
+     "ko": "독서나 걷기 같은 것을요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prefer",
+     "strong": true,
+     "link": false,
+     "syl": "fer"
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "link": false,
+     "syl": "qui"
+    },
+    {
+     "w": "activities",
+     "strong": true,
+     "link": true,
+     "syl": "ti"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reading",
+     "strong": true,
+     "link": true,
+     "syl": "read"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walking.",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    }
+   ],
+   "tip": "prefer는 두 번째 음절 fer에 강세를 줘요.",
+   "start": 6446.16,
+   "end": 6450.25
+  },
+  {
+   "text": "Hobbies are important because they help me relieve stress.",
+   "chunks": [
+    {
+     "en": "Hobbies are important",
+     "ko": "취미는 중요해요"
+    },
+    {
+     "en": "because they help me",
+     "ko": "그것들이 저를 돕기 때문에요"
+    },
+    {
+     "en": "relieve stress.",
+     "ko": "스트레스를 풀도록요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Hobbies",
+     "strong": true,
+     "link": false,
+     "syl": "Hob"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "important",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relieve",
+     "strong": true,
+     "link": false,
+     "syl": "lieve"
+    },
+    {
+     "w": "stress.",
+     "strong": true,
+     "link": false,
+     "syl": "stress"
+    }
+   ],
+   "tip": "important는 두 번째 음절 por에 강세를 줘요.",
+   "start": 6470.24,
+   "end": 6474.33
+  },
+  {
+   "text": "Without them, I think I'd burn out quickly.",
+   "chunks": [
+    {
+     "en": "Without them,",
+     "ko": "그것들이 없으면"
+    },
+    {
+     "en": "I think I'd burn out",
+     "ko": "저는 지쳐 버릴 것 같아요"
+    },
+    {
+     "en": "quickly.",
+     "ko": "빨리요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Without",
+     "strong": true,
+     "link": false,
+     "syl": "out"
+    },
+    {
+     "w": "them,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "burn",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quickly.",
+     "strong": true,
+     "link": false,
+     "syl": "quick"
+    }
+   ],
+   "tip": "burn out은 '번아웃'처럼 이어서 읽어요.",
+   "start": 6494.0,
+   "end": 6497.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of activities does the speaker prefer now?",
+   "options": [
+    "Quiet activities",
+    "Team sports",
+    "Loud parties"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I prefer quiet activities like reading and walking."
+  },
+  {
+   "q": "Why are hobbies important to the speaker?",
+   "options": [
+    "They make money",
+    "They help relieve stress",
+    "They fill free time"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: they help me relieve stress"
+  },
+  {
+   "q": "What would happen without hobbies?",
+   "options": [
+    "The speaker would sleep more",
+    "The speaker would be bored",
+    "The speaker would burn out quickly"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I'd burn out quickly"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "prefer",
+   "ko": "더 좋아하다",
+   "note": "두 번째 음절 fer에 강세가 와요."
+  },
+  {
+   "term": "quiet activities",
+   "ko": "조용한 활동",
+   "note": "quiet는 '콰이어트'로 읽어요."
+  },
+  {
+   "term": "relieve stress",
+   "ko": "스트레스를 풀다",
+   "note": "relieve는 '릴리브'예요."
+  },
+  {
+   "term": "burn out",
+   "ko": "기진맥진해지다",
+   "note": "번아웃은 지쳐 버린 상태를 말해요."
+  }
+ ]
+}

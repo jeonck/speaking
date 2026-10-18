@@ -1,0 +1,322 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 646.72,
+  "end": 696.33,
+  "clips": [
+   [
+    646.72,
+    650.49
+   ],
+   [
+    668.08,
+    672.17
+   ],
+   [
+    692.24,
+    696.33
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "After lunch, I take a short walk to clear my head.",
+   "chunks": [
+    {
+     "en": "After lunch,",
+     "ko": "점심 후에는,"
+    },
+    {
+     "en": "I take a short walk",
+     "ko": "나는 잠깐 산책해요"
+    },
+    {
+     "en": "to clear my head.",
+     "ko": "머리를 식히려고"
+    }
+   ],
+   "words": [
+    {
+     "w": "After",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lunch,",
+     "strong": true,
+     "link": false,
+     "syl": "lunch"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "short",
+     "strong": true,
+     "link": false,
+     "syl": "short"
+    },
+    {
+     "w": "walk",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clear",
+     "strong": true,
+     "link": false,
+     "syl": "clear"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "head.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "take a는 '테이커'처럼 이어 읽어요.",
+   "start": 646.72,
+   "end": 650.49
+  },
+  {
+   "text": "I usually focus on my main tasks in the afternoon.",
+   "chunks": [
+    {
+     "en": "I usually focus",
+     "ko": "나는 보통 집중해요"
+    },
+    {
+     "en": "on my main tasks",
+     "ko": "내 주요 업무에"
+    },
+    {
+     "en": "in the afternoon.",
+     "ko": "오후에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "focus",
+     "strong": true,
+     "link": true,
+     "syl": "fo"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "main",
+     "strong": true,
+     "link": false,
+     "syl": "main"
+    },
+    {
+     "w": "tasks",
+     "strong": true,
+     "link": false,
+     "syl": "tasks"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "afternoon.",
+     "strong": true,
+     "link": false,
+     "syl": "noon"
+    }
+   ],
+   "tip": "focus on은 '포커손'처럼 이어 읽어요.",
+   "start": 668.08,
+   "end": 672.17
+  },
+  {
+   "text": "Around three, I take a short coffee break with my team.",
+   "chunks": [
+    {
+     "en": "Around three,",
+     "ko": "세 시쯤에는,"
+    },
+    {
+     "en": "I take a short coffee break",
+     "ko": "짧은 커피 휴식을 가져요"
+    },
+    {
+     "en": "with my team.",
+     "ko": "팀원들과"
+    }
+   ],
+   "words": [
+    {
+     "w": "Around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three,",
+     "strong": true,
+     "link": false,
+     "syl": "three"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "short",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coffee",
+     "strong": true,
+     "link": false,
+     "syl": "cof"
+    },
+    {
+     "w": "break",
+     "strong": true,
+     "link": false,
+     "syl": "break"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "team.",
+     "strong": true,
+     "link": false,
+     "syl": "team"
+    }
+   ],
+   "tip": "three의 th는 혀끝을 이 사이에 살짝 대고 '쓰리'를 내요.",
+   "start": 692.24,
+   "end": 696.33
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why does the speaker take a walk after lunch?",
+   "options": [
+    "To get some sun",
+    "To clear their head",
+    "To call family"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a short walk to clear my head"
+  },
+  {
+   "q": "What does the speaker focus on in the afternoon?",
+   "options": [
+    "Main tasks",
+    "Emails",
+    "Meetings"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: focus on my main tasks in the afternoon"
+  },
+  {
+   "q": "When and with whom is the coffee break?",
+   "options": [
+    "Around four with a client",
+    "Around two alone",
+    "Around three with their team"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: Around three, ... coffee break with my team"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "clear my head",
+   "ko": "머리를 식히다",
+   "note": "생각을 비우고 환기한다는 관용 표현이에요."
+  },
+  {
+   "term": "main tasks",
+   "ko": "주요 업무",
+   "note": "중요한 일을 말할 때 써요."
+  },
+  {
+   "term": "focus on",
+   "ko": "~에 집중하다",
+   "note": "on 뒤에 집중 대상을 써요."
+  },
+  {
+   "term": "coffee break",
+   "ko": "커피 휴식",
+   "note": "잠깐 쉬는 시간이에요."
+  },
+  {
+   "term": "take a short walk",
+   "ko": "잠깐 산책하다",
+   "note": "take a walk는 산책한다는 뜻이에요."
+  }
+ ]
+}

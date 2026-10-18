@@ -1,0 +1,290 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6380.8,
+  "end": 6430.81,
+  "clips": [
+   [
+    6380.8,
+    6384.81
+   ],
+   [
+    6403.52,
+    6407.05
+   ],
+   [
+    6427.2,
+    6430.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Since then, I've gone climbing almost every weekend.",
+   "chunks": [
+    {
+     "en": "Since then,",
+     "ko": "그 이후로"
+    },
+    {
+     "en": "I've gone climbing",
+     "ko": "저는 등반하러 다녔어요"
+    },
+    {
+     "en": "almost every weekend.",
+     "ko": "거의 매 주말에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Since",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "then,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gone",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "climbing",
+     "strong": true,
+     "link": true,
+     "syl": "climb"
+    },
+    {
+     "w": "almost",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekend.",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    }
+   ],
+   "tip": "almost every는 '올모스트에브리'로 이어지고 every는 두 음절로 읽어요.",
+   "start": 6380.8,
+   "end": 6384.81
+  },
+  {
+   "text": "My hobbies have changed a lot over the years.",
+   "chunks": [
+    {
+     "en": "My hobbies",
+     "ko": "제 취미들은"
+    },
+    {
+     "en": "have changed a lot",
+     "ko": "많이 바뀌었어요"
+    },
+    {
+     "en": "over the years.",
+     "ko": "몇 년에 걸쳐서요."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hobbies",
+     "strong": true,
+     "link": false,
+     "syl": "hob"
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": true,
+     "syl": "changed"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    }
+   ],
+   "tip": "a lot over the는 '얼라로버더'처럼 이어서 읽어요.",
+   "start": 6403.52,
+   "end": 6407.05
+  },
+  {
+   "text": "In college, I used to go clubbing with friends.",
+   "chunks": [
+    {
+     "en": "In college,",
+     "ko": "대학 때는"
+    },
+    {
+     "en": "I used to go clubbing",
+     "ko": "저는 클럽에 가곤 했어요"
+    },
+    {
+     "en": "with friends.",
+     "ko": "친구들과요."
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college,",
+     "strong": true,
+     "link": false,
+     "syl": "col"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": true,
+     "link": true,
+     "syl": "used"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clubbing",
+     "strong": true,
+     "link": false,
+     "syl": "club"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends.",
+     "strong": true,
+     "link": false,
+     "syl": "friends"
+    }
+   ],
+   "tip": "used to는 '유스투'처럼 d가 거의 들리지 않아요.",
+   "start": 6427.2,
+   "end": 6430.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "How often has the speaker gone climbing since then?",
+   "options": [
+    "Almost every weekend",
+    "Once a month",
+    "Every morning"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: gone climbing almost every weekend"
+  },
+  {
+   "q": "What has changed a lot over the years?",
+   "options": [
+    "The speaker's job",
+    "The speaker's hobbies",
+    "The speaker's city"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: My hobbies have changed a lot"
+  },
+  {
+   "q": "What did the speaker use to do in college?",
+   "options": [
+    "Study abroad",
+    "Play in a band",
+    "Go clubbing with friends"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I used to go clubbing with friends."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "almost every weekend",
+   "ko": "거의 매 주말",
+   "note": "almost는 every 앞에 와요."
+  },
+  {
+   "term": "change a lot",
+   "ko": "많이 바뀌다",
+   "note": "a lot은 부사처럼 쓰여요."
+  },
+  {
+   "term": "over the years",
+   "ko": "몇 년에 걸쳐",
+   "note": "시간의 흐름을 말할 때 써요."
+  },
+  {
+   "term": "used to",
+   "ko": "~하곤 했다",
+   "note": "과거의 습관을 나타내요."
+  },
+  {
+   "term": "go clubbing",
+   "ko": "클럽에 가다",
+   "note": "go + -ing 형태예요."
+  }
+ ]
+}

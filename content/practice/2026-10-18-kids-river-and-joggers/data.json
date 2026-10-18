@@ -1,0 +1,303 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3597.12,
+  "end": 3644.97,
+  "clips": [
+   [
+    3597.12,
+    3600.97
+   ],
+   [
+    3619.04,
+    3622.57
+   ],
+   [
+    3641.12,
+    3644.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Kids ride their bikes along the path after school.",
+   "chunks": [
+    {
+     "en": "Kids ride their bikes",
+     "ko": "아이들이 자전거를 타요"
+    },
+    {
+     "en": "along the path",
+     "ko": "길을 따라"
+    },
+    {
+     "en": "after school.",
+     "ko": "방과 후에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Kids",
+     "strong": true,
+     "link": false,
+     "syl": "kids"
+    },
+    {
+     "w": "ride",
+     "strong": true,
+     "link": false,
+     "syl": "ride"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bikes",
+     "strong": true,
+     "link": false,
+     "syl": "bikes"
+    },
+    {
+     "w": "along",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "path",
+     "strong": true,
+     "link": false,
+     "syl": "path"
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "school.",
+     "strong": true,
+     "link": false,
+     "syl": "school"
+    }
+   ],
+   "tip": "'after school'은 school에 가장 센 강세가 오고 after는 짧게 읽어요.",
+   "start": 3597.12,
+   "end": 3600.97
+  },
+  {
+   "text": "There's a small river that runs through the neighborhood.",
+   "chunks": [
+    {
+     "en": "There's a small river",
+     "ko": "작은 강이 있어요"
+    },
+    {
+     "en": "that runs through",
+     "ko": "지나가는"
+    },
+    {
+     "en": "the neighborhood.",
+     "ko": "동네를 가로질러"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "river",
+     "strong": true,
+     "link": false,
+     "syl": "ri"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "runs",
+     "strong": true,
+     "link": true,
+     "syl": "runs"
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood.",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    }
+   ],
+   "tip": "'runs through'는 '런스루'처럼 s가 th 앞에서 짧게 이어져요.",
+   "start": 3619.04,
+   "end": 3622.57
+  },
+  {
+   "text": "A lot of people jog or walk their dogs along it.",
+   "chunks": [
+    {
+     "en": "A lot of people",
+     "ko": "많은 사람들이"
+    },
+    {
+     "en": "jog or walk their dogs",
+     "ko": "조깅하거나 개를 산책시켜요"
+    },
+    {
+     "en": "along it.",
+     "ko": "그 강을 따라"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": true,
+     "syl": "lot"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "jog",
+     "strong": true,
+     "link": true,
+     "syl": "jog"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walk",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dogs",
+     "strong": true,
+     "link": false,
+     "syl": "dogs"
+    },
+    {
+     "w": "along",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'A lot of'는 '얼라러브'처럼 이어서 빠르게 읽어요.",
+   "start": 3641.12,
+   "end": 3644.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "When do kids ride their bikes along the path?",
+   "options": [
+    "Before school",
+    "After school",
+    "On Sunday mornings"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: after school"
+  },
+  {
+   "q": "What runs through the neighborhood?",
+   "options": [
+    "A small river",
+    "A busy highway",
+    "A railway"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: a small river that runs through the neighborhood"
+  },
+  {
+   "q": "What do many people do along the river?",
+   "options": [
+    "Fish and swim",
+    "Jog or walk their dogs",
+    "Sell food"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: jog or walk their dogs along it"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "ride a bike",
+   "ko": "자전거를 타다",
+   "note": "bike 앞에 their 같은 소유격을 쓰기도 해요."
+  },
+  {
+   "term": "run through",
+   "ko": "~를 가로질러 흐르다",
+   "note": "강이나 길이 지나갈 때 써요."
+  },
+  {
+   "term": "walk their dogs",
+   "ko": "개를 산책시키다",
+   "note": "walk를 타동사로 써서 '산책시키다'가 돼요."
+  },
+  {
+   "term": "a lot of",
+   "ko": "많은",
+   "note": "양이 많을 때 두루 쓰는 말이에요."
+  }
+ ]
+}

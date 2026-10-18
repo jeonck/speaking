@@ -1,0 +1,296 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7934.8,
+  "end": 7982.89,
+  "clips": [
+   [
+    7934.8,
+    7938.17
+   ],
+   [
+    7955.52,
+    7959.53
+   ],
+   [
+    7978.72,
+    7982.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I also enjoy road trips with my friends.",
+   "chunks": [
+    {
+     "en": "I also enjoy",
+     "ko": "나도 즐긴다"
+    },
+    {
+     "en": "road trips",
+     "ko": "로드 트립을"
+    },
+    {
+     "en": "with my friends.",
+     "ko": "친구들과 함께하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": true,
+     "link": true,
+     "syl": "al"
+    },
+    {
+     "w": "enjoy",
+     "strong": true,
+     "link": false,
+     "syl": "joy"
+    },
+    {
+     "w": "road",
+     "strong": true,
+     "link": false,
+     "syl": "road"
+    },
+    {
+     "w": "trips",
+     "strong": true,
+     "link": false,
+     "syl": "trips"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends.",
+     "strong": true,
+     "link": false,
+     "syl": "friends"
+    }
+   ],
+   "tip": "road trips는 두 단어 모두 세게 또박또박 읽어요.",
+   "start": 7934.8,
+   "end": 7938.17
+  },
+  {
+   "text": "We take turns driving and play our favorite songs.",
+   "chunks": [
+    {
+     "en": "We take turns driving",
+     "ko": "우리는 번갈아 운전하고"
+    },
+    {
+     "en": "and play our favorite songs.",
+     "ko": "좋아하는 노래를 튼다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": true,
+     "link": false,
+     "syl": "take"
+    },
+    {
+     "w": "turns",
+     "strong": true,
+     "link": false,
+     "syl": "turns"
+    },
+    {
+     "w": "driving",
+     "strong": true,
+     "link": true,
+     "syl": "driv"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "link": false,
+     "syl": "fav"
+    },
+    {
+     "w": "songs.",
+     "strong": true,
+     "link": false,
+     "syl": "songs"
+    }
+   ],
+   "tip": "driving and는 '드라이빙앤'처럼 이어 읽어요.",
+   "start": 7955.52,
+   "end": 7959.53
+  },
+  {
+   "text": "Stopping at rest areas for snacks is half the fun.",
+   "chunks": [
+    {
+     "en": "Stopping at rest areas",
+     "ko": "휴게소에 들르는 것"
+    },
+    {
+     "en": "for snacks",
+     "ko": "간식을 위해"
+    },
+    {
+     "en": "is half the fun.",
+     "ko": "재미의 절반이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Stopping",
+     "strong": true,
+     "link": true,
+     "syl": "stop"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rest",
+     "strong": true,
+     "link": true,
+     "syl": "rest"
+    },
+    {
+     "w": "areas",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "snacks",
+     "strong": true,
+     "link": true,
+     "syl": "snacks"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "half",
+     "strong": true,
+     "link": false,
+     "syl": "half"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fun.",
+     "strong": true,
+     "link": false,
+     "syl": "fun"
+    }
+   ],
+   "tip": "is half the fun은 half에 힘을 주고 나머지는 약하게 읽어요.",
+   "start": 7978.72,
+   "end": 7982.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who does the speaker enjoy road trips with?",
+   "options": [
+    "Family",
+    "Co-workers",
+    "Friends"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: road trips with my friends"
+  },
+  {
+   "q": "What do they do while traveling?",
+   "options": [
+    "Take turns driving and play favorite songs",
+    "Sleep in the car",
+    "Watch movies"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: We take turns driving and play our favorite songs"
+  },
+  {
+   "q": "What is half the fun?",
+   "options": [
+    "Packing the car",
+    "Stopping at rest areas for snacks",
+    "Reaching the destination"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: Stopping at rest areas for snacks is half the fun"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "road trip",
+   "ko": "자동차 여행",
+   "note": "친구들과 가는 장거리 드라이브를 말해요."
+  },
+  {
+   "term": "take turns -ing",
+   "ko": "번갈아 ~하다",
+   "note": "turn은 '차례'예요."
+  },
+  {
+   "term": "favorite songs",
+   "ko": "가장 좋아하는 노래",
+   "note": "favorite는 강세가 맨 앞에 와요."
+  },
+  {
+   "term": "rest area",
+   "ko": "휴게소",
+   "note": "고속도로 쉼터를 말해요."
+  },
+  {
+   "term": "half the fun",
+   "ko": "재미의 절반",
+   "note": "half the + 명사 패턴이에요."
+  }
+ ]
+}

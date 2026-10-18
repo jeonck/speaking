@@ -1,0 +1,268 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15667.68,
+  "end": 15710.01,
+  "clips": [
+   [
+    15667.68,
+    15671.13
+   ],
+   [
+    15688.16,
+    15691.05
+   ],
+   [
+    15706.16,
+    15710.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Are utilities included in the monthly rent?",
+   "chunks": [
+    {
+     "en": "Are utilities included",
+     "ko": "공과금이 포함되어 있나요"
+    },
+    {
+     "en": "in the monthly rent?",
+     "ko": "월세에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "utilities",
+     "strong": true,
+     "link": false,
+     "syl": "til"
+    },
+    {
+     "w": "included",
+     "strong": true,
+     "link": true,
+     "syl": "clud"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "monthly",
+     "strong": true,
+     "link": false,
+     "syl": "mon"
+    },
+    {
+     "w": "rent?",
+     "strong": true,
+     "link": false,
+     "syl": "rent"
+    }
+   ],
+   "tip": "included in은 '인클루디딘'처럼 이어 읽어요.",
+   "start": 15667.68,
+   "end": 15671.13
+  },
+  {
+   "text": "Are pets allowed in the building?",
+   "chunks": [
+    {
+     "en": "Are pets allowed",
+     "ko": "반려동물이 허용되나요"
+    },
+    {
+     "en": "in the building?",
+     "ko": "건물 안에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pets",
+     "strong": true,
+     "link": false,
+     "syl": "pets"
+    },
+    {
+     "w": "allowed",
+     "strong": true,
+     "link": true,
+     "syl": "lowed"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building?",
+     "strong": true,
+     "link": false,
+     "syl": "build"
+    }
+   ],
+   "tip": "allowed in은 '얼라우딘'처럼 이어 읽어요.",
+   "start": 15688.16,
+   "end": 15691.05
+  },
+  {
+   "text": "My neighbor's dog barks all night, so I can't sleep.",
+   "chunks": [
+    {
+     "en": "My neighbor's dog barks",
+     "ko": "이웃집 개가 짖어요"
+    },
+    {
+     "en": "all night,",
+     "ko": "밤새도록"
+    },
+    {
+     "en": "so I can't sleep.",
+     "ko": "그래서 잠을 못 자요"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighbor's",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "dog",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "barks",
+     "strong": true,
+     "link": true,
+     "syl": "barks"
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night,",
+     "strong": true,
+     "link": false,
+     "syl": "night"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sleep.",
+     "strong": true,
+     "link": false,
+     "syl": "sleep"
+    }
+   ],
+   "tip": "can't sleep은 sleep을 세게 읽어 부정의 뜻을 살려요.",
+   "start": 15706.16,
+   "end": 15710.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask about the monthly rent?",
+   "options": [
+    "Whether utilities are included",
+    "Whether it can be paid late",
+    "Whether a deposit is needed"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Are utilities included in the monthly rent?"
+  },
+  {
+   "q": "Why can't the speaker sleep?",
+   "options": [
+    "The street is noisy",
+    "The neighbor's dog barks all night",
+    "The neighbor plays loud music"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: My neighbor's dog barks all night"
+  },
+  {
+   "q": "What does the speaker ask about the building?",
+   "options": [
+    "Whether there is parking",
+    "Whether there is an elevator",
+    "Whether pets are allowed"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: Are pets allowed in the building?"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "utilities",
+   "ko": "공과금",
+   "note": "전기·수도·가스 같은 생활 요금을 통틀어 말해요."
+  },
+  {
+   "term": "monthly rent",
+   "ko": "월세",
+   "note": "monthly는 '매달의'라는 뜻이에요."
+  },
+  {
+   "term": "Are pets allowed",
+   "ko": "반려동물이 허용되나요",
+   "note": "집을 구할 때 자주 쓰는 질문이에요."
+  },
+  {
+   "term": "bark",
+   "ko": "짖다",
+   "note": "dog barks처럼 개가 주어예요."
+  },
+  {
+   "term": "can't sleep",
+   "ko": "잠을 못 자다",
+   "note": "원인 뒤에 so를 붙여 결과를 말해요."
+  }
+ ]
+}

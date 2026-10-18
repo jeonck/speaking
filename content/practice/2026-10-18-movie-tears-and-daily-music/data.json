@@ -1,0 +1,282 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4735.28,
+  "end": 4779.37,
+  "clips": [
+   [
+    4735.28,
+    4738.65
+   ],
+   [
+    4754.64,
+    4758.09
+   ],
+   [
+    4775.76,
+    4779.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I cried a little at the end to be honest.",
+   "chunks": [
+    {
+     "en": "I cried a little",
+     "ko": "조금 울었어요"
+    },
+    {
+     "en": "at the end",
+     "ko": "끝에서"
+    },
+    {
+     "en": "to be honest.",
+     "ko": "솔직히 말해서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cried",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "end",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honest.",
+     "strong": true,
+     "link": false,
+     "syl": "hon"
+    }
+   ],
+   "tip": "cried a little은 '크라이더리틀'처럼 이어 읽고 honest의 h는 소리 나지 않아요.",
+   "start": 4735.28,
+   "end": 4738.65
+  },
+  {
+   "text": "I also listen to music almost every day.",
+   "chunks": [
+    {
+     "en": "I also listen to music",
+     "ko": "음악도 들어요"
+    },
+    {
+     "en": "almost every day.",
+     "ko": "거의 매일"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listen",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "music",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "almost",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "every",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "day.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "almost every는 '올모스트에브리'로 이어 읽고 listen의 t는 소리 나지 않아요.",
+   "start": 4754.64,
+   "end": 4758.09
+  },
+  {
+   "text": "I usually put on my earphones during my commute.",
+   "chunks": [
+    {
+     "en": "I usually put on my earphones",
+     "ko": "보통 이어폰을 껴요"
+    },
+    {
+     "en": "during my commute.",
+     "ko": "출퇴근하는 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": false,
+     "syl": "u"
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "earphones",
+     "strong": true,
+     "link": false,
+     "syl": "ear"
+    },
+    {
+     "w": "during",
+     "strong": true,
+     "link": false,
+     "syl": "dur"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "commute.",
+     "strong": true,
+     "link": false,
+     "syl": "mute"
+    }
+   ],
+   "tip": "put on은 '푸톤'처럼 이어 읽고 commute는 mute에 강세가 와요.",
+   "start": 4775.76,
+   "end": 4779.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker do at the end of the movie?",
+   "options": [
+    "Fell asleep",
+    "Cried a little",
+    "Left early"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I cried a little at the end"
+  },
+  {
+   "q": "How often does the speaker listen to music?",
+   "options": [
+    "Once a week",
+    "Only on weekends",
+    "Almost every day"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: almost every day"
+  },
+  {
+   "q": "When does the speaker use earphones?",
+   "options": [
+    "During the commute",
+    "While cooking",
+    "At the gym"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: put on my earphones during my commute"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "to be honest",
+   "ko": "솔직히 말해서",
+   "note": "속마음을 말할 때 문장 끝이나 앞에 써요."
+  },
+  {
+   "term": "almost every day",
+   "ko": "거의 매일",
+   "note": "every day보다 약간 덜한 빈도예요."
+  },
+  {
+   "term": "put on",
+   "ko": "착용하다, 틀다",
+   "note": "이어폰, 옷, 음악 모두에 쓸 수 있어요."
+  },
+  {
+   "term": "earphones",
+   "ko": "이어폰",
+   "note": "귀에 꽂는 헤드폰이에요."
+  },
+  {
+   "term": "commute",
+   "ko": "출퇴근, 통근",
+   "note": "명사와 동사로 모두 써요."
+  }
+ ]
+}

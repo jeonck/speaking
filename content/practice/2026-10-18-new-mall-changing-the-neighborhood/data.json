@@ -1,0 +1,305 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4075.52,
+  "end": 4125.05,
+  "clips": [
+   [
+    4075.52,
+    4079.21
+   ],
+   [
+    4097.6,
+    4101.93
+   ],
+   [
+    4121.28,
+    4125.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "They're building a new shopping mall near the station.",
+   "chunks": [
+    {
+     "en": "They're building a new shopping mall",
+     "ko": "새 쇼핑몰을 짓고 있어요"
+    },
+    {
+     "en": "near the station.",
+     "ko": "역 근처에"
+    }
+   ],
+   "words": [
+    {
+     "w": "They're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building",
+     "strong": true,
+     "link": true,
+     "syl": "build"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "shopping",
+     "strong": true,
+     "link": false,
+     "syl": "shop"
+    },
+    {
+     "w": "mall",
+     "strong": true,
+     "link": false,
+     "syl": "mall"
+    },
+    {
+     "w": "near",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "station.",
+     "strong": true,
+     "link": false,
+     "syl": "sta"
+    }
+   ],
+   "tip": "'They're'는 '데어'처럼 줄어서 building으로 바로 이어져요.",
+   "start": 4075.52,
+   "end": 4079.21
+  },
+  {
+   "text": "It's a bit noisy now, but it'll be convenient once it's done.",
+   "chunks": [
+    {
+     "en": "It's a bit noisy now,",
+     "ko": "지금은 좀 시끄럽지만"
+    },
+    {
+     "en": "but it'll be convenient",
+     "ko": "편리해질 거예요"
+    },
+    {
+     "en": "once it's done.",
+     "ko": "완공되면"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bit",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "noisy",
+     "strong": true,
+     "link": false,
+     "syl": "noi"
+    },
+    {
+     "w": "now,",
+     "strong": true,
+     "link": false,
+     "syl": "now"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "convenient",
+     "strong": true,
+     "link": false,
+     "syl": "ve"
+    },
+    {
+     "w": "once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "done.",
+     "strong": true,
+     "link": false,
+     "syl": "done"
+    }
+   ],
+   "tip": "'it'll'은 '이틀'처럼 짧게 줄여서 읽어요.",
+   "start": 4097.6,
+   "end": 4101.93
+  },
+  {
+   "text": "The neighborhood has changed a lot since I moved here.",
+   "chunks": [
+    {
+     "en": "The neighborhood has changed a lot",
+     "ko": "동네가 많이 변했어요"
+    },
+    {
+     "en": "since I moved here.",
+     "ko": "제가 이사 온 이후로"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": true,
+     "syl": "changed"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": true,
+     "link": false,
+     "syl": "lot"
+    },
+    {
+     "w": "since",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moved",
+     "strong": true,
+     "link": false,
+     "syl": "moved"
+    },
+    {
+     "w": "here.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'changed a'는 '체인지더'처럼 d와 a가 이어져요.",
+   "start": 4121.28,
+   "end": 4125.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the new shopping mall being built?",
+   "options": [
+    "Near the station",
+    "Next to the park",
+    "By the river"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: a new shopping mall near the station"
+  },
+  {
+   "q": "How does the speaker feel about the future of the mall?",
+   "options": [
+    "It will be convenient",
+    "It will ruin the area",
+    "It will be too expensive"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: it'll be convenient once it's done"
+  },
+  {
+   "q": "What has changed a lot since the speaker moved there?",
+   "options": [
+    "The neighborhood",
+    "The speaker's job",
+    "The weather"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: The neighborhood has changed a lot since I moved here"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "shopping mall",
+   "ko": "쇼핑몰",
+   "note": "mall만 써도 충분해요."
+  },
+  {
+   "term": "a bit noisy",
+   "ko": "조금 시끄러운",
+   "note": "a bit은 완곡하게 말하는 표현이에요."
+  },
+  {
+   "term": "convenient",
+   "ko": "편리한",
+   "note": "con-VEE-nient처럼 두 번째 음절이 세요."
+  },
+  {
+   "term": "once it's done",
+   "ko": "끝나면",
+   "note": "once는 '~하자마자, ~하면'이라는 뜻이에요."
+  }
+ ]
+}

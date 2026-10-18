@@ -1,0 +1,281 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21609.2,
+  "end": 21651.93,
+  "clips": [
+   [
+    21609.2,
+    21612.65
+   ],
+   [
+    21627.36,
+    21631.05
+   ],
+   [
+    21648.56,
+    21651.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It all started on a rainy Monday morning.",
+   "chunks": [
+    {
+     "en": "It all started",
+     "ko": "모든 건 시작됐어요"
+    },
+    {
+     "en": "on a rainy Monday morning.",
+     "ko": "비 오는 월요일 아침에"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rainy",
+     "strong": true,
+     "link": false,
+     "syl": "rain"
+    },
+    {
+     "w": "Monday",
+     "strong": true,
+     "link": false,
+     "syl": "Mon"
+    },
+    {
+     "w": "morning.",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    }
+   ],
+   "tip": "started는 두 번째 음절 start에 강세가 와요.",
+   "start": 21609.2,
+   "end": 21612.65
+  },
+  {
+   "text": "At first, everything seemed to be going smoothly.",
+   "chunks": [
+    {
+     "en": "At first,",
+     "ko": "처음에는"
+    },
+    {
+     "en": "everything seemed",
+     "ko": "모든 게 보였어요"
+    },
+    {
+     "en": "to be going smoothly.",
+     "ko": "순조롭게 진행되는 것처럼"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first,",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": false,
+     "syl": "thing"
+    },
+    {
+     "w": "seemed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smoothly.",
+     "strong": true,
+     "link": false,
+     "syl": "smooth"
+    }
+   ],
+   "tip": "smoothly의 th는 혀를 살짝 내밀어 발음해요.",
+   "start": 21627.36,
+   "end": 21631.05
+  },
+  {
+   "text": "But then out of nowhere, the power went out.",
+   "chunks": [
+    {
+     "en": "But then",
+     "ko": "그런데"
+    },
+    {
+     "en": "out of nowhere,",
+     "ko": "갑자기"
+    },
+    {
+     "en": "the power went out.",
+     "ko": "전기가 나갔어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nowhere,",
+     "strong": true,
+     "link": false,
+     "syl": "where"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "power",
+     "strong": true,
+     "link": false,
+     "syl": "pow"
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out.",
+     "strong": true,
+     "link": false,
+     "syl": "out"
+    }
+   ],
+   "tip": "out of nowhere는 '아우러브노웨어'처럼 이어 읽어요.",
+   "start": 21648.56,
+   "end": 21651.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "When did it all start?",
+   "options": [
+    "On a sunny Sunday",
+    "On a rainy Monday morning",
+    "On a snowy Friday night"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a rainy Monday morning"
+  },
+  {
+   "q": "How did things seem at first?",
+   "options": [
+    "Confusing",
+    "Dangerous",
+    "To be going smoothly"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: seemed to be going smoothly"
+  },
+  {
+   "q": "What happened out of nowhere?",
+   "options": [
+    "The power went out",
+    "The phone rang",
+    "The door broke"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: the power went out"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "it all started",
+   "ko": "모든 건 ~에서 시작됐다",
+   "note": "이야기를 열 때 써요."
+  },
+  {
+   "term": "at first",
+   "ko": "처음에는",
+   "note": "뒤에 반전이 올 때가 많아요."
+  },
+  {
+   "term": "go smoothly",
+   "ko": "순조롭게 진행되다",
+   "note": "계획이 잘될 때 써요."
+  },
+  {
+   "term": "out of nowhere",
+   "ko": "갑자기",
+   "note": "예상 못 한 일에 써요."
+  },
+  {
+   "term": "the power went out",
+   "ko": "전기가 나갔다",
+   "note": "정전을 말하는 표현이에요."
+  }
+ ]
+}

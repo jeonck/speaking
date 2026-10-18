@@ -1,0 +1,296 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21860.64,
+  "end": 21908.41,
+  "clips": [
+   [
+    21860.64,
+    21863.93
+   ],
+   [
+    21882.32,
+    21885.93
+   ],
+   [
+    21905.12,
+    21908.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "To be fair, it wasn't completely their fault.",
+   "chunks": [
+    {
+     "en": "To be fair,",
+     "ko": "공정하게 말하면,"
+    },
+    {
+     "en": "it wasn't completely",
+     "ko": "그건 완전히 아니었어요"
+    },
+    {
+     "en": "their fault.",
+     "ko": "그들의 잘못이"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fair,",
+     "strong": true,
+     "link": false,
+     "syl": "fair"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wasn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "completely",
+     "strong": true,
+     "link": false,
+     "syl": "plete"
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fault.",
+     "strong": true,
+     "link": false,
+     "syl": "fault"
+    }
+   ],
+   "tip": "completely는 -plete- 부분에 강세가 있어서 'comPLETEly'처럼 읽어요.",
+   "start": 21860.64,
+   "end": 21863.93
+  },
+  {
+   "text": "Having said that, I'd still go back in a heartbeat.",
+   "chunks": [
+    {
+     "en": "Having said that,",
+     "ko": "그렇긴 하지만,"
+    },
+    {
+     "en": "I'd still go back",
+     "ko": "저는 여전히 다시 갈 거예요"
+    },
+    {
+     "en": "in a heartbeat.",
+     "ko": "망설임 없이"
+    }
+   ],
+   "words": [
+    {
+     "w": "Having",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "said",
+     "strong": true,
+     "link": false,
+     "syl": "said"
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": true,
+     "link": true,
+     "syl": "back"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heartbeat.",
+     "strong": true,
+     "link": false,
+     "syl": "heart"
+    }
+   ],
+   "tip": "back in a는 '백이너'처럼 이어서 빠르게 읽어요.",
+   "start": 21882.32,
+   "end": 21885.93
+  },
+  {
+   "text": "Even so, I think it was worth every penny.",
+   "chunks": [
+    {
+     "en": "Even so,",
+     "ko": "그래도,"
+    },
+    {
+     "en": "I think it was worth",
+     "ko": "저는 그게 가치 있었다고 생각해요"
+    },
+    {
+     "en": "every penny.",
+     "ko": "한 푼도 아깝지 않게"
+    }
+   ],
+   "words": [
+    {
+     "w": "Even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": true,
+     "syl": "think"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worth",
+     "strong": true,
+     "link": false,
+     "syl": "worth"
+    },
+    {
+     "w": "every",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "penny.",
+     "strong": true,
+     "link": false,
+     "syl": "pen"
+    }
+   ],
+   "tip": "think it은 '씽킷'처럼 이어 읽고 worth를 세게 말해요.",
+   "start": 21905.12,
+   "end": 21908.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about the fault?",
+   "options": [
+    "It was entirely their fault",
+    "It was the speaker's fault",
+    "It was not completely their fault"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: it wasn't completely their fault"
+  },
+  {
+   "q": "How does the speaker feel about going back?",
+   "options": [
+    "Would never go back",
+    "Would go back without hesitation",
+    "Is not sure about it"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: I'd still go back in a heartbeat"
+  },
+  {
+   "q": "What does the speaker think about the cost?",
+   "options": [
+    "It was too expensive",
+    "It was cheaper than expected",
+    "It was worth every penny"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: it was worth every penny"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "To be fair",
+   "ko": "공정하게 말하면",
+   "note": "상대 입장을 인정할 때 써요."
+  },
+  {
+   "term": "Having said that",
+   "ko": "그렇긴 하지만",
+   "note": "앞말에 반대되는 내용을 이을 때 써요."
+  },
+  {
+   "term": "in a heartbeat",
+   "ko": "망설임 없이",
+   "note": "아주 빠르고 확실한 결정을 뜻해요."
+  },
+  {
+   "term": "Even so",
+   "ko": "그렇다 해도",
+   "note": "양보할 때 쓰는 연결어예요."
+  },
+  {
+   "term": "worth every penny",
+   "ko": "돈이 아깝지 않은",
+   "note": "가격 이상의 가치를 칭찬할 때 써요."
+  }
+ ]
+}

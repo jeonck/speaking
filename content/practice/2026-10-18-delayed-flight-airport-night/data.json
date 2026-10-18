@@ -1,0 +1,281 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7534.56,
+  "end": 7582.25,
+  "clips": [
+   [
+    7534.56,
+    7538.57
+   ],
+   [
+    7556.56,
+    7560.09
+   ],
+   [
+    7578.64,
+    7582.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Once my flight was delayed for almost 6 hours.",
+   "chunks": [
+    {
+     "en": "Once my flight was delayed",
+     "ko": "한번은 내 비행기가 지연됐다"
+    },
+    {
+     "en": "for almost 6 hours.",
+     "ko": "거의 6시간 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "Once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flight",
+     "strong": true,
+     "link": false,
+     "syl": "flight"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "delayed",
+     "strong": true,
+     "link": false,
+     "syl": "lay"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almost",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "6",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hours.",
+     "strong": true,
+     "link": false,
+     "syl": "hours"
+    }
+   ],
+   "tip": "delayed는 두 번째 음절 '레이'에 강세가 와요.",
+   "start": 7534.56,
+   "end": 7538.57
+  },
+  {
+   "text": "I ended up sleeping on a bench at the airport.",
+   "chunks": [
+    {
+     "en": "I ended up sleeping on a bench",
+     "ko": "나는 결국 잠을 잤다"
+    },
+    {
+     "en": "at the airport.",
+     "ko": "공항 벤치에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ended",
+     "strong": true,
+     "link": true,
+     "syl": "end"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sleeping",
+     "strong": true,
+     "link": true,
+     "syl": "sleep"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bench",
+     "strong": true,
+     "link": true,
+     "syl": "bench"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "airport.",
+     "strong": true,
+     "link": false,
+     "syl": "air"
+    }
+   ],
+   "tip": "ended up은 '엔디덥'처럼 이어 읽어요.",
+   "start": 7556.56,
+   "end": 7560.09
+  },
+  {
+   "text": "Another time the airline lost my suitcase.",
+   "chunks": [
+    {
+     "en": "Another time",
+     "ko": "또 한번은"
+    },
+    {
+     "en": "the airline lost my suitcase.",
+     "ko": "항공사가 내 여행 가방을 잃어버렸다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Another",
+     "strong": true,
+     "link": false,
+     "syl": "an"
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "airline",
+     "strong": true,
+     "link": false,
+     "syl": "air"
+    },
+    {
+     "w": "lost",
+     "strong": true,
+     "link": false,
+     "syl": "lost"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "suitcase.",
+     "strong": true,
+     "link": false,
+     "syl": "suit"
+    }
+   ],
+   "tip": "lost my는 '로스트마이'로 t를 약하게 읽어요.",
+   "start": 7578.64,
+   "end": 7582.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long was the flight delayed?",
+   "options": [
+    "Almost 6 hours",
+    "About 2 hours",
+    "Overnight"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: delayed for almost 6 hours"
+  },
+  {
+   "q": "Where did the speaker sleep?",
+   "options": [
+    "In a hotel lobby",
+    "On a bench at the airport",
+    "On the plane"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: sleeping on a bench at the airport"
+  },
+  {
+   "q": "What did the airline lose another time?",
+   "options": [
+    "A passport",
+    "A ticket",
+    "A suitcase"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: the airline lost my suitcase"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "be delayed",
+   "ko": "지연되다",
+   "note": "항공편 안내에서 자주 들려요."
+  },
+  {
+   "term": "for almost 6 hours",
+   "ko": "거의 6시간 동안",
+   "note": "almost는 '거의'예요."
+  },
+  {
+   "term": "end up -ing",
+   "ko": "결국 ~하게 되다",
+   "note": "원치 않던 결과에 자주 써요."
+  },
+  {
+   "term": "on a bench",
+   "ko": "벤치 위에서",
+   "note": "앉거나 눕는 곳은 on을 써요."
+  },
+  {
+   "term": "lose a suitcase",
+   "ko": "여행 가방을 잃어버리다",
+   "note": "lose-lost-lost로 변해요."
+  }
+ ]
+}

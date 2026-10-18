@@ -1,0 +1,379 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22990.24,
+  "end": 23059.93,
+  "clips": [
+   [
+    22990.24,
+    22994.01
+   ],
+   [
+    23011.52,
+    23015.21
+   ],
+   [
+    23033.92,
+    23037.77
+   ],
+   [
+    23056.48,
+    23059.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "If I had the chance, I'd definitely do it again.",
+   "chunks": [
+    {
+     "en": "If I had the chance,",
+     "ko": "기회가 있다면"
+    },
+    {
+     "en": "I'd definitely do it again.",
+     "ko": "꼭 다시 하고 싶어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "chance,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "definitely",
+     "strong": true,
+     "link": false,
+     "syl": "def"
+    },
+    {
+     "w": "do",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "again.",
+     "strong": true,
+     "link": false,
+     "syl": "gain"
+    }
+   ],
+   "tip": "'do it again'은 '두이러겐'처럼 이어 읽어요.",
+   "start": 22990.24,
+   "end": 22994.01
+  },
+  {
+   "text": "At the end of the day, family comes first for me.",
+   "chunks": [
+    {
+     "en": "At the end of the day,",
+     "ko": "결국에는"
+    },
+    {
+     "en": "family comes first for me.",
+     "ko": "저에겐 가족이 최우선이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "end",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "link": false,
+     "syl": "fam"
+    },
+    {
+     "w": "comes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'end of the day'는 '엔도브더데이'처럼 한 덩어리로 읽어요.",
+   "start": 23011.52,
+   "end": 23015.21
+  },
+  {
+   "text": "That's something I'd like to keep doing as I get older.",
+   "chunks": [
+    {
+     "en": "That's something I'd like to keep doing",
+     "ko": "계속 하고 싶은 일이에요"
+    },
+    {
+     "en": "as I get older.",
+     "ko": "나이 들어가면서"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "something",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "older.",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    }
+   ],
+   "tip": "'get older'는 '게롤더'처럼 t가 가볍게 이어져요.",
+   "start": 23033.92,
+   "end": 23037.77
+  },
+  {
+   "text": "Looking back, I'm really glad I gave it a try.",
+   "chunks": [
+    {
+     "en": "Looking back,",
+     "ko": "돌이켜보면"
+    },
+    {
+     "en": "I'm really glad",
+     "ko": "정말 기쁘고"
+    },
+    {
+     "en": "I gave it a try.",
+     "ko": "해봐서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Looking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "glad",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gave",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'gave it a try'는 '게이빗어트라이'처럼 이어 읽어요.",
+   "start": 23056.48,
+   "end": 23059.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "What would the speaker do if they had the chance?",
+   "options": [
+    "Do it again",
+    "Try something new",
+    "Skip it"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I'd definitely do it again"
+  },
+  {
+   "q": "What comes first for the speaker?",
+   "options": [
+    "Career",
+    "Travel",
+    "Family"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: family comes first for me"
+  },
+  {
+   "q": "What is the speaker glad about when looking back?",
+   "options": [
+    "They saved money",
+    "They gave it a try",
+    "They stayed home"
+   ],
+   "answer": 1,
+   "why": "4번째 문장: I'm really glad I gave it a try"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "if I had the chance",
+   "ko": "기회가 있다면",
+   "note": "가정해서 희망을 말해요."
+  },
+  {
+   "term": "at the end of the day",
+   "ko": "결국에는",
+   "note": "가장 중요한 점을 말할 때 써요."
+  },
+  {
+   "term": "comes first",
+   "ko": "최우선이다",
+   "note": "가치관을 말할 때 써요."
+  },
+  {
+   "term": "as I get older",
+   "ko": "나이 들면서",
+   "note": "미래 바람을 말할 때 써요."
+  },
+  {
+   "term": "give it a try",
+   "ko": "시도해 보다",
+   "note": "도전을 돌아볼 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3867.12,
+  "end": 3922.41,
+  "clips": [
+   [
+    3867.12,
+    3870.81
+   ],
+   [
+    3888.96,
+    3894.17
+   ],
+   [
+    3918.56,
+    3922.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I like going with her and trying the street food.",
+   "chunks": [
+    {
+     "en": "I like going with her",
+     "ko": "저는 엄마와 같이 가는 걸 좋아해요"
+    },
+    {
+     "en": "and trying",
+     "ko": "그리고 먹어보는 걸"
+    },
+    {
+     "en": "the street food.",
+     "ko": "길거리 음식을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": false,
+     "syl": "like"
+    },
+    {
+     "w": "going",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "her",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "street",
+     "strong": true,
+     "link": false,
+     "syl": "street"
+    },
+    {
+     "w": "food.",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    }
+   ],
+   "tip": "'with her'는 h가 약해져 '위덜'처럼 이어서 읽어요.",
+   "start": 3867.12,
+   "end": 3870.81
+  },
+  {
+   "text": "In winter they sell warm fish-shaped pastries filled with red bean paste.",
+   "chunks": [
+    {
+     "en": "In winter they sell",
+     "ko": "겨울에는 팔아요"
+    },
+    {
+     "en": "warm fish-shaped pastries",
+     "ko": "따뜻한 물고기 모양 빵을"
+    },
+    {
+     "en": "filled with red bean paste.",
+     "ko": "팥소가 든"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "winter",
+     "strong": true,
+     "link": false,
+     "syl": "win"
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sell",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "warm",
+     "strong": true,
+     "link": false,
+     "syl": "warm"
+    },
+    {
+     "w": "fish-shaped",
+     "strong": true,
+     "link": false,
+     "syl": "fish"
+    },
+    {
+     "w": "pastries",
+     "strong": true,
+     "link": false,
+     "syl": "pas"
+    },
+    {
+     "w": "filled",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "red",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bean",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "paste.",
+     "strong": true,
+     "link": false,
+     "syl": "paste"
+    }
+   ],
+   "tip": "'fish-shaped'는 fish에 강세를 두고 shaped는 '셰입트'로 가볍게 이어요.",
+   "start": 3888.96,
+   "end": 3894.17
+  },
+  {
+   "text": "There's a library near my place where I often study.",
+   "chunks": [
+    {
+     "en": "There's a library near my place",
+     "ko": "우리 집 근처에 도서관이 있어요"
+    },
+    {
+     "en": "where I often study.",
+     "ko": "제가 자주 공부하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "library",
+     "strong": true,
+     "link": false,
+     "syl": "li"
+    },
+    {
+     "w": "near",
+     "strong": true,
+     "link": false,
+     "syl": "near"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": false,
+     "syl": "place"
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "often",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "study.",
+     "strong": true,
+     "link": false,
+     "syl": "stu"
+    }
+   ],
+   "tip": "'library'는 '라이브러리'가 아니라 '라이브레리'처럼 첫 음절에 강세가 와요.",
+   "start": 3918.56,
+   "end": 3922.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker like doing at the market?",
+   "options": [
+    "Trying the street food",
+    "Buying shoes",
+    "Taking photos"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: trying the street food"
+  },
+  {
+   "q": "What are the winter pastries filled with?",
+   "options": [
+    "Red bean paste",
+    "Chocolate",
+    "Cream"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: filled with red bean paste"
+  },
+  {
+   "q": "What does the speaker often do at the library?",
+   "options": [
+    "Study",
+    "Meet friends",
+    "Work out"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: a library near my place where I often study"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "street food",
+   "ko": "길거리 음식",
+   "note": "노점이나 시장 간식을 말할 때 써요."
+  },
+  {
+   "term": "fish-shaped pastry",
+   "ko": "붕어빵 같은 물고기 모양 빵",
+   "note": "붕어빵을 설명할 때 이렇게 풀어서 말해요."
+  },
+  {
+   "term": "filled with",
+   "ko": "~로 채워진",
+   "note": "속재료를 말할 때 써요."
+  },
+  {
+   "term": "near my place",
+   "ko": "우리 집 근처에",
+   "note": "my place는 '내 집'을 편하게 가리켜요."
+  }
+ ]
+}

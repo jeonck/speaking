@@ -1,0 +1,318 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12169.28,
+  "end": 12221.85,
+  "clips": [
+   [
+    12169.28,
+    12173.53
+   ],
+   [
+    12193.68,
+    12197.85
+   ],
+   [
+    12217.84,
+    12221.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "In college, I lived on instant noodles and fast food.",
+   "chunks": [
+    {
+     "en": "In college,",
+     "ko": "대학 시절에는,"
+    },
+    {
+     "en": "I lived on instant noodles",
+     "ko": "나는 인스턴트 라면으로 살았어요"
+    },
+    {
+     "en": "and fast food.",
+     "ko": "그리고 패스트푸드로"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lived",
+     "strong": true,
+     "link": true,
+     "syl": "lived"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "instant",
+     "strong": true,
+     "link": false,
+     "syl": "in"
+    },
+    {
+     "w": "noodles",
+     "strong": true,
+     "link": false,
+     "syl": "noo"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "fast",
+     "strong": true,
+     "link": false,
+     "syl": "fast"
+    },
+    {
+     "w": "food.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "lived on은 '리브던'처럼 이어 읽어요.",
+   "start": 12169.28,
+   "end": 12173.53
+  },
+  {
+   "text": "These days I try to cook at home and eat more vegetables.",
+   "chunks": [
+    {
+     "en": "These days I try to cook at home",
+     "ko": "요즘 나는 집에서 요리하려고 해요"
+    },
+    {
+     "en": "and eat more vegetables.",
+     "ko": "그리고 채소를 더 먹으려고요."
+    }
+   ],
+   "words": [
+    {
+     "w": "These",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cook",
+     "strong": true,
+     "link": false,
+     "syl": "cook"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "eat",
+     "strong": true,
+     "link": false,
+     "syl": "eat"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vegetables.",
+     "strong": true,
+     "link": false,
+     "syl": "veg"
+    }
+   ],
+   "tip": "vegetables는 'veg-ta-blz' 세 음절로 읽어요.",
+   "start": 12193.68,
+   "end": 12197.85
+  },
+  {
+   "text": "I feel healthier and I have more energy during the day.",
+   "chunks": [
+    {
+     "en": "I feel healthier",
+     "ko": "나는 더 건강하다고 느껴요"
+    },
+    {
+     "en": "and I have more energy",
+     "ko": "그리고 에너지가 더 많아요"
+    },
+    {
+     "en": "during the day.",
+     "ko": "낮 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false,
+     "syl": "feel"
+    },
+    {
+     "w": "healthier",
+     "strong": true,
+     "link": false,
+     "syl": "health"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "energy",
+     "strong": true,
+     "link": false,
+     "syl": "en"
+    },
+    {
+     "w": "during",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day.",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    }
+   ],
+   "tip": "healthier는 첫 음절 'health'를 세게 읽어요.",
+   "start": 12217.84,
+   "end": 12221.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker eat in college?",
+   "options": [
+    "Salads and soup",
+    "Instant noodles and fast food",
+    "Rice and fish"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I lived on instant noodles and fast food"
+  },
+  {
+   "q": "What does the speaker try to do these days?",
+   "options": [
+    "Cook at home and eat vegetables",
+    "Skip breakfast",
+    "Eat out every day"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: try to cook at home and eat more vegetables"
+  },
+  {
+   "q": "When does the speaker have more energy?",
+   "options": [
+    "At night",
+    "On weekends",
+    "During the day"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: more energy during the day"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "lived on",
+   "ko": "~로 연명하다",
+   "note": "주식처럼 자주 먹은 음식을 말해요."
+  },
+  {
+   "term": "instant noodles",
+   "ko": "인스턴트 라면",
+   "note": "instant는 즉석의 뜻이에요."
+  },
+  {
+   "term": "these days",
+   "ko": "요즘",
+   "note": "nowadays와 비슷해요."
+  },
+  {
+   "term": "have more energy",
+   "ko": "에너지가 더 많다",
+   "note": "체력이 좋아졌을 때 써요."
+  }
+ ]
+}

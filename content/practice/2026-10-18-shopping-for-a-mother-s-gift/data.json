@@ -1,0 +1,289 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14326.4,
+  "end": 14371.21,
+  "clips": [
+   [
+    14326.4,
+    14330.01
+   ],
+   [
+    14347.68,
+    14351.37
+   ],
+   [
+    14368.32,
+    14371.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Excuse me, I'm looking for a gift for my mother.",
+   "chunks": [
+    {
+     "en": "Excuse me,",
+     "ko": "실례합니다,"
+    },
+    {
+     "en": "I'm looking for a gift",
+     "ko": "선물을 찾고 있어요"
+    },
+    {
+     "en": "for my mother.",
+     "ko": "어머니께 드릴"
+    }
+   ],
+   "words": [
+    {
+     "w": "Excuse",
+     "strong": true,
+     "link": false,
+     "syl": "cuse"
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "looking",
+     "strong": true,
+     "link": false,
+     "syl": "look"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gift",
+     "strong": true,
+     "link": false,
+     "syl": "gift"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mother.",
+     "strong": true,
+     "link": false,
+     "syl": "moth"
+    }
+   ],
+   "tip": "looking for a는 '루킹포러'처럼 for와 a를 이어 읽어요.",
+   "start": 14326.4,
+   "end": 14330.01
+  },
+  {
+   "text": "What would you recommend for someone in her 60s?",
+   "chunks": [
+    {
+     "en": "What would you recommend",
+     "ko": "무엇을 추천하시겠어요"
+    },
+    {
+     "en": "for someone",
+     "ko": "누군가에게"
+    },
+    {
+     "en": "in her 60s?",
+     "ko": "60대인"
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recommend",
+     "strong": true,
+     "link": false,
+     "syl": "mend"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "someone",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "her",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "60s?",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "would you는 '우쥬'처럼 이어 읽어요.",
+   "start": 14347.68,
+   "end": 14351.37
+  },
+  {
+   "text": "What colors does this scarf come in?",
+   "chunks": [
+    {
+     "en": "What colors",
+     "ko": "무슨 색상으로"
+    },
+    {
+     "en": "does this scarf",
+     "ko": "이 스카프가"
+    },
+    {
+     "en": "come in?",
+     "ko": "나오나요"
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "colors",
+     "strong": true,
+     "link": false,
+     "syl": "col"
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scarf",
+     "strong": true,
+     "link": false,
+     "syl": "scarf"
+    },
+    {
+     "w": "come",
+     "strong": true,
+     "link": true,
+     "syl": "come"
+    },
+    {
+     "w": "in?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "come in은 '커민'처럼 이어 읽어요.",
+   "start": 14368.32,
+   "end": 14371.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who is the gift for?",
+   "options": [
+    "A sister",
+    "A coworker",
+    "The speaker's mother"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: a gift for my mother"
+  },
+  {
+   "q": "About how old is the person receiving the gift?",
+   "options": [
+    "In her 40s",
+    "In her 60s",
+    "In her 20s"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: someone in her 60s"
+  },
+  {
+   "q": "What does the speaker ask about the scarf?",
+   "options": [
+    "What colors it comes in",
+    "How much it costs",
+    "What size it is"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: What colors does this scarf come in"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "look for a gift",
+   "ko": "선물을 찾다",
+   "note": "look for는 '찾다'예요."
+  },
+  {
+   "term": "recommend",
+   "ko": "추천하다",
+   "note": "recommend A for B 형태로 써요."
+  },
+  {
+   "term": "in her 60s",
+   "ko": "60대인",
+   "note": "숫자 뒤에 s를 붙여 연령대를 말해요."
+  },
+  {
+   "term": "come in (colors)",
+   "ko": "(색상으로) 나오다",
+   "note": "상품이 어떤 색, 사이즈로 나오는지 물을 때 써요."
+  },
+  {
+   "term": "scarf",
+   "ko": "스카프, 목도리",
+   "note": "복수는 scarves예요."
+  }
+ ]
+}

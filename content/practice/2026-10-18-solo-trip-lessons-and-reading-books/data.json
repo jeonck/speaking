@@ -1,0 +1,327 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20218.32,
+  "end": 20272.97,
+  "clips": [
+   [
+    20218.32,
+    20222.81
+   ],
+   [
+    20243.76,
+    20248.09
+   ],
+   [
+    20269.12,
+    20272.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My first solo trip taught me how to stay calm under pressure.",
+   "chunks": [
+    {
+     "en": "My first solo trip",
+     "ko": "나의 첫 혼자 여행은"
+    },
+    {
+     "en": "taught me",
+     "ko": "나에게 가르쳐 주었다"
+    },
+    {
+     "en": "how to stay calm under pressure.",
+     "ko": "압박감 속에서 침착함을 유지하는 법을"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "solo",
+     "strong": true,
+     "link": false,
+     "syl": "so"
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "taught",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "calm",
+     "strong": true,
+     "link": false,
+     "syl": "calm"
+    },
+    {
+     "w": "under",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pressure.",
+     "strong": true,
+     "link": false,
+     "syl": "pres"
+    }
+   ],
+   "tip": "under pressure는 under에 약하게, pressure의 'pres'에 강세를 둬요.",
+   "start": 20218.32,
+   "end": 20222.81
+  },
+  {
+   "text": "I think reading books is better than watching videos for learning.",
+   "chunks": [
+    {
+     "en": "I think reading books",
+     "ko": "나는 책 읽는 것이"
+    },
+    {
+     "en": "is better than watching videos",
+     "ko": "영상 보는 것보다 낫다고 생각한다"
+    },
+    {
+     "en": "for learning.",
+     "ko": "배우는 데에는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reading",
+     "strong": true,
+     "link": true,
+     "syl": "read"
+    },
+    {
+     "w": "books",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": true,
+     "link": false,
+     "syl": "bet"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "watching",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "videos",
+     "strong": true,
+     "link": false,
+     "syl": "vid"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learning.",
+     "strong": true,
+     "link": false,
+     "syl": "learn"
+    }
+   ],
+   "tip": "better than은 '베러댄'처럼 약하게 이어 읽고, 비교하는 두 말(reading, watching)을 강조해요.",
+   "start": 20243.76,
+   "end": 20248.09
+  },
+  {
+   "text": "Books encourage me to slow down and think more deeply.",
+   "chunks": [
+    {
+     "en": "Books encourage me",
+     "ko": "책은 나를 격려한다"
+    },
+    {
+     "en": "to slow down",
+     "ko": "속도를 늦추도록"
+    },
+    {
+     "en": "and think more deeply.",
+     "ko": "그리고 더 깊이 생각하도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "Books",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "encourage",
+     "strong": true,
+     "link": true,
+     "syl": "cour"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "slow",
+     "strong": true,
+     "link": false,
+     "syl": "slow"
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": false,
+     "syl": "think"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deeply.",
+     "strong": true,
+     "link": false,
+     "syl": "deep"
+    }
+   ],
+   "tip": "encourage me는 '인커리지미'처럼 이어 읽어요. slow down은 둘 다 또렷하게 강조해요.",
+   "start": 20269.12,
+   "end": 20272.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker's first solo trip teach?",
+   "options": [
+    "How to save money",
+    "How to stay calm under pressure",
+    "How to read maps"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: taught me how to stay calm under pressure"
+  },
+  {
+   "q": "What does the speaker think is better for learning?",
+   "options": [
+    "Watching videos",
+    "Listening to music",
+    "Reading books"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: reading books is better than watching videos"
+  },
+  {
+   "q": "What do books encourage the speaker to do?",
+   "options": [
+    "Slow down and think more deeply",
+    "Read faster",
+    "Take more notes"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: slow down and think more deeply"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "solo trip",
+   "ko": "혼자 가는 여행",
+   "note": "solo는 '혼자 하는'이라는 뜻이에요."
+  },
+  {
+   "term": "under pressure",
+   "ko": "압박감 속에서",
+   "note": "stay calm under pressure로 자주 써요."
+  },
+  {
+   "term": "better than",
+   "ko": "~보다 더 좋은",
+   "note": "than 뒤에 비교 대상을 말해요."
+  },
+  {
+   "term": "encourage me to",
+   "ko": "내가 ~하도록 북돋우다",
+   "note": "뒤에 to + 동사원형이 와요."
+  },
+  {
+   "term": "slow down",
+   "ko": "속도를 늦추다",
+   "note": "생각을 차분히 할 때도 써요."
+  }
+ ]
+}

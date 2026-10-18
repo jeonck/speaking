@@ -1,0 +1,314 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19448.16,
+  "end": 19507.21,
+  "clips": [
+   [
+    19448.16,
+    19452.57
+   ],
+   [
+    19474.48,
+    19478.97
+   ],
+   [
+    19502.08,
+    19507.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Still, I think big companies should take more responsibility.",
+   "chunks": [
+    {
+     "en": "Still, I think",
+     "ko": "그래도 제 생각에는"
+    },
+    {
+     "en": "big companies",
+     "ko": "큰 기업들이"
+    },
+    {
+     "en": "should take more responsibility.",
+     "ko": "더 많은 책임을 져야 해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Still,",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "companies",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "responsibility.",
+     "strong": true,
+     "link": false,
+     "syl": "bil"
+    }
+   ],
+   "tip": "responsibility는 bil에 강세, '리스판서빌러티'처럼 읽어요.",
+   "start": 19448.16,
+   "end": 19452.57
+  },
+  {
+   "text": "I think government should support businesses that use less plastic.",
+   "chunks": [
+    {
+     "en": "I think government",
+     "ko": "제 생각에 정부는"
+    },
+    {
+     "en": "should support businesses",
+     "ko": "기업들을 지원해야 해요"
+    },
+    {
+     "en": "that use less plastic.",
+     "ko": "플라스틱을 덜 쓰는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "government",
+     "strong": true,
+     "link": false,
+     "syl": "gov"
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "support",
+     "strong": true,
+     "link": false,
+     "syl": "port"
+    },
+    {
+     "w": "businesses",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "less",
+     "strong": true,
+     "link": false,
+     "syl": "less"
+    },
+    {
+     "w": "plastic.",
+     "strong": true,
+     "link": false,
+     "syl": "plas"
+    }
+   ],
+   "tip": "businesses는 첫 음절 bus에 강세, 가운데 i는 거의 안 읽어요.",
+   "start": 19474.48,
+   "end": 19478.97
+  },
+  {
+   "text": "I think better public transportation could help reduce traffic in cities.",
+   "chunks": [
+    {
+     "en": "I think better public transportation",
+     "ko": "제 생각에 더 나은 대중교통이"
+    },
+    {
+     "en": "could help reduce traffic",
+     "ko": "교통량을 줄이는 데 도움이 될 수 있어요"
+    },
+    {
+     "en": "in cities.",
+     "ko": "도시에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": true,
+     "link": false,
+     "syl": "bet"
+    },
+    {
+     "w": "public",
+     "strong": true,
+     "link": false,
+     "syl": "pub"
+    },
+    {
+     "w": "transportation",
+     "strong": true,
+     "link": false,
+     "syl": "ta"
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reduce",
+     "strong": true,
+     "link": false,
+     "syl": "duce"
+    },
+    {
+     "w": "traffic",
+     "strong": true,
+     "link": true,
+     "syl": "traf"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cities.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "traffic in cities는 '트래픽인'처럼 이어서 읽어요.",
+   "start": 19502.08,
+   "end": 19507.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who does the speaker say should take more responsibility?",
+   "options": [
+    "Schools",
+    "Big companies",
+    "Tourists"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: big companies should take more responsibility"
+  },
+  {
+   "q": "Which businesses should the government support?",
+   "options": [
+    "Ones that use less plastic",
+    "Ones that open late",
+    "Ones that hire more people"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: businesses that use less plastic"
+  },
+  {
+   "q": "What could better public transportation help reduce?",
+   "options": [
+    "Pollution from factories",
+    "Housing prices",
+    "Traffic in cities"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: could help reduce traffic in cities"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "take responsibility",
+   "ko": "책임을 지다",
+   "note": "take는 '(책임을) 지다'예요."
+  },
+  {
+   "term": "support businesses",
+   "ko": "기업을 지원하다",
+   "note": "정부나 단체가 돕는 상황에 써요."
+  },
+  {
+   "term": "use less plastic",
+   "ko": "플라스틱을 덜 쓰다",
+   "note": "less는 셀 수 없는 명사와 써요."
+  },
+  {
+   "term": "public transportation",
+   "ko": "대중교통",
+   "note": "미국식 표현이고 영국식은 public transport예요."
+  },
+  {
+   "term": "reduce traffic",
+   "ko": "교통량을 줄이다",
+   "note": "reduce는 '줄이다'예요."
+  }
+ ]
+}

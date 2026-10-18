@@ -1,0 +1,332 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8002.4,
+  "end": 8054.89,
+  "clips": [
+   [
+    8002.4,
+    8006.49
+   ],
+   [
+    8026.16,
+    8030.33
+   ],
+   [
+    8050.72,
+    8054.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Last year I went on a business trip abroad for a week.",
+   "chunks": [
+    {
+     "en": "Last year I went on a business trip abroad",
+     "ko": "작년에 나는 해외 출장을 갔다"
+    },
+    {
+     "en": "for a week.",
+     "ko": "일주일 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "Last",
+     "strong": true,
+     "link": false,
+     "syl": "last"
+    },
+    {
+     "w": "year",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "abroad",
+     "strong": true,
+     "link": false,
+     "syl": "broad"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week.",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    }
+   ],
+   "tip": "went on a는 '웬던어'처럼 이어 읽어요.",
+   "start": 8002.4,
+   "end": 8006.49
+  },
+  {
+   "text": "I had meetings all day, so I barely saw the city.",
+   "chunks": [
+    {
+     "en": "I had meetings all day,",
+     "ko": "나는 하루 종일 회의가 있었다"
+    },
+    {
+     "en": "so I barely saw the city.",
+     "ko": "그래서 도시를 거의 보지 못했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meetings",
+     "strong": true,
+     "link": false,
+     "syl": "meet"
+    },
+    {
+     "w": "all",
+     "strong": true,
+     "link": false,
+     "syl": "all"
+    },
+    {
+     "w": "day,",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "barely",
+     "strong": true,
+     "link": false,
+     "syl": "bare"
+    },
+    {
+     "w": "saw",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city.",
+     "strong": true,
+     "link": false,
+     "syl": "ci"
+    }
+   ],
+   "tip": "barely는 '베얼리'처럼 앞 음절에 힘을 줘요.",
+   "start": 8026.16,
+   "end": 8030.33
+  },
+  {
+   "text": "On the last day, I finally had a few hours to explore.",
+   "chunks": [
+    {
+     "en": "On the last day,",
+     "ko": "마지막 날에는"
+    },
+    {
+     "en": "I finally had a few hours",
+     "ko": "나는 마침내 몇 시간의 여유가 생겼다"
+    },
+    {
+     "en": "to explore.",
+     "ko": "둘러볼"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": true,
+     "link": false,
+     "syl": "last"
+    },
+    {
+     "w": "day,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finally",
+     "strong": true,
+     "link": false,
+     "syl": "fi"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": true,
+     "link": false,
+     "syl": "few"
+    },
+    {
+     "w": "hours",
+     "strong": true,
+     "link": false,
+     "syl": "hours"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "explore.",
+     "strong": true,
+     "link": false,
+     "syl": "plore"
+    }
+   ],
+   "tip": "had a few는 '해더 퓨'처럼 이어 읽어요.",
+   "start": 8050.72,
+   "end": 8054.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long was the business trip?",
+   "options": [
+    "Three days",
+    "A week",
+    "A month"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a business trip abroad for a week"
+  },
+  {
+   "q": "Why did the speaker barely see the city?",
+   "options": [
+    "The weather was bad",
+    "The speaker was ill",
+    "The speaker had meetings all day"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I had meetings all day, so I barely saw the city"
+  },
+  {
+   "q": "When did the speaker finally have time to explore?",
+   "options": [
+    "On the last day",
+    "On the first day",
+    "On the weekend"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: On the last day, I finally had a few hours to explore"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "business trip",
+   "ko": "출장",
+   "note": "trip 앞에 business를 붙여요."
+  },
+  {
+   "term": "all day",
+   "ko": "하루 종일",
+   "note": "all day는 전치사 없이 써요."
+  },
+  {
+   "term": "barely",
+   "ko": "거의 ~않다",
+   "note": "부정적인 뜻을 가진 부사예요."
+  },
+  {
+   "term": "finally",
+   "ko": "마침내",
+   "note": "오래 기다린 끝을 말해요."
+  },
+  {
+   "term": "a few hours",
+   "ko": "몇 시간",
+   "note": "a few는 '조금 있는'이에요."
+  }
+ ]
+}

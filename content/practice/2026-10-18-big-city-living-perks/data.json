@@ -1,0 +1,330 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19531.44,
+  "end": 19584.65,
+  "clips": [
+   [
+    19531.44,
+    19535.77
+   ],
+   [
+    19556.72,
+    19560.57
+   ],
+   [
+    19580.24,
+    19584.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "If buses ran more often, fewer people would drive to work.",
+   "chunks": [
+    {
+     "en": "If buses ran more often,",
+     "ko": "버스가 더 자주 다닌다면"
+    },
+    {
+     "en": "fewer people would drive",
+     "ko": "더 적은 사람들이 운전할 거예요"
+    },
+    {
+     "en": "to work.",
+     "ko": "출근하려고"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buses",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "ran",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "often,",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "fewer",
+     "strong": true,
+     "link": false,
+     "syl": "few"
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drive",
+     "strong": true,
+     "link": false,
+     "syl": "drive"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work.",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    }
+   ],
+   "tip": "would drive는 would의 l을 거의 안 내고 '우드 드라이브'처럼 읽어요.",
+   "start": 19531.44,
+   "end": 19535.77
+  },
+  {
+   "text": "I'd prefer to live in a big city, at least for now.",
+   "chunks": [
+    {
+     "en": "I'd prefer",
+     "ko": "저는 더 좋아해요"
+    },
+    {
+     "en": "to live in a big city,",
+     "ko": "큰 도시에 사는 걸"
+    },
+    {
+     "en": "at least for now.",
+     "ko": "적어도 지금은"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prefer",
+     "strong": true,
+     "link": false,
+     "syl": "fer"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": true,
+     "syl": "live"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "city,",
+     "strong": true,
+     "link": false,
+     "syl": "ci"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "least",
+     "strong": true,
+     "link": false,
+     "syl": "least"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "live in a는 '리빈어'처럼 이어 읽어요.",
+   "start": 19556.72,
+   "end": 19560.57
+  },
+  {
+   "text": "Everything is close by. From hospitals to restaurants open late.",
+   "chunks": [
+    {
+     "en": "Everything is close by.",
+     "ko": "모든 게 가까워요."
+    },
+    {
+     "en": "From hospitals",
+     "ko": "병원부터"
+    },
+    {
+     "en": "to restaurants open late.",
+     "ko": "늦게까지 여는 식당까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "Everything",
+     "strong": true,
+     "link": true,
+     "syl": "thing"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": true,
+     "link": false,
+     "syl": "close"
+    },
+    {
+     "w": "by.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "From",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hospitals",
+     "strong": true,
+     "link": false,
+     "syl": "hos"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "restaurants",
+     "strong": true,
+     "link": true,
+     "syl": "rant"
+    },
+    {
+     "w": "open",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "late.",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    }
+   ],
+   "tip": "Everything is는 '에브리씽이즈'로 이어 읽어요.",
+   "start": 19580.24,
+   "end": 19584.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "What would happen if buses ran more often?",
+   "options": [
+    "Fewer people would drive to work",
+    "Tickets would cost less",
+    "Buses would be less crowded"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: fewer people would drive to work"
+  },
+  {
+   "q": "Where would the speaker prefer to live for now?",
+   "options": [
+    "A small village",
+    "A quiet beach town",
+    "A big city"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I'd prefer to live in a big city"
+  },
+  {
+   "q": "What does the speaker say is close by in a city?",
+   "options": [
+    "Hospitals and late-night restaurants",
+    "Mountains and lakes",
+    "Schools and parks"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: From hospitals to restaurants open late"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "ran more often",
+   "ko": "더 자주 다니다",
+   "note": "often의 t는 발음하지 않기도 해요."
+  },
+  {
+   "term": "at least for now",
+   "ko": "적어도 지금은",
+   "note": "영구적이지 않다는 뉘앙스예요."
+  },
+  {
+   "term": "close by",
+   "ko": "가까이에",
+   "note": "nearby와 비슷한 표현이에요."
+  },
+  {
+   "term": "From hospitals to restaurants",
+   "ko": "병원부터 식당까지",
+   "note": "from A to B로 범위를 말해요."
+  },
+  {
+   "term": "open late",
+   "ko": "늦게까지 열다",
+   "note": "가게가 늦게까지 영업할 때 써요."
+  }
+ ]
+}

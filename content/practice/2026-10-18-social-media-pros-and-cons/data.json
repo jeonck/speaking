@@ -1,0 +1,338 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18591.52,
+  "end": 18649.85,
+  "clips": [
+   [
+    18591.52,
+    18595.53
+   ],
+   [
+    18616.16,
+    18620.65
+   ],
+   [
+    18645.28,
+    18649.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "On the one hand, it helps us stay in touch with friends.",
+   "chunks": [
+    {
+     "en": "On the one hand,",
+     "ko": "한편으로는"
+    },
+    {
+     "en": "it helps us",
+     "ko": "그것은 우리가 ~하도록 도와요"
+    },
+    {
+     "en": "stay in touch with friends.",
+     "ko": "친구들과 연락하고 지내도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hand,",
+     "strong": true,
+     "syl": "hand",
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helps",
+     "strong": true,
+     "syl": "help",
+     "link": true
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "touch",
+     "strong": true,
+     "syl": "touch",
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends.",
+     "strong": true,
+     "syl": "friend",
+     "link": false
+    }
+   ],
+   "tip": "stay in touch는 '스테이인터치'로 이어서 touch를 강하게 읽어요.",
+   "start": 18591.52,
+   "end": 18595.53
+  },
+  {
+   "text": "On the other hand, it can make people compare themselves to others.",
+   "chunks": [
+    {
+     "en": "On the other hand,",
+     "ko": "다른 한편으로는"
+    },
+    {
+     "en": "it can make people compare themselves",
+     "ko": "사람들이 스스로를 비교하게 만들 수 있어요"
+    },
+    {
+     "en": "to others.",
+     "ko": "다른 사람들과"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hand,",
+     "strong": true,
+     "syl": "hand",
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": true,
+     "syl": "make",
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compare",
+     "strong": true,
+     "syl": "pare",
+     "link": false
+    },
+    {
+     "w": "themselves",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "others.",
+     "strong": true,
+     "syl": "oth",
+     "link": false
+    }
+   ],
+   "tip": "compare는 'pare'에 강세를 두고 '컴페어'로 읽어요.",
+   "start": 18616.16,
+   "end": 18620.65
+  },
+  {
+   "text": "A friend of mine often feels down after scrolling for hours.",
+   "chunks": [
+    {
+     "en": "A friend of mine",
+     "ko": "제 친구 한 명은"
+    },
+    {
+     "en": "often feels down",
+     "ko": "자주 우울해해요"
+    },
+    {
+     "en": "after scrolling for hours.",
+     "ko": "몇 시간 스크롤한 뒤에"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend",
+     "strong": true,
+     "syl": "friend",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mine",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "often",
+     "strong": true,
+     "syl": "of",
+     "link": false
+    },
+    {
+     "w": "feels",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "down",
+     "strong": true,
+     "syl": "down",
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scrolling",
+     "strong": true,
+     "syl": "scroll",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hours.",
+     "strong": true,
+     "syl": "hou",
+     "link": false
+    }
+   ],
+   "tip": "friend of는 '프렌드오브'를 이어 '프렌더브'처럼 읽어요.",
+   "start": 18645.28,
+   "end": 18649.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is one good thing about social media?",
+   "options": [
+    "It helps people save money",
+    "It helps us stay in touch with friends",
+    "It helps people sleep better"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: it helps us stay in touch with friends"
+  },
+  {
+   "q": "What can social media make people do?",
+   "options": [
+    "Compare themselves to others",
+    "Spend less time online",
+    "Meet more neighbors"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: make people compare themselves to others"
+  },
+  {
+   "q": "How does the speaker's friend often feel after scrolling for hours?",
+   "options": [
+    "Excited",
+    "Sleepy",
+    "Down"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: often feels down after scrolling for hours"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "On the one hand",
+   "ko": "한편으로는",
+   "note": "On the other hand와 짝으로 써요."
+  },
+  {
+   "term": "stay in touch",
+   "ko": "연락하고 지내다",
+   "note": "멀리 있는 사람과 관계를 유지할 때 써요."
+  },
+  {
+   "term": "compare oneself to",
+   "ko": "~와 자신을 비교하다",
+   "note": "compare themselves to others처럼 써요."
+  },
+  {
+   "term": "feel down",
+   "ko": "우울하다",
+   "note": "기분이 가라앉았을 때 써요."
+  },
+  {
+   "term": "scrolling",
+   "ko": "화면을 스크롤하는 것",
+   "note": "scroll through feeds처럼도 써요."
+  }
+ ]
+}

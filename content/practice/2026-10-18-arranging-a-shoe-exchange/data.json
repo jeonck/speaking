@@ -1,0 +1,302 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16492.0,
+  "end": 16546.89,
+  "clips": [
+   [
+    16492.0,
+    16496.65
+   ],
+   [
+    16518.24,
+    16522.41
+   ],
+   [
+    16542.72,
+    16546.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I contacted customer service and asked about an exchange.",
+   "chunks": [
+    {
+     "en": "I contacted customer service",
+     "ko": "나는 고객센터에 연락했다"
+    },
+    {
+     "en": "and asked about an exchange.",
+     "ko": "그리고 교환에 대해 물었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "contacted",
+     "strong": true,
+     "link": false,
+     "syl": "tact"
+    },
+    {
+     "w": "customer",
+     "strong": true,
+     "link": false,
+     "syl": "cus"
+    },
+    {
+     "w": "service",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "asked",
+     "strong": true,
+     "link": true,
+     "syl": "asked"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exchange.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "asked about an은 '애스크터바우턴'처럼 이어 읽어요.",
+   "start": 16492.0,
+   "end": 16496.65
+  },
+  {
+   "text": "The person who helped me explain the return process clearly.",
+   "chunks": [
+    {
+     "en": "The person who helped me",
+     "ko": "나를 도와준 사람이"
+    },
+    {
+     "en": "explain the return process clearly.",
+     "ko": "반품 절차를 분명하게 설명했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "person",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    },
+    {
+     "w": "who",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helped",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "explain",
+     "strong": true,
+     "link": false,
+     "syl": "plain"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "return",
+     "strong": true,
+     "link": false,
+     "syl": "turn"
+    },
+    {
+     "w": "process",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "clearly.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "return은 둘째 음절 turn에 강세를 둬요. '뤼턴'처럼 읽어요.",
+   "start": 16518.24,
+   "end": 16522.41
+  },
+  {
+   "text": "I packed the shoes back into the box and arranged a pickup.",
+   "chunks": [
+    {
+     "en": "I packed the shoes back",
+     "ko": "신발을 다시 포장했다"
+    },
+    {
+     "en": "into the box",
+     "ko": "상자 안에"
+    },
+    {
+     "en": "and arranged a pickup.",
+     "ko": "그리고 수거를 예약했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "packed",
+     "strong": true,
+     "link": false,
+     "syl": "packed"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shoes",
+     "strong": true,
+     "link": false,
+     "syl": "shoes"
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "box",
+     "strong": true,
+     "link": false,
+     "syl": "box"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "arranged",
+     "strong": true,
+     "link": true,
+     "syl": "ranged"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pickup.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "back into는 '백인투', arranged a는 '어레인졌더'처럼 이어 읽어요.",
+   "start": 16542.72,
+   "end": 16546.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker ask customer service about?",
+   "options": [
+    "A refund",
+    "An exchange",
+    "A delivery date"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: asked about an exchange"
+  },
+  {
+   "q": "What did the speaker do with the shoes?",
+   "options": [
+    "Gave them to a friend",
+    "Took them to a store",
+    "Packed them in the box"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: packed the shoes back into the box"
+  },
+  {
+   "q": "How did the speaker plan to send the shoes back?",
+   "options": [
+    "A scheduled pickup",
+    "Dropping them at a post office",
+    "Ordering a courier online"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: arranged a pickup"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "customer service",
+   "ko": "고객 서비스, 고객센터",
+   "note": "contact customer service처럼 contact 뒤에 전치사가 필요 없어요."
+  },
+  {
+   "term": "exchange",
+   "ko": "교환(하다)",
+   "note": "exchange A for B는 'A를 B로 교환하다'예요."
+  },
+  {
+   "term": "return process",
+   "ko": "반품 절차",
+   "note": "return은 명사로 '반품'도 돼요."
+  },
+  {
+   "term": "pickup",
+   "ko": "수거, 픽업",
+   "note": "arrange a pickup은 '수거를 잡다'예요."
+  }
+ ]
+}

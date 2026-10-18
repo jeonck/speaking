@@ -1,0 +1,307 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5454.88,
+  "end": 5504.73,
+  "clips": [
+   [
+    5454.88,
+    5458.25
+   ],
+   [
+    5475.6,
+    5480.01
+   ],
+   [
+    5501.2,
+    5504.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I play a simple puzzle game on the subway.",
+   "chunks": [
+    {
+     "en": "I play a simple puzzle game",
+     "ko": "나는 간단한 퍼즐 게임을 한다"
+    },
+    {
+     "en": "on the subway.",
+     "ko": "지하철에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "simple",
+     "strong": true,
+     "syl": "sim",
+     "link": false
+    },
+    {
+     "w": "puzzle",
+     "strong": true,
+     "syl": "puz",
+     "link": false
+    },
+    {
+     "w": "game",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "subway.",
+     "strong": true,
+     "syl": "sub",
+     "link": false
+    }
+   ],
+   "tip": "'puzzle'은 'puz'에 강세를 줘요.",
+   "start": 5454.88,
+   "end": 5458.25
+  },
+  {
+   "text": "On Friday nights, my friends and I play online games together.",
+   "chunks": [
+    {
+     "en": "On Friday nights,",
+     "ko": "금요일 밤에는"
+    },
+    {
+     "en": "my friends and I",
+     "ko": "내 친구들과 나는"
+    },
+    {
+     "en": "play online games together.",
+     "ko": "온라인 게임을 함께 한다"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Friday",
+     "strong": true,
+     "syl": "Fri",
+     "link": false
+    },
+    {
+     "w": "nights,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "online",
+     "strong": true,
+     "syl": "on",
+     "link": false
+    },
+    {
+     "w": "games",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together.",
+     "strong": true,
+     "syl": "geth",
+     "link": false
+    }
+   ],
+   "tip": "'friends and I'는 '프렌젠다이'처럼 이어져요.",
+   "start": 5475.6,
+   "end": 5480.01
+  },
+  {
+   "text": "It's a fun way to stay in touch with old friends.",
+   "chunks": [
+    {
+     "en": "It's a fun way",
+     "ko": "재미있는 방법이다"
+    },
+    {
+     "en": "to stay in touch",
+     "ko": "연락을 유지하는"
+    },
+    {
+     "en": "with old friends.",
+     "ko": "옛 친구들과"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fun",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "touch",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "old",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "friends.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'with old'는 '위돌드'처럼 이어 읽어요.",
+   "start": 5501.2,
+   "end": 5504.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where does the speaker play a simple puzzle game?",
+   "options": [
+    "At a cafe",
+    "On the subway",
+    "At the office"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: on the subway"
+  },
+  {
+   "q": "When does the speaker play online games with friends?",
+   "options": [
+    "On Sunday mornings",
+    "Every lunchtime",
+    "On Friday nights"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: On Friday nights"
+  },
+  {
+   "q": "Why is playing online games fun for the speaker?",
+   "options": [
+    "It helps stay in touch with old friends",
+    "It earns money",
+    "It makes the speaker stronger"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: to stay in touch with old friends"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "puzzle game",
+   "ko": "퍼즐 게임",
+   "note": "simple puzzle game처럼 형용사를 붙여요."
+  },
+  {
+   "term": "on the subway",
+   "ko": "지하철에서",
+   "note": "교통수단은 on을 써요."
+  },
+  {
+   "term": "online games",
+   "ko": "온라인 게임",
+   "note": "play online games로 말해요."
+  },
+  {
+   "term": "stay in touch",
+   "ko": "연락하며 지내다",
+   "note": "with + 사람으로 이어 써요."
+  },
+  {
+   "term": "old friends",
+   "ko": "오랜 친구들",
+   "note": "old는 나이가 아니라 오래된 관계를 뜻해요."
+  }
+ ]
+}

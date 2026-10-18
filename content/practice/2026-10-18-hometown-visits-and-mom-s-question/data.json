@@ -1,0 +1,329 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1662.8,
+  "end": 1714.41,
+  "clips": [
+   [
+    1662.8,
+    1666.33
+   ],
+   [
+    1685.04,
+    1689.21
+   ],
+   [
+    1710.56,
+    1714.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I go back to my hometown a few times a year.",
+   "chunks": [
+    {
+     "en": "I go back",
+     "ko": "나는 돌아간다"
+    },
+    {
+     "en": "to my hometown",
+     "ko": "고향으로"
+    },
+    {
+     "en": "a few times a year.",
+     "ko": "1년에 몇 번"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hometown",
+     "strong": true,
+     "syl": "home",
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "times",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "hometown a는 '홈타우너'처럼 이어서 읽어요.",
+   "start": 1662.8,
+   "end": 1666.33
+  },
+  {
+   "text": "My family is really close, so we make time to talk every day.",
+   "chunks": [
+    {
+     "en": "My family is really close,",
+     "ko": "우리 가족은 정말 가깝다"
+    },
+    {
+     "en": "so we make time",
+     "ko": "그래서 우리는 시간을 낸다"
+    },
+    {
+     "en": "to talk every day.",
+     "ko": "매일 대화하려고"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "syl": "fam",
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close,",
+     "strong": true,
+     "syl": "close",
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talk",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "family is는 '패멀리이즈'처럼 이어져요.",
+   "start": 1685.04,
+   "end": 1689.21
+  },
+  {
+   "text": "My mom always asks if I've eaten when I get home.",
+   "chunks": [
+    {
+     "en": "My mom always asks",
+     "ko": "엄마는 항상 물으신다"
+    },
+    {
+     "en": "if I've eaten",
+     "ko": "내가 밥을 먹었는지"
+    },
+    {
+     "en": "when I get home.",
+     "ko": "내가 집에 도착하면"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mom",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "asks",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eaten",
+     "strong": true,
+     "syl": "eat",
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "always asks if는 '올웨이잭싯'처럼 이어서 읽어요.",
+   "start": 1710.56,
+   "end": 1714.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "How often does the speaker go back to the hometown?",
+   "options": [
+    "Every weekend",
+    "A few times a year",
+    "Once every five years"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a few times a year"
+  },
+  {
+   "q": "How often does the family talk?",
+   "options": [
+    "Once a month",
+    "Once a week",
+    "Every day"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: make time to talk every day"
+  },
+  {
+   "q": "What does the speaker's mom always ask?",
+   "options": [
+    "If the speaker has eaten",
+    "If the speaker is tired",
+    "If the speaker has money"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: always asks if I've eaten"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "hometown",
+   "ko": "고향",
+   "note": "살던 도시를 가리킬 때 써요."
+  },
+  {
+   "term": "a few times a year",
+   "ko": "1년에 몇 번",
+   "note": "빈도를 말할 때 쓰는 표현이에요."
+  },
+  {
+   "term": "make time to",
+   "ko": "~할 시간을 내다",
+   "note": "바빠도 일부러 시간을 낸다는 뜻이에요."
+  },
+  {
+   "term": "close family",
+   "ko": "가까운 가족",
+   "note": "'We're close'로도 말해요."
+  },
+  {
+   "term": "if I've eaten",
+   "ko": "내가 밥을 먹었는지",
+   "note": "if는 '~인지'라는 뜻이에요."
+  }
+ ]
+}

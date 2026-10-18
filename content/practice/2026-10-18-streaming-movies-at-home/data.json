@@ -1,0 +1,304 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4661.28,
+  "end": 4714.97,
+  "clips": [
+   [
+    4661.28,
+    4665.61
+   ],
+   [
+    4686.0,
+    4689.93
+   ],
+   [
+    4710.88,
+    4714.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "These days I mostly watch movies on streaming apps at home.",
+   "chunks": [
+    {
+     "en": "These days",
+     "ko": "요즘"
+    },
+    {
+     "en": "I mostly watch movies",
+     "ko": "주로 영화를 봐요"
+    },
+    {
+     "en": "on streaming apps at home.",
+     "ko": "집에서 스트리밍 앱으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "These",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mostly",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "watch",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "movies",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "streaming",
+     "strong": true,
+     "link": false,
+     "syl": "stream"
+    },
+    {
+     "w": "apps",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "streaming apps at은 '스트리밍앱샛'처럼 이어 읽어요.",
+   "start": 4661.28,
+   "end": 4665.61
+  },
+  {
+   "text": "Watching at home is cheaper and much more comfortable.",
+   "chunks": [
+    {
+     "en": "Watching at home",
+     "ko": "집에서 보는 건"
+    },
+    {
+     "en": "is cheaper",
+     "ko": "더 저렴하고"
+    },
+    {
+     "en": "and much more comfortable.",
+     "ko": "훨씬 더 편안해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Watching",
+     "strong": true,
+     "link": false,
+     "syl": "Watch"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cheaper",
+     "strong": true,
+     "link": true,
+     "syl": "cheap"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comfortable.",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    }
+   ],
+   "tip": "cheaper and는 '치퍼랜'처럼 이어 읽어요.",
+   "start": 4686.0,
+   "end": 4689.93
+  },
+  {
+   "text": "The last movie I saw was a heartwarming family drama.",
+   "chunks": [
+    {
+     "en": "The last movie I saw",
+     "ko": "제가 마지막으로 본 영화는"
+    },
+    {
+     "en": "was a heartwarming family drama.",
+     "ko": "따뜻한 가족 드라마였어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "movie",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saw",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heartwarming",
+     "strong": true,
+     "link": false,
+     "syl": "heart"
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "link": false,
+     "syl": "fam"
+    },
+    {
+     "w": "drama.",
+     "strong": true,
+     "link": false,
+     "syl": "dra"
+    }
+   ],
+   "tip": "heartwarming은 heart에 강세, family drama는 첫 음절을 세게 읽어요.",
+   "start": 4710.88,
+   "end": 4714.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where does the speaker mostly watch movies these days?",
+   "options": [
+    "In theaters",
+    "On streaming apps at home",
+    "On airplanes"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: on streaming apps at home"
+  },
+  {
+   "q": "Why does the speaker prefer watching at home?",
+   "options": [
+    "It's cheaper and more comfortable",
+    "It has a bigger screen",
+    "It's quicker"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: cheaper and much more comfortable"
+  },
+  {
+   "q": "What was the last movie the speaker saw?",
+   "options": [
+    "An action thriller",
+    "A comedy",
+    "A heartwarming family drama"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: a heartwarming family drama"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "streaming apps",
+   "ko": "스트리밍 앱",
+   "note": "온라인으로 영상을 보는 앱이에요."
+  },
+  {
+   "term": "mostly",
+   "ko": "주로",
+   "note": "빈도나 비중이 큰 경우에 써요."
+  },
+  {
+   "term": "cheaper",
+   "ko": "더 저렴한",
+   "note": "cheap의 비교급이에요."
+  },
+  {
+   "term": "much more comfortable",
+   "ko": "훨씬 더 편안한",
+   "note": "much는 비교급을 강조해요."
+  },
+  {
+   "term": "heartwarming",
+   "ko": "마음이 따뜻해지는",
+   "note": "감동적인 이야기를 말할 때 써요."
+  }
+ ]
+}

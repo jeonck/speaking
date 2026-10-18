@@ -1,0 +1,287 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7806.16,
+  "end": 7852.49,
+  "clips": [
+   [
+    7806.16,
+    7809.93
+   ],
+   [
+    7828.0,
+    7831.37
+   ],
+   [
+    7848.88,
+    7852.49
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I don't check work emails while I'm on vacation.",
+   "chunks": [
+    {
+     "en": "I don't check work emails",
+     "ko": "나는 업무 메일을 확인하지 않는다"
+    },
+    {
+     "en": "while I'm on vacation.",
+     "ko": "휴가 중일 때는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": true,
+     "link": false,
+     "syl": "don"
+    },
+    {
+     "w": "check",
+     "strong": true,
+     "link": false,
+     "syl": "check"
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": true,
+     "syl": "work"
+    },
+    {
+     "w": "emails",
+     "strong": true,
+     "link": false,
+     "syl": "mails"
+    },
+    {
+     "w": "while",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vacation.",
+     "strong": true,
+     "link": false,
+     "syl": "ca"
+    }
+   ],
+   "tip": "don't check은 t를 거의 들리지 않게 '돈 첵'처럼 읽어요.",
+   "start": 7806.16,
+   "end": 7809.93
+  },
+  {
+   "text": "A real vacation means no work at all.",
+   "chunks": [
+    {
+     "en": "A real vacation means",
+     "ko": "진짜 휴가란"
+    },
+    {
+     "en": "no work at all.",
+     "ko": "일이 전혀 없는 것이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "real",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "vacation",
+     "strong": true,
+     "link": false,
+     "syl": "ca"
+    },
+    {
+     "w": "means",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": true,
+     "link": false,
+     "syl": "no"
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": true,
+     "syl": "work"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all.",
+     "strong": true,
+     "link": false,
+     "syl": "all"
+    }
+   ],
+   "tip": "work at all은 '워캣올'처럼 이어 읽어요.",
+   "start": 7828.0,
+   "end": 7831.37
+  },
+  {
+   "text": "Last summer, my family went camping by a lake.",
+   "chunks": [
+    {
+     "en": "Last summer,",
+     "ko": "지난여름에"
+    },
+    {
+     "en": "my family went camping",
+     "ko": "우리 가족은 캠핑을 갔다"
+    },
+    {
+     "en": "by a lake.",
+     "ko": "호수 옆으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Last",
+     "strong": true,
+     "link": false,
+     "syl": "last"
+    },
+    {
+     "w": "summer,",
+     "strong": true,
+     "link": false,
+     "syl": "sum"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "link": false,
+     "syl": "fam"
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "camping",
+     "strong": true,
+     "link": false,
+     "syl": "camp"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lake.",
+     "strong": true,
+     "link": false,
+     "syl": "lake"
+    }
+   ],
+   "tip": "family는 '패믈리'처럼 가운데 모음을 약하게 읽어요.",
+   "start": 7848.88,
+   "end": 7852.49
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker avoid doing on vacation?",
+   "options": [
+    "Checking work emails",
+    "Using a phone",
+    "Eating out"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I don't check work emails while I'm on vacation"
+  },
+  {
+   "q": "What does a real vacation mean to the speaker?",
+   "options": [
+    "Lots of shopping",
+    "No work at all",
+    "Staying home"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: A real vacation means no work at all"
+  },
+  {
+   "q": "Where did the speaker's family go last summer?",
+   "options": [
+    "To the mountains",
+    "To the beach",
+    "Camping by a lake"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: my family went camping by a lake"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "check emails",
+   "ko": "이메일을 확인하다",
+   "note": "check은 '확인하다'예요."
+  },
+  {
+   "term": "while I'm on vacation",
+   "ko": "휴가 중에",
+   "note": "while 뒤에 주어와 동사가 와요."
+  },
+  {
+   "term": "no work at all",
+   "ko": "일이 전혀 없는",
+   "note": "at all은 부정을 강조해요."
+  },
+  {
+   "term": "go camping",
+   "ko": "캠핑을 가다",
+   "note": "go + -ing로 활동을 말해요."
+  },
+  {
+   "term": "by a lake",
+   "ko": "호수 옆에",
+   "note": "by는 '~ 가까이'예요."
+  }
+ ]
+}

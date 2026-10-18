@@ -1,0 +1,323 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 307.84,
+  "end": 356.97,
+  "clips": [
+   [
+    307.84,
+    311.61
+   ],
+   [
+    330.72,
+    334.65
+   ],
+   [
+    353.36,
+    356.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The first thing I do is drink a big glass of water.",
+   "chunks": [
+    {
+     "en": "The first thing I do",
+     "ko": "내가 가장 먼저 하는 일은"
+    },
+    {
+     "en": "is drink",
+     "ko": "마시는 거예요"
+    },
+    {
+     "en": "a big glass of water.",
+     "ko": "큰 물 한 잔을"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "drink",
+     "strong": true,
+     "link": false,
+     "syl": "drink"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "glass",
+     "strong": true,
+     "link": true,
+     "syl": "glass"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water.",
+     "strong": true,
+     "link": false,
+     "syl": "wa"
+    }
+   ],
+   "tip": "glass of는 '글래서브'처럼 이어 읽어요.",
+   "start": 307.84,
+   "end": 311.61
+  },
+  {
+   "text": "Then I stretch for about 10 minutes to wake my body up.",
+   "chunks": [
+    {
+     "en": "Then I stretch",
+     "ko": "그다음 나는 스트레칭해요"
+    },
+    {
+     "en": "for about 10 minutes",
+     "ko": "약 10분 동안"
+    },
+    {
+     "en": "to wake my body up.",
+     "ko": "몸을 깨우려고"
+    }
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stretch",
+     "strong": true,
+     "link": false,
+     "syl": "stretch"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": true,
+     "link": false,
+     "syl": "min"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wake",
+     "strong": true,
+     "link": false,
+     "syl": "wake"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "body",
+     "strong": true,
+     "link": false,
+     "syl": "bod"
+    },
+    {
+     "w": "up.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "stretch는 str-가 한 덩어리라 '스트레취'로 빠르게 붙여 읽어요.",
+   "start": 330.72,
+   "end": 334.65
+  },
+  {
+   "text": "I never skip breakfast even when I'm running late.",
+   "chunks": [
+    {
+     "en": "I never skip breakfast",
+     "ko": "나는 아침을 절대 거르지 않아요"
+    },
+    {
+     "en": "even when I'm running late.",
+     "ko": "늦어지고 있을 때조차"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "nev"
+    },
+    {
+     "w": "skip",
+     "strong": true,
+     "link": false,
+     "syl": "skip"
+    },
+    {
+     "w": "breakfast",
+     "strong": true,
+     "link": false,
+     "syl": "break"
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "running",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "late.",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    }
+   ],
+   "tip": "breakfast는 '브렉퍼스트'로 break에 강세를 두고 뒤는 약하게 읽어요.",
+   "start": 353.36,
+   "end": 356.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the first thing the speaker does in the morning?",
+   "options": [
+    "Check the phone",
+    "Drink a big glass of water",
+    "Take a shower"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: drink a big glass of water"
+  },
+  {
+   "q": "How long does the speaker stretch?",
+   "options": [
+    "About 10 minutes",
+    "About 20 minutes",
+    "About 5 minutes"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: stretch for about 10 minutes"
+  },
+  {
+   "q": "Which meal does the speaker never skip?",
+   "options": [
+    "Lunch",
+    "Dinner",
+    "Breakfast"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I never skip breakfast"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "stretch",
+   "ko": "스트레칭하다",
+   "note": "명사로도 동사로도 써요."
+  },
+  {
+   "term": "wake my body up",
+   "ko": "몸을 깨우다",
+   "note": "wake up 사이에 목적어를 넣은 형태예요."
+  },
+  {
+   "term": "skip breakfast",
+   "ko": "아침을 거르다",
+   "note": "skip + 식사로 '거르다'를 표현해요."
+  },
+  {
+   "term": "running late",
+   "ko": "늦어지고 있는",
+   "note": "시간에 쫓길 때 써요."
+  },
+  {
+   "term": "the first thing",
+   "ko": "가장 먼저 하는 일",
+   "note": "루틴을 설명할 때 시작 표현으로 좋아요."
+  }
+ ]
+}

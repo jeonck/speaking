@@ -1,0 +1,324 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16640.32,
+  "end": 16697.37,
+  "clips": [
+   [
+    16640.32,
+    16644.65
+   ],
+   [
+    16665.36,
+    16670.09
+   ],
+   [
+    16693.6,
+    16697.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "There's a small restaurant near my office that I visit often.",
+   "chunks": [
+    {
+     "en": "There's a small restaurant",
+     "ko": "작은 식당이 하나 있다"
+    },
+    {
+     "en": "near my office",
+     "ko": "내 사무실 근처에"
+    },
+    {
+     "en": "that I visit often.",
+     "ko": "내가 자주 가는"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "restaurant",
+     "strong": true,
+     "link": false,
+     "syl": "res"
+    },
+    {
+     "w": "near",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "office",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visit",
+     "strong": true,
+     "link": false,
+     "syl": "vis"
+    },
+    {
+     "w": "often.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "restaurant는 보통 '레스트런트'처럼 두 음절로 줄여 읽어요.",
+   "start": 16640.32,
+   "end": 16644.65
+  },
+  {
+   "text": "The menu isn't very long, but almost everything I've tried has been good.",
+   "chunks": [
+    {
+     "en": "The menu isn't very long,",
+     "ko": "메뉴가 그리 길지 않지만"
+    },
+    {
+     "en": "but almost everything",
+     "ko": "하지만 거의 모든 것이"
+    },
+    {
+     "en": "I've tried has been good.",
+     "ko": "내가 먹어 본 건 좋았다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "menu",
+     "strong": true,
+     "link": false,
+     "syl": "me"
+    },
+    {
+     "w": "isn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almost",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tried",
+     "strong": true,
+     "link": false,
+     "syl": "tried"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "almost everything은 '올모스트 에브리띵'처럼 이어 읽어요.",
+   "start": 16665.36,
+   "end": 16670.09
+  },
+  {
+   "text": "Last month I took a visiting friend there for dinner.",
+   "chunks": [
+    {
+     "en": "Last month",
+     "ko": "지난달에"
+    },
+    {
+     "en": "I took a visiting friend there",
+     "ko": "방문 중인 친구를 거기에 데려갔다"
+    },
+    {
+     "en": "for dinner.",
+     "ko": "저녁 식사를 하러"
+    }
+   ],
+   "words": [
+    {
+     "w": "Last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month",
+     "strong": true,
+     "link": false,
+     "syl": "month"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visiting",
+     "strong": true,
+     "link": false,
+     "syl": "vis"
+    },
+    {
+     "w": "friend",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dinner.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "took a는 '투커'처럼 이어 읽어요.",
+   "start": 16693.6,
+   "end": 16697.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the restaurant located?",
+   "options": [
+    "Near the speaker's office",
+    "Next to the speaker's home",
+    "Inside a shopping mall"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: near my office"
+  },
+  {
+   "q": "What is the menu like?",
+   "options": [
+    "Very long",
+    "Short but mostly good",
+    "Changing every week"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: The menu isn't very long, but almost everything I've tried has been good"
+  },
+  {
+   "q": "Who did the speaker take there last month?",
+   "options": [
+    "A coworker",
+    "A family member",
+    "A visiting friend"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I took a visiting friend there"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "that I visit often",
+   "ko": "내가 자주 가는",
+   "note": "관계대명사 that 뒤에 주어와 동사가 이어져요."
+  },
+  {
+   "term": "isn't very long",
+   "ko": "그리 길지 않다",
+   "note": "not very는 '별로 ~하지 않은'이에요."
+  },
+  {
+   "term": "almost everything",
+   "ko": "거의 모든 것",
+   "note": "almost는 all, everything 앞에 붙여요."
+  },
+  {
+   "term": "visiting friend",
+   "ko": "찾아온 친구",
+   "note": "visiting은 '방문 중인'이라는 뜻이에요."
+  }
+ ]
+}

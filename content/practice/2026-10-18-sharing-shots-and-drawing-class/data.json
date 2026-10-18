@@ -1,0 +1,279 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5789.52,
+  "end": 5834.89,
+  "clips": [
+   [
+    5789.52,
+    5793.05
+   ],
+   [
+    5810.0,
+    5813.53
+   ],
+   [
+    5831.44,
+    5834.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I post my favorite shots on social media.",
+   "chunks": [
+    {
+     "en": "I post my favorite shots",
+     "ko": "저는 가장 좋아하는 사진들을 올려요"
+    },
+    {
+     "en": "on social media.",
+     "ko": "소셜 미디어에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "post",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "link": false,
+     "syl": "fa"
+    },
+    {
+     "w": "shots",
+     "strong": true,
+     "link": true,
+     "syl": "shots"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "social",
+     "strong": true,
+     "link": false,
+     "syl": "so"
+    },
+    {
+     "w": "media.",
+     "strong": true,
+     "link": false,
+     "syl": "me"
+    }
+   ],
+   "tip": "favorite는 '페이버릿'으로 앞 음절 fa에 강세를 줘요.",
+   "start": 5789.52,
+   "end": 5793.05
+  },
+  {
+   "text": "Drawing is something I've enjoyed since I was a kid.",
+   "chunks": [
+    {
+     "en": "Drawing is something",
+     "ko": "그림 그리기는 어떤 것이에요"
+    },
+    {
+     "en": "I've enjoyed",
+     "ko": "제가 즐겨 온"
+    },
+    {
+     "en": "since I was a kid.",
+     "ko": "어렸을 때부터요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Drawing",
+     "strong": true,
+     "link": true,
+     "syl": "Draw"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoyed",
+     "strong": true,
+     "link": false,
+     "syl": "joyed"
+    },
+    {
+     "w": "since",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kid.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "Drawing is는 '드로잉이즈'처럼 이어지고, kid에서 문장이 끝나며 강세가 와요.",
+   "start": 5810.0,
+   "end": 5813.53
+  },
+  {
+   "text": "I took an online drawing class last year.",
+   "chunks": [
+    {
+     "en": "I took an online",
+     "ko": "저는 온라인으로 들었어요"
+    },
+    {
+     "en": "drawing class",
+     "ko": "그림 수업을"
+    },
+    {
+     "en": "last year.",
+     "ko": "작년에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "online",
+     "strong": true,
+     "link": false,
+     "syl": "on"
+    },
+    {
+     "w": "drawing",
+     "strong": true,
+     "link": false,
+     "syl": "draw"
+    },
+    {
+     "w": "class",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "took an online은 '투캔온라인'처럼 붙여서 읽어요.",
+   "start": 5831.44,
+   "end": 5834.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where does the speaker post favorite shots?",
+   "options": [
+    "On social media",
+    "In a magazine",
+    "On a blog"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I post my favorite shots on social media."
+  },
+  {
+   "q": "Since when has the speaker enjoyed drawing?",
+   "options": [
+    "Since college",
+    "Since last year",
+    "Since being a kid"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: since I was a kid"
+  },
+  {
+   "q": "What did the speaker do last year?",
+   "options": [
+    "Took an online drawing class",
+    "Joined a photo contest",
+    "Bought a tablet"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I took an online drawing class last year."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "favorite shots",
+   "ko": "가장 좋아하는 사진",
+   "note": "shot은 사진 한 장이라는 뜻으로도 써요."
+  },
+  {
+   "term": "social media",
+   "ko": "소셜 미디어",
+   "note": "on social media로 전치사 on을 써요."
+  },
+  {
+   "term": "since I was a kid",
+   "ko": "어렸을 때부터",
+   "note": "since 뒤에는 과거 시점이 와요."
+  },
+  {
+   "term": "online class",
+   "ko": "온라인 수업",
+   "note": "take a class는 수업을 듣는다는 표현이에요."
+  }
+ ]
+}

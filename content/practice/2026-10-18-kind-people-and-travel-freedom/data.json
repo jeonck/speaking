@@ -1,0 +1,278 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8343.44,
+  "end": 8392.25,
+  "clips": [
+   [
+    8343.44,
+    8346.73
+   ],
+   [
+    8364.48,
+    8368.33
+   ],
+   [
+    8388.72,
+    8392.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I've learned that people are kind everywhere.",
+   "chunks": [
+    {
+     "en": "I've learned",
+     "ko": "저는 배웠어요"
+    },
+    {
+     "en": "that people are kind everywhere.",
+     "ko": "사람들은 어디서나 친절하다는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": false,
+     "syl": "learn"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": true,
+     "link": false,
+     "syl": "kind"
+    },
+    {
+     "w": "everywhere.",
+     "strong": true,
+     "link": false,
+     "syl": "where"
+    }
+   ],
+   "tip": "everywhere는 where에 강세가 와요. kind는 '카인드'처럼 길게 읽어요.",
+   "start": 8343.44,
+   "end": 8346.73
+  },
+  {
+   "text": "The thing I like most about traveling is the freedom.",
+   "chunks": [
+    {
+     "en": "The thing I like most",
+     "ko": "제가 가장 좋아하는 것은"
+    },
+    {
+     "en": "about traveling",
+     "ko": "여행에서"
+    },
+    {
+     "en": "is the freedom.",
+     "ko": "자유예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": false,
+     "syl": "like"
+    },
+    {
+     "w": "most",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traveling",
+     "strong": true,
+     "link": true,
+     "syl": "trav"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "freedom.",
+     "strong": true,
+     "link": false,
+     "syl": "free"
+    }
+   ],
+   "tip": "traveling is는 '트래블링이즈'처럼 이어 읽고, freedom의 free에 강세를 줘요.",
+   "start": 8364.48,
+   "end": 8368.33
+  },
+  {
+   "text": "Nobody knows me, so I can just be myself.",
+   "chunks": [
+    {
+     "en": "Nobody knows me,",
+     "ko": "아무도 저를 모르니까"
+    },
+    {
+     "en": "so I can just be myself.",
+     "ko": "그냥 저 자신으로 있을 수 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Nobody",
+     "strong": true,
+     "link": false,
+     "syl": "no"
+    },
+    {
+     "w": "knows",
+     "strong": true,
+     "link": false,
+     "syl": "knows"
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    }
+   ],
+   "tip": "Nobody는 첫 음절 No에 강세, myself는 self에 강세를 줘요. can은 약하게 '큰'으로 읽어요.",
+   "start": 8388.72,
+   "end": 8392.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What has the speaker learned from traveling?",
+   "options": [
+    "People are rude in big cities",
+    "People are kind everywhere",
+    "Locals prefer English"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: people are kind everywhere."
+  },
+  {
+   "q": "What does the speaker like most about traveling?",
+   "options": [
+    "The freedom",
+    "The food",
+    "The shopping"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: The thing I like most about traveling is the freedom."
+  },
+  {
+   "q": "Why can the speaker just be themself while traveling?",
+   "options": [
+    "The trip is cheap",
+    "The speaker travels with friends",
+    "Nobody knows the speaker"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: Nobody knows me, so I can just be myself."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "the thing I like most",
+   "ko": "제가 가장 좋아하는 점",
+   "note": "The thing I like most about ~ is ... 문형으로 외워 두세요."
+  },
+  {
+   "term": "freedom",
+   "ko": "자유",
+   "note": "발음은 FREE-dum이에요."
+  },
+  {
+   "term": "be myself",
+   "ko": "나다운 모습으로 있다",
+   "note": "편하게 꾸미지 않는다는 뜻으로 자주 써요."
+  },
+  {
+   "term": "everywhere",
+   "ko": "어디에서나",
+   "note": "anywhere와 헷갈리지 않게 긍정문에는 everywhere를 써요."
+  }
+ ]
+}

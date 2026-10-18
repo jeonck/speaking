@@ -1,0 +1,253 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2207.84,
+  "end": 2250.09,
+  "clips": [
+   [
+    2207.84,
+    2211.13
+   ],
+   [
+    2228.4,
+    2231.77
+   ],
+   [
+    2247.36,
+    2250.09
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Anyway, that's a typical day in my life.",
+   "chunks": [
+    {
+     "en": "Anyway,",
+     "ko": "어쨌든"
+    },
+    {
+     "en": "that's a typical day",
+     "ko": "전형적인 하루이다"
+    },
+    {
+     "en": "in my life.",
+     "ko": "내 삶의"
+    }
+   ],
+   "words": [
+    {
+     "w": "Anyway,",
+     "strong": true,
+     "link": false,
+     "syl": "An"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "typical",
+     "strong": true,
+     "link": false,
+     "syl": "typ"
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life.",
+     "strong": true,
+     "link": false,
+     "syl": "life"
+    }
+   ],
+   "tip": "that's a는 '댓써'처럼 이어 읽어요.",
+   "start": 2207.84,
+   "end": 2211.13
+  },
+  {
+   "text": "It's not exciting, but it suits me well.",
+   "chunks": [
+    {
+     "en": "It's not exciting,",
+     "ko": "흥미진진하진 않지만"
+    },
+    {
+     "en": "but it suits me well.",
+     "ko": "나에게 잘 맞는다"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": true,
+     "link": false,
+     "syl": "not"
+    },
+    {
+     "w": "exciting,",
+     "strong": true,
+     "link": false,
+     "syl": "cit"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "suits",
+     "strong": true,
+     "link": false,
+     "syl": "suits"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well.",
+     "strong": true,
+     "link": false,
+     "syl": "well"
+    }
+   ],
+   "tip": "but it은 t가 이어져 '버릿'처럼 들려요.",
+   "start": 2228.4,
+   "end": 2231.77
+  },
+  {
+   "text": "So yeah, that's basically me.",
+   "chunks": [
+    {
+     "en": "So yeah,",
+     "ko": "그러니까 그래,"
+    },
+    {
+     "en": "that's basically me.",
+     "ko": "이게 기본적으로 나야"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "yeah,",
+     "strong": true,
+     "link": false,
+     "syl": "yeah"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "basically",
+     "strong": true,
+     "link": false,
+     "syl": "ba"
+    },
+    {
+     "w": "me.",
+     "strong": true,
+     "link": false,
+     "syl": "me"
+    }
+   ],
+   "tip": "basically는 '베이시컬리'처럼 첫 음절에 강세를 둬요.",
+   "start": 2247.36,
+   "end": 2250.09
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker call the day just described?",
+   "options": [
+    "A typical day",
+    "A special holiday",
+    "A strange day"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: that's a typical day in my life"
+  },
+  {
+   "q": "What does the speaker say about this routine?",
+   "options": [
+    "It is exciting",
+    "It is too tiring",
+    "It suits the speaker well"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: it suits me well"
+  },
+  {
+   "q": "How does the speaker sum up the description?",
+   "options": [
+    "Good night",
+    "That's basically me",
+    "Thanks for listening"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: that's basically me"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Anyway,",
+   "ko": "어쨌든",
+   "note": "이야기를 마무리할 때 써요."
+  },
+  {
+   "term": "a typical day",
+   "ko": "전형적인 하루",
+   "note": "typical은 '평소와 같은'이란 뜻이에요."
+  },
+  {
+   "term": "suits me well",
+   "ko": "나에게 잘 맞는다",
+   "note": "suit은 '어울리다, 맞다'예요."
+  },
+  {
+   "term": "basically",
+   "ko": "기본적으로",
+   "note": "말을 요약할 때 자주 써요."
+  }
+ ]
+}

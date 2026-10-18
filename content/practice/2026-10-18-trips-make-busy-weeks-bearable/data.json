@@ -1,0 +1,207 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8944.32,
+  "end": 8972.49,
+  "clips": [
+   [
+    8944.32,
+    8948.65
+   ],
+   [
+    8969.2,
+    8972.49
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Having a trip to look forward to helps me get through busy weeks.",
+   "chunks": [
+    {
+     "en": "Having a trip to look forward to",
+     "ko": "기대할 여행이 있다는 것은"
+    },
+    {
+     "en": "helps me",
+     "ko": "나를 도와줘요"
+    },
+    {
+     "en": "get through busy weeks.",
+     "ko": "바쁜 한 주들을 버티도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "Having",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forward",
+     "strong": true,
+     "link": false,
+     "syl": "ward"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helps",
+     "strong": true,
+     "link": false,
+     "syl": "helps"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "busy",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "weeks.",
+     "strong": true,
+     "link": false,
+     "syl": "weeks"
+    }
+   ],
+   "tip": "Having a는 '해빙어'처럼 이어 읽고, look forward to에서는 forward에 강세를 둬요.",
+   "start": 8944.32,
+   "end": 8948.65
+  },
+  {
+   "text": "Anyway, that's my story about traveling.",
+   "chunks": [
+    {
+     "en": "Anyway,",
+     "ko": "어쨌든,"
+    },
+    {
+     "en": "that's my story",
+     "ko": "이게 내 이야기예요"
+    },
+    {
+     "en": "about traveling.",
+     "ko": "여행에 대한"
+    }
+   ],
+   "words": [
+    {
+     "w": "Anyway,",
+     "strong": true,
+     "link": false,
+     "syl": "An"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "story",
+     "strong": true,
+     "link": false,
+     "syl": "sto"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traveling.",
+     "strong": true,
+     "link": false,
+     "syl": "trav"
+    }
+   ],
+   "tip": "that's는 '댓츠'로 짧게 읽고 story와 traveling에 강세를 둬요.",
+   "start": 8969.2,
+   "end": 8972.49
+  }
+ ],
+ "questions": [
+  {
+   "q": "What helps the speaker get through busy weeks?",
+   "options": [
+    "Having a trip to look forward to",
+    "Working extra hours",
+    "Meeting friends every night"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Having a trip to look forward to helps me get through busy weeks"
+  },
+  {
+   "q": "What is the speaker's story about?",
+   "options": [
+    "Cooking",
+    "Traveling",
+    "Studying"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: that's my story about traveling"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "look forward to",
+   "ko": "~을 기대하다",
+   "note": "to 뒤에는 명사나 -ing가 와요."
+  },
+  {
+   "term": "get through",
+   "ko": "~을 버텨 내다",
+   "note": "힘든 시기를 넘길 때 써요."
+  },
+  {
+   "term": "Anyway,",
+   "ko": "어쨌든",
+   "note": "이야기를 마무리하거나 화제를 돌릴 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21094.88,
+  "end": 21137.29,
+  "clips": [
+   [
+    21094.88,
+    21098.49
+   ],
+   [
+    21115.44,
+    21118.33
+   ],
+   [
+    21133.84,
+    21137.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The first thing that comes to mind is my hometown.",
+   "chunks": [
+    {
+     "en": "The first thing",
+     "ko": "첫 번째로"
+    },
+    {
+     "en": "that comes to mind",
+     "ko": "떠오르는 것은"
+    },
+    {
+     "en": "is my hometown.",
+     "ko": "제 고향이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mind",
+     "strong": true,
+     "link": false,
+     "syl": "mind"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hometown.",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    }
+   ],
+   "tip": "comes to mind는 '컴스투마인드'로 빠르게 이어 말해요.",
+   "start": 21094.88,
+   "end": 21098.49
+  },
+  {
+   "text": "First, let me tell you where it is.",
+   "chunks": [
+    {
+     "en": "First, let me tell you",
+     "ko": "먼저 말씀드릴게요"
+    },
+    {
+     "en": "where it is.",
+     "ko": "그곳이 어디인지"
+    }
+   ],
+   "words": [
+    {
+     "w": "First,",
+     "strong": true,
+     "link": false,
+     "syl": "First"
+    },
+    {
+     "w": "let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": true,
+     "link": true,
+     "syl": "tell"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": true,
+     "link": true,
+     "syl": "where"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "where it is는 '웨어릿이즈'처럼 이어 읽어요.",
+   "start": 21115.44,
+   "end": 21118.33
+  },
+  {
+   "text": "The people there are another reason I like it.",
+   "chunks": [
+    {
+     "en": "The people there",
+     "ko": "그곳 사람들도"
+    },
+    {
+     "en": "are another reason",
+     "ko": "또 다른 이유예요"
+    },
+    {
+     "en": "I like it.",
+     "ko": "제가 좋아하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "another",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reason",
+     "strong": true,
+     "link": false,
+     "syl": "rea"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": true,
+     "syl": "like"
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "like it은 '라이킷'처럼 이어 읽어요.",
+   "start": 21133.84,
+   "end": 21137.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What comes to mind first?",
+   "options": [
+    "The speaker's school",
+    "The speaker's hometown",
+    "The speaker's office"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: first thing that comes to mind is my hometown"
+  },
+  {
+   "q": "What does the speaker say first about the place?",
+   "options": [
+    "Where it is",
+    "How old it is",
+    "How big it is"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: let me tell you where it is"
+  },
+  {
+   "q": "What is another reason the speaker likes it?",
+   "options": [
+    "The food",
+    "The weather",
+    "The people"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: The people there are another reason"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "comes to mind",
+   "ko": "떠오르다",
+   "note": "질문에 먼저 떠오른 것을 말할 때 써요."
+  },
+  {
+   "term": "hometown",
+   "ko": "고향",
+   "note": "hometown은 한 단어로 써요."
+  },
+  {
+   "term": "let me tell you",
+   "ko": "말씀드릴게요",
+   "note": "설명을 시작할 때 써요."
+  },
+  {
+   "term": "another reason",
+   "ko": "또 다른 이유",
+   "note": "이유를 추가할 때 써요."
+  }
+ ]
+}

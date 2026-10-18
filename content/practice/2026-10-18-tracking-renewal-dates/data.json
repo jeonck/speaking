@@ -1,0 +1,319 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17821.36,
+  "end": 17874.41,
+  "clips": [
+   [
+    17821.36,
+    17826.33
+   ],
+   [
+    17849.36,
+    17853.05
+   ],
+   [
+    17870.4,
+    17874.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I felt relieved, but I also realized I needed to track my subscriptions.",
+   "chunks": [
+    {
+     "en": "I felt relieved,",
+     "ko": "안도했지만"
+    },
+    {
+     "en": "but I also realized",
+     "ko": "또한 깨달았어요"
+    },
+    {
+     "en": "I needed to track my subscriptions.",
+     "ko": "제 구독을 관리해야 한다는 걸"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "felt",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relieved,",
+     "strong": true,
+     "link": false,
+     "syl": "lieved"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "realized",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "needed",
+     "strong": true,
+     "link": false,
+     "syl": "need"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "track",
+     "strong": true,
+     "link": false,
+     "syl": "track"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "subscriptions.",
+     "strong": true,
+     "link": false,
+     "syl": "scrip"
+    }
+   ],
+   "tip": "relieved는 '릴리브드'로 두 번째 음절에 강세가 와요.",
+   "start": 17821.36,
+   "end": 17826.33
+  },
+  {
+   "text": "Now I keep a list of renewal dates on my phone.",
+   "chunks": [
+    {
+     "en": "Now I keep a list",
+     "ko": "이제 저는 유지해요 목록을"
+    },
+    {
+     "en": "of renewal dates",
+     "ko": "갱신 날짜들의"
+    },
+    {
+     "en": "on my phone.",
+     "ko": "제 휴대폰에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "link": false,
+     "syl": "keep"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "list",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "renewal",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "dates",
+     "strong": true,
+     "link": false,
+     "syl": "dates"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone.",
+     "strong": true,
+     "link": false,
+     "syl": "phone"
+    }
+   ],
+   "tip": "list of는 '리스톱'처럼 t 소리 없이 이어요.",
+   "start": 17849.36,
+   "end": 17853.05
+  },
+  {
+   "text": "My family usually gets together during the holidays.",
+   "chunks": [
+    {
+     "en": "My family usually gets together",
+     "ko": "우리 가족은 보통 모여요"
+    },
+    {
+     "en": "during the holidays.",
+     "ko": "명절 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "link": false,
+     "syl": "fam"
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": false,
+     "syl": "us"
+    },
+    {
+     "w": "gets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "together",
+     "strong": true,
+     "link": false,
+     "syl": "geth"
+    },
+    {
+     "w": "during",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "holidays.",
+     "strong": true,
+     "link": false,
+     "syl": "hol"
+    }
+   ],
+   "tip": "gets together는 '겟츠투게더'로 s와 t가 이어져요.",
+   "start": 17870.4,
+   "end": 17874.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the speaker feel after learning what the payment was?",
+   "options": [
+    "Relieved",
+    "Angry",
+    "Bored"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I felt relieved"
+  },
+  {
+   "q": "What does the speaker keep on the phone?",
+   "options": [
+    "A list of friends",
+    "A list of renewal dates",
+    "A photo album"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: a list of renewal dates on my phone"
+  },
+  {
+   "q": "When does the speaker's family usually get together?",
+   "options": [
+    "Every weekday",
+    "On summer nights",
+    "During the holidays"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: gets together during the holidays"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "relieved",
+   "ko": "안도한",
+   "note": "relieved는 걱정이 사라진 느낌이에요."
+  },
+  {
+   "term": "track",
+   "ko": "추적하다, 관리하다",
+   "note": "track expenses처럼도 써요."
+  },
+  {
+   "term": "renewal date",
+   "ko": "갱신일",
+   "note": "renew는 갱신하다예요."
+  },
+  {
+   "term": "get together",
+   "ko": "모이다",
+   "note": "get-together는 모임이라는 명사예요."
+  },
+  {
+   "term": "holidays",
+   "ko": "명절, 휴일",
+   "note": "미국에서는 연말 명절을 뜻할 때가 많아요."
+  }
+ ]
+}

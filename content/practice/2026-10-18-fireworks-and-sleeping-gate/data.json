@@ -1,0 +1,338 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10517.76,
+  "end": 10573.53,
+  "clips": [
+   [
+    10517.76,
+    10522.33
+   ],
+   [
+    10544.72,
+    10548.89
+   ],
+   [
+    10569.6,
+    10573.53
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "At midnight, fireworks lit up the whole sky above the water.",
+   "chunks": [
+    {
+     "en": "At midnight,",
+     "ko": "자정에"
+    },
+    {
+     "en": "fireworks lit up the whole sky",
+     "ko": "불꽃놀이가 하늘 전체를 밝혔다"
+    },
+    {
+     "en": "above the water.",
+     "ko": "물 위로"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "midnight,",
+     "strong": true,
+     "syl": "mid",
+     "link": false
+    },
+    {
+     "w": "fireworks",
+     "strong": true,
+     "syl": "fire",
+     "link": false
+    },
+    {
+     "w": "lit",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whole",
+     "strong": true,
+     "syl": "whole",
+     "link": false
+    },
+    {
+     "w": "sky",
+     "strong": true,
+     "syl": "sky",
+     "link": false
+    },
+    {
+     "w": "above",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "lit up은 '리텁'처럼 이어 읽어요.",
+   "start": 10517.76,
+   "end": 10522.33
+  },
+  {
+   "text": "I just stood there in awe and forgot to take a single picture.",
+   "chunks": [
+    {
+     "en": "I just stood there in awe",
+     "ko": "나는 경외감에 그저 서 있었고"
+    },
+    {
+     "en": "and forgot to take a single picture.",
+     "ko": "사진 한 장도 찍는 것을 잊었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stood",
+     "strong": true,
+     "syl": "stood",
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "awe",
+     "strong": true,
+     "syl": "awe",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forgot",
+     "strong": true,
+     "syl": "got",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "single",
+     "strong": true,
+     "syl": "sin",
+     "link": false
+    },
+    {
+     "w": "picture.",
+     "strong": true,
+     "syl": "pic",
+     "link": false
+    }
+   ],
+   "tip": "take a는 '테이커'처럼 이어 읽어요.",
+   "start": 10544.72,
+   "end": 10548.89
+  },
+  {
+   "text": "I once missed a flight because I fell asleep at the gate.",
+   "chunks": [
+    {
+     "en": "I once missed a flight",
+     "ko": "한 번은 비행기를 놓친 적이 있다"
+    },
+    {
+     "en": "because I fell asleep",
+     "ko": "잠들어 버렸기 때문에"
+    },
+    {
+     "en": "at the gate.",
+     "ko": "탑승구에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "missed",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flight",
+     "strong": true,
+     "syl": "flight",
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fell",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "asleep",
+     "strong": true,
+     "syl": "sleep",
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gate.",
+     "strong": true,
+     "syl": "gate",
+     "link": false
+    }
+   ],
+   "tip": "missed a, because I는 '미스터', '비커자이'처럼 이어 읽어요.",
+   "start": 10569.6,
+   "end": 10573.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What lit up the sky at midnight?",
+   "options": [
+    "Fireworks",
+    "Lanterns",
+    "The moon"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: fireworks lit up the whole sky"
+  },
+  {
+   "q": "Why did the speaker not take a picture?",
+   "options": [
+    "The camera broke",
+    "The speaker stood there in awe",
+    "It was too dark"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: stood there in awe and forgot to take a single picture"
+  },
+  {
+   "q": "Why did the speaker miss a flight?",
+   "options": [
+    "The flight was canceled",
+    "The speaker was stuck in traffic",
+    "The speaker fell asleep at the gate"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I fell asleep at the gate"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "lit up",
+   "ko": "환하게 밝혔다",
+   "note": "light의 과거형 lit과 up이 합쳐진 구동사예요."
+  },
+  {
+   "term": "in awe",
+   "ko": "경외감에 차서",
+   "note": "놀라움과 감탄이 섞인 느낌이에요."
+  },
+  {
+   "term": "a single picture",
+   "ko": "사진 한 장",
+   "note": "single은 부정문처럼 쓰면 '단 하나도'를 강조해요."
+  },
+  {
+   "term": "fell asleep",
+   "ko": "잠들었다",
+   "note": "fall asleep은 의도치 않게 잠드는 것이에요."
+  },
+  {
+   "term": "the gate",
+   "ko": "탑승구",
+   "note": "공항의 gate는 탑승 게이트예요."
+  }
+ ]
+}

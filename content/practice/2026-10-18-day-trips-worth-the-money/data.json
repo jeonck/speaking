@@ -1,0 +1,327 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8809.2,
+  "end": 8858.57,
+  "clips": [
+   [
+    8809.2,
+    8813.37
+   ],
+   [
+    8832.72,
+    8836.81
+   ],
+   [
+    8854.72,
+    8858.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Even a day trip to a nearby town can be refreshing.",
+   "chunks": [
+    {
+     "en": "Even a day trip",
+     "ko": "하루 여행조차"
+    },
+    {
+     "en": "to a nearby town",
+     "ko": "근처 마을로 가는"
+    },
+    {
+     "en": "can be refreshing.",
+     "ko": "상쾌할 수 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Even",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearby",
+     "strong": true,
+     "link": false,
+     "syl": "near"
+    },
+    {
+     "w": "town",
+     "strong": true,
+     "link": false,
+     "syl": "town"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "refreshing.",
+     "strong": true,
+     "link": false,
+     "syl": "fresh"
+    }
+   ],
+   "tip": "Even a는 '이븐어'처럼 이어요. refreshing은 fresh에 강세를 줘요.",
+   "start": 8809.2,
+   "end": 8813.37
+  },
+  {
+   "text": "Sometimes I take a train to the coast for a day trip.",
+   "chunks": [
+    {
+     "en": "Sometimes I take a train",
+     "ko": "가끔 기차를 타요"
+    },
+    {
+     "en": "to the coast",
+     "ko": "해안으로"
+    },
+    {
+     "en": "for a day trip.",
+     "ko": "당일 여행으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sometimes",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "train",
+     "strong": true,
+     "link": false,
+     "syl": "train"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coast",
+     "strong": true,
+     "link": false,
+     "syl": "coast"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip.",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    }
+   ],
+   "tip": "take a는 '테이커', for a는 '포러'처럼 이어요.",
+   "start": 8832.72,
+   "end": 8836.81
+  },
+  {
+   "text": "For me, spending money on travel is usually worth it.",
+   "chunks": [
+    {
+     "en": "For me,",
+     "ko": "저에게는"
+    },
+    {
+     "en": "spending money on travel",
+     "ko": "여행에 돈을 쓰는 것이"
+    },
+    {
+     "en": "is usually worth it.",
+     "ko": "보통 그럴 가치가 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spending",
+     "strong": true,
+     "link": false,
+     "syl": "spend"
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "link": false,
+     "syl": "mon"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "link": false,
+     "syl": "trav"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "worth",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "worth it은 '워th잇'처럼 이어요. spend money는 spend와 money에 힘을 줘요.",
+   "start": 8854.72,
+   "end": 8858.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What can be refreshing, according to the speaker?",
+   "options": [
+    "A day trip to a nearby town",
+    "A long flight",
+    "A week at a hotel"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Even a day trip to a nearby town can be refreshing."
+  },
+  {
+   "q": "Where does the speaker sometimes take a train to?",
+   "options": [
+    "The mountains",
+    "A big city",
+    "The coast"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: take a train to the coast for a day trip."
+  },
+  {
+   "q": "What does the speaker think about spending money on travel?",
+   "options": [
+    "It is a waste",
+    "It is usually worth it",
+    "It is too expensive"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: spending money on travel is usually worth it."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "day trip",
+   "ko": "당일치기 여행",
+   "note": "숙박 없이 하루 안에 다녀오는 여행이에요."
+  },
+  {
+   "term": "nearby town",
+   "ko": "근처 마을",
+   "note": "nearby는 형용사로 명사 앞에 와요."
+  },
+  {
+   "term": "refreshing",
+   "ko": "상쾌한",
+   "note": "기분전환이 될 때 써요."
+  },
+  {
+   "term": "the coast",
+   "ko": "해안",
+   "note": "the sea가 아닌 바닷가 지역을 말해요."
+  },
+  {
+   "term": "worth it",
+   "ko": "그럴 가치가 있는",
+   "note": "돈이나 노력이 아깝지 않을 때 써요."
+  }
+ ]
+}

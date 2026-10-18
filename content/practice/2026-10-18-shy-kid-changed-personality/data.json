@@ -1,0 +1,285 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12453.04,
+  "end": 12503.45,
+  "clips": [
+   [
+    12453.04,
+    12456.57
+   ],
+   [
+    12476.72,
+    12480.89
+   ],
+   [
+    12500.4,
+    12503.45
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My personality has changed quite a bit too.",
+   "chunks": [
+    {
+     "en": "My personality",
+     "ko": "내 성격은"
+    },
+    {
+     "en": "has changed",
+     "ko": "변했어요"
+    },
+    {
+     "en": "quite a bit too.",
+     "ko": "꽤 많이요, 그리고"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "personality",
+     "strong": true,
+     "link": false,
+     "syl": "son"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": false,
+     "syl": "changed"
+    },
+    {
+     "w": "quite",
+     "strong": true,
+     "link": true,
+     "syl": "quite"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bit",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'quite a bit'은 '콰이러빗'처럼 이어서 가볍게 읽어요.",
+   "start": 12453.04,
+   "end": 12456.57
+  },
+  {
+   "text": "When I was younger, I was really shy around new people.",
+   "chunks": [
+    {
+     "en": "When I was younger,",
+     "ko": "제가 더 어렸을 때는"
+    },
+    {
+     "en": "I was really shy",
+     "ko": "정말 수줍음이 많았어요"
+    },
+    {
+     "en": "around new people.",
+     "ko": "새로운 사람들 주변에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "younger,",
+     "strong": true,
+     "link": false,
+     "syl": "youn"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shy",
+     "strong": true,
+     "link": false,
+     "syl": "shy"
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "people.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'I was'는 '아이워즈'처럼 붙여 읽고 shy에 힘을 줘요.",
+   "start": 12476.72,
+   "end": 12480.89
+  },
+  {
+   "text": "I would hardly say a word in class.",
+   "chunks": [
+    {
+     "en": "I would hardly say a word",
+     "ko": "거의 한마디도 안 했어요"
+    },
+    {
+     "en": "in class.",
+     "ko": "수업 시간에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hardly",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "say",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "word",
+     "strong": true,
+     "link": false,
+     "syl": "word"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class.",
+     "strong": true,
+     "link": false,
+     "syl": "class"
+    }
+   ],
+   "tip": "'hardly'의 hard에 강세를 두고 'say a word'는 '세이어워드'처럼 이어요.",
+   "start": 12500.4,
+   "end": 12503.45
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the speaker feel around new people when younger?",
+   "options": [
+    "Shy",
+    "Angry",
+    "Excited"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I was really shy around new people"
+  },
+  {
+   "q": "Where did the speaker rarely talk?",
+   "options": [
+    "At home",
+    "In class",
+    "At work"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I would hardly say a word in class"
+  },
+  {
+   "q": "What has changed about the speaker?",
+   "options": [
+    "Their personality",
+    "Their address",
+    "Their school"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: My personality has changed quite a bit"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "quite a bit",
+   "ko": "꽤 많이",
+   "note": "변화의 정도를 말할 때 써요."
+  },
+  {
+   "term": "shy around",
+   "ko": "~ 주변에서 수줍어하는",
+   "note": "around 뒤에 사람을 붙여요."
+  },
+  {
+   "term": "hardly say a word",
+   "ko": "거의 말을 안 하다",
+   "note": "hardly 자체가 부정 의미라 not은 쓰지 않아요."
+  },
+  {
+   "term": "when I was younger",
+   "ko": "어렸을 때",
+   "note": "과거 시절을 말하는 기본 표현이에요."
+  }
+ ]
+}

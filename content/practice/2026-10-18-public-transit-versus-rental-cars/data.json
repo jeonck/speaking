@@ -1,0 +1,309 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8210.96,
+  "end": 8262.25,
+  "clips": [
+   [
+    8210.96,
+    8214.97
+   ],
+   [
+    8234.72,
+    8238.49
+   ],
+   [
+    8258.16,
+    8262.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I usually use public transportation when I travel.",
+   "chunks": [
+    {
+     "en": "I usually use public transportation",
+     "ko": "저는 보통 대중교통을 이용해요"
+    },
+    {
+     "en": "when I travel.",
+     "ko": "여행할 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": false,
+     "syl": "u"
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "public",
+     "strong": true,
+     "link": false,
+     "syl": "pub"
+    },
+    {
+     "w": "transportation",
+     "strong": true,
+     "link": false,
+     "syl": "ta"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel.",
+     "strong": true,
+     "link": false,
+     "syl": "trav"
+    }
+   ],
+   "tip": "transportation은 -ta- 부분에 강세가 와요. when I는 '웬아이'처럼 이어 읽어요.",
+   "start": 8210.96,
+   "end": 8214.97
+  },
+  {
+   "text": "Taking the bus is a good way to see how locals live.",
+   "chunks": [
+    {
+     "en": "Taking the bus",
+     "ko": "버스를 타는 것은"
+    },
+    {
+     "en": "is a good way",
+     "ko": "좋은 방법이에요"
+    },
+    {
+     "en": "to see how locals live.",
+     "ko": "현지인들이 어떻게 사는지 보는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Taking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bus",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "locals",
+     "strong": true,
+     "link": false,
+     "syl": "lo"
+    },
+    {
+     "w": "live.",
+     "strong": true,
+     "link": false,
+     "syl": "live"
+    }
+   ],
+   "tip": "locals는 첫 음절 lo에 강세, live는 '리브'(동사)로 읽어요.",
+   "start": 8234.72,
+   "end": 8238.49
+  },
+  {
+   "text": "In some cities, renting a car is much more convenient.",
+   "chunks": [
+    {
+     "en": "In some cities,",
+     "ko": "어떤 도시에서는"
+    },
+    {
+     "en": "renting a car",
+     "ko": "차를 빌리는 것이"
+    },
+    {
+     "en": "is much more convenient.",
+     "ko": "훨씬 더 편리해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cities,",
+     "strong": true,
+     "link": false,
+     "syl": "ci"
+    },
+    {
+     "w": "renting",
+     "strong": true,
+     "link": false,
+     "syl": "rent"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car",
+     "strong": true,
+     "link": true,
+     "syl": "car"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "convenient.",
+     "strong": true,
+     "link": false,
+     "syl": "ven"
+    }
+   ],
+   "tip": "car is는 '카리즈'처럼 이어져요. convenient는 ven에 강세가 와요.",
+   "start": 8258.16,
+   "end": 8262.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker usually use when traveling?",
+   "options": [
+    "Taxis",
+    "Public transportation",
+    "A rental car"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I usually use public transportation."
+  },
+  {
+   "q": "Why does the speaker like taking the bus?",
+   "options": [
+    "It is the cheapest option",
+    "It is the fastest option",
+    "It shows how locals live"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: a good way to see how locals live."
+  },
+  {
+   "q": "When is renting a car more convenient?",
+   "options": [
+    "In some cities",
+    "In every city",
+    "Only in small villages"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: In some cities, renting a car is much more convenient."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "public transportation",
+   "ko": "대중교통",
+   "note": "'a public transportation'이 아니라 셀 수 없는 명사로 써요."
+  },
+  {
+   "term": "locals",
+   "ko": "현지인들",
+   "note": "local people의 줄임으로, 여행 이야기에 자주 나와요."
+  },
+  {
+   "term": "a good way to",
+   "ko": "~하는 좋은 방법",
+   "note": "a good way to + 동사원형 형태예요."
+  },
+  {
+   "term": "rent a car",
+   "ko": "차를 빌리다",
+   "note": "rent는 '돈 내고 빌리다'라는 뜻이에요."
+  },
+  {
+   "term": "convenient",
+   "ko": "편리한",
+   "note": "accent는 ven에 있어요: con-VEE-nient."
+  }
+ ]
+}

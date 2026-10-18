@@ -1,0 +1,331 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22061.52,
+  "end": 22110.01,
+  "clips": [
+   [
+    22061.52,
+    22065.69
+   ],
+   [
+    22086.48,
+    22089.53
+   ],
+   [
+    22105.68,
+    22110.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I can't remember the exact name, but it was a small coffee shop.",
+   "chunks": [
+    {
+     "en": "I can't remember",
+     "ko": "기억이 안 나요"
+    },
+    {
+     "en": "the exact name,",
+     "ko": "정확한 이름은"
+    },
+    {
+     "en": "but it was a small coffee shop.",
+     "ko": "하지만 작은 커피숍이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remember",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exact",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "name,",
+     "strong": true,
+     "link": false,
+     "syl": "name"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "coffee",
+     "strong": true,
+     "link": false,
+     "syl": "cof"
+    },
+    {
+     "w": "shop.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "can't remember는 can't의 t를 거의 삼키고 remember를 또렷하게 읽어요.",
+   "start": 22061.52,
+   "end": 22065.69
+  },
+  {
+   "text": "The name is on the tip of my tongue.",
+   "chunks": [
+    {
+     "en": "The name is",
+     "ko": "그 이름이"
+    },
+    {
+     "en": "on the tip of",
+     "ko": "끝에 있어요"
+    },
+    {
+     "en": "my tongue.",
+     "ko": "제 혀의"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "name",
+     "strong": true,
+     "link": false,
+     "syl": "name"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tip",
+     "strong": true,
+     "link": true,
+     "syl": "tip"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tongue.",
+     "strong": true,
+     "link": false,
+     "syl": "tongue"
+    }
+   ],
+   "tip": "tip of는 '팁업'처럼 이어서 읽어요.",
+   "start": 22086.48,
+   "end": 22089.53
+  },
+  {
+   "text": "I can't remember the word, but it's a machine that dries clothes.",
+   "chunks": [
+    {
+     "en": "I can't remember the word,",
+     "ko": "그 단어가 기억나지 않지만,"
+    },
+    {
+     "en": "but it's a machine",
+     "ko": "그건 기계예요"
+    },
+    {
+     "en": "that dries clothes.",
+     "ko": "옷을 말리는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remember",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "word,",
+     "strong": true,
+     "link": false,
+     "syl": "word"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "machine",
+     "strong": true,
+     "link": false,
+     "syl": "chine"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dries",
+     "strong": true,
+     "link": false,
+     "syl": "dries"
+    },
+    {
+     "w": "clothes.",
+     "strong": true,
+     "link": false,
+     "syl": "clothes"
+    }
+   ],
+   "tip": "it's a는 '잇써'처럼 이어서 읽고, clothes의 th는 거의 약하게 해요.",
+   "start": 22105.68,
+   "end": 22110.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of place was it?",
+   "options": [
+    "A tiny bookstore",
+    "A small coffee shop",
+    "A big restaurant"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: it was a small coffee shop"
+  },
+  {
+   "q": "What is on the tip of the speaker's tongue?",
+   "options": [
+    "The name",
+    "The address",
+    "The price"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: The name is on the tip of my tongue"
+  },
+  {
+   "q": "What does the machine do?",
+   "options": [
+    "Washes dishes",
+    "Cooks rice",
+    "Dries clothes"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: a machine that dries clothes"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "exact name",
+   "ko": "정확한 이름",
+   "note": "exact는 '정확한'이에요."
+  },
+  {
+   "term": "on the tip of my tongue",
+   "ko": "입안에서 맴도는",
+   "note": "생각이 날 듯 말 듯할 때 써요."
+  },
+  {
+   "term": "small coffee shop",
+   "ko": "작은 커피숍",
+   "note": "small은 규모가 작다는 뜻이에요."
+  },
+  {
+   "term": "machine that dries clothes",
+   "ko": "옷을 말리는 기계",
+   "note": "단어를 모를 때 풀어서 설명하는 방법이에요."
+  },
+  {
+   "term": "I can't remember",
+   "ko": "기억이 안 나요",
+   "note": "단어가 안 떠오를 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8074.56,
+  "end": 8125.13,
+  "clips": [
+   [
+    8074.56,
+    8078.81
+   ],
+   [
+    8098.4,
+    8102.09
+   ],
+   [
+    8121.04,
+    8125.13
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I visited an old market and bought some souvenirs.",
+   "chunks": [
+    {
+     "en": "I visited an old market",
+     "ko": "나는 오래된 시장을 방문했고"
+    },
+    {
+     "en": "and bought some souvenirs.",
+     "ko": "기념품 몇 개를 샀다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visited",
+     "strong": true,
+     "link": true,
+     "syl": "vis"
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "old",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    },
+    {
+     "w": "market",
+     "strong": true,
+     "link": true,
+     "syl": "mar"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bought",
+     "strong": true,
+     "link": false,
+     "syl": "bought"
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "souvenirs.",
+     "strong": true,
+     "link": false,
+     "syl": "venir"
+    }
+   ],
+   "tip": "visited an old는 '비지티던올드'처럼 이어 읽어요.",
+   "start": 8074.56,
+   "end": 8078.81
+  },
+  {
+   "text": "I always buy small gifts for my co-workers.",
+   "chunks": [
+    {
+     "en": "I always buy small gifts",
+     "ko": "나는 항상 작은 선물을 산다"
+    },
+    {
+     "en": "for my co-workers.",
+     "ko": "내 동료들에게"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "buy",
+     "strong": true,
+     "link": false,
+     "syl": "buy"
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "gifts",
+     "strong": true,
+     "link": false,
+     "syl": "gifts"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "co-workers.",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    }
+   ],
+   "tip": "co-workers는 work에 강세가 와요.",
+   "start": 8098.4,
+   "end": 8102.09
+  },
+  {
+   "text": "I like collecting fridge magnets from every city I visit.",
+   "chunks": [
+    {
+     "en": "I like collecting fridge magnets",
+     "ko": "나는 냉장고 자석 모으는 걸 좋아한다"
+    },
+    {
+     "en": "from every city I visit.",
+     "ko": "내가 방문하는 모든 도시에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "collecting",
+     "strong": true,
+     "link": false,
+     "syl": "lect"
+    },
+    {
+     "w": "fridge",
+     "strong": true,
+     "link": false,
+     "syl": "fridge"
+    },
+    {
+     "w": "magnets",
+     "strong": true,
+     "link": false,
+     "syl": "mag"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "city",
+     "strong": true,
+     "link": true,
+     "syl": "ci"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visit.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "magnets는 mag에 강세를 주고 fridge magnets를 이어 크게 읽어요.",
+   "start": 8121.04,
+   "end": 8125.13
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did the speaker buy souvenirs?",
+   "options": [
+    "At an airport shop",
+    "At an old market",
+    "At a hotel"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: visited an old market and bought some souvenirs"
+  },
+  {
+   "q": "Who does the speaker buy small gifts for?",
+   "options": [
+    "Neighbors",
+    "Teachers",
+    "Co-workers"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: small gifts for my co-workers"
+  },
+  {
+   "q": "What does the speaker collect?",
+   "options": [
+    "Fridge magnets",
+    "Postcards",
+    "Coins"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: collecting fridge magnets from every city"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "souvenir",
+   "ko": "기념품",
+   "note": "강세는 두 번째 음절 '니어'예요."
+  },
+  {
+   "term": "old market",
+   "ko": "오래된 시장",
+   "note": "여행지의 시장을 말할 때 써요."
+  },
+  {
+   "term": "small gifts",
+   "ko": "작은 선물",
+   "note": "gift는 '선물'이에요."
+  },
+  {
+   "term": "co-worker",
+   "ko": "직장 동료",
+   "note": "coworker로도 써요."
+  },
+  {
+   "term": "fridge magnet",
+   "ko": "냉장고 자석",
+   "note": "fridge는 refrigerator의 줄임말이에요."
+  }
+ ]
+}

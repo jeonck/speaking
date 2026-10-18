@@ -1,0 +1,340 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9475.68,
+  "end": 9529.85,
+  "clips": [
+   [
+    9475.68,
+    9479.85
+   ],
+   [
+    9500.64,
+    9504.89
+   ],
+   [
+    9525.84,
+    9529.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I sang along to every song until I lost my voice.",
+   "chunks": [
+    {
+     "en": "I sang along to every song",
+     "ko": "모든 노래를 따라 불렀어요"
+    },
+    {
+     "en": "until I lost my voice.",
+     "ko": "목소리가 나가버릴 때까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sang",
+     "strong": true,
+     "link": false,
+     "syl": "sang"
+    },
+    {
+     "w": "along",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "song",
+     "strong": true,
+     "link": false,
+     "syl": "song"
+    },
+    {
+     "w": "until",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lost",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "voice.",
+     "strong": true,
+     "link": false,
+     "syl": "voice"
+    }
+   ],
+   "tip": "until I는 '언틸라이'처럼 이어 읽어요.",
+   "start": 9475.68,
+   "end": 9479.85
+  },
+  {
+   "text": "It's been years, but I still get goosebumps when I think about it.",
+   "chunks": [
+    {
+     "en": "It's been years,",
+     "ko": "몇 년이 지났지만"
+    },
+    {
+     "en": "but I still get goosebumps",
+     "ko": "여전히 소름이 돋아요"
+    },
+    {
+     "en": "when I think about it.",
+     "ko": "그걸 생각할 때면"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years,",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "goosebumps",
+     "strong": true,
+     "link": false,
+     "syl": "goose"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": true,
+     "syl": "think"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "think about it은 '씽커바우릿'처럼 이어 읽어요.",
+   "start": 9500.64,
+   "end": 9504.89
+  },
+  {
+   "text": "One time my friends and I got lost on a hiking trail.",
+   "chunks": [
+    {
+     "en": "One time",
+     "ko": "한번은"
+    },
+    {
+     "en": "my friends and I",
+     "ko": "친구들과 내가"
+    },
+    {
+     "en": "got lost on a hiking trail.",
+     "ko": "등산로에서 길을 잃었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends",
+     "strong": true,
+     "link": false,
+     "syl": "friends"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lost",
+     "strong": true,
+     "link": true,
+     "syl": "lost"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hiking",
+     "strong": true,
+     "link": false,
+     "syl": "hik"
+    },
+    {
+     "w": "trail.",
+     "strong": true,
+     "link": false,
+     "syl": "trail"
+    }
+   ],
+   "tip": "lost on a는 '로스토너'처럼 이어 읽어요.",
+   "start": 9525.84,
+   "end": 9529.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happened to the speaker's voice?",
+   "options": [
+    "It got stronger",
+    "The speaker lost it",
+    "It became hoarse in the morning"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: until I lost my voice"
+  },
+  {
+   "q": "How does the speaker feel when thinking about the concert?",
+   "options": [
+    "Gets goosebumps",
+    "Feels bored",
+    "Gets nervous"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I still get goosebumps when I think about it"
+  },
+  {
+   "q": "Where did the speaker and friends get lost?",
+   "options": [
+    "In a big city",
+    "In a shopping mall",
+    "On a hiking trail"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: got lost on a hiking trail"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sing along",
+   "ko": "따라 부르다",
+   "note": "along 뒤에 to + 노래를 써요."
+  },
+  {
+   "term": "lose one's voice",
+   "ko": "목소리가 나가다",
+   "note": "lost는 lose의 과거형이에요."
+  },
+  {
+   "term": "get goosebumps",
+   "ko": "소름이 돋다",
+   "note": "감동이나 공포에 쓰여요."
+  },
+  {
+   "term": "get lost",
+   "ko": "길을 잃다",
+   "note": "lost는 형용사로 쓰여요."
+  },
+  {
+   "term": "hiking trail",
+   "ko": "등산로",
+   "note": "trail은 오솔길이에요."
+  }
+ ]
+}

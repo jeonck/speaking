@@ -1,0 +1,327 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12095.68,
+  "end": 12149.37,
+  "clips": [
+   [
+    12095.68,
+    12099.93
+   ],
+   [
+    12120.8,
+    12125.13
+   ],
+   [
+    12145.2,
+    12149.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now an app tells me exactly when the next bus will arrive.",
+   "chunks": [
+    {
+     "en": "Now an app tells me",
+     "ko": "이제 앱이 알려 줘요"
+    },
+    {
+     "en": "exactly when the next bus",
+     "ko": "다음 버스가 정확히 언제"
+    },
+    {
+     "en": "will arrive.",
+     "ko": "도착할지"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "app",
+     "strong": true,
+     "link": false,
+     "syl": "app"
+    },
+    {
+     "w": "tells",
+     "strong": true,
+     "link": true,
+     "syl": "tells"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exactly",
+     "strong": true,
+     "link": false,
+     "syl": "act"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bus",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "will",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "arrive.",
+     "strong": true,
+     "link": false,
+     "syl": "rive"
+    }
+   ],
+   "tip": "an app은 '애냅'처럼 이어 읽어요.",
+   "start": 12095.68,
+   "end": 12099.93
+  },
+  {
+   "text": "There are also more bike lanes, so I ride to work sometimes.",
+   "chunks": [
+    {
+     "en": "There are also more bike lanes,",
+     "ko": "자전거 도로도 더 많아져서,"
+    },
+    {
+     "en": "so I ride to work",
+     "ko": "나는 타고 출근해요"
+    },
+    {
+     "en": "sometimes.",
+     "ko": "가끔"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bike",
+     "strong": true,
+     "link": false,
+     "syl": "bike"
+    },
+    {
+     "w": "lanes,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ride",
+     "strong": true,
+     "link": false,
+     "syl": "ride"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sometimes.",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    }
+   ],
+   "tip": "bike lanes는 두 단어 모두 길게 읽는 복합 명사예요.",
+   "start": 12120.8,
+   "end": 12125.13
+  },
+  {
+   "text": "My eating habits have changed a lot since I started working.",
+   "chunks": [
+    {
+     "en": "My eating habits have changed a lot",
+     "ko": "내 식습관은 많이 바뀌었어요"
+    },
+    {
+     "en": "since I started working.",
+     "ko": "내가 일하기 시작한 이후로"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eating",
+     "strong": true,
+     "link": false,
+     "syl": "eat"
+    },
+    {
+     "w": "habits",
+     "strong": true,
+     "link": true,
+     "syl": "hab"
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": true,
+     "syl": "changed"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lot",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "since",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "working.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "changed a lot은 '챈쥐덜랏'처럼 이어 읽어요.",
+   "start": 12145.2,
+   "end": 12149.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "What tells the speaker when the bus will arrive?",
+   "options": [
+    "A friend",
+    "An app",
+    "A sign"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: an app tells me exactly when the next bus will arrive"
+  },
+  {
+   "q": "Why does the speaker sometimes ride to work?",
+   "options": [
+    "There are more bike lanes",
+    "The bus is cheaper",
+    "It is faster than driving"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: more bike lanes, so I ride to work"
+  },
+  {
+   "q": "When did the speaker's eating habits start to change?",
+   "options": [
+    "After moving abroad",
+    "Since starting work",
+    "In middle school"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: since I started working"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "exactly when",
+   "ko": "정확히 언제",
+   "note": "when 앞에 exactly를 붙여 정확성을 강조해요."
+  },
+  {
+   "term": "bike lanes",
+   "ko": "자전거 도로",
+   "note": "lane은 차선, 도로 구간이에요."
+  },
+  {
+   "term": "ride to work",
+   "ko": "타고 출근하다",
+   "note": "자전거나 버스를 탈 때 ride를 써요."
+  },
+  {
+   "term": "eating habits",
+   "ko": "식습관",
+   "note": "habit은 반복되는 버릇이에요."
+  }
+ ]
+}

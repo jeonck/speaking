@@ -1,0 +1,327 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12738.56,
+  "end": 12793.29,
+  "clips": [
+   [
+    12738.56,
+    12742.57
+   ],
+   [
+    12763.2,
+    12768.01
+   ],
+   [
+    12789.44,
+    12793.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now I can book a hotel and a flight in 5 minutes.",
+   "chunks": [
+    {
+     "en": "Now I can book a hotel and a flight",
+     "ko": "이제는 호텔과 항공편을 예약할 수 있어요"
+    },
+    {
+     "en": "in 5 minutes.",
+     "ko": "5분 안에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "book",
+     "strong": true,
+     "link": false,
+     "syl": "book"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotel",
+     "strong": true,
+     "link": false,
+     "syl": "tel"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flight",
+     "strong": true,
+     "link": false,
+     "syl": "flight"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "5",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minutes.",
+     "strong": true,
+     "link": false,
+     "syl": "min"
+    }
+   ],
+   "tip": "'can book'의 can은 약하게 '큰'처럼 읽어요.",
+   "start": 12738.56,
+   "end": 12742.57
+  },
+  {
+   "text": "Still, I sometimes miss the excitement of figuring things out along the way.",
+   "chunks": [
+    {
+     "en": "Still,",
+     "ko": "그래도"
+    },
+    {
+     "en": "I sometimes miss the excitement",
+     "ko": "가끔은 설렘이 그리워요"
+    },
+    {
+     "en": "of figuring things out",
+     "ko": "직접 알아내는"
+    },
+    {
+     "en": "along the way.",
+     "ko": "그 과정에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Still,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sometimes",
+     "strong": true,
+     "link": false,
+     "syl": "times"
+    },
+    {
+     "w": "miss",
+     "strong": true,
+     "link": false,
+     "syl": "miss"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "excitement",
+     "strong": true,
+     "link": false,
+     "syl": "cite"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "figuring",
+     "strong": true,
+     "link": true,
+     "syl": "fig"
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "along",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way.",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    }
+   ],
+   "tip": "'figuring out'은 '피겨링아웃'처럼 이어 읽어요.",
+   "start": 12763.2,
+   "end": 12768.01
+  },
+  {
+   "text": "Everything is much more expensive than it used to be.",
+   "chunks": [
+    {
+     "en": "Everything is much more expensive",
+     "ko": "모든 게 훨씬 더 비싸요"
+    },
+    {
+     "en": "than it used to be.",
+     "ko": "예전보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Everything",
+     "strong": true,
+     "link": false,
+     "syl": "every"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "expensive",
+     "strong": true,
+     "link": false,
+     "syl": "pen"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'more expensive'는 expen-에 강세를 둬요.",
+   "start": 12789.44,
+   "end": 12793.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long does booking a hotel and flight take now?",
+   "options": [
+    "5 minutes",
+    "5 hours",
+    "5 days"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: book a hotel and a flight in 5 minutes"
+  },
+  {
+   "q": "What does the speaker sometimes miss?",
+   "options": [
+    "Figuring things out along the way",
+    "Paper tickets",
+    "Crowded airports"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I sometimes miss the excitement of figuring things out"
+  },
+  {
+   "q": "What is true about prices?",
+   "options": [
+    "They are higher than before",
+    "They are lower",
+    "They have not changed"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: Everything is much more expensive than it used to be"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "book a flight",
+   "ko": "항공편을 예약하다",
+   "note": "reserve보다 book이 더 일상적이에요."
+  },
+  {
+   "term": "figure out",
+   "ko": "알아내다",
+   "note": "목적어는 figure와 out 사이나 뒤에 놓아요."
+  },
+  {
+   "term": "along the way",
+   "ko": "그 과정에서",
+   "note": "여정이나 과정을 말할 때 써요."
+  },
+  {
+   "term": "much more expensive",
+   "ko": "훨씬 더 비싼",
+   "note": "much로 비교를 강조해요."
+  }
+ ]
+}

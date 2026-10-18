@@ -1,0 +1,316 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22268.16,
+  "end": 22318.89,
+  "clips": [
+   [
+    22268.16,
+    22271.93
+   ],
+   [
+    22290.48,
+    22294.49
+   ],
+   [
+    22315.12,
+    22318.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It's been ages since I last talked about this.",
+   "chunks": [
+    {
+     "en": "It's been ages",
+     "ko": "아주 오랜만이에요"
+    },
+    {
+     "en": "since I last talked",
+     "ko": "제가 마지막으로 이야기한 이후로"
+    },
+    {
+     "en": "about this.",
+     "ko": "이것에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ages",
+     "strong": true,
+     "link": false,
+     "syl": "ages"
+    },
+    {
+     "w": "since",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": true,
+     "link": false,
+     "syl": "last"
+    },
+    {
+     "w": "talked",
+     "strong": true,
+     "link": true,
+     "syl": "talked"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "this.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "talked about은 t가 이어져 '토크터바웃'처럼 들려요.",
+   "start": 22268.16,
+   "end": 22271.93
+  },
+  {
+   "text": "One detail I still remember is how quiet it was.",
+   "chunks": [
+    {
+     "en": "One detail",
+     "ko": "한 가지 세부 사항은"
+    },
+    {
+     "en": "I still remember",
+     "ko": "제가 여전히 기억하는"
+    },
+    {
+     "en": "is how quiet it was.",
+     "ko": "얼마나 조용했는지예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "detail",
+     "strong": true,
+     "link": false,
+     "syl": "tail"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "remember",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "link": true,
+     "syl": "qui"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "quiet it은 '콰이어릿'처럼 이어서 읽어요.",
+   "start": 22290.48,
+   "end": 22294.49
+  },
+  {
+   "text": "The main reason I liked it was that I could relax.",
+   "chunks": [
+    {
+     "en": "The main reason",
+     "ko": "주된 이유는"
+    },
+    {
+     "en": "I liked it",
+     "ko": "제가 그걸 좋아한"
+    },
+    {
+     "en": "was that I could relax.",
+     "ko": "제가 쉴 수 있었기 때문이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "main",
+     "strong": true,
+     "link": false,
+     "syl": "main"
+    },
+    {
+     "w": "reason",
+     "strong": true,
+     "link": true,
+     "syl": "rea"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "liked",
+     "strong": true,
+     "link": true,
+     "syl": "liked"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relax.",
+     "strong": true,
+     "link": false,
+     "syl": "lax"
+    }
+   ],
+   "tip": "reason I는 '리즌아이'처럼 n과 I를 이어서 읽어요.",
+   "start": 22315.12,
+   "end": 22318.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker still remember?",
+   "options": [
+    "How quiet it was",
+    "How crowded it was",
+    "How cold it was"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: how quiet it was"
+  },
+  {
+   "q": "How does the speaker describe the time since last talking about it?",
+   "options": [
+    "Just a few days",
+    "A very long time",
+    "About one week"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: It's been ages"
+  },
+  {
+   "q": "What was the main reason the speaker liked it?",
+   "options": [
+    "It was cheap",
+    "It was famous",
+    "The speaker could relax"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I could relax"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "It's been ages since",
+   "ko": "~한 지 오래됐다",
+   "note": "오랜만이라는 뜻이에요."
+  },
+  {
+   "term": "one detail",
+   "ko": "한 가지 세부 사항",
+   "note": "기억에 남는 점을 꺼낼 때 써요."
+  },
+  {
+   "term": "still remember",
+   "ko": "여전히 기억하다",
+   "note": "still은 '아직도'예요."
+  },
+  {
+   "term": "quiet",
+   "ko": "조용한",
+   "note": "quite와 헷갈리지 마세요."
+  },
+  {
+   "term": "main reason",
+   "ko": "주된 이유",
+   "note": "이유를 설명할 때 써요."
+  },
+  {
+   "term": "relax",
+   "ko": "쉬다, 긴장을 풀다",
+   "note": "발음은 '릴랙스'예요."
+  }
+ ]
+}

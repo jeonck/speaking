@@ -1,0 +1,295 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12668.56,
+  "end": 12719.21,
+  "clips": [
+   [
+    12668.56,
+    12672.49
+   ],
+   [
+    12691.2,
+    12695.21
+   ],
+   [
+    12715.2,
+    12719.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It's convenient, but it might make it harder to focus.",
+   "chunks": [
+    {
+     "en": "It's convenient,",
+     "ko": "편리하지만"
+    },
+    {
+     "en": "but it might make it harder",
+     "ko": "하지만 ~하게 만들 수도 있어요, 더 어렵게"
+    },
+    {
+     "en": "to focus.",
+     "ko": "집중하는 게"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "convenient,",
+     "strong": true,
+     "link": false,
+     "syl": "ve"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "might",
+     "strong": true,
+     "link": false,
+     "syl": "might"
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "harder",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "focus.",
+     "strong": true,
+     "link": false,
+     "syl": "fo"
+    }
+   ],
+   "tip": "'make it'은 '메이킷'처럼 이어 읽어요.",
+   "start": 12668.56,
+   "end": 12672.49
+  },
+  {
+   "text": "Traveling has become much easier than it was before.",
+   "chunks": [
+    {
+     "en": "Traveling has become much easier",
+     "ko": "여행은 훨씬 쉬워졌어요"
+    },
+    {
+     "en": "than it was before.",
+     "ko": "예전보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Traveling",
+     "strong": true,
+     "link": false,
+     "syl": "trav"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": true,
+     "link": false,
+     "syl": "come"
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "easier",
+     "strong": true,
+     "link": false,
+     "syl": "eas"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before.",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    }
+   ],
+   "tip": "'has become'은 '해즈 비컴'으로 부드럽게 이어요.",
+   "start": 12691.2,
+   "end": 12695.21
+  },
+  {
+   "text": "My parents had to use paper maps and guide books.",
+   "chunks": [
+    {
+     "en": "My parents had to use",
+     "ko": "부모님은 써야 했어요"
+    },
+    {
+     "en": "paper maps and guide books.",
+     "ko": "종이 지도와 안내서를"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parents",
+     "strong": true,
+     "link": false,
+     "syl": "par"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "paper",
+     "strong": true,
+     "link": false,
+     "syl": "pa"
+    },
+    {
+     "w": "maps",
+     "strong": true,
+     "link": false,
+     "syl": "maps"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "guide",
+     "strong": true,
+     "link": false,
+     "syl": "guide"
+    },
+    {
+     "w": "books.",
+     "strong": true,
+     "link": false,
+     "syl": "books"
+    }
+   ],
+   "tip": "'had to'는 '해투'처럼 줄여 읽어요.",
+   "start": 12715.2,
+   "end": 12719.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What might make it harder to focus?",
+   "options": [
+    "The convenient technology",
+    "Loud music",
+    "Paper books"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: It's convenient, but it might make it harder to focus"
+  },
+  {
+   "q": "What has become easier?",
+   "options": [
+    "Traveling",
+    "Cooking",
+    "Studying"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Traveling has become much easier"
+  },
+  {
+   "q": "What did the speaker's parents use?",
+   "options": [
+    "Paper maps and guide books",
+    "Phone apps",
+    "Taxis only"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: paper maps and guide books"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "convenient",
+   "ko": "편리한",
+   "note": "con-VE-nient, 두 번째 음절에 강세가 있어요."
+  },
+  {
+   "term": "harder to focus",
+   "ko": "집중하기 더 어려운",
+   "note": "harder 뒤에 to 동사를 붙여요."
+  },
+  {
+   "term": "guide book",
+   "ko": "여행 안내서",
+   "note": "guidebook으로 붙여 쓰기도 해요."
+  },
+  {
+   "term": "had to",
+   "ko": "~해야 했다",
+   "note": "과거의 의무를 말해요."
+  }
+ ]
+}

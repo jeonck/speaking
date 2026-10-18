@@ -1,0 +1,353 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19768.32,
+  "end": 19826.57,
+  "clips": [
+   [
+    19768.32,
+    19773.45
+   ],
+   [
+    19798.08,
+    19802.49
+   ],
+   [
+    19822.64,
+    19826.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'd like companies to make it easier to take time off when people feel burned out.",
+   "chunks": [
+    {
+     "en": "I'd like companies",
+     "ko": "저는 회사들이 ~하길 바라요"
+    },
+    {
+     "en": "to make it easier",
+     "ko": "더 쉽게 만들어 주기를"
+    },
+    {
+     "en": "to take time off",
+     "ko": "쉬는 걸"
+    },
+    {
+     "en": "when people feel burned out.",
+     "ko": "사람들이 번아웃을 느낄 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "companies",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "easier",
+     "strong": true,
+     "link": false,
+     "syl": "eas"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": true,
+     "syl": "time"
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "burned",
+     "strong": true,
+     "link": true,
+     "syl": "burn"
+    },
+    {
+     "w": "out.",
+     "strong": true,
+     "link": false,
+     "syl": "out"
+    }
+   ],
+   "tip": "make it easier는 '메이킷 이지어'처럼 이어 읽어요.",
+   "start": 19768.32,
+   "end": 19773.45
+  },
+  {
+   "text": "Saving money is important, but so is enjoying your life now.",
+   "chunks": [
+    {
+     "en": "Saving money",
+     "ko": "돈을 모으는 건"
+    },
+    {
+     "en": "is important,",
+     "ko": "중요하지만"
+    },
+    {
+     "en": "but so is enjoying your life now.",
+     "ko": "지금 삶을 즐기는 것도 그래요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Saving",
+     "strong": true,
+     "link": false,
+     "syl": "sav"
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "link": false,
+     "syl": "mon"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "important,",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "enjoying",
+     "strong": true,
+     "link": false,
+     "syl": "joy"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life",
+     "strong": true,
+     "link": false,
+     "syl": "life"
+    },
+    {
+     "w": "now.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "but so is enjoying은 '벗쏘이즈인조잉'처럼 이어 읽어요.",
+   "start": 19798.08,
+   "end": 19802.49
+  },
+  {
+   "text": "I try to save 20% of my salary every month.",
+   "chunks": [
+    {
+     "en": "I try to save 20%",
+     "ko": "저는 20%를 저축하려 해요"
+    },
+    {
+     "en": "of my salary",
+     "ko": "제 월급의"
+    },
+    {
+     "en": "every month.",
+     "ko": "매달"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "save",
+     "strong": true,
+     "link": false,
+     "syl": "save"
+    },
+    {
+     "w": "20%",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "salary",
+     "strong": true,
+     "link": false,
+     "syl": "sal"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month.",
+     "strong": true,
+     "link": false,
+     "syl": "month"
+    }
+   ],
+   "tip": "20%는 'twenty percent'로 읽고 percent의 cent에 강세가 와요.",
+   "start": 19822.64,
+   "end": 19826.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker want companies to make easier?",
+   "options": [
+    "Working from home",
+    "Taking time off when burned out",
+    "Getting a promotion"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: make it easier to take time off when people feel burned out"
+  },
+  {
+   "q": "What does the speaker say is just as important as saving money?",
+   "options": [
+    "Investing",
+    "Paying off debt",
+    "Enjoying life now"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: so is enjoying your life now"
+  },
+  {
+   "q": "How much of their salary does the speaker try to save?",
+   "options": [
+    "20%",
+    "10%",
+    "30%"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I try to save 20% of my salary"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "take time off",
+   "ko": "휴가를 내다, 쉬다",
+   "note": "take a day off처럼도 써요."
+  },
+  {
+   "term": "burned out",
+   "ko": "번아웃된, 지친",
+   "note": "일에 지쳤을 때 써요."
+  },
+  {
+   "term": "but so is",
+   "ko": "~도 마찬가지예요",
+   "note": "앞 문장과 같은 상황을 덧붙일 때 써요."
+  },
+  {
+   "term": "salary",
+   "ko": "월급, 급여",
+   "note": "연봉은 annual salary예요."
+  },
+  {
+   "term": "save 20% of",
+   "ko": "~의 20%를 저축하다",
+   "note": "save는 '저축하다'예요."
+  }
+ ]
+}

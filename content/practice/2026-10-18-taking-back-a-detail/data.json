@@ -1,0 +1,290 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21415.12,
+  "end": 21459.69,
+  "clips": [
+   [
+    21415.12,
+    21417.85
+   ],
+   [
+    21433.12,
+    21436.65
+   ],
+   [
+    21456.0,
+    21459.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Actually, let me take that back.",
+   "chunks": [
+    {
+     "en": "Actually,",
+     "ko": "사실"
+    },
+    {
+     "en": "let me take that back.",
+     "ko": "그 말은 취소할게요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Actually,",
+     "strong": true,
+     "link": false,
+     "syl": "Ac"
+    },
+    {
+     "w": "let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": true,
+     "link": false,
+     "syl": "take"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back.",
+     "strong": true,
+     "link": false,
+     "syl": "back"
+    }
+   ],
+   "tip": "take that back은 '테익댓백'처럼 빠르게 이어 말해요.",
+   "start": 21415.12,
+   "end": 21417.85
+  },
+  {
+   "text": "Wait, I think it was in the spring, not the summer.",
+   "chunks": [
+    {
+     "en": "Wait, I think",
+     "ko": "잠깐, 제 생각엔"
+    },
+    {
+     "en": "it was in the spring,",
+     "ko": "봄이었어요"
+    },
+    {
+     "en": "not the summer.",
+     "ko": "여름이 아니라"
+    }
+   ],
+   "words": [
+    {
+     "w": "Wait,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": false,
+     "syl": "think"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spring,",
+     "strong": true,
+     "link": false,
+     "syl": "spring"
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "summer.",
+     "strong": true,
+     "link": false,
+     "syl": "sum"
+    }
+   ],
+   "tip": "was in은 '워진'처럼 이어 읽어요.",
+   "start": 21433.12,
+   "end": 21436.65
+  },
+  {
+   "text": "Or rather, it was more of a hobby than a job.",
+   "chunks": [
+    {
+     "en": "Or rather,",
+     "ko": "아니 정확히는"
+    },
+    {
+     "en": "it was more of a hobby",
+     "ko": "취미에 더 가까웠어요"
+    },
+    {
+     "en": "than a job.",
+     "ko": "일이라기보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rather,",
+     "strong": true,
+     "link": false,
+     "syl": "ra"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hobby",
+     "strong": true,
+     "link": false,
+     "syl": "hob"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "job.",
+     "strong": true,
+     "link": false,
+     "syl": "job"
+    }
+   ],
+   "tip": "more of a는 '모어러버'처럼 이어 읽어요.",
+   "start": 21456.0,
+   "end": 21459.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker want to do with the earlier statement?",
+   "options": [
+    "Repeat it",
+    "Take it back",
+    "Write it down"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: let me take that back"
+  },
+  {
+   "q": "Which season does the speaker settle on?",
+   "options": [
+    "Spring",
+    "Summer",
+    "Winter"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: in the spring, not the summer"
+  },
+  {
+   "q": "What was it more of?",
+   "options": [
+    "A job",
+    "A class",
+    "A hobby"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: more of a hobby than a job"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "take that back",
+   "ko": "그 말을 취소하다",
+   "note": "말실수를 정정할 때 써요."
+  },
+  {
+   "term": "or rather",
+   "ko": "아니 정확히 말하면",
+   "note": "표현을 더 정확하게 고칠 때 써요."
+  },
+  {
+   "term": "more of a ... than",
+   "ko": "~라기보다 ~에 가까운",
+   "note": "성격을 비교할 때 써요."
+  },
+  {
+   "term": "hobby",
+   "ko": "취미",
+   "note": "job과 대비해 써요."
+  }
+ ]
+}

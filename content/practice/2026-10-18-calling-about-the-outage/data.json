@@ -1,0 +1,349 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17295.92,
+  "end": 17355.13,
+  "clips": [
+   [
+    17295.92,
+    17300.81
+   ],
+   [
+    17323.36,
+    17328.25
+   ],
+   [
+    17351.36,
+    17355.13
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "After class, I called the internet company and explained what had happened.",
+   "chunks": [
+    {
+     "en": "After class,",
+     "ko": "수업이 끝난 뒤"
+    },
+    {
+     "en": "I called the internet company",
+     "ko": "인터넷 회사에 전화해서"
+    },
+    {
+     "en": "and explained what had happened.",
+     "ko": "무슨 일이 있었는지 설명했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "After",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": true,
+     "link": false,
+     "syl": "called"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "internet",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "company",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "explained",
+     "strong": true,
+     "link": false,
+     "syl": "plained"
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happened.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and explained는 '앤덱스플레인드'처럼 이어 읽어요.",
+   "start": 17295.92,
+   "end": 17300.81
+  },
+  {
+   "text": "They said there was an outage in my area and service returned that afternoon.",
+   "chunks": [
+    {
+     "en": "They said there was an outage",
+     "ko": "그들은 서비스 중단이 있었다고 했다"
+    },
+    {
+     "en": "in my area",
+     "ko": "내 지역에"
+    },
+    {
+     "en": "and service returned that afternoon.",
+     "ko": "그리고 그날 오후에 서비스가 복구됐다"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "said",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "outage",
+     "strong": true,
+     "link": true,
+     "syl": "out"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "area",
+     "strong": true,
+     "link": false,
+     "syl": "ar"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "service",
+     "strong": true,
+     "link": false,
+     "syl": "ser"
+    },
+    {
+     "w": "returned",
+     "strong": true,
+     "link": false,
+     "syl": "turned"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "afternoon.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "outage in은 '아웃티진'처럼 이어 읽어요.",
+   "start": 17323.36,
+   "end": 17328.25
+  },
+  {
+   "text": "Now I make sure I have a backup way to get online.",
+   "chunks": [
+    {
+     "en": "Now I make sure",
+     "ko": "이제 나는 반드시 챙긴다"
+    },
+    {
+     "en": "I have a backup way",
+     "ko": "예비 방법이 있도록"
+    },
+    {
+     "en": "to get online.",
+     "ko": "인터넷에 접속할"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": true,
+     "link": false,
+     "syl": "sure"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "backup",
+     "strong": true,
+     "link": false,
+     "syl": "back"
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "online.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "get online은 '게론라인'처럼 이어 읽어요.",
+   "start": 17351.36,
+   "end": 17355.13
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who did the speaker call after class?",
+   "options": [
+    "A coworker",
+    "The internet company",
+    "The class teacher"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I called the internet company"
+  },
+  {
+   "q": "When did the service return?",
+   "options": [
+    "That afternoon",
+    "The next day",
+    "Within an hour"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: service returned that afternoon"
+  },
+  {
+   "q": "What does the speaker make sure of now?",
+   "options": [
+    "Having a new router",
+    "Paying the bill early",
+    "Having a backup way to get online"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I make sure I have a backup way to get online"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "outage",
+   "ko": "(서비스) 중단, 장애",
+   "note": "정전이나 통신 장애에 써요."
+  },
+  {
+   "term": "in my area",
+   "ko": "내 지역에서",
+   "note": "area는 '동네, 지역'이에요."
+  },
+  {
+   "term": "service returned",
+   "ko": "서비스가 복구됐다",
+   "note": "return은 '돌아오다'예요."
+  },
+  {
+   "term": "make sure",
+   "ko": "반드시 ~하도록 하다",
+   "note": "뒤에 절이 이어져요."
+  },
+  {
+   "term": "backup",
+   "ko": "예비(의), 백업",
+   "note": "a backup way는 '예비 수단'이에요."
+  }
+ ]
+}

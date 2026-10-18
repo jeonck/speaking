@@ -1,0 +1,303 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4990.64,
+  "end": 5033.93,
+  "clips": [
+   [
+    4990.64,
+    4994.57
+   ],
+   [
+    5012.72,
+    5015.77
+   ],
+   [
+    5030.8,
+    5033.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I started working out at a gym about two years ago.",
+   "chunks": [
+    {
+     "en": "I started",
+     "ko": "나는 시작했다"
+    },
+    {
+     "en": "working out",
+     "ko": "운동하기를"
+    },
+    {
+     "en": "at a gym",
+     "ko": "헬스장에서"
+    },
+    {
+     "en": "about two years ago.",
+     "ko": "약 2년 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "syl": "start",
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": true,
+     "syl": "work",
+     "link": false
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gym",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "syl": "year",
+     "link": false
+    },
+    {
+     "w": "ago.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'out at a'는 '아웃애러'처럼 이어 읽어요.",
+   "start": 4990.64,
+   "end": 4994.57
+  },
+  {
+   "text": "At first it was hard to stick with it.",
+   "chunks": [
+    {
+     "en": "At first",
+     "ko": "처음에는"
+    },
+    {
+     "en": "it was hard",
+     "ko": "힘들었다"
+    },
+    {
+     "en": "to stick with it.",
+     "ko": "계속 해 나가기가"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stick",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'with it'은 '위딧'처럼 가볍게 이어 읽어요.",
+   "start": 5012.72,
+   "end": 5015.77
+  },
+  {
+   "text": "Now I feel weird if I skip a workout.",
+   "chunks": [
+    {
+     "en": "Now I feel weird",
+     "ko": "이제 나는 이상하게 느낀다"
+    },
+    {
+     "en": "if I skip",
+     "ko": "내가 빼먹으면"
+    },
+    {
+     "en": "a workout.",
+     "ko": "운동을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "weird",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "skip",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "workout.",
+     "strong": true,
+     "syl": "work",
+     "link": false
+    }
+   ],
+   "tip": "'skip a'는 '스키파'처럼 이어 읽어요.",
+   "start": 5030.8,
+   "end": 5033.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "When did the speaker start working out at a gym?",
+   "options": [
+    "About two years ago",
+    "Last month",
+    "About ten years ago"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: about two years ago"
+  },
+  {
+   "q": "What was hard at first?",
+   "options": [
+    "Finding a gym",
+    "Sticking with it",
+    "Waking up early"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: it was hard to stick with it"
+  },
+  {
+   "q": "How does the speaker feel now if a workout is skipped?",
+   "options": [
+    "Relieved",
+    "Proud",
+    "Weird"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I feel weird if I skip a workout"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "work out",
+   "ko": "운동하다",
+   "note": "work out은 헬스장 운동을 말할 때 자주 써요."
+  },
+  {
+   "term": "at first",
+   "ko": "처음에는",
+   "note": "now와 짝지어 변화를 말해요."
+  },
+  {
+   "term": "stick with it",
+   "ko": "꾸준히 계속하다",
+   "note": "습관을 이어 갈 때 쓰는 표현이에요."
+  },
+  {
+   "term": "weird",
+   "ko": "이상한",
+   "note": "feel weird로 어색한 기분을 말해요."
+  },
+  {
+   "term": "skip",
+   "ko": "거르다, 빼먹다",
+   "note": "skip a workout처럼 목적어와 함께 써요."
+  }
+ ]
+}

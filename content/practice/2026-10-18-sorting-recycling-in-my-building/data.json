@@ -1,0 +1,314 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17375.04,
+  "end": 17432.65,
+  "clips": [
+   [
+    17375.04,
+    17380.17
+   ],
+   [
+    17403.76,
+    17407.85
+   ],
+   [
+    17428.64,
+    17432.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "In my apartment building, we separate our recycling from regular trash.",
+   "chunks": [
+    {
+     "en": "In my apartment building,",
+     "ko": "내 아파트 건물에서는"
+    },
+    {
+     "en": "we separate our recycling",
+     "ko": "우리는 분리해요 재활용품을"
+    },
+    {
+     "en": "from regular trash.",
+     "ko": "일반 쓰레기와"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "apartment",
+     "strong": true,
+     "link": false,
+     "syl": "part"
+    },
+    {
+     "w": "building,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "separate",
+     "strong": true,
+     "link": true,
+     "syl": "sep"
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recycling",
+     "strong": true,
+     "link": false,
+     "syl": "cy"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "regular",
+     "strong": true,
+     "link": false,
+     "syl": "reg"
+    },
+    {
+     "w": "trash.",
+     "strong": true,
+     "link": false,
+     "syl": "trash"
+    }
+   ],
+   "tip": "separate our는 '세퍼레이라워'처럼 t와 뒤 모음이 이어져 들려요.",
+   "start": 17375.04,
+   "end": 17380.17
+  },
+  {
+   "text": "I usually take everything downstairs on Sunday evening.",
+   "chunks": [
+    {
+     "en": "I usually take everything downstairs",
+     "ko": "저는 보통 다 가져가요 아래층으로"
+    },
+    {
+     "en": "on Sunday evening.",
+     "ko": "일요일 저녁에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": true,
+     "link": false,
+     "syl": "take"
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": false,
+     "syl": "every"
+    },
+    {
+     "w": "downstairs",
+     "strong": true,
+     "link": false,
+     "syl": "down"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sunday",
+     "strong": true,
+     "link": false,
+     "syl": "Sun"
+    },
+    {
+     "w": "evening.",
+     "strong": true,
+     "link": false,
+     "syl": "eve"
+    }
+   ],
+   "tip": "usually는 '유주얼리'로 읽고, everything은 '에브리씽'으로 가운데 모음을 줄여요.",
+   "start": 17403.76,
+   "end": 17407.85
+  },
+  {
+   "text": "When I first moved in, I wasn't sure which bins to use.",
+   "chunks": [
+    {
+     "en": "When I first moved in,",
+     "ko": "처음 이사 왔을 때"
+    },
+    {
+     "en": "I wasn't sure",
+     "ko": "확신이 없었어요"
+    },
+    {
+     "en": "which bins to use.",
+     "ko": "어떤 통을 써야 할지"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moved",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wasn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": true,
+     "link": false,
+     "syl": "sure"
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bins",
+     "strong": true,
+     "link": false,
+     "syl": "bins"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use.",
+     "strong": true,
+     "link": false,
+     "syl": "use"
+    }
+   ],
+   "tip": "moved in은 '무브딘'처럼 d와 in이 이어져요.",
+   "start": 17428.64,
+   "end": 17432.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "When does the speaker usually take the recycling downstairs?",
+   "options": [
+    "On Sunday evening",
+    "On Saturday morning",
+    "On Monday night"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: on Sunday evening"
+  },
+  {
+   "q": "What is separated from regular trash?",
+   "options": [
+    "Old clothes",
+    "Recycling",
+    "Food scraps"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: we separate our recycling from regular trash"
+  },
+  {
+   "q": "What was the speaker unsure about when first moving in?",
+   "options": [
+    "Where the stairs were",
+    "When to take out trash",
+    "Which bins to use"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I wasn't sure which bins to use"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "separate",
+   "ko": "분리하다",
+   "note": "동사는 '세퍼레이트', 형용사는 '세퍼럿'으로 발음이 달라요."
+  },
+  {
+   "term": "recycling",
+   "ko": "재활용",
+   "note": "trash(쓰레기)와 짝으로 자주 써요."
+  },
+  {
+   "term": "regular trash",
+   "ko": "일반 쓰레기",
+   "note": "regular는 '보통의'라는 뜻이에요."
+  },
+  {
+   "term": "moved in",
+   "ko": "이사 들어오다",
+   "note": "moved out은 이사 나가다예요."
+  },
+  {
+   "term": "bins",
+   "ko": "(쓰레기)통",
+   "note": "recycling bin처럼 분리수거통을 뜻해요."
+  }
+ ]
+}

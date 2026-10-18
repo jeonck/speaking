@@ -1,0 +1,331 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9986.64,
+  "end": 10041.93,
+  "clips": [
+   [
+    9986.64,
+    9990.81
+   ],
+   [
+    10011.52,
+    10015.93
+   ],
+   [
+    10037.68,
+    10041.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The power went out and we had no electricity for 2 days.",
+   "chunks": [
+    {
+     "en": "The power went out",
+     "ko": "전기가 나갔고"
+    },
+    {
+     "en": "and we had no electricity",
+     "ko": "전기가 없었다"
+    },
+    {
+     "en": "for 2 days.",
+     "ko": "이틀 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "power",
+     "strong": true,
+     "syl": "pow",
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "electricity",
+     "strong": true,
+     "syl": "tric",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days.",
+     "strong": true,
+     "syl": "days",
+     "link": false
+    }
+   ],
+   "tip": "went out and는 '웬타웃앤'처럼 이어 읽고 electricity는 tric에 강세를 줘요.",
+   "start": 9986.64,
+   "end": 9990.81
+  },
+  {
+   "text": "My family sat around candles and played board games all night.",
+   "chunks": [
+    {
+     "en": "My family sat around candles",
+     "ko": "가족이 양초 주위에 앉아"
+    },
+    {
+     "en": "and played board games",
+     "ko": "보드게임을 하며"
+    },
+    {
+     "en": "all night.",
+     "ko": "밤새도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family",
+     "strong": true,
+     "syl": "fam",
+     "link": false
+    },
+    {
+     "w": "sat",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "candles",
+     "strong": true,
+     "syl": "can",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "played",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "board",
+     "strong": true,
+     "syl": "board",
+     "link": false
+    },
+    {
+     "w": "games",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night.",
+     "strong": true,
+     "syl": "night",
+     "link": false
+    }
+   ],
+   "tip": "sat around는 '새터라운드'처럼 이어 읽어요.",
+   "start": 10011.52,
+   "end": 10015.93
+  },
+  {
+   "text": "Without our phones, we actually talked to each other for hours.",
+   "chunks": [
+    {
+     "en": "Without our phones,",
+     "ko": "휴대폰 없이"
+    },
+    {
+     "en": "we actually talked",
+     "ko": "우리는 실제로 이야기를 나눴다"
+    },
+    {
+     "en": "to each other for hours.",
+     "ko": "서로 몇 시간이나"
+    }
+   ],
+   "words": [
+    {
+     "w": "Without",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phones,",
+     "strong": true,
+     "syl": "phones",
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "actually",
+     "strong": true,
+     "syl": "ac",
+     "link": false
+    },
+    {
+     "w": "talked",
+     "strong": true,
+     "syl": "talked",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hours.",
+     "strong": true,
+     "syl": "hours",
+     "link": false
+    }
+   ],
+   "tip": "each other는 '이처더'처럼 이어 읽어요.",
+   "start": 10037.68,
+   "end": 10041.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long was the power out?",
+   "options": [
+    "One day",
+    "Two days",
+    "A week"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: no electricity for 2 days"
+  },
+  {
+   "q": "What did the family play at night?",
+   "options": [
+    "Board games",
+    "Video games",
+    "Card tricks on a phone"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: played board games all night"
+  },
+  {
+   "q": "Why did the family talk for hours?",
+   "options": [
+    "The TV was broken",
+    "They were tired of games",
+    "They had no phones to use"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: Without our phones, we actually talked"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "the power went out",
+   "ko": "정전이 됐다",
+   "note": "전기가 끊겼을 때 쓰는 자연스러운 표현이에요."
+  },
+  {
+   "term": "electricity",
+   "ko": "전기",
+   "note": "강세는 tric에 있어요."
+  },
+  {
+   "term": "board games",
+   "ko": "보드게임",
+   "note": "board는 '보드'가 아니라 [bɔːrd]로 길게 읽어요."
+  },
+  {
+   "term": "each other",
+   "ko": "서로",
+   "note": "each other는 한 덩어리처럼 말해요."
+  },
+  {
+   "term": "for hours",
+   "ko": "몇 시간 동안",
+   "note": "긴 시간을 강조할 때 써요."
+  }
+ ]
+}

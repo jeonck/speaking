@@ -1,0 +1,307 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22922.32,
+  "end": 22972.97,
+  "clips": [
+   [
+    22922.32,
+    22926.57
+   ],
+   [
+    22946.8,
+    22950.73
+   ],
+   [
+    22969.6,
+    22972.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The best example I can think of is a trip I took last summer.",
+   "chunks": [
+    {
+     "en": "The best example I can think of",
+     "ko": "제가 떠올릴 수 있는 가장 좋은 예는"
+    },
+    {
+     "en": "is a trip I took",
+     "ko": "제가 다녀온 여행이에요"
+    },
+    {
+     "en": "last summer.",
+     "ko": "지난여름에"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "best",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "example",
+     "strong": true,
+     "link": true,
+     "syl": "xam"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "summer.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'think of'는 k와 of가 이어져 '씽콥'처럼 들려요.",
+   "start": 22922.32,
+   "end": 22926.57
+  },
+  {
+   "text": "As I mentioned earlier, I love being outdoors.",
+   "chunks": [
+    {
+     "en": "As I mentioned earlier,",
+     "ko": "앞서 말씀드렸듯이"
+    },
+    {
+     "en": "I love being outdoors.",
+     "ko": "저는 야외에 있는 걸 정말 좋아해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mentioned",
+     "strong": true,
+     "link": true,
+     "syl": "men"
+    },
+    {
+     "w": "earlier,",
+     "strong": true,
+     "link": false,
+     "syl": "ear"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "outdoors.",
+     "strong": true,
+     "link": false,
+     "syl": "out"
+    }
+   ],
+   "tip": "'As I'는 '애자이'처럼 이어 읽어요.",
+   "start": 22946.8,
+   "end": 22950.73
+  },
+  {
+   "text": "Like I said, I'm a big fan of spicy food.",
+   "chunks": [
+    {
+     "en": "Like I said,",
+     "ko": "말했듯이"
+    },
+    {
+     "en": "I'm a big fan of spicy food.",
+     "ko": "저는 매운 음식의 열렬한 팬이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Like",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "said,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "fan",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spicy",
+     "strong": true,
+     "link": false,
+     "syl": "spi"
+    },
+    {
+     "w": "food.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'fan of'는 '패너브'처럼 이어 읽어요.",
+   "start": 22969.6,
+   "end": 22972.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "When did the speaker take the trip?",
+   "options": [
+    "Last winter",
+    "Last summer",
+    "Last month"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a trip I took last summer"
+  },
+  {
+   "q": "What does the speaker love?",
+   "options": [
+    "Being outdoors",
+    "Staying home",
+    "Shopping"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I love being outdoors"
+  },
+  {
+   "q": "What kind of food is the speaker a big fan of?",
+   "options": [
+    "Sweet food",
+    "Cold food",
+    "Spicy food"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: a big fan of spicy food"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "the best example I can think of",
+   "ko": "제가 떠올릴 수 있는 가장 좋은 예",
+   "note": "예시를 소개할 때 써요."
+  },
+  {
+   "term": "as I mentioned earlier",
+   "ko": "앞서 말했듯이",
+   "note": "이미 한 말을 다시 언급해요."
+  },
+  {
+   "term": "outdoors",
+   "ko": "야외에서",
+   "note": "being outdoors로 자주 써요."
+  },
+  {
+   "term": "like I said",
+   "ko": "말했듯이",
+   "note": "as I mentioned와 비슷해요."
+  },
+  {
+   "term": "a big fan of",
+   "ko": "~의 열렬한 팬",
+   "note": "좋아하는 대상을 강조해요."
+  }
+ ]
+}

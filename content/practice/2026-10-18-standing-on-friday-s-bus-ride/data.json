@@ -1,0 +1,333 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20650.56,
+  "end": 20702.65,
+  "clips": [
+   [
+    20650.56,
+    20654.41
+   ],
+   [
+    20673.68,
+    20677.85
+   ],
+   [
+    20698.24,
+    20702.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Last Friday, I had to stand for the whole ride home.",
+   "chunks": [
+    {
+     "en": "Last Friday,",
+     "ko": "지난 금요일에"
+    },
+    {
+     "en": "I had to stand",
+     "ko": "나는 서 있어야 했다"
+    },
+    {
+     "en": "for the whole ride home.",
+     "ko": "집에 오는 내내"
+    }
+   ],
+   "words": [
+    {
+     "w": "Last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Friday,",
+     "strong": true,
+     "link": false,
+     "syl": "Fri"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stand",
+     "strong": true,
+     "link": false,
+     "syl": "stand"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whole",
+     "strong": true,
+     "link": false,
+     "syl": "whole"
+    },
+    {
+     "w": "ride",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    }
+   ],
+   "tip": "had to는 '핸투'처럼 연결해 읽어요. whole ride home에서 세 단어를 또렷하게 강조해요.",
+   "start": 20650.56,
+   "end": 20654.41
+  },
+  {
+   "text": "Even so, I got home sooner than I would have by car.",
+   "chunks": [
+    {
+     "en": "Even so,",
+     "ko": "그래도"
+    },
+    {
+     "en": "I got home sooner",
+     "ko": "나는 더 일찍 집에 도착했다"
+    },
+    {
+     "en": "than I would have by car.",
+     "ko": "차로 갔을 때보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Even",
+     "strong": true,
+     "link": false,
+     "syl": "E"
+    },
+    {
+     "w": "so,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "sooner",
+     "strong": true,
+     "link": false,
+     "syl": "soon"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car.",
+     "strong": true,
+     "link": false,
+     "syl": "car"
+    }
+   ],
+   "tip": "would have는 '우드브'로 줄여서 읽어요. sooner는 'soon'을 길게 강조해요.",
+   "start": 20673.68,
+   "end": 20677.85
+  },
+  {
+   "text": "That trip reminded me why I usually leave my car at home.",
+   "chunks": [
+    {
+     "en": "That trip reminded me",
+     "ko": "그 이동은 나에게 상기시켜 주었다"
+    },
+    {
+     "en": "why I usually leave my car at home.",
+     "ko": "내가 왜 보통 차를 집에 두는지"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "reminded",
+     "strong": true,
+     "link": false,
+     "syl": "mind"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "why",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "leave",
+     "strong": true,
+     "link": false,
+     "syl": "leave"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car",
+     "strong": true,
+     "link": false,
+     "syl": "car"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "home.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "usually는 '유주얼리'로 첫 음절 'u'에 강세를 둬요. at home은 '앳홈'처럼 이어져요.",
+   "start": 20698.24,
+   "end": 20702.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "When did the speaker have to stand on the ride home?",
+   "options": [
+    "Last Friday",
+    "Last Monday",
+    "Yesterday"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Last Friday, I had to stand"
+  },
+  {
+   "q": "How did the speaker's arrival compare with going by car?",
+   "options": [
+    "Much later",
+    "About the same",
+    "Sooner"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I got home sooner than I would have by car"
+  },
+  {
+   "q": "What did the trip remind the speaker of?",
+   "options": [
+    "Why the speaker usually leaves the car at home",
+    "Why buses are expensive",
+    "Why the speaker needs a new car"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: why I usually leave my car at home"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "stand for the whole ride",
+   "ko": "타는 내내 서 있다",
+   "note": "for the whole + 명사는 '~ 내내'예요."
+  },
+  {
+   "term": "even so",
+   "ko": "그렇다 해도",
+   "note": "앞 내용에 반하는 말을 이을 때 써요."
+  },
+  {
+   "term": "sooner than",
+   "ko": "~보다 더 일찍",
+   "note": "early의 비교급 sooner는 시간에 써요."
+  },
+  {
+   "term": "would have",
+   "ko": "(~했다면) ~했을 것이다",
+   "note": "발음은 '우드브'로 줄어요."
+  },
+  {
+   "term": "remind me why",
+   "ko": "내가 왜 ~인지 상기시키다",
+   "note": "remind + 사람 + 의문사절이에요."
+  }
+ ]
+}

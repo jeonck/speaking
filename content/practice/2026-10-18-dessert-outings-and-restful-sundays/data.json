@@ -1,0 +1,283 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1110.72,
+  "end": 1158.25,
+  "clips": [
+   [
+    1110.72,
+    1114.65
+   ],
+   [
+    1134.24,
+    1137.69
+   ],
+   [
+    1154.64,
+    1158.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "We usually grab dinner and then go somewhere for dessert.",
+   "chunks": [
+    {
+     "en": "We usually grab dinner",
+     "ko": "우리는 보통 저녁을 간단히 먹는다"
+    },
+    {
+     "en": "and then go somewhere",
+     "ko": "그리고 어딘가로 간다"
+    },
+    {
+     "en": "for dessert.",
+     "ko": "디저트를 먹으러"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "syl": "u",
+     "link": false
+    },
+    {
+     "w": "grab",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "dinner",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "somewhere",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dessert.",
+     "strong": true,
+     "syl": "sert",
+     "link": false
+    }
+   ],
+   "tip": "dinner and는 '디너랜'처럼 이어서 읽어요.",
+   "start": 1110.72,
+   "end": 1114.65
+  },
+  {
+   "text": "Sundays are my day to rest and recharge.",
+   "chunks": [
+    {
+     "en": "Sundays are my day",
+     "ko": "일요일은 나의 날이다"
+    },
+    {
+     "en": "to rest and recharge.",
+     "ko": "쉬고 재충전하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sundays",
+     "strong": true,
+     "syl": "Sun",
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rest",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recharge.",
+     "strong": true,
+     "syl": "charge",
+     "link": false
+    }
+   ],
+   "tip": "rest and는 '레스탠'처럼 d가 거의 약해져요.",
+   "start": 1134.24,
+   "end": 1137.69
+  },
+  {
+   "text": "I try to keep my Sundays as free as possible.",
+   "chunks": [
+    {
+     "en": "I try to keep my Sundays",
+     "ko": "나는 일요일을 유지하려고 한다"
+    },
+    {
+     "en": "as free as possible.",
+     "ko": "가능한 한 비워 둔 채로"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Sundays",
+     "strong": true,
+     "syl": "Sun",
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "free",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possible.",
+     "strong": true,
+     "syl": "poss",
+     "link": false
+    }
+   ],
+   "tip": "as free as possible은 '애즈프리애즈파서블'로 리듬 있게 읽어요.",
+   "start": 1154.64,
+   "end": 1158.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker usually do after grabbing dinner?",
+   "options": [
+    "Goes home",
+    "Goes somewhere for dessert",
+    "Watches a movie"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: go somewhere for dessert"
+  },
+  {
+   "q": "What are Sundays for, according to the speaker?",
+   "options": [
+    "Working",
+    "Cleaning",
+    "Resting and recharging"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: my day to rest and recharge"
+  },
+  {
+   "q": "How does the speaker try to keep Sundays?",
+   "options": [
+    "As free as possible",
+    "As busy as possible",
+    "As early as possible"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: keep my Sundays as free as possible"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "grab dinner",
+   "ko": "저녁을 간단히 먹다",
+   "note": "grab은 '대충 빨리 먹다'의 캐주얼한 느낌이에요."
+  },
+  {
+   "term": "recharge",
+   "ko": "재충전하다",
+   "note": "사람에게도 배터리처럼 쓸 수 있어요."
+  },
+  {
+   "term": "as ~ as possible",
+   "ko": "가능한 한 ~하게",
+   "note": "as 사이에 형용사를 넣어요."
+  },
+  {
+   "term": "keep ~ free",
+   "ko": "~를 비워 두다",
+   "note": "일정이 없는 상태를 유지한다는 뜻이에요."
+  }
+ ]
+}

@@ -1,0 +1,289 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15273.36,
+  "end": 15321.21,
+  "clips": [
+   [
+    15273.36,
+    15278.01
+   ],
+   [
+    15297.28,
+    15300.81
+   ],
+   [
+    15317.76,
+    15321.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Another option is to get store credit instead of cash.",
+   "chunks": [
+    {
+     "en": "Another option is",
+     "ko": "또 다른 선택지는"
+    },
+    {
+     "en": "to get store credit",
+     "ko": "상점 적립금을 받는 것"
+    },
+    {
+     "en": "instead of cash.",
+     "ko": "현금 대신"
+    }
+   ],
+   "words": [
+    {
+     "w": "Another",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "option",
+     "strong": true,
+     "link": true,
+     "syl": "op"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "store",
+     "strong": true,
+     "link": false,
+     "syl": "store"
+    },
+    {
+     "w": "credit",
+     "strong": true,
+     "link": false,
+     "syl": "cred"
+    },
+    {
+     "w": "instead",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cash.",
+     "strong": true,
+     "link": false,
+     "syl": "cash"
+    }
+   ],
+   "tip": "instead of는 '인스테덥'처럼 이어 읽어요.",
+   "start": 15273.36,
+   "end": 15278.01
+  },
+  {
+   "text": "If neither works, I'd prefer a full refund.",
+   "chunks": [
+    {
+     "en": "If neither works,",
+     "ko": "둘 다 안 되면"
+    },
+    {
+     "en": "I'd prefer a full refund.",
+     "ko": "전액 환불을 선호해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neither",
+     "strong": true,
+     "link": false,
+     "syl": "nei"
+    },
+    {
+     "w": "works,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prefer",
+     "strong": true,
+     "link": true,
+     "syl": "fer"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "full",
+     "strong": true,
+     "link": false,
+     "syl": "full"
+    },
+    {
+     "w": "refund.",
+     "strong": true,
+     "link": false,
+     "syl": "fund"
+    }
+   ],
+   "tip": "prefer a는 '프리퍼러'처럼 이어 읽어요.",
+   "start": 15297.28,
+   "end": 15300.81
+  },
+  {
+   "text": "I can bring the item back to the store tomorrow.",
+   "chunks": [
+    {
+     "en": "I can bring the item back",
+     "ko": "그 물건을 가져올 수 있어요"
+    },
+    {
+     "en": "to the store tomorrow.",
+     "ko": "내일 매장에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": true,
+     "link": false,
+     "syl": "bring"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "item",
+     "strong": true,
+     "link": false,
+     "syl": "item"
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "store",
+     "strong": true,
+     "link": false,
+     "syl": "store"
+    },
+    {
+     "w": "tomorrow.",
+     "strong": true,
+     "link": false,
+     "syl": "mor"
+    }
+   ],
+   "tip": "item은 첫 음절 I에 강세를 둬요.",
+   "start": 15317.76,
+   "end": 15321.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the second option?",
+   "options": [
+    "A repair",
+    "Store credit instead of cash",
+    "A coupon"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: get store credit instead of cash"
+  },
+  {
+   "q": "What does the speaker prefer if neither option works?",
+   "options": [
+    "A new item",
+    "A free repair",
+    "A full refund"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I'd prefer a full refund."
+  },
+  {
+   "q": "When can the speaker bring the item back?",
+   "options": [
+    "Tomorrow",
+    "Today",
+    "Next week"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: bring the item back to the store tomorrow"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "store credit",
+   "ko": "매장 적립금",
+   "note": "현금 대신 받는 상점 전용 금액이에요."
+  },
+  {
+   "term": "instead of",
+   "ko": "~ 대신에",
+   "note": "뒤에는 명사나 -ing가 와요."
+  },
+  {
+   "term": "full refund",
+   "ko": "전액 환불",
+   "note": "partial refund는 부분 환불이에요."
+  },
+  {
+   "term": "bring back",
+   "ko": "도로 가져오다",
+   "note": "물건을 반품할 때 자주 써요."
+  }
+ ]
+}

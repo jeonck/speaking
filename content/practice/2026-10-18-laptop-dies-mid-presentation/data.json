@@ -1,0 +1,314 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9844.96,
+  "end": 9896.25,
+  "clips": [
+   [
+    9844.96,
+    9849.05
+   ],
+   [
+    9869.84,
+    9873.61
+   ],
+   [
+    9892.08,
+    9896.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Right in the middle of it, my laptop suddenly shut down.",
+   "chunks": [
+    {
+     "en": "Right in the middle of it,",
+     "ko": "한창 그 한가운데에서"
+    },
+    {
+     "en": "my laptop suddenly shut down.",
+     "ko": "내 노트북이 갑자기 꺼졌다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Right",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "middle",
+     "strong": true,
+     "syl": "mid",
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laptop",
+     "strong": true,
+     "syl": "lap",
+     "link": false
+    },
+    {
+     "w": "suddenly",
+     "strong": true,
+     "syl": "sud",
+     "link": false
+    },
+    {
+     "w": "shut",
+     "strong": true,
+     "syl": "shut",
+     "link": false
+    },
+    {
+     "w": "down.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "middle of it은 '미들오빗'처럼 이어 읽고, laptop과 suddenly에 강세를 주세요.",
+   "start": 9844.96,
+   "end": 9849.05
+  },
+  {
+   "text": "My mind went blank and the room got really quiet.",
+   "chunks": [
+    {
+     "en": "My mind went blank",
+     "ko": "머릿속이 하얘졌고"
+    },
+    {
+     "en": "and the room got really quiet.",
+     "ko": "방이 정말 조용해졌다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mind",
+     "strong": true,
+     "syl": "mind",
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "blank",
+     "strong": true,
+     "syl": "blank",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room",
+     "strong": true,
+     "syl": "room",
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet.",
+     "strong": true,
+     "syl": "qui",
+     "link": false
+    }
+   ],
+   "tip": "blank and는 '블랭캔'처럼 이어 읽어요.",
+   "start": 9869.84,
+   "end": 9873.61
+  },
+  {
+   "text": "I took a deep breath and kept going without the slides.",
+   "chunks": [
+    {
+     "en": "I took a deep breath",
+     "ko": "심호흡을 했고"
+    },
+    {
+     "en": "and kept going",
+     "ko": "계속 이어갔다"
+    },
+    {
+     "en": "without the slides.",
+     "ko": "슬라이드 없이"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deep",
+     "strong": true,
+     "syl": "deep",
+     "link": false
+    },
+    {
+     "w": "breath",
+     "strong": true,
+     "syl": "breath",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kept",
+     "strong": true,
+     "syl": "kept",
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "without",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "slides.",
+     "strong": true,
+     "syl": "slides",
+     "link": false
+    }
+   ],
+   "tip": "took a, breath and는 '투커', '브레썬'처럼 이어 읽어요.",
+   "start": 9892.08,
+   "end": 9896.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happened to the speaker's laptop?",
+   "options": [
+    "It was stolen",
+    "It shut down",
+    "It ran out of battery"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: my laptop suddenly shut down"
+  },
+  {
+   "q": "How did the room feel after the speaker's mind went blank?",
+   "options": [
+    "Very noisy",
+    "Really quiet",
+    "Very hot"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: the room got really quiet"
+  },
+  {
+   "q": "How did the speaker finish the presentation?",
+   "options": [
+    "Without the slides",
+    "With a new laptop",
+    "By stopping early"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: kept going without the slides"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "shut down",
+   "ko": "(기계가) 꺼지다",
+   "note": "컴퓨터가 갑자기 꺼질 때 쓰는 표현이에요."
+  },
+  {
+   "term": "went blank",
+   "ko": "머릿속이 하얘졌다",
+   "note": "my mind went blank는 말이 안 떠오를 때 써요."
+  },
+  {
+   "term": "took a deep breath",
+   "ko": "심호흡을 했다",
+   "note": "긴장될 때 마음을 가다듬는 장면에 써요."
+  },
+  {
+   "term": "kept going",
+   "ko": "계속 이어갔다",
+   "note": "keep + -ing 형태로 계속함을 나타내요."
+  },
+  {
+   "term": "right in the middle of",
+   "ko": "한창 ~하는 도중에",
+   "note": "방해가 생긴 순간을 말할 때 써요."
+  }
+ ]
+}

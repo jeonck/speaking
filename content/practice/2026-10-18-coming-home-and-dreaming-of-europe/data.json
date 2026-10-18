@@ -1,0 +1,292 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8471.52,
+  "end": 8516.97,
+  "clips": [
+   [
+    8471.52,
+    8475.53
+   ],
+   [
+    8494.16,
+    8497.13
+   ],
+   [
+    8513.44,
+    8516.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Coming home after a long trip always feels good, too.",
+   "chunks": [
+    {
+     "en": "Coming home",
+     "ko": "집에 오는 것은"
+    },
+    {
+     "en": "after a long trip",
+     "ko": "긴 여행 뒤에"
+    },
+    {
+     "en": "always feels good, too.",
+     "ko": "언제나 기분이 좋아요, 역시"
+    }
+   ],
+   "words": [
+    {
+     "w": "Coming",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    },
+    {
+     "w": "trip",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "feels",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good,",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    },
+    {
+     "w": "too.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "after a는 '애프터러'처럼 이어 읽어요. always는 첫 음절 al에 강세를 줘요.",
+   "start": 8471.52,
+   "end": 8475.53
+  },
+  {
+   "text": "There's no place like my own bed.",
+   "chunks": [
+    {
+     "en": "There's no place",
+     "ko": "어떤 곳도 없어요"
+    },
+    {
+     "en": "like my own bed.",
+     "ko": "제 침대 같은"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "no",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": false,
+     "syl": "place"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own",
+     "strong": true,
+     "link": false,
+     "syl": "own"
+    },
+    {
+     "w": "bed.",
+     "strong": true,
+     "link": false,
+     "syl": "bed"
+    }
+   ],
+   "tip": "no place like는 '노 플레이스 라이크'로 또렷하게, own bed는 천천히 읽어요.",
+   "start": 8494.16,
+   "end": 8497.13
+  },
+  {
+   "text": "My dream is to travel around Europe for a month.",
+   "chunks": [
+    {
+     "en": "My dream is to travel",
+     "ko": "제 꿈은 여행하는 거예요"
+    },
+    {
+     "en": "around Europe",
+     "ko": "유럽 곳곳을"
+    },
+    {
+     "en": "for a month.",
+     "ko": "한 달 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dream",
+     "strong": true,
+     "link": true,
+     "syl": "dream"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel",
+     "strong": true,
+     "link": false,
+     "syl": "trav"
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "Europe",
+     "strong": true,
+     "link": false,
+     "syl": "Eur"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "month.",
+     "strong": true,
+     "link": false,
+     "syl": "month"
+    }
+   ],
+   "tip": "dream is는 '드리미즈', around Europe은 '어라운드유럽'처럼 이어요. Europe은 Eur에 강세예요.",
+   "start": 8513.44,
+   "end": 8516.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does coming home after a long trip feel?",
+   "options": [
+    "Always good",
+    "A bit boring",
+    "Stressful"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Coming home after a long trip always feels good."
+  },
+  {
+   "q": "What is there no place like, according to the speaker?",
+   "options": [
+    "A hotel room",
+    "The speaker's own bed",
+    "A quiet cafe"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: There's no place like my own bed."
+  },
+  {
+   "q": "How long does the speaker want to travel around Europe?",
+   "options": [
+    "A week",
+    "Two weeks",
+    "A month"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: travel around Europe for a month."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "There's no place like ~",
+   "ko": "~만한 곳은 없다",
+   "note": "There's no place like home 같은 관용 표현이에요."
+  },
+  {
+   "term": "feel good",
+   "ko": "기분이 좋다",
+   "note": "feels는 주어가 Coming home이라 3인칭 단수예요."
+  },
+  {
+   "term": "my dream is to ~",
+   "ko": "제 꿈은 ~하는 거예요",
+   "note": "to 뒤에는 동사원형을 써요."
+  },
+  {
+   "term": "around Europe",
+   "ko": "유럽 곳곳",
+   "note": "around는 '여기저기 돌아다니며'를 뜻해요."
+  },
+  {
+   "term": "for a month",
+   "ko": "한 달 동안",
+   "note": "기간 앞에는 for를 써요."
+  }
+ ]
+}

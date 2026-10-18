@@ -1,0 +1,299 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16424.08,
+  "end": 16474.81,
+  "clips": [
+   [
+    16424.08,
+    16428.65
+   ],
+   [
+    16448.48,
+    16452.49
+   ],
+   [
+    16471.44,
+    16474.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "They looked great in the photos and the reviews were mostly positive.",
+   "chunks": [
+    {
+     "en": "They looked great in the photos",
+     "ko": "사진에서는 멋져 보였어요"
+    },
+    {
+     "en": "and the reviews were mostly positive.",
+     "ko": "리뷰도 대체로 긍정적이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "looked",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": true,
+     "syl": "great"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "photos",
+     "strong": true,
+     "link": false,
+     "syl": "pho"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reviews",
+     "strong": true,
+     "link": false,
+     "syl": "views"
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mostly",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "positive.",
+     "strong": true,
+     "link": false,
+     "syl": "pos"
+    }
+   ],
+   "tip": "positive는 POS-i-tive, 첫 음절에 강세가 와요.",
+   "start": 16424.08,
+   "end": 16428.65
+  },
+  {
+   "text": "I checked the size chart before placing the order.",
+   "chunks": [
+    {
+     "en": "I checked the size chart",
+     "ko": "사이즈표를 확인했어요"
+    },
+    {
+     "en": "before placing the order.",
+     "ko": "주문하기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "checked",
+     "strong": true,
+     "link": false,
+     "syl": "checked"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "size",
+     "strong": true,
+     "link": false,
+     "syl": "size"
+    },
+    {
+     "w": "chart",
+     "strong": true,
+     "link": false,
+     "syl": "chart"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "placing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "order.",
+     "strong": true,
+     "link": false,
+     "syl": "order"
+    }
+   ],
+   "tip": "chart는 '차트'가 아니라 '챠트'에 가깝게 읽어요.",
+   "start": 16448.48,
+   "end": 16452.49
+  },
+  {
+   "text": "But when the shoes arrived, they were too tight.",
+   "chunks": [
+    {
+     "en": "But when the shoes arrived,",
+     "ko": "신발이 도착했을 때"
+    },
+    {
+     "en": "they were too tight.",
+     "ko": "너무 꽉 꼈어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shoes",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "arrived,",
+     "strong": true,
+     "link": false,
+     "syl": "rived"
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": true,
+     "link": false,
+     "syl": "too"
+    },
+    {
+     "w": "tight.",
+     "strong": true,
+     "link": false,
+     "syl": "tight"
+    }
+   ],
+   "tip": "too tight에서 too를 길고 세게 읽어 '너무'를 강조해요.",
+   "start": 16471.44,
+   "end": 16474.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker check before ordering?",
+   "options": [
+    "The delivery date",
+    "The store hours",
+    "The size chart"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I checked the size chart before placing the order"
+  },
+  {
+   "q": "How were the reviews?",
+   "options": [
+    "Mostly positive",
+    "Mostly negative",
+    "There were none"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: the reviews were mostly positive"
+  },
+  {
+   "q": "What was wrong when the shoes arrived?",
+   "options": [
+    "They were the wrong color",
+    "They were too tight",
+    "They were too loose"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: they were too tight"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "size chart",
+   "ko": "사이즈표",
+   "note": "온라인 쇼핑에서 자주 보는 표예요."
+  },
+  {
+   "term": "placing the order",
+   "ko": "주문하다",
+   "note": "place an order는 주문을 넣는다는 뜻이에요."
+  },
+  {
+   "term": "mostly positive",
+   "ko": "대체로 긍정적인",
+   "note": "mostly는 '대부분'이라는 뜻이에요."
+  },
+  {
+   "term": "reviews",
+   "ko": "후기",
+   "note": "상품 평가 글을 말해요."
+  },
+  {
+   "term": "too tight",
+   "ko": "너무 꽉 끼는",
+   "note": "too는 '지나치게'라는 뜻이에요."
+  }
+ ]
+}

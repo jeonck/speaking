@@ -1,0 +1,292 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3178.96,
+  "end": 3225.29,
+  "clips": [
+   [
+    3178.96,
+    3182.33
+   ],
+   [
+    3199.92,
+    3203.93
+   ],
+   [
+    3222.0,
+    3225.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The streets are lined with trees, which I love.",
+   "chunks": [
+    {
+     "en": "The streets are lined with trees,",
+     "ko": "거리에는 나무가 늘어서 있어요"
+    },
+    {
+     "en": "which I love.",
+     "ko": "제가 정말 좋아하는 점이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "streets",
+     "strong": true,
+     "syl": "streets",
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lined",
+     "strong": true,
+     "syl": "lined",
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trees,",
+     "strong": true,
+     "syl": "trees",
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love.",
+     "strong": true,
+     "syl": "love",
+     "link": false
+    }
+   ],
+   "tip": "lined with trees에서 lined와 trees를 강하게 읽어요.",
+   "start": 3178.96,
+   "end": 3182.33
+  },
+  {
+   "text": "There's a subway station about 5 minutes from my place.",
+   "chunks": [
+    {
+     "en": "There's a subway station",
+     "ko": "지하철역이 있어요"
+    },
+    {
+     "en": "about 5 minutes",
+     "ko": "약 5분 거리에"
+    },
+    {
+     "en": "from my place.",
+     "ko": "우리 집에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "subway",
+     "strong": true,
+     "syl": "sub",
+     "link": false
+    },
+    {
+     "w": "station",
+     "strong": true,
+     "syl": "sta",
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "5",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "There's a는 '데어저'처럼 이어요. about 5 minutes는 '어바웃 파이브 미닛츠'예요.",
+   "start": 3199.92,
+   "end": 3203.93
+  },
+  {
+   "text": "That makes it really easy to get downtown.",
+   "chunks": [
+    {
+     "en": "That makes it",
+     "ko": "그래서"
+    },
+    {
+     "en": "really easy",
+     "ko": "정말 쉬워요"
+    },
+    {
+     "en": "to get downtown.",
+     "ko": "시내에 가기가"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": true,
+     "syl": "makes",
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "syl": "real",
+     "link": false
+    },
+    {
+     "w": "easy",
+     "strong": true,
+     "syl": "ea",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": true,
+     "syl": "get",
+     "link": false
+    },
+    {
+     "w": "downtown.",
+     "strong": true,
+     "syl": "down",
+     "link": false
+    }
+   ],
+   "tip": "makes it은 '메익스잇'처럼 이어 읽어요. downtown은 down에 강세를 둬요.",
+   "start": 3222.0,
+   "end": 3225.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What lines the streets?",
+   "options": [
+    "Trees",
+    "Shops",
+    "Parked cars"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: streets are lined with trees"
+  },
+  {
+   "q": "How far is the subway station?",
+   "options": [
+    "About 15 minutes",
+    "About 5 minutes",
+    "About 30 minutes"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: about 5 minutes from my place"
+  },
+  {
+   "q": "What does the subway make easy?",
+   "options": [
+    "Getting downtown",
+    "Going to the airport",
+    "Visiting the mountains"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: really easy to get downtown"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "lined with",
+   "ko": "~이 늘어서 있는",
+   "note": "길이나 벽에 무엇이 줄지어 있을 때 써요"
+  },
+  {
+   "term": "which I love",
+   "ko": "제가 좋아하는 점인데",
+   "note": "앞 내용 전체를 받는 관계절이에요"
+  },
+  {
+   "term": "from my place",
+   "ko": "우리 집에서",
+   "note": "place는 집을 뜻하는 구어체예요"
+  },
+  {
+   "term": "get downtown",
+   "ko": "시내로 가다",
+   "note": "downtown은 부사로 to가 필요 없지만 문장에서는 to get으로 쓰였어요"
+  },
+  {
+   "term": "makes it easy to",
+   "ko": "~하기 쉽게 만든다",
+   "note": "it은 뒤의 to 부정사를 가리켜요"
+  }
+ ]
+}

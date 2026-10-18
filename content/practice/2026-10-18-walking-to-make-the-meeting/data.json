@@ -1,0 +1,311 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16288.16,
+  "end": 16339.93,
+  "clips": [
+   [
+    16288.16,
+    16291.93
+   ],
+   [
+    16311.28,
+    16315.29
+   ],
+   [
+    16335.52,
+    16339.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I had to walk about 15 minutes to another stop.",
+   "chunks": [
+    {
+     "en": "I had to walk",
+     "ko": "걸어야 했어요"
+    },
+    {
+     "en": "about 15 minutes",
+     "ko": "약 15분"
+    },
+    {
+     "en": "to another stop.",
+     "ko": "다른 정류장까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walk",
+     "strong": true,
+     "link": true,
+     "syl": "walk"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "15",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "another",
+     "strong": true,
+     "link": false,
+     "syl": "oth"
+    },
+    {
+     "w": "stop.",
+     "strong": true,
+     "link": false,
+     "syl": "stop"
+    }
+   ],
+   "tip": "walk about은 '워커바웃'처럼 이어 읽어요.",
+   "start": 16288.16,
+   "end": 16291.93
+  },
+  {
+   "text": "I messaged my manager to explain why I might be late.",
+   "chunks": [
+    {
+     "en": "I messaged my manager",
+     "ko": "매니저에게 메시지를 보냈어요"
+    },
+    {
+     "en": "to explain why",
+     "ko": "이유를 설명하려고"
+    },
+    {
+     "en": "I might be late.",
+     "ko": "제가 늦을 수도 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "messaged",
+     "strong": true,
+     "link": false,
+     "syl": "mess"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "manager",
+     "strong": true,
+     "link": false,
+     "syl": "man"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "explain",
+     "strong": true,
+     "link": false,
+     "syl": "plain"
+    },
+    {
+     "w": "why",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "might",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "late.",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    }
+   ],
+   "tip": "explain은 ex-PLAIN, 두 번째 음절에 강세가 와요.",
+   "start": 16311.28,
+   "end": 16315.29
+  },
+  {
+   "text": "Luckily, I arrived just before our morning meeting started.",
+   "chunks": [
+    {
+     "en": "Luckily,",
+     "ko": "다행히"
+    },
+    {
+     "en": "I arrived just before",
+     "ko": "막 직전에 도착했어요"
+    },
+    {
+     "en": "our morning meeting started.",
+     "ko": "아침 회의가 시작되기"
+    }
+   ],
+   "words": [
+    {
+     "w": "Luckily,",
+     "strong": true,
+     "link": false,
+     "syl": "Luck"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "arrived",
+     "strong": true,
+     "link": false,
+     "syl": "rived"
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meeting",
+     "strong": true,
+     "link": false,
+     "syl": "meet"
+    },
+    {
+     "w": "started.",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    }
+   ],
+   "tip": "before our는 '비포아워'처럼 이어 읽어요.",
+   "start": 16335.52,
+   "end": 16339.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long did the speaker walk?",
+   "options": [
+    "About 5 minutes",
+    "About 50 minutes",
+    "About 15 minutes"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: walk about 15 minutes"
+  },
+  {
+   "q": "Who did the speaker message?",
+   "options": [
+    "The manager",
+    "A friend",
+    "A coworker"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I messaged my manager"
+  },
+  {
+   "q": "When did the speaker arrive?",
+   "options": [
+    "After the meeting",
+    "Just before the morning meeting started",
+    "Before lunch"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: arrived just before our morning meeting started"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "walk about 15 minutes",
+   "ko": "약 15분 걷다",
+   "note": "about은 '약'이라는 뜻이에요."
+  },
+  {
+   "term": "message",
+   "ko": "메시지를 보내다",
+   "note": "동사로도 쓰여요."
+  },
+  {
+   "term": "explain why",
+   "ko": "이유를 설명하다",
+   "note": "explain 뒤에는 to me를 바로 붙이지 않아요."
+  },
+  {
+   "term": "might be late",
+   "ko": "늦을지도 모른다",
+   "note": "might는 가능성을 약하게 말해요."
+  },
+  {
+   "term": "just before",
+   "ko": "바로 직전에",
+   "note": "just가 '아슬아슬하게'의 느낌을 줘요."
+  }
+ ]
+}

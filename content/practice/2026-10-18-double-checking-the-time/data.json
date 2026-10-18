@@ -1,0 +1,316 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21794.0,
+  "end": 21840.97,
+  "clips": [
+   [
+    21794.0,
+    21797.77
+   ],
+   [
+    21815.04,
+    21818.49
+   ],
+   [
+    21837.28,
+    21840.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "After that, I made sure to double check the time.",
+   "chunks": [
+    {
+     "en": "After that,",
+     "ko": "그 후로,"
+    },
+    {
+     "en": "I made sure",
+     "ko": "저는 확실히 했어요"
+    },
+    {
+     "en": "to double check",
+     "ko": "다시 확인하도록"
+    },
+    {
+     "en": "the time.",
+     "ko": "시간을"
+    }
+   ],
+   "words": [
+    {
+     "w": "After",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": true,
+     "link": false,
+     "syl": "sure"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "double",
+     "strong": true,
+     "link": false,
+     "syl": "dou"
+    },
+    {
+     "w": "check",
+     "strong": true,
+     "link": false,
+     "syl": "check"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time.",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "double check은 'DOUble CHECK'처럼 두 단어 모두 또렷하게 세게 읽어요.",
+   "start": 21794.0,
+   "end": 21797.77
+  },
+  {
+   "text": "The thing is, I'm not really a morning person.",
+   "chunks": [
+    {
+     "en": "The thing is,",
+     "ko": "사실은,"
+    },
+    {
+     "en": "I'm not really",
+     "ko": "저는 별로"
+    },
+    {
+     "en": "a morning person.",
+     "ko": "아침형 인간이 아니에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thing",
+     "strong": true,
+     "link": false,
+     "syl": "thing"
+    },
+    {
+     "w": "is,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": true,
+     "syl": "rea"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    },
+    {
+     "w": "person.",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    }
+   ],
+   "tip": "really a는 '리얼리-어'처럼 이어서 읽어요.",
+   "start": 21815.04,
+   "end": 21818.49
+  },
+  {
+   "text": "The funny thing is I didn't even like it at first.",
+   "chunks": [
+    {
+     "en": "The funny thing is",
+     "ko": "웃긴 건"
+    },
+    {
+     "en": "I didn't even like it",
+     "ko": "제가 그걸 좋아하지도 않았다는 거예요"
+    },
+    {
+     "en": "at first.",
+     "ko": "처음에는"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "funny",
+     "strong": true,
+     "link": false,
+     "syl": "fun"
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": true,
+     "link": false,
+     "syl": "e"
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": true,
+     "syl": "like"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first.",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    }
+   ],
+   "tip": "like it at은 '라이킷앳'처럼 한 덩어리로 이어 읽어요.",
+   "start": 21837.28,
+   "end": 21840.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about mornings?",
+   "options": [
+    "The speaker is a morning person",
+    "The speaker is not really a morning person",
+    "The speaker wakes up at noon"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: I'm not really a morning person"
+  },
+  {
+   "q": "What did the speaker do after that?",
+   "options": [
+    "Double checked the time",
+    "Bought a new watch",
+    "Took a taxi"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I made sure to double check the time"
+  },
+  {
+   "q": "How did the speaker feel about it at first?",
+   "options": [
+    "Loved it right away",
+    "Was afraid of it",
+    "Did not even like it"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I didn't even like it at first"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "double check",
+   "ko": "다시 확인하다",
+   "note": "중요한 걸 한 번 더 점검할 때 써요."
+  },
+  {
+   "term": "make sure to",
+   "ko": "반드시 ~하다",
+   "note": "뒤에 동사원형이 와요."
+  },
+  {
+   "term": "The thing is,",
+   "ko": "사실은, 문제는",
+   "note": "본론을 꺼내기 전에 써요."
+  },
+  {
+   "term": "morning person",
+   "ko": "아침형 인간",
+   "note": "반대는 night owl이에요."
+  },
+  {
+   "term": "at first",
+   "ko": "처음에는",
+   "note": "나중에 바뀐 상황과 대비할 때 써요."
+  }
+ ]
+}

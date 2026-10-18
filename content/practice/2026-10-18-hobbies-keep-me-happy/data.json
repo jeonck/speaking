@@ -1,0 +1,297 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6641.2,
+  "end": 6687.21,
+  "clips": [
+   [
+    6641.2,
+    6645.05
+   ],
+   [
+    6663.28,
+    6666.57
+   ],
+   [
+    6683.44,
+    6687.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "All in all, my hobbies keep me happy and healthy.",
+   "chunks": [
+    {
+     "en": "All in all,",
+     "ko": "결국"
+    },
+    {
+     "en": "my hobbies keep me",
+     "ko": "제 취미는 저를 지켜 줘요"
+    },
+    {
+     "en": "happy and healthy.",
+     "ko": "행복하고 건강하게"
+    }
+   ],
+   "words": [
+    {
+     "w": "All",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all,",
+     "strong": true,
+     "syl": "all",
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hobbies",
+     "strong": true,
+     "syl": "hob",
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happy",
+     "strong": true,
+     "syl": "hap",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "healthy.",
+     "strong": true,
+     "syl": "health",
+     "link": false
+    }
+   ],
+   "tip": "All in all은 '올리날'처럼 세 단어를 한 덩어리로 이어 읽어요.",
+   "start": 6641.2,
+   "end": 6645.05
+  },
+  {
+   "text": "They give me something to look forward to every week.",
+   "chunks": [
+    {
+     "en": "They give me something",
+     "ko": "그것들은 저에게 무언가를 줘요"
+    },
+    {
+     "en": "to look forward to",
+     "ko": "기대할"
+    },
+    {
+     "en": "every week.",
+     "ko": "매주"
+    }
+   ],
+   "words": [
+    {
+     "w": "They",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "give",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "something",
+     "strong": true,
+     "syl": "some",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": true,
+     "syl": "look",
+     "link": false
+    },
+    {
+     "w": "forward",
+     "strong": true,
+     "syl": "for",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week.",
+     "strong": true,
+     "syl": "week",
+     "link": false
+    }
+   ],
+   "tip": "look forward to에서 forward에 강세가 와요.",
+   "start": 6663.28,
+   "end": 6666.57
+  },
+  {
+   "text": "I'd recommend that everyone find at least one hobby.",
+   "chunks": [
+    {
+     "en": "I'd recommend that everyone",
+     "ko": "모두가 ~하기를 추천해요"
+    },
+    {
+     "en": "find at least one hobby.",
+     "ko": "적어도 취미 하나는 찾기를"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recommend",
+     "strong": true,
+     "syl": "mend",
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everyone",
+     "strong": true,
+     "syl": "ev",
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hobby.",
+     "strong": true,
+     "syl": "hob",
+     "link": false
+    }
+   ],
+   "tip": "find at은 '파인댓'처럼 이어 읽어요.",
+   "start": 6683.44,
+   "end": 6687.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "How do hobbies make the speaker feel?",
+   "options": [
+    "Happy and healthy",
+    "Tired and busy",
+    "Proud and rich"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: keep me happy and healthy"
+  },
+  {
+   "q": "What do the hobbies give the speaker every week?",
+   "options": [
+    "Extra money",
+    "Something to look forward to",
+    "New friends"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: something to look forward to every week"
+  },
+  {
+   "q": "What does the speaker recommend?",
+   "options": [
+    "Quit work early",
+    "Travel more",
+    "Find at least one hobby"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: find at least one hobby"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "all in all",
+   "ko": "결국, 전체적으로",
+   "note": "이야기를 마무리할 때 써요."
+  },
+  {
+   "term": "look forward to",
+   "ko": "~을 기대하다",
+   "note": "to 뒤에는 명사나 -ing가 와요."
+  },
+  {
+   "term": "I'd recommend that",
+   "ko": "~하기를 추천해요",
+   "note": "that 뒤에는 동사원형을 써요."
+  },
+  {
+   "term": "keep me happy",
+   "ko": "저를 행복하게 해 줘요",
+   "note": "keep + 목적어 + 형용사 형태예요."
+  }
+ ]
+}

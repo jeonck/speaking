@@ -1,0 +1,290 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21035.44,
+  "end": 21077.85,
+  "clips": [
+   [
+    21035.44,
+    21038.97
+   ],
+   [
+    21056.08,
+    21058.97
+   ],
+   [
+    21074.24,
+    21077.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "To be honest with you, I don't do it that often.",
+   "chunks": [
+    {
+     "en": "To be honest with you,",
+     "ko": "솔직히 말하면"
+    },
+    {
+     "en": "I don't do it",
+     "ko": "저는 그걸 안 해요"
+    },
+    {
+     "en": "that often.",
+     "ko": "그렇게 자주"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honest",
+     "strong": true,
+     "link": false,
+     "syl": "hon"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": true,
+     "link": false,
+     "syl": "don"
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "often.",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    }
+   ],
+   "tip": "honest의 h는 소리 나지 않아 '어니스트'처럼 읽어요.",
+   "start": 21035.44,
+   "end": 21038.97
+  },
+  {
+   "text": "There are two things I like about it.",
+   "chunks": [
+    {
+     "en": "There are two things",
+     "ko": "두 가지가 있어요"
+    },
+    {
+     "en": "I like about it.",
+     "ko": "제가 그것에 대해 좋아하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "two",
+     "strong": true,
+     "link": false,
+     "syl": "two"
+    },
+    {
+     "w": "things",
+     "strong": true,
+     "link": false,
+     "syl": "things"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": true,
+     "syl": "like"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "like about it은 '라이커바우릿'처럼 이어 읽어요.",
+   "start": 21056.08,
+   "end": 21058.97
+  },
+  {
+   "text": "I'll start with what I usually do on weekdays.",
+   "chunks": [
+    {
+     "en": "I'll start with",
+     "ko": "시작할게요"
+    },
+    {
+     "en": "what I usually do",
+     "ko": "제가 보통 하는 것부터"
+    },
+    {
+     "en": "on weekdays.",
+     "ko": "평일에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": false,
+     "syl": "u"
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekdays.",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    }
+   ],
+   "tip": "what I는 '와라이'처럼 이어 읽어요.",
+   "start": 21074.24,
+   "end": 21077.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "How often does the speaker do it?",
+   "options": [
+    "Every day",
+    "Not that often",
+    "Twice a week"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I don't do it that often"
+  },
+  {
+   "q": "How many things does the speaker like about it?",
+   "options": [
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: two things I like about it"
+  },
+  {
+   "q": "What will the speaker talk about first?",
+   "options": [
+    "Weekend trips",
+    "Childhood memories",
+    "What they do on weekdays"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: what I usually do on weekdays"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "to be honest",
+   "ko": "솔직히 말하면",
+   "note": "의견을 솔직히 말하기 전에 써요."
+  },
+  {
+   "term": "that often",
+   "ko": "그렇게 자주",
+   "note": "부정문에서 빈도를 낮출 때 써요."
+  },
+  {
+   "term": "two things I like",
+   "ko": "좋아하는 두 가지",
+   "note": "이유를 나눠 말할 때 좋아요."
+  },
+  {
+   "term": "weekdays",
+   "ko": "평일",
+   "note": "주말은 weekends예요."
+  }
+ ]
+}

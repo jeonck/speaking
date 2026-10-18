@@ -1,0 +1,324 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8995.36,
+  "end": 9045.05,
+  "clips": [
+   [
+    8995.36,
+    8998.81
+   ],
+   [
+    9017.6,
+    9021.53
+   ],
+   [
+    9041.36,
+    9045.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'd like to tell you about a day I'll never forget.",
+   "chunks": [
+    {
+     "en": "I'd like to tell you",
+     "ko": "말씀드리고 싶어요"
+    },
+    {
+     "en": "about a day",
+     "ko": "어느 하루에 대해"
+    },
+    {
+     "en": "I'll never forget.",
+     "ko": "내가 절대 잊지 못할"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": true,
+     "link": false,
+     "syl": "tell"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    },
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "nev"
+    },
+    {
+     "w": "forget.",
+     "strong": true,
+     "link": false,
+     "syl": "get"
+    }
+   ],
+   "tip": "tell you는 '텔류', about a는 '어바우러'처럼 이어 읽어요.",
+   "start": 8995.36,
+   "end": 8998.81
+  },
+  {
+   "text": "This happened about 3 years ago when I was in college.",
+   "chunks": [
+    {
+     "en": "This happened",
+     "ko": "이 일은 일어났어요"
+    },
+    {
+     "en": "about 3 years ago",
+     "ko": "약 3년 전에"
+    },
+    {
+     "en": "when I was in college.",
+     "ko": "내가 대학생이었을 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happened",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "3",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    },
+    {
+     "w": "ago",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college.",
+     "strong": true,
+     "link": false,
+     "syl": "col"
+    }
+   ],
+   "tip": "was in은 '워진'처럼 이어 읽고 happened는 hap에 강세를 둬요.",
+   "start": 9017.6,
+   "end": 9021.53
+  },
+  {
+   "text": "It was a cold winter morning and I was running late.",
+   "chunks": [
+    {
+     "en": "It was a cold winter morning",
+     "ko": "춥고 겨울인 아침이었어요"
+    },
+    {
+     "en": "and I was running late.",
+     "ko": "그리고 나는 늦어지고 있었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cold",
+     "strong": true,
+     "link": false,
+     "syl": "cold"
+    },
+    {
+     "w": "winter",
+     "strong": true,
+     "link": false,
+     "syl": "win"
+    },
+    {
+     "w": "morning",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "running",
+     "strong": true,
+     "link": false,
+     "syl": "run"
+    },
+    {
+     "w": "late.",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    }
+   ],
+   "tip": "and I는 '앤다이'처럼 이어서 가볍게 읽어요.",
+   "start": 9041.36,
+   "end": 9045.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "When did this happen?",
+   "options": [
+    "Last month",
+    "About 3 years ago",
+    "Yesterday"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: This happened about 3 years ago"
+  },
+  {
+   "q": "Where was the speaker at the time?",
+   "options": [
+    "In college",
+    "At work",
+    "On vacation"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: when I was in college"
+  },
+  {
+   "q": "What was the weather like?",
+   "options": [
+    "A hot summer day",
+    "A rainy spring day",
+    "A cold winter morning"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: It was a cold winter morning"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "I'll never forget",
+   "ko": "절대 잊지 못할",
+   "note": "never forget 앞에 a day처럼 명사를 붙여 꾸며요."
+  },
+  {
+   "term": "running late",
+   "ko": "늦어지고 있는",
+   "note": "be running late는 지각할 것 같을 때 써요."
+  },
+  {
+   "term": "tell you about",
+   "ko": "~에 대해 말해주다",
+   "note": "이야기를 시작할 때 자주 써요."
+  },
+  {
+   "term": "about 3 years ago",
+   "ko": "약 3년 전에",
+   "note": "about은 대략적인 수를 말할 때 써요."
+  },
+  {
+   "term": "in college",
+   "ko": "대학 시절에",
+   "note": "college 앞에 the를 붙이지 않아요."
+  }
+ ]
+}

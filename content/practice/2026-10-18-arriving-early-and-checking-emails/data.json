@@ -1,0 +1,319 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 513.04,
+  "end": 561.85,
+  "clips": [
+   [
+    513.04,
+    516.97
+   ],
+   [
+    535.84,
+    539.85
+   ],
+   [
+    558.48,
+    561.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I usually get to the office about 10 minutes early.",
+   "chunks": [
+    {
+     "en": "I usually get to the office",
+     "ko": "나는 보통 사무실에 도착해요"
+    },
+    {
+     "en": "about 10 minutes early.",
+     "ko": "10분쯤 일찍"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": false,
+     "syl": "u"
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "office",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": true,
+     "link": true,
+     "syl": "min"
+    },
+    {
+     "w": "early.",
+     "strong": true,
+     "link": false,
+     "syl": "ear"
+    }
+   ],
+   "tip": "minutes early는 '미니츠얼리'처럼 이어 읽어요.",
+   "start": 513.04,
+   "end": 516.97
+  },
+  {
+   "text": "Once I get to the office, I check my emails first.",
+   "chunks": [
+    {
+     "en": "Once I get to the office,",
+     "ko": "사무실에 도착하면,"
+    },
+    {
+     "en": "I check my emails first.",
+     "ko": "나는 먼저 이메일을 확인해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Once",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "office,",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "check",
+     "strong": true,
+     "link": false,
+     "syl": "check"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "emails",
+     "strong": true,
+     "link": false,
+     "syl": "e"
+    },
+    {
+     "w": "first.",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    }
+   ],
+   "tip": "Once I는 '원스아이'가 아니라 '원사이'처럼 이어 읽어요.",
+   "start": 535.84,
+   "end": 539.85
+  },
+  {
+   "text": "Then I write down what I need to get done that day.",
+   "chunks": [
+    {
+     "en": "Then I write down",
+     "ko": "그다음 나는 적어요"
+    },
+    {
+     "en": "what I need to get done",
+     "ko": "내가 끝내야 하는 것을"
+    },
+    {
+     "en": "that day.",
+     "ko": "그날"
+    }
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "write",
+     "strong": true,
+     "link": false,
+     "syl": "write"
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": true,
+     "link": false,
+     "syl": "need"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "done",
+     "strong": true,
+     "link": false,
+     "syl": "done"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day.",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    }
+   ],
+   "tip": "what I need는 '와라이니드'처럼 이어 읽어요.",
+   "start": 558.48,
+   "end": 561.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "How early does the speaker usually arrive at the office?",
+   "options": [
+    "About 5 minutes",
+    "About 10 minutes",
+    "About 20 minutes"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: about 10 minutes early"
+  },
+  {
+   "q": "What does the speaker do first at the office?",
+   "options": [
+    "Make coffee",
+    "Attend a meeting",
+    "Check emails"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I check my emails first"
+  },
+  {
+   "q": "What does the speaker write down?",
+   "options": [
+    "What they need to get done that day",
+    "What they ate for lunch",
+    "Ideas for the weekend"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: write down what I need to get done that day"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "get to the office",
+   "ko": "사무실에 도착하다",
+   "note": "arrive at보다 일상적인 표현이에요."
+  },
+  {
+   "term": "check my emails",
+   "ko": "이메일을 확인하다",
+   "note": "check + 대상으로 '확인하다'를 말해요."
+  },
+  {
+   "term": "write down",
+   "ko": "적어 두다",
+   "note": "write 목적어 down도 가능해요."
+  },
+  {
+   "term": "get done",
+   "ko": "끝내다",
+   "note": "할 일을 마무리한다는 뜻이에요."
+  },
+  {
+   "term": "10 minutes early",
+   "ko": "10분 일찍",
+   "note": "시간 + early로 얼마나 일찍인지 말해요."
+  }
+ ]
+}

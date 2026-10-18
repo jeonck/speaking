@@ -1,0 +1,349 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17894.08,
+  "end": 17948.97,
+  "clips": [
+   [
+    17894.08,
+    17898.41
+   ],
+   [
+    17919.36,
+    17923.45
+   ],
+   [
+    17944.32,
+    17948.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "We don't have a strict schedule, but we always share a big meal.",
+   "chunks": [
+    {
+     "en": "We don't have a strict schedule,",
+     "ko": "우리는 엄격한 일정은 없지만"
+    },
+    {
+     "en": "but we always share",
+     "ko": "항상 함께 나눠요"
+    },
+    {
+     "en": "a big meal.",
+     "ko": "푸짐한 식사를"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strict",
+     "strong": true,
+     "link": false,
+     "syl": "strict"
+    },
+    {
+     "w": "schedule,",
+     "strong": true,
+     "link": false,
+     "syl": "sched"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "share",
+     "strong": true,
+     "link": false,
+     "syl": "share"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "meal.",
+     "strong": true,
+     "link": false,
+     "syl": "meal"
+    }
+   ],
+   "tip": "schedule은 미국식으로 '스케줄'이라고 읽어요.",
+   "start": 17894.08,
+   "end": 17898.41
+  },
+  {
+   "text": "When I was younger, my grandparents did most of the cooking.",
+   "chunks": [
+    {
+     "en": "When I was younger,",
+     "ko": "제가 어렸을 때는"
+    },
+    {
+     "en": "my grandparents",
+     "ko": "조부모님이"
+    },
+    {
+     "en": "did most of the cooking.",
+     "ko": "요리 대부분을 하셨어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "younger,",
+     "strong": true,
+     "link": false,
+     "syl": "young"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grandparents",
+     "strong": true,
+     "link": false,
+     "syl": "grand"
+    },
+    {
+     "w": "did",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking.",
+     "strong": true,
+     "link": false,
+     "syl": "cook"
+    }
+   ],
+   "tip": "did most of the는 '디드 모스터브 더'처럼 이어서 읽어요.",
+   "start": 17919.36,
+   "end": 17923.45
+  },
+  {
+   "text": "These days, everyone brings a dish so they don't have to do everything.",
+   "chunks": [
+    {
+     "en": "These days,",
+     "ko": "요즘에는"
+    },
+    {
+     "en": "everyone brings a dish",
+     "ko": "모두가 음식을 하나씩 가져와서"
+    },
+    {
+     "en": "so they don't have to do everything.",
+     "ko": "모든 걸 다 할 필요가 없어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "These",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days,",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    },
+    {
+     "w": "everyone",
+     "strong": true,
+     "link": false,
+     "syl": "every"
+    },
+    {
+     "w": "brings",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dish",
+     "strong": true,
+     "link": false,
+     "syl": "dish"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everything.",
+     "strong": true,
+     "link": false,
+     "syl": "every"
+    }
+   ],
+   "tip": "brings a dish는 '브링저 디쉬'처럼 이어져요.",
+   "start": 17944.32,
+   "end": 17948.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the family always do?",
+   "options": [
+    "Travel abroad",
+    "Share a big meal",
+    "Watch a movie"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: we always share a big meal"
+  },
+  {
+   "q": "Who did most of the cooking when the speaker was younger?",
+   "options": [
+    "The neighbors",
+    "The speaker",
+    "The grandparents"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: my grandparents did most of the cooking"
+  },
+  {
+   "q": "Why does everyone bring a dish now?",
+   "options": [
+    "So no one has to do everything",
+    "Because restaurants are closed",
+    "To save money on gifts"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: so they don't have to do everything"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "strict schedule",
+   "ko": "엄격한 일정",
+   "note": "strict는 규칙이 엄격하다는 뜻이에요."
+  },
+  {
+   "term": "share a meal",
+   "ko": "식사를 함께하다",
+   "note": "share는 나눠 먹는다는 뜻이에요."
+  },
+  {
+   "term": "did most of the cooking",
+   "ko": "요리 대부분을 했다",
+   "note": "most of the 뒤에는 명사가 와요."
+  },
+  {
+   "term": "bring a dish",
+   "ko": "음식을 가져오다",
+   "note": "포틀럭 모임에서 흔한 표현이에요."
+  },
+  {
+   "term": "have to",
+   "ko": "~해야 하다",
+   "note": "don't have to는 '~할 필요 없다'예요."
+  }
+ ]
+}

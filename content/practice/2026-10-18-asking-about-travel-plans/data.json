@@ -1,0 +1,277 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14133.04,
+  "end": 14177.45,
+  "clips": [
+   [
+    14133.04,
+    14136.33
+   ],
+   [
+    14153.36,
+    14157.13
+   ],
+   [
+    14173.76,
+    14177.45
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Have you already booked your flight and hotel?",
+   "chunks": [
+    {
+     "en": "Have you already booked",
+     "ko": "벌써 예약했어요"
+    },
+    {
+     "en": "your flight and hotel?",
+     "ko": "당신의 항공편과 호텔을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "already",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "booked",
+     "strong": true,
+     "link": false,
+     "syl": "book"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flight",
+     "strong": true,
+     "link": true,
+     "syl": "flight"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotel?",
+     "strong": true,
+     "link": false,
+     "syl": "ho"
+    }
+   ],
+   "tip": "flight and는 '플라이랜'처럼 t와 a를 이어 읽어요.",
+   "start": 14133.04,
+   "end": 14136.33
+  },
+  {
+   "text": "What made you choose that place over other spots?",
+   "chunks": [
+    {
+     "en": "What made you choose",
+     "ko": "무엇이 당신을 고르게 했나요"
+    },
+    {
+     "en": "that place",
+     "ko": "그 장소를"
+    },
+    {
+     "en": "over other spots?",
+     "ko": "다른 곳들보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "choose",
+     "strong": true,
+     "link": false,
+     "syl": "choose"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": false,
+     "syl": "place"
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spots?",
+     "strong": true,
+     "link": false,
+     "syl": "spots"
+    }
+   ],
+   "tip": "over other는 '오버아더'처럼 이어 읽어요.",
+   "start": 14153.36,
+   "end": 14157.13
+  },
+  {
+   "text": "Is there anything you're especially looking forward to?",
+   "chunks": [
+    {
+     "en": "Is there anything",
+     "ko": "무언가 있나요"
+    },
+    {
+     "en": "you're especially looking forward to?",
+     "ko": "특별히 기대하고 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "anything",
+     "strong": true,
+     "link": false,
+     "syl": "any"
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "especially",
+     "strong": true,
+     "link": false,
+     "syl": "spe"
+    },
+    {
+     "w": "looking",
+     "strong": true,
+     "link": false,
+     "syl": "look"
+    },
+    {
+     "w": "forward",
+     "strong": true,
+     "link": false,
+     "syl": "ward"
+    },
+    {
+     "w": "to?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "looking forward to에서는 forward의 ward에 강세를 둬요.",
+   "start": 14173.76,
+   "end": 14177.45
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask about first?",
+   "options": [
+    "Whether the flight and hotel are booked",
+    "How much the trip costs",
+    "Who is traveling along"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: booked your flight and hotel"
+  },
+  {
+   "q": "What does the speaker want to know about the place?",
+   "options": [
+    "How far it is",
+    "What made the person choose it over other spots",
+    "When it was built"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: What made you choose that place over other spots"
+  },
+  {
+   "q": "What does the speaker ask about the trip at the end?",
+   "options": [
+    "Which hotel is cheapest",
+    "What the weather will be like",
+    "What the person is especially looking forward to"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: anything you're especially looking forward to"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "book a flight",
+   "ko": "항공편을 예약하다",
+   "note": "book + 항공편/호텔 형태로 자주 써요."
+  },
+  {
+   "term": "choose A over B",
+   "ko": "B 대신 A를 고르다",
+   "note": "over가 '~보다 먼저'라는 뜻이에요."
+  },
+  {
+   "term": "spots",
+   "ko": "장소, 곳",
+   "note": "place보다 가볍고 구어적인 말이에요."
+  },
+  {
+   "term": "look forward to",
+   "ko": "~을 기대하다",
+   "note": "to 뒤에는 명사나 -ing가 와요."
+  },
+  {
+   "term": "especially",
+   "ko": "특히",
+   "note": "강세는 spe에 둬요."
+  }
+ ]
+}

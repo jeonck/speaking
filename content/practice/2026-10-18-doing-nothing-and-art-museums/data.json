@@ -1,0 +1,293 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6112.08,
+  "end": 6161.05,
+  "clips": [
+   [
+    6112.08,
+    6115.29
+   ],
+   [
+    6132.56,
+    6136.97
+   ],
+   [
+    6156.88,
+    6161.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I think doing nothing is a hobby, too.",
+   "chunks": [
+    {
+     "en": "I think",
+     "ko": "저는 생각해요"
+    },
+    {
+     "en": "doing nothing is a hobby,",
+     "ko": "아무것도 안 하는 것도 취미라고"
+    },
+    {
+     "en": "too.",
+     "ko": "또한요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "doing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "nothing",
+     "strong": true,
+     "link": false,
+     "syl": "noth"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hobby,",
+     "strong": true,
+     "link": false,
+     "syl": "hob"
+    },
+    {
+     "w": "too.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "nothing은 '나씽'으로, 첫 음절에 강세를 줘요.",
+   "start": 6112.08,
+   "end": 6115.29
+  },
+  {
+   "text": "I enjoy going to art museums when there's a new exhibition.",
+   "chunks": [
+    {
+     "en": "I enjoy going",
+     "ko": "저는 가는 것을 즐겨요"
+    },
+    {
+     "en": "to art museums",
+     "ko": "미술관에"
+    },
+    {
+     "en": "when there's a new exhibition.",
+     "ko": "새 전시가 있을 때요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoy",
+     "strong": true,
+     "link": false,
+     "syl": "joy"
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "art",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "museums",
+     "strong": true,
+     "link": false,
+     "syl": "mu"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "exhibition.",
+     "strong": true,
+     "link": false,
+     "syl": "bi"
+    }
+   ],
+   "tip": "to art는 '투아트'처럼 이어서 읽어요.",
+   "start": 6132.56,
+   "end": 6136.97
+  },
+  {
+   "text": "Looking at paintings makes me feel calm and inspired.",
+   "chunks": [
+    {
+     "en": "Looking at paintings",
+     "ko": "그림들을 보는 것은"
+    },
+    {
+     "en": "makes me feel",
+     "ko": "나를 느끼게 해요"
+    },
+    {
+     "en": "calm and inspired.",
+     "ko": "차분하고 영감을 받은 느낌으로요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Looking",
+     "strong": true,
+     "link": true,
+     "syl": "Look"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "paintings",
+     "strong": true,
+     "link": false,
+     "syl": "paint"
+    },
+    {
+     "w": "makes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "calm",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "inspired.",
+     "strong": true,
+     "link": false,
+     "syl": "spired"
+    }
+   ],
+   "tip": "calm의 l은 소리 나지 않아 '캄'으로 읽어요.",
+   "start": 6156.88,
+   "end": 6161.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker consider a hobby?",
+   "options": [
+    "Doing nothing",
+    "Cooking",
+    "Running"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: doing nothing is a hobby, too"
+  },
+  {
+   "q": "When does the speaker go to art museums?",
+   "options": [
+    "Every weekend",
+    "When there's a new exhibition",
+    "Only on holidays"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: when there's a new exhibition"
+  },
+  {
+   "q": "How do paintings make the speaker feel?",
+   "options": [
+    "Sad and tired",
+    "Excited and nervous",
+    "Calm and inspired"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: makes me feel calm and inspired"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "art museum",
+   "ko": "미술관",
+   "note": "museum은 '뮤지엄'으로 mu에 강세가 와요."
+  },
+  {
+   "term": "exhibition",
+   "ko": "전시회",
+   "note": "exhibit(전시하다)의 명사형이에요."
+  },
+  {
+   "term": "calm",
+   "ko": "차분한",
+   "note": "l을 발음하지 않아요."
+  },
+  {
+   "term": "inspired",
+   "ko": "영감을 받은",
+   "note": "inspire의 과거분사 형태예요."
+  }
+ ]
+}

@@ -1,0 +1,301 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21992.8,
+  "end": 22042.57,
+  "clips": [
+   [
+    21992.8,
+    21996.73
+   ],
+   [
+    22015.44,
+    22019.53
+   ],
+   [
+    22038.96,
+    22042.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "As far as I know, that cafe is still in business.",
+   "chunks": [
+    {
+     "en": "As far as I know,",
+     "ko": "제가 아는 한,"
+    },
+    {
+     "en": "that cafe is still",
+     "ko": "그 카페는 여전히"
+    },
+    {
+     "en": "in business.",
+     "ko": "영업 중이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "far",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "know,",
+     "strong": true,
+     "link": false,
+     "syl": "know"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cafe",
+     "strong": true,
+     "link": false,
+     "syl": "ca"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "business.",
+     "strong": true,
+     "link": false,
+     "syl": "busi"
+    }
+   ],
+   "tip": "As far as I는 '애즈파라자이'처럼 이어서 읽어요.",
+   "start": 21992.8,
+   "end": 21996.73
+  },
+  {
+   "text": "If I remember correctly, it was around 5 years ago.",
+   "chunks": [
+    {
+     "en": "If I remember correctly,",
+     "ko": "제 기억이 맞다면,"
+    },
+    {
+     "en": "it was around",
+     "ko": "그건 약"
+    },
+    {
+     "en": "5 years ago.",
+     "ko": "5년 전이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remember",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    },
+    {
+     "w": "correctly,",
+     "strong": true,
+     "link": false,
+     "syl": "rect"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "5",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "link": true,
+     "syl": "years"
+    },
+    {
+     "w": "ago.",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    }
+   ],
+   "tip": "If I는 '이파이'처럼 붙여 읽고 years ago도 이어서 읽어요.",
+   "start": 22015.44,
+   "end": 22019.53
+  },
+  {
+   "text": "I'm not 100% sure, but I think so.",
+   "chunks": [
+    {
+     "en": "I'm not 100% sure,",
+     "ko": "100퍼센트 확실하진 않지만,"
+    },
+    {
+     "en": "but I think so.",
+     "ko": "그런 것 같아요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "100%",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "sure,",
+     "strong": true,
+     "link": false,
+     "syl": "sure"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": false,
+     "syl": "think"
+    },
+    {
+     "w": "so.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "but I는 '버라이'처럼 t가 약하게 굴려 이어져요.",
+   "start": 22038.96,
+   "end": 22042.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about the cafe?",
+   "options": [
+    "It is still in business",
+    "It closed last year",
+    "It moved downtown"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: that cafe is still in business"
+  },
+  {
+   "q": "When was it, as the speaker remembers?",
+   "options": [
+    "About 2 years ago",
+    "About 10 years ago",
+    "About 5 years ago"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: around 5 years ago"
+  },
+  {
+   "q": "How sure is the speaker?",
+   "options": [
+    "Completely sure",
+    "Not completely sure",
+    "Has no idea"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I'm not 100% sure"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "As far as I know",
+   "ko": "제가 아는 한",
+   "note": "확실하지 않은 정보를 전할 때 써요."
+  },
+  {
+   "term": "still in business",
+   "ko": "여전히 영업 중인",
+   "note": "가게나 회사에 써요."
+  },
+  {
+   "term": "If I remember correctly",
+   "ko": "제 기억이 맞다면",
+   "note": "기억이 불확실할 때 써요."
+  },
+  {
+   "term": "around 5 years ago",
+   "ko": "약 5년 전",
+   "note": "around는 '대략'이에요."
+  },
+  {
+   "term": "I'm not 100% sure",
+   "ko": "100퍼센트 확신하진 않아요",
+   "note": "한 번 더 조심스럽게 말할 때 써요."
+  }
+ ]
+}

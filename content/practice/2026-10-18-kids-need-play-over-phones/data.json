@@ -1,0 +1,346 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18742.24,
+  "end": 18799.37,
+  "clips": [
+   [
+    18742.24,
+    18746.81
+   ],
+   [
+    18768.88,
+    18773.13
+   ],
+   [
+    18789.92,
+    18799.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Kids also need time to play outside and use their imagination.",
+   "chunks": [
+    {
+     "en": "Kids also need time",
+     "ko": "아이들은 시간도 필요해요"
+    },
+    {
+     "en": "to play outside",
+     "ko": "밖에서 놀 시간"
+    },
+    {
+     "en": "and use their imagination.",
+     "ko": "그리고 상상력을 쓸 시간"
+    }
+   ],
+   "words": [
+    {
+     "w": "Kids",
+     "strong": true,
+     "syl": "kids",
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": true,
+     "syl": "play",
+     "link": false
+    },
+    {
+     "w": "outside",
+     "strong": true,
+     "syl": "side",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "their",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "imagination.",
+     "strong": true,
+     "syl": "gin",
+     "link": false
+    }
+   ],
+   "tip": "imagination은 'gin'에 강세를 둬요: 이매지네이션.",
+   "start": 18742.24,
+   "end": 18746.81
+  },
+  {
+   "text": "My nephew got a phone at 7 and he barely reads now.",
+   "chunks": [
+    {
+     "en": "My nephew",
+     "ko": "제 조카는"
+    },
+    {
+     "en": "got a phone at 7",
+     "ko": "7살에 폰을 얻었고"
+    },
+    {
+     "en": "and he barely reads now.",
+     "ko": "지금은 거의 책을 읽지 않아요"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nephew",
+     "strong": true,
+     "syl": "neph",
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "syl": "phone",
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "7",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "he",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "barely",
+     "strong": true,
+     "syl": "bare",
+     "link": false
+    },
+    {
+     "w": "reads",
+     "strong": true,
+     "syl": "read",
+     "link": false
+    },
+    {
+     "w": "now.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "got a는 '가라'처럼 t가 ㄹ 소리로 이어져요.",
+   "start": 18768.88,
+   "end": 18773.13
+  },
+  {
+   "text": "Of course, a simple phone for calls can be useful in an emergency.",
+   "chunks": [
+    {
+     "en": "Of course,",
+     "ko": "물론"
+    },
+    {
+     "en": "a simple phone for calls",
+     "ko": "통화용 단순한 폰은"
+    },
+    {
+     "en": "can be useful",
+     "ko": "유용할 수 있어요"
+    },
+    {
+     "en": "in an emergency.",
+     "ko": "비상시에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "course,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "simple",
+     "strong": true,
+     "syl": "sim",
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "calls",
+     "strong": true,
+     "syl": "calls",
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "useful",
+     "strong": true,
+     "syl": "use",
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "emergency.",
+     "strong": true,
+     "syl": "mer",
+     "link": false
+    }
+   ],
+   "tip": "in an emergency는 '이내머전시'처럼 이어서 읽어요.",
+   "start": 18789.92,
+   "end": 18799.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "What else do kids need time for, besides phones?",
+   "options": [
+    "Watching TV",
+    "Studying math",
+    "Playing outside and using their imagination"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: play outside and use their imagination"
+  },
+  {
+   "q": "How old was the speaker's nephew when he got a phone?",
+   "options": [
+    "5",
+    "7",
+    "10"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: got a phone at 7"
+  },
+  {
+   "q": "When can a simple phone for calls be useful?",
+   "options": [
+    "In an emergency",
+    "On a long trip",
+    "At school events"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: useful in an emergency"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "imagination",
+   "ko": "상상력",
+   "note": "use your imagination처럼 써요."
+  },
+  {
+   "term": "nephew",
+   "ko": "남자 조카",
+   "note": "여자 조카는 niece예요."
+  },
+  {
+   "term": "barely",
+   "ko": "거의 ~않다",
+   "note": "barely reads는 거의 읽지 않는다는 뜻이에요."
+  },
+  {
+   "term": "Of course,",
+   "ko": "물론",
+   "note": "앞서 한 말에 예외를 덧붙일 때도 써요."
+  },
+  {
+   "term": "emergency",
+   "ko": "비상 상황",
+   "note": "in an emergency는 고정 표현이에요."
+  }
+ ]
+}

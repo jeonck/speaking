@@ -1,0 +1,272 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6513.36,
+  "end": 6555.05,
+  "clips": [
+   [
+    6513.36,
+    6516.65
+   ],
+   [
+    6532.08,
+    6535.21
+   ],
+   [
+    6551.2,
+    6555.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I don't spend much money on my hobbies.",
+   "chunks": [
+    {
+     "en": "I don't spend much money",
+     "ko": "저는 돈을 많이 쓰지 않아요"
+    },
+    {
+     "en": "on my hobbies.",
+     "ko": "제 취미에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spend",
+     "strong": true,
+     "syl": "spen",
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "syl": "mon",
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hobbies.",
+     "strong": true,
+     "syl": "hob",
+     "link": false
+    }
+   ],
+   "tip": "hobbies는 첫 음절 HOB에 강세를 두고 뒤는 가볍게 읽어요.",
+   "start": 6513.36,
+   "end": 6516.65
+  },
+  {
+   "text": "Most of them are free or pretty cheap.",
+   "chunks": [
+    {
+     "en": "Most of them",
+     "ko": "그것들 대부분은"
+    },
+    {
+     "en": "are free or pretty cheap.",
+     "ko": "무료거나 꽤 싸요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "free",
+     "strong": true,
+     "syl": "free",
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": true,
+     "syl": "pret",
+     "link": false
+    },
+    {
+     "w": "cheap.",
+     "strong": true,
+     "syl": "cheap",
+     "link": false
+    }
+   ],
+   "tip": "them are는 '뎀아'처럼 이어서 읽으면 자연스러워요.",
+   "start": 6532.08,
+   "end": 6535.21
+  },
+  {
+   "text": "If I had more time, I'd take a pottery class.",
+   "chunks": [
+    {
+     "en": "If I had more time,",
+     "ko": "시간이 더 있다면"
+    },
+    {
+     "en": "I'd take a pottery class.",
+     "ko": "도예 수업을 들을 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time,",
+     "strong": true,
+     "syl": "time",
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pottery",
+     "strong": true,
+     "syl": "pot",
+     "link": false
+    },
+    {
+     "w": "class.",
+     "strong": true,
+     "syl": "class",
+     "link": false
+    }
+   ],
+   "tip": "I'd take a는 '아이드 테이커'처럼 take와 a를 이어 읽어요.",
+   "start": 6551.2,
+   "end": 6555.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about most of their hobbies?",
+   "options": [
+    "They are free or cheap",
+    "They are expensive",
+    "They take a lot of time"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Most of them are free or pretty cheap"
+  },
+  {
+   "q": "What would the speaker do with more time?",
+   "options": [
+    "Take a pottery class",
+    "Join a gym",
+    "Learn to cook"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I'd take a pottery class"
+  },
+  {
+   "q": "How does the speaker describe spending on hobbies?",
+   "options": [
+    "They spend a lot",
+    "They do not spend much",
+    "They never spend anything"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I don't spend much money on my hobbies"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "spend money on",
+   "ko": "~에 돈을 쓰다",
+   "note": "spend money on + 명사로 써요."
+  },
+  {
+   "term": "pretty cheap",
+   "ko": "꽤 저렴한",
+   "note": "pretty는 '꽤'라는 뜻의 강조어예요."
+  },
+  {
+   "term": "If I had more time",
+   "ko": "시간이 더 있다면",
+   "note": "현재 사실의 반대를 가정할 때 had를 써요."
+  },
+  {
+   "term": "pottery class",
+   "ko": "도예 수업",
+   "note": "take a class는 수업을 듣다예요."
+  }
+ ]
+}

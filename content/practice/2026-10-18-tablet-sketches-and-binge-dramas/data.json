@@ -1,0 +1,261 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5852.24,
+  "end": 5898.33,
+  "clips": [
+   [
+    5852.24,
+    5855.69
+   ],
+   [
+    5874.56,
+    5877.93
+   ],
+   [
+    5894.64,
+    5898.33
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now I draw simple sketches on my tablet.",
+   "chunks": [
+    {
+     "en": "Now I draw",
+     "ko": "이제 저는 그려요"
+    },
+    {
+     "en": "simple sketches",
+     "ko": "간단한 스케치를"
+    },
+    {
+     "en": "on my tablet.",
+     "ko": "제 태블릿에서요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "draw",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "simple",
+     "strong": true,
+     "link": false,
+     "syl": "sim"
+    },
+    {
+     "w": "sketches",
+     "strong": true,
+     "link": true,
+     "syl": "sketch"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tablet.",
+     "strong": true,
+     "link": false,
+     "syl": "tab"
+    }
+   ],
+   "tip": "sketches on은 '스케치전'처럼 이어서 읽어요.",
+   "start": 5852.24,
+   "end": 5855.69
+  },
+  {
+   "text": "Watching dramas is my guilty pleasure.",
+   "chunks": [
+    {
+     "en": "Watching dramas",
+     "ko": "드라마를 보는 것은"
+    },
+    {
+     "en": "is my guilty pleasure.",
+     "ko": "제 죄책감 드는 즐거움이에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Watching",
+     "strong": true,
+     "link": false,
+     "syl": "Watch"
+    },
+    {
+     "w": "dramas",
+     "strong": true,
+     "link": false,
+     "syl": "dra"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "guilty",
+     "strong": true,
+     "link": false,
+     "syl": "guil"
+    },
+    {
+     "w": "pleasure.",
+     "strong": true,
+     "link": false,
+     "syl": "pleas"
+    }
+   ],
+   "tip": "guilty pleasure는 guil에 강세를 두고 pleasure는 '플레저'로 읽어요.",
+   "start": 5874.56,
+   "end": 5877.93
+  },
+  {
+   "text": "Once I start a series, I can't stop watching.",
+   "chunks": [
+    {
+     "en": "Once I start a series,",
+     "ko": "드라마 시리즈를 시작하면"
+    },
+    {
+     "en": "I can't stop watching.",
+     "ko": "저는 멈추고 볼 수 없어요."
+    }
+   ],
+   "words": [
+    {
+     "w": "Once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "series,",
+     "strong": true,
+     "link": false,
+     "syl": "se"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "stop",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "watching.",
+     "strong": true,
+     "link": false,
+     "syl": "watch"
+    }
+   ],
+   "tip": "can't stop은 t 소리가 약해져서 '캔 스탑'처럼 들려요.",
+   "start": 5894.64,
+   "end": 5898.33
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker draw on?",
+   "options": [
+    "A notebook",
+    "A tablet",
+    "A wall"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I draw simple sketches on my tablet."
+  },
+  {
+   "q": "What is the speaker's guilty pleasure?",
+   "options": [
+    "Playing games",
+    "Watching dramas",
+    "Eating sweets"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: Watching dramas is my guilty pleasure."
+  },
+  {
+   "q": "What happens once the speaker starts a series?",
+   "options": [
+    "It gets boring",
+    "The speaker falls asleep",
+    "The speaker can't stop watching"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I can't stop watching."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "sketch",
+   "ko": "스케치, 대충 그린 그림",
+   "note": "simple sketches처럼 간단한 그림에 써요."
+  },
+  {
+   "term": "guilty pleasure",
+   "ko": "죄책감이 드는 즐거움",
+   "note": "남들에게 말하기 조금 쑥스러운 취미에 써요."
+  },
+  {
+   "term": "series",
+   "ko": "시리즈 드라마",
+   "note": "단수와 복수 모양이 같아요."
+  },
+  {
+   "term": "can't stop -ing",
+   "ko": "~을 멈출 수 없다",
+   "note": "can't stop watching처럼 동명사가 와요."
+  }
+ ]
+}

@@ -1,0 +1,321 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16002.48,
+  "end": 16053.29,
+  "clips": [
+   [
+    16002.48,
+    16006.57
+   ],
+   [
+    16026.96,
+    16030.97
+   ],
+   [
+    16049.36,
+    16053.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "By the time I reached the park, dark clouds had moved in.",
+   "chunks": [
+    {
+     "en": "By the time I reached the park,",
+     "ko": "제가 공원에 도착했을 즈음"
+    },
+    {
+     "en": "dark clouds had moved in.",
+     "ko": "먹구름이 몰려와 있었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "By",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reached",
+     "strong": true,
+     "link": false,
+     "syl": "reach"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "park,",
+     "strong": true,
+     "link": false,
+     "syl": "park"
+    },
+    {
+     "w": "dark",
+     "strong": true,
+     "link": false,
+     "syl": "dark"
+    },
+    {
+     "w": "clouds",
+     "strong": true,
+     "link": false,
+     "syl": "clouds"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moved",
+     "strong": true,
+     "link": true,
+     "syl": "moved"
+    },
+    {
+     "w": "in.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "had moved in에서 had는 약하게 'd'로 줄여 읽어요.",
+   "start": 16002.48,
+   "end": 16006.57
+  },
+  {
+   "text": "We had just spread out our blanket when it started pouring.",
+   "chunks": [
+    {
+     "en": "We had just spread out our blanket",
+     "ko": "담요를 막 펼쳤을 때"
+    },
+    {
+     "en": "when it started pouring.",
+     "ko": "비가 쏟아지기 시작했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spread",
+     "strong": true,
+     "link": true,
+     "syl": "spread"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "blanket",
+     "strong": true,
+     "link": false,
+     "syl": "blan"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "pouring.",
+     "strong": true,
+     "link": false,
+     "syl": "pour"
+    }
+   ],
+   "tip": "spread out our는 '스프레다웃아워'처럼 이어 읽어요.",
+   "start": 16026.96,
+   "end": 16030.97
+  },
+  {
+   "text": "We grabbed our bags and ran to a nearby cafe.",
+   "chunks": [
+    {
+     "en": "We grabbed our bags",
+     "ko": "가방을 움켜쥐고"
+    },
+    {
+     "en": "and ran",
+     "ko": "달려서"
+    },
+    {
+     "en": "to a nearby cafe.",
+     "ko": "근처 카페로"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grabbed",
+     "strong": true,
+     "link": true,
+     "syl": "grabbed"
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bags",
+     "strong": true,
+     "link": false,
+     "syl": "bags"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ran",
+     "strong": true,
+     "link": false,
+     "syl": "ran"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearby",
+     "strong": true,
+     "link": false,
+     "syl": "near"
+    },
+    {
+     "w": "cafe.",
+     "strong": true,
+     "link": false,
+     "syl": "fe"
+    }
+   ],
+   "tip": "grabbed our는 '그랩드아워'처럼 끝소리가 다음 단어로 이어져요.",
+   "start": 16049.36,
+   "end": 16053.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What had moved in by the time the speaker reached the park?",
+   "options": [
+    "Thick fog",
+    "Dark clouds",
+    "A crowd"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: dark clouds had moved in"
+  },
+  {
+   "q": "What had the speaker and friend just spread out?",
+   "options": [
+    "A towel",
+    "A map",
+    "A blanket"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: spread out our blanket"
+  },
+  {
+   "q": "Where did they run?",
+   "options": [
+    "To a nearby cafe",
+    "Back home",
+    "To a bus stop"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: ran to a nearby cafe"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "by the time",
+   "ko": "~할 즈음에는 이미",
+   "note": "뒤에 과거 시제, 앞에 과거완료를 자주 써요."
+  },
+  {
+   "term": "dark clouds",
+   "ko": "먹구름",
+   "note": "dark는 '어두운'이라는 뜻이에요."
+  },
+  {
+   "term": "spread out",
+   "ko": "펼치다",
+   "note": "담요나 지도를 펼칠 때 써요."
+  },
+  {
+   "term": "pouring",
+   "ko": "퍼붓다",
+   "note": "비가 세차게 올 때 써요."
+  },
+  {
+   "term": "nearby",
+   "ko": "근처의",
+   "note": "near와 by가 합쳐진 단어예요."
+  }
+ ]
+}

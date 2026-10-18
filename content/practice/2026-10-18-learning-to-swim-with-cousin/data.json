@@ -1,0 +1,313 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10664.72,
+  "end": 10714.81,
+  "clips": [
+   [
+    10664.72,
+    10668.65
+   ],
+   [
+    10687.84,
+    10691.61
+   ],
+   [
+    10710.96,
+    10714.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'll always remember the summer I finally learned to swim.",
+   "chunks": [
+    {
+     "en": "I'll always remember",
+     "ko": "나는 늘 기억할 것이다"
+    },
+    {
+     "en": "the summer",
+     "ko": "그 여름을"
+    },
+    {
+     "en": "I finally learned to swim.",
+     "ko": "내가 마침내 수영을 배운"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remember",
+     "strong": true,
+     "syl": "mem",
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "summer",
+     "strong": true,
+     "syl": "sum",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finally",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "syl": "learned",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "swim.",
+     "strong": true,
+     "syl": "swim",
+     "link": false
+    }
+   ],
+   "tip": "remember와 swim에 강세를 주고 learned to는 '런드투'처럼 말해요.",
+   "start": 10664.72,
+   "end": 10668.65
+  },
+  {
+   "text": "I had been afraid of water ever since I was a kid.",
+   "chunks": [
+    {
+     "en": "I had been afraid of water",
+     "ko": "물을 무서워했었다"
+    },
+    {
+     "en": "ever since I was a kid.",
+     "ko": "어렸을 때부터 쭉"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "afraid",
+     "strong": true,
+     "syl": "fraid",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "water",
+     "strong": true,
+     "syl": "wa",
+     "link": false
+    },
+    {
+     "w": "ever",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "since",
+     "strong": true,
+     "syl": "since",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kid.",
+     "strong": true,
+     "syl": "kid",
+     "link": false
+    }
+   ],
+   "tip": "afraid of는 '어프레이덥', was a는 '워저'처럼 이어요.",
+   "start": 10687.84,
+   "end": 10691.61
+  },
+  {
+   "text": "My cousin was patient and taught me step by step.",
+   "chunks": [
+    {
+     "en": "My cousin was patient",
+     "ko": "사촌이 인내심 있게"
+    },
+    {
+     "en": "and taught me",
+     "ko": "나를 가르쳐 주었다"
+    },
+    {
+     "en": "step by step.",
+     "ko": "한 단계씩"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cousin",
+     "strong": true,
+     "syl": "cous",
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patient",
+     "strong": true,
+     "syl": "pa",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taught",
+     "strong": true,
+     "syl": "taught",
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "step",
+     "strong": true,
+     "syl": "step",
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "step.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "patient and는 '페이션탠'처럼 이어 읽어요.",
+   "start": 10710.96,
+   "end": 10714.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker finally learn to do?",
+   "options": [
+    "Swim",
+    "Dive",
+    "Surf"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: the summer I finally learned to swim"
+  },
+  {
+   "q": "Since when had the speaker been afraid of water?",
+   "options": [
+    "Since college",
+    "Since last year",
+    "Since being a kid"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: ever since I was a kid"
+  },
+  {
+   "q": "Who taught the speaker?",
+   "options": [
+    "A coach",
+    "A cousin",
+    "A neighbor"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: My cousin was patient and taught me"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "afraid of",
+   "ko": "~을 무서워하는",
+   "note": "afraid of + 명사/동명사로 써요."
+  },
+  {
+   "term": "ever since",
+   "ko": "~한 이후로 쭉",
+   "note": "과거의 한 시점부터 지금까지를 말해요."
+  },
+  {
+   "term": "patient",
+   "ko": "인내심 있는",
+   "note": "참을성 있게 가르쳐 준 사람을 칭찬할 때 써요."
+  },
+  {
+   "term": "step by step",
+   "ko": "한 단계씩",
+   "note": "천천히 배우는 과정을 말해요."
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5316.4,
+  "end": 5364.73,
+  "clips": [
+   [
+    5316.4,
+    5320.01
+   ],
+   [
+    5339.04,
+    5342.57
+   ],
+   [
+    5361.04,
+    5364.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Cooking is something I picked up during the pandemic.",
+   "chunks": [
+    {
+     "en": "Cooking is something",
+     "ko": "요리는 어떤 것이다"
+    },
+    {
+     "en": "I picked up",
+     "ko": "내가 시작하게 된"
+    },
+    {
+     "en": "during the pandemic.",
+     "ko": "팬데믹 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "Cooking",
+     "strong": true,
+     "syl": "cook",
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "picked",
+     "strong": true,
+     "syl": "pick",
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "during",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pandemic.",
+     "strong": true,
+     "syl": "dem",
+     "link": false
+    }
+   ],
+   "tip": "'picked up'은 '픽텁'처럼 이어 읽어요.",
+   "start": 5316.4,
+   "end": 5320.01
+  },
+  {
+   "text": "I like trying new recipes I find online.",
+   "chunks": [
+    {
+     "en": "I like trying",
+     "ko": "나는 해 보는 것을 좋아한다"
+    },
+    {
+     "en": "new recipes",
+     "ko": "새로운 레시피를"
+    },
+    {
+     "en": "I find online.",
+     "ko": "내가 온라인에서 찾은"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": true,
+     "syl": "try",
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recipes",
+     "strong": true,
+     "syl": "rec",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "find",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "online.",
+     "strong": true,
+     "syl": "on",
+     "link": false
+    }
+   ],
+   "tip": "'find online'은 '파인돈라인'처럼 이어져요.",
+   "start": 5339.04,
+   "end": 5342.57
+  },
+  {
+   "text": "My signature dish is a spicy kimchi stew.",
+   "chunks": [
+    {
+     "en": "My signature dish",
+     "ko": "내 대표 요리는"
+    },
+    {
+     "en": "is a spicy kimchi stew.",
+     "ko": "매콤한 김치찌개이다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "signature",
+     "strong": true,
+     "syl": "sig",
+     "link": false
+    },
+    {
+     "w": "dish",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spicy",
+     "strong": true,
+     "syl": "spi",
+     "link": false
+    },
+    {
+     "w": "kimchi",
+     "strong": true,
+     "syl": "kim",
+     "link": false
+    },
+    {
+     "w": "stew.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'dish is'는 '디쉬즈'처럼 이어 읽어요.",
+   "start": 5361.04,
+   "end": 5364.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "When did the speaker pick up cooking?",
+   "options": [
+    "As a child",
+    "During the pandemic",
+    "After a trip abroad"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: during the pandemic"
+  },
+  {
+   "q": "Where does the speaker find new recipes?",
+   "options": [
+    "In cookbooks",
+    "From a neighbor",
+    "Online"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: new recipes I find online"
+  },
+  {
+   "q": "What is the speaker's signature dish?",
+   "options": [
+    "A spicy kimchi stew",
+    "Fried rice",
+    "Beef soup"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: a spicy kimchi stew"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "pick up",
+   "ko": "(취미를) 시작하게 되다",
+   "note": "새로 배운 습관에 자주 써요."
+  },
+  {
+   "term": "pandemic",
+   "ko": "팬데믹",
+   "note": "the pandemic으로 시기를 말해요."
+  },
+  {
+   "term": "recipe",
+   "ko": "요리법",
+   "note": "find a recipe처럼 써요."
+  },
+  {
+   "term": "signature dish",
+   "ko": "대표 요리",
+   "note": "가장 자신 있는 요리를 말해요."
+  },
+  {
+   "term": "stew",
+   "ko": "찌개, 스튜",
+   "note": "끓인 국물 요리를 말해요."
+  }
+ ]
+}

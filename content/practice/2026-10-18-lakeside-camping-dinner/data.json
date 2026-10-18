@@ -1,0 +1,315 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7870.0,
+  "end": 7915.85,
+  "clips": [
+   [
+    7870.0,
+    7873.45
+   ],
+   [
+    7890.56,
+    7894.17
+   ],
+   [
+    7912.32,
+    7915.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "We set up a tent and grilled meat for dinner.",
+   "chunks": [
+    {
+     "en": "We set up a tent",
+     "ko": "우리는 텐트를 쳤고"
+    },
+    {
+     "en": "and grilled meat",
+     "ko": "고기를 구웠고"
+    },
+    {
+     "en": "for dinner.",
+     "ko": "저녁으로 먹었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "set",
+     "strong": true,
+     "link": true,
+     "syl": "set"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tent",
+     "strong": true,
+     "link": true,
+     "syl": "tent"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grilled",
+     "strong": true,
+     "link": false,
+     "syl": "grilled"
+    },
+    {
+     "w": "meat",
+     "strong": true,
+     "link": false,
+     "syl": "meat"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dinner.",
+     "strong": true,
+     "link": false,
+     "syl": "din"
+    }
+   ],
+   "tip": "set up a는 '세텁어'처럼 이어 읽어요.",
+   "start": 7870.0,
+   "end": 7873.45
+  },
+  {
+   "text": "My little brother caught a fish for the first time.",
+   "chunks": [
+    {
+     "en": "My little brother caught a fish",
+     "ko": "내 남동생이 물고기를 잡았다"
+    },
+    {
+     "en": "for the first time.",
+     "ko": "처음으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "brother",
+     "strong": true,
+     "link": false,
+     "syl": "broth"
+    },
+    {
+     "w": "caught",
+     "strong": true,
+     "link": true,
+     "syl": "caught"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fish",
+     "strong": true,
+     "link": false,
+     "syl": "fish"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "time.",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "caught a는 '코러'처럼 이어 읽어요.",
+   "start": 7890.56,
+   "end": 7894.17
+  },
+  {
+   "text": "Camping is a great way to get away from the city.",
+   "chunks": [
+    {
+     "en": "Camping is a great way",
+     "ko": "캠핑은 훌륭한 방법이다"
+    },
+    {
+     "en": "to get away",
+     "ko": "벗어나는"
+    },
+    {
+     "en": "from the city.",
+     "ko": "도시에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Camping",
+     "strong": true,
+     "link": true,
+     "syl": "camp"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false,
+     "syl": "great"
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "away",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city.",
+     "strong": true,
+     "link": false,
+     "syl": "ci"
+    }
+   ],
+   "tip": "get away는 '게러웨이'처럼 이어 읽어요.",
+   "start": 7912.32,
+   "end": 7915.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did they cook for dinner?",
+   "options": [
+    "Fish soup",
+    "Pasta",
+    "Grilled meat"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: grilled meat for dinner"
+  },
+  {
+   "q": "Who caught a fish for the first time?",
+   "options": [
+    "The speaker's little brother",
+    "The speaker",
+    "The speaker's father"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: My little brother caught a fish for the first time"
+  },
+  {
+   "q": "What does the speaker say camping is good for?",
+   "options": [
+    "Saving money",
+    "Getting away from the city",
+    "Learning to cook"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: a great way to get away from the city"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "set up a tent",
+   "ko": "텐트를 치다",
+   "note": "set up은 '설치하다'예요."
+  },
+  {
+   "term": "grill meat",
+   "ko": "고기를 굽다",
+   "note": "grill은 불판에 굽는 걸 말해요."
+  },
+  {
+   "term": "catch a fish",
+   "ko": "물고기를 잡다",
+   "note": "catch-caught-caught로 변해요."
+  },
+  {
+   "term": "for the first time",
+   "ko": "처음으로",
+   "note": "경험을 말할 때 자주 써요."
+  },
+  {
+   "term": "get away from",
+   "ko": "~에서 벗어나다",
+   "note": "휴식을 말할 때 자주 써요."
+  }
+ ]
+}

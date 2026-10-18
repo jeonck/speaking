@@ -1,0 +1,337 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17971.68,
+  "end": 18026.81,
+  "clips": [
+   [
+    17971.68,
+    17976.01
+   ],
+   [
+    17995.76,
+    17999.85
+   ],
+   [
+    18021.36,
+    18026.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Last time I offered to make a dish I'd never cooked before.",
+   "chunks": [
+    {
+     "en": "Last time",
+     "ko": "지난번에"
+    },
+    {
+     "en": "I offered to make a dish",
+     "ko": "음식을 만들어 보겠다고 했어요"
+    },
+    {
+     "en": "I'd never cooked before.",
+     "ko": "전에 한 번도 요리해 본 적 없는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "offered",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dish",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "nev"
+    },
+    {
+     "w": "cooked",
+     "strong": true,
+     "link": false,
+     "syl": "cooked"
+    },
+    {
+     "w": "before.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "offered는 '오퍼드'로 첫음절에 강세를 줘요.",
+   "start": 17971.68,
+   "end": 17976.01
+  },
+  {
+   "text": "I practiced a few days beforehand just to be safe.",
+   "chunks": [
+    {
+     "en": "I practiced a few days beforehand",
+     "ko": "저는 며칠 전에 연습했어요"
+    },
+    {
+     "en": "just to be safe.",
+     "ko": "그냥 안전하게 하려고"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "practiced",
+     "strong": true,
+     "link": false,
+     "syl": "prac"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beforehand",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safe.",
+     "strong": true,
+     "link": false,
+     "syl": "safe"
+    }
+   ],
+   "tip": "practiced는 끝의 -ed가 't'로 들려 '프랙티스트'예요.",
+   "start": 17995.76,
+   "end": 17999.85
+  },
+  {
+   "text": "On the day my grandmother tasted it and suggested adding a little more salt.",
+   "chunks": [
+    {
+     "en": "On the day",
+     "ko": "당일에"
+    },
+    {
+     "en": "my grandmother tasted it",
+     "ko": "할머니가 맛을 보시고"
+    },
+    {
+     "en": "and suggested adding a little more salt.",
+     "ko": "조금 더 소금을 넣으라고 하셨어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grandmother",
+     "strong": true,
+     "link": false,
+     "syl": "grand"
+    },
+    {
+     "w": "tasted",
+     "strong": true,
+     "link": false,
+     "syl": "tast"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "suggested",
+     "strong": true,
+     "link": false,
+     "syl": "gest"
+    },
+    {
+     "w": "adding",
+     "strong": true,
+     "link": false,
+     "syl": "add"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "salt.",
+     "strong": true,
+     "link": false,
+     "syl": "salt"
+    }
+   ],
+   "tip": "salt는 l을 약하게 '솔트'처럼 읽어요.",
+   "start": 18021.36,
+   "end": 18026.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the speaker prepare for the new dish?",
+   "options": [
+    "Bought it ready-made",
+    "Asked a chef to cook it",
+    "Practiced a few days beforehand"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I practiced a few days beforehand"
+  },
+  {
+   "q": "Who tasted the dish?",
+   "options": [
+    "The grandmother",
+    "A neighbor",
+    "A coworker"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: my grandmother tasted it"
+  },
+  {
+   "q": "What did she suggest?",
+   "options": [
+    "Cooking it longer",
+    "Adding a little more salt",
+    "Using less sugar"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: suggested adding a little more salt"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "offered to",
+   "ko": "~하겠다고 제안하다",
+   "note": "offer to + 동사원형으로 써요."
+  },
+  {
+   "term": "beforehand",
+   "ko": "미리",
+   "note": "ahead of time과 비슷해요."
+  },
+  {
+   "term": "just to be safe",
+   "ko": "혹시 몰라서",
+   "note": "조심하는 이유를 말할 때 써요."
+  },
+  {
+   "term": "suggested adding",
+   "ko": "더하라고 제안했다",
+   "note": "suggest 뒤에는 -ing를 써요."
+  },
+  {
+   "term": "a little more",
+   "ko": "조금 더",
+   "note": "양을 조금 늘릴 때 써요."
+  }
+ ]
+}

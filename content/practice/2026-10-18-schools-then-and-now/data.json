@@ -1,0 +1,298 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 12593.84,
+  "end": 12644.89,
+  "clips": [
+   [
+    12593.84,
+    12597.69
+   ],
+   [
+    12617.2,
+    12620.73
+   ],
+   [
+    12639.84,
+    12644.89
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Schools today are quite different from when I was a student.",
+   "chunks": [
+    {
+     "en": "Schools today are quite different",
+     "ko": "오늘날의 학교는 꽤 달라요"
+    },
+    {
+     "en": "from when I was a student.",
+     "ko": "제가 학생이었을 때와는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Schools",
+     "strong": true,
+     "link": false,
+     "syl": "schools"
+    },
+    {
+     "w": "today",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quite",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "diff"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "student.",
+     "strong": true,
+     "link": false,
+     "syl": "stu"
+    }
+   ],
+   "tip": "'different from'은 'ㄷ' 소리를 약하게 하고 different에 강세를 둬요.",
+   "start": 12593.84,
+   "end": 12597.69
+  },
+  {
+   "text": "We used to carry heavy textbooks everywhere.",
+   "chunks": [
+    {
+     "en": "We used to carry",
+     "ko": "우리는 들고 다니곤 했어요"
+    },
+    {
+     "en": "heavy textbooks",
+     "ko": "무거운 교과서를"
+    },
+    {
+     "en": "everywhere.",
+     "ko": "어디든지"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carry",
+     "strong": true,
+     "link": false,
+     "syl": "car"
+    },
+    {
+     "w": "heavy",
+     "strong": true,
+     "link": false,
+     "syl": "heav"
+    },
+    {
+     "w": "textbooks",
+     "strong": true,
+     "link": false,
+     "syl": "text"
+    },
+    {
+     "w": "everywhere.",
+     "strong": true,
+     "link": false,
+     "syl": "every"
+    }
+   ],
+   "tip": "'used to'는 '유스투'로 붙여 읽어요.",
+   "start": 12617.2,
+   "end": 12620.73
+  },
+  {
+   "text": "At my nephew's school, students use tablets and submit homework online.",
+   "chunks": [
+    {
+     "en": "At my nephew's school,",
+     "ko": "제 조카의 학교에서는"
+    },
+    {
+     "en": "students use tablets",
+     "ko": "학생들이 태블릿을 쓰고"
+    },
+    {
+     "en": "and submit homework online.",
+     "ko": "온라인으로 숙제를 제출해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "At",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nephew's",
+     "strong": true,
+     "link": false,
+     "syl": "nep"
+    },
+    {
+     "w": "school,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tablets",
+     "strong": true,
+     "link": false,
+     "syl": "tab"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "submit",
+     "strong": true,
+     "link": false,
+     "syl": "mit"
+    },
+    {
+     "w": "homework",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "online.",
+     "strong": true,
+     "link": false,
+     "syl": "line"
+    }
+   ],
+   "tip": "'and submit'은 '앤섭밋'처럼 이어 읽어요.",
+   "start": 12639.84,
+   "end": 12644.89
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker carry as a student?",
+   "options": [
+    "Heavy textbooks",
+    "Tablets",
+    "Laptops"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: We used to carry heavy textbooks everywhere"
+  },
+  {
+   "q": "Whose school uses tablets?",
+   "options": [
+    "The nephew's",
+    "The speaker's",
+    "A friend's"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: At my nephew's school, students use tablets"
+  },
+  {
+   "q": "How do students submit homework now?",
+   "options": [
+    "Online",
+    "By mail",
+    "In person"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: submit homework online"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "used to carry",
+   "ko": "~을 들고 다니곤 했다",
+   "note": "과거의 습관을 말해요."
+  },
+  {
+   "term": "textbook",
+   "ko": "교과서",
+   "note": "한 단어로 붙여 써요."
+  },
+  {
+   "term": "nephew",
+   "ko": "남자 조카",
+   "note": "여자 조카는 niece예요."
+  },
+  {
+   "term": "submit homework",
+   "ko": "숙제를 제출하다",
+   "note": "turn in도 같은 뜻이에요."
+  }
+ ]
+}

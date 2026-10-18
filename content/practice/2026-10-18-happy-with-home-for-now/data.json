@@ -1,0 +1,306 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4408.4,
+  "end": 4455.69,
+  "clips": [
+   [
+    4408.4,
+    4412.01
+   ],
+   [
+    4430.08,
+    4433.29
+   ],
+   [
+    4451.12,
+    4455.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It would be nice to have a bit more space and quiet.",
+   "chunks": [
+    {
+     "en": "It would be nice",
+     "ko": "좋을 거예요"
+    },
+    {
+     "en": "to have a bit more space",
+     "ko": "조금 더 공간이 있으면"
+    },
+    {
+     "en": "and quiet.",
+     "ko": "그리고 조용함이"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nice",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bit",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "space",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet.",
+     "strong": true,
+     "link": false,
+     "syl": "qui"
+    }
+   ],
+   "tip": "have a bit은 '해버빗'처럼 이어 읽어요.",
+   "start": 4408.4,
+   "end": 4412.01
+  },
+  {
+   "text": "For now though, I'm happy where I am.",
+   "chunks": [
+    {
+     "en": "For now though,",
+     "ko": "지금은 그래도"
+    },
+    {
+     "en": "I'm happy",
+     "ko": "행복해요"
+    },
+    {
+     "en": "where I am.",
+     "ko": "지금 있는 곳에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "though,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happy",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "where",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "am.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "where I am은 '웨어라이엠'처럼 이어 읽어요.",
+   "start": 4430.08,
+   "end": 4433.29
+  },
+  {
+   "text": "Overall, my home is comfortable and the neighborhood is convenient.",
+   "chunks": [
+    {
+     "en": "Overall,",
+     "ko": "전반적으로"
+    },
+    {
+     "en": "my home is comfortable",
+     "ko": "우리 집은 편안하고"
+    },
+    {
+     "en": "and the neighborhood is convenient.",
+     "ko": "동네는 편리해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Overall,",
+     "strong": true,
+     "link": false,
+     "syl": "all"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comfortable",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood",
+     "strong": true,
+     "link": true,
+     "syl": "neigh"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "convenient.",
+     "strong": true,
+     "link": false,
+     "syl": "ven"
+    }
+   ],
+   "tip": "comfortable은 '컴프터블'처럼 가운데 모음을 줄여 읽어요.",
+   "start": 4451.12,
+   "end": 4455.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "What extra would the speaker like?",
+   "options": [
+    "A bigger kitchen",
+    "More space and quiet",
+    "A nearby park"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a bit more space and quiet"
+  },
+  {
+   "q": "How does the speaker feel for now?",
+   "options": [
+    "Happy where they are",
+    "Eager to move",
+    "Tired of the area"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I'm happy where I am"
+  },
+  {
+   "q": "How does the speaker describe the neighborhood?",
+   "options": [
+    "Crowded and loud",
+    "Quiet and old",
+    "Convenient"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: the neighborhood is convenient"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a bit more",
+   "ko": "조금 더",
+   "note": "a bit은 a little과 비슷해요."
+  },
+  {
+   "term": "For now though,",
+   "ko": "그래도 지금은",
+   "note": "바람과 현재 상황을 대비할 때 써요."
+  },
+  {
+   "term": "where I am",
+   "ko": "지금 있는 곳",
+   "note": "현재 상황이나 위치를 말할 때 써요."
+  },
+  {
+   "term": "Overall,",
+   "ko": "전반적으로",
+   "note": "결론을 말할 때 써요."
+  },
+  {
+   "term": "convenient",
+   "ko": "편리한",
+   "note": "위치나 교통이 편할 때 써요."
+  }
+ ]
+}

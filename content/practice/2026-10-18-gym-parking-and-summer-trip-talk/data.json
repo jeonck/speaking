@@ -1,0 +1,273 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14018.96,
+  "end": 14062.65,
+  "clips": [
+   [
+    14018.96,
+    14022.17
+   ],
+   [
+    14038.56,
+    14042.01
+   ],
+   [
+    14059.36,
+    14062.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Is parking available near the building?",
+   "chunks": [
+    {
+     "en": "Is parking available",
+     "ko": "주차가 가능한가요"
+    },
+    {
+     "en": "near the building?",
+     "ko": "건물 근처에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parking",
+     "strong": true,
+     "link": false,
+     "syl": "park"
+    },
+    {
+     "w": "available",
+     "strong": true,
+     "link": false,
+     "syl": "vail"
+    },
+    {
+     "w": "near",
+     "strong": true,
+     "link": false,
+     "syl": "near"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "building?",
+     "strong": true,
+     "link": false,
+     "syl": "build"
+    }
+   ],
+   "tip": "available은 둘째 음절 VAIL에 강세: '어베일러블'.",
+   "start": 14018.96,
+   "end": 14022.17
+  },
+  {
+   "text": "Thank you. That answers all of my questions.",
+   "chunks": [
+    {
+     "en": "Thank you.",
+     "ko": "감사합니다."
+    },
+    {
+     "en": "That answers",
+     "ko": "그걸로 답이 되었어요"
+    },
+    {
+     "en": "all of my questions.",
+     "ko": "제 모든 질문에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Thank",
+     "strong": true,
+     "link": false,
+     "syl": "Thank"
+    },
+    {
+     "w": "you.",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "answers",
+     "strong": true,
+     "link": true,
+     "syl": "an"
+    },
+    {
+     "w": "all",
+     "strong": true,
+     "link": true,
+     "syl": "all"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "questions.",
+     "strong": true,
+     "link": false,
+     "syl": "ques"
+    }
+   ],
+   "tip": "answers의 w는 소리 나지 않아요: '앤서스'.",
+   "start": 14038.56,
+   "end": 14042.01
+  },
+  {
+   "text": "Hey, I heard you're planning a trip this summer.",
+   "chunks": [
+    {
+     "en": "Hey,",
+     "ko": "저기,"
+    },
+    {
+     "en": "I heard you're planning a trip",
+     "ko": "여행을 계획 중이라고 들었어"
+    },
+    {
+     "en": "this summer.",
+     "ko": "이번 여름에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Hey,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heard",
+     "strong": true,
+     "link": false,
+     "syl": "heard"
+    },
+    {
+     "w": "you're",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "planning",
+     "strong": true,
+     "link": true,
+     "syl": "plan"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "summer.",
+     "strong": true,
+     "link": false,
+     "syl": "sum"
+    }
+   ],
+   "tip": "planning a는 '플래닝어'처럼 이어 읽어요.",
+   "start": 14059.36,
+   "end": 14062.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask about the building?",
+   "options": [
+    "Whether parking is available nearby",
+    "Whether it has an elevator",
+    "Whether it is open on holidays"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Is parking available near the building"
+  },
+  {
+   "q": "What does the speaker say about the questions?",
+   "options": [
+    "Some remain unanswered",
+    "They were all answered",
+    "They were too difficult"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: That answers all of my questions"
+  },
+  {
+   "q": "What did the speaker hear about a friend?",
+   "options": [
+    "A move to a new city",
+    "A new job",
+    "A trip planned for this summer"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: you're planning a trip this summer"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "available",
+   "ko": "이용 가능한",
+   "note": "Is parking available?은 주차 가능 여부를 물어요."
+  },
+  {
+   "term": "near the building",
+   "ko": "건물 근처에",
+   "note": "near 뒤에는 장소가 바로 와요."
+  },
+  {
+   "term": "That answers all of my questions",
+   "ko": "제 질문에 다 답이 됐어요",
+   "note": "대화를 마무리할 때 쓰기 좋아요."
+  },
+  {
+   "term": "I heard",
+   "ko": "~라고 들었어",
+   "note": "소문이나 소식을 꺼낼 때 써요."
+  },
+  {
+   "term": "planning a trip",
+   "ko": "여행을 계획하다",
+   "note": "plan a trip to + 장소로 확장해요."
+  }
+ ]
+}

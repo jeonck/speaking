@@ -1,0 +1,300 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8672.32,
+  "end": 8718.73,
+  "clips": [
+   [
+    8672.32,
+    8676.01
+   ],
+   [
+    8694.24,
+    8697.77
+   ],
+   [
+    8715.12,
+    8718.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "This year I'm planning a short trip to the mountains.",
+   "chunks": [
+    {
+     "en": "This year I'm planning",
+     "ko": "올해 저는 계획하고 있어요"
+    },
+    {
+     "en": "a short trip",
+     "ko": "짧은 여행을"
+    },
+    {
+     "en": "to the mountains.",
+     "ko": "산으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "This",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "planning",
+     "strong": true,
+     "link": false,
+     "syl": "plan"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "short",
+     "strong": true,
+     "link": false,
+     "syl": "short"
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mountains.",
+     "strong": true,
+     "link": false,
+     "syl": "moun"
+    }
+   ],
+   "tip": "This year I'm은 '디스이어아임'처럼 이어요. short trip에 힘을 줘요.",
+   "start": 8672.32,
+   "end": 8676.01
+  },
+  {
+   "text": "I've already booked a cabin with a nice view.",
+   "chunks": [
+    {
+     "en": "I've already booked a cabin",
+     "ko": "저는 이미 오두막을 예약했어요"
+    },
+    {
+     "en": "with a nice view.",
+     "ko": "멋진 전망이 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "already",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "booked",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cabin",
+     "strong": true,
+     "link": false,
+     "syl": "cab"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nice",
+     "strong": true,
+     "link": false,
+     "syl": "nice"
+    },
+    {
+     "w": "view.",
+     "strong": true,
+     "link": false,
+     "syl": "view"
+    }
+   ],
+   "tip": "booked a는 '북터'처럼 이어요. already는 al에 강세를 줘요.",
+   "start": 8694.24,
+   "end": 8697.77
+  },
+  {
+   "text": "I can't wait to breathe in the fresh mountain air.",
+   "chunks": [
+    {
+     "en": "I can't wait to breathe in",
+     "ko": "빨리 들이마시고 싶어요"
+    },
+    {
+     "en": "the fresh mountain air.",
+     "ko": "신선한 산 공기를"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wait",
+     "strong": true,
+     "link": false,
+     "syl": "wait"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "breathe",
+     "strong": true,
+     "link": true,
+     "syl": "breathe"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fresh",
+     "strong": true,
+     "link": false,
+     "syl": "fresh"
+    },
+    {
+     "w": "mountain",
+     "strong": true,
+     "link": false,
+     "syl": "moun"
+    },
+    {
+     "w": "air.",
+     "strong": true,
+     "link": false,
+     "syl": "air"
+    }
+   ],
+   "tip": "can't wait의 can't는 또렷하게 '캔트'로 읽어요. breathe in은 '브리딘'처럼 이어요.",
+   "start": 8715.12,
+   "end": 8718.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the speaker planning a short trip?",
+   "options": [
+    "To the beach",
+    "To the mountains",
+    "To a big city"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: a short trip to the mountains."
+  },
+  {
+   "q": "What has the speaker already booked?",
+   "options": [
+    "A cabin with a nice view",
+    "A hotel in the city",
+    "A campsite"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I've already booked a cabin with a nice view."
+  },
+  {
+   "q": "What can't the speaker wait to do?",
+   "options": [
+    "Go skiing",
+    "Take photos",
+    "Breathe in the fresh mountain air"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I can't wait to breathe in the fresh mountain air."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "I can't wait to ~",
+   "ko": "빨리 ~하고 싶어요",
+   "note": "기대감을 표현할 때 써요."
+  },
+  {
+   "term": "book a cabin",
+   "ko": "오두막을 예약하다",
+   "note": "book은 동사로 '예약하다'예요."
+  },
+  {
+   "term": "breathe in",
+   "ko": "들이마시다",
+   "note": "명사 breath와 달리 동사 breathe는 끝에 '-ð' 소리가 나요."
+  },
+  {
+   "term": "a short trip",
+   "ko": "짧은 여행",
+   "note": "short는 '기간이 짧은'이라는 뜻이에요."
+  },
+  {
+   "term": "a nice view",
+   "ko": "멋진 전망",
+   "note": "view 앞에 nice/great 등을 써요."
+  }
+ ]
+}

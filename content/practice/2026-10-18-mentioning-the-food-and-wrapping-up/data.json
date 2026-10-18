@@ -1,0 +1,256 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22518.48,
+  "end": 22557.85,
+  "clips": [
+   [
+    22518.48,
+    22521.85
+   ],
+   [
+    22537.28,
+    22540.17
+   ],
+   [
+    22554.56,
+    22557.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Oh, and I almost forgot to mention the food.",
+   "chunks": [
+    {
+     "en": "Oh, and I almost forgot",
+     "ko": "아, 그리고 깜빡할 뻔했어요"
+    },
+    {
+     "en": "to mention the food.",
+     "ko": "음식에 대해 말하는 걸"
+    }
+   ],
+   "words": [
+    {
+     "w": "Oh,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almost",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forgot",
+     "strong": true,
+     "link": false,
+     "syl": "got"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mention",
+     "strong": true,
+     "link": false,
+     "syl": "men"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'and I'는 '앤드 아이'가 아니라 '앤다이'처럼 이어 읽어요.",
+   "start": 22518.48,
+   "end": 22521.85
+  },
+  {
+   "text": "That's why I keep going back there.",
+   "chunks": [
+    {
+     "en": "That's why I keep going back",
+     "ko": "제가 계속 다시 가는 이유예요"
+    },
+    {
+     "en": "there.",
+     "ko": "그곳에"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "why",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "going",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "there.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'keep going back'은 한 덩어리로, back을 가장 세게 읽어요.",
+   "start": 22537.28,
+   "end": 22540.17
+  },
+  {
+   "text": "So that's pretty much how my day goes.",
+   "chunks": [
+    {
+     "en": "So that's pretty much",
+     "ko": "그러니까 거의 이런 식으로"
+    },
+    {
+     "en": "how my day goes.",
+     "ko": "제 하루가 흘러가요"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": true,
+     "link": false,
+     "syl": "pret"
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "goes.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'pretty much'는 pretty의 앞 음절에 강세를 둬요.",
+   "start": 22554.56,
+   "end": 22557.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker almost forget to mention?",
+   "options": [
+    "The weather",
+    "The food",
+    "The price"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I almost forgot to mention the food"
+  },
+  {
+   "q": "What does the speaker do repeatedly?",
+   "options": [
+    "Keeps going back to the place",
+    "Moves to a new city",
+    "Cooks at home"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I keep going back there"
+  },
+  {
+   "q": "What is the speaker summarizing in the last sentence?",
+   "options": [
+    "A trip abroad",
+    "A work project",
+    "How their day goes"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: how my day goes"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "almost forgot to mention",
+   "ko": "말하는 걸 깜빡할 뻔했다",
+   "note": "덧붙일 말이 떠오를 때 쓰는 표현이에요."
+  },
+  {
+   "term": "keep going back",
+   "ko": "계속 다시 가다",
+   "note": "좋아서 반복해서 간다는 느낌이에요."
+  },
+  {
+   "term": "pretty much",
+   "ko": "거의, 대체로",
+   "note": "정확하진 않지만 거의 맞을 때 써요."
+  },
+  {
+   "term": "how my day goes",
+   "ko": "내 하루가 흘러가는 방식",
+   "note": "일과를 정리하며 마무리할 때 좋아요."
+  }
+ ]
+}

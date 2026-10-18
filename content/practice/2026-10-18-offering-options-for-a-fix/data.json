@@ -1,0 +1,302 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15208.0,
+  "end": 15254.01,
+  "clips": [
+   [
+    15208.0,
+    15211.53
+   ],
+   [
+    15229.52,
+    15233.21
+   ],
+   [
+    15250.48,
+    15254.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'd really appreciate it if you could sort this out.",
+   "chunks": [
+    {
+     "en": "I'd really appreciate it",
+     "ko": "정말 감사하겠어요"
+    },
+    {
+     "en": "if you could sort this out.",
+     "ko": "이 문제를 해결해 주신다면"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "appreciate",
+     "strong": true,
+     "link": true,
+     "syl": "ci"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sort",
+     "strong": true,
+     "link": false,
+     "syl": "sort"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out.",
+     "strong": true,
+     "link": false,
+     "syl": "out"
+    }
+   ],
+   "tip": "appreciate it은 '어프리시에이릿'처럼 이어 읽어요.",
+   "start": 15208.0,
+   "end": 15211.53
+  },
+  {
+   "text": "Let me suggest a couple of options that might work.",
+   "chunks": [
+    {
+     "en": "Let me suggest",
+     "ko": "제안해 볼게요"
+    },
+    {
+     "en": "a couple of options",
+     "ko": "몇 가지 선택지를"
+    },
+    {
+     "en": "that might work.",
+     "ko": "통할 만한"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "suggest",
+     "strong": true,
+     "link": true,
+     "syl": "gest"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "couple",
+     "strong": true,
+     "link": true,
+     "syl": "cou"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "options",
+     "strong": true,
+     "link": false,
+     "syl": "op"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "might",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work.",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    }
+   ],
+   "tip": "couple of options는 '커플어법션스'처럼 이어 읽어요.",
+   "start": 15229.52,
+   "end": 15233.21
+  },
+  {
+   "text": "One option is to exchange it for a new one.",
+   "chunks": [
+    {
+     "en": "One option is",
+     "ko": "한 가지 선택지는"
+    },
+    {
+     "en": "to exchange it",
+     "ko": "교환하는 것"
+    },
+    {
+     "en": "for a new one.",
+     "ko": "새 것으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "option",
+     "strong": true,
+     "link": true,
+     "syl": "op"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exchange",
+     "strong": true,
+     "link": true,
+     "syl": "change"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": true,
+     "syl": "new"
+    },
+    {
+     "w": "one.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "exchange it은 '익스체인짓'처럼 이어 읽어요.",
+   "start": 15250.48,
+   "end": 15254.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What would the speaker appreciate?",
+   "options": [
+    "A free gift",
+    "Help sorting this out",
+    "A longer deadline"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I'd really appreciate it if you could sort this out."
+  },
+  {
+   "q": "What does the speaker offer in the second sentence?",
+   "options": [
+    "A full refund",
+    "An apology",
+    "A couple of options"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: Let me suggest a couple of options"
+  },
+  {
+   "q": "What is the first option?",
+   "options": [
+    "Exchange it for a new one",
+    "Get store credit",
+    "Get a refund"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: One option is to exchange it for a new one."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "I'd really appreciate it if",
+   "ko": "~해 주시면 정말 감사하겠어요",
+   "note": "정중한 부탁의 정석 표현이에요."
+  },
+  {
+   "term": "sort this out",
+   "ko": "이 문제를 해결하다",
+   "note": "문제나 혼란을 정리할 때 써요."
+  },
+  {
+   "term": "a couple of options",
+   "ko": "몇 가지 선택지",
+   "note": "couple of는 보통 두서너 개를 뜻해요."
+  },
+  {
+   "term": "exchange it for",
+   "ko": "~으로 교환하다",
+   "note": "exchange A for B 형태로 써요."
+  }
+ ]
+}

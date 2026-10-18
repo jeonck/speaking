@@ -1,0 +1,214 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11401.04,
+  "end": 11424.25,
+  "clips": [
+   [
+    11401.04,
+    11404.25
+   ],
+   [
+    11420.0,
+    11424.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "So that's why that day means so much to me.",
+   "chunks": [
+    {
+     "en": "So that's why",
+     "ko": "그래서 그게 이유예요"
+    },
+    {
+     "en": "that day means so much to me.",
+     "ko": "그날이 나에게 그토록 의미가 큰"
+    }
+   ],
+   "words": [
+    {
+     "w": "So",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "why",
+     "strong": true,
+     "link": false,
+     "syl": "why"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": true,
+     "link": false,
+     "syl": "day"
+    },
+    {
+     "w": "means",
+     "strong": true,
+     "link": false,
+     "syl": "means"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false,
+     "syl": "much"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "so much to me에서 much를 길게 강조하면 감정이 더 잘 전달돼요.",
+   "start": 11401.04,
+   "end": 11404.25
+  },
+  {
+   "text": "Anyway, that's the most memorable experience I've had so far.",
+   "chunks": [
+    {
+     "en": "Anyway,",
+     "ko": "아무튼"
+    },
+    {
+     "en": "that's the most memorable experience",
+     "ko": "그것이 가장 기억에 남는 경험이에요"
+    },
+    {
+     "en": "I've had so far.",
+     "ko": "지금까지 해 본"
+    }
+   ],
+   "words": [
+    {
+     "w": "Anyway,",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "memorable",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    },
+    {
+     "w": "experience",
+     "strong": true,
+     "link": true,
+     "syl": "peri"
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "far.",
+     "strong": true,
+     "link": false,
+     "syl": "far"
+    }
+   ],
+   "tip": "memorable은 '메머러블'처럼 첫 음절에 강세가 오고 가운데는 약해요.",
+   "start": 11420.0,
+   "end": 11424.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about that day?",
+   "options": [
+    "It was boring",
+    "It means so much",
+    "It was long ago and forgotten"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: that day means so much to me"
+  },
+  {
+   "q": "How does the speaker describe the experience?",
+   "options": [
+    "The most memorable so far",
+    "The scariest ever",
+    "The most expensive"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: the most memorable experience I've had so far"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "that's why",
+   "ko": "그래서 ~예요",
+   "note": "이유를 정리할 때 써요."
+  },
+  {
+   "term": "mean so much to me",
+   "ko": "나에게 아주 큰 의미다",
+   "note": "mean + to me 구조예요."
+  },
+  {
+   "term": "anyway",
+   "ko": "아무튼",
+   "note": "이야기를 마무리할 때 써요."
+  },
+  {
+   "term": "so far",
+   "ko": "지금까지",
+   "note": "현재완료와 자주 써요."
+  }
+ ]
+}

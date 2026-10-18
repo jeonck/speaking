@@ -1,0 +1,305 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11953.2,
+  "end": 12003.45,
+  "clips": [
+   [
+    11953.2,
+    11956.73
+   ],
+   [
+    11975.76,
+    11979.69
+   ],
+   [
+    11999.28,
+    12003.45
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Before, I spent two hours commuting every day.",
+   "chunks": [
+    {
+     "en": "Before,",
+     "ko": "예전에는,"
+    },
+    {
+     "en": "I spent two hours commuting",
+     "ko": "나는 두 시간을 통근하며 보냈어요"
+    },
+    {
+     "en": "every day.",
+     "ko": "매일"
+    }
+   ],
+   "words": [
+    {
+     "w": "Before,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spent",
+     "strong": true,
+     "link": true,
+     "syl": "spent"
+    },
+    {
+     "w": "two",
+     "strong": true,
+     "link": false,
+     "syl": "two"
+    },
+    {
+     "w": "hours",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "commuting",
+     "strong": true,
+     "link": false,
+     "syl": "mut"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "commuting은 'mu'에 강세를 둬요.",
+   "start": 11953.2,
+   "end": 11956.73
+  },
+  {
+   "text": "Now I can sleep in a little and still start on time.",
+   "chunks": [
+    {
+     "en": "Now I can sleep in a little",
+     "ko": "이제 나는 조금 늦잠을 잘 수 있고"
+    },
+    {
+     "en": "and still start",
+     "ko": "그래도 시작할 수 있어요"
+    },
+    {
+     "en": "on time.",
+     "ko": "제시간에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sleep",
+     "strong": true,
+     "link": true,
+     "syl": "sleep"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "link": false,
+     "syl": "lit"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "still",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": true,
+     "syl": "start"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time.",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "sleep in은 '슬리핀'처럼 이어 읽어요.",
+   "start": 11975.76,
+   "end": 11979.69
+  },
+  {
+   "text": "However, it's harder to separate work from my personal life.",
+   "chunks": [
+    {
+     "en": "However,",
+     "ko": "하지만,"
+    },
+    {
+     "en": "it's harder to separate",
+     "ko": "분리하기가 더 어려워요"
+    },
+    {
+     "en": "work from my personal life.",
+     "ko": "일을 내 개인 생활과"
+    }
+   ],
+   "words": [
+    {
+     "w": "However,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "harder",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "separate",
+     "strong": true,
+     "link": true,
+     "syl": "sep"
+    },
+    {
+     "w": "work",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "personal",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    },
+    {
+     "w": "life.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "separate 동사는 끝을 '-rate(레이트)'로 또렷하게 읽어요.",
+   "start": 11999.28,
+   "end": 12003.45
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long did the speaker spend commuting?",
+   "options": [
+    "Two hours every day",
+    "One hour every day",
+    "Two hours every week"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I spent two hours commuting every day"
+  },
+  {
+   "q": "What can the speaker do now?",
+   "options": [
+    "Take a long vacation",
+    "Work fewer hours",
+    "Sleep in a little"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I can sleep in a little"
+  },
+  {
+   "q": "What is harder now?",
+   "options": [
+    "Starting on time",
+    "Separating work from personal life",
+    "Getting enough sleep"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: harder to separate work from my personal life"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "commuting",
+   "ko": "통근하다",
+   "note": "commute는 출퇴근 이동을 말해요."
+  },
+  {
+   "term": "sleep in",
+   "ko": "늦잠 자다",
+   "note": "일부러 평소보다 늦게 일어날 때 써요."
+  },
+  {
+   "term": "on time",
+   "ko": "제시간에",
+   "note": "late의 반대 의미예요."
+  },
+  {
+   "term": "separate A from B",
+   "ko": "A와 B를 분리하다",
+   "note": "work-life balance를 말할 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15729.84,
+  "end": 15774.49,
+  "clips": [
+   [
+    15729.84,
+    15733.29
+   ],
+   [
+    15750.08,
+    15753.29
+   ],
+   [
+    15770.8,
+    15774.49
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Could you talk to them or should I do it myself?",
+   "chunks": [
+    {
+     "en": "Could you talk to them",
+     "ko": "그들에게 얘기해 주실 수 있나요"
+    },
+    {
+     "en": "or should I do it myself?",
+     "ko": "아니면 제가 직접 할까요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "talk",
+     "strong": true,
+     "link": false,
+     "syl": "talk"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "should",
+     "strong": true,
+     "link": false,
+     "syl": "should"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself?",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    }
+   ],
+   "tip": "Could you는 '쿠쥬'처럼 이어 읽어요.",
+   "start": 15729.84,
+   "end": 15733.29
+  },
+  {
+   "text": "My internet has been really slow for a week.",
+   "chunks": [
+    {
+     "en": "My internet has been really slow",
+     "ko": "제 인터넷이 정말 느려요"
+    },
+    {
+     "en": "for a week.",
+     "ko": "일주일째"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "internet",
+     "strong": true,
+     "link": false,
+     "syl": "in"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "slow",
+     "strong": true,
+     "link": false,
+     "syl": "slow"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week.",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    }
+   ],
+   "tip": "for a week는 '포러위크'처럼 이어 읽어요.",
+   "start": 15750.08,
+   "end": 15753.29
+  },
+  {
+   "text": "I've already tried restarting the router twice.",
+   "chunks": [
+    {
+     "en": "I've already tried",
+     "ko": "이미 시도해 봤어요"
+    },
+    {
+     "en": "restarting the router",
+     "ko": "공유기를 재시작하는 걸"
+    },
+    {
+     "en": "twice.",
+     "ko": "두 번"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "already",
+     "strong": true,
+     "link": false,
+     "syl": "read"
+    },
+    {
+     "w": "tried",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "restarting",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "router",
+     "strong": true,
+     "link": false,
+     "syl": "rou"
+    },
+    {
+     "w": "twice.",
+     "strong": true,
+     "link": false,
+     "syl": "twice"
+    }
+   ],
+   "tip": "I've already는 '아이브올레디'처럼 이어 읽어요.",
+   "start": 15770.8,
+   "end": 15774.49
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long has the internet been slow?",
+   "options": [
+    "Three days",
+    "A week",
+    "A month"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: slow for a week"
+  },
+  {
+   "q": "What has the speaker already tried?",
+   "options": [
+    "Restarting the router",
+    "Calling a friend",
+    "Buying a new computer"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: tried restarting the router"
+  },
+  {
+   "q": "How many times did the speaker restart the router?",
+   "options": [
+    "Once",
+    "Three times",
+    "Twice"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: restarting the router twice"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "router",
+   "ko": "공유기",
+   "note": "인터넷 연결을 나눠 주는 기기예요."
+  },
+  {
+   "term": "restart",
+   "ko": "재시작하다",
+   "note": "re-start, 앞이 아니라 start를 세게 읽어요."
+  },
+  {
+   "term": "really slow",
+   "ko": "정말 느린",
+   "note": "really는 강조할 때 써요."
+  },
+  {
+   "term": "for a week",
+   "ko": "일주일째",
+   "note": "현재완료(has been)와 함께 써요."
+  },
+  {
+   "term": "should I do it myself",
+   "ko": "제가 직접 할까요",
+   "note": "myself로 '직접'을 강조해요."
+  }
+ ]
+}

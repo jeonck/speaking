@@ -1,0 +1,303 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2655.12,
+  "end": 2701.29,
+  "clips": [
+   [
+    2655.12,
+    2658.41
+   ],
+   [
+    2676.16,
+    2679.53
+   ],
+   [
+    2697.52,
+    2701.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I spend most of my time at home in my room.",
+   "chunks": [
+    {
+     "en": "I spend most of my time",
+     "ko": "나는 대부분의 시간을 보내요"
+    },
+    {
+     "en": "at home",
+     "ko": "집에서"
+    },
+    {
+     "en": "in my room.",
+     "ko": "내 방에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spend",
+     "strong": true,
+     "syl": "spend",
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": true,
+     "syl": "most",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": true,
+     "syl": "home",
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room.",
+     "strong": true,
+     "syl": "room",
+     "link": false
+    }
+   ],
+   "tip": "most of my는 '모스트업마이'처럼 이어져요. 'of'는 약하게 읽어요.",
+   "start": 2655.12,
+   "end": 2658.41
+  },
+  {
+   "text": "That's where I study, work, and relax.",
+   "chunks": [
+    {
+     "en": "That's where I study,",
+     "ko": "거기가 내가 공부하는 곳이에요"
+    },
+    {
+     "en": "work,",
+     "ko": "일하고"
+    },
+    {
+     "en": "and relax.",
+     "ko": "쉬는"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": true,
+     "syl": "where",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study,",
+     "strong": true,
+     "syl": "stu",
+     "link": false
+    },
+    {
+     "w": "work,",
+     "strong": true,
+     "syl": "work",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "relax.",
+     "strong": true,
+     "syl": "lax",
+     "link": false
+    }
+   ],
+   "tip": "and relax는 '앤릴랙스'로 이어 읽고, relax는 두 번째 음절 lax에 강세를 둬요.",
+   "start": 2676.16,
+   "end": 2679.53
+  },
+  {
+   "text": "I recently put up some fairy lights above my bed.",
+   "chunks": [
+    {
+     "en": "I recently put up",
+     "ko": "최근에 달았어요"
+    },
+    {
+     "en": "some fairy lights",
+     "ko": "요정 조명을"
+    },
+    {
+     "en": "above my bed.",
+     "ko": "침대 위에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recently",
+     "strong": true,
+     "syl": "cent",
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": true,
+     "syl": "put",
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fairy",
+     "strong": true,
+     "syl": "fair",
+     "link": false
+    },
+    {
+     "w": "lights",
+     "strong": true,
+     "syl": "lights",
+     "link": false
+    },
+    {
+     "w": "above",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bed.",
+     "strong": true,
+     "syl": "bed",
+     "link": false
+    }
+   ],
+   "tip": "put up은 '푸럽'처럼 이어 읽어요. recently는 첫 음절 re가 아니라 cent에 강세가 와요.",
+   "start": 2697.52,
+   "end": 2701.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where does the speaker spend most time at home?",
+   "options": [
+    "In the kitchen",
+    "In their room",
+    "On the balcony"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: most of my time at home in my room"
+  },
+  {
+   "q": "What does the speaker do in the room?",
+   "options": [
+    "Study, work, and relax",
+    "Cook and eat",
+    "Exercise and sleep only"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I study, work, and relax"
+  },
+  {
+   "q": "Where did the speaker put up fairy lights?",
+   "options": [
+    "Above the bed",
+    "Around the window",
+    "On the desk"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: fairy lights above my bed"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "spend time",
+   "ko": "시간을 보내다",
+   "note": "spend time + 장소/활동 형태로 써요"
+  },
+  {
+   "term": "That's where",
+   "ko": "거기가 ~하는 곳이에요",
+   "note": "장소를 설명할 때 쓰는 구문이에요"
+  },
+  {
+   "term": "relax",
+   "ko": "쉬다, 긴장을 풀다",
+   "note": "두 번째 음절 lax에 강세를 둬요"
+  },
+  {
+   "term": "put up",
+   "ko": "달다, 설치하다",
+   "note": "장식이나 포스터를 붙일 때 써요"
+  },
+  {
+   "term": "fairy lights",
+   "ko": "요정 조명, 작은 전구 장식",
+   "note": "작은 전구가 줄에 달린 장식 조명이에요"
+  }
+ ]
+}

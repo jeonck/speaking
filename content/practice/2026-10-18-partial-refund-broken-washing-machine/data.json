@@ -1,0 +1,300 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14825.28,
+  "end": 14872.33,
+  "clips": [
+   [
+    14825.28,
+    14829.13
+   ],
+   [
+    14847.12,
+    14851.05
+   ],
+   [
+    14868.72,
+    14872.33
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "If that's not possible, I'd like a partial refund.",
+   "chunks": [
+    {
+     "en": "If that's not possible,",
+     "ko": "그게 안 된다면"
+    },
+    {
+     "en": "I'd like a partial refund.",
+     "ko": "부분 환불을 받고 싶어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possible,",
+     "strong": true,
+     "link": false,
+     "syl": "poss"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "link": true,
+     "syl": "like"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "partial",
+     "strong": true,
+     "link": false,
+     "syl": "par"
+    },
+    {
+     "w": "refund.",
+     "strong": true,
+     "link": false,
+     "syl": "fund"
+    }
+   ],
+   "tip": "like a는 '라이커'처럼 이어 읽어요.",
+   "start": 14825.28,
+   "end": 14829.13
+  },
+  {
+   "text": "The washing machine I bought last week stopped working.",
+   "chunks": [
+    {
+     "en": "The washing machine",
+     "ko": "세탁기가"
+    },
+    {
+     "en": "I bought last week",
+     "ko": "제가 지난주에 산"
+    },
+    {
+     "en": "stopped working.",
+     "ko": "작동을 멈췄어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "washing",
+     "strong": true,
+     "link": false,
+     "syl": "wash"
+    },
+    {
+     "w": "machine",
+     "strong": true,
+     "link": true,
+     "syl": "chine"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bought",
+     "strong": true,
+     "link": false,
+     "syl": "bought"
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    },
+    {
+     "w": "stopped",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "working.",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    }
+   ],
+   "tip": "machine I는 '머신아이'처럼 n과 I를 이어 읽어요.",
+   "start": 14847.12,
+   "end": 14851.05
+  },
+  {
+   "text": "It makes a loud noise and then just shuts off.",
+   "chunks": [
+    {
+     "en": "It makes a loud noise",
+     "ko": "큰 소음을 내요"
+    },
+    {
+     "en": "and then",
+     "ko": "그리고"
+    },
+    {
+     "en": "just shuts off.",
+     "ko": "그냥 꺼져요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": true,
+     "link": true,
+     "syl": "make"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "loud",
+     "strong": true,
+     "link": false,
+     "syl": "loud"
+    },
+    {
+     "w": "noise",
+     "strong": true,
+     "link": false,
+     "syl": "noise"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shuts",
+     "strong": true,
+     "link": true,
+     "syl": "shuts"
+    },
+    {
+     "w": "off.",
+     "strong": true,
+     "link": false,
+     "syl": "off"
+    }
+   ],
+   "tip": "makes a, shuts off는 각각 '메익서', '셔초프'처럼 이어 읽어요.",
+   "start": 14868.72,
+   "end": 14872.33
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of refund does the speaker ask for?",
+   "options": [
+    "A partial refund",
+    "A full refund",
+    "Store credit"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: a partial refund"
+  },
+  {
+   "q": "When did the speaker buy the washing machine?",
+   "options": [
+    "Yesterday",
+    "Last month",
+    "Last week"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: bought last week"
+  },
+  {
+   "q": "What does the machine do?",
+   "options": [
+    "Leaks water",
+    "Makes a loud noise and shuts off",
+    "Won't open"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: makes a loud noise and then just shuts off"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "partial refund",
+   "ko": "부분 환불",
+   "note": "full refund는 전액 환불이에요."
+  },
+  {
+   "term": "if that's not possible",
+   "ko": "그게 안 된다면",
+   "note": "대안을 제안할 때 써요."
+  },
+  {
+   "term": "washing machine",
+   "ko": "세탁기",
+   "note": "dryer는 건조기예요."
+  },
+  {
+   "term": "stop working",
+   "ko": "작동을 멈추다",
+   "note": "고장 났다는 가장 흔한 표현이에요."
+  },
+  {
+   "term": "shut off",
+   "ko": "(저절로) 꺼지다",
+   "note": "기계가 꺼질 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,344 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10365.36,
+  "end": 10418.73,
+  "clips": [
+   [
+    10365.36,
+    10369.53
+   ],
+   [
+    10390.0,
+    10394.33
+   ],
+   [
+    10414.64,
+    10418.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "That night I ate cold pizza on the floor and felt free.",
+   "chunks": [
+    {
+     "en": "That night",
+     "ko": "그날 밤"
+    },
+    {
+     "en": "I ate cold pizza on the floor",
+     "ko": "나는 바닥에서 식은 피자를 먹었고"
+    },
+    {
+     "en": "and felt free.",
+     "ko": "자유로움을 느꼈다"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night",
+     "strong": true,
+     "syl": "night",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ate",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cold",
+     "strong": true,
+     "syl": "cold",
+     "link": false
+    },
+    {
+     "w": "pizza",
+     "strong": true,
+     "syl": "piz",
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "floor",
+     "strong": true,
+     "syl": "floor",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "felt",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "free.",
+     "strong": true,
+     "syl": "free",
+     "link": false
+    }
+   ],
+   "tip": "floor and는 '플로어랜'처럼 이어 읽고 free를 길게 말해요.",
+   "start": 10365.36,
+   "end": 10369.53
+  },
+  {
+   "text": "The first time I cooked for my parents was a total disaster.",
+   "chunks": [
+    {
+     "en": "The first time I cooked for my parents",
+     "ko": "부모님께 처음 요리해 드린 때는"
+    },
+    {
+     "en": "was a total disaster.",
+     "ko": "완전한 재앙이었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "syl": "first",
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooked",
+     "strong": true,
+     "syl": "cooked",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parents",
+     "strong": true,
+     "syl": "par",
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "total",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "disaster.",
+     "strong": true,
+     "syl": "sas",
+     "link": false
+    }
+   ],
+   "tip": "disaster는 두 번째 음절 sas에 강세가 있어요.",
+   "start": 10390.0,
+   "end": 10394.33
+  },
+  {
+   "text": "I burned the rice and added way too much salt to the soup.",
+   "chunks": [
+    {
+     "en": "I burned the rice",
+     "ko": "밥을 태웠고"
+    },
+    {
+     "en": "and added way too much salt",
+     "ko": "소금을 너무 많이 넣었다"
+    },
+    {
+     "en": "to the soup.",
+     "ko": "수프에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "burned",
+     "strong": true,
+     "syl": "burned",
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rice",
+     "strong": true,
+     "syl": "rice",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "added",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "salt",
+     "strong": true,
+     "syl": "salt",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "soup.",
+     "strong": true,
+     "syl": "soup",
+     "link": false
+    }
+   ],
+   "tip": "rice and added는 '라이샌 애디드'처럼 이어 읽어요.",
+   "start": 10414.64,
+   "end": 10418.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did the speaker eat cold pizza?",
+   "options": [
+    "On the floor",
+    "At a restaurant",
+    "In the car"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: ate cold pizza on the floor"
+  },
+  {
+   "q": "What went wrong with the rice?",
+   "options": [
+    "It was raw",
+    "It was too sweet",
+    "It was burned"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I burned the rice"
+  },
+  {
+   "q": "What was added in too large an amount to the soup?",
+   "options": [
+    "Pepper",
+    "Salt",
+    "Sugar"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: added way too much salt to the soup"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "cold pizza",
+   "ko": "식은 피자",
+   "note": "cold는 '식은'이라는 뜻으로도 써요."
+  },
+  {
+   "term": "felt free",
+   "ko": "자유롭다고 느꼈다",
+   "note": "feel + 형용사 형태예요."
+  },
+  {
+   "term": "a total disaster",
+   "ko": "완전한 재앙",
+   "note": "total은 '완전한'을 강조해요."
+  },
+  {
+   "term": "burned",
+   "ko": "태웠다",
+   "note": "미국식은 burned, 영국식은 burnt를 써요."
+  },
+  {
+   "term": "way too much",
+   "ko": "너무나 많이",
+   "note": "way는 too를 강조하는 구어체 표현이에요."
+  }
+ ]
+}

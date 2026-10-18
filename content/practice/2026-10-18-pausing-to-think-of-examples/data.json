@@ -1,0 +1,251 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20924.48,
+  "end": 20962.57,
+  "clips": [
+   [
+    20924.48,
+    20926.97
+   ],
+   [
+    20939.2,
+    20942.65
+   ],
+   [
+    20959.04,
+    20962.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Let me think for a moment.",
+   "chunks": [
+    {
+     "en": "Let me think",
+     "ko": "생각해 볼게요"
+    },
+    {
+     "en": "for a moment.",
+     "ko": "잠깐 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": false,
+     "syl": "think"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moment.",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    }
+   ],
+   "tip": "Let me는 '렛미'로 이어 읽어요. 잠시 생각할 때 쓰는 표현이라 천천히 말해요.",
+   "start": 20924.48,
+   "end": 20926.97
+  },
+  {
+   "text": "A few different experiences come to mind.",
+   "chunks": [
+    {
+     "en": "A few different experiences",
+     "ko": "몇 가지 다른 경험이"
+    },
+    {
+     "en": "come to mind.",
+     "ko": "떠오른다"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": true,
+     "syl": "dif"
+    },
+    {
+     "w": "experiences",
+     "strong": true,
+     "link": false,
+     "syl": "pe"
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mind.",
+     "strong": true,
+     "link": false,
+     "syl": "mind"
+    }
+   ],
+   "tip": "different experiences는 '디퍼런텍스피어리언시즈'처럼 이어요. come to mind는 'mind'를 강조해요.",
+   "start": 20939.2,
+   "end": 20942.65
+  },
+  {
+   "text": "Well, I haven't really thought about that before.",
+   "chunks": [
+    {
+     "en": "Well,",
+     "ko": "음,"
+    },
+    {
+     "en": "I haven't really thought about that before.",
+     "ko": "나는 그것에 대해 전에 제대로 생각해 본 적이 없다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Well,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "haven't",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "thought",
+     "strong": true,
+     "link": true,
+     "syl": "thought"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before.",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    }
+   ],
+   "tip": "haven't really는 '해븐트리얼리'로 이어요. thought about은 '쏘러바웃'처럼 이어 읽어요.",
+   "start": 20959.04,
+   "end": 20962.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask for at the start?",
+   "options": [
+    "A dictionary",
+    "A moment to think",
+    "Some water"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: Let me think for a moment"
+  },
+  {
+   "q": "What comes to the speaker's mind?",
+   "options": [
+    "A funny story",
+    "A famous person",
+    "A few different experiences"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: A few different experiences come to mind"
+  },
+  {
+   "q": "What does the speaker admit in the last sentence?",
+   "options": [
+    "Having not really thought about it before",
+    "Having forgotten the question",
+    "Having been there before"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I haven't really thought about that before"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "for a moment",
+   "ko": "잠시 동안",
+   "note": "생각할 시간을 벌 때 써요."
+  },
+  {
+   "term": "come to mind",
+   "ko": "떠오르다",
+   "note": "A few ideas come to mind처럼 써요."
+  },
+  {
+   "term": "a few different",
+   "ko": "몇 가지 다른",
+   "note": "few 앞에 a가 있어 긍정적이에요."
+  },
+  {
+   "term": "haven't really thought about",
+   "ko": "제대로 생각해 본 적이 없다",
+   "note": "현재완료 부정형이에요."
+  },
+  {
+   "term": "Well,",
+   "ko": "음, 글쎄요",
+   "note": "말을 시작하며 시간을 벌어요."
+  }
+ ]
+}

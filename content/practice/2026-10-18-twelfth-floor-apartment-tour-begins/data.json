@@ -1,0 +1,293 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2263.92,
+  "end": 2311.61,
+  "clips": [
+   [
+    2263.92,
+    2267.29
+   ],
+   [
+    2288.8,
+    2291.69
+   ],
+   [
+    2307.44,
+    2311.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "That's pretty much what my daily life is like.",
+   "chunks": [
+    {
+     "en": "That's pretty much",
+     "ko": "그게 거의 전부다"
+    },
+    {
+     "en": "what my daily life is like.",
+     "ko": "내 일상이 어떤지"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": true,
+     "link": false,
+     "syl": "pret"
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": false,
+     "syl": "much"
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "daily",
+     "strong": true,
+     "link": false,
+     "syl": "dai"
+    },
+    {
+     "w": "life",
+     "strong": true,
+     "link": false,
+     "syl": "life"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "pretty much는 '프리디 머치'처럼 들려요.",
+   "start": 2263.92,
+   "end": 2267.29
+  },
+  {
+   "text": "Let me tell you about where I live.",
+   "chunks": [
+    {
+     "en": "Let me tell you",
+     "ko": "말해 줄게"
+    },
+    {
+     "en": "about where I live.",
+     "ko": "내가 사는 곳에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": true,
+     "link": true,
+     "syl": "tell"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": true,
+     "link": false,
+     "syl": "where"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live.",
+     "strong": true,
+     "link": false,
+     "syl": "live"
+    }
+   ],
+   "tip": "tell you는 '텔류'처럼 이어 읽어요.",
+   "start": 2288.8,
+   "end": 2291.69
+  },
+  {
+   "text": "I live in an apartment with three bedrooms on the 12th floor.",
+   "chunks": [
+    {
+     "en": "I live in an apartment",
+     "ko": "나는 아파트에 산다"
+    },
+    {
+     "en": "with three bedrooms",
+     "ko": "침실이 세 개인"
+    },
+    {
+     "en": "on the 12th floor.",
+     "ko": "12층에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "apartment",
+     "strong": true,
+     "link": false,
+     "syl": "part"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "three",
+     "strong": true,
+     "link": false,
+     "syl": "three"
+    },
+    {
+     "w": "bedrooms",
+     "strong": true,
+     "link": true,
+     "syl": "bed"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "12th",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "floor.",
+     "strong": true,
+     "link": false,
+     "syl": "floor"
+    }
+   ],
+   "tip": "live in an apartment는 '리빈어나파트먼트'처럼 이어 읽어요.",
+   "start": 2307.44,
+   "end": 2311.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "How many bedrooms does the apartment have?",
+   "options": [
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: an apartment with three bedrooms"
+  },
+  {
+   "q": "Which floor does the speaker live on?",
+   "options": [
+    "The 2nd",
+    "The 21st",
+    "The 12th"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: on the 12th floor"
+  },
+  {
+   "q": "What does the speaker offer to talk about next?",
+   "options": [
+    "Where the speaker lives",
+    "The speaker's job",
+    "A weekend trip"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Let me tell you about where I live"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "pretty much",
+   "ko": "거의",
+   "note": "almost와 비슷한 구어체예요."
+  },
+  {
+   "term": "Let me tell you about",
+   "ko": "~에 대해 말해 줄게",
+   "note": "새 화제를 열 때 써요."
+  },
+  {
+   "term": "an apartment with three bedrooms",
+   "ko": "침실이 세 개인 아파트",
+   "note": "with는 '~이 있는'이에요."
+  },
+  {
+   "term": "on the 12th floor",
+   "ko": "12층에",
+   "note": "층 앞에는 전치사 on을 써요."
+  }
+ ]
+}

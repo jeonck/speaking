@@ -1,0 +1,291 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2468.4,
+  "end": 2511.93,
+  "clips": [
+   [
+    2468.4,
+    2471.61
+   ],
+   [
+    2488.0,
+    2491.21
+   ],
+   [
+    2507.84,
+    2511.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The kitchen is right next to the living room.",
+   "chunks": [
+    {
+     "en": "The kitchen",
+     "ko": "주방은"
+    },
+    {
+     "en": "is right next to",
+     "ko": "바로 옆에 있다"
+    },
+    {
+     "en": "the living room.",
+     "ko": "거실"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kitchen",
+     "strong": true,
+     "link": false,
+     "syl": "kitch"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "right",
+     "strong": true,
+     "link": false,
+     "syl": "right"
+    },
+    {
+     "w": "next",
+     "strong": true,
+     "link": false,
+     "syl": "next"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "living",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room.",
+     "strong": true,
+     "link": false,
+     "syl": "room"
+    }
+   ],
+   "tip": "right next to는 t 소리가 약해져 '라잇넥스투'처럼 들려요.",
+   "start": 2468.4,
+   "end": 2471.61
+  },
+  {
+   "text": "It's small, but it has everything we need.",
+   "chunks": [
+    {
+     "en": "It's small,",
+     "ko": "작지만"
+    },
+    {
+     "en": "but it has everything",
+     "ko": "모든 것이 있다"
+    },
+    {
+     "en": "we need.",
+     "ko": "우리에게 필요한"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small,",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": false,
+     "syl": "every"
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need.",
+     "strong": true,
+     "link": false,
+     "syl": "need"
+    }
+   ],
+   "tip": "everything we need에서는 everything과 need를 강하게 읽어요.",
+   "start": 2488.0,
+   "end": 2491.21
+  },
+  {
+   "text": "There's a dining table where we eat together on weekends.",
+   "chunks": [
+    {
+     "en": "There's a dining table",
+     "ko": "식탁이 있다"
+    },
+    {
+     "en": "where we eat together",
+     "ko": "우리가 함께 먹는"
+    },
+    {
+     "en": "on weekends.",
+     "ko": "주말에"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dining",
+     "strong": true,
+     "link": false,
+     "syl": "din"
+    },
+    {
+     "w": "table",
+     "strong": true,
+     "link": false,
+     "syl": "ta"
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "eat",
+     "strong": true,
+     "link": false,
+     "syl": "eat"
+    },
+    {
+     "w": "together",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekends.",
+     "strong": true,
+     "link": false,
+     "syl": "end"
+    }
+   ],
+   "tip": "together on은 '투게더론'처럼 이어 읽어요.",
+   "start": 2507.84,
+   "end": 2511.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where is the kitchen?",
+   "options": [
+    "On the balcony",
+    "Next to the bedroom",
+    "Right next to the living room"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: right next to the living room"
+  },
+  {
+   "q": "How does the speaker describe the kitchen?",
+   "options": [
+    "Huge and modern",
+    "Small but has everything needed",
+    "Dark and old"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: It's small, but it has everything we need"
+  },
+  {
+   "q": "When does the family eat together at the dining table?",
+   "options": [
+    "On weekends",
+    "Every morning",
+    "Only on holidays"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: where we eat together on weekends"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "right next to",
+   "ko": "바로 옆에",
+   "note": "right는 '바로'를 강조해요."
+  },
+  {
+   "term": "everything we need",
+   "ko": "우리에게 필요한 모든 것",
+   "note": "everything 뒤 관계절을 써요."
+  },
+  {
+   "term": "dining table",
+   "ko": "식탁",
+   "note": "dining room은 식당이에요."
+  },
+  {
+   "term": "on weekends",
+   "ko": "주말마다",
+   "note": "on weekends는 반복되는 주말을 뜻해요."
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11663.52,
+  "end": 11716.81,
+  "clips": [
+   [
+    11663.52,
+    11666.81
+   ],
+   [
+    11686.4,
+    11690.65
+   ],
+   [
+    11712.56,
+    11716.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now my phone does almost everything for me.",
+   "chunks": [
+    {
+     "en": "Now my phone does",
+     "ko": "이제 내 폰은 해요"
+    },
+    {
+     "en": "almost everything for me.",
+     "ko": "거의 모든 것을 나를 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "link": false,
+     "syl": "phone"
+    },
+    {
+     "w": "does",
+     "strong": true,
+     "link": true,
+     "syl": "does"
+    },
+    {
+     "w": "almost",
+     "strong": true,
+     "link": true,
+     "syl": "al"
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "almost everything은 '올모스트에브리띵'으로 또박또박 읽어요.",
+   "start": 11663.52,
+   "end": 11666.81
+  },
+  {
+   "text": "I can pay bills, shop, and even see a doctor online.",
+   "chunks": [
+    {
+     "en": "I can pay bills,",
+     "ko": "나는 요금을 낼 수 있어요,"
+    },
+    {
+     "en": "shop,",
+     "ko": "쇼핑도 하고,"
+    },
+    {
+     "en": "and even see a doctor online.",
+     "ko": "심지어 온라인으로 진료도 받아요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "pay",
+     "strong": true,
+     "link": false,
+     "syl": "pay"
+    },
+    {
+     "w": "bills,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shop,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "doctor",
+     "strong": true,
+     "link": false,
+     "syl": "doc"
+    },
+    {
+     "w": "online.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "and even은 '앤디븐'처럼 이어 읽어요.",
+   "start": 11686.4,
+   "end": 11690.65
+  },
+  {
+   "text": "The downside is that I spend way too much time on screens.",
+   "chunks": [
+    {
+     "en": "The downside is",
+     "ko": "단점은요"
+    },
+    {
+     "en": "that I spend way too much time",
+     "ko": "내가 너무너무 많은 시간을 쓴다는 거예요"
+    },
+    {
+     "en": "on screens.",
+     "ko": "화면에"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "downside",
+     "strong": true,
+     "link": false,
+     "syl": "down"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spend",
+     "strong": true,
+     "link": true,
+     "syl": "spend"
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "too",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "screens.",
+     "strong": true,
+     "link": false,
+     "syl": "screens"
+    }
+   ],
+   "tip": "way too much에서 way를 세게 읽으면 '너무 많이'가 강조돼요.",
+   "start": 11712.56,
+   "end": 11716.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What can the speaker do online?",
+   "options": [
+    "Buy a car",
+    "See a doctor",
+    "Cook dinner"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: even see a doctor online"
+  },
+  {
+   "q": "What is the downside?",
+   "options": [
+    "Too much screen time",
+    "High bills",
+    "Slow internet"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I spend way too much time on screens"
+  },
+  {
+   "q": "What does the phone do for the speaker?",
+   "options": [
+    "Nothing much",
+    "A few small things",
+    "Almost everything"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: my phone does almost everything for me"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "pay bills",
+   "ko": "요금을 내다",
+   "note": "공과금 납부는 pay bills라고 해요."
+  },
+  {
+   "term": "see a doctor",
+   "ko": "진료를 받다",
+   "note": "'의사를 만나다'가 곧 진료 받다예요."
+  },
+  {
+   "term": "downside",
+   "ko": "단점",
+   "note": "The downside is that...으로 문장을 시작해요."
+  },
+  {
+   "term": "way too much",
+   "ko": "너무너무 많이",
+   "note": "too much를 강조할 때 way를 앞에 붙여요."
+  }
+ ]
+}

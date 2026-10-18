@@ -1,0 +1,323 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18205.84,
+  "end": 18254.25,
+  "clips": [
+   [
+    18205.84,
+    18209.85
+   ],
+   [
+    18229.36,
+    18233.13
+   ],
+   [
+    18250.4,
+    18254.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I choose a quiet town with a few good places to walk.",
+   "chunks": [
+    {
+     "en": "I choose a quiet town",
+     "ko": "저는 조용한 마을을 고를 거예요"
+    },
+    {
+     "en": "with a few good places",
+     "ko": "좋은 곳이 몇 군데 있는"
+    },
+    {
+     "en": "to walk.",
+     "ko": "걸을 만한"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "choose",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "link": false,
+     "syl": "qui"
+    },
+    {
+     "w": "town",
+     "strong": true,
+     "link": false,
+     "syl": "town"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    },
+    {
+     "w": "places",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walk.",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    }
+   ],
+   "tip": "quiet은 '콰이엇'처럼 두 음절로 또렷이 읽어요.",
+   "start": 18205.84,
+   "end": 18209.85
+  },
+  {
+   "text": "If a friend were free, I'd ask them to come along.",
+   "chunks": [
+    {
+     "en": "If a friend were free,",
+     "ko": "친구가 시간이 된다면"
+    },
+    {
+     "en": "I'd ask them to come along.",
+     "ko": "같이 가자고 부탁할 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "free,",
+     "strong": true,
+     "link": false,
+     "syl": "free"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ask",
+     "strong": true,
+     "link": false,
+     "syl": "ask"
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "come",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "along.",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    }
+   ],
+   "tip": "were free는 '워 프리'처럼 were를 약하게 읽어요.",
+   "start": 18229.36,
+   "end": 18233.13
+  },
+  {
+   "text": "But if everyone were busy, I'd be happy to go alone.",
+   "chunks": [
+    {
+     "en": "But if everyone were busy,",
+     "ko": "하지만 모두가 바쁘다면"
+    },
+    {
+     "en": "I'd be happy to go alone.",
+     "ko": "기꺼이 혼자 갈 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everyone",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "busy,",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happy",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "alone.",
+     "strong": true,
+     "link": false,
+     "syl": "lone"
+    }
+   ],
+   "tip": "busy는 '비지'로 철자와 달리 읽혀요.",
+   "start": 18250.4,
+   "end": 18254.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of town would the speaker choose?",
+   "options": [
+    "A busy city",
+    "A beach resort",
+    "A quiet town"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: a quiet town with a few good places to walk"
+  },
+  {
+   "q": "What would the speaker do if a friend were free?",
+   "options": [
+    "Ask the friend to come along",
+    "Cancel the trip",
+    "Go the next week"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I'd ask them to come along"
+  },
+  {
+   "q": "What if everyone were busy?",
+   "options": [
+    "The speaker would stay home",
+    "The speaker would be happy to go alone",
+    "The speaker would postpone"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I'd be happy to go alone"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a few good places to walk",
+   "ko": "걷기 좋은 몇 곳",
+   "note": "to walk가 places를 꾸며요."
+  },
+  {
+   "term": "come along",
+   "ko": "함께 가다",
+   "note": "'같이 가자'는 뜻으로 자주 써요."
+  },
+  {
+   "term": "were free",
+   "ko": "시간이 비어 있다면",
+   "note": "가정법에서는 were를 써요."
+  },
+  {
+   "term": "if everyone were busy",
+   "ko": "모두가 바쁘다면",
+   "note": "If절 가정법 과거예요."
+  },
+  {
+   "term": "go alone",
+   "ko": "혼자 가다",
+   "note": "by myself와 같은 뜻이에요."
+  }
+ ]
+}

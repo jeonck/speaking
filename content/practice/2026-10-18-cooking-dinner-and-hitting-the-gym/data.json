@@ -1,0 +1,308 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 787.2,
+  "end": 835.21,
+  "clips": [
+   [
+    787.2,
+    791.21
+   ],
+   [
+    810.56,
+    814.09
+   ],
+   [
+    831.44,
+    835.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "As soon as I get home, I change into comfortable clothes.",
+   "chunks": [
+    {
+     "en": "As soon as I get home,",
+     "ko": "집에 도착하자마자,"
+    },
+    {
+     "en": "I change into comfortable clothes.",
+     "ko": "나는 편한 옷으로 갈아입어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "soon",
+     "strong": true,
+     "link": true,
+     "syl": "soon"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home,",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "link": true,
+     "syl": "change"
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comfortable",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "clothes.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "comfortable은 '컴프터블'처럼 3음절로 짧게 읽어요.",
+   "start": 787.2,
+   "end": 791.21
+  },
+  {
+   "text": "I usually cook a simple dinner for myself.",
+   "chunks": [
+    {
+     "en": "I usually cook",
+     "ko": "나는 보통 요리해요"
+    },
+    {
+     "en": "a simple dinner",
+     "ko": "간단한 저녁을"
+    },
+    {
+     "en": "for myself.",
+     "ko": "나를 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cook",
+     "strong": true,
+     "link": true,
+     "syl": "cook"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "simple",
+     "strong": true,
+     "link": false,
+     "syl": "sim"
+    },
+    {
+     "w": "dinner",
+     "strong": true,
+     "link": false,
+     "syl": "din"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    }
+   ],
+   "tip": "cook a는 '쿠커'처럼 이어 읽어요.",
+   "start": 810.56,
+   "end": 814.09
+  },
+  {
+   "text": "Three times a week I go to the gym after dinner.",
+   "chunks": [
+    {
+     "en": "Three times a week",
+     "ko": "일주일에 세 번"
+    },
+    {
+     "en": "I go to the gym",
+     "ko": "나는 헬스장에 가요"
+    },
+    {
+     "en": "after dinner.",
+     "ko": "저녁 식사 후에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Three",
+     "strong": true,
+     "link": false,
+     "syl": "three"
+    },
+    {
+     "w": "times",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gym",
+     "strong": true,
+     "link": false,
+     "syl": "gym"
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dinner.",
+     "strong": true,
+     "link": false,
+     "syl": "din"
+    }
+   ],
+   "tip": "times a week은 '타임저윅'처럼 이어 읽어요.",
+   "start": 831.44,
+   "end": 835.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker do as soon as they get home?",
+   "options": [
+    "Take a shower",
+    "Start cooking",
+    "Change into comfortable clothes"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: I change into comfortable clothes"
+  },
+  {
+   "q": "What kind of dinner does the speaker cook?",
+   "options": [
+    "A simple dinner",
+    "A fancy dinner",
+    "A big family dinner"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: cook a simple dinner for myself"
+  },
+  {
+   "q": "How often does the speaker go to the gym?",
+   "options": [
+    "Twice a week",
+    "Three times a week",
+    "Every day"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: Three times a week I go to the gym"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "comfortable clothes",
+   "ko": "편한 옷",
+   "note": "집에서 입는 옷을 말해요."
+  },
+  {
+   "term": "as soon as",
+   "ko": "~하자마자",
+   "note": "두 동작이 연달아 일어날 때 써요."
+  },
+  {
+   "term": "change into",
+   "ko": "~로 갈아입다",
+   "note": "into 뒤에 갈아입을 옷을 써요."
+  },
+  {
+   "term": "simple dinner",
+   "ko": "간단한 저녁",
+   "note": "simple은 '단순한'이라는 뜻이에요."
+  },
+  {
+   "term": "go to the gym",
+   "ko": "헬스장에 가다",
+   "note": "the gym으로 정관사를 붙여요."
+  }
+ ]
+}

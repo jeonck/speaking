@@ -1,0 +1,321 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 716.64,
+  "end": 768.17,
+  "clips": [
+   [
+    716.64,
+    720.65
+   ],
+   [
+    740.24,
+    744.33
+   ],
+   [
+    764.08,
+    768.17
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I try to wrap things up by six so I can leave on time.",
+   "chunks": [
+    {
+     "en": "I try to wrap things up",
+     "ko": "나는 일을 마무리하려고 해요"
+    },
+    {
+     "en": "by six",
+     "ko": "여섯 시까지"
+    },
+    {
+     "en": "so I can leave on time.",
+     "ko": "제시간에 퇴근할 수 있도록"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wrap",
+     "strong": true,
+     "link": false,
+     "syl": "wrap"
+    },
+    {
+     "w": "things",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "six",
+     "strong": true,
+     "link": false,
+     "syl": "six"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leave",
+     "strong": true,
+     "link": true,
+     "syl": "leave"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time.",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "wrap things up은 '랩띵스업'처럼 이어 읽어요.",
+   "start": 716.64,
+   "end": 720.65
+  },
+  {
+   "text": "On busy days though, I sometimes work until 9.",
+   "chunks": [
+    {
+     "en": "On busy days though,",
+     "ko": "하지만 바쁜 날에는,"
+    },
+    {
+     "en": "I sometimes work",
+     "ko": "나는 가끔 일해요"
+    },
+    {
+     "en": "until 9.",
+     "ko": "9시까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "busy",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "days",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "though,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sometimes",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": true,
+     "syl": "work"
+    },
+    {
+     "w": "until",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "9.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "busy는 철자와 달리 '비지'로 읽어요.",
+   "start": 740.24,
+   "end": 744.33
+  },
+  {
+   "text": "On Fridays, our team sometimes goes out for dinner.",
+   "chunks": [
+    {
+     "en": "On Fridays,",
+     "ko": "금요일에는,"
+    },
+    {
+     "en": "our team sometimes goes out",
+     "ko": "우리 팀은 가끔 나가서 먹어요"
+    },
+    {
+     "en": "for dinner.",
+     "ko": "저녁을"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "Fridays,",
+     "strong": true,
+     "link": false,
+     "syl": "fri"
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "team",
+     "strong": true,
+     "link": false,
+     "syl": "team"
+    },
+    {
+     "w": "sometimes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "goes",
+     "strong": true,
+     "link": true,
+     "syl": "goes"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dinner.",
+     "strong": true,
+     "link": false,
+     "syl": "din"
+    }
+   ],
+   "tip": "goes out for는 '고우자웃포'처럼 이어 읽어요.",
+   "start": 764.08,
+   "end": 768.17
+  }
+ ],
+ "questions": [
+  {
+   "q": "What time does the speaker try to finish work?",
+   "options": [
+    "By five",
+    "By six",
+    "By seven"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: wrap things up by six"
+  },
+  {
+   "q": "How late does the speaker sometimes work on busy days?",
+   "options": [
+    "Until 9",
+    "Until 11",
+    "Until 7"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I sometimes work until 9"
+  },
+  {
+   "q": "What does the team sometimes do on Fridays?",
+   "options": [
+    "Leave early alone",
+    "Hold a meeting",
+    "Go out for dinner"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: our team sometimes goes out for dinner"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "wrap up",
+   "ko": "마무리하다",
+   "note": "일을 끝낼 때 써요."
+  },
+  {
+   "term": "on time",
+   "ko": "제시간에",
+   "note": "정시에 맞춰 한다는 뜻이에요."
+  },
+  {
+   "term": "busy days",
+   "ko": "바쁜 날",
+   "note": "though를 붙이면 '그래도'의 느낌이에요."
+  },
+  {
+   "term": "work until 9",
+   "ko": "9시까지 일하다",
+   "note": "until 뒤에 끝나는 시각을 써요."
+  },
+  {
+   "term": "go out for dinner",
+   "ko": "저녁 먹으러 나가다",
+   "note": "외식할 때 쓰는 표현이에요."
+  }
+ ]
+}

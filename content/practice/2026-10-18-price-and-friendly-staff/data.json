@@ -1,0 +1,296 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21153.84,
+  "end": 21202.01,
+  "clips": [
+   [
+    21153.84,
+    21157.3
+   ],
+   [
+    21174.0,
+    21178.01
+   ],
+   [
+    21198.16,
+    21202.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Another thing I should mention is the price.",
+   "chunks": [
+    {
+     "en": "Another thing",
+     "ko": "또 다른 점은"
+    },
+    {
+     "en": "I should mention",
+     "ko": "말해야 할"
+    },
+    {
+     "en": "is the price.",
+     "ko": "가격이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Another",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thing",
+     "strong": true,
+     "link": false,
+     "syl": "thing"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "should",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mention",
+     "strong": true,
+     "link": true,
+     "syl": "men"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "price.",
+     "strong": true,
+     "link": false,
+     "syl": "price"
+    }
+   ],
+   "tip": "mention is는 '멘션이즈'로 n과 i를 이어요.",
+   "start": 21153.84,
+   "end": 21157.3
+  },
+  {
+   "text": "Not only that, but it's also really close to my place.",
+   "chunks": [
+    {
+     "en": "Not only that,",
+     "ko": "그뿐 아니라"
+    },
+    {
+     "en": "but it's also",
+     "ko": "또한"
+    },
+    {
+     "en": "really close to my place.",
+     "ko": "저희 집에서 정말 가까워요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Not",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "only",
+     "strong": true,
+     "link": false,
+     "syl": "on"
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": true,
+     "link": false,
+     "syl": "close"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place.",
+     "strong": true,
+     "link": false,
+     "syl": "place"
+    }
+   ],
+   "tip": "Not only는 '나톤리'처럼 이어 읽어요.",
+   "start": 21174.0,
+   "end": 21178.01
+  },
+  {
+   "text": "What's more, the staff there are super friendly.",
+   "chunks": [
+    {
+     "en": "What's more,",
+     "ko": "게다가"
+    },
+    {
+     "en": "the staff there",
+     "ko": "그곳 직원들은"
+    },
+    {
+     "en": "are super friendly.",
+     "ko": "정말 친절해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "What's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more,",
+     "strong": true,
+     "link": false,
+     "syl": "more"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "staff",
+     "strong": true,
+     "link": false,
+     "syl": "staff"
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "super",
+     "strong": true,
+     "link": false,
+     "syl": "su"
+    },
+    {
+     "w": "friendly.",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    }
+   ],
+   "tip": "friendly는 앞 음절 friend에 강세가 와요.",
+   "start": 21198.16,
+   "end": 21202.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the other thing the speaker mentions first here?",
+   "options": [
+    "The price",
+    "The menu",
+    "The parking"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Another thing I should mention is the price"
+  },
+  {
+   "q": "How close is the place to the speaker's home?",
+   "options": [
+    "Far away",
+    "Really close",
+    "Next to a station"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: really close to my place"
+  },
+  {
+   "q": "How does the speaker describe the staff?",
+   "options": [
+    "Quiet",
+    "Strict",
+    "Super friendly"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: the staff there are super friendly"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Another thing I should mention",
+   "ko": "또 하나 말씀드리면",
+   "note": "추가 정보를 덧붙일 때 써요."
+  },
+  {
+   "term": "Not only that, but",
+   "ko": "그뿐 아니라",
+   "note": "앞말에 더할 때 써요."
+  },
+  {
+   "term": "close to my place",
+   "ko": "우리 집에서 가까운",
+   "note": "my place는 '우리 집'이에요."
+  },
+  {
+   "term": "What's more",
+   "ko": "게다가",
+   "note": "추가 이유를 이어 말할 때 써요."
+  },
+  {
+   "term": "staff",
+   "ko": "직원들",
+   "note": "복수 취급해 are와 써요."
+  }
+ ]
+}

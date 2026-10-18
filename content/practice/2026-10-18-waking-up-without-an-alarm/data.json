@@ -1,0 +1,285 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 239.44,
+  "end": 287.85,
+  "clips": [
+   [
+    239.44,
+    243.53
+   ],
+   [
+    262.8,
+    266.17
+   ],
+   [
+    283.68,
+    287.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "That said, I really enjoy hanging out with close friends.",
+   "chunks": [
+    {
+     "en": "That said,",
+     "ko": "그렇긴 하지만,"
+    },
+    {
+     "en": "I really enjoy",
+     "ko": "나는 정말 즐겨요"
+    },
+    {
+     "en": "hanging out with close friends.",
+     "ko": "친한 친구들과 어울리는 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "said,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "enjoy",
+     "strong": true,
+     "link": false,
+     "syl": "joy"
+    },
+    {
+     "w": "hanging",
+     "strong": true,
+     "link": true,
+     "syl": "hang"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends.",
+     "strong": true,
+     "link": false,
+     "syl": "friends"
+    }
+   ],
+   "tip": "hanging out은 '행잉아웃'처럼 이어 읽어요.",
+   "start": 239.44,
+   "end": 243.53
+  },
+  {
+   "text": "My weekdays usually start pretty early.",
+   "chunks": [
+    {
+     "en": "My weekdays",
+     "ko": "내 평일은"
+    },
+    {
+     "en": "usually start",
+     "ko": "보통 시작해요"
+    },
+    {
+     "en": "pretty early.",
+     "ko": "꽤 일찍"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekdays",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "pretty",
+     "strong": true,
+     "link": false,
+     "syl": "pret"
+    },
+    {
+     "w": "early.",
+     "strong": true,
+     "link": false,
+     "syl": "ear"
+    }
+   ],
+   "tip": "early는 '이어리'가 아니라 '얼리'로 읽고 ear에 강세를 둬요.",
+   "start": 262.8,
+   "end": 266.17
+  },
+  {
+   "text": "I usually wake up around 6:30 without an alarm.",
+   "chunks": [
+    {
+     "en": "I usually wake up",
+     "ko": "나는 보통 일어나요"
+    },
+    {
+     "en": "around 6:30",
+     "ko": "6시 30분쯤에"
+    },
+    {
+     "en": "without an alarm.",
+     "ko": "알람 없이"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wake",
+     "strong": true,
+     "link": true,
+     "syl": "wake"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "around",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "6:30",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "without",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "alarm.",
+     "strong": true,
+     "link": false,
+     "syl": "larm"
+    }
+   ],
+   "tip": "wake up around는 '웨이컵어라운드'처럼 쭉 이어 읽어요.",
+   "start": 283.68,
+   "end": 287.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker enjoy doing with close friends?",
+   "options": [
+    "Studying together",
+    "Hanging out",
+    "Cooking"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I really enjoy hanging out with close friends"
+  },
+  {
+   "q": "When do the speaker's weekdays start?",
+   "options": [
+    "Pretty early",
+    "Late in the morning",
+    "Around noon"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: My weekdays usually start pretty early"
+  },
+  {
+   "q": "What time does the speaker usually wake up?",
+   "options": [
+    "5:30",
+    "7:30",
+    "6:30"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: wake up around 6:30 without an alarm"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "That said",
+   "ko": "그렇긴 하지만",
+   "note": "앞말과 반대되는 내용을 덧붙일 때 써요."
+  },
+  {
+   "term": "hang out",
+   "ko": "어울려 놀다",
+   "note": "친구와 시간을 보낼 때 가장 흔한 표현이에요."
+  },
+  {
+   "term": "close friends",
+   "ko": "친한 친구",
+   "note": "그냥 friends보다 가까운 사이예요."
+  },
+  {
+   "term": "wake up",
+   "ko": "잠에서 깨다",
+   "note": "wake up around + 시간으로 기상 시간을 말해요."
+  },
+  {
+   "term": "without an alarm",
+   "ko": "알람 없이",
+   "note": "without 뒤에 명사를 붙여요."
+  }
+ ]
+}

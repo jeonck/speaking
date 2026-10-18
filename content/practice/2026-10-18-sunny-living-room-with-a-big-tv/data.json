@@ -1,0 +1,332 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2395.44,
+  "end": 2450.25,
+  "clips": [
+   [
+    2395.44,
+    2399.53
+   ],
+   [
+    2421.92,
+    2425.93
+   ],
+   [
+    2446.08,
+    2450.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It's the biggest space in our home and it gets lots of sunlight.",
+   "chunks": [
+    {
+     "en": "It's the biggest space in our home",
+     "ko": "우리 집에서 가장 큰 공간이고"
+    },
+    {
+     "en": "and it gets lots of sunlight.",
+     "ko": "햇빛이 많이 든다"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biggest",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "space",
+     "strong": true,
+     "link": false,
+     "syl": "space"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gets",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lots",
+     "strong": true,
+     "link": true,
+     "syl": "lots"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sunlight.",
+     "strong": true,
+     "link": false,
+     "syl": "sun"
+    }
+   ],
+   "tip": "lots of는 '랏써브'처럼 이어 읽어요.",
+   "start": 2395.44,
+   "end": 2399.53
+  },
+  {
+   "text": "There's a large sofa facing a big TV on the wall.",
+   "chunks": [
+    {
+     "en": "There's a large sofa",
+     "ko": "큰 소파가 있다"
+    },
+    {
+     "en": "facing a big TV",
+     "ko": "큰 TV를 마주 보고"
+    },
+    {
+     "en": "on the wall.",
+     "ko": "벽에 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "large",
+     "strong": true,
+     "link": false,
+     "syl": "large"
+    },
+    {
+     "w": "sofa",
+     "strong": true,
+     "link": false,
+     "syl": "so"
+    },
+    {
+     "w": "facing",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "TV",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wall.",
+     "strong": true,
+     "link": false,
+     "syl": "wall"
+    }
+   ],
+   "tip": "facing a는 '페이싱어'처럼 이어 읽어요.",
+   "start": 2421.92,
+   "end": 2425.93
+  },
+  {
+   "text": "Next to the sofa, there's a tall plant that my mom loves.",
+   "chunks": [
+    {
+     "en": "Next to the sofa,",
+     "ko": "소파 옆에"
+    },
+    {
+     "en": "there's a tall plant",
+     "ko": "키 큰 식물이 있다"
+    },
+    {
+     "en": "that my mom loves.",
+     "ko": "엄마가 아주 좋아하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Next",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sofa,",
+     "strong": true,
+     "link": false,
+     "syl": "so"
+    },
+    {
+     "w": "there's",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tall",
+     "strong": true,
+     "link": false,
+     "syl": "tall"
+    },
+    {
+     "w": "plant",
+     "strong": true,
+     "link": false,
+     "syl": "plant"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mom",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "loves.",
+     "strong": true,
+     "link": false,
+     "syl": "loves"
+    }
+   ],
+   "tip": "there's a는 '데어저'처럼 이어 읽어요.",
+   "start": 2446.08,
+   "end": 2450.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the living room get a lot of?",
+   "options": [
+    "Sunlight",
+    "Noise",
+    "Cold air"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: it gets lots of sunlight"
+  },
+  {
+   "q": "What is the large sofa facing?",
+   "options": [
+    "A large mirror",
+    "A big TV",
+    "A family photo"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: a large sofa facing a big TV"
+  },
+  {
+   "q": "Who loves the tall plant?",
+   "options": [
+    "The speaker's dad",
+    "The speaker's brother",
+    "The speaker's mom"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: a tall plant that my mom loves"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "the biggest space",
+   "ko": "가장 큰 공간",
+   "note": "최상급 앞에는 the를 써요."
+  },
+  {
+   "term": "gets lots of sunlight",
+   "ko": "햇빛이 많이 들다",
+   "note": "lots of는 a lot of와 같아요."
+  },
+  {
+   "term": "facing a big TV",
+   "ko": "큰 TV를 마주 보는",
+   "note": "face는 '~을 향하다'예요."
+  },
+  {
+   "term": "next to the sofa",
+   "ko": "소파 옆에",
+   "note": "next to는 '바로 옆'이에요."
+  }
+ ]
+}

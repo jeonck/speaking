@@ -1,0 +1,309 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7738.72,
+  "end": 7786.17,
+  "clips": [
+   [
+    7738.72,
+    7742.49
+   ],
+   [
+    7761.44,
+    7764.81
+   ],
+   [
+    7782.24,
+    7786.17
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "A kind stranger walked me all the way to my hotel.",
+   "chunks": [
+    {
+     "en": "A kind stranger walked me",
+     "ko": "친절한 낯선 사람이 나를 걸어서 데려다줬다"
+    },
+    {
+     "en": "all the way",
+     "ko": "끝까지"
+    },
+    {
+     "en": "to my hotel.",
+     "ko": "내 호텔까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": true,
+     "link": false,
+     "syl": "kind"
+    },
+    {
+     "w": "stranger",
+     "strong": true,
+     "link": false,
+     "syl": "stran"
+    },
+    {
+     "w": "walked",
+     "strong": true,
+     "link": false,
+     "syl": "walked"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotel.",
+     "strong": true,
+     "link": false,
+     "syl": "ho"
+    }
+   ],
+   "tip": "walked는 [wɔːkt] 한 음절로 짧게 읽어요.",
+   "start": 7738.72,
+   "end": 7742.49
+  },
+  {
+   "text": "I'll never forget how kind that person was.",
+   "chunks": [
+    {
+     "en": "I'll never forget",
+     "ko": "나는 절대 잊지 못할 것이다"
+    },
+    {
+     "en": "how kind that person was.",
+     "ko": "그 사람이 얼마나 친절했는지"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "nev"
+    },
+    {
+     "w": "forget",
+     "strong": true,
+     "link": false,
+     "syl": "get"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kind",
+     "strong": true,
+     "link": false,
+     "syl": "kind"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "person",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    },
+    {
+     "w": "was.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "I'll never는 '아일 네버'로 짧게 축약해 읽어요.",
+   "start": 7761.44,
+   "end": 7764.81
+  },
+  {
+   "text": "On vacation, I like to sleep in and take it easy.",
+   "chunks": [
+    {
+     "en": "On vacation,",
+     "ko": "휴가 때는"
+    },
+    {
+     "en": "I like to sleep in",
+     "ko": "늦잠 자는 걸 좋아하고"
+    },
+    {
+     "en": "and take it easy.",
+     "ko": "느긋하게 쉬는 걸 좋아한다"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vacation,",
+     "strong": true,
+     "link": false,
+     "syl": "ca"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sleep",
+     "strong": true,
+     "link": true,
+     "syl": "sleep"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": true,
+     "link": true,
+     "syl": "take"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "easy.",
+     "strong": true,
+     "link": false,
+     "syl": "eas"
+    }
+   ],
+   "tip": "take it easy는 '테이키리지'처럼 이어 읽어요.",
+   "start": 7782.24,
+   "end": 7786.17
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the kind stranger do?",
+   "options": [
+    "Gave the speaker money",
+    "Walked the speaker to the hotel",
+    "Called a taxi"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: walked me all the way to my hotel"
+  },
+  {
+   "q": "What will the speaker never forget?",
+   "options": [
+    "The stranger's kindness",
+    "The name of the hotel",
+    "The way to the airport"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I'll never forget how kind that person was"
+  },
+  {
+   "q": "What does the speaker like to do on vacation?",
+   "options": [
+    "Visit many places",
+    "Go jogging early",
+    "Sleep in and take it easy"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I like to sleep in and take it easy"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "all the way to",
+   "ko": "~까지 내내",
+   "note": "도중에 멈추지 않고 끝까지라는 느낌이에요."
+  },
+  {
+   "term": "a kind stranger",
+   "ko": "친절한 낯선 사람",
+   "note": "stranger는 모르는 사람이에요."
+  },
+  {
+   "term": "never forget",
+   "ko": "절대 잊지 못하다",
+   "note": "강한 감사나 기억을 나타내요."
+  },
+  {
+   "term": "sleep in",
+   "ko": "늦잠 자다",
+   "note": "sleep late와 비슷해요."
+  },
+  {
+   "term": "take it easy",
+   "ko": "느긋하게 쉬다",
+   "note": "작별 인사로도 자주 써요."
+  }
+ ]
+}

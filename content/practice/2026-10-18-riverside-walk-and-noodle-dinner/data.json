@@ -1,0 +1,311 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4271.28,
+  "end": 4321.69,
+  "clips": [
+   [
+    4271.28,
+    4275.45
+   ],
+   [
+    4296.0,
+    4299.77
+   ],
+   [
+    4317.76,
+    4321.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "If a friend visited, I'd take them for a walk by the river.",
+   "chunks": [
+    {
+     "en": "If a friend visited,",
+     "ko": "친구가 방문한다면"
+    },
+    {
+     "en": "I'd take them for a walk",
+     "ko": "산책하러 데려갈 거예요"
+    },
+    {
+     "en": "by the river.",
+     "ko": "강가에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "visited,",
+     "strong": true,
+     "link": false,
+     "syl": "vis"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walk",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "river.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "If a friend는 '이퍼프렌드'처럼 이어 읽고 walk를 강하게 말해요.",
+   "start": 4271.28,
+   "end": 4275.45
+  },
+  {
+   "text": "Then we'd have dinner at a small noodle place I like.",
+   "chunks": [
+    {
+     "en": "Then we'd have dinner",
+     "ko": "그러고 나서 저녁을 먹을 거예요"
+    },
+    {
+     "en": "at a small noodle place",
+     "ko": "작은 국수집에서"
+    },
+    {
+     "en": "I like.",
+     "ko": "제가 좋아하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dinner",
+     "strong": true,
+     "link": false,
+     "syl": "din"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "noodle",
+     "strong": true,
+     "link": false,
+     "syl": "noo"
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "at a는 '애러'처럼 이어 읽어요.",
+   "start": 4296.0,
+   "end": 4299.77
+  },
+  {
+   "text": "The noodles there are cheap but incredibly tasty.",
+   "chunks": [
+    {
+     "en": "The noodles there are cheap",
+     "ko": "거기 국수는 저렴하지만"
+    },
+    {
+     "en": "but incredibly tasty.",
+     "ko": "엄청나게 맛있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "noodles",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cheap",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "incredibly",
+     "strong": true,
+     "link": false,
+     "syl": "cred"
+    },
+    {
+     "w": "tasty.",
+     "strong": true,
+     "link": false,
+     "syl": "tas"
+    }
+   ],
+   "tip": "but incredibly는 '버린크레더블리'처럼 이어 읽어요.",
+   "start": 4317.76,
+   "end": 4321.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where would the speaker take a visiting friend first?",
+   "options": [
+    "To a museum",
+    "For a walk by the river",
+    "To a cafe"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: take them for a walk by the river"
+  },
+  {
+   "q": "What would they eat for dinner?",
+   "options": [
+    "Pizza",
+    "Sushi",
+    "Noodles"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: dinner at a small noodle place"
+  },
+  {
+   "q": "What is the noodle place like?",
+   "options": [
+    "Cheap but very tasty",
+    "Expensive but tasty",
+    "Big and noisy"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: cheap but incredibly tasty"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "take them for a walk",
+   "ko": "산책시키러 데려가다",
+   "note": "친구나 반려동물과 함께 걷는 상황에 써요."
+  },
+  {
+   "term": "noodle place",
+   "ko": "국수집",
+   "note": "'~ place'는 작은 식당을 가볍게 부르는 말이에요."
+  },
+  {
+   "term": "incredibly tasty",
+   "ko": "엄청나게 맛있는",
+   "note": "incredibly는 very보다 강한 강조예요."
+  },
+  {
+   "term": "I'd",
+   "ko": "I would의 줄임말",
+   "note": "가정하는 문장에서 자주 써요."
+  },
+  {
+   "term": "by the river",
+   "ko": "강가에서",
+   "note": "by는 '~ 옆에'라는 뜻이에요."
+  }
+ ]
+}

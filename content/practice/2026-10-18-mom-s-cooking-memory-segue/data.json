@@ -1,0 +1,307 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21539.12,
+  "end": 21587.93,
+  "clips": [
+   [
+    21539.12,
+    21543.05
+   ],
+   [
+    21563.2,
+    21566.89
+   ],
+   [
+    21584.4,
+    21587.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Speaking of food, I have to mention my mom's cooking.",
+   "chunks": [
+    {
+     "en": "Speaking of food,",
+     "ko": "음식 얘기가 나왔으니"
+    },
+    {
+     "en": "I have to mention",
+     "ko": "말해야겠어요"
+    },
+    {
+     "en": "my mom's cooking.",
+     "ko": "엄마의 요리를"
+    }
+   ],
+   "words": [
+    {
+     "w": "Speaking",
+     "strong": true,
+     "link": true,
+     "syl": "speak"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food,",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mention",
+     "strong": true,
+     "link": false,
+     "syl": "men"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mom's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking.",
+     "strong": true,
+     "link": false,
+     "syl": "cook"
+    }
+   ],
+   "tip": "speaking of는 '스피킹오브'처럼 이어 읽어요.",
+   "start": 21539.12,
+   "end": 21543.05
+  },
+  {
+   "text": "That reminds me of a funny story from college.",
+   "chunks": [
+    {
+     "en": "That reminds me",
+     "ko": "그러고 보니 생각나요"
+    },
+    {
+     "en": "of a funny story",
+     "ko": "재미있는 이야기가"
+    },
+    {
+     "en": "from college.",
+     "ko": "대학 시절의"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reminds",
+     "strong": true,
+     "link": false,
+     "syl": "mind"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "funny",
+     "strong": true,
+     "link": false,
+     "syl": "fun"
+    },
+    {
+     "w": "story",
+     "strong": true,
+     "link": false,
+     "syl": "sto"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college.",
+     "strong": true,
+     "link": false,
+     "syl": "col"
+    }
+   ],
+   "tip": "reminds는 두 번째 음절 mind에 강세가 와요.",
+   "start": 21563.2,
+   "end": 21566.89
+  },
+  {
+   "text": "Let me tell you about one time that really stands out.",
+   "chunks": [
+    {
+     "en": "Let me tell you",
+     "ko": "말씀드릴게요"
+    },
+    {
+     "en": "about one time",
+     "ko": "한 번의 경험을"
+    },
+    {
+     "en": "that really stands out.",
+     "ko": "특히 기억에 남는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": true,
+     "link": false,
+     "syl": "tell"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stands",
+     "strong": true,
+     "link": true,
+     "syl": "stands"
+    },
+    {
+     "w": "out.",
+     "strong": true,
+     "link": false,
+     "syl": "out"
+    }
+   ],
+   "tip": "stands out은 '스탠자웃'처럼 이어 읽어요.",
+   "start": 21584.4,
+   "end": 21587.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker want to mention?",
+   "options": [
+    "A restaurant",
+    "Their mom's cooking",
+    "A cooking class"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: mention my mom's cooking"
+  },
+  {
+   "q": "What does the speaker remember?",
+   "options": [
+    "A funny story from college",
+    "A trip abroad",
+    "A first job"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: a funny story from college"
+  },
+  {
+   "q": "What kind of time will the speaker describe?",
+   "options": [
+    "A boring one",
+    "One that cost a lot",
+    "One that really stands out"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: one time that really stands out"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "speaking of",
+   "ko": "~얘기가 나왔으니",
+   "note": "화제를 자연스럽게 이을 때 써요."
+  },
+  {
+   "term": "remind me of",
+   "ko": "~를 떠올리게 하다",
+   "note": "연상된 기억을 꺼낼 때 써요."
+  },
+  {
+   "term": "stand out",
+   "ko": "두드러지다",
+   "note": "기억에 남는 일에 써요."
+  },
+  {
+   "term": "funny story",
+   "ko": "재미있는 이야기",
+   "note": "funny는 '웃기다'예요."
+  }
+ ]
+}

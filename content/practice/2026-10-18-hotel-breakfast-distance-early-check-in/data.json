@@ -1,0 +1,304 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14566.56,
+  "end": 14614.01,
+  "clips": [
+   [
+    14566.56,
+    14569.61
+   ],
+   [
+    14586.56,
+    14590.49
+   ],
+   [
+    14609.6,
+    14614.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Is breakfast included in the room rate?",
+   "chunks": [
+    {
+     "en": "Is breakfast included",
+     "ko": "조식이 포함되어 있나요"
+    },
+    {
+     "en": "in the room rate?",
+     "ko": "객실 요금에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "breakfast",
+     "strong": true,
+     "link": false,
+     "syl": "break"
+    },
+    {
+     "w": "included",
+     "strong": true,
+     "link": true,
+     "syl": "clud"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "room",
+     "strong": true,
+     "link": false,
+     "syl": "room"
+    },
+    {
+     "w": "rate?",
+     "strong": true,
+     "link": false,
+     "syl": "rate"
+    }
+   ],
+   "tip": "included in은 '인클루디딘'처럼 d와 i를 이어 읽어요.",
+   "start": 14566.56,
+   "end": 14569.61
+  },
+  {
+   "text": "How far is the hotel from the nearest subway station?",
+   "chunks": [
+    {
+     "en": "How far",
+     "ko": "얼마나 먼가요"
+    },
+    {
+     "en": "is the hotel",
+     "ko": "호텔은"
+    },
+    {
+     "en": "from the nearest subway station?",
+     "ko": "가장 가까운 지하철역에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "How",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "far",
+     "strong": true,
+     "link": true,
+     "syl": "far"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotel",
+     "strong": true,
+     "link": false,
+     "syl": "ho"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearest",
+     "strong": true,
+     "link": false,
+     "syl": "near"
+    },
+    {
+     "w": "subway",
+     "strong": true,
+     "link": false,
+     "syl": "sub"
+    },
+    {
+     "w": "station?",
+     "strong": true,
+     "link": false,
+     "syl": "sta"
+    }
+   ],
+   "tip": "far is는 '파리즈'처럼 이어 읽어요.",
+   "start": 14586.56,
+   "end": 14590.49
+  },
+  {
+   "text": "Would it be possible to check in before the usual check-in time?",
+   "chunks": [
+    {
+     "en": "Would it be possible",
+     "ko": "가능할까요"
+    },
+    {
+     "en": "to check in",
+     "ko": "체크인하는 게"
+    },
+    {
+     "en": "before the usual check-in time?",
+     "ko": "평소 체크인 시간 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Would",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "possible",
+     "strong": true,
+     "link": false,
+     "syl": "poss"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "check",
+     "strong": true,
+     "link": true,
+     "syl": "check"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usual",
+     "strong": true,
+     "link": false,
+     "syl": "usu"
+    },
+    {
+     "w": "check-in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time?",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "Would it은 '우릿', check in은 '체킨'처럼 이어 읽어요.",
+   "start": 14609.6,
+   "end": 14614.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask is included in the room rate?",
+   "options": [
+    "Parking",
+    "Breakfast",
+    "Airport pickup"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: breakfast included in the room rate"
+  },
+  {
+   "q": "What does the speaker ask about the hotel's location?",
+   "options": [
+    "Whether it has a pool",
+    "How many floors it has",
+    "How far it is from the nearest subway station"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: How far is the hotel from the nearest subway station"
+  },
+  {
+   "q": "What does the speaker want to do early?",
+   "options": [
+    "Check in before the usual time",
+    "Check out",
+    "Order room service"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: check in before the usual check-in time"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "included in the room rate",
+   "ko": "객실 요금에 포함된",
+   "note": "include는 '포함하다'예요."
+  },
+  {
+   "term": "room rate",
+   "ko": "객실 요금",
+   "note": "호텔 1박 가격을 말해요."
+  },
+  {
+   "term": "How far is...?",
+   "ko": "~은 얼마나 먼가요?",
+   "note": "거리를 물을 때 써요."
+  },
+  {
+   "term": "nearest subway station",
+   "ko": "가장 가까운 지하철역",
+   "note": "near의 최상급은 nearest예요."
+  },
+  {
+   "term": "check-in time",
+   "ko": "체크인 시간",
+   "note": "usual을 붙여 '평소 시간'을 말해요."
+  }
+ ]
+}

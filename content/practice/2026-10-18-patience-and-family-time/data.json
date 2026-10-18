@@ -1,0 +1,300 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22336.8,
+  "end": 22382.73,
+  "clips": [
+   [
+    22336.8,
+    22340.09
+   ],
+   [
+    22357.6,
+    22360.89
+   ],
+   [
+    22378.88,
+    22382.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "What I'm trying to say is that it changed me.",
+   "chunks": [
+    {
+     "en": "What I'm trying to say",
+     "ko": "제가 말하려는 건"
+    },
+    {
+     "en": "is that",
+     "ko": "~라는 거예요"
+    },
+    {
+     "en": "it changed me.",
+     "ko": "그게 저를 바꿨다"
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trying",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "say",
+     "strong": true,
+     "link": false,
+     "syl": "say"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": false,
+     "syl": "changed"
+    },
+    {
+     "w": "me.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "What I'm은 '와라임'처럼 이어서 읽어요.",
+   "start": 22336.8,
+   "end": 22340.09
+  },
+  {
+   "text": "More importantly, it taught me to be patient.",
+   "chunks": [
+    {
+     "en": "More importantly,",
+     "ko": "더 중요하게는,"
+    },
+    {
+     "en": "it taught me",
+     "ko": "그건 저에게 가르쳐 줬어요"
+    },
+    {
+     "en": "to be patient.",
+     "ko": "인내심을 갖는 법을"
+    }
+   ],
+   "words": [
+    {
+     "w": "More",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "importantly,",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taught",
+     "strong": true,
+     "link": false,
+     "syl": "taught"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "patient.",
+     "strong": true,
+     "link": false,
+     "syl": "pa"
+    }
+   ],
+   "tip": "importantly는 -por- 부분에 강세를 줘서 'imPORtantly'처럼 읽어요.",
+   "start": 22357.6,
+   "end": 22360.89
+  },
+  {
+   "text": "Above all, I value the time I spend with family.",
+   "chunks": [
+    {
+     "en": "Above all,",
+     "ko": "무엇보다도,"
+    },
+    {
+     "en": "I value the time",
+     "ko": "저는 시간을 소중히 여겨요"
+    },
+    {
+     "en": "I spend with family.",
+     "ko": "제가 가족과 보내는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Above",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "all,",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "value",
+     "strong": true,
+     "link": false,
+     "syl": "val"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spend",
+     "strong": true,
+     "link": false,
+     "syl": "spend"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "family.",
+     "strong": true,
+     "link": false,
+     "syl": "fam"
+    }
+   ],
+   "tip": "all I는 '올라이'처럼 이어서 읽어요.",
+   "start": 22378.88,
+   "end": 22382.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about it?",
+   "options": [
+    "It changed the speaker",
+    "It bored the speaker",
+    "It scared the speaker"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: it changed me"
+  },
+  {
+   "q": "What did it teach the speaker?",
+   "options": [
+    "To be brave",
+    "To be patient",
+    "To be fast"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: it taught me to be patient"
+  },
+  {
+   "q": "What does the speaker value above all?",
+   "options": [
+    "Money",
+    "Free time alone",
+    "Time with family"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I value the time I spend with family"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "What I'm trying to say is",
+   "ko": "제가 하고 싶은 말은",
+   "note": "핵심을 다시 정리할 때 써요."
+  },
+  {
+   "term": "More importantly",
+   "ko": "더 중요한 것은",
+   "note": "우선순위를 올릴 때 써요."
+  },
+  {
+   "term": "patient",
+   "ko": "인내심 있는",
+   "note": "명사는 patience예요."
+  },
+  {
+   "term": "Above all",
+   "ko": "무엇보다도",
+   "note": "가장 중요한 걸 말할 때 써요."
+  },
+  {
+   "term": "value",
+   "ko": "소중히 여기다",
+   "note": "동사로도 쓰여요."
+  }
+ ]
+}

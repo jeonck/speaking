@@ -1,0 +1,305 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16928.4,
+  "end": 16982.01,
+  "clips": [
+   [
+    16928.4,
+    16932.73
+   ],
+   [
+    16954.0,
+    16957.93
+   ],
+   [
+    16977.76,
+    16982.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "For our last get-together, we decided to cook at my place.",
+   "chunks": [
+    {
+     "en": "For our last get-together,",
+     "ko": "지난 모임에서"
+    },
+    {
+     "en": "we decided to cook",
+     "ko": "우리는 요리하기로 했다"
+    },
+    {
+     "en": "at my place.",
+     "ko": "우리 집에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": true,
+     "link": false,
+     "syl": "last"
+    },
+    {
+     "w": "get-together,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decided",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cook",
+     "strong": true,
+     "link": true,
+     "syl": "cook"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "cook at my place는 cook과 place에 강세를 두고 at my는 약하게 읽어요.",
+   "start": 16928.4,
+   "end": 16932.73
+  },
+  {
+   "text": "One friend brought ingredients and another brought dessert.",
+   "chunks": [
+    {
+     "en": "One friend brought ingredients",
+     "ko": "한 친구는 재료를 가져왔고"
+    },
+    {
+     "en": "and another brought dessert.",
+     "ko": "다른 친구는 디저트를 가져왔다"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    },
+    {
+     "w": "brought",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ingredients",
+     "strong": true,
+     "link": false,
+     "syl": "gre"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "another",
+     "strong": true,
+     "link": false,
+     "syl": "noth"
+    },
+    {
+     "w": "brought",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "dessert.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "dessert는 둘째 음절 'sert'에 강세를 둬요.",
+   "start": 16954.0,
+   "end": 16957.93
+  },
+  {
+   "text": "I was supposed to make pasta, but I forgot to buy the sauce.",
+   "chunks": [
+    {
+     "en": "I was supposed to make pasta,",
+     "ko": "나는 파스타를 만들기로 되어 있었지만"
+    },
+    {
+     "en": "but I forgot to buy the sauce.",
+     "ko": "소스를 사는 걸 깜빡했다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "supposed",
+     "strong": true,
+     "link": false,
+     "syl": "posed"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": true,
+     "link": false,
+     "syl": "make"
+    },
+    {
+     "w": "pasta,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "forgot",
+     "strong": true,
+     "link": false,
+     "syl": "got"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buy",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sauce.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "supposed to는 '서포스투'처럼 d를 거의 소리내지 않아요.",
+   "start": 16977.76,
+   "end": 16982.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did the friends decide to cook?",
+   "options": [
+    "At a friend's house",
+    "At the speaker's place",
+    "In a rented kitchen"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: we decided to cook at my place"
+  },
+  {
+   "q": "What did the second friend bring?",
+   "options": [
+    "Dessert",
+    "Drinks",
+    "Bread"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: another brought dessert"
+  },
+  {
+   "q": "What did the speaker forget?",
+   "options": [
+    "To buy the pasta",
+    "To invite a friend",
+    "To buy the sauce"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I forgot to buy the sauce"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "get-together",
+   "ko": "(가벼운) 모임",
+   "note": "명사로 쓸 땐 하이픈을 넣어요."
+  },
+  {
+   "term": "at my place",
+   "ko": "우리 집에서",
+   "note": "place는 '집'을 가볍게 가리켜요."
+  },
+  {
+   "term": "ingredients",
+   "ko": "재료",
+   "note": "요리 재료 전체를 말해요."
+  },
+  {
+   "term": "be supposed to",
+   "ko": "~하기로 되어 있다",
+   "note": "역할이나 약속을 말할 때 써요."
+  }
+ ]
+}

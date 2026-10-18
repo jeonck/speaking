@@ -1,0 +1,337 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19364.08,
+  "end": 19421.53,
+  "clips": [
+   [
+    19364.08,
+    19368.25
+   ],
+   [
+    19389.44,
+    19393.77
+   ],
+   [
+    19416.08,
+    19421.53
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'm convinced that each of us can help protect the environment.",
+   "chunks": [
+    {
+     "en": "I'm convinced",
+     "ko": "저는 확신해요"
+    },
+    {
+     "en": "that each of us",
+     "ko": "우리 각자가"
+    },
+    {
+     "en": "can help protect the environment.",
+     "ko": "환경을 보호하는 데 도움이 될 수 있다고"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "convinced",
+     "strong": true,
+     "link": false,
+     "syl": "vinced"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "protect",
+     "strong": true,
+     "link": false,
+     "syl": "tect"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "environment.",
+     "strong": true,
+     "link": false,
+     "syl": "vi"
+    }
+   ],
+   "tip": "environment는 en-VI-ron-ment, vi에 강세가 와요.",
+   "start": 19364.08,
+   "end": 19368.25
+  },
+  {
+   "text": "Small habits like carrying a reusable cup really add up.",
+   "chunks": [
+    {
+     "en": "Small habits",
+     "ko": "작은 습관들이"
+    },
+    {
+     "en": "like carrying a reusable cup",
+     "ko": "재사용 가능한 컵을 들고 다니는 것 같은"
+    },
+    {
+     "en": "really add up.",
+     "ko": "정말 쌓여요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Small",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "habits",
+     "strong": true,
+     "link": false,
+     "syl": "hab"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carrying",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reusable",
+     "strong": true,
+     "link": false,
+     "syl": "us"
+    },
+    {
+     "w": "cup",
+     "strong": true,
+     "link": false,
+     "syl": "cup"
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "add",
+     "strong": true,
+     "link": true,
+     "syl": "add"
+    },
+    {
+     "w": "up.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "add up은 '애덥'처럼 이어 읽어요.",
+   "start": 19389.44,
+   "end": 19393.77
+  },
+  {
+   "text": "My office stopped using paper cups and now we throw away much less trash.",
+   "chunks": [
+    {
+     "en": "My office",
+     "ko": "제 사무실은"
+    },
+    {
+     "en": "stopped using paper cups",
+     "ko": "종이컵 사용을 중단했고"
+    },
+    {
+     "en": "and now we throw away much less trash.",
+     "ko": "이제 우리는 쓰레기를 훨씬 적게 버려요"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "office",
+     "strong": true,
+     "link": false,
+     "syl": "of"
+    },
+    {
+     "w": "stopped",
+     "strong": true,
+     "link": false,
+     "syl": "stopped"
+    },
+    {
+     "w": "using",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "paper",
+     "strong": true,
+     "link": false,
+     "syl": "pa"
+    },
+    {
+     "w": "cups",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "throw",
+     "strong": true,
+     "link": true,
+     "syl": "throw"
+    },
+    {
+     "w": "away",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "less",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trash.",
+     "strong": true,
+     "link": false,
+     "syl": "trash"
+    }
+   ],
+   "tip": "throw away는 '쓰로우어웨이'처럼 이어 읽어요.",
+   "start": 19416.08,
+   "end": 19421.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What example of a small habit does the speaker give?",
+   "options": [
+    "Biking to work",
+    "Carrying a reusable cup",
+    "Turning off the lights"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: like carrying a reusable cup"
+  },
+  {
+   "q": "What did the speaker's office stop using?",
+   "options": [
+    "Plastic bags",
+    "Printers",
+    "Paper cups"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: My office stopped using paper cups"
+  },
+  {
+   "q": "What happened after the office made the change?",
+   "options": [
+    "They throw away much less trash",
+    "They spend less on coffee",
+    "They hired more staff"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: now we throw away much less trash"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "protect the environment",
+   "ko": "환경을 보호하다",
+   "note": "protect는 '지키다, 보호하다'예요."
+  },
+  {
+   "term": "reusable cup",
+   "ko": "재사용 가능한 컵",
+   "note": "-able은 '~할 수 있는'이라는 뜻이에요."
+  },
+  {
+   "term": "add up",
+   "ko": "쌓이다, 합쳐지다",
+   "note": "작은 것이 모여 커진다는 뜻이에요."
+  },
+  {
+   "term": "throw away",
+   "ko": "버리다",
+   "note": "일반 쓰레기를 버릴 때 써요."
+  },
+  {
+   "term": "be convinced that",
+   "ko": "~라고 확신하다",
+   "note": "I'm sure보다 더 강한 확신이에요."
+  }
+ ]
+}

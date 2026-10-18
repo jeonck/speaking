@@ -1,0 +1,305 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7125.36,
+  "end": 7179.61,
+  "clips": [
+   [
+    7125.36,
+    7129.93
+   ],
+   [
+    7151.68,
+    7155.37
+   ],
+   [
+    7175.04,
+    7179.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I prefer staying at small guest houses rather than big hotels.",
+   "chunks": [
+    {
+     "en": "I prefer staying at small guest houses",
+     "ko": "저는 작은 게스트하우스에 묵는 걸 더 좋아해요"
+    },
+    {
+     "en": "rather than big hotels.",
+     "ko": "큰 호텔보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "prefer",
+     "strong": true,
+     "syl": "fer",
+     "link": false
+    },
+    {
+     "w": "staying",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "syl": "small",
+     "link": false
+    },
+    {
+     "w": "guest",
+     "strong": true,
+     "syl": "guest",
+     "link": false
+    },
+    {
+     "w": "houses",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rather",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "syl": "big",
+     "link": false
+    },
+    {
+     "w": "hotels.",
+     "strong": true,
+     "syl": "tels",
+     "link": false
+    }
+   ],
+   "tip": "staying at은 '스테잉앳'처럼 이어 읽어요.",
+   "start": 7125.36,
+   "end": 7129.93
+  },
+  {
+   "text": "The owners often give you great local tips.",
+   "chunks": [
+    {
+     "en": "The owners often give you",
+     "ko": "주인들이 자주 알려 줘요"
+    },
+    {
+     "en": "great local tips.",
+     "ko": "훌륭한 현지 팁을"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "owners",
+     "strong": true,
+     "syl": "own",
+     "link": false
+    },
+    {
+     "w": "often",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "give",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "syl": "great",
+     "link": false
+    },
+    {
+     "w": "local",
+     "strong": true,
+     "syl": "lo",
+     "link": false
+    },
+    {
+     "w": "tips.",
+     "strong": true,
+     "syl": "tips",
+     "link": false
+    }
+   ],
+   "tip": "owners는 첫 음절 OWN에 강세가 와요.",
+   "start": 7151.68,
+   "end": 7155.37
+  },
+  {
+   "text": "When I travel, I like to explore places off the beaten path.",
+   "chunks": [
+    {
+     "en": "When I travel,",
+     "ko": "여행할 때"
+    },
+    {
+     "en": "I like to explore places",
+     "ko": "저는 장소를 탐험하는 걸 좋아해요"
+    },
+    {
+     "en": "off the beaten path.",
+     "ko": "잘 알려지지 않은"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "travel,",
+     "strong": true,
+     "syl": "trav",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "explore",
+     "strong": true,
+     "syl": "plore",
+     "link": false
+    },
+    {
+     "w": "places",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "off",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beaten",
+     "strong": true,
+     "syl": "beat",
+     "link": false
+    },
+    {
+     "w": "path.",
+     "strong": true,
+     "syl": "path",
+     "link": false
+    }
+   ],
+   "tip": "places off는 '플레이시스오프'처럼 이어 읽어요.",
+   "start": 7175.04,
+   "end": 7179.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where does the speaker prefer to stay?",
+   "options": [
+    "Big hotels",
+    "Small guest houses",
+    "Camping sites"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: small guest houses rather than big hotels"
+  },
+  {
+   "q": "What do the owners often give?",
+   "options": [
+    "Great local tips",
+    "Free meals",
+    "Discounts"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: give you great local tips"
+  },
+  {
+   "q": "What kind of places does the speaker like to explore?",
+   "options": [
+    "Famous landmarks",
+    "Shopping malls",
+    "Places off the beaten path"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: explore places off the beaten path"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "rather than",
+   "ko": "~보다는",
+   "note": "두 선택지 중 한쪽을 고를 때 써요."
+  },
+  {
+   "term": "guest house",
+   "ko": "게스트하우스",
+   "note": "작은 규모의 숙소예요."
+  },
+  {
+   "term": "local tips",
+   "ko": "현지 팁",
+   "note": "현지인만 아는 정보를 말해요."
+  },
+  {
+   "term": "off the beaten path",
+   "ko": "잘 알려지지 않은 곳",
+   "note": "관광객이 잘 안 가는 곳을 뜻해요."
+  }
+ ]
+}

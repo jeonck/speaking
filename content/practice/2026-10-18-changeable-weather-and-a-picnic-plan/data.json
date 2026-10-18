@@ -1,0 +1,311 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15940.0,
+  "end": 15985.05,
+  "clips": [
+   [
+    15940.0,
+    15943.45
+   ],
+   [
+    15960.88,
+    15964.33
+   ],
+   [
+    15981.68,
+    15985.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The weather can change pretty quickly where I live.",
+   "chunks": [
+    {
+     "en": "The weather can change",
+     "ko": "날씨가 바뀔 수 있어요"
+    },
+    {
+     "en": "pretty quickly",
+     "ko": "꽤 빠르게"
+    },
+    {
+     "en": "where I live.",
+     "ko": "제가 사는 곳에서는"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weather",
+     "strong": true,
+     "link": false,
+     "syl": "wea"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "link": false,
+     "syl": "change"
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quickly",
+     "strong": true,
+     "link": false,
+     "syl": "quick"
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live.",
+     "strong": true,
+     "link": false,
+     "syl": "live"
+    }
+   ],
+   "tip": "weather의 th는 혀를 살짝 물고 wea만 세게 읽어요.",
+   "start": 15940.0,
+   "end": 15943.45
+  },
+  {
+   "text": "Last weekend it was sunny when I left home.",
+   "chunks": [
+    {
+     "en": "Last weekend",
+     "ko": "지난 주말"
+    },
+    {
+     "en": "it was sunny",
+     "ko": "화창했어요"
+    },
+    {
+     "en": "when I left home.",
+     "ko": "제가 집을 나설 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "Last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekend",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sunny",
+     "strong": true,
+     "link": false,
+     "syl": "sun"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "left",
+     "strong": true,
+     "link": false,
+     "syl": "left"
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    }
+   ],
+   "tip": "when I left는 '웬아이레프트'처럼 이어 읽어요.",
+   "start": 15960.88,
+   "end": 15964.33
+  },
+  {
+   "text": "I was on my way to meet a friend for a picnic.",
+   "chunks": [
+    {
+     "en": "I was on my way",
+     "ko": "가는 길이었어요"
+    },
+    {
+     "en": "to meet a friend",
+     "ko": "친구를 만나러"
+    },
+    {
+     "en": "for a picnic.",
+     "ko": "소풍을 위해"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meet",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "picnic.",
+     "strong": true,
+     "link": false,
+     "syl": "pic"
+    }
+   ],
+   "tip": "meet a friend는 '미러프렌드'처럼 이어 읽어요.",
+   "start": 15981.68,
+   "end": 15985.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say can change quickly?",
+   "options": [
+    "The weather",
+    "The traffic",
+    "The prices"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: The weather can change pretty quickly"
+  },
+  {
+   "q": "What was the weather like when the speaker left home?",
+   "options": [
+    "Rainy",
+    "Windy",
+    "Sunny"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: it was sunny when I left home"
+  },
+  {
+   "q": "What was the speaker on the way to do?",
+   "options": [
+    "Go shopping",
+    "Meet a friend for a picnic",
+    "Visit a doctor"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: on my way to meet a friend for a picnic"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "pretty quickly",
+   "ko": "꽤 빠르게",
+   "note": "pretty는 여기서 '꽤'라는 뜻이에요."
+  },
+  {
+   "term": "sunny",
+   "ko": "화창한",
+   "note": "sun에 -ny를 붙인 날씨 형용사예요."
+  },
+  {
+   "term": "left home",
+   "ko": "집을 나섰다",
+   "note": "leave의 과거형은 left예요."
+  },
+  {
+   "term": "on my way to",
+   "ko": "~로 가는 길에",
+   "note": "목적지나 동작이 뒤에 와요."
+  },
+  {
+   "term": "picnic",
+   "ko": "소풍",
+   "note": "pic에 강세가 와요."
+  }
+ ]
+}

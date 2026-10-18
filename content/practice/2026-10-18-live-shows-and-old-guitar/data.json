@@ -1,0 +1,288 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4864.8,
+  "end": 4910.97,
+  "clips": [
+   [
+    4864.8,
+    4868.41
+   ],
+   [
+    4886.64,
+    4890.33
+   ],
+   [
+    4907.92,
+    4910.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The energy at a live show is totally different.",
+   "chunks": [
+    {
+     "en": "The energy at a live show",
+     "ko": "라이브 공연의 에너지는"
+    },
+    {
+     "en": "is totally different.",
+     "ko": "완전히 달라요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "energy",
+     "strong": true,
+     "link": false,
+     "syl": "en"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "show",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "totally",
+     "strong": true,
+     "link": false,
+     "syl": "to"
+    },
+    {
+     "w": "different.",
+     "strong": true,
+     "link": false,
+     "syl": "dif"
+    }
+   ],
+   "tip": "live show의 live는 [라이브], different는 첫 음절 dif에 강세예요.",
+   "start": 4864.8,
+   "end": 4868.41
+  },
+  {
+   "text": "When I was in high school, I used to play the guitar.",
+   "chunks": [
+    {
+     "en": "When I was in high school,",
+     "ko": "고등학교 때"
+    },
+    {
+     "en": "I used to play the guitar.",
+     "ko": "기타를 치곤 했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "high",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "school,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "play",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "guitar.",
+     "strong": true,
+     "link": false,
+     "syl": "tar"
+    }
+   ],
+   "tip": "used to는 '유스투'로 읽고 guitar는 tar에 강세가 와요.",
+   "start": 4886.64,
+   "end": 4890.33
+  },
+  {
+   "text": "I'd love to pick it up again someday.",
+   "chunks": [
+    {
+     "en": "I'd love to pick it up again",
+     "ko": "다시 시작하고 싶어요"
+    },
+    {
+     "en": "someday.",
+     "ko": "언젠가"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pick",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "again",
+     "strong": true,
+     "link": false,
+     "syl": "gain"
+    },
+    {
+     "w": "someday.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "pick it up again은 '피키럽어겐'처럼 한 덩어리로 이어 읽어요.",
+   "start": 4907.92,
+   "end": 4910.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is different about a live show?",
+   "options": [
+    "The ticket price",
+    "The energy",
+    "The parking"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: The energy at a live show is totally different"
+  },
+  {
+   "q": "What did the speaker play in high school?",
+   "options": [
+    "Piano",
+    "Drums",
+    "Guitar"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I used to play the guitar"
+  },
+  {
+   "q": "What would the speaker like to do someday?",
+   "options": [
+    "Pick up the guitar again",
+    "Start a band",
+    "Attend a festival"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: pick it up again someday"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "live show",
+   "ko": "라이브 공연",
+   "note": "live는 [라이브]로 읽어요."
+  },
+  {
+   "term": "totally different",
+   "ko": "완전히 다른",
+   "note": "totally는 강조 부사예요."
+  },
+  {
+   "term": "used to play",
+   "ko": "~하곤 했다",
+   "note": "과거의 반복된 습관을 말해요."
+  },
+  {
+   "term": "pick it up again",
+   "ko": "다시 시작하다",
+   "note": "pick up은 '(취미를) 다시 시작하다'로도 써요."
+  },
+  {
+   "term": "someday",
+   "ko": "언젠가",
+   "note": "막연한 미래를 말해요."
+  }
+ ]
+}

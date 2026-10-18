@@ -1,0 +1,323 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10809.92,
+  "end": 10863.45,
+  "clips": [
+   [
+    10809.92,
+    10814.49
+   ],
+   [
+    10836.96,
+    10840.49
+   ],
+   [
+    10859.2,
+    10863.45
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Two days later, a stranger mailed it back with everything inside.",
+   "chunks": [
+    {
+     "en": "Two days later,",
+     "ko": "이틀 뒤에"
+    },
+    {
+     "en": "a stranger mailed it back",
+     "ko": "낯선 사람이 그것을 우편으로 돌려보냈어요"
+    },
+    {
+     "en": "with everything inside.",
+     "ko": "안에 모든 게 그대로 든 채로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Two",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    },
+    {
+     "w": "later,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stranger",
+     "strong": true,
+     "link": false,
+     "syl": "stran"
+    },
+    {
+     "w": "mailed",
+     "strong": true,
+     "link": true,
+     "syl": "mail"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "everything",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "inside.",
+     "strong": true,
+     "link": false,
+     "syl": "side"
+    }
+   ],
+   "tip": "mailed it back은 '메일딧백'처럼 이어 읽어요.",
+   "start": 10809.92,
+   "end": 10814.49
+  },
+  {
+   "text": "To be honest, it restored my faith in people.",
+   "chunks": [
+    {
+     "en": "To be honest,",
+     "ko": "솔직히 말해서"
+    },
+    {
+     "en": "it restored my faith",
+     "ko": "그것이 내 믿음을 되찾아 줬어요"
+    },
+    {
+     "en": "in people.",
+     "ko": "사람들에 대한"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honest,",
+     "strong": true,
+     "link": false,
+     "syl": "hon"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "restored",
+     "strong": true,
+     "link": false,
+     "syl": "stored"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "faith",
+     "strong": true,
+     "link": true,
+     "syl": "faith"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people.",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    }
+   ],
+   "tip": "honest의 h는 묵음이라 '아니스트'처럼 읽어요.",
+   "start": 10836.96,
+   "end": 10840.49
+  },
+  {
+   "text": "My first day at my current job is still vivid in my mind.",
+   "chunks": [
+    {
+     "en": "My first day at my current job",
+     "ko": "지금 직장에서의 첫날은"
+    },
+    {
+     "en": "is still vivid",
+     "ko": "여전히 생생해요"
+    },
+    {
+     "en": "in my mind.",
+     "ko": "내 기억 속에"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "day",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "current",
+     "strong": true,
+     "link": false,
+     "syl": "cur"
+    },
+    {
+     "w": "job",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "vivid",
+     "strong": true,
+     "link": true,
+     "syl": "viv"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mind.",
+     "strong": true,
+     "link": false,
+     "syl": "mind"
+    }
+   ],
+   "tip": "vivid in my는 '비비딘마이'처럼 d와 i를 이어 읽어요.",
+   "start": 10859.2,
+   "end": 10863.45
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long after the loss did the wallet come back?",
+   "options": [
+    "Two days",
+    "Two weeks",
+    "Two hours"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Two days later, a stranger mailed it back"
+  },
+  {
+   "q": "What did the incident do for the speaker?",
+   "options": [
+    "Made the speaker more careful",
+    "Restored faith in people",
+    "Led to a new job"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: it restored my faith in people"
+  },
+  {
+   "q": "What is still vivid in the speaker's mind?",
+   "options": [
+    "The first day at the current job",
+    "The last day of school",
+    "A trip abroad"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: My first day at my current job is still vivid in my mind"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "mail it back",
+   "ko": "우편으로 돌려보내다",
+   "note": "mail 대신 send it back도 써요."
+  },
+  {
+   "term": "restore my faith in",
+   "ko": "~에 대한 믿음을 되찾게 하다",
+   "note": "restore는 '회복시키다'예요."
+  },
+  {
+   "term": "to be honest",
+   "ko": "솔직히 말해서",
+   "note": "문장 앞에서 가볍게 말해요."
+  },
+  {
+   "term": "vivid",
+   "ko": "생생한",
+   "note": "기억을 말할 때 vivid memory처럼 써요."
+  }
+ ]
+}

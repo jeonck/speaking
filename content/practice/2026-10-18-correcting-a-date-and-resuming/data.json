@@ -1,0 +1,297 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21477.04,
+  "end": 21521.29,
+  "clips": [
+   [
+    21477.04,
+    21480.65
+   ],
+   [
+    21499.04,
+    21502.49
+   ],
+   [
+    21518.08,
+    21521.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Let me correct myself. It was 3 years ago.",
+   "chunks": [
+    {
+     "en": "Let me correct myself.",
+     "ko": "정정할게요"
+    },
+    {
+     "en": "It was 3 years ago.",
+     "ko": "3년 전이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "correct",
+     "strong": true,
+     "link": false,
+     "syl": "rect"
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    },
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "3",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    },
+    {
+     "w": "ago.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "correct myself는 '커렉트마이셀프'처럼 이어 말해요.",
+   "start": 21477.04,
+   "end": 21480.65
+  },
+  {
+   "text": "Sorry, I lost my train of thought for a second.",
+   "chunks": [
+    {
+     "en": "Sorry, I lost",
+     "ko": "죄송해요, 잃어버렸어요"
+    },
+    {
+     "en": "my train of thought",
+     "ko": "하던 생각의 흐름을"
+    },
+    {
+     "en": "for a second.",
+     "ko": "잠깐"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sorry,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lost",
+     "strong": true,
+     "link": false,
+     "syl": "lost"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "train",
+     "strong": true,
+     "link": false,
+     "syl": "train"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thought",
+     "strong": true,
+     "link": false,
+     "syl": "thought"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "second.",
+     "strong": true,
+     "link": false,
+     "syl": "sec"
+    }
+   ],
+   "tip": "for a는 '포러'처럼 이어 읽어요.",
+   "start": 21499.04,
+   "end": 21502.49
+  },
+  {
+   "text": "Anyway, let me get back to what I was saying.",
+   "chunks": [
+    {
+     "en": "Anyway,",
+     "ko": "아무튼"
+    },
+    {
+     "en": "let me get back",
+     "ko": "돌아갈게요"
+    },
+    {
+     "en": "to what I was saying.",
+     "ko": "하던 말로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Anyway,",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    },
+    {
+     "w": "let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": true,
+     "link": false,
+     "syl": "get"
+    },
+    {
+     "w": "back",
+     "strong": true,
+     "link": false,
+     "syl": "back"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saying.",
+     "strong": true,
+     "link": false,
+     "syl": "say"
+    }
+   ],
+   "tip": "what I was는 '와라이워즈'처럼 이어 읽어요.",
+   "start": 21518.08,
+   "end": 21521.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long ago was it?",
+   "options": [
+    "Two years ago",
+    "Three years ago",
+    "Five years ago"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: It was 3 years ago"
+  },
+  {
+   "q": "What did the speaker lose for a second?",
+   "options": [
+    "Their train of thought",
+    "Their keys",
+    "Their place in line"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: lost my train of thought"
+  },
+  {
+   "q": "What does the speaker do at the end?",
+   "options": [
+    "Ask a question",
+    "Change the topic",
+    "Get back to what they were saying"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: get back to what I was saying"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "correct myself",
+   "ko": "스스로 정정하다",
+   "note": "말을 바로잡을 때 써요."
+  },
+  {
+   "term": "lose my train of thought",
+   "ko": "생각의 흐름을 잃다",
+   "note": "말하다 놓쳤을 때 써요."
+  },
+  {
+   "term": "for a second",
+   "ko": "잠깐",
+   "note": "짧은 시간을 말해요."
+  },
+  {
+   "term": "get back to",
+   "ko": "~로 돌아가다",
+   "note": "본론으로 돌아갈 때 써요."
+  }
+ ]
+}

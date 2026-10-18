@@ -1,0 +1,328 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 14701.28,
+  "end": 14747.69,
+  "clips": [
+   [
+    14701.28,
+    14705.13
+   ],
+   [
+    14722.96,
+    14726.49
+   ],
+   [
+    14743.92,
+    14747.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Something urgent came up at work and I have to stay late.",
+   "chunks": [
+    {
+     "en": "Something urgent came up",
+     "ko": "급한 일이 생겼어요"
+    },
+    {
+     "en": "at work",
+     "ko": "회사에서"
+    },
+    {
+     "en": "and I have to stay late.",
+     "ko": "그래서 늦게까지 있어야 해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "urgent",
+     "strong": true,
+     "link": false,
+     "syl": "ur"
+    },
+    {
+     "w": "came",
+     "strong": true,
+     "link": true,
+     "syl": "came"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": true,
+     "syl": "work"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "late.",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    }
+   ],
+   "tip": "came up at은 '케이멉앳'처럼 이어 읽어요.",
+   "start": 14701.28,
+   "end": 14705.13
+  },
+  {
+   "text": "I'm really sorry about cancelling at the last minute.",
+   "chunks": [
+    {
+     "en": "I'm really sorry",
+     "ko": "정말 미안해요"
+    },
+    {
+     "en": "about cancelling",
+     "ko": "취소하게 되어서"
+    },
+    {
+     "en": "at the last minute.",
+     "ko": "막판에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "sorry",
+     "strong": true,
+     "link": false,
+     "syl": "sor"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cancelling",
+     "strong": true,
+     "link": true,
+     "syl": "can"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": true,
+     "link": false,
+     "syl": "last"
+    },
+    {
+     "w": "minute.",
+     "strong": true,
+     "link": false,
+     "syl": "min"
+    }
+   ],
+   "tip": "cancelling at은 '캔슬링앳'처럼 이어 읽어요.",
+   "start": 14722.96,
+   "end": 14726.49
+  },
+  {
+   "text": "Would it be okay if I gave my ticket to a coworker?",
+   "chunks": [
+    {
+     "en": "Would it be okay",
+     "ko": "괜찮을까요"
+    },
+    {
+     "en": "if I gave my ticket",
+     "ko": "제가 제 표를 주면"
+    },
+    {
+     "en": "to a coworker?",
+     "ko": "동료에게"
+    }
+   ],
+   "words": [
+    {
+     "w": "Would",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "okay",
+     "strong": true,
+     "link": false,
+     "syl": "kay"
+    },
+    {
+     "w": "if",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gave",
+     "strong": true,
+     "link": false,
+     "syl": "gave"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ticket",
+     "strong": true,
+     "link": false,
+     "syl": "tick"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coworker?",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    }
+   ],
+   "tip": "Would it be는 '우릿비'처럼 이어 읽어요.",
+   "start": 14743.92,
+   "end": 14747.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why can't the speaker go?",
+   "options": [
+    "The speaker is sick",
+    "Something urgent came up at work",
+    "The tickets sold out"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: Something urgent came up at work"
+  },
+  {
+   "q": "How does the speaker feel about cancelling?",
+   "options": [
+    "Not worried",
+    "Angry at the coworker",
+    "Really sorry"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: really sorry about cancelling at the last minute"
+  },
+  {
+   "q": "What does the speaker offer to do with the ticket?",
+   "options": [
+    "Give it to a coworker",
+    "Sell it online",
+    "Return it"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: gave my ticket to a coworker"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "come up",
+   "ko": "(일이) 생기다",
+   "note": "예상 못한 일이 생겼을 때 써요."
+  },
+  {
+   "term": "stay late",
+   "ko": "늦게까지 남다",
+   "note": "야근할 때 흔히 써요."
+  },
+  {
+   "term": "at the last minute",
+   "ko": "막판에",
+   "note": "갑작스러운 변경을 말할 때 써요."
+  },
+  {
+   "term": "Would it be okay if I...?",
+   "ko": "제가 ~해도 될까요?",
+   "note": "if 뒤에는 과거형을 써서 더 정중해져요."
+  },
+  {
+   "term": "coworker",
+   "ko": "동료",
+   "note": "colleague와 비슷한 말이에요."
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1524.96,
+  "end": 1574.09,
+  "clips": [
+   [
+    1524.96,
+    1528.73
+   ],
+   [
+    1547.28,
+    1551.37
+   ],
+   [
+    1570.48,
+    1574.09
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My friends joke that I have a schedule for everything.",
+   "chunks": [
+    {
+     "en": "My friends joke",
+     "ko": "내 친구들은 농담한다"
+    },
+    {
+     "en": "that I have a schedule",
+     "ko": "내가 일정표를 갖고 있다고"
+    },
+    {
+     "en": "for everything.",
+     "ko": "모든 것에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friends",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "joke",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "schedule",
+     "strong": true,
+     "syl": "sched",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "everything.",
+     "strong": true,
+     "syl": "ev",
+     "link": false
+    }
+   ],
+   "tip": "have a는 '해버'처럼 v와 a가 이어져요.",
+   "start": 1524.96,
+   "end": 1528.73
+  },
+  {
+   "text": "On the flip side, I can be a little stubborn sometimes.",
+   "chunks": [
+    {
+     "en": "On the flip side,",
+     "ko": "반대로"
+    },
+    {
+     "en": "I can be a little stubborn",
+     "ko": "나는 조금 고집스러울 수 있다"
+    },
+    {
+     "en": "sometimes.",
+     "ko": "가끔"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flip",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "side,",
+     "strong": true,
+     "syl": "side",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "syl": "lit",
+     "link": false
+    },
+    {
+     "w": "stubborn",
+     "strong": true,
+     "syl": "stub",
+     "link": false
+    },
+    {
+     "w": "sometimes.",
+     "strong": true,
+     "syl": "times",
+     "link": false
+    }
+   ],
+   "tip": "On the flip side는 '온더플립사이드'로 한 덩어리처럼 말해요.",
+   "start": 1547.28,
+   "end": 1551.37
+  },
+  {
+   "text": "I'm working on being more flexible these days.",
+   "chunks": [
+    {
+     "en": "I'm working on",
+     "ko": "나는 노력하고 있다"
+    },
+    {
+     "en": "being more flexible",
+     "ko": "더 유연해지려고"
+    },
+    {
+     "en": "these days.",
+     "ko": "요즘"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": true,
+     "syl": "work",
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "being",
+     "strong": true,
+     "syl": "be",
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flexible",
+     "strong": true,
+     "syl": "flex",
+     "link": false
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days.",
+     "strong": true,
+     "syl": "days",
+     "link": false
+    }
+   ],
+   "tip": "working on은 '워킹온'처럼 이어서 읽어요.",
+   "start": 1570.48,
+   "end": 1574.09
+  }
+ ],
+ "questions": [
+  {
+   "q": "What do the speaker's friends joke about?",
+   "options": [
+    "The speaker is always late",
+    "The speaker has a schedule for everything",
+    "The speaker talks too much"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I have a schedule for everything"
+  },
+  {
+   "q": "What does the speaker admit about themselves?",
+   "options": [
+    "Being lazy",
+    "Being forgetful",
+    "Being a little stubborn"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I can be a little stubborn sometimes"
+  },
+  {
+   "q": "What is the speaker working on these days?",
+   "options": [
+    "Being more flexible",
+    "Waking up earlier",
+    "Saving more money"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: working on being more flexible"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "joke that",
+   "ko": "~라고 농담하다",
+   "note": "joke 뒤에 that절이 와요."
+  },
+  {
+   "term": "on the flip side",
+   "ko": "반대로, 다른 면에서는",
+   "note": "단점을 말하기 전에 자주 써요."
+  },
+  {
+   "term": "stubborn",
+   "ko": "고집스러운",
+   "note": "성격 단점을 부드럽게 말할 때 a little을 붙여요."
+  },
+  {
+   "term": "work on",
+   "ko": "~를 개선하려 노력하다",
+   "note": "자기 개선을 말할 때 써요."
+  },
+  {
+   "term": "flexible",
+   "ko": "융통성 있는",
+   "note": "일정이나 성격 모두에 써요."
+  }
+ ]
+}

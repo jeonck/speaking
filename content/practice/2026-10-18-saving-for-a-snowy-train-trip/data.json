@@ -1,0 +1,297 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8534.72,
+  "end": 8583.85,
+  "clips": [
+   [
+    8534.72,
+    8538.33
+   ],
+   [
+    8556.56,
+    8560.25
+   ],
+   [
+    8579.92,
+    8583.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I want to take trains from country to country.",
+   "chunks": [
+    {
+     "en": "I want to take trains",
+     "ko": "저는 기차를 타고 싶어요"
+    },
+    {
+     "en": "from country to country.",
+     "ko": "나라에서 나라로"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": true,
+     "link": false,
+     "syl": "take"
+    },
+    {
+     "w": "trains",
+     "strong": true,
+     "link": false,
+     "syl": "train"
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "country",
+     "strong": true,
+     "link": false,
+     "syl": "coun"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "country.",
+     "strong": true,
+     "link": false,
+     "syl": "coun"
+    }
+   ],
+   "tip": "want to는 '워너'처럼 이어 읽어요. 반복되는 country는 두 번 모두 첫 음절을 살려요.",
+   "start": 8534.72,
+   "end": 8538.33
+  },
+  {
+   "text": "I've been saving money for that trip for 2 years.",
+   "chunks": [
+    {
+     "en": "I've been saving money",
+     "ko": "저는 돈을 모아 왔어요"
+    },
+    {
+     "en": "for that trip",
+     "ko": "그 여행을 위해"
+    },
+    {
+     "en": "for 2 years.",
+     "ko": "2년 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saving",
+     "strong": true,
+     "link": false,
+     "syl": "sav"
+    },
+    {
+     "w": "money",
+     "strong": true,
+     "link": false,
+     "syl": "mon"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "2",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    }
+   ],
+   "tip": "I've been saving은 현재완료진행이에요. for는 약하게 '풔'로 읽어요.",
+   "start": 8556.56,
+   "end": 8560.25
+  },
+  {
+   "text": "If I could go anywhere, I'd go somewhere with snow.",
+   "chunks": [
+    {
+     "en": "If I could go anywhere,",
+     "ko": "어디든 갈 수 있다면"
+    },
+    {
+     "en": "I'd go somewhere with snow.",
+     "ko": "눈이 있는 곳으로 갈 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "anywhere,",
+     "strong": true,
+     "link": false,
+     "syl": "where"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "somewhere",
+     "strong": true,
+     "link": false,
+     "syl": "where"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "snow.",
+     "strong": true,
+     "link": false,
+     "syl": "snow"
+    }
+   ],
+   "tip": "If I는 '이파이', go anywhere는 '고애니웨어'처럼 이어요. snow에 강세를 줘요.",
+   "start": 8579.92,
+   "end": 8583.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker want to travel from country to country?",
+   "options": [
+    "By trains",
+    "By plane",
+    "By car"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I want to take trains from country to country."
+  },
+  {
+   "q": "How long has the speaker been saving money for the trip?",
+   "options": [
+    "6 months",
+    "1 year",
+    "2 years"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: saving money for that trip for 2 years."
+  },
+  {
+   "q": "Where would the speaker go if able to go anywhere?",
+   "options": [
+    "A tropical beach",
+    "Somewhere with snow",
+    "A big city"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I'd go somewhere with snow."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "save money for",
+   "ko": "~를 위해 돈을 모으다",
+   "note": "for 뒤에 목적(여행 등)을 써요."
+  },
+  {
+   "term": "from country to country",
+   "ko": "나라에서 나라로",
+   "note": "관사 없이 같은 명사를 반복하는 표현이에요."
+  },
+  {
+   "term": "If I could ~, I'd ...",
+   "ko": "~할 수 있다면 ...할 거예요",
+   "note": "가정법 과거 문장이에요."
+  },
+  {
+   "term": "somewhere with snow",
+   "ko": "눈이 있는 곳",
+   "note": "somewhere 뒤에 with로 특징을 덧붙여요."
+  },
+  {
+   "term": "I've been saving",
+   "ko": "계속 모아 왔어요",
+   "note": "과거부터 지금까지 이어진 행동을 말해요."
+  }
+ ]
+}

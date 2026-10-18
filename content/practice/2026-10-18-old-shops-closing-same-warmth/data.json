@@ -1,0 +1,294 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4209.52,
+  "end": 4252.73,
+  "clips": [
+   [
+    4209.52,
+    4213.05
+   ],
+   [
+    4229.04,
+    4232.25
+   ],
+   [
+    4248.8,
+    4252.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Some of the old shops had to close because of that.",
+   "chunks": [
+    {
+     "en": "Some of the old shops",
+     "ko": "오래된 가게 몇몇은"
+    },
+    {
+     "en": "had to close",
+     "ko": "문을 닫아야 했어요"
+    },
+    {
+     "en": "because of that.",
+     "ko": "그 때문에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Some",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "old",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "shops",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": true,
+     "link": false,
+     "syl": "cause"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "because of that은 '비커즈업댓'처럼 이어 읽어요.",
+   "start": 4209.52,
+   "end": 4213.05
+  },
+  {
+   "text": "I feel a little sad when I think about it.",
+   "chunks": [
+    {
+     "en": "I feel a little sad",
+     "ko": "조금 슬퍼요"
+    },
+    {
+     "en": "when I think about it.",
+     "ko": "그걸 생각할 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "sad",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "think about it은 '씽커바우릿'처럼 이어 읽어요.",
+   "start": 4229.04,
+   "end": 4232.25
+  },
+  {
+   "text": "Still, the neighborhood hasn't lost its friendly feel.",
+   "chunks": [
+    {
+     "en": "Still,",
+     "ko": "그래도"
+    },
+    {
+     "en": "the neighborhood hasn't lost",
+     "ko": "동네는 잃지 않았어요"
+    },
+    {
+     "en": "its friendly feel.",
+     "ko": "친근한 느낌을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Still,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "hasn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lost",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friendly",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    },
+    {
+     "w": "feel.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "neighborhood는 neigh에 강세, hasn't lost its는 '해즌로스팃'처럼 이어요.",
+   "start": 4248.8,
+   "end": 4252.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "How does the speaker feel about the shops closing?",
+   "options": [
+    "A little sad",
+    "Very angry",
+    "Totally happy"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I feel a little sad"
+  },
+  {
+   "q": "What has the neighborhood not lost?",
+   "options": [
+    "Its cafes",
+    "Its friendly feel",
+    "Its river"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: hasn't lost its friendly feel"
+  },
+  {
+   "q": "What happened to some of the old shops?",
+   "options": [
+    "They moved away",
+    "They got bigger",
+    "They had to close"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: had to close"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "had to close",
+   "ko": "문을 닫아야 했다",
+   "note": "have to의 과거형은 had to예요."
+  },
+  {
+   "term": "a little sad",
+   "ko": "조금 슬픈",
+   "note": "감정을 부드럽게 말할 때 a little을 붙여요."
+  },
+  {
+   "term": "think about it",
+   "ko": "그것에 대해 생각하다",
+   "note": "'씽커바우릿'처럼 이어 읽어요."
+  },
+  {
+   "term": "hasn't lost",
+   "ko": "잃지 않았다",
+   "note": "현재완료 부정형이에요."
+  },
+  {
+   "term": "Still,",
+   "ko": "그래도",
+   "note": "앞 내용과 대비되는 말을 시작할 때 써요."
+  }
+ ]
+}

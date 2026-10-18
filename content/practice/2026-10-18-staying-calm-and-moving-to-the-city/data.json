@@ -1,0 +1,332 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 1593.2,
+  "end": 1641.69,
+  "clips": [
+   [
+    1593.2,
+    1597.45
+   ],
+   [
+    1616.48,
+    1619.69
+   ],
+   [
+    1637.2,
+    1641.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "One of my biggest strengths is that I stay calm under pressure.",
+   "chunks": [
+    {
+     "en": "One of my biggest strengths",
+     "ko": "내 가장 큰 강점 중 하나는"
+    },
+    {
+     "en": "is that I stay calm",
+     "ko": "내가 침착함을 유지한다는 것이다"
+    },
+    {
+     "en": "under pressure.",
+     "ko": "압박 속에서도"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "biggest",
+     "strong": true,
+     "syl": "big",
+     "link": false
+    },
+    {
+     "w": "strengths",
+     "strong": true,
+     "syl": "strengths",
+     "link": true
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "calm",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "under",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pressure.",
+     "strong": true,
+     "syl": "pres",
+     "link": false
+    }
+   ],
+   "tip": "One of는 '워너브'처럼 이어 읽어요.",
+   "start": 1593.2,
+   "end": 1597.45
+  },
+  {
+   "text": "I grew up in a small city in the south.",
+   "chunks": [
+    {
+     "en": "I grew up",
+     "ko": "나는 자랐다"
+    },
+    {
+     "en": "in a small city",
+     "ko": "작은 도시에서"
+    },
+    {
+     "en": "in the south.",
+     "ko": "남쪽의"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "grew",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "city",
+     "strong": true,
+     "syl": "ci",
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "south.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "grew up은 '그루업'처럼 이어서 읽어요.",
+   "start": 1616.48,
+   "end": 1619.69
+  },
+  {
+   "text": "I moved to a big city for college and have lived there ever since.",
+   "chunks": [
+    {
+     "en": "I moved to a big city",
+     "ko": "나는 큰 도시로 이사했다"
+    },
+    {
+     "en": "for college",
+     "ko": "대학 때문에"
+    },
+    {
+     "en": "and have lived there ever since.",
+     "ko": "그 이후로 쭉 거기서 살고 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moved",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "city",
+     "strong": true,
+     "syl": "ci",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college",
+     "strong": true,
+     "syl": "col",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lived",
+     "strong": true,
+     "syl": "lived",
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ever",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "since.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "college and는 '칼리지앤'처럼 이어서 읽어요.",
+   "start": 1637.2,
+   "end": 1641.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is one of the speaker's biggest strengths?",
+   "options": [
+    "Speaking quickly",
+    "Staying calm under pressure",
+    "Working late"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I stay calm under pressure"
+  },
+  {
+   "q": "Where did the speaker grow up?",
+   "options": [
+    "In a big city in the north",
+    "In a village abroad",
+    "In a small city in the south"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I grew up in a small city in the south"
+  },
+  {
+   "q": "Why did the speaker move to a big city?",
+   "options": [
+    "For college",
+    "For a new job",
+    "For a family move"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: moved to a big city for college"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "one of my biggest strengths",
+   "ko": "내 가장 큰 강점 중 하나",
+   "note": "strength는 복수형으로 써요."
+  },
+  {
+   "term": "under pressure",
+   "ko": "압박을 받는 상황에서",
+   "note": "면접 답변에 자주 쓰여요."
+  },
+  {
+   "term": "grow up",
+   "ko": "자라다",
+   "note": "어린 시절의 장소를 말할 때 써요."
+  },
+  {
+   "term": "ever since",
+   "ko": "그 이후 줄곧",
+   "note": "현재완료와 함께 써요."
+  }
+ ]
+}

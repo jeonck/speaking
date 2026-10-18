@@ -1,0 +1,299 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17153.84,
+  "end": 17206.25,
+  "clips": [
+   [
+    17153.84,
+    17158.01
+   ],
+   [
+    17178.24,
+    17182.33
+   ],
+   [
+    17202.32,
+    17206.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "A few weeks ago, it suddenly stopped connecting to the internet.",
+   "chunks": [
+    {
+     "en": "A few weeks ago,",
+     "ko": "몇 주 전에"
+    },
+    {
+     "en": "it suddenly stopped connecting",
+     "ko": "그것이 갑자기 연결되지 않았다"
+    },
+    {
+     "en": "to the internet.",
+     "ko": "인터넷에"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weeks",
+     "strong": true,
+     "link": false,
+     "syl": "weeks"
+    },
+    {
+     "w": "ago,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "suddenly",
+     "strong": true,
+     "link": false,
+     "syl": "sud"
+    },
+    {
+     "w": "stopped",
+     "strong": true,
+     "link": false,
+     "syl": "stopped"
+    },
+    {
+     "w": "connecting",
+     "strong": true,
+     "link": false,
+     "syl": "nect"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "internet.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "connecting은 'nect'에 강세를 두고 첫 음절은 약하게 읽어요.",
+   "start": 17153.84,
+   "end": 17158.01
+  },
+  {
+   "text": "I had an online class starting in less than 10 minutes.",
+   "chunks": [
+    {
+     "en": "I had an online class",
+     "ko": "온라인 수업이 있었다"
+    },
+    {
+     "en": "starting in less than 10 minutes.",
+     "ko": "10분도 안 남은 시점에 시작하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "online",
+     "strong": true,
+     "link": false,
+     "syl": "on"
+    },
+    {
+     "w": "class",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "starting",
+     "strong": true,
+     "link": true,
+     "syl": "start"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "less",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "minutes.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "starting in은 '스타링인'처럼 이어 읽어요.",
+   "start": 17178.24,
+   "end": 17182.33
+  },
+  {
+   "text": "First, I restarted the laptop, but that didn't help.",
+   "chunks": [
+    {
+     "en": "First, I restarted the laptop,",
+     "ko": "먼저 노트북을 다시 시작했지만"
+    },
+    {
+     "en": "but that didn't help.",
+     "ko": "도움이 되지 않았다"
+    }
+   ],
+   "words": [
+    {
+     "w": "First,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "restarted",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laptop,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "restarted는 'start'에 강세를 두고 re는 약하게 읽어요.",
+   "start": 17202.32,
+   "end": 17206.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "When did the problem happen?",
+   "options": [
+    "Yesterday",
+    "A few weeks ago",
+    "Last year"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: A few weeks ago, it suddenly stopped connecting"
+  },
+  {
+   "q": "How soon did the online class start?",
+   "options": [
+    "In less than 10 minutes",
+    "In about an hour",
+    "The next morning"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: starting in less than 10 minutes"
+  },
+  {
+   "q": "What did the speaker try first?",
+   "options": [
+    "Calling the company",
+    "Moving to a new room",
+    "Restarting the laptop"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: First, I restarted the laptop"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "stop connecting",
+   "ko": "연결되지 않게 되다",
+   "note": "stop + -ing는 '~하던 걸 멈추다'예요."
+  },
+  {
+   "term": "in less than 10 minutes",
+   "ko": "10분도 안 돼서",
+   "note": "less than은 '~ 미만'이에요."
+  },
+  {
+   "term": "restart",
+   "ko": "다시 시작하다",
+   "note": "컴퓨터를 껐다 켤 때 써요."
+  },
+  {
+   "term": "didn't help",
+   "ko": "도움이 안 됐다",
+   "note": "help는 목적어 없이도 쓰여요."
+  }
+ ]
+}

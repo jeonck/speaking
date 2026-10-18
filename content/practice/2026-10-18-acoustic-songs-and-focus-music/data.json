@@ -1,0 +1,284 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4797.36,
+  "end": 4845.37,
+  "clips": [
+   [
+    4797.36,
+    4800.73
+   ],
+   [
+    4818.56,
+    4822.49
+   ],
+   [
+    4841.44,
+    4845.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'm a big fan of calm acoustic songs.",
+   "chunks": [
+    {
+     "en": "I'm a big fan",
+     "ko": "열렬한 팬이에요"
+    },
+    {
+     "en": "of calm acoustic songs.",
+     "ko": "차분한 어쿠스틱 노래의"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "fan",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "calm",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "acoustic",
+     "strong": true,
+     "link": false,
+     "syl": "cous"
+    },
+    {
+     "w": "songs.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "fan of는 '패너브'처럼 이어 읽고 acoustic은 cous에 강세예요.",
+   "start": 4797.36,
+   "end": 4800.73
+  },
+  {
+   "text": "Music helps me focus when I'm working or studying.",
+   "chunks": [
+    {
+     "en": "Music helps me focus",
+     "ko": "음악은 집중하게 도와줘요"
+    },
+    {
+     "en": "when I'm working or studying.",
+     "ko": "일하거나 공부할 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "Music",
+     "strong": true,
+     "link": false,
+     "syl": "Mu"
+    },
+    {
+     "w": "helps",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "focus",
+     "strong": true,
+     "link": false,
+     "syl": "fo"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": true,
+     "link": true,
+     "syl": "work"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "studying.",
+     "strong": true,
+     "link": false,
+     "syl": "stud"
+    }
+   ],
+   "tip": "working or studying은 '워킹오 스터디잉'으로 이어 읽어요.",
+   "start": 4818.56,
+   "end": 4822.49
+  },
+  {
+   "text": "I've been to a few live concerts with a close friend.",
+   "chunks": [
+    {
+     "en": "I've been to a few live concerts",
+     "ko": "라이브 콘서트에 몇 번 가봤어요"
+    },
+    {
+     "en": "with a close friend.",
+     "ko": "친한 친구와 함께"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "concerts",
+     "strong": true,
+     "link": false,
+     "syl": "con"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "close",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "friend.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "live concerts의 live는 [라이브]로 읽어요(살다의 [리브]와 달라요).",
+   "start": 4841.44,
+   "end": 4845.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of songs is the speaker a fan of?",
+   "options": [
+    "Loud rock",
+    "Calm acoustic songs",
+    "Fast dance music"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: calm acoustic songs"
+  },
+  {
+   "q": "What does music help the speaker do?",
+   "options": [
+    "Fall asleep",
+    "Exercise",
+    "Focus"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: Music helps me focus"
+  },
+  {
+   "q": "Who did the speaker go to live concerts with?",
+   "options": [
+    "A close friend",
+    "A coworker",
+    "Nobody"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: with a close friend"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a big fan of",
+   "ko": "~의 열렬한 팬",
+   "note": "좋아하는 대상 앞에 of를 붙여요."
+  },
+  {
+   "term": "acoustic",
+   "ko": "어쿠스틱의",
+   "note": "[어쿠스틱]으로 읽어요."
+  },
+  {
+   "term": "help me focus",
+   "ko": "집중하게 도와주다",
+   "note": "help 뒤에는 동사원형이 와요."
+  },
+  {
+   "term": "live concerts",
+   "ko": "라이브 콘서트",
+   "note": "형용사 live는 [라이브]로 읽어요."
+  },
+  {
+   "term": "close friend",
+   "ko": "친한 친구",
+   "note": "close는 [클로스]로 읽어요."
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7472.08,
+  "end": 7518.01,
+  "clips": [
+   [
+    7472.08,
+    7475.53
+   ],
+   [
+    7493.84,
+    7497.29
+   ],
+   [
+    7514.96,
+    7518.01
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I had a hard time ordering food in English.",
+   "chunks": [
+    {
+     "en": "I had a hard time",
+     "ko": "나는 어려움을 겪었다"
+    },
+    {
+     "en": "ordering food in English.",
+     "ko": "영어로 음식을 주문하는 데"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": true,
+     "link": true,
+     "syl": "had"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    },
+    {
+     "w": "ordering",
+     "strong": true,
+     "link": false,
+     "syl": "or"
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "English.",
+     "strong": true,
+     "link": false,
+     "syl": "Eng"
+    }
+   ],
+   "tip": "had a는 '해더'처럼 이어 읽어요.",
+   "start": 7472.08,
+   "end": 7475.53
+  },
+  {
+   "text": "That trip made me want to study English harder.",
+   "chunks": [
+    {
+     "en": "That trip made me",
+     "ko": "그 여행이 나로 하여금"
+    },
+    {
+     "en": "want to study English harder.",
+     "ko": "영어를 더 열심히 공부하고 싶게 만들었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": true,
+     "link": false,
+     "syl": "want"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "study",
+     "strong": true,
+     "link": false,
+     "syl": "stud"
+    },
+    {
+     "w": "English",
+     "strong": true,
+     "link": false,
+     "syl": "Eng"
+    },
+    {
+     "w": "harder.",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    }
+   ],
+   "tip": "want to는 '워너'처럼 줄여 읽는 경우가 많아요.",
+   "start": 7493.84,
+   "end": 7497.29
+  },
+  {
+   "text": "Not every trip goes smoothly though.",
+   "chunks": [
+    {
+     "en": "Not every trip goes smoothly",
+     "ko": "모든 여행이 순조롭게 가는 건 아니다"
+    },
+    {
+     "en": "though.",
+     "ko": "그렇긴 하지만"
+    }
+   ],
+   "words": [
+    {
+     "w": "Not",
+     "strong": true,
+     "link": true,
+     "syl": "not"
+    },
+    {
+     "w": "every",
+     "strong": true,
+     "link": false,
+     "syl": "ev"
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "goes",
+     "strong": true,
+     "link": false,
+     "syl": "goes"
+    },
+    {
+     "w": "smoothly",
+     "strong": true,
+     "link": false,
+     "syl": "smooth"
+    },
+    {
+     "w": "though.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "though는 문장 끝에서 '도우'로 가볍게 내려 읽어요.",
+   "start": 7514.96,
+   "end": 7518.01
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker have trouble with?",
+   "options": [
+    "Reading a map",
+    "Ordering food in English",
+    "Finding the hotel"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I had a hard time ordering food in English"
+  },
+  {
+   "q": "What did the trip make the speaker want to do?",
+   "options": [
+    "Study English harder",
+    "Travel more often",
+    "Learn to cook"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: made me want to study English harder"
+  },
+  {
+   "q": "What does the speaker say about trips at the end?",
+   "options": [
+    "They are always fun",
+    "They are too expensive",
+    "Not every one goes smoothly"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: Not every trip goes smoothly though"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "have a hard time -ing",
+   "ko": "~하는 데 어려움을 겪다",
+   "note": "have a hard time 뒤에 동명사가 와요."
+  },
+  {
+   "term": "order food",
+   "ko": "음식을 주문하다",
+   "note": "식당에서 쓰는 기본 표현이에요."
+  },
+  {
+   "term": "make me want to",
+   "ko": "내가 ~하고 싶게 만들다",
+   "note": "make + 목적어 + 동사원형 구조예요."
+  },
+  {
+   "term": "study harder",
+   "ko": "더 열심히 공부하다",
+   "note": "harder는 hard의 비교급이에요."
+  },
+  {
+   "term": "go smoothly",
+   "ko": "순조롭게 진행되다",
+   "note": "계획이나 일정에 자주 써요."
+  }
+ ]
+}

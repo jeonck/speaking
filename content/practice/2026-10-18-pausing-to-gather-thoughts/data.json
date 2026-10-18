@@ -1,0 +1,271 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20979.04,
+  "end": 21019.61,
+  "clips": [
+   [
+    20979.04,
+    20982.33
+   ],
+   [
+    20998.24,
+    21001.45
+   ],
+   [
+    21016.64,
+    21019.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Let me take a second to gather my thoughts.",
+   "chunks": [
+    {
+     "en": "Let me take a second",
+     "ko": "잠깐 시간을 갖고"
+    },
+    {
+     "en": "to gather my thoughts.",
+     "ko": "생각을 정리할게요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "second",
+     "strong": true,
+     "link": false,
+     "syl": "sec"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gather",
+     "strong": true,
+     "link": false,
+     "syl": "gath"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thoughts.",
+     "strong": true,
+     "link": false,
+     "syl": "thoughts"
+    }
+   ],
+   "tip": "take a는 '테이커'처럼 이어 읽고, second에 힘을 줘요.",
+   "start": 20979.04,
+   "end": 20982.33
+  },
+  {
+   "text": "I'm not sure how to put this into words.",
+   "chunks": [
+    {
+     "en": "I'm not sure",
+     "ko": "잘 모르겠어요"
+    },
+    {
+     "en": "how to put this",
+     "ko": "이걸 어떻게 표현할지"
+    },
+    {
+     "en": "into words.",
+     "ko": "말로"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sure",
+     "strong": true,
+     "link": false,
+     "syl": "sure"
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": true,
+     "link": false,
+     "syl": "put"
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "words.",
+     "strong": true,
+     "link": false,
+     "syl": "words"
+    }
+   ],
+   "tip": "this into는 '디스인투'처럼 s와 i를 이어 읽어요.",
+   "start": 20998.24,
+   "end": 21001.45
+  },
+  {
+   "text": "Let me start with a little background.",
+   "chunks": [
+    {
+     "en": "Let me start",
+     "ko": "시작할게요"
+    },
+    {
+     "en": "with a little background.",
+     "ko": "약간의 배경 설명부터"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "start",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "link": false,
+     "syl": "lit"
+    },
+    {
+     "w": "background.",
+     "strong": true,
+     "link": false,
+     "syl": "back"
+    }
+   ],
+   "tip": "with a는 '위더'처럼 이어지고, background는 앞 음절에 강세가 와요.",
+   "start": 21016.64,
+   "end": 21019.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask for at first?",
+   "options": [
+    "A moment to gather thoughts",
+    "A glass of water",
+    "A longer deadline"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: take a second to gather my thoughts"
+  },
+  {
+   "q": "What is the speaker unsure about?",
+   "options": [
+    "Where to start the day",
+    "How to put this into words",
+    "Who to invite"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: not sure how to put this into words"
+  },
+  {
+   "q": "What will the speaker begin with?",
+   "options": [
+    "A short joke",
+    "A list of rules",
+    "A little background"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: start with a little background"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "take a second",
+   "ko": "잠깐 시간을 갖다",
+   "note": "생각할 틈이 필요할 때 써요."
+  },
+  {
+   "term": "gather my thoughts",
+   "ko": "생각을 정리하다",
+   "note": "말 시작 전 시간을 벌 때 좋아요."
+  },
+  {
+   "term": "put into words",
+   "ko": "말로 표현하다",
+   "note": "표현하기 어려울 때 써요."
+  },
+  {
+   "term": "background",
+   "ko": "배경 설명",
+   "note": "이야기의 맥락을 열 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 2908.72,
+  "end": 2960.09,
+  "clips": [
+   [
+    2908.72,
+    2912.73
+   ],
+   [
+    2932.4,
+    2936.17
+   ],
+   [
+    2955.92,
+    2960.09
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "We don't have much storage space, which can be annoying.",
+   "chunks": [
+    {
+     "en": "We don't have much storage space,",
+     "ko": "수납 공간이 많지 않아요"
+    },
+    {
+     "en": "which can be annoying.",
+     "ko": "그건 짜증날 수 있어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "syl": "much",
+     "link": false
+    },
+    {
+     "w": "storage",
+     "strong": true,
+     "syl": "stor",
+     "link": false
+    },
+    {
+     "w": "space,",
+     "strong": true,
+     "syl": "space",
+     "link": false
+    },
+    {
+     "w": "which",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "annoying.",
+     "strong": true,
+     "syl": "noy",
+     "link": false
+    }
+   ],
+   "tip": "don't have much에서 부정어보다 much와 storage를 또렷하게 읽어요.",
+   "start": 2908.72,
+   "end": 2912.73
+  },
+  {
+   "text": "If I could change one thing, I'd make the kitchen bigger.",
+   "chunks": [
+    {
+     "en": "If I could change one thing,",
+     "ko": "한 가지를 바꿀 수 있다면"
+    },
+    {
+     "en": "I'd make the kitchen bigger.",
+     "ko": "주방을 더 크게 만들겠어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "change",
+     "strong": true,
+     "syl": "change",
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": true,
+     "syl": "one",
+     "link": false
+    },
+    {
+     "w": "thing,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kitchen",
+     "strong": true,
+     "syl": "kitch",
+     "link": false
+    },
+    {
+     "w": "bigger.",
+     "strong": true,
+     "syl": "big",
+     "link": false
+    }
+   ],
+   "tip": "I'd는 '아이드'로 짧게, kitchen bigger에서 bigger를 강조해요.",
+   "start": 2932.4,
+   "end": 2936.17
+  },
+  {
+   "text": "Still, I really like our home because it feels comfortable.",
+   "chunks": [
+    {
+     "en": "Still, I really like our home",
+     "ko": "그래도 우리 집이 정말 좋아요"
+    },
+    {
+     "en": "because it feels comfortable.",
+     "ko": "편안하게 느껴져서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Still,",
+     "strong": true,
+     "syl": "Still",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "syl": "real",
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": true,
+     "syl": "like",
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "because",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feels",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comfortable.",
+     "strong": true,
+     "syl": "com",
+     "link": false
+    }
+   ],
+   "tip": "comfortable은 '컴프터블'처럼 세 음절로 줄여 읽는 경우가 많아요.",
+   "start": 2955.92,
+   "end": 2960.09
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is annoying about the home?",
+   "options": [
+    "Not much storage space",
+    "Noisy neighbors",
+    "A small bathroom"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: don't have much storage space"
+  },
+  {
+   "q": "What would the speaker change?",
+   "options": [
+    "The living room",
+    "The kitchen",
+    "The bedroom"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: make the kitchen bigger"
+  },
+  {
+   "q": "Why does the speaker like their home?",
+   "options": [
+    "It is cheap",
+    "It feels comfortable",
+    "It is brand new"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: because it feels comfortable"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "storage space",
+   "ko": "수납 공간",
+   "note": "셀 수 없는 명사라 many가 아니라 much를 써요"
+  },
+  {
+   "term": "annoying",
+   "ko": "짜증나는",
+   "note": "noy에 강세를 둬요"
+  },
+  {
+   "term": "If I could change",
+   "ko": "바꿀 수 있다면",
+   "note": "가정법 If + could, I'd + 동사 구조예요"
+  },
+  {
+   "term": "Still,",
+   "ko": "그래도, 그럼에도",
+   "note": "단점을 말한 뒤 좋은 점으로 돌릴 때 써요"
+  },
+  {
+   "term": "comfortable",
+   "ko": "편안한",
+   "note": "'컴프터블'처럼 발음해요"
+  }
+ ]
+}

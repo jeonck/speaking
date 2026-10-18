@@ -1,0 +1,326 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9330.88,
+  "end": 9384.65,
+  "clips": [
+   [
+    9330.88,
+    9335.21
+   ],
+   [
+    9356.32,
+    9360.49
+   ],
+   [
+    9380.96,
+    9384.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My dad encouraged me to try, so I finally gave it a shot.",
+   "chunks": [
+    {
+     "en": "My dad encouraged me to try,",
+     "ko": "아빠가 해보라고 격려해서"
+    },
+    {
+     "en": "so I finally gave it a shot.",
+     "ko": "결국 한번 해봤어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dad",
+     "strong": true,
+     "link": false,
+     "syl": "dad"
+    },
+    {
+     "w": "encouraged",
+     "strong": true,
+     "link": false,
+     "syl": "cour"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try,",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finally",
+     "strong": true,
+     "link": false,
+     "syl": "fi"
+    },
+    {
+     "w": "gave",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "shot.",
+     "strong": true,
+     "link": false,
+     "syl": "shot"
+    }
+   ],
+   "tip": "gave it a shot은 '게이비러샷'처럼 이어 읽어요.",
+   "start": 9330.88,
+   "end": 9335.21
+  },
+  {
+   "text": "The waiter understood me and I felt so proud of myself.",
+   "chunks": [
+    {
+     "en": "The waiter understood me",
+     "ko": "웨이터가 내 말을 알아들었고"
+    },
+    {
+     "en": "and I felt so proud of myself.",
+     "ko": "나는 스스로가 정말 자랑스러웠어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "waiter",
+     "strong": true,
+     "link": false,
+     "syl": "wait"
+    },
+    {
+     "w": "understood",
+     "strong": true,
+     "link": false,
+     "syl": "stood"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "felt",
+     "strong": true,
+     "link": false,
+     "syl": "felt"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "proud",
+     "strong": true,
+     "link": true,
+     "syl": "proud"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    }
+   ],
+   "tip": "proud of는 '프라우도브'처럼 이어 읽어요.",
+   "start": 9356.32,
+   "end": 9360.49
+  },
+  {
+   "text": "That moment made me want to learn English for real.",
+   "chunks": [
+    {
+     "en": "That moment",
+     "ko": "그 순간이"
+    },
+    {
+     "en": "made me want to learn English",
+     "ko": "내가 영어를 배우고 싶게 만들었어요"
+    },
+    {
+     "en": "for real.",
+     "ko": "진심으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moment",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    },
+    {
+     "w": "made",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "want",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learn",
+     "strong": true,
+     "link": true,
+     "syl": "learn"
+    },
+    {
+     "w": "English",
+     "strong": true,
+     "link": false,
+     "syl": "Eng"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "real.",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    }
+   ],
+   "tip": "learn English는 '런잉글리쉬'처럼 이어 읽어요.",
+   "start": 9380.96,
+   "end": 9384.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who encouraged the speaker to try?",
+   "options": [
+    "A teacher",
+    "The speaker's dad",
+    "A friend"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: My dad encouraged me to try"
+  },
+  {
+   "q": "How did the speaker feel after the waiter understood?",
+   "options": [
+    "Proud",
+    "Embarrassed",
+    "Bored"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I felt so proud of myself"
+  },
+  {
+   "q": "What did that moment make the speaker want to do?",
+   "options": [
+    "Cook at home",
+    "Travel more",
+    "Learn English for real"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: made me want to learn English for real"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "give it a shot",
+   "ko": "한번 시도해 보다",
+   "note": "try it과 비슷한 편한 표현이에요."
+  },
+  {
+   "term": "encourage someone to",
+   "ko": "~하도록 격려하다",
+   "note": "encourage 뒤에 사람 + to 동사가 와요."
+  },
+  {
+   "term": "proud of myself",
+   "ko": "내 자신이 자랑스러운",
+   "note": "proud of 뒤에 대상을 써요."
+  },
+  {
+   "term": "understood me",
+   "ko": "내 말을 알아들었다",
+   "note": "understand의 과거형은 understood예요."
+  },
+  {
+   "term": "for real",
+   "ko": "진심으로",
+   "note": "진지하게라는 뜻으로 써요."
+  }
+ ]
+}

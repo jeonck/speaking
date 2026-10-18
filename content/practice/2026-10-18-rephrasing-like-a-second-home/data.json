@@ -1,0 +1,268 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21360.48,
+  "end": 21400.41,
+  "clips": [
+   [
+    21360.48,
+    21363.85
+   ],
+   [
+    21380.32,
+    21383.29
+   ],
+   [
+    21397.2,
+    21400.41
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "What I mean is it feels like a second home.",
+   "chunks": [
+    {
+     "en": "What I mean",
+     "ko": "제 말은"
+    },
+    {
+     "en": "is it feels like",
+     "ko": "그곳이 느껴진다는 거예요"
+    },
+    {
+     "en": "a second home.",
+     "ko": "제2의 집처럼"
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mean",
+     "strong": true,
+     "link": false,
+     "syl": "mean"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feels",
+     "strong": true,
+     "link": false,
+     "syl": "feels"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "second",
+     "strong": true,
+     "link": false,
+     "syl": "sec"
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    }
+   ],
+   "tip": "what I mean은 '와라이민'처럼 이어 읽어요.",
+   "start": 21360.48,
+   "end": 21363.85
+  },
+  {
+   "text": "Let me explain that a different way.",
+   "chunks": [
+    {
+     "en": "Let me explain",
+     "ko": "설명해 볼게요"
+    },
+    {
+     "en": "that a different way.",
+     "ko": "다른 방식으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "explain",
+     "strong": true,
+     "link": false,
+     "syl": "plain"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "dif"
+    },
+    {
+     "w": "way.",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    }
+   ],
+   "tip": "that a는 '댓어'처럼 이어 읽어요.",
+   "start": 21380.32,
+   "end": 21383.29
+  },
+  {
+   "text": "Sorry, I mean the other way around.",
+   "chunks": [
+    {
+     "en": "Sorry, I mean",
+     "ko": "죄송해요, 제 말은"
+    },
+    {
+     "en": "the other way around.",
+     "ko": "반대로라는 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sorry,",
+     "strong": true,
+     "link": false,
+     "syl": "sor"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mean",
+     "strong": true,
+     "link": false,
+     "syl": "mean"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "other",
+     "strong": true,
+     "link": false,
+     "syl": "oth"
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "around.",
+     "strong": true,
+     "link": false,
+     "syl": "round"
+    }
+   ],
+   "tip": "around는 두 번째 음절 round에 강세가 와요.",
+   "start": 21397.2,
+   "end": 21400.41
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the place feel like?",
+   "options": [
+    "A second home",
+    "A busy office",
+    "A museum"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: it feels like a second home"
+  },
+  {
+   "q": "What does the speaker offer to do in the second sentence?",
+   "options": [
+    "Repeat the same words",
+    "Explain it a different way",
+    "Stop talking"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: explain that a different way"
+  },
+  {
+   "q": "What does the speaker mean in the last sentence?",
+   "options": [
+    "Later in the day",
+    "Far from here",
+    "The other way around"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: the other way around"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "what I mean is",
+   "ko": "제 말은 ~예요",
+   "note": "의도를 다시 설명할 때 써요."
+  },
+  {
+   "term": "second home",
+   "ko": "제2의 집",
+   "note": "편안한 장소를 비유해요."
+  },
+  {
+   "term": "a different way",
+   "ko": "다른 방식으로",
+   "note": "다시 말하고 싶을 때 써요."
+  },
+  {
+   "term": "the other way around",
+   "ko": "반대로",
+   "note": "순서나 방향이 반대일 때 써요."
+  }
+ ]
+}

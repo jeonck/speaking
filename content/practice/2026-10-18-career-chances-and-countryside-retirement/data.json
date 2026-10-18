@@ -1,0 +1,342 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19604.56,
+  "end": 19661.61,
+  "clips": [
+   [
+    19604.56,
+    19608.73
+   ],
+   [
+    19628.88,
+    19633.61
+   ],
+   [
+    19656.16,
+    19661.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "There are also more opportunities to build your career.",
+   "chunks": [
+    {
+     "en": "There are also",
+     "ko": "또한 있어요"
+    },
+    {
+     "en": "more opportunities",
+     "ko": "더 많은 기회가"
+    },
+    {
+     "en": "to build your career.",
+     "ko": "당신의 커리어를 쌓을"
+    }
+   ],
+   "words": [
+    {
+     "w": "There",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opportunities",
+     "strong": true,
+     "link": false,
+     "syl": "tu"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "build",
+     "strong": true,
+     "link": false,
+     "syl": "build"
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "career.",
+     "strong": true,
+     "link": false,
+     "syl": "reer"
+    }
+   ],
+   "tip": "opportunities는 op-per-TU-ni-ties, tu에 강세가 와요.",
+   "start": 19604.56,
+   "end": 19608.73
+  },
+  {
+   "text": "But when I retire, I'd love to move to a quiet countryside town.",
+   "chunks": [
+    {
+     "en": "But when I retire,",
+     "ko": "하지만 은퇴하면"
+    },
+    {
+     "en": "I'd love to move",
+     "ko": "저는 이사 가고 싶어요"
+    },
+    {
+     "en": "to a quiet countryside town.",
+     "ko": "조용한 시골 마을로"
+    }
+   ],
+   "words": [
+    {
+     "w": "But",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "retire,",
+     "strong": true,
+     "link": false,
+     "syl": "tire"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": true,
+     "link": false,
+     "syl": "love"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "move",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "link": false,
+     "syl": "qui"
+    },
+    {
+     "w": "countryside",
+     "strong": true,
+     "link": false,
+     "syl": "coun"
+    },
+    {
+     "w": "town.",
+     "strong": true,
+     "link": false,
+     "syl": "town"
+    }
+   ],
+   "tip": "when I retire는 '웬아이'를 이어 읽어요.",
+   "start": 19628.88,
+   "end": 19633.61
+  },
+  {
+   "text": "For me, exercising regularly is easier to stick with than a strict diet.",
+   "chunks": [
+    {
+     "en": "For me,",
+     "ko": "저에게는"
+    },
+    {
+     "en": "exercising regularly",
+     "ko": "규칙적으로 운동하는 게"
+    },
+    {
+     "en": "is easier to stick with",
+     "ko": "지키기 더 쉬워요"
+    },
+    {
+     "en": "than a strict diet.",
+     "ko": "엄격한 식단보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exercising",
+     "strong": true,
+     "link": false,
+     "syl": "cis"
+    },
+    {
+     "w": "regularly",
+     "strong": true,
+     "link": false,
+     "syl": "reg"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "easier",
+     "strong": true,
+     "link": false,
+     "syl": "eas"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stick",
+     "strong": true,
+     "link": false,
+     "syl": "stick"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strict",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "diet.",
+     "strong": true,
+     "link": false,
+     "syl": "di"
+    }
+   ],
+   "tip": "is easier는 '이지어리어'처럼 이어 읽어요.",
+   "start": 19656.16,
+   "end": 19661.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say a big city offers?",
+   "options": [
+    "Cheaper housing",
+    "More opportunities to build a career",
+    "Quieter streets"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: more opportunities to build your career"
+  },
+  {
+   "q": "Where would the speaker like to move after retiring?",
+   "options": [
+    "A beach resort",
+    "A big city",
+    "A quiet countryside town"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: move to a quiet countryside town"
+  },
+  {
+   "q": "What is easier for the speaker to stick with than a strict diet?",
+   "options": [
+    "Exercising regularly",
+    "Studying at night",
+    "Cooking at home"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: exercising regularly is easier to stick with"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "build your career",
+   "ko": "커리어를 쌓다",
+   "note": "build는 '쌓다, 구축하다'예요."
+  },
+  {
+   "term": "retire",
+   "ko": "은퇴하다",
+   "note": "retire 뒤에 from을 붙일 수도 있어요."
+  },
+  {
+   "term": "countryside",
+   "ko": "시골",
+   "note": "city와 대비되는 말이에요."
+  },
+  {
+   "term": "stick with",
+   "ko": "~을 꾸준히 하다",
+   "note": "계획이나 습관을 유지할 때 써요."
+  },
+  {
+   "term": "strict diet",
+   "ko": "엄격한 식단",
+   "note": "strict는 '엄격한'이에요."
+  }
+ ]
+}

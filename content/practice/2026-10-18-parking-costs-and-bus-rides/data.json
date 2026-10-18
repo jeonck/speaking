@@ -1,0 +1,317 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20584.4,
+  "end": 20630.81,
+  "clips": [
+   [
+    20584.4,
+    20587.69
+   ],
+   [
+    20604.4,
+    20608.01
+   ],
+   [
+    20626.64,
+    20630.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "For one thing, I don't have to pay for parking.",
+   "chunks": [
+    {
+     "en": "For one thing,",
+     "ko": "우선 한 가지는"
+    },
+    {
+     "en": "I don't have to pay",
+     "ko": "나는 돈을 낼 필요가 없다"
+    },
+    {
+     "en": "for parking.",
+     "ko": "주차에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "thing,",
+     "strong": true,
+     "link": false,
+     "syl": "thing"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pay",
+     "strong": true,
+     "link": false,
+     "syl": "pay"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parking.",
+     "strong": true,
+     "link": false,
+     "syl": "park"
+    }
+   ],
+   "tip": "For one thing은 '포원띵'으로 이어 읽어요. don't have to는 '돈해프투'처럼 빨라요.",
+   "start": 20584.4,
+   "end": 20587.69
+  },
+  {
+   "text": "I can also read or listen to music on the way.",
+   "chunks": [
+    {
+     "en": "I can also read or listen to music",
+     "ko": "나는 책을 읽거나 음악을 들을 수도 있다"
+    },
+    {
+     "en": "on the way.",
+     "ko": "가는 길에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "read",
+     "strong": true,
+     "link": false,
+     "syl": "read"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listen",
+     "strong": true,
+     "link": true,
+     "syl": "lis"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "music",
+     "strong": true,
+     "link": false,
+     "syl": "mu"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way.",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    }
+   ],
+   "tip": "listen의 t는 소리 나지 않아요: '리슨'. on the way는 '온더웨이'로 이어요.",
+   "start": 20604.4,
+   "end": 20608.01
+  },
+  {
+   "text": "The only problem is that buses can get crowded after work.",
+   "chunks": [
+    {
+     "en": "The only problem is",
+     "ko": "유일한 문제는"
+    },
+    {
+     "en": "that buses can get crowded",
+     "ko": "버스가 붐빌 수 있다는 것이다"
+    },
+    {
+     "en": "after work.",
+     "ko": "퇴근 후에"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": true,
+     "link": false,
+     "syl": "on"
+    },
+    {
+     "w": "problem",
+     "strong": true,
+     "link": false,
+     "syl": "prob"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buses",
+     "strong": true,
+     "link": false,
+     "syl": "bus"
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "crowded",
+     "strong": true,
+     "link": false,
+     "syl": "crowd"
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "after work는 'af'와 'work'를 강조하고, can get은 '캔겟'처럼 약하게 읽어요.",
+   "start": 20626.64,
+   "end": 20630.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker not have to pay for when taking the bus?",
+   "options": [
+    "Tickets",
+    "Parking",
+    "Gas"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I don't have to pay for parking"
+  },
+  {
+   "q": "What can the speaker do on the bus?",
+   "options": [
+    "Read or listen to music",
+    "Sleep",
+    "Work on a laptop"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: read or listen to music on the way"
+  },
+  {
+   "q": "When can buses get crowded?",
+   "options": [
+    "Early in the morning",
+    "On weekends",
+    "After work"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: buses can get crowded after work"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "for one thing",
+   "ko": "우선 한 가지는",
+   "note": "이유를 나열할 때 써요."
+  },
+  {
+   "term": "pay for parking",
+   "ko": "주차비를 내다",
+   "note": "pay for + 명사예요."
+  },
+  {
+   "term": "on the way",
+   "ko": "가는 길에",
+   "note": "on my way는 '내 길에'예요."
+  },
+  {
+   "term": "the only problem is",
+   "ko": "유일한 문제는",
+   "note": "뒤에 that절이 와요."
+  },
+  {
+   "term": "get crowded",
+   "ko": "붐비게 되다",
+   "note": "get + 형용사로 변화를 말해요."
+  }
+ ]
+}

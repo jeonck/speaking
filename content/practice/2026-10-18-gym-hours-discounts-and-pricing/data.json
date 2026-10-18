@@ -1,0 +1,309 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13890.48,
+  "end": 13941.37,
+  "clips": [
+   [
+    13890.48,
+    13894.33
+   ],
+   [
+    13913.12,
+    13917.37
+   ],
+   [
+    13937.28,
+    13941.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "First of all, what are your opening hours on weekends?",
+   "chunks": [
+    {
+     "en": "First of all,",
+     "ko": "우선"
+    },
+    {
+     "en": "what are your opening hours",
+     "ko": "영업시간이 어떻게 되나요"
+    },
+    {
+     "en": "on weekends?",
+     "ko": "주말에"
+    }
+   ],
+   "words": [
+    {
+     "w": "First",
+     "strong": true,
+     "link": true,
+     "syl": "First"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "all,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opening",
+     "strong": true,
+     "link": false,
+     "syl": "o"
+    },
+    {
+     "w": "hours",
+     "strong": true,
+     "link": false,
+     "syl": "hours"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekends?",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    }
+   ],
+   "tip": "First of all은 '퍼스터볼'처럼 이어 읽어요.",
+   "start": 13890.48,
+   "end": 13894.33
+  },
+  {
+   "text": "Do you offer any discounts for students or new members?",
+   "chunks": [
+    {
+     "en": "Do you offer any discounts",
+     "ko": "할인을 제공하나요"
+    },
+    {
+     "en": "for students or new members?",
+     "ko": "학생이나 신규 회원에게"
+    }
+   ],
+   "words": [
+    {
+     "w": "Do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "offer",
+     "strong": true,
+     "link": true,
+     "syl": "of"
+    },
+    {
+     "w": "any",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "discounts",
+     "strong": true,
+     "link": false,
+     "syl": "dis"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "students",
+     "strong": true,
+     "link": true,
+     "syl": "stu"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "members?",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    }
+   ],
+   "tip": "Do you는 '두유' 또는 '쥬'처럼 짧게 이어 읽어요.",
+   "start": 13913.12,
+   "end": 13917.37
+  },
+  {
+   "text": "How much is a monthly membership and what does it include?",
+   "chunks": [
+    {
+     "en": "How much is a monthly membership",
+     "ko": "월 회원권은 얼마인가요"
+    },
+    {
+     "en": "and what does it include?",
+     "ko": "그리고 무엇이 포함되나요"
+    }
+   ],
+   "words": [
+    {
+     "w": "How",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "link": true,
+     "syl": "much"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "monthly",
+     "strong": true,
+     "link": false,
+     "syl": "month"
+    },
+    {
+     "w": "membership",
+     "strong": true,
+     "link": false,
+     "syl": "mem"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "does",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "include?",
+     "strong": true,
+     "link": false,
+     "syl": "clude"
+    }
+   ],
+   "tip": "How much is a는 '하우머치저'처럼 이어 읽어요.",
+   "start": 13937.28,
+   "end": 13941.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker ask about on weekends?",
+   "options": [
+    "The class schedule",
+    "The opening hours",
+    "The parking fee"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: what are your opening hours on weekends"
+  },
+  {
+   "q": "Who might get a discount?",
+   "options": [
+    "Seniors and families",
+    "Only staff members",
+    "Students or new members"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: discounts for students or new members"
+  },
+  {
+   "q": "What does the speaker want to know about the monthly membership?",
+   "options": [
+    "Its price and what it includes",
+    "Its start date",
+    "Who can cancel it"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: How much is a monthly membership and what does it include"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "First of all",
+   "ko": "우선",
+   "note": "질문이나 요점을 차례로 열 때 써요."
+  },
+  {
+   "term": "opening hours",
+   "ko": "영업시간",
+   "note": "business hours라고도 해요."
+  },
+  {
+   "term": "offer discounts",
+   "ko": "할인을 제공하다",
+   "note": "Do you offer ~?로 정중하게 물어봐요."
+  },
+  {
+   "term": "membership",
+   "ko": "회원권, 회원 자격",
+   "note": "monthly membership은 월 회원권이에요."
+  },
+  {
+   "term": "include",
+   "ko": "포함하다",
+   "note": "what does it include?는 구성을 묻는 말이에요."
+  }
+ ]
+}

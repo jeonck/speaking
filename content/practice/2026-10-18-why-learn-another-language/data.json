@@ -1,0 +1,320 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18821.44,
+  "end": 18877.05,
+  "clips": [
+   [
+    18821.44,
+    18825.45
+   ],
+   [
+    18846.24,
+    18850.41
+   ],
+   [
+    18872.4,
+    18877.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I really think learning another language is worth the effort.",
+   "chunks": [
+    {
+     "en": "I really think",
+     "ko": "저는 정말 ~라고 생각해요"
+    },
+    {
+     "en": "learning another language",
+     "ko": "다른 언어를 배우는 것이"
+    },
+    {
+     "en": "is worth the effort.",
+     "ko": "노력할 가치가 있다고"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "syl": "real",
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learning",
+     "strong": true,
+     "syl": "learn",
+     "link": true
+    },
+    {
+     "w": "another",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "language",
+     "strong": true,
+     "syl": "lang",
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worth",
+     "strong": true,
+     "syl": "worth",
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "effort.",
+     "strong": true,
+     "syl": "ef",
+     "link": false
+    }
+   ],
+   "tip": "learning another는 '러닝어나더'로 이어서 읽어요.",
+   "start": 18821.44,
+   "end": 18825.45
+  },
+  {
+   "text": "It opens doors to better jobs and new friendships.",
+   "chunks": [
+    {
+     "en": "It opens doors",
+     "ko": "문을 열어줘요"
+    },
+    {
+     "en": "to better jobs",
+     "ko": "더 좋은 일자리로"
+    },
+    {
+     "en": "and new friendships.",
+     "ko": "그리고 새로운 우정으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "opens",
+     "strong": true,
+     "syl": "o",
+     "link": false
+    },
+    {
+     "w": "doors",
+     "strong": true,
+     "syl": "doors",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": true,
+     "syl": "bet",
+     "link": false
+    },
+    {
+     "w": "jobs",
+     "strong": true,
+     "syl": "jobs",
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friendships.",
+     "strong": true,
+     "syl": "friend",
+     "link": false
+    }
+   ],
+   "tip": "It opens는 '이토픈스'처럼 t를 다음 단어에 붙여 읽어요.",
+   "start": 18846.24,
+   "end": 18850.41
+  },
+  {
+   "text": "Speaking English helped me land my first job at a global company.",
+   "chunks": [
+    {
+     "en": "Speaking English",
+     "ko": "영어를 말하는 것이"
+    },
+    {
+     "en": "helped me land my first job",
+     "ko": "내 첫 직장을 얻도록 도왔어요"
+    },
+    {
+     "en": "at a global company.",
+     "ko": "글로벌 회사에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "Speaking",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "English",
+     "strong": true,
+     "syl": "eng",
+     "link": false
+    },
+    {
+     "w": "helped",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "land",
+     "strong": true,
+     "syl": "land",
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "syl": "first",
+     "link": false
+    },
+    {
+     "w": "job",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "global",
+     "strong": true,
+     "syl": "glo",
+     "link": false
+    },
+    {
+     "w": "company.",
+     "strong": true,
+     "syl": "com",
+     "link": false
+    }
+   ],
+   "tip": "job at a는 '잡애러'처럼 이어서 읽어요.",
+   "start": 18872.4,
+   "end": 18877.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker think about learning another language?",
+   "options": [
+    "It is worth the effort",
+    "It is too difficult",
+    "It is not necessary"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: learning another language is worth the effort"
+  },
+  {
+   "q": "What does learning a language open doors to?",
+   "options": [
+    "Cheaper travel",
+    "Better jobs and new friendships",
+    "Free classes"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: opens doors to better jobs and new friendships"
+  },
+  {
+   "q": "What did speaking English help the speaker do?",
+   "options": [
+    "Move abroad",
+    "Win a contest",
+    "Land a first job at a global company"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: helped me land my first job at a global company"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "worth the effort",
+   "ko": "노력할 가치가 있는",
+   "note": "worth + 명사 형태예요."
+  },
+  {
+   "term": "opens doors",
+   "ko": "기회를 열어주다",
+   "note": "비유적으로 '가능성을 넓히다'예요."
+  },
+  {
+   "term": "land a job",
+   "ko": "일자리를 얻다",
+   "note": "land가 '따내다'라는 뜻이에요."
+  },
+  {
+   "term": "global company",
+   "ko": "글로벌 기업",
+   "note": "국제적으로 사업하는 회사예요."
+  },
+  {
+   "term": "friendships",
+   "ko": "우정",
+   "note": "friendship의 복수형이에요."
+  }
+ ]
+}

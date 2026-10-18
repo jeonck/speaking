@@ -1,0 +1,290 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13960.32,
+  "end": 14006.8,
+  "clips": [
+   [
+    13960.32,
+    13963.85
+   ],
+   [
+    13980.88,
+    13984.09
+   ],
+   [
+    14003.3,
+    14006.8
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Can I book sessions with a personal trainer?",
+   "chunks": [
+    {
+     "en": "Can I book sessions",
+     "ko": "세션을 예약할 수 있나요"
+    },
+    {
+     "en": "with a personal trainer?",
+     "ko": "개인 트레이너와"
+    }
+   ],
+   "words": [
+    {
+     "w": "Can",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "book",
+     "strong": true,
+     "link": false,
+     "syl": "book"
+    },
+    {
+     "w": "sessions",
+     "strong": true,
+     "link": false,
+     "syl": "ses"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "personal",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    },
+    {
+     "w": "trainer?",
+     "strong": true,
+     "link": false,
+     "syl": "train"
+    }
+   ],
+   "tip": "Can I는 '캐나이'처럼 이어 읽어요.",
+   "start": 13960.32,
+   "end": 13963.85
+  },
+  {
+   "text": "Can I try out a class before I sign up?",
+   "chunks": [
+    {
+     "en": "Can I try out a class",
+     "ko": "수업을 체험해 볼 수 있나요"
+    },
+    {
+     "en": "before I sign up?",
+     "ko": "등록하기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Can",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class",
+     "strong": true,
+     "link": false,
+     "syl": "class"
+    },
+    {
+     "w": "before",
+     "strong": true,
+     "link": false,
+     "syl": "fore"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sign",
+     "strong": true,
+     "link": true,
+     "syl": "sign"
+    },
+    {
+     "w": "up?",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "sign up은 '사이넙'처럼 이어 읽어요.",
+   "start": 13980.88,
+   "end": 13984.09
+  },
+  {
+   "text": "Do I need to bring my own towel and lock?",
+   "chunks": [
+    {
+     "en": "Do I need to bring",
+     "ko": "가져와야 하나요"
+    },
+    {
+     "en": "my own towel and lock?",
+     "ko": "제 수건과 자물쇠를"
+    }
+   ],
+   "words": [
+    {
+     "w": "Do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bring",
+     "strong": true,
+     "link": false,
+     "syl": "bring"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own",
+     "strong": true,
+     "link": false,
+     "syl": "own"
+    },
+    {
+     "w": "towel",
+     "strong": true,
+     "link": true,
+     "syl": "tow"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lock?",
+     "strong": true,
+     "link": false,
+     "syl": "lock"
+    }
+   ],
+   "tip": "towel and는 '타월런'처럼 이어 읽어요.",
+   "start": 14003.3,
+   "end": 14006.8
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who does the speaker want to book sessions with?",
+   "options": [
+    "A nutritionist",
+    "A front-desk manager",
+    "A personal trainer"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: book sessions with a personal trainer"
+  },
+  {
+   "q": "What does the speaker want to do before signing up?",
+   "options": [
+    "Try out a class",
+    "Pay in advance",
+    "Meet other members"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: try out a class before I sign up"
+  },
+  {
+   "q": "What does the speaker ask about bringing?",
+   "options": [
+    "A water bottle and shoes",
+    "A towel and lock",
+    "A membership card"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: bring my own towel and lock"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "book sessions",
+   "ko": "세션을 예약하다",
+   "note": "book은 동사로 '예약하다'예요."
+  },
+  {
+   "term": "personal trainer",
+   "ko": "개인 트레이너",
+   "note": "PT라고 줄여 말하기도 해요."
+  },
+  {
+   "term": "try out",
+   "ko": "체험해 보다",
+   "note": "정식 결정 전에 시험 삼아 해 볼 때 써요."
+  },
+  {
+   "term": "sign up",
+   "ko": "등록하다, 가입하다",
+   "note": "sign up for a class처럼 써요."
+  },
+  {
+   "term": "my own",
+   "ko": "내 자신의",
+   "note": "my own towel은 '내가 가져온 수건'이에요."
+  }
+ ]
+}

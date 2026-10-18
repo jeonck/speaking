@@ -1,0 +1,323 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19284.56,
+  "end": 19342.81,
+  "clips": [
+   [
+    19284.56,
+    19289.13
+   ],
+   [
+    19311.12,
+    19315.77
+   ],
+   [
+    19338.56,
+    19342.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "In my view, the most important quality of a leader is honesty.",
+   "chunks": [
+    {
+     "en": "In my view,",
+     "ko": "제 관점에서는"
+    },
+    {
+     "en": "the most important quality",
+     "ko": "가장 중요한 자질은"
+    },
+    {
+     "en": "of a leader is honesty.",
+     "ko": "리더의 정직이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "view,",
+     "strong": true,
+     "link": false,
+     "syl": "view"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "important",
+     "strong": true,
+     "link": false,
+     "syl": "por"
+    },
+    {
+     "w": "quality",
+     "strong": true,
+     "link": false,
+     "syl": "qual"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leader",
+     "strong": true,
+     "link": true,
+     "syl": "lea"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honesty.",
+     "strong": true,
+     "link": false,
+     "syl": "hon"
+    }
+   ],
+   "tip": "of a leader는 '어버 리더'처럼 of와 a를 붙여 읽어요.",
+   "start": 19284.56,
+   "end": 19289.13
+  },
+  {
+   "text": "People follow leaders they can trust, not just ones with power.",
+   "chunks": [
+    {
+     "en": "People follow leaders",
+     "ko": "사람들은 리더를 따라요"
+    },
+    {
+     "en": "they can trust,",
+     "ko": "그들이 믿을 수 있는"
+    },
+    {
+     "en": "not just ones with power.",
+     "ko": "힘만 가진 사람이 아니라"
+    }
+   ],
+   "words": [
+    {
+     "w": "People",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "follow",
+     "strong": true,
+     "link": false,
+     "syl": "fol"
+    },
+    {
+     "w": "leaders",
+     "strong": true,
+     "link": false,
+     "syl": "lead"
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trust,",
+     "strong": true,
+     "link": false,
+     "syl": "trust"
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ones",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "power.",
+     "strong": true,
+     "link": false,
+     "syl": "pow"
+    }
+   ],
+   "tip": "can trust에서 can은 약하게 '큰'처럼 읽어요.",
+   "start": 19311.12,
+   "end": 19315.77
+  },
+  {
+   "text": "A good leader also listens before making a decision.",
+   "chunks": [
+    {
+     "en": "A good leader",
+     "ko": "좋은 리더는"
+    },
+    {
+     "en": "also listens",
+     "ko": "또한 들어요"
+    },
+    {
+     "en": "before making a decision.",
+     "ko": "결정을 내리기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "good",
+     "strong": true,
+     "link": false,
+     "syl": "good"
+    },
+    {
+     "w": "leader",
+     "strong": true,
+     "link": true,
+     "syl": "lea"
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listens",
+     "strong": true,
+     "link": false,
+     "syl": "lis"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decision.",
+     "strong": true,
+     "link": false,
+     "syl": "ci"
+    }
+   ],
+   "tip": "making a는 '메이킹어'처럼 이어 읽어요.",
+   "start": 19338.56,
+   "end": 19342.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say is the most important quality of a leader?",
+   "options": [
+    "Honesty",
+    "Power",
+    "Experience"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: the most important quality of a leader is honesty"
+  },
+  {
+   "q": "Which leaders do people follow?",
+   "options": [
+    "Ones with the most power",
+    "Ones they can trust",
+    "Ones who talk the most"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: People follow leaders they can trust"
+  },
+  {
+   "q": "What does a good leader do before making a decision?",
+   "options": [
+    "Asks for a vote",
+    "Waits a week",
+    "Listens"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: A good leader also listens before making a decision"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "In my view,",
+   "ko": "제 관점에서는",
+   "note": "의견을 말할 때 쓰는 표현이에요."
+  },
+  {
+   "term": "quality of a leader",
+   "ko": "리더의 자질",
+   "note": "quality는 '자질, 특성'이라는 뜻이에요."
+  },
+  {
+   "term": "follow leaders",
+   "ko": "리더를 따르다",
+   "note": "follow는 '따르다'예요."
+  },
+  {
+   "term": "not just ones with power",
+   "ko": "힘 있는 사람만이 아니라",
+   "note": "ones는 앞의 leaders를 대신해요."
+  },
+  {
+   "term": "listen before making a decision",
+   "ko": "결정 전에 듣다",
+   "note": "before 뒤에는 -ing를 쓸 수 있어요."
+  }
+ ]
+}

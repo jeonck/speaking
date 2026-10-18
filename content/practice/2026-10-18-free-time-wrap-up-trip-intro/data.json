@@ -1,0 +1,303 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6706.48,
+  "end": 6756.97,
+  "clips": [
+   [
+    6706.48,
+    6709.77
+   ],
+   [
+    6732.08,
+    6735.69
+   ],
+   [
+    6753.68,
+    6756.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "That's pretty much how I spend my free time.",
+   "chunks": [
+    {
+     "en": "That's pretty much",
+     "ko": "이게 거의 전부예요"
+    },
+    {
+     "en": "how I spend my free time.",
+     "ko": "제가 여가 시간을 보내는 방식"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": true,
+     "syl": "much",
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spend",
+     "strong": true,
+     "syl": "spend",
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "free",
+     "strong": true,
+     "syl": "free",
+     "link": false
+    },
+    {
+     "w": "time.",
+     "strong": true,
+     "syl": "time",
+     "link": false
+    }
+   ],
+   "tip": "how I는 '하우아이'처럼 이어 읽어요.",
+   "start": 6706.48,
+   "end": 6709.77
+  },
+  {
+   "text": "Let me tell you about the kinds of trips I enjoy.",
+   "chunks": [
+    {
+     "en": "Let me tell you about",
+     "ko": "말씀드릴게요"
+    },
+    {
+     "en": "the kinds of trips",
+     "ko": "여행의 종류에 대해"
+    },
+    {
+     "en": "I enjoy.",
+     "ko": "제가 좋아하는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kinds",
+     "strong": true,
+     "syl": "kinds",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trips",
+     "strong": true,
+     "syl": "trips",
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoy.",
+     "strong": true,
+     "syl": "joy",
+     "link": false
+    }
+   ],
+   "tip": "tell you는 '텔유'가 '텔류'처럼 들려요.",
+   "start": 6732.08,
+   "end": 6735.69
+  },
+  {
+   "text": "I try to take a trip at least twice a year.",
+   "chunks": [
+    {
+     "en": "I try to take a trip",
+     "ko": "저는 여행을 가려고 노력해요"
+    },
+    {
+     "en": "at least twice a year.",
+     "ko": "1년에 적어도 두 번"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "syl": "try",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "syl": "trip",
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "twice",
+     "strong": true,
+     "syl": "twice",
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year.",
+     "strong": true,
+     "syl": "year",
+     "link": false
+    }
+   ],
+   "tip": "twice a는 '트와이서'처럼 이어 읽어요.",
+   "start": 6753.68,
+   "end": 6756.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about their free time at the start?",
+   "options": [
+    "They have too little",
+    "That is how they spend it",
+    "They want more of it"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: how I spend my free time"
+  },
+  {
+   "q": "What will the speaker talk about next?",
+   "options": [
+    "Work habits",
+    "Favorite foods",
+    "The kinds of trips they enjoy"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: the kinds of trips I enjoy"
+  },
+  {
+   "q": "How often does the speaker try to travel?",
+   "options": [
+    "At least twice a year",
+    "Once a month",
+    "Once every two years"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: at least twice a year"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "pretty much",
+   "ko": "거의",
+   "note": "말을 정리할 때 자주 써요."
+  },
+  {
+   "term": "free time",
+   "ko": "여가 시간",
+   "note": "spare time과 비슷해요."
+  },
+  {
+   "term": "Let me tell you about",
+   "ko": "~에 대해 말씀드릴게요",
+   "note": "새 주제를 시작할 때 써요."
+  },
+  {
+   "term": "at least twice a year",
+   "ko": "1년에 적어도 두 번",
+   "note": "빈도는 'times a year'로 말해요."
+  }
+ ]
+}

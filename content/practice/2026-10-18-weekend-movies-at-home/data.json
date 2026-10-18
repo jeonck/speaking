@@ -1,0 +1,304 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4525.76,
+  "end": 4574.97,
+  "clips": [
+   [
+    4525.76,
+    4529.29
+   ],
+   [
+    4548.16,
+    4552.09
+   ],
+   [
+    4571.28,
+    4574.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "One of my favorite things to do is watch movies.",
+   "chunks": [
+    {
+     "en": "One of my favorite things to do",
+     "ko": "제가 가장 좋아하는 일 중 하나는"
+    },
+    {
+     "en": "is watch movies.",
+     "ko": "영화 보기예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "link": false,
+     "syl": "fa"
+    },
+    {
+     "w": "things",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "watch",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "movies.",
+     "strong": true,
+     "link": false,
+     "syl": "mov"
+    }
+   ],
+   "tip": "One of는 '워너브'처럼 이어 읽고 favorite는 'FAV-rit'처럼 줄여요.",
+   "start": 4525.76,
+   "end": 4529.29
+  },
+  {
+   "text": "On a quiet weekend, I like to stay home and relax.",
+   "chunks": [
+    {
+     "en": "On a quiet weekend,",
+     "ko": "조용한 주말에"
+    },
+    {
+     "en": "I like to stay home",
+     "ko": "집에 있는 걸 좋아해요"
+    },
+    {
+     "en": "and relax.",
+     "ko": "그리고 쉬는 것"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "link": false,
+     "syl": "qui"
+    },
+    {
+     "w": "weekend,",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stay",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "relax.",
+     "strong": true,
+     "link": false,
+     "syl": "lax"
+    }
+   ],
+   "tip": "On a는 '오너'처럼 이어 읽어요.",
+   "start": 4548.16,
+   "end": 4552.09
+  },
+  {
+   "text": "I'll usually pick a movie I've been meaning to watch.",
+   "chunks": [
+    {
+     "en": "I'll usually pick a movie",
+     "ko": "보통 영화를 골라요"
+    },
+    {
+     "en": "I've been meaning to watch.",
+     "ko": "보려고 마음먹었던"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": false,
+     "syl": "u"
+    },
+    {
+     "w": "pick",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "movie",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meaning",
+     "strong": true,
+     "link": false,
+     "syl": "mean"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "watch.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "pick a movie는 '피커무비'처럼 이어 읽어요.",
+   "start": 4571.28,
+   "end": 4574.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is one of the speaker's favorite things to do?",
+   "options": [
+    "Reading novels",
+    "Watching movies",
+    "Playing games"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: favorite things to do is watch movies"
+  },
+  {
+   "q": "What does the speaker like to do on a quiet weekend?",
+   "options": [
+    "Go hiking",
+    "Visit family",
+    "Stay home and relax"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: stay home and relax"
+  },
+  {
+   "q": "What kind of movie does the speaker usually pick?",
+   "options": [
+    "One they have been meaning to watch",
+    "The newest release",
+    "One a friend recommends"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: a movie I've been meaning to watch"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "favorite things to do",
+   "ko": "가장 좋아하는 일",
+   "note": "취미를 소개할 때 써요."
+  },
+  {
+   "term": "quiet weekend",
+   "ko": "조용한 주말",
+   "note": "a quiet weekend는 특별한 계획 없는 주말이에요."
+  },
+  {
+   "term": "stay home",
+   "ko": "집에 머물다",
+   "note": "stay at home도 같은 뜻이에요."
+  },
+  {
+   "term": "pick a movie",
+   "ko": "영화를 고르다",
+   "note": "pick은 choose보다 가벼운 느낌이에요."
+  },
+  {
+   "term": "been meaning to",
+   "ko": "~하려던 참이었던",
+   "note": "오래 미뤄 온 일을 말할 때 써요."
+  }
+ ]
+}

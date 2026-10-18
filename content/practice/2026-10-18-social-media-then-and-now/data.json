@@ -1,0 +1,340 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13229.04,
+  "end": 13283.05,
+  "clips": [
+   [
+    13229.04,
+    13233.37
+   ],
+   [
+    13254.08,
+    13257.85
+   ],
+   [
+    13278.08,
+    13283.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Social media didn't even exist when I was in elementary school.",
+   "chunks": [
+    {
+     "en": "Social media didn't even exist",
+     "ko": "소셜 미디어는 아예 존재하지도 않았어요"
+    },
+    {
+     "en": "when I was in elementary school.",
+     "ko": "제가 초등학교에 다닐 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "Social",
+     "strong": true,
+     "link": false,
+     "syl": "so"
+    },
+    {
+     "w": "media",
+     "strong": true,
+     "link": false,
+     "syl": "me"
+    },
+    {
+     "w": "didn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "exist",
+     "strong": true,
+     "link": false,
+     "syl": "ist"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "elementary",
+     "strong": true,
+     "link": false,
+     "syl": "men"
+    },
+    {
+     "w": "school.",
+     "strong": true,
+     "link": false,
+     "syl": "school"
+    }
+   ],
+   "tip": "'didn't even'은 '디든이븐'처럼 이어 읽어요.",
+   "start": 13229.04,
+   "end": 13233.37
+  },
+  {
+   "text": "Now it's the first thing many people check in the morning.",
+   "chunks": [
+    {
+     "en": "Now it's the first thing",
+     "ko": "지금은 첫 번째로 하는 일이에요"
+    },
+    {
+     "en": "many people check",
+     "ko": "많은 사람이 확인하는"
+    },
+    {
+     "en": "in the morning.",
+     "ko": "아침에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "thing",
+     "strong": true,
+     "link": false,
+     "syl": "thing"
+    },
+    {
+     "w": "many",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "check",
+     "strong": true,
+     "link": true,
+     "syl": "check"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "morning.",
+     "strong": true,
+     "link": false,
+     "syl": "morn"
+    }
+   ],
+   "tip": "'first thing'은 t가 약해져 '퍼스띵'처럼 들려요.",
+   "start": 13254.08,
+   "end": 13257.85
+  },
+  {
+   "text": "It helps me keep in touch, but I try not to compare myself with others.",
+   "chunks": [
+    {
+     "en": "It helps me keep in touch,",
+     "ko": "연락하고 지내는 데 도움이 되지만"
+    },
+    {
+     "en": "but I try not to compare myself",
+     "ko": "저는 저 자신을 비교하지 않으려고 해요"
+    },
+    {
+     "en": "with others.",
+     "ko": "다른 사람들과"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "helps",
+     "strong": true,
+     "link": false,
+     "syl": "helps"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "touch,",
+     "strong": true,
+     "link": false,
+     "syl": "touch"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "link": false,
+     "syl": "try"
+    },
+    {
+     "w": "not",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "compare",
+     "strong": true,
+     "link": false,
+     "syl": "pare"
+    },
+    {
+     "w": "myself",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "others.",
+     "strong": true,
+     "link": false,
+     "syl": "oth"
+    }
+   ],
+   "tip": "'keep in touch'는 '킵인터치'처럼 이어 읽어요.",
+   "start": 13278.08,
+   "end": 13283.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did not exist when the speaker was in elementary school?",
+   "options": [
+    "Social media",
+    "Television",
+    "Telephones"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Social media didn't even exist"
+  },
+  {
+   "q": "When do many people check social media?",
+   "options": [
+    "First thing in the morning",
+    "At lunch",
+    "Before bed"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: the first thing many people check in the morning"
+  },
+  {
+   "q": "What does the speaker try not to do?",
+   "options": [
+    "Compare themselves with others",
+    "Keep in touch",
+    "Check the news"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I try not to compare myself with others"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "elementary school",
+   "ko": "초등학교",
+   "note": "미국식 표현이에요."
+  },
+  {
+   "term": "first thing in the morning",
+   "ko": "아침에 제일 먼저",
+   "note": "일과의 시작을 말해요."
+  },
+  {
+   "term": "keep in touch",
+   "ko": "연락하고 지내다",
+   "note": "with를 붙여 상대를 말해요."
+  },
+  {
+   "term": "compare oneself with",
+   "ko": "~와 자신을 비교하다",
+   "note": "to도 쓸 수 있어요."
+  }
+ ]
+}

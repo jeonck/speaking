@@ -1,0 +1,325 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20143.28,
+  "end": 20196.57,
+  "clips": [
+   [
+    20143.28,
+    20147.45
+   ],
+   [
+    20167.52,
+    20171.69
+   ],
+   [
+    20192.56,
+    20196.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My parents asked me to help them book train tickets online.",
+   "chunks": [
+    {
+     "en": "My parents asked me",
+     "ko": "부모님이 나에게 부탁하셨다"
+    },
+    {
+     "en": "to help them book train tickets",
+     "ko": "그분들이 기차표 예약하는 걸 돕도록"
+    },
+    {
+     "en": "online.",
+     "ko": "온라인으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "parents",
+     "strong": true,
+     "link": false,
+     "syl": "par"
+    },
+    {
+     "w": "asked",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "help",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "book",
+     "strong": true,
+     "link": false,
+     "syl": "book"
+    },
+    {
+     "w": "train",
+     "strong": true,
+     "link": false,
+     "syl": "train"
+    },
+    {
+     "w": "tickets",
+     "strong": true,
+     "link": true,
+     "syl": "tick"
+    },
+    {
+     "w": "online.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "asked me는 '애스크미'처럼 이어 읽고, book train tickets의 세 단어를 또박또박 강조해요.",
+   "start": 20143.28,
+   "end": 20147.45
+  },
+  {
+   "text": "Traveling alone is a great way to become more independent.",
+   "chunks": [
+    {
+     "en": "Traveling alone",
+     "ko": "혼자 여행하는 것은"
+    },
+    {
+     "en": "is a great way",
+     "ko": "좋은 방법이다"
+    },
+    {
+     "en": "to become more independent.",
+     "ko": "더 독립적이 되는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Traveling",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "alone",
+     "strong": true,
+     "link": false,
+     "syl": "lone"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "great",
+     "strong": true,
+     "link": false,
+     "syl": "great"
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "become",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "independent.",
+     "strong": true,
+     "link": false,
+     "syl": "pen"
+    }
+   ],
+   "tip": "independent는 세 번째 음절 'pen'에 강세를 둬요: in-de-PEN-dent.",
+   "start": 20167.52,
+   "end": 20171.69
+  },
+  {
+   "text": "You have to make decisions and deal with problems on your own.",
+   "chunks": [
+    {
+     "en": "You have to make decisions",
+     "ko": "당신은 결정을 내려야 한다"
+    },
+    {
+     "en": "and deal with problems",
+     "ko": "그리고 문제를 처리해야 한다"
+    },
+    {
+     "en": "on your own.",
+     "ko": "스스로"
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "decisions",
+     "strong": true,
+     "link": false,
+     "syl": "ci"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "deal",
+     "strong": true,
+     "link": false,
+     "syl": "deal"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "problems",
+     "strong": true,
+     "link": false,
+     "syl": "prob"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "on your own은 '온유어로운'처럼 부드럽게 이어져요. decisions는 'ci'에 강세가 와요.",
+   "start": 20192.56,
+   "end": 20196.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker's parents ask for help with?",
+   "options": [
+    "Booking train tickets online",
+    "Packing for a trip",
+    "Finding a hotel"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: help them book train tickets online"
+  },
+  {
+   "q": "According to the speaker, what does traveling alone help you become?",
+   "options": [
+    "More talkative",
+    "More independent",
+    "More patient"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: a great way to become more independent"
+  },
+  {
+   "q": "What do you have to do when traveling alone?",
+   "options": [
+    "Follow a guide all day",
+    "Save money on every meal",
+    "Make decisions and deal with problems"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: make decisions and deal with problems on your own"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "book train tickets",
+   "ko": "기차표를 예약하다",
+   "note": "book은 동사로 '예약하다'예요."
+  },
+  {
+   "term": "a great way to",
+   "ko": "~하는 좋은 방법",
+   "note": "뒤에 동사원형을 붙여요."
+  },
+  {
+   "term": "independent",
+   "ko": "독립적인",
+   "note": "명사형은 independence예요."
+  },
+  {
+   "term": "deal with",
+   "ko": "~을 처리하다",
+   "note": "problems, people 등과 자주 써요."
+  },
+  {
+   "term": "on your own",
+   "ko": "혼자서, 스스로",
+   "note": "by yourself와 비슷해요."
+  }
+ ]
+}

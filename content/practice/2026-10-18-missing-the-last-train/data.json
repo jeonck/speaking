@@ -1,0 +1,296 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21729.12,
+  "end": 21777.29,
+  "clips": [
+   [
+    21729.12,
+    21732.97
+   ],
+   [
+    21752.72,
+    21756.09
+   ],
+   [
+    21773.84,
+    21777.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "To make a long story short, we missed the last train.",
+   "chunks": [
+    {
+     "en": "To make a long story short,",
+     "ko": "간단히 말하면,"
+    },
+    {
+     "en": "we missed",
+     "ko": "우리는 놓쳤어요"
+    },
+    {
+     "en": "the last train.",
+     "ko": "마지막 기차를"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "make",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "story",
+     "strong": true,
+     "link": false,
+     "syl": "sto"
+    },
+    {
+     "w": "short,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "missed",
+     "strong": true,
+     "link": false,
+     "syl": "miss"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": true,
+     "link": false,
+     "syl": "last"
+    },
+    {
+     "w": "train.",
+     "strong": true,
+     "link": false,
+     "syl": "train"
+    }
+   ],
+   "tip": "To make a는 '투메이커'처럼 이어 읽고 story를 가장 세게 말해요.",
+   "start": 21729.12,
+   "end": 21732.97
+  },
+  {
+   "text": "Believe it or not, that was only the beginning.",
+   "chunks": [
+    {
+     "en": "Believe it or not,",
+     "ko": "믿기 어렵겠지만,"
+    },
+    {
+     "en": "that was only",
+     "ko": "그건 단지"
+    },
+    {
+     "en": "the beginning.",
+     "ko": "시작이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Believe",
+     "strong": true,
+     "link": true,
+     "syl": "lieve"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "not,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": true,
+     "link": false,
+     "syl": "on"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "beginning.",
+     "strong": true,
+     "link": false,
+     "syl": "gin"
+    }
+   ],
+   "tip": "Believe it or not은 '빌리-비티-오어-낫'처럼 Believe it을 이어서 읽어요.",
+   "start": 21752.72,
+   "end": 21756.09
+  },
+  {
+   "text": "As you can imagine, I was pretty nervous.",
+   "chunks": [
+    {
+     "en": "As you can imagine,",
+     "ko": "상상하시듯,"
+    },
+    {
+     "en": "I was pretty nervous.",
+     "ko": "저는 꽤 긴장했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "As",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "imagine,",
+     "strong": true,
+     "link": false,
+     "syl": "mag"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": true,
+     "link": false,
+     "syl": "pre"
+    },
+    {
+     "w": "nervous.",
+     "strong": true,
+     "link": false,
+     "syl": "ner"
+    }
+   ],
+   "tip": "As you는 '애쥬'처럼 s와 y가 붙어 소리 나요.",
+   "start": 21773.84,
+   "end": 21777.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker miss?",
+   "options": [
+    "The last train",
+    "The first bus",
+    "A flight"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: we missed the last train"
+  },
+  {
+   "q": "What does the speaker say about the missed train?",
+   "options": [
+    "It was no big deal",
+    "It was only the beginning",
+    "It was the speaker's fault"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: that was only the beginning"
+  },
+  {
+   "q": "How did the speaker feel?",
+   "options": [
+    "Angry",
+    "Bored",
+    "Nervous"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I was pretty nervous"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "To make a long story short",
+   "ko": "간단히 말하면",
+   "note": "긴 이야기를 결론으로 줄일 때 써요."
+  },
+  {
+   "term": "Believe it or not",
+   "ko": "믿기 어렵겠지만",
+   "note": "놀라운 사실 앞에 붙여요."
+  },
+  {
+   "term": "As you can imagine",
+   "ko": "상상하시겠지만",
+   "note": "듣는 사람이 짐작할 만한 일 앞에 써요."
+  },
+  {
+   "term": "miss the last train",
+   "ko": "막차를 놓치다",
+   "note": "miss는 놓치다, last는 마지막이에요."
+  },
+  {
+   "term": "pretty nervous",
+   "ko": "꽤 긴장한",
+   "note": "pretty는 '꽤'라는 뜻의 강조어예요."
+  }
+ ]
+}

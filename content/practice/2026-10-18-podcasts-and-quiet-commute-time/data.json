@@ -1,0 +1,322 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 440.96,
+  "end": 494.57,
+  "clips": [
+   [
+    440.96,
+    445.69
+   ],
+   [
+    467.6,
+    471.53
+   ],
+   [
+    490.8,
+    494.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I use that time to listen to podcasts or English recordings.",
+   "chunks": [
+    {
+     "en": "I use that time",
+     "ko": "나는 그 시간을 써요"
+    },
+    {
+     "en": "to listen to podcasts",
+     "ko": "팟캐스트를 듣는 데"
+    },
+    {
+     "en": "or English recordings.",
+     "ko": "또는 영어 녹음을"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "listen",
+     "strong": true,
+     "link": false,
+     "syl": "lis"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "podcasts",
+     "strong": true,
+     "link": true,
+     "syl": "pod"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "English",
+     "strong": true,
+     "link": false,
+     "syl": "eng"
+    },
+    {
+     "w": "recordings.",
+     "strong": true,
+     "link": false,
+     "syl": "cord"
+    }
+   ],
+   "tip": "listen의 t는 소리 나지 않아요. '리쓴'처럼 읽어요.",
+   "start": 440.96,
+   "end": 445.69
+  },
+  {
+   "text": "That's really the only time of day I get to myself.",
+   "chunks": [
+    {
+     "en": "That's really the only time",
+     "ko": "그건 정말 유일한 시간이에요"
+    },
+    {
+     "en": "of day",
+     "ko": "하루 중"
+    },
+    {
+     "en": "I get to myself.",
+     "ko": "내가 나 자신에게 쓸 수 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": true,
+     "link": false,
+     "syl": "real"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "only",
+     "strong": true,
+     "link": false,
+     "syl": "on"
+    },
+    {
+     "w": "time",
+     "strong": true,
+     "link": true,
+     "syl": "time"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    }
+   ],
+   "tip": "time of day는 '타이머브데이'처럼 이어 읽어요.",
+   "start": 467.6,
+   "end": 471.53
+  },
+  {
+   "text": "Sometimes I pick up another coffee on my way in.",
+   "chunks": [
+    {
+     "en": "Sometimes I pick up",
+     "ko": "가끔 나는 사요"
+    },
+    {
+     "en": "another coffee",
+     "ko": "커피를 한 잔 더"
+    },
+    {
+     "en": "on my way in.",
+     "ko": "출근하는 길에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Sometimes",
+     "strong": true,
+     "link": false,
+     "syl": "some"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pick",
+     "strong": true,
+     "link": true,
+     "syl": "pick"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "another",
+     "strong": true,
+     "link": false,
+     "syl": "noth"
+    },
+    {
+     "w": "coffee",
+     "strong": true,
+     "link": false,
+     "syl": "cof"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "pick up another는 '피컵어나더'처럼 쭉 이어 읽어요.",
+   "start": 490.8,
+   "end": 494.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker listen to during the commute?",
+   "options": [
+    "Podcasts or English recordings",
+    "Music playlists",
+    "News broadcasts"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: listen to podcasts or English recordings"
+  },
+  {
+   "q": "How does the speaker describe this time?",
+   "options": [
+    "The most stressful time",
+    "The time to call family",
+    "The only time of day they get to themselves"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: the only time of day I get to myself"
+  },
+  {
+   "q": "What does the speaker sometimes do on the way in?",
+   "options": [
+    "Eat a second breakfast",
+    "Pick up another coffee",
+    "Walk with a friend"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I pick up another coffee on my way in"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "podcast",
+   "ko": "팟캐스트",
+   "note": "listen to a podcast로 말해요."
+  },
+  {
+   "term": "recordings",
+   "ko": "녹음 자료",
+   "note": "영어 공부용 음성 파일을 가리켜요."
+  },
+  {
+   "term": "time to myself",
+   "ko": "나만의 시간",
+   "note": "get time to myself로 혼자 있는 시간을 표현해요."
+  },
+  {
+   "term": "pick up a coffee",
+   "ko": "커피를 사 가다",
+   "note": "가볍게 사 온다는 뜻이에요."
+  },
+  {
+   "term": "on my way in",
+   "ko": "출근하는 길에",
+   "note": "on my way + 방향으로 '가는 길에'를 말해요."
+  }
+ ]
+}

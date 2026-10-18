@@ -1,0 +1,325 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11032.8,
+  "end": 11087.05,
+  "clips": [
+   [
+    11032.8,
+    11037.37
+   ],
+   [
+    11058.88,
+    11063.05
+   ],
+   [
+    11082.96,
+    11087.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Once we got there, we found a small restaurant and finally relaxed.",
+   "chunks": [
+    {
+     "en": "Once we got there,",
+     "ko": "우리가 거기에 도착하자"
+    },
+    {
+     "en": "we found a small restaurant",
+     "ko": "작은 식당을 찾았고"
+    },
+    {
+     "en": "and finally relaxed.",
+     "ko": "마침내 긴장을 풀었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Once",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": true,
+     "link": true,
+     "syl": "found"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "restaurant",
+     "strong": true,
+     "link": true,
+     "syl": "res"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "finally",
+     "strong": true,
+     "link": false,
+     "syl": "fi"
+    },
+    {
+     "w": "relaxed.",
+     "strong": true,
+     "link": false,
+     "syl": "lax"
+    }
+   ],
+   "tip": "restaurant는 '레스터란트'처럼 앞의 res에 강세가 와요.",
+   "start": 11032.8,
+   "end": 11037.37
+  },
+  {
+   "text": "In my second year of college, I applied for a scholarship.",
+   "chunks": [
+    {
+     "en": "In my second year of college,",
+     "ko": "대학교 2학년 때"
+    },
+    {
+     "en": "I applied for a scholarship.",
+     "ko": "나는 장학금을 신청했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "second",
+     "strong": true,
+     "link": false,
+     "syl": "sec"
+    },
+    {
+     "w": "year",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college,",
+     "strong": true,
+     "link": false,
+     "syl": "col"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "applied",
+     "strong": true,
+     "link": false,
+     "syl": "plied"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "scholarship.",
+     "strong": true,
+     "link": false,
+     "syl": "schol"
+    }
+   ],
+   "tip": "scholarship은 첫 음절 schol에 강세를 두어 '스칼러쉽'처럼 읽어요.",
+   "start": 11058.88,
+   "end": 11063.05
+  },
+  {
+   "text": "I spent weeks writing and rewriting my essay late at night.",
+   "chunks": [
+    {
+     "en": "I spent weeks",
+     "ko": "나는 몇 주를 보냈어요"
+    },
+    {
+     "en": "writing and rewriting my essay",
+     "ko": "에세이를 쓰고 또 고쳐 쓰면서"
+    },
+    {
+     "en": "late at night.",
+     "ko": "늦은 밤에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spent",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weeks",
+     "strong": true,
+     "link": false,
+     "syl": "weeks"
+    },
+    {
+     "w": "writing",
+     "strong": true,
+     "link": true,
+     "syl": "writ"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rewriting",
+     "strong": true,
+     "link": false,
+     "syl": "writ"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "essay",
+     "strong": true,
+     "link": false,
+     "syl": "es"
+    },
+    {
+     "w": "late",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night.",
+     "strong": true,
+     "link": false,
+     "syl": "night"
+    }
+   ],
+   "tip": "late at night은 '레이래트나잇'처럼 late와 at을 이어 읽어요.",
+   "start": 11082.96,
+   "end": 11087.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker do after arriving in town?",
+   "options": [
+    "Found a small restaurant",
+    "Went to a hotel",
+    "Fixed the car"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: we found a small restaurant and finally relaxed"
+  },
+  {
+   "q": "When did the speaker apply for a scholarship?",
+   "options": [
+    "In the first year of college",
+    "In the second year of college",
+    "After graduating"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: In my second year of college"
+  },
+  {
+   "q": "How long did the speaker work on the essay?",
+   "options": [
+    "One evening",
+    "Weeks",
+    "A single day"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: I spent weeks writing and rewriting my essay"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "finally relaxed",
+   "ko": "마침내 긴장을 풀었다",
+   "note": "힘든 일 뒤에 안도할 때 써요."
+  },
+  {
+   "term": "apply for a scholarship",
+   "ko": "장학금을 신청하다",
+   "note": "apply for 뒤에 지원 대상을 써요."
+  },
+  {
+   "term": "spend weeks -ing",
+   "ko": "몇 주를 ~하며 보내다",
+   "note": "spend + 시간 + 동사ing 구조예요."
+  },
+  {
+   "term": "late at night",
+   "ko": "늦은 밤에",
+   "note": "시간 표현으로 자주 써요."
+  }
+ ]
+}

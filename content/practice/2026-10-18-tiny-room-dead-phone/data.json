@@ -1,0 +1,322 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7666.56,
+  "end": 7719.53,
+  "clips": [
+   [
+    7666.56,
+    7671.45
+   ],
+   [
+    7694.4,
+    7698.01
+   ],
+   [
+    7715.76,
+    7719.53
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "On another trip, my hotel room was much smaller than it looked online.",
+   "chunks": [
+    {
+     "en": "On another trip,",
+     "ko": "다른 여행에서는"
+    },
+    {
+     "en": "my hotel room was much smaller",
+     "ko": "내 호텔 방이 훨씬 작았다"
+    },
+    {
+     "en": "than it looked online.",
+     "ko": "온라인에서 보인 것보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "another",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hotel",
+     "strong": true,
+     "link": false,
+     "syl": "ho"
+    },
+    {
+     "w": "room",
+     "strong": true,
+     "link": false,
+     "syl": "room"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smaller",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "looked",
+     "strong": true,
+     "link": true,
+     "syl": "looked"
+    },
+    {
+     "w": "online.",
+     "strong": true,
+     "link": false,
+     "syl": "line"
+    }
+   ],
+   "tip": "than it looked는 약하게 빠르게 읽고 smaller를 크게 읽어요.",
+   "start": 7666.56,
+   "end": 7671.45
+  },
+  {
+   "text": "I also got lost in a foreign city once.",
+   "chunks": [
+    {
+     "en": "I also got lost",
+     "ko": "나는 길을 잃기도 했다"
+    },
+    {
+     "en": "in a foreign city once.",
+     "ko": "한 번은 외국 도시에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": true,
+     "link": true,
+     "syl": "al"
+    },
+    {
+     "w": "got",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lost",
+     "strong": true,
+     "link": true,
+     "syl": "lost"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "foreign",
+     "strong": true,
+     "link": false,
+     "syl": "for"
+    },
+    {
+     "w": "city",
+     "strong": true,
+     "link": false,
+     "syl": "ci"
+    },
+    {
+     "w": "once.",
+     "strong": true,
+     "link": false,
+     "syl": "once"
+    }
+   ],
+   "tip": "lost in a는 '로스티너'처럼 이어 읽어요.",
+   "start": 7694.4,
+   "end": 7698.01
+  },
+  {
+   "text": "My phone battery was dead, so I couldn't use the map.",
+   "chunks": [
+    {
+     "en": "My phone battery was dead,",
+     "ko": "내 휴대폰 배터리가 나가서"
+    },
+    {
+     "en": "so I couldn't use the map.",
+     "ko": "지도를 쓸 수 없었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "link": false,
+     "syl": "phone"
+    },
+    {
+     "w": "battery",
+     "strong": true,
+     "link": false,
+     "syl": "bat"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dead,",
+     "strong": true,
+     "link": false,
+     "syl": "dead"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "couldn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "use",
+     "strong": true,
+     "link": false,
+     "syl": "use"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "map.",
+     "strong": true,
+     "link": false,
+     "syl": "map"
+    }
+   ],
+   "tip": "so I couldn't는 '소아이쿠든'처럼 이어 읽어요.",
+   "start": 7715.76,
+   "end": 7719.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What was wrong with the hotel room?",
+   "options": [
+    "It was noisy",
+    "It was much smaller than it looked online",
+    "It had no window"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: much smaller than it looked online"
+  },
+  {
+   "q": "Where did the speaker get lost?",
+   "options": [
+    "In a foreign city",
+    "At a hotel",
+    "In a forest"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: got lost in a foreign city once"
+  },
+  {
+   "q": "Why couldn't the speaker use the map?",
+   "options": [
+    "The map was in another language",
+    "The speaker left the phone behind",
+    "The phone battery was dead"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: My phone battery was dead, so I couldn't use the map"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "much smaller than",
+   "ko": "~보다 훨씬 작은",
+   "note": "much가 비교급을 강조해요."
+  },
+  {
+   "term": "look online",
+   "ko": "온라인에서 ~처럼 보이다",
+   "note": "사진과 실제 차이를 말할 때 써요."
+  },
+  {
+   "term": "get lost",
+   "ko": "길을 잃다",
+   "note": "get + 과거분사 형태예요."
+  },
+  {
+   "term": "foreign city",
+   "ko": "외국 도시",
+   "note": "foreign은 '외국의'예요."
+  },
+  {
+   "term": "battery is dead",
+   "ko": "배터리가 다 나가다",
+   "note": "dead는 '방전된'이라는 뜻이에요."
+  }
+ ]
+}

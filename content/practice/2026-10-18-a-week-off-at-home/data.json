@@ -1,0 +1,356 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 18129.36,
+  "end": 18185.05,
+  "clips": [
+   [
+    18129.36,
+    18133.77
+   ],
+   [
+    18154.96,
+    18159.29
+   ],
+   [
+    18180.48,
+    18185.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "If I had a full week off, I'd probably spend part of it at home.",
+   "chunks": [
+    {
+     "en": "If I had a full week off,",
+     "ko": "만약 일주일을 통째로 쉰다면"
+    },
+    {
+     "en": "I'd probably spend part of it",
+     "ko": "아마 일부를 보낼 거예요"
+    },
+    {
+     "en": "at home.",
+     "ko": "집에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "If",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "full",
+     "strong": true,
+     "link": false,
+     "syl": "full"
+    },
+    {
+     "w": "week",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    },
+    {
+     "w": "off,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "probably",
+     "strong": true,
+     "link": false,
+     "syl": "prob"
+    },
+    {
+     "w": "spend",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "part",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "home.",
+     "strong": true,
+     "link": false,
+     "syl": "home"
+    }
+   ],
+   "tip": "I'd probably는 '아이드 프라블리'처럼 가운데를 줄여요.",
+   "start": 18129.36,
+   "end": 18133.77
+  },
+  {
+   "text": "I'd like to catch up on sleep before making any big plans.",
+   "chunks": [
+    {
+     "en": "I'd like to catch up on sleep",
+     "ko": "잠을 보충하고 싶어요"
+    },
+    {
+     "en": "before making any big plans.",
+     "ko": "큰 계획을 세우기 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "catch",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sleep",
+     "strong": true,
+     "link": false,
+     "syl": "sleep"
+    },
+    {
+     "w": "before",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "making",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "any",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "link": false,
+     "syl": "big"
+    },
+    {
+     "w": "plans.",
+     "strong": true,
+     "link": false,
+     "syl": "plans"
+    }
+   ],
+   "tip": "catch up on은 '캐치업온'으로 하나처럼 이어져요.",
+   "start": 18154.96,
+   "end": 18159.29
+  },
+  {
+   "text": "After that, I'd take a short trip somewhere I could reach by train.",
+   "chunks": [
+    {
+     "en": "After that,",
+     "ko": "그 후에는"
+    },
+    {
+     "en": "I'd take a short trip",
+     "ko": "짧은 여행을 갈 거예요"
+    },
+    {
+     "en": "somewhere I could reach by train.",
+     "ko": "기차로 갈 수 있는 곳으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "After",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "short",
+     "strong": true,
+     "link": false,
+     "syl": "short"
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "somewhere",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "reach",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "train.",
+     "strong": true,
+     "link": false,
+     "syl": "train"
+    }
+   ],
+   "tip": "could reach는 '쿠드 리치'로 could를 약하게 말해요.",
+   "start": 18180.48,
+   "end": 18185.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long is the imagined time off?",
+   "options": [
+    "Two days",
+    "A full week",
+    "A whole month"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: If I had a full week off"
+  },
+  {
+   "q": "What would the speaker do first?",
+   "options": [
+    "Start a new job",
+    "Move to a new city",
+    "Catch up on sleep"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: catch up on sleep before making any big plans"
+  },
+  {
+   "q": "How could the speaker reach the trip destination?",
+   "options": [
+    "By train",
+    "By plane",
+    "By boat"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: somewhere I could reach by train"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "have a week off",
+   "ko": "일주일 쉬다",
+   "note": "time off는 휴가 시간을 뜻해요."
+  },
+  {
+   "term": "catch up on sleep",
+   "ko": "잠을 보충하다",
+   "note": "catch up on은 밀린 것을 따라잡는 거예요."
+  },
+  {
+   "term": "make big plans",
+   "ko": "큰 계획을 세우다",
+   "note": "make plans는 약속·계획을 세우는 거예요."
+  },
+  {
+   "term": "short trip",
+   "ko": "짧은 여행",
+   "note": "day trip은 당일치기예요."
+  },
+  {
+   "term": "somewhere I could reach",
+   "ko": "갈 수 있는 곳",
+   "note": "somewhere 뒤에 관계절을 붙여요."
+  }
+ ]
+}

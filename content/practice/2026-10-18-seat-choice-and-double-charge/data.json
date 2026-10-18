@@ -1,0 +1,275 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 15085.04,
+  "end": 15127.93,
+  "clips": [
+   [
+    15085.04,
+    15088.65
+   ],
+   [
+    15106.4,
+    15109.61
+   ],
+   [
+    15125.12,
+    15127.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Either a window seat or an aisle seat is fine.",
+   "chunks": [
+    {
+     "en": "Either a window seat",
+     "ko": "창가 좌석이든"
+    },
+    {
+     "en": "or an aisle seat is fine.",
+     "ko": "복도 좌석이든 괜찮아요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Either",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "window",
+     "strong": true,
+     "link": false,
+     "syl": "win"
+    },
+    {
+     "w": "seat",
+     "strong": true,
+     "link": false,
+     "syl": "seat"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "aisle",
+     "strong": true,
+     "link": false,
+     "syl": "aisle"
+    },
+    {
+     "w": "seat",
+     "strong": true,
+     "link": false,
+     "syl": "seat"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fine.",
+     "strong": true,
+     "link": false,
+     "syl": "fine"
+    }
+   ],
+   "tip": "or an aisle은 '오어낸아일'처럼 이어 읽어요.",
+   "start": 15085.04,
+   "end": 15088.65
+  },
+  {
+   "text": "I was charged twice for the same meal.",
+   "chunks": [
+    {
+     "en": "I was charged twice",
+     "ko": "두 번 청구됐어요"
+    },
+    {
+     "en": "for the same meal.",
+     "ko": "같은 식사에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "charged",
+     "strong": true,
+     "link": false,
+     "syl": "charged"
+    },
+    {
+     "w": "twice",
+     "strong": true,
+     "link": false,
+     "syl": "twice"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "same",
+     "strong": true,
+     "link": false,
+     "syl": "same"
+    },
+    {
+     "w": "meal.",
+     "strong": true,
+     "link": false,
+     "syl": "meal"
+    }
+   ],
+   "tip": "charged는 한 음절로 '차ㅈ드'처럼 짧게 읽어요.",
+   "start": 15106.4,
+   "end": 15109.61
+  },
+  {
+   "text": "Could you take a look at my receipt?",
+   "chunks": [
+    {
+     "en": "Could you take a look",
+     "ko": "한번 봐 주실 수 있나요"
+    },
+    {
+     "en": "at my receipt?",
+     "ko": "제 영수증을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": true,
+     "link": true,
+     "syl": "take"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "look",
+     "strong": true,
+     "link": true,
+     "syl": "look"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "receipt?",
+     "strong": true,
+     "link": false,
+     "syl": "ceipt"
+    }
+   ],
+   "tip": "take a look at은 '테이커루캣'처럼 이어 읽어요.",
+   "start": 15125.12,
+   "end": 15127.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of seat is fine for the speaker?",
+   "options": [
+    "Only a window seat",
+    "Only an aisle seat",
+    "Either a window or an aisle seat"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: Either a window seat or an aisle seat is fine."
+  },
+  {
+   "q": "What problem does the speaker mention?",
+   "options": [
+    "The meal was cold",
+    "Being charged twice for the same meal",
+    "The wrong meal was served"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: I was charged twice for the same meal."
+  },
+  {
+   "q": "What does the speaker want the listener to look at?",
+   "options": [
+    "The menu",
+    "The seat map",
+    "The receipt"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: take a look at my receipt"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "aisle seat",
+   "ko": "복도 쪽 좌석",
+   "note": "aisle의 s는 묵음이라 '아일'이라고 읽어요."
+  },
+  {
+   "term": "was charged twice",
+   "ko": "두 번 청구됐다",
+   "note": "charge는 요금을 부과한다는 뜻이에요."
+  },
+  {
+   "term": "the same meal",
+   "ko": "같은 식사",
+   "note": "same 앞에는 the를 꼭 붙여요."
+  },
+  {
+   "term": "take a look",
+   "ko": "한번 보다",
+   "note": "부탁할 때 Could you take a look?으로 써요."
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11107.68,
+  "end": 11158.49,
+  "clips": [
+   [
+    11107.68,
+    11111.37
+   ],
+   [
+    11131.36,
+    11135.13
+   ],
+   [
+    11154.08,
+    11158.49
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "When the email said I'd won, I was over the moon.",
+   "chunks": [
+    {
+     "en": "When the email said I'd won,",
+     "ko": "이메일에 내가 이겼다고 쓰여 있을 때"
+    },
+    {
+     "en": "I was over the moon.",
+     "ko": "나는 날아갈 듯이 기뻤어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "email",
+     "strong": true,
+     "link": false,
+     "syl": "mail"
+    },
+    {
+     "w": "said",
+     "strong": true,
+     "link": false,
+     "syl": "said"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "won,",
+     "strong": true,
+     "link": false,
+     "syl": "won"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "moon.",
+     "strong": true,
+     "link": false,
+     "syl": "moon"
+    }
+   ],
+   "tip": "over the moon은 '아주 기뻐서 어쩔 줄 모르는'이라는 관용 표현이에요. moon을 강하게!",
+   "start": 11107.68,
+   "end": 11111.37
+  },
+  {
+   "text": "I called my mom right away and she started crying.",
+   "chunks": [
+    {
+     "en": "I called my mom right away",
+     "ko": "나는 바로 엄마에게 전화했고"
+    },
+    {
+     "en": "and she started crying.",
+     "ko": "엄마는 울기 시작했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "called",
+     "strong": true,
+     "link": false,
+     "syl": "called"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mom",
+     "strong": true,
+     "link": false,
+     "syl": "mom"
+    },
+    {
+     "w": "right",
+     "strong": true,
+     "link": true,
+     "syl": "right"
+    },
+    {
+     "w": "away",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "crying.",
+     "strong": true,
+     "link": false,
+     "syl": "cry"
+    }
+   ],
+   "tip": "right away는 '라이러웨이'처럼 t가 약해지며 이어져요.",
+   "start": 11131.36,
+   "end": 11135.13
+  },
+  {
+   "text": "Experiences like that remind me that hard work pays off.",
+   "chunks": [
+    {
+     "en": "Experiences like that",
+     "ko": "그런 경험들은"
+    },
+    {
+     "en": "remind me",
+     "ko": "나에게 일깨워 줘요"
+    },
+    {
+     "en": "that hard work pays off.",
+     "ko": "열심히 일하면 보상받는다는 걸"
+    }
+   ],
+   "words": [
+    {
+     "w": "Experiences",
+     "strong": true,
+     "link": false,
+     "syl": "peri"
+    },
+    {
+     "w": "like",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "remind",
+     "strong": true,
+     "link": false,
+     "syl": "mind"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    },
+    {
+     "w": "pays",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "off.",
+     "strong": true,
+     "link": false,
+     "syl": "off"
+    }
+   ],
+   "tip": "pays off는 '페이조프'처럼 이어서 읽어요.",
+   "start": 11154.08,
+   "end": 11158.49
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the speaker feel on reading the email?",
+   "options": [
+    "Nervous",
+    "Over the moon",
+    "Confused"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I was over the moon"
+  },
+  {
+   "q": "Who did the speaker call first?",
+   "options": [
+    "A friend",
+    "A teacher",
+    "Mom"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I called my mom right away"
+  },
+  {
+   "q": "What lesson does the speaker take from it?",
+   "options": [
+    "Luck matters most",
+    "Hard work pays off",
+    "Never give up sleep"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: hard work pays off"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "over the moon",
+   "ko": "하늘을 날 듯 기쁜",
+   "note": "아주 기쁠 때 쓰는 관용 표현이에요."
+  },
+  {
+   "term": "right away",
+   "ko": "즉시",
+   "note": "immediately와 같은 뜻이에요."
+  },
+  {
+   "term": "start crying",
+   "ko": "울기 시작하다",
+   "note": "started crying처럼 -ing를 붙여요."
+  },
+  {
+   "term": "pay off",
+   "ko": "결실을 맺다",
+   "note": "노력이 보상받을 때 써요."
+  }
+ ]
+}

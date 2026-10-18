@@ -1,0 +1,347 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10956.0,
+  "end": 11010.73,
+  "clips": [
+   [
+    10956.0,
+    10960.49
+   ],
+   [
+    10981.6,
+    10985.85
+   ],
+   [
+    11005.76,
+    11010.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "During a road trip, our car broke down in the middle of nowhere.",
+   "chunks": [
+    {
+     "en": "During a road trip,",
+     "ko": "자동차 여행 중에"
+    },
+    {
+     "en": "our car broke down",
+     "ko": "우리 차가 고장 났어요"
+    },
+    {
+     "en": "in the middle of nowhere.",
+     "ko": "아무것도 없는 외딴 곳에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "During",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "road",
+     "strong": true,
+     "link": false,
+     "syl": "road"
+    },
+    {
+     "w": "trip,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "broke",
+     "strong": true,
+     "link": false,
+     "syl": "broke"
+    },
+    {
+     "w": "down",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "middle",
+     "strong": true,
+     "link": true,
+     "syl": "mid"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nowhere.",
+     "strong": true,
+     "link": false,
+     "syl": "no"
+    }
+   ],
+   "tip": "in the middle of nowhere는 '외딴 곳'이라는 뜻의 표현이니 통째로 외워요.",
+   "start": 10956.0,
+   "end": 10960.49
+  },
+  {
+   "text": "We waited by the road for hours under the burning sun.",
+   "chunks": [
+    {
+     "en": "We waited by the road",
+     "ko": "우리는 길가에서 기다렸어요"
+    },
+    {
+     "en": "for hours",
+     "ko": "몇 시간 동안"
+    },
+    {
+     "en": "under the burning sun.",
+     "ko": "내리쬐는 태양 아래"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "waited",
+     "strong": true,
+     "link": false,
+     "syl": "wait"
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "road",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "hours",
+     "strong": true,
+     "link": true,
+     "syl": "ours"
+    },
+    {
+     "w": "under",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "burning",
+     "strong": true,
+     "link": false,
+     "syl": "burn"
+    },
+    {
+     "w": "sun.",
+     "strong": true,
+     "link": false,
+     "syl": "sun"
+    }
+   ],
+   "tip": "hours의 h는 묵음이라 for hours가 '포아워즈'처럼 이어져요.",
+   "start": 10981.6,
+   "end": 10985.85
+  },
+  {
+   "text": "Eventually, a tow truck arrived and took our car to the nearest town.",
+   "chunks": [
+    {
+     "en": "Eventually,",
+     "ko": "결국"
+    },
+    {
+     "en": "a tow truck arrived",
+     "ko": "견인차가 도착해서"
+    },
+    {
+     "en": "and took our car",
+     "ko": "우리 차를 데려갔어요"
+    },
+    {
+     "en": "to the nearest town.",
+     "ko": "가장 가까운 마을로"
+    }
+   ],
+   "words": [
+    {
+     "w": "Eventually,",
+     "strong": true,
+     "link": false,
+     "syl": "ven"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tow",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "truck",
+     "strong": true,
+     "link": true,
+     "syl": "truck"
+    },
+    {
+     "w": "arrived",
+     "strong": true,
+     "link": true,
+     "syl": "rived"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "our",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "car",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "nearest",
+     "strong": true,
+     "link": false,
+     "syl": "near"
+    },
+    {
+     "w": "town.",
+     "strong": true,
+     "link": false,
+     "syl": "town"
+    }
+   ],
+   "tip": "truck arrived는 '트럭어라이브드'처럼 k와 a가 이어져요.",
+   "start": 11005.76,
+   "end": 11010.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did the car break down?",
+   "options": [
+    "In the middle of nowhere",
+    "In a parking lot",
+    "On a bridge"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: broke down in the middle of nowhere"
+  },
+  {
+   "q": "How long did they wait by the road?",
+   "options": [
+    "A few minutes",
+    "For hours",
+    "All night"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: waited by the road for hours"
+  },
+  {
+   "q": "Where did the tow truck take the car?",
+   "options": [
+    "To the speaker's home",
+    "To the airport",
+    "To the nearest town"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: took our car to the nearest town"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "break down",
+   "ko": "고장 나다",
+   "note": "차가 고장 났을 때 가장 흔히 써요."
+  },
+  {
+   "term": "in the middle of nowhere",
+   "ko": "외딴 곳에",
+   "note": "아주 한적한 장소를 말해요."
+  },
+  {
+   "term": "tow truck",
+   "ko": "견인차",
+   "note": "차를 끌고 가는 트럭이에요."
+  },
+  {
+   "term": "eventually",
+   "ko": "결국, 마침내",
+   "note": "오래 걸린 뒤의 결과를 말할 때 써요."
+  }
+ ]
+}

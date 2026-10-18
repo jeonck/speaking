@@ -1,0 +1,316 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 11255.84,
+  "end": 11304.81,
+  "clips": [
+   [
+    11255.84,
+    11260.01
+   ],
+   [
+    11279.44,
+    11282.57
+   ],
+   [
+    11300.4,
+    11304.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I wish I had taken more photos, but the memories are enough.",
+   "chunks": [
+    {
+     "en": "I wish I had taken more photos,",
+     "ko": "사진을 더 찍었더라면 좋았겠지만"
+    },
+    {
+     "en": "but the memories are enough.",
+     "ko": "추억만으로 충분해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wish",
+     "strong": true,
+     "link": true,
+     "syl": "wish"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taken",
+     "strong": true,
+     "link": false,
+     "syl": "tak"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "photos,",
+     "strong": true,
+     "link": false,
+     "syl": "pho"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "memories",
+     "strong": true,
+     "link": true,
+     "syl": "mem"
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "enough.",
+     "strong": true,
+     "link": false,
+     "syl": "nough"
+    }
+   ],
+   "tip": "I wish I had taken은 과거에 대한 아쉬움을 나타내요. wish를 강하게 읽어요.",
+   "start": 11255.84,
+   "end": 11260.01
+  },
+  {
+   "text": "That trip changed the way I see the world.",
+   "chunks": [
+    {
+     "en": "That trip changed",
+     "ko": "그 여행은 바꿔 놓았어요"
+    },
+    {
+     "en": "the way I see the world.",
+     "ko": "내가 세상을 보는 방식을"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": false,
+     "syl": "chang"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "way",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "see",
+     "strong": true,
+     "link": false,
+     "syl": "see"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "world.",
+     "strong": true,
+     "link": false,
+     "syl": "world"
+    }
+   ],
+   "tip": "world는 '월드'가 아니라 '워얼ㄷ'처럼 l이 짧게 들려요.",
+   "start": 11279.44,
+   "end": 11282.57
+  },
+  {
+   "text": "I learned that things don't always go as planned and that's okay.",
+   "chunks": [
+    {
+     "en": "I learned that things",
+     "ko": "나는 일들이 ~라는 걸 배웠어요"
+    },
+    {
+     "en": "don't always go as planned",
+     "ko": "항상 계획대로 되지는 않는다는"
+    },
+    {
+     "en": "and that's okay.",
+     "ko": "그리고 그래도 괜찮다는 걸"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "learned",
+     "strong": true,
+     "link": false,
+     "syl": "learn"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "things",
+     "strong": true,
+     "link": false,
+     "syl": "things"
+    },
+    {
+     "w": "don't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "planned",
+     "strong": true,
+     "link": true,
+     "syl": "plan"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "that's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "okay.",
+     "strong": true,
+     "link": false,
+     "syl": "kay"
+    }
+   ],
+   "tip": "go as planned는 '계획대로 되다'예요. go as가 '고우애즈'로 이어져요.",
+   "start": 11300.4,
+   "end": 11304.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker wish about the trip?",
+   "options": [
+    "Having taken more photos",
+    "Having stayed longer",
+    "Having gone alone"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I wish I had taken more photos"
+  },
+  {
+   "q": "What did the trip change?",
+   "options": [
+    "The speaker's job",
+    "The speaker's hometown",
+    "The way the speaker sees the world"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: changed the way I see the world"
+  },
+  {
+   "q": "What did the speaker learn?",
+   "options": [
+    "Things don't always go as planned",
+    "Plans are useless",
+    "Photos matter most"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: things don't always go as planned and that's okay"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "I wish I had taken",
+   "ko": "~했더라면 좋았을 텐데",
+   "note": "과거에 대한 아쉬움을 말해요."
+  },
+  {
+   "term": "the way I see the world",
+   "ko": "내가 세상을 보는 방식",
+   "note": "the way + 주어 + 동사 구조예요."
+  },
+  {
+   "term": "go as planned",
+   "ko": "계획대로 되다",
+   "note": "계획이 틀어질 때는 부정으로 써요."
+  },
+  {
+   "term": "that's okay",
+   "ko": "그래도 괜찮아",
+   "note": "받아들이는 느낌의 말이에요."
+  }
+ ]
+}

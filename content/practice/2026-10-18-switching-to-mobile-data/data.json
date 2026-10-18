@@ -1,0 +1,321 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17225.04,
+  "end": 17274.57,
+  "clips": [
+   [
+    17225.04,
+    17229.29
+   ],
+   [
+    17248.88,
+    17252.41
+   ],
+   [
+    17270.56,
+    17274.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Then I checked my phone and noticed that it was offline, too.",
+   "chunks": [
+    {
+     "en": "Then I checked my phone",
+     "ko": "그다음 내 휴대폰을 확인하고"
+    },
+    {
+     "en": "and noticed that it was offline, too.",
+     "ko": "그것도 오프라인인 걸 알아챘다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "checked",
+     "strong": true,
+     "link": false,
+     "syl": "checked"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "noticed",
+     "strong": true,
+     "link": false,
+     "syl": "no"
+    },
+    {
+     "w": "that",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "offline,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "too.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "noticed that it은 '노티스트댓잇'처럼 이어 읽어요.",
+   "start": 17225.04,
+   "end": 17229.29
+  },
+  {
+   "text": "That made me think the problem was with the router.",
+   "chunks": [
+    {
+     "en": "That made me think",
+     "ko": "그래서 생각하게 됐다"
+    },
+    {
+     "en": "the problem was with the router.",
+     "ko": "문제가 공유기에 있다고"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": true,
+     "link": false,
+     "syl": "made"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": true,
+     "link": false,
+     "syl": "think"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "problem",
+     "strong": true,
+     "link": false,
+     "syl": "prob"
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "router.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "router는 미국식으로 '라우러'처럼 읽고 첫 음절에 강세를 둬요.",
+   "start": 17248.88,
+   "end": 17252.41
+  },
+  {
+   "text": "I switched to mobile data and joined the class on my phone.",
+   "chunks": [
+    {
+     "en": "I switched to mobile data",
+     "ko": "모바일 데이터로 바꾸고"
+    },
+    {
+     "en": "and joined the class",
+     "ko": "수업에 참여했다"
+    },
+    {
+     "en": "on my phone.",
+     "ko": "내 휴대폰으로"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "switched",
+     "strong": true,
+     "link": false,
+     "syl": "switched"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mobile",
+     "strong": true,
+     "link": false,
+     "syl": "mo"
+    },
+    {
+     "w": "data",
+     "strong": true,
+     "link": false,
+     "syl": "da"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "joined",
+     "strong": true,
+     "link": false,
+     "syl": "joined"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "class",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "mobile data는 '모블 데이러'처럼 data의 t를 가볍게 읽어요.",
+   "start": 17270.56,
+   "end": 17274.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker notice about the phone?",
+   "options": [
+    "It was out of battery",
+    "It was offline too",
+    "It was very slow"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: noticed that it was offline, too"
+  },
+  {
+   "q": "What did the speaker think was the problem?",
+   "options": [
+    "The router",
+    "The laptop battery",
+    "The class website"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: the problem was with the router"
+  },
+  {
+   "q": "How did the speaker join the class?",
+   "options": [
+    "From a friend's laptop",
+    "From a nearby cafe",
+    "Using mobile data on the phone"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: switched to mobile data and joined the class on my phone"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "offline",
+   "ko": "오프라인인",
+   "note": "online의 반대말이에요."
+  },
+  {
+   "term": "the problem was with",
+   "ko": "문제가 ~에 있었다",
+   "note": "원인을 짚을 때 쓰는 표현이에요."
+  },
+  {
+   "term": "router",
+   "ko": "공유기, 라우터",
+   "note": "Wi-Fi 공유기를 말해요."
+  },
+  {
+   "term": "mobile data",
+   "ko": "모바일 데이터",
+   "note": "데이터 요금제나 통신망을 뜻해요."
+  },
+  {
+   "term": "join the class",
+   "ko": "수업에 참여하다",
+   "note": "온라인 수업에서도 join을 써요."
+  }
+ ]
+}

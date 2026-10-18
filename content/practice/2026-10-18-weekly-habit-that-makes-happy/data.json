@@ -1,0 +1,276 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22462.48,
+  "end": 22503.85,
+  "clips": [
+   [
+    22462.48,
+    22465.77
+   ],
+   [
+    22482.56,
+    22485.85
+   ],
+   [
+    22501.04,
+    22503.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "It depends, but usually I go once a week.",
+   "chunks": [
+    {
+     "en": "It depends,",
+     "ko": "상황에 따라 달라요,"
+    },
+    {
+     "en": "but usually I go",
+     "ko": "하지만 보통 저는 가요"
+    },
+    {
+     "en": "once a week.",
+     "ko": "일주일에 한 번"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "depends,",
+     "strong": true,
+     "link": false,
+     "syl": "pends"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": true,
+     "link": false,
+     "syl": "u"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "once",
+     "strong": true,
+     "link": true,
+     "syl": "once"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "week.",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    }
+   ],
+   "tip": "once a week는 '원서어위크'처럼 이어서 읽어요.",
+   "start": 22462.48,
+   "end": 22465.77
+  },
+  {
+   "text": "To put it simply, it makes me happy.",
+   "chunks": [
+    {
+     "en": "To put it simply,",
+     "ko": "간단히 말하면,"
+    },
+    {
+     "en": "it makes me",
+     "ko": "그건 저를 만들어요"
+    },
+    {
+     "en": "happy.",
+     "ko": "행복하게"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "put",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "simply,",
+     "strong": true,
+     "link": false,
+     "syl": "sim"
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "makes",
+     "strong": true,
+     "link": false,
+     "syl": "makes"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "happy.",
+     "strong": true,
+     "link": false,
+     "syl": "hap"
+    }
+   ],
+   "tip": "put it은 '푸릿'처럼 이어서 읽어요.",
+   "start": 22482.56,
+   "end": 22485.85
+  },
+  {
+   "text": "Let me just add one more thing.",
+   "chunks": [
+    {
+     "en": "Let me just add",
+     "ko": "그냥 덧붙일게요"
+    },
+    {
+     "en": "one more thing.",
+     "ko": "한 가지 더"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "add",
+     "strong": true,
+     "link": true,
+     "syl": "add"
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": true,
+     "link": false,
+     "syl": "more"
+    },
+    {
+     "w": "thing.",
+     "strong": true,
+     "link": false,
+     "syl": "thing"
+    }
+   ],
+   "tip": "just add one은 '저스태드원'처럼 이어서 읽어요.",
+   "start": 22501.04,
+   "end": 22503.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "How often does the speaker go?",
+   "options": [
+    "Every day",
+    "Once a week",
+    "Once a month"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I go once a week"
+  },
+  {
+   "q": "How does it make the speaker feel?",
+   "options": [
+    "Happy",
+    "Tired",
+    "Nervous"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: it makes me happy"
+  },
+  {
+   "q": "What does the speaker want to do?",
+   "options": [
+    "End the talk",
+    "Ask a question",
+    "Add one more thing"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: Let me just add one more thing"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "It depends",
+   "ko": "경우에 따라 달라요",
+   "note": "확답을 피할 때 써요."
+  },
+  {
+   "term": "once a week",
+   "ko": "일주일에 한 번",
+   "note": "횟수 표현이에요."
+  },
+  {
+   "term": "To put it simply",
+   "ko": "간단히 말하면",
+   "note": "요점만 말할 때 써요."
+  },
+  {
+   "term": "Let me just add",
+   "ko": "한마디만 덧붙일게요",
+   "note": "말을 보탤 때 써요."
+  },
+  {
+   "term": "one more thing",
+   "ko": "한 가지 더",
+   "note": "마지막 한마디 앞에 써요."
+  }
+ ]
+}

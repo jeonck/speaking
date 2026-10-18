@@ -1,0 +1,229 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20868.32,
+  "end": 20899.05,
+  "clips": [
+   [
+    20868.32,
+    20873.13
+   ],
+   [
+    20894.4,
+    20899.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Until then, I'll probably take a taxi when I miss the last bus.",
+   "chunks": [
+    {
+     "en": "Until then,",
+     "ko": "그때까지는"
+    },
+    {
+     "en": "I'll probably take a taxi",
+     "ko": "아마 택시를 탈 것이다"
+    },
+    {
+     "en": "when I miss the last bus.",
+     "ko": "막차를 놓칠 때"
+    }
+   ],
+   "words": [
+    {
+     "w": "Until",
+     "strong": true,
+     "link": false,
+     "syl": "til"
+    },
+    {
+     "w": "then,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "probably",
+     "strong": true,
+     "link": true,
+     "syl": "prob"
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taxi",
+     "strong": true,
+     "link": false,
+     "syl": "tax"
+    },
+    {
+     "w": "when",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miss",
+     "strong": true,
+     "link": false,
+     "syl": "miss"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "last",
+     "strong": true,
+     "link": false,
+     "syl": "last"
+    },
+    {
+     "w": "bus.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "I'll probably는 '아일프롸블리'로 중간 음절을 줄여 읽어요. last bus는 t가 약해져 '라스버스'처럼 들려요.",
+   "start": 20868.32,
+   "end": 20873.13
+  },
+  {
+   "text": "Overall, public transportation fits my daily life pretty well.",
+   "chunks": [
+    {
+     "en": "Overall,",
+     "ko": "전체적으로"
+    },
+    {
+     "en": "public transportation fits my daily life",
+     "ko": "대중교통은 나의 일상에 맞는다"
+    },
+    {
+     "en": "pretty well.",
+     "ko": "꽤 잘"
+    }
+   ],
+   "words": [
+    {
+     "w": "Overall,",
+     "strong": true,
+     "link": false,
+     "syl": "ver"
+    },
+    {
+     "w": "public",
+     "strong": true,
+     "link": false,
+     "syl": "pub"
+    },
+    {
+     "w": "transportation",
+     "strong": true,
+     "link": false,
+     "syl": "ta"
+    },
+    {
+     "w": "fits",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "daily",
+     "strong": true,
+     "link": false,
+     "syl": "dai"
+    },
+    {
+     "w": "life",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "pretty",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "well.",
+     "strong": true,
+     "link": false,
+     "syl": "well"
+    }
+   ],
+   "tip": "transportation은 'ta'에 강세가 와요: trans-por-TA-tion. pretty well은 '프리티웰'로 이어요.",
+   "start": 20894.4,
+   "end": 20899.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "What will the speaker probably do after missing the last bus?",
+   "options": [
+    "Walk home",
+    "Take a taxi",
+    "Call a friend"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I'll probably take a taxi when I miss the last bus"
+  },
+  {
+   "q": "What is the speaker's overall opinion?",
+   "options": [
+    "Public transportation is too slow",
+    "Public transportation is too crowded",
+    "Public transportation fits their daily life well"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: public transportation fits my daily life pretty well"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "until then",
+   "ko": "그때까지는",
+   "note": "앞에서 말한 상황이 바뀌기 전까지를 뜻해요."
+  },
+  {
+   "term": "miss the last bus",
+   "ko": "막차를 놓치다",
+   "note": "miss는 '놓치다'예요."
+  },
+  {
+   "term": "overall",
+   "ko": "전체적으로",
+   "note": "의견을 정리할 때 문장 앞에 써요."
+  },
+  {
+   "term": "fit my daily life",
+   "ko": "내 일상에 맞다",
+   "note": "fit은 '맞다, 어울리다'예요."
+  }
+ ]
+}

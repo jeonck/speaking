@@ -1,0 +1,292 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 21294.96,
+  "end": 21340.81,
+  "clips": [
+   [
+    21294.96,
+    21298.01
+   ],
+   [
+    21314.48,
+    21318.42
+   ],
+   [
+    21336.96,
+    21340.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Let me describe what the place looks like.",
+   "chunks": [
+    {
+     "en": "Let me describe",
+     "ko": "설명해 볼게요"
+    },
+    {
+     "en": "what the place looks like.",
+     "ko": "그곳이 어떻게 생겼는지"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "describe",
+     "strong": true,
+     "link": false,
+     "syl": "scribe"
+    },
+    {
+     "w": "what",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": false,
+     "syl": "place"
+    },
+    {
+     "w": "looks",
+     "strong": true,
+     "link": false,
+     "syl": "looks"
+    },
+    {
+     "w": "like.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "looks like는 '룩스라이크'로 또렷하게 읽어요.",
+   "start": 21294.96,
+   "end": 21298.01
+  },
+  {
+   "text": "Picture a small house with a red roof and a garden.",
+   "chunks": [
+    {
+     "en": "Picture a small house",
+     "ko": "작은 집을 떠올려 보세요"
+    },
+    {
+     "en": "with a red roof",
+     "ko": "빨간 지붕이 있는"
+    },
+    {
+     "en": "and a garden.",
+     "ko": "그리고 정원이 있는"
+    }
+   ],
+   "words": [
+    {
+     "w": "Picture",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false,
+     "syl": "small"
+    },
+    {
+     "w": "house",
+     "strong": true,
+     "link": false,
+     "syl": "house"
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "red",
+     "strong": true,
+     "link": false,
+     "syl": "red"
+    },
+    {
+     "w": "roof",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "garden.",
+     "strong": true,
+     "link": false,
+     "syl": "gar"
+    }
+   ],
+   "tip": "roof and는 '루펜'처럼 이어 읽어요.",
+   "start": 21314.48,
+   "end": 21318.42
+  },
+  {
+   "text": "In other words, it's the perfect place to unwind.",
+   "chunks": [
+    {
+     "en": "In other words,",
+     "ko": "다시 말해"
+    },
+    {
+     "en": "it's the perfect place",
+     "ko": "완벽한 곳이에요"
+    },
+    {
+     "en": "to unwind.",
+     "ko": "긴장을 풀기에"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "other",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "words,",
+     "strong": true,
+     "link": false,
+     "syl": "words"
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "perfect",
+     "strong": true,
+     "link": false,
+     "syl": "per"
+    },
+    {
+     "w": "place",
+     "strong": true,
+     "link": false,
+     "syl": "place"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "unwind.",
+     "strong": true,
+     "link": false,
+     "syl": "wind"
+    }
+   ],
+   "tip": "in other는 '이나더'처럼 이어 읽어요.",
+   "start": 21336.96,
+   "end": 21340.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What color is the roof?",
+   "options": [
+    "Blue",
+    "Green",
+    "Red"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: a red roof"
+  },
+  {
+   "q": "What does the house have besides a roof?",
+   "options": [
+    "A garden",
+    "A pool",
+    "A garage"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: a small house with a red roof and a garden"
+  },
+  {
+   "q": "What is the place perfect for?",
+   "options": [
+    "Working late",
+    "Unwinding",
+    "Studying"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: the perfect place to unwind"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "what ... looks like",
+   "ko": "~이 어떻게 생겼는지",
+   "note": "외관을 묻거나 말할 때 써요."
+  },
+  {
+   "term": "picture",
+   "ko": "떠올려 보다",
+   "note": "상대에게 상상하게 할 때 써요."
+  },
+  {
+   "term": "in other words",
+   "ko": "다시 말해",
+   "note": "요약해서 말할 때 써요."
+  },
+  {
+   "term": "unwind",
+   "ko": "긴장을 풀다",
+   "note": "쉬는 장소를 말할 때 써요."
+  }
+ ]
+}

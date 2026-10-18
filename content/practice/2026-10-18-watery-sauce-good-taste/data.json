@@ -1,0 +1,322 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 17002.48,
+  "end": 17055.61,
+  "clips": [
+   [
+    17002.48,
+    17006.49
+   ],
+   [
+    17025.44,
+    17030.01
+   ],
+   [
+    17050.88,
+    17055.61
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "We looked through my fridge and found some tomatoes and garlic.",
+   "chunks": [
+    {
+     "en": "We looked through my fridge",
+     "ko": "우리는 내 냉장고를 훑어보고"
+    },
+    {
+     "en": "and found some tomatoes and garlic.",
+     "ko": "토마토와 마늘을 찾았다"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "looked",
+     "strong": true,
+     "link": false,
+     "syl": "looked"
+    },
+    {
+     "w": "through",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fridge",
+     "strong": true,
+     "link": false,
+     "syl": "fridge"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tomatoes",
+     "strong": true,
+     "link": true,
+     "syl": "ma"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "garlic.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "tomatoes는 둘째 음절 'ma'에 강세를 둬요. '터메이로우즈'처럼 읽어요.",
+   "start": 17002.48,
+   "end": 17006.49
+  },
+  {
+   "text": "None of us knew the recipe, so we watched a short cooking video.",
+   "chunks": [
+    {
+     "en": "None of us knew the recipe,",
+     "ko": "우리 중 아무도 레시피를 몰라서"
+    },
+    {
+     "en": "so we watched a short cooking video.",
+     "ko": "짧은 요리 영상을 봤다"
+    }
+   ],
+   "words": [
+    {
+     "w": "None",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "knew",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "recipe,",
+     "strong": true,
+     "link": false,
+     "syl": "rec"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "we",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "watched",
+     "strong": true,
+     "link": true,
+     "syl": "watched"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "short",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "cooking",
+     "strong": true,
+     "link": false,
+     "syl": "cook"
+    },
+    {
+     "w": "video.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "None of us는 '넌어버스'처럼 이어 읽어요.",
+   "start": 17025.44,
+   "end": 17030.01
+  },
+  {
+   "text": "The sauce turned out a little watery, but it tasted surprisingly good.",
+   "chunks": [
+    {
+     "en": "The sauce turned out a little watery,",
+     "ko": "소스는 약간 묽게 나왔지만"
+    },
+    {
+     "en": "but it tasted surprisingly good.",
+     "ko": "놀랄 만큼 맛있었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sauce",
+     "strong": true,
+     "link": false,
+     "syl": "sauce"
+    },
+    {
+     "w": "turned",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "watery,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tasted",
+     "strong": true,
+     "link": false,
+     "syl": "tast"
+    },
+    {
+     "w": "surprisingly",
+     "strong": true,
+     "link": false,
+     "syl": "pris"
+    },
+    {
+     "w": "good.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "surprisingly는 pris에 강세를 둬요.",
+   "start": 17050.88,
+   "end": 17055.61
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the friends find in the fridge?",
+   "options": [
+    "Cheese and onions",
+    "Tomatoes and garlic",
+    "Pasta and butter"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: found some tomatoes and garlic"
+  },
+  {
+   "q": "How did they learn the recipe?",
+   "options": [
+    "They watched a cooking video",
+    "They called a relative",
+    "They read a cookbook"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: we watched a short cooking video"
+  },
+  {
+   "q": "How did the sauce taste?",
+   "options": [
+    "Too salty",
+    "Bland",
+    "Surprisingly good"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: it tasted surprisingly good"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "look through",
+   "ko": "샅샅이 살펴보다",
+   "note": "서랍이나 냉장고 안을 뒤질 때 써요."
+  },
+  {
+   "term": "None of us",
+   "ko": "우리 중 누구도 ~ 않다",
+   "note": "뒤에 단수 동사를 쓰는 경우가 많아요."
+  },
+  {
+   "term": "turn out",
+   "ko": "~하게 되다",
+   "note": "결과가 어떻게 나왔는지 말해요."
+  },
+  {
+   "term": "watery",
+   "ko": "묽은, 물기 많은",
+   "note": "소스나 수프가 묽을 때 써요."
+  }
+ ]
+}

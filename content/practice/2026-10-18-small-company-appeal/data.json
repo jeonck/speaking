@@ -1,0 +1,329 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19054.56,
+  "end": 19104.09,
+  "clips": [
+   [
+    19054.56,
+    19058.65
+   ],
+   [
+    19077.6,
+    19080.65
+   ],
+   [
+    19099.04,
+    19104.09
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "In a small team, your ideas are more likely to be heard.",
+   "chunks": [
+    {
+     "en": "In a small team,",
+     "ko": "작은 팀에서는"
+    },
+    {
+     "en": "your ideas",
+     "ko": "당신의 아이디어가"
+    },
+    {
+     "en": "are more likely to be heard.",
+     "ko": "들릴 가능성이 더 높아요"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "syl": "small",
+     "link": false
+    },
+    {
+     "w": "team,",
+     "strong": true,
+     "syl": "team",
+     "link": false
+    },
+    {
+     "w": "your",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ideas",
+     "strong": true,
+     "syl": "dea",
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "likely",
+     "strong": true,
+     "syl": "like",
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "heard.",
+     "strong": true,
+     "syl": "heard",
+     "link": false
+    }
+   ],
+   "tip": "your ideas are는 '유어아이디어사'처럼 이어서 읽어요.",
+   "start": 19054.56,
+   "end": 19058.65
+  },
+  {
+   "text": "You also get to try different kinds of work.",
+   "chunks": [
+    {
+     "en": "You also get to try",
+     "ko": "~해볼 수 있어요"
+    },
+    {
+     "en": "different kinds of work.",
+     "ko": "다양한 종류의 일을"
+    }
+   ],
+   "words": [
+    {
+     "w": "You",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "get",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "syl": "try",
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "syl": "diff",
+     "link": false
+    },
+    {
+     "w": "kinds",
+     "strong": true,
+     "syl": "kinds",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work.",
+     "strong": true,
+     "syl": "work",
+     "link": false
+    }
+   ],
+   "tip": "kinds of는 '카인즈오브'를 이어 '카인조브'처럼 읽어요.",
+   "start": 19077.6,
+   "end": 19080.65
+  },
+  {
+   "text": "Of course, some larger companies may offer better pay and more stability.",
+   "chunks": [
+    {
+     "en": "Of course,",
+     "ko": "물론"
+    },
+    {
+     "en": "some larger companies",
+     "ko": "일부 큰 회사들은"
+    },
+    {
+     "en": "may offer better pay",
+     "ko": "더 좋은 급여를 제공할 수도 있고"
+    },
+    {
+     "en": "and more stability.",
+     "ko": "더 많은 안정성도"
+    }
+   ],
+   "words": [
+    {
+     "w": "Of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "course,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "larger",
+     "strong": true,
+     "syl": "lar",
+     "link": false
+    },
+    {
+     "w": "companies",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "may",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "offer",
+     "strong": true,
+     "syl": "of",
+     "link": false
+    },
+    {
+     "w": "better",
+     "strong": true,
+     "syl": "bet",
+     "link": false
+    },
+    {
+     "w": "pay",
+     "strong": true,
+     "syl": "pay",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stability.",
+     "strong": true,
+     "syl": "bil",
+     "link": false
+    }
+   ],
+   "tip": "stability는 'bil'에 강세를 둬요: 스터빌러티.",
+   "start": 19099.04,
+   "end": 19104.09
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is more likely in a small team?",
+   "options": [
+    "You work fewer hours",
+    "You get more vacation",
+    "Your ideas are more likely to be heard"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: your ideas are more likely to be heard"
+  },
+  {
+   "q": "What else can you do in a small team?",
+   "options": [
+    "Skip meetings",
+    "Try different kinds of work",
+    "Choose your boss"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: try different kinds of work"
+  },
+  {
+   "q": "What may some larger companies offer?",
+   "options": [
+    "Better pay and more stability",
+    "More fun events",
+    "Shorter commutes"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: offer better pay and more stability"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "more likely to",
+   "ko": "~할 가능성이 더 높은",
+   "note": "likely to + 동사원형이에요."
+  },
+  {
+   "term": "be heard",
+   "ko": "의견이 받아들여지다",
+   "note": "hear의 수동태예요."
+  },
+  {
+   "term": "kinds of",
+   "ko": "~의 종류",
+   "note": "different kinds of work처럼 써요."
+  },
+  {
+   "term": "stability",
+   "ko": "안정성",
+   "note": "job stability처럼 써요."
+  },
+  {
+   "term": "offer",
+   "ko": "제공하다",
+   "note": "offer better pay처럼 써요."
+  }
+ ]
+}

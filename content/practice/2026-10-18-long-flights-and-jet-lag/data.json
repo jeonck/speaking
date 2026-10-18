@@ -1,0 +1,284 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8410.08,
+  "end": 8452.97,
+  "clips": [
+   [
+    8410.08,
+    8413.77
+   ],
+   [
+    8430.8,
+    8433.69
+   ],
+   [
+    8449.2,
+    8452.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The worst part of traveling is the long flights.",
+   "chunks": [
+    {
+     "en": "The worst part of traveling",
+     "ko": "여행에서 가장 안 좋은 부분은"
+    },
+    {
+     "en": "is the long flights.",
+     "ko": "긴 비행이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worst",
+     "strong": true,
+     "link": false,
+     "syl": "worst"
+    },
+    {
+     "w": "part",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traveling",
+     "strong": true,
+     "link": true,
+     "syl": "trav"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "long",
+     "strong": true,
+     "link": false,
+     "syl": "long"
+    },
+    {
+     "w": "flights.",
+     "strong": true,
+     "link": false,
+     "syl": "flight"
+    }
+   ],
+   "tip": "worst part는 t가 약해져서 '워스트파트' 사이가 붙어요. part of는 '파롭'처럼 이어요.",
+   "start": 8410.08,
+   "end": 8413.77
+  },
+  {
+   "text": "I can never sleep well on a plane.",
+   "chunks": [
+    {
+     "en": "I can never sleep well",
+     "ko": "저는 절대 잘 못 자요"
+    },
+    {
+     "en": "on a plane.",
+     "ko": "비행기에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "nev"
+    },
+    {
+     "w": "sleep",
+     "strong": true,
+     "link": false,
+     "syl": "sleep"
+    },
+    {
+     "w": "well",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plane.",
+     "strong": true,
+     "link": false,
+     "syl": "plane"
+    }
+   ],
+   "tip": "can never에서 can은 약하게, never에 강세를 줘요. on a는 '오너'처럼 이어요.",
+   "start": 8430.8,
+   "end": 8433.69
+  },
+  {
+   "text": "Jet lag usually hits me hard for a few days.",
+   "chunks": [
+    {
+     "en": "Jet lag usually hits me hard",
+     "ko": "시차 피로가 보통 저를 심하게 덮쳐요"
+    },
+    {
+     "en": "for a few days.",
+     "ko": "며칠 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "Jet",
+     "strong": true,
+     "link": false,
+     "syl": "Jet"
+    },
+    {
+     "w": "lag",
+     "strong": true,
+     "link": false,
+     "syl": "lag"
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "hits",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hard",
+     "strong": true,
+     "link": false,
+     "syl": "hard"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days.",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    }
+   ],
+   "tip": "lag usually는 '래그유쥬얼리'처럼 이어 읽어요. hard에 힘을 줘요.",
+   "start": 8449.2,
+   "end": 8452.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say is the worst part of traveling?",
+   "options": [
+    "Packing bags",
+    "Bad weather",
+    "The long flights"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: The worst part of traveling is the long flights."
+  },
+  {
+   "q": "What can the speaker never do well on a plane?",
+   "options": [
+    "Sleep",
+    "Read",
+    "Eat"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I can never sleep well on a plane."
+  },
+  {
+   "q": "How long does jet lag usually hit the speaker hard?",
+   "options": [
+    "A few hours",
+    "A few days",
+    "A few weeks"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: hits me hard for a few days."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "the worst part",
+   "ko": "가장 안 좋은 부분",
+   "note": "worst는 bad의 최상급이라 the를 꼭 붙여요."
+  },
+  {
+   "term": "jet lag",
+   "ko": "시차 피로",
+   "note": "여행 얘기에서 꼭 나오는 표현이에요."
+  },
+  {
+   "term": "hit hard",
+   "ko": "심하게 영향을 주다",
+   "note": "피로나 감정이 강하게 올 때 써요."
+  },
+  {
+   "term": "a few days",
+   "ko": "며칠",
+   "note": "a few는 '몇몇', few는 '거의 없는'이에요."
+  },
+  {
+   "term": "sleep well",
+   "ko": "잘 자다",
+   "note": "well은 부사라 sleep 뒤에 와요."
+  }
+ ]
+}

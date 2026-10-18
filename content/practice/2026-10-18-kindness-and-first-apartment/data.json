@@ -1,0 +1,330 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10285.2,
+  "end": 10343.21,
+  "clips": [
+   [
+    10285.2,
+    10289.93
+   ],
+   [
+    10312.88,
+    10317.29
+   ],
+   [
+    10338.96,
+    10343.21
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "That experience showed me how much small acts of kindness matter.",
+   "chunks": [
+    {
+     "en": "That experience showed me",
+     "ko": "그 경험은 내게 보여줬다"
+    },
+    {
+     "en": "how much small acts of kindness matter.",
+     "ko": "작은 친절이 얼마나 중요한지"
+    }
+   ],
+   "words": [
+    {
+     "w": "That",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "experience",
+     "strong": true,
+     "syl": "peri",
+     "link": false
+    },
+    {
+     "w": "showed",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "syl": "small",
+     "link": false
+    },
+    {
+     "w": "acts",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "kindness",
+     "strong": true,
+     "syl": "kind",
+     "link": false
+    },
+    {
+     "w": "matter.",
+     "strong": true,
+     "syl": "mat",
+     "link": false
+    }
+   ],
+   "tip": "acts of는 '액초브'처럼 이어 읽고 kindness에 강세를 줘요.",
+   "start": 10285.2,
+   "end": 10289.93
+  },
+  {
+   "text": "Moving into my first place on my own was another big moment.",
+   "chunks": [
+    {
+     "en": "Moving into my first place",
+     "ko": "내 첫 집으로 이사하는 것"
+    },
+    {
+     "en": "on my own",
+     "ko": "혼자 힘으로"
+    },
+    {
+     "en": "was another big moment.",
+     "ko": "또 하나의 큰 순간이었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Moving",
+     "strong": true,
+     "syl": "mov",
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "syl": "first",
+     "link": false
+    },
+    {
+     "w": "place",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "own",
+     "strong": true,
+     "syl": "own",
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "another",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "big",
+     "strong": true,
+     "syl": "big",
+     "link": false
+    },
+    {
+     "w": "moment.",
+     "strong": true,
+     "syl": "mo",
+     "link": false
+    }
+   ],
+   "tip": "Moving into는 '무빙인투'처럼 이어 읽어요.",
+   "start": 10312.88,
+   "end": 10317.29
+  },
+  {
+   "text": "I carried every box up five flights of stairs by myself.",
+   "chunks": [
+    {
+     "en": "I carried every box",
+     "ko": "나는 모든 상자를 날랐다"
+    },
+    {
+     "en": "up five flights of stairs",
+     "ko": "다섯 층 계단을 올라"
+    },
+    {
+     "en": "by myself.",
+     "ko": "혼자서"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "carried",
+     "strong": true,
+     "syl": "car",
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "box",
+     "strong": true,
+     "syl": "box",
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "five",
+     "strong": true,
+     "syl": "five",
+     "link": false
+    },
+    {
+     "w": "flights",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "stairs",
+     "strong": true,
+     "syl": "stairs",
+     "link": false
+    },
+    {
+     "w": "by",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "syl": "self",
+     "link": false
+    }
+   ],
+   "tip": "box up은 '박섭', flights of는 '플라잇초브'처럼 이어요.",
+   "start": 10338.96,
+   "end": 10343.21
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the experience teach the speaker?",
+   "options": [
+    "Moving is easy",
+    "Dogs are shy",
+    "Small acts of kindness matter"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: small acts of kindness matter"
+  },
+  {
+   "q": "What was another big moment for the speaker?",
+   "options": [
+    "Moving into a first place",
+    "Buying a car",
+    "Starting a new job"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Moving into my first place on my own"
+  },
+  {
+   "q": "How many flights of stairs did the speaker climb with the boxes?",
+   "options": [
+    "Three",
+    "Five",
+    "Ten"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: up five flights of stairs"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "acts of kindness",
+   "ko": "친절한 행동들",
+   "note": "kindness는 셀 수 없지만 act는 셀 수 있어요."
+  },
+  {
+   "term": "matter",
+   "ko": "중요하다",
+   "note": "동사로 쓰이면 '중요하다'예요."
+  },
+  {
+   "term": "on my own",
+   "ko": "혼자 힘으로",
+   "note": "by myself와 비슷하지만 독립의 느낌이 강해요."
+  },
+  {
+   "term": "flights of stairs",
+   "ko": "(층 사이의) 계단",
+   "note": "한 층 분의 계단을 a flight라고 해요."
+  },
+  {
+   "term": "by myself",
+   "ko": "혼자서",
+   "note": "다른 사람 도움 없이라는 뜻이에요."
+  }
+ ]
+}

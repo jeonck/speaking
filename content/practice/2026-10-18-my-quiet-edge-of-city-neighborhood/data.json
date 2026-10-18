@@ -1,0 +1,308 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3109.92,
+  "end": 3158.25,
+  "clips": [
+   [
+    3109.92,
+    3112.81
+   ],
+   [
+    3129.12,
+    3133.61
+   ],
+   [
+    3153.76,
+    3158.25
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Now, let me tell you about my neighborhood.",
+   "chunks": [
+    {
+     "en": "Now,",
+     "ko": "자,"
+    },
+    {
+     "en": "let me tell you",
+     "ko": "말씀드릴게요"
+    },
+    {
+     "en": "about my neighborhood.",
+     "ko": "제 동네에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "let",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": true,
+     "syl": "tell",
+     "link": true
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood.",
+     "strong": true,
+     "syl": "neigh",
+     "link": false
+    }
+   ],
+   "tip": "let me tell you는 '렛미텔류'처럼 이어 읽어요.",
+   "start": 3109.92,
+   "end": 3112.81
+  },
+  {
+   "text": "I live in a quiet residential area on the edge of the city.",
+   "chunks": [
+    {
+     "en": "I live in a quiet residential area",
+     "ko": "저는 조용한 주거 지역에 살아요"
+    },
+    {
+     "en": "on the edge of the city.",
+     "ko": "도시 외곽에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "syl": "live",
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quiet",
+     "strong": true,
+     "syl": "qui",
+     "link": false
+    },
+    {
+     "w": "residential",
+     "strong": true,
+     "syl": "den",
+     "link": false
+    },
+    {
+     "w": "area",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "edge",
+     "strong": true,
+     "syl": "edge",
+     "link": false
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "city.",
+     "strong": true,
+     "syl": "city",
+     "link": false
+    }
+   ],
+   "tip": "residential은 den에 강세, on the edge of는 '오니에지오브'처럼 이어져요.",
+   "start": 3129.12,
+   "end": 3133.61
+  },
+  {
+   "text": "The area is mostly apartment buildings and small shops.",
+   "chunks": [
+    {
+     "en": "The area is mostly",
+     "ko": "이 지역은 대부분"
+    },
+    {
+     "en": "apartment buildings",
+     "ko": "아파트 건물이에요"
+    },
+    {
+     "en": "and small shops.",
+     "ko": "그리고 작은 가게들이에요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "area",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mostly",
+     "strong": true,
+     "syl": "most",
+     "link": false
+    },
+    {
+     "w": "apartment",
+     "strong": true,
+     "syl": "part",
+     "link": false
+    },
+    {
+     "w": "buildings",
+     "strong": true,
+     "syl": "build",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "syl": "small",
+     "link": false
+    },
+    {
+     "w": "shops.",
+     "strong": true,
+     "syl": "shops",
+     "link": false
+    }
+   ],
+   "tip": "mostly는 most에 강세를 둬요. apartment buildings는 part와 build를 강하게 읽어요.",
+   "start": 3153.76,
+   "end": 3158.25
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of area does the speaker live in?",
+   "options": [
+    "A busy business district",
+    "A quiet residential area",
+    "A farm village"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: a quiet residential area"
+  },
+  {
+   "q": "Where in the city is it?",
+   "options": [
+    "In the center",
+    "Near the airport",
+    "On the edge of the city"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: on the edge of the city"
+  },
+  {
+   "q": "What is the area mostly made up of?",
+   "options": [
+    "Apartment buildings and small shops",
+    "Factories and warehouses",
+    "Houses with big gardens"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: mostly apartment buildings and small shops"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "neighborhood",
+   "ko": "동네",
+   "note": "영국식은 neighbourhood예요"
+  },
+  {
+   "term": "residential area",
+   "ko": "주거 지역",
+   "note": "상업 지역과 대비되는 말이에요"
+  },
+  {
+   "term": "on the edge of",
+   "ko": "~의 가장자리에",
+   "note": "도시 외곽을 말할 때 써요"
+  },
+  {
+   "term": "mostly",
+   "ko": "대부분",
+   "note": "주로 구성 성분을 말할 때 써요"
+  },
+  {
+   "term": "Now, let me tell you",
+   "ko": "자, 말씀드릴게요",
+   "note": "새 주제로 넘어갈 때 쓰는 연결 표현이에요"
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 19686.24,
+  "end": 19745.53,
+  "clips": [
+   [
+    19686.24,
+    19690.73
+   ],
+   [
+    19712.16,
+    19717.05
+   ],
+   [
+    19741.04,
+    19745.53
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I've tried strict diets, but I usually give up after a few weeks.",
+   "chunks": [
+    {
+     "en": "I've tried strict diets,",
+     "ko": "저는 엄격한 식단을 해봤지만"
+    },
+    {
+     "en": "but I usually give up",
+     "ko": "보통 포기해요"
+    },
+    {
+     "en": "after a few weeks.",
+     "ko": "몇 주 뒤에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tried",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "strict",
+     "strong": true,
+     "link": false,
+     "syl": "strict"
+    },
+    {
+     "w": "diets,",
+     "strong": true,
+     "link": false,
+     "syl": "di"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "usually",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "give",
+     "strong": true,
+     "link": true,
+     "syl": "give"
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weeks.",
+     "strong": true,
+     "link": false,
+     "syl": "weeks"
+    }
+   ],
+   "tip": "give up은 '기법'처럼 이어 읽어요.",
+   "start": 19686.24,
+   "end": 19690.73
+  },
+  {
+   "text": "Since I started walking for 30 minutes a day, I felt more energetic.",
+   "chunks": [
+    {
+     "en": "Since I started walking",
+     "ko": "걷기 시작한 이후로"
+    },
+    {
+     "en": "for 30 minutes a day,",
+     "ko": "하루에 30분씩"
+    },
+    {
+     "en": "I felt more energetic.",
+     "ko": "더 활기차다고 느꼈어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Since",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "started",
+     "strong": true,
+     "link": false,
+     "syl": "start"
+    },
+    {
+     "w": "walking",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "30",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": true,
+     "link": true,
+     "syl": "min"
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "day,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "felt",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "energetic.",
+     "strong": true,
+     "link": false,
+     "syl": "get"
+    }
+   ],
+   "tip": "energetic은 e-ner-GET-ic, get에 강세가 와요.",
+   "start": 19712.16,
+   "end": 19717.05
+  },
+  {
+   "text": "I think mental health needs just as much attention as physical health.",
+   "chunks": [
+    {
+     "en": "I think mental health",
+     "ko": "제 생각에 정신 건강은"
+    },
+    {
+     "en": "needs just as much attention",
+     "ko": "똑같이 많은 관심이 필요해요"
+    },
+    {
+     "en": "as physical health.",
+     "ko": "신체 건강만큼"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "think",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mental",
+     "strong": true,
+     "link": false,
+     "syl": "men"
+    },
+    {
+     "w": "health",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "needs",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "just",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "attention",
+     "strong": true,
+     "link": false,
+     "syl": "ten"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "physical",
+     "strong": true,
+     "link": false,
+     "syl": "phys"
+    },
+    {
+     "w": "health.",
+     "strong": true,
+     "link": false,
+     "syl": "health"
+    }
+   ],
+   "tip": "just as much as는 '저스태즈머치애즈'처럼 이어 읽어요.",
+   "start": 19741.04,
+   "end": 19745.53
+  }
+ ],
+ "questions": [
+  {
+   "q": "What happens when the speaker tries strict diets?",
+   "options": [
+    "They lose weight quickly",
+    "They usually give up after a few weeks",
+    "They feel more energetic"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: I usually give up after a few weeks"
+  },
+  {
+   "q": "How long does the speaker walk each day?",
+   "options": [
+    "10 minutes",
+    "20 minutes",
+    "30 minutes"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: walking for 30 minutes a day"
+  },
+  {
+   "q": "What does the speaker say needs as much attention as physical health?",
+   "options": [
+    "Mental health",
+    "Diet",
+    "Sleep"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: mental health needs just as much attention"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "give up",
+   "ko": "포기하다",
+   "note": "give up 뒤에는 명사나 -ing가 와요."
+  },
+  {
+   "term": "a few weeks",
+   "ko": "몇 주",
+   "note": "a few는 '몇몇의'예요."
+  },
+  {
+   "term": "energetic",
+   "ko": "활기찬",
+   "note": "energy의 형용사형이에요."
+  },
+  {
+   "term": "mental health",
+   "ko": "정신 건강",
+   "note": "physical health와 짝으로 자주 써요."
+  },
+  {
+   "term": "pay attention to",
+   "ko": "~에 관심을 기울이다",
+   "note": "need attention처럼도 써요."
+  }
+ ]
+}

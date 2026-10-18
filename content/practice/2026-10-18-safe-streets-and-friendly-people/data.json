@@ -1,0 +1,293 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3662.08,
+  "end": 3710.73,
+  "clips": [
+   [
+    3662.08,
+    3665.77
+   ],
+   [
+    3685.36,
+    3688.89
+   ],
+   [
+    3706.88,
+    3710.73
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "The neighborhood is very safe even late at night.",
+   "chunks": [
+    {
+     "en": "The neighborhood is very safe",
+     "ko": "동네는 아주 안전해요"
+    },
+    {
+     "en": "even late at night.",
+     "ko": "밤늦게까지도"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "neighborhood",
+     "strong": true,
+     "link": false,
+     "syl": "neigh"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "safe",
+     "strong": true,
+     "link": false,
+     "syl": "safe"
+    },
+    {
+     "w": "even",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "late",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "night.",
+     "strong": true,
+     "link": false,
+     "syl": "night"
+    }
+   ],
+   "tip": "'safe'와 'late'처럼 긴 모음에 힘을 주면 의미가 또렷해요.",
+   "start": 3662.08,
+   "end": 3665.77
+  },
+  {
+   "text": "I feel comfortable walking home alone after dark.",
+   "chunks": [
+    {
+     "en": "I feel comfortable",
+     "ko": "저는 편안하게 느껴요"
+    },
+    {
+     "en": "walking home alone",
+     "ko": "혼자 집에 걸어가는 게"
+    },
+    {
+     "en": "after dark.",
+     "ko": "어두워진 뒤에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "feel",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "comfortable",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "walking",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "home",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "alone",
+     "strong": true,
+     "link": false,
+     "syl": "lone"
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "dark.",
+     "strong": true,
+     "link": false,
+     "syl": "dark"
+    }
+   ],
+   "tip": "'comfortable'은 '컴프터블'처럼 가운데 음절을 줄여서 읽어요.",
+   "start": 3685.36,
+   "end": 3688.89
+  },
+  {
+   "text": "The people here are friendly and look out for each other.",
+   "chunks": [
+    {
+     "en": "The people here are friendly",
+     "ko": "여기 사람들은 친절하고"
+    },
+    {
+     "en": "and look out for",
+     "ko": "돌봐 줘요"
+    },
+    {
+     "en": "each other.",
+     "ko": "서로를"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": true,
+     "link": false,
+     "syl": "peo"
+    },
+    {
+     "w": "here",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "friendly",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "look",
+     "strong": true,
+     "link": false,
+     "syl": "look"
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "each",
+     "strong": true,
+     "link": false,
+     "syl": "each"
+    },
+    {
+     "w": "other.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'look out for'는 '루카웃포'처럼 이어서 하나의 덩어리로 읽어요.",
+   "start": 3706.88,
+   "end": 3710.73
+  }
+ ],
+ "questions": [
+  {
+   "q": "When is the neighborhood safe?",
+   "options": [
+    "Only during the day",
+    "Even late at night",
+    "Only on weekends"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: very safe even late at night"
+  },
+  {
+   "q": "What does the speaker feel comfortable doing after dark?",
+   "options": [
+    "Walking home alone",
+    "Driving to work",
+    "Going to the park"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: comfortable walking home alone after dark"
+  },
+  {
+   "q": "How do the people in the neighborhood treat each other?",
+   "options": [
+    "They look out for each other",
+    "They keep to themselves",
+    "They argue often"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: friendly and look out for each other"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "after dark",
+   "ko": "어두워진 뒤에",
+   "note": "밤을 부드럽게 말하는 표현이에요."
+  },
+  {
+   "term": "comfortable",
+   "ko": "편안한",
+   "note": "발음할 때 가운데 -or-를 거의 읽지 않아요."
+  },
+  {
+   "term": "look out for each other",
+   "ko": "서로를 챙기다",
+   "note": "이웃이나 친구 사이를 말할 때 써요."
+  },
+  {
+   "term": "even late at night",
+   "ko": "밤늦게까지도",
+   "note": "even은 '심지어'라는 강조예요."
+  }
+ ]
+}

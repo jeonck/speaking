@@ -1,0 +1,288 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 4142.8,
+  "end": 4191.85,
+  "clips": [
+   [
+    4142.8,
+    4146.25
+   ],
+   [
+    4164.56,
+    4168.73
+   ],
+   [
+    4188.4,
+    4191.85
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Back then there were only a few small shops.",
+   "chunks": [
+    {
+     "en": "Back then",
+     "ko": "그때는"
+    },
+    {
+     "en": "there were only a few",
+     "ko": "겨우 몇 개만 있었어요"
+    },
+    {
+     "en": "small shops.",
+     "ko": "작은 가게들이"
+    }
+   ],
+   "words": [
+    {
+     "w": "Back",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "only",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "shops.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "were only는 '워-온리'처럼 이어 읽고 few와 small shops에 힘을 줘요.",
+   "start": 4142.8,
+   "end": 4146.25
+  },
+  {
+   "text": "Now there are trendy cafes and restaurants everywhere.",
+   "chunks": [
+    {
+     "en": "Now there are",
+     "ko": "지금은 있어요"
+    },
+    {
+     "en": "trendy cafes and restaurants",
+     "ko": "유행하는 카페와 식당들이"
+    },
+    {
+     "en": "everywhere.",
+     "ko": "어디에나"
+    }
+   ],
+   "words": [
+    {
+     "w": "Now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trendy",
+     "strong": true,
+     "link": false,
+     "syl": "trend"
+    },
+    {
+     "w": "cafes",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "restaurants",
+     "strong": true,
+     "link": false,
+     "syl": "rest"
+    },
+    {
+     "w": "everywhere.",
+     "strong": true,
+     "link": false,
+     "syl": "where"
+    }
+   ],
+   "tip": "cafes and는 '카페전'처럼 이어지고 restaurants는 첫 음절 rest에 강세가 와요.",
+   "start": 4164.56,
+   "end": 4168.73
+  },
+  {
+   "text": "Rent has gone up quite a bit over the years.",
+   "chunks": [
+    {
+     "en": "Rent has gone up",
+     "ko": "월세가 올랐어요"
+    },
+    {
+     "en": "quite a bit",
+     "ko": "꽤 많이"
+    },
+    {
+     "en": "over the years.",
+     "ko": "수년에 걸쳐"
+    }
+   ],
+   "words": [
+    {
+     "w": "Rent",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gone",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "quite",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bit",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "over",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "gone up, quite a bit over는 '고넙', '콰이러비로버'처럼 이어 읽어요.",
+   "start": 4188.4,
+   "end": 4191.85
+  }
+ ],
+ "questions": [
+  {
+   "q": "What has become more expensive over the years?",
+   "options": [
+    "Food prices",
+    "Rent",
+    "Bus fares"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: Rent has gone up quite a bit"
+  },
+  {
+   "q": "What was in the area back then?",
+   "options": [
+    "Only a few small shops",
+    "Many cafes",
+    "A big shopping mall"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: there were only a few small shops"
+  },
+  {
+   "q": "What can be found everywhere now?",
+   "options": [
+    "Old markets",
+    "Parks",
+    "Trendy cafes and restaurants"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: trendy cafes and restaurants everywhere"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "trendy",
+   "ko": "유행하는",
+   "note": "카페, 옷, 동네 분위기를 말할 때 써요."
+  },
+  {
+   "term": "Back then",
+   "ko": "그때는",
+   "note": "과거의 한 시점을 가리킬 때 써요."
+  },
+  {
+   "term": "has gone up",
+   "ko": "올랐다",
+   "note": "가격, 월세가 오를 때 go up을 써요."
+  },
+  {
+   "term": "quite a bit",
+   "ko": "꽤 많이",
+   "note": "a lot보다 살짝 부드러운 표현이에요."
+  },
+  {
+   "term": "over the years",
+   "ko": "수년에 걸쳐",
+   "note": "변화를 설명할 때 자주 써요."
+  }
+ ]
+}

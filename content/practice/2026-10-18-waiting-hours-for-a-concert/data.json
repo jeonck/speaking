@@ -1,0 +1,318 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 9403.28,
+  "end": 9455.05,
+  "clips": [
+   [
+    9403.28,
+    9407.13
+   ],
+   [
+    9426.4,
+    9430.65
+   ],
+   [
+    9450.96,
+    9455.05
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I'll also never forget the first concert I went to.",
+   "chunks": [
+    {
+     "en": "I'll also never forget",
+     "ko": "또 절대 잊지 못할 거예요"
+    },
+    {
+     "en": "the first concert",
+     "ko": "첫 콘서트를"
+    },
+    {
+     "en": "I went to.",
+     "ko": "내가 갔던"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'll",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "also",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "never",
+     "strong": true,
+     "link": false,
+     "syl": "nev"
+    },
+    {
+     "w": "forget",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first",
+     "strong": true,
+     "link": false,
+     "syl": "first"
+    },
+    {
+     "w": "concert",
+     "strong": true,
+     "link": true,
+     "syl": "con"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "concert I는 '콘서라이'처럼 t가 이어져요.",
+   "start": 9403.28,
+   "end": 9407.13
+  },
+  {
+   "text": "A friend and I waited in line for almost 4 hours.",
+   "chunks": [
+    {
+     "en": "A friend and I",
+     "ko": "친구와 내가"
+    },
+    {
+     "en": "waited in line",
+     "ko": "줄을 서서 기다렸어요"
+    },
+    {
+     "en": "for almost 4 hours.",
+     "ko": "거의 4시간 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "waited",
+     "strong": true,
+     "link": true,
+     "syl": "wait"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "line",
+     "strong": true,
+     "link": false,
+     "syl": "line"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "almost",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "4",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "hours.",
+     "strong": true,
+     "link": false,
+     "syl": "hours"
+    }
+   ],
+   "tip": "waited in은 '웨이리딘'처럼 이어 읽어요.",
+   "start": 9426.4,
+   "end": 9430.65
+  },
+  {
+   "text": "When the lights went down, the whole crowd started screaming.",
+   "chunks": [
+    {
+     "en": "When the lights went down,",
+     "ko": "조명이 꺼지자"
+    },
+    {
+     "en": "the whole crowd",
+     "ko": "관객 전체가"
+    },
+    {
+     "en": "started screaming.",
+     "ko": "소리 지르기 시작했어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lights",
+     "strong": true,
+     "link": false,
+     "syl": "lights"
+    },
+    {
+     "w": "went",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "down,",
+     "strong": true,
+     "link": false,
+     "syl": "down"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "whole",
+     "strong": true,
+     "link": false,
+     "syl": "whole"
+    },
+    {
+     "w": "crowd",
+     "strong": true,
+     "link": false,
+     "syl": "crowd"
+    },
+    {
+     "w": "started",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "screaming.",
+     "strong": true,
+     "link": false,
+     "syl": "scream"
+    }
+   ],
+   "tip": "screaming은 첫 음절 scream에 강세를 둬요.",
+   "start": 9450.96,
+   "end": 9455.05
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long did they wait in line?",
+   "options": [
+    "Almost 4 hours",
+    "About 20 minutes",
+    "Almost 2 hours"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: waited in line for almost 4 hours"
+  },
+  {
+   "q": "Who did the speaker wait with?",
+   "options": [
+    "A teacher",
+    "A friend",
+    "A sibling"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: A friend and I waited in line"
+  },
+  {
+   "q": "What happened when the lights went down?",
+   "options": [
+    "The show ended",
+    "The band left",
+    "The crowd started screaming"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: the whole crowd started screaming"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "wait in line",
+   "ko": "줄을 서서 기다리다",
+   "note": "line 앞에 the를 붙이지 않아요."
+  },
+  {
+   "term": "almost 4 hours",
+   "ko": "거의 4시간",
+   "note": "almost는 '거의 ~에 가까운'이에요."
+  },
+  {
+   "term": "the lights went down",
+   "ko": "조명이 꺼졌다",
+   "note": "공연 시작 장면에서 써요."
+  },
+  {
+   "term": "the whole crowd",
+   "ko": "관객 전체",
+   "note": "whole은 '전체의'라는 뜻이에요."
+  },
+  {
+   "term": "never forget",
+   "ko": "절대 잊지 못하다",
+   "note": "강한 기억을 말할 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 3795.6,
+  "end": 3846.65,
+  "clips": [
+   [
+    3795.6,
+    3799.61
+   ],
+   [
+    3818.4,
+    3822.65
+   ],
+   [
+    3842.4,
+    3846.65
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "There's a traditional market about 15 minutes away.",
+   "chunks": [
+    {
+     "en": "There's a traditional market",
+     "ko": "전통 시장이 있어요"
+    },
+    {
+     "en": "about 15 minutes away.",
+     "ko": "약 15분 거리에"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traditional",
+     "strong": true,
+     "link": false,
+     "syl": "tra"
+    },
+    {
+     "w": "market",
+     "strong": true,
+     "link": false,
+     "syl": "mar"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "15",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "away.",
+     "strong": true,
+     "link": false,
+     "syl": "way"
+    }
+   ],
+   "tip": "'traditional'은 '트러디셔널'처럼 두 번째 음절에 강세가 와요.",
+   "start": 3795.6,
+   "end": 3799.61
+  },
+  {
+   "text": "It's busy and noisy, but the food there is amazing.",
+   "chunks": [
+    {
+     "en": "It's busy and noisy,",
+     "ko": "붐비고 시끄럽지만"
+    },
+    {
+     "en": "but the food there",
+     "ko": "하지만 거기 음식은"
+    },
+    {
+     "en": "is amazing.",
+     "ko": "정말 훌륭해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "It's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "busy",
+     "strong": true,
+     "link": false,
+     "syl": "bu"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "noisy,",
+     "strong": true,
+     "link": false,
+     "syl": "noi"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "link": false,
+     "syl": "food"
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "amazing.",
+     "strong": true,
+     "link": false,
+     "syl": "ma"
+    }
+   ],
+   "tip": "'busy and'는 '비지언'처럼 이어서 가볍게 지나가요.",
+   "start": 3818.4,
+   "end": 3822.65
+  },
+  {
+   "text": "My mom goes there every weekend to buy fresh vegetables.",
+   "chunks": [
+    {
+     "en": "My mom goes there",
+     "ko": "엄마가 거기 가세요"
+    },
+    {
+     "en": "every weekend",
+     "ko": "매주 주말에"
+    },
+    {
+     "en": "to buy fresh vegetables.",
+     "ko": "신선한 채소를 사러"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mom",
+     "strong": true,
+     "link": false,
+     "syl": "mom"
+    },
+    {
+     "w": "goes",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekend",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "buy",
+     "strong": true,
+     "link": false,
+     "syl": "buy"
+    },
+    {
+     "w": "fresh",
+     "strong": true,
+     "link": false,
+     "syl": "fresh"
+    },
+    {
+     "w": "vegetables.",
+     "strong": true,
+     "link": false,
+     "syl": "veg"
+    }
+   ],
+   "tip": "'vegetables'는 '베지터블즈'처럼 세 음절로 줄여 읽어요.",
+   "start": 3842.4,
+   "end": 3846.65
+  }
+ ],
+ "questions": [
+  {
+   "q": "How far is the traditional market?",
+   "options": [
+    "About 5 minutes",
+    "About 15 minutes",
+    "About an hour"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: about 15 minutes away"
+  },
+  {
+   "q": "How does the speaker describe the market?",
+   "options": [
+    "Quiet and empty",
+    "Busy and noisy",
+    "Clean and modern"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: busy and noisy, but the food there is amazing"
+  },
+  {
+   "q": "What does the speaker's mom buy there?",
+   "options": [
+    "Fresh vegetables",
+    "Clothes",
+    "Kitchen tools"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: to buy fresh vegetables"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "traditional market",
+   "ko": "전통 시장",
+   "note": "한국의 재래시장을 소개할 때 써요."
+  },
+  {
+   "term": "busy and noisy",
+   "ko": "붐비고 시끄러운",
+   "note": "시장이나 거리 분위기를 말할 때 써요."
+  },
+  {
+   "term": "amazing",
+   "ko": "놀라운, 훌륭한",
+   "note": "음식이 아주 맛있을 때 쓰는 강한 칭찬이에요."
+  },
+  {
+   "term": "every weekend",
+   "ko": "매 주말",
+   "note": "빈도 표현으로 일상을 말할 때 써요."
+  }
+ ]
+}

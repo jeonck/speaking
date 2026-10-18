@@ -1,0 +1,283 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 16785.68,
+  "end": 16837.37,
+  "clips": [
+   [
+    16785.68,
+    16789.77
+   ],
+   [
+    16809.6,
+    16813.37
+   ],
+   [
+    16833.36,
+    16837.37
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I felt embarrassed, but the staff were very understanding.",
+   "chunks": [
+    {
+     "en": "I felt embarrassed,",
+     "ko": "민망했지만"
+    },
+    {
+     "en": "but the staff were very understanding.",
+     "ko": "직원들은 매우 이해해 줬다"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "felt",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "embarrassed,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "staff",
+     "strong": true,
+     "link": false,
+     "syl": "staff"
+    },
+    {
+     "w": "were",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "very",
+     "strong": true,
+     "link": false,
+     "syl": "very"
+    },
+    {
+     "w": "understanding.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "embarrassed는 둘째 음절 'bar'에 강세를 둬요.",
+   "start": 16785.68,
+   "end": 16789.77
+  },
+  {
+   "text": "After about 20 minutes, they found us a table.",
+   "chunks": [
+    {
+     "en": "After about 20 minutes,",
+     "ko": "약 20분 뒤에"
+    },
+    {
+     "en": "they found us a table.",
+     "ko": "그들이 우리에게 테이블을 찾아 줬다"
+    }
+   ],
+   "words": [
+    {
+     "w": "After",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "20",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "minutes,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "they",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "found",
+     "strong": true,
+     "link": true,
+     "syl": "found"
+    },
+    {
+     "w": "us",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "table.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "found us a는 '파운더스어'처럼 이어 읽어요.",
+   "start": 16809.6,
+   "end": 16813.37
+  },
+  {
+   "text": "My friend loved the food, so the evening worked out well.",
+   "chunks": [
+    {
+     "en": "My friend loved the food,",
+     "ko": "내 친구는 음식을 아주 좋아했고"
+    },
+    {
+     "en": "so the evening worked out well.",
+     "ko": "그래서 저녁은 잘 풀렸다"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "friend",
+     "strong": true,
+     "link": false,
+     "syl": "friend"
+    },
+    {
+     "w": "loved",
+     "strong": true,
+     "link": false,
+     "syl": "loved"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "food,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "evening",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worked",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "out",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "well.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "worked out은 '웍타웃'처럼 이어 읽어요.",
+   "start": 16833.36,
+   "end": 16837.37
+  }
+ ],
+ "questions": [
+  {
+   "q": "How did the staff react?",
+   "options": [
+    "They were very understanding",
+    "They were annoyed",
+    "They asked the speaker to leave"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: the staff were very understanding"
+  },
+  {
+   "q": "How long did it take to get a table?",
+   "options": [
+    "About 10 minutes",
+    "About 20 minutes",
+    "About an hour"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: After about 20 minutes, they found us a table"
+  },
+  {
+   "q": "What did the speaker's friend think of the food?",
+   "options": [
+    "It was too salty",
+    "It was too expensive",
+    "The friend loved it"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: My friend loved the food"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "embarrassed",
+   "ko": "민망한, 창피한",
+   "note": "embarrassing은 상황, embarrassed는 사람 기분이에요."
+  },
+  {
+   "term": "understanding",
+   "ko": "이해심 있는",
+   "note": "전치사 없이 형용사로 쓰여요."
+  },
+  {
+   "term": "find us a table",
+   "ko": "우리에게 자리를 마련해 주다",
+   "note": "find + 사람 + 물건 순서예요."
+  },
+  {
+   "term": "work out well",
+   "ko": "잘 풀리다",
+   "note": "일이나 계획이 좋게 끝날 때 써요."
+  }
+ ]
+}

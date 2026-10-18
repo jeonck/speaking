@@ -1,0 +1,295 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6249.6,
+  "end": 6296.81,
+  "clips": [
+   [
+    6249.6,
+    6253.37
+   ],
+   [
+    6270.72,
+    6274.41
+   ],
+   [
+    6292.88,
+    6296.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My coworker got me into board games last year.",
+   "chunks": [
+    {
+     "en": "My coworker",
+     "ko": "제 동료가"
+    },
+    {
+     "en": "got me into board games",
+     "ko": "저를 보드게임에 빠지게 했어요"
+    },
+    {
+     "en": "last year.",
+     "ko": "작년에요."
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "coworker",
+     "strong": true,
+     "link": false,
+     "syl": "work"
+    },
+    {
+     "w": "got",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "into",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "board",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "games",
+     "strong": true,
+     "link": false,
+     "syl": "games"
+    },
+    {
+     "w": "last",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "got me into는 '가미인투'처럼 이어서 읽어요.",
+   "start": 6249.6,
+   "end": 6253.37
+  },
+  {
+   "text": "We meet at a board game cafe once in a while.",
+   "chunks": [
+    {
+     "en": "We meet",
+     "ko": "우리는 만나요"
+    },
+    {
+     "en": "at a board game cafe",
+     "ko": "보드게임 카페에서"
+    },
+    {
+     "en": "once in a while.",
+     "ko": "가끔씩요."
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "meet",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "board",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "game",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "cafe",
+     "strong": true,
+     "link": false,
+     "syl": "fe"
+    },
+    {
+     "w": "once",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "while.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "once in a while은 '원신어와일'처럼 이어서 읽어요.",
+   "start": 6270.72,
+   "end": 6274.41
+  },
+  {
+   "text": "I love how it gets everyone talking and laughing.",
+   "chunks": [
+    {
+     "en": "I love how it gets",
+     "ko": "저는 그것이 만드는 방식을 좋아해요"
+    },
+    {
+     "en": "everyone talking",
+     "ko": "모두가 이야기하게"
+    },
+    {
+     "en": "and laughing.",
+     "ko": "그리고 웃게요."
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "love",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gets",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "everyone",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "talking",
+     "strong": true,
+     "link": true,
+     "syl": "talk"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "laughing.",
+     "strong": true,
+     "link": false,
+     "syl": "laugh"
+    }
+   ],
+   "tip": "laughing은 laugh를 '래프'로 읽고 gh는 f 소리예요.",
+   "start": 6292.88,
+   "end": 6296.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "Who got the speaker into board games?",
+   "options": [
+    "A cousin",
+    "A coworker",
+    "A neighbor"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: My coworker got me into board games"
+  },
+  {
+   "q": "How often do they go to a board game cafe?",
+   "options": [
+    "Once in a while",
+    "Every day",
+    "Twice a week"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: once in a while"
+  },
+  {
+   "q": "What does the speaker love about board games?",
+   "options": [
+    "Winning every time",
+    "They are cheap",
+    "They get everyone talking and laughing"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: it gets everyone talking and laughing"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "get someone into",
+   "ko": "~를 ...에 빠지게 하다",
+   "note": "취미를 소개해 줄 때 써요."
+  },
+  {
+   "term": "board game cafe",
+   "ko": "보드게임 카페",
+   "note": "board game은 두 단어로 써요."
+  },
+  {
+   "term": "once in a while",
+   "ko": "가끔",
+   "note": "자주는 아니고 가끔이라는 뜻이에요."
+  },
+  {
+   "term": "gets everyone talking",
+   "ko": "모두가 이야기하게 만든다",
+   "note": "get + 목적어 + -ing 형태예요."
+  }
+ ]
+}

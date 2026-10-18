@@ -1,0 +1,288 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8877.68,
+  "end": 8927.77,
+  "clips": [
+   [
+    8877.68,
+    8881.77
+   ],
+   [
+    8902.16,
+    8906.01
+   ],
+   [
+    8924.72,
+    8927.77
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I still enjoy looking back on trips I took years ago.",
+   "chunks": [
+    {
+     "en": "I still enjoy looking back",
+     "ko": "저는 여전히 돌아보는 걸 즐겨요"
+    },
+    {
+     "en": "on trips I took",
+     "ko": "제가 했던 여행들을"
+    },
+    {
+     "en": "years ago.",
+     "ko": "몇 년 전에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": true,
+     "link": false,
+     "syl": "still"
+    },
+    {
+     "w": "enjoy",
+     "strong": true,
+     "link": false,
+     "syl": "joy"
+    },
+    {
+     "w": "looking",
+     "strong": true,
+     "link": false,
+     "syl": "look"
+    },
+    {
+     "w": "back",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "trips",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "ago.",
+     "strong": true,
+     "link": false,
+     "syl": "ago"
+    }
+   ],
+   "tip": "back on은 '백온', trips I는 '트립사이', years ago는 '이어저고'처럼 이어요.",
+   "start": 8877.68,
+   "end": 8881.77
+  },
+  {
+   "text": "Every trip teaches me something new about myself.",
+   "chunks": [
+    {
+     "en": "Every trip teaches me",
+     "ko": "여행마다 알려 줘요"
+    },
+    {
+     "en": "something new about myself.",
+     "ko": "제 자신에 대한 새로운 것을"
+    }
+   ],
+   "words": [
+    {
+     "w": "Every",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    },
+    {
+     "w": "teaches",
+     "strong": true,
+     "link": false,
+     "syl": "teach"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "something",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    }
+   ],
+   "tip": "new about은 '뉴어바웃'처럼 이어요. Every는 '에브리'로 두 음절만 읽어요.",
+   "start": 8902.16,
+   "end": 8906.01
+  },
+  {
+   "text": "That's why I keep planning my next trip.",
+   "chunks": [
+    {
+     "en": "That's why I keep planning",
+     "ko": "그래서 저는 계속 계획해요"
+    },
+    {
+     "en": "my next trip.",
+     "ko": "다음 여행을"
+    }
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "why",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "link": false,
+     "syl": "keep"
+    },
+    {
+     "w": "planning",
+     "strong": true,
+     "link": false,
+     "syl": "plan"
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "next",
+     "strong": true,
+     "link": false,
+     "syl": "next"
+    },
+    {
+     "w": "trip.",
+     "strong": true,
+     "link": false,
+     "syl": "trip"
+    }
+   ],
+   "tip": "why I는 '와이아이'처럼 부드럽게 이어요. keep planning에 강세를 줘요.",
+   "start": 8924.72,
+   "end": 8927.77
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker still enjoy?",
+   "options": [
+    "Looking back on trips from years ago",
+    "Planning work meetings",
+    "Shopping for souvenirs"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I still enjoy looking back on trips I took years ago."
+  },
+  {
+   "q": "What does every trip teach the speaker?",
+   "options": [
+    "A new language",
+    "How to save money",
+    "Something new about themself"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: teaches me something new about myself."
+  },
+  {
+   "q": "What does the speaker keep doing?",
+   "options": [
+    "Saving photos",
+    "Planning the next trip",
+    "Changing jobs"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: That's why I keep planning my next trip."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "look back on",
+   "ko": "~을 돌아보다",
+   "note": "과거를 되돌아볼 때 써요."
+  },
+  {
+   "term": "years ago",
+   "ko": "몇 년 전에",
+   "note": "ago는 과거 시제와 함께 써요."
+  },
+  {
+   "term": "teach me something new",
+   "ko": "내게 새로운 것을 가르쳐 주다",
+   "note": "teach + 사람 + 가르치는 내용 순서예요."
+  },
+  {
+   "term": "about myself",
+   "ko": "나 자신에 대해",
+   "note": "주어와 같은 사람이면 myself를 써요."
+  },
+  {
+   "term": "keep planning",
+   "ko": "계속 계획하다",
+   "note": "keep + -ing는 계속한다는 뜻이에요."
+  }
+ ]
+}

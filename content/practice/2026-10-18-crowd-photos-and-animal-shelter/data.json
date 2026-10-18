@@ -1,0 +1,343 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 10138.08,
+  "end": 10191.77,
+  "clips": [
+   [
+    10138.08,
+    10141.85
+   ],
+   [
+    10162.56,
+    10166.81
+   ],
+   [
+    10187.52,
+    10191.77
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "When I saw them in the crowd, I felt a lump in my throat.",
+   "chunks": [
+    {
+     "en": "When I saw them in the crowd,",
+     "ko": "사람들 속에서 그분들을 봤을 때"
+    },
+    {
+     "en": "I felt a lump in my throat.",
+     "ko": "목이 메었다"
+    }
+   ],
+   "words": [
+    {
+     "w": "When",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "saw",
+     "strong": true,
+     "syl": "saw",
+     "link": false
+    },
+    {
+     "w": "them",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "crowd,",
+     "strong": true,
+     "syl": "crowd",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "felt",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "lump",
+     "strong": true,
+     "syl": "lump",
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "throat.",
+     "strong": true,
+     "syl": "throat",
+     "link": false
+    }
+   ],
+   "tip": "felt a, lump in은 '펠터', '럼핀'처럼 이어 읽어요.",
+   "start": 10138.08,
+   "end": 10141.85
+  },
+  {
+   "text": "We took tons of photos and I still keep one on my desk.",
+   "chunks": [
+    {
+     "en": "We took tons of photos",
+     "ko": "사진을 엄청 많이 찍었고"
+    },
+    {
+     "en": "and I still keep one",
+     "ko": "아직도 한 장을 간직한다"
+    },
+    {
+     "en": "on my desk.",
+     "ko": "책상 위에"
+    }
+   ],
+   "words": [
+    {
+     "w": "We",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "took",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tons",
+     "strong": true,
+     "syl": "tons",
+     "link": true
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "photos",
+     "strong": true,
+     "syl": "pho",
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "still",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "keep",
+     "strong": true,
+     "syl": "keep",
+     "link": true
+    },
+    {
+     "w": "one",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "desk.",
+     "strong": true,
+     "syl": "desk",
+     "link": false
+    }
+   ],
+   "tip": "tons of는 '턴저브', keep one on은 '킵원온'처럼 이어요.",
+   "start": 10162.56,
+   "end": 10166.81
+  },
+  {
+   "text": "A few years ago, I volunteered at an animal shelter.",
+   "chunks": [
+    {
+     "en": "A few years ago,",
+     "ko": "몇 년 전에"
+    },
+    {
+     "en": "I volunteered",
+     "ko": "나는 자원봉사를 했다"
+    },
+    {
+     "en": "at an animal shelter.",
+     "ko": "동물 보호소에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "few",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "syl": "years",
+     "link": false
+    },
+    {
+     "w": "ago,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "volunteered",
+     "strong": true,
+     "syl": "teer",
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "an",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "animal",
+     "strong": true,
+     "syl": "an",
+     "link": false
+    },
+    {
+     "w": "shelter.",
+     "strong": true,
+     "syl": "shel",
+     "link": false
+    }
+   ],
+   "tip": "volunteered at an은 '발런티어댓앤'처럼 이어 읽어요.",
+   "start": 10187.52,
+   "end": 10191.77
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where did the speaker spot the grandparents?",
+   "options": [
+    "At the station",
+    "In the crowd",
+    "At the front door"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: When I saw them in the crowd"
+  },
+  {
+   "q": "Where does the speaker keep one of the photos?",
+   "options": [
+    "On the wall",
+    "In a wallet",
+    "On the desk"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: I still keep one on my desk"
+  },
+  {
+   "q": "Where did the speaker volunteer?",
+   "options": [
+    "At an animal shelter",
+    "At a hospital",
+    "At a school"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I volunteered at an animal shelter"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a lump in my throat",
+   "ko": "목이 메는 느낌",
+   "note": "감동이나 슬픔으로 목이 멜 때 써요."
+  },
+  {
+   "term": "in the crowd",
+   "ko": "군중 속에서",
+   "note": "사람이 많은 곳에서 누군가를 발견할 때 써요."
+  },
+  {
+   "term": "tons of",
+   "ko": "엄청 많은",
+   "note": "구어체로 a lot of와 같아요."
+  },
+  {
+   "term": "volunteered",
+   "ko": "자원봉사를 했다",
+   "note": "volunteer at + 장소로 써요."
+  },
+  {
+   "term": "animal shelter",
+   "ko": "동물 보호소",
+   "note": "유기동물을 돌보는 곳이에요."
+  }
+ ]
+}

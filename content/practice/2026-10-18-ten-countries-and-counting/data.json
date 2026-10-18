@@ -1,0 +1,261 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 8281.84,
+  "end": 8324.81,
+  "clips": [
+   [
+    8281.84,
+    8285.37
+   ],
+   [
+    8302.08,
+    8305.05
+   ],
+   [
+    8320.8,
+    8324.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I've traveled to about 10 countries so far.",
+   "chunks": [
+    {
+     "en": "I've traveled",
+     "ko": "저는 여행했어요"
+    },
+    {
+     "en": "to about 10 countries",
+     "ko": "약 10개국에"
+    },
+    {
+     "en": "so far.",
+     "ko": "지금까지"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "traveled",
+     "strong": true,
+     "link": false,
+     "syl": "trav"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "countries",
+     "strong": true,
+     "link": false,
+     "syl": "coun"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "far.",
+     "strong": true,
+     "link": false,
+     "syl": "far"
+    }
+   ],
+   "tip": "traveled는 '트래블드'로 trav에 강세를 줘요. 숫자 10은 크고 또렷하게 말해요.",
+   "start": 8281.84,
+   "end": 8285.37
+  },
+  {
+   "text": "Each country had its own charm.",
+   "chunks": [
+    {
+     "en": "Each country",
+     "ko": "나라마다"
+    },
+    {
+     "en": "had its own charm.",
+     "ko": "저마다 고유한 매력이 있었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "Each",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "country",
+     "strong": true,
+     "link": false,
+     "syl": "coun"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "its",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "own",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "charm.",
+     "strong": true,
+     "link": false,
+     "syl": "charm"
+    }
+   ],
+   "tip": "had its는 '해디츠', its own은 '이츠오운'처럼 이어 읽어요.",
+   "start": 8302.08,
+   "end": 8305.05
+  },
+  {
+   "text": "Traveling has opened my mind to different cultures.",
+   "chunks": [
+    {
+     "en": "Traveling has opened my mind",
+     "ko": "여행은 제 마음을 열어 줬어요"
+    },
+    {
+     "en": "to different cultures.",
+     "ko": "다른 문화들에 대해"
+    }
+   ],
+   "words": [
+    {
+     "w": "Traveling",
+     "strong": true,
+     "link": false,
+     "syl": "trav"
+    },
+    {
+     "w": "has",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "opened",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mind",
+     "strong": true,
+     "link": false,
+     "syl": "mind"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "different",
+     "strong": true,
+     "link": false,
+     "syl": "dif"
+    },
+    {
+     "w": "cultures.",
+     "strong": true,
+     "link": false,
+     "syl": "cul"
+    }
+   ],
+   "tip": "has opened는 '해즈오픈드'처럼 이어지고, different cultures에 힘을 줘요.",
+   "start": 8320.8,
+   "end": 8324.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "About how many countries has the speaker traveled to?",
+   "options": [
+    "About 5",
+    "About 20",
+    "About 10"
+   ],
+   "answer": 2,
+   "why": "1번째 문장: I've traveled to about 10 countries so far."
+  },
+  {
+   "q": "What did each country have?",
+   "options": [
+    "Its own charm",
+    "The same food",
+    "Too many tourists"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: Each country had its own charm."
+  },
+  {
+   "q": "What has traveling done for the speaker?",
+   "options": [
+    "Made the speaker tired of trips",
+    "Opened the speaker's mind to different cultures",
+    "Taught the speaker a new language"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: opened my mind to different cultures."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "so far",
+   "ko": "지금까지",
+   "note": "현재완료와 함께 자주 써요."
+  },
+  {
+   "term": "charm",
+   "ko": "매력",
+   "note": "장소나 사람의 독특한 매력을 말할 때 써요."
+  },
+  {
+   "term": "its own",
+   "ko": "그것만의",
+   "note": "each country had its own ~처럼 '고유한'을 뜻해요."
+  },
+  {
+   "term": "open one's mind",
+   "ko": "시야를 넓히다",
+   "note": "open my mind to ~로 '~에 열린 생각을 갖게 되다'를 표현해요."
+  },
+  {
+   "term": "different cultures",
+   "ko": "다양한 문화",
+   "note": "cultures를 복수로 써서 여러 문화를 말해요."
+  }
+ ]
+}

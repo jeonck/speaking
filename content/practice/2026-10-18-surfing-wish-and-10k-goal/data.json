@@ -1,0 +1,287 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 6573.36,
+  "end": 6622.09,
+  "clips": [
+   [
+    6573.36,
+    6576.97
+   ],
+   [
+    6595.12,
+    6599.13
+   ],
+   [
+    6618.64,
+    6622.09
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I've always wanted to try surfing at least once.",
+   "chunks": [
+    {
+     "en": "I've always wanted to try surfing",
+     "ko": "서핑을 해 보고 싶었어요 항상"
+    },
+    {
+     "en": "at least once.",
+     "ko": "적어도 한 번은"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "syl": "al",
+     "link": false
+    },
+    {
+     "w": "wanted",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": true,
+     "syl": "try",
+     "link": false
+    },
+    {
+     "w": "surfing",
+     "strong": true,
+     "syl": "surf",
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "least",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "once.",
+     "strong": true,
+     "syl": "once",
+     "link": false
+    }
+   ],
+   "tip": "surfing at은 '서핑ㅇ앳'처럼 ng 소리를 다음 단어에 살짝 이어요.",
+   "start": 6573.36,
+   "end": 6576.97
+  },
+  {
+   "text": "My goal this year is to run a 10 km race.",
+   "chunks": [
+    {
+     "en": "My goal this year",
+     "ko": "올해 제 목표는"
+    },
+    {
+     "en": "is to run a 10 km race.",
+     "ko": "10km 달리기 대회를 뛰는 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "goal",
+     "strong": true,
+     "syl": "goal",
+     "link": false
+    },
+    {
+     "w": "this",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "year",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "run",
+     "strong": true,
+     "syl": "run",
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "10",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "km",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "race.",
+     "strong": true,
+     "syl": "race",
+     "link": false
+    }
+   ],
+   "tip": "10 km는 'ten kilometers'라고 읽어요. race에 강세를 주세요.",
+   "start": 6595.12,
+   "end": 6599.13
+  },
+  {
+   "text": "I've been training for it for about 3 months.",
+   "chunks": [
+    {
+     "en": "I've been training for it",
+     "ko": "그것을 위해 훈련해 왔어요"
+    },
+    {
+     "en": "for about 3 months.",
+     "ko": "약 3개월 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "training",
+     "strong": true,
+     "syl": "train",
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "it",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "3",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "months.",
+     "strong": true,
+     "syl": "months",
+     "link": false
+    }
+   ],
+   "tip": "for it은 '포릿', for about은 '포러바웃'처럼 이어 읽어요.",
+   "start": 6618.64,
+   "end": 6622.09
+  }
+ ],
+ "questions": [
+  {
+   "q": "What has the speaker always wanted to try?",
+   "options": [
+    "Surfing",
+    "Skiing",
+    "Sailing"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I've always wanted to try surfing"
+  },
+  {
+   "q": "What is the speaker's goal this year?",
+   "options": [
+    "Run a 10 km race",
+    "Run a marathon",
+    "Swim 10 km"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: run a 10 km race"
+  },
+  {
+   "q": "How long has the speaker been training?",
+   "options": [
+    "About a year",
+    "About 3 months",
+    "About 3 weeks"
+   ],
+   "answer": 1,
+   "why": "3번째 문장: for about 3 months"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "at least once",
+   "ko": "적어도 한 번은",
+   "note": "at least는 '최소한'이라는 뜻이에요."
+  },
+  {
+   "term": "10 km race",
+   "ko": "10km 달리기 대회",
+   "note": "숫자와 km 사이에 하이픈 없이 말해도 돼요."
+  },
+  {
+   "term": "I've been training",
+   "ko": "계속 훈련해 왔어요",
+   "note": "현재완료진행형으로 지금까지 이어진 활동을 말해요."
+  },
+  {
+   "term": "goal",
+   "ko": "목표",
+   "note": "My goal is to + 동사로 말해요."
+  }
+ ]
+}

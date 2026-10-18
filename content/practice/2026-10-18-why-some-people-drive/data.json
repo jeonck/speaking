@@ -1,0 +1,337 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 20723.28,
+  "end": 20775.69,
+  "clips": [
+   [
+    20723.28,
+    20727.21
+   ],
+   [
+    20746.8,
+    20750.81
+   ],
+   [
+    20771.36,
+    20775.69
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "I can understand why some people would rather drive though.",
+   "chunks": [
+    {
+     "en": "I can understand why",
+     "ko": "나는 이유를 이해할 수 있다"
+    },
+    {
+     "en": "some people would rather drive though.",
+     "ko": "어떤 사람들이 차라리 운전하려는 것을, 그래도"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "can",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "understand",
+     "strong": true,
+     "link": false,
+     "syl": "stand"
+    },
+    {
+     "w": "why",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "people",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "would",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "rather",
+     "strong": true,
+     "link": false,
+     "syl": "rath"
+    },
+    {
+     "w": "drive",
+     "strong": true,
+     "link": false,
+     "syl": "drive"
+    },
+    {
+     "w": "though.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "would rather는 '우드래더'로 줄여요. 끝의 though는 '도우'로 문장 끝에서 강조해요.",
+   "start": 20723.28,
+   "end": 20727.21
+  },
+  {
+   "text": "It really depends on where you live and how far you need to go.",
+   "chunks": [
+    {
+     "en": "It really depends",
+     "ko": "정말 달려 있다"
+    },
+    {
+     "en": "on where you live",
+     "ko": "당신이 어디에 사는지에"
+    },
+    {
+     "en": "and how far you need to go.",
+     "ko": "그리고 얼마나 멀리 가야 하는지에"
+    }
+   ],
+   "words": [
+    {
+     "w": "It",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "depends",
+     "strong": true,
+     "link": true,
+     "syl": "pends"
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "where",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "live",
+     "strong": true,
+     "link": false,
+     "syl": "live"
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "how",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "far",
+     "strong": true,
+     "link": false,
+     "syl": "far"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "need",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "go.",
+     "strong": true,
+     "link": false,
+     "syl": "go"
+    }
+   ],
+   "tip": "depends on은 '디펜돈'처럼 이어 읽어요. need to는 '니투'로 빨라져요.",
+   "start": 20746.8,
+   "end": 20750.81
+  },
+  {
+   "text": "For me, the convenience matters more than having a seat every time.",
+   "chunks": [
+    {
+     "en": "For me,",
+     "ko": "나에게는"
+    },
+    {
+     "en": "the convenience matters more",
+     "ko": "편리함이 더 중요하다"
+    },
+    {
+     "en": "than having a seat every time.",
+     "ko": "매번 앉아서 가는 것보다"
+    }
+   ],
+   "words": [
+    {
+     "w": "For",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "convenience",
+     "strong": true,
+     "link": false,
+     "syl": "ve"
+    },
+    {
+     "w": "matters",
+     "strong": true,
+     "link": false,
+     "syl": "mat"
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "than",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "having",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "seat",
+     "strong": true,
+     "link": false,
+     "syl": "seat"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "time.",
+     "strong": true,
+     "link": false,
+     "syl": "time"
+    }
+   ],
+   "tip": "convenience는 've'에 강세예요: con-VE-nience. matters more는 두 단어를 강조해요.",
+   "start": 20771.36,
+   "end": 20775.69
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker understand about some people?",
+   "options": [
+    "Why they avoid work",
+    "Why they would rather drive",
+    "Why they live downtown"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: why some people would rather drive"
+  },
+  {
+   "q": "What does it depend on, according to the speaker?",
+   "options": [
+    "The weather and the season",
+    "The price of gas",
+    "Where you live and how far you go"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: where you live and how far you need to go"
+  },
+  {
+   "q": "What matters more to the speaker than having a seat every time?",
+   "options": [
+    "Convenience",
+    "Speed",
+    "Price"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: the convenience matters more than having a seat"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "would rather",
+   "ko": "차라리 ~하겠다",
+   "note": "뒤에 동사원형을 붙여요."
+  },
+  {
+   "term": "it depends on",
+   "ko": "~에 달려 있다",
+   "note": "depends on + 의문사절도 가능해요."
+  },
+  {
+   "term": "how far you need to go",
+   "ko": "얼마나 멀리 가야 하는지",
+   "note": "의문사 뒤는 평서문 어순이에요."
+  },
+  {
+   "term": "convenience",
+   "ko": "편리함",
+   "note": "형용사는 convenient예요."
+  },
+  {
+   "term": "matter more",
+   "ko": "더 중요하다",
+   "note": "than 뒤에 비교 대상을 말해요."
+  }
+ ]
+}

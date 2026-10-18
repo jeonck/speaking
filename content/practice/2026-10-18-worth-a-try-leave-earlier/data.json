@@ -1,0 +1,300 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 22639.04,
+  "end": 22684.57,
+  "clips": [
+   [
+    22639.04,
+    22641.69
+   ],
+   [
+    22656.72,
+    22660.65
+   ],
+   [
+    22680.08,
+    22684.57
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "So, I'd say it's worth a try.",
+   "chunks": [
+    {
+     "en": "So, I'd say",
+     "ko": "그러니까 제 생각엔"
+    },
+    {
+     "en": "it's worth a try.",
+     "ko": "한번 해볼 만해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "So,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "say",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "it's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "worth",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'worth a'는 th를 살짝 흘리며 '워쓰어'처럼 이어 읽어요.",
+   "start": 22639.04,
+   "end": 22641.69
+  },
+  {
+   "text": "One thing I do differently next time is leave earlier.",
+   "chunks": [
+    {
+     "en": "One thing I do differently",
+     "ko": "제가 다르게 할 한 가지는"
+    },
+    {
+     "en": "next time",
+     "ko": "다음번에"
+    },
+    {
+     "en": "is leave earlier.",
+     "ko": "더 일찍 나서는 거예요"
+    }
+   ],
+   "words": [
+    {
+     "w": "One",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "thing",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "do",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "differently",
+     "strong": true,
+     "link": false,
+     "syl": "dif"
+    },
+    {
+     "w": "next",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "time",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "leave",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "earlier.",
+     "strong": true,
+     "link": false,
+     "syl": "ear"
+    }
+   ],
+   "tip": "'leave earlier'는 v와 e를 이어 읽어요.",
+   "start": 22656.72,
+   "end": 22660.65
+  },
+  {
+   "text": "I didn't expect much at first, but I ended up really enjoying it.",
+   "chunks": [
+    {
+     "en": "I didn't expect much at first,",
+     "ko": "처음엔 별로 기대 안 했지만"
+    },
+    {
+     "en": "but I ended up",
+     "ko": "결국"
+    },
+    {
+     "en": "really enjoying it.",
+     "ko": "정말 즐기게 됐어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "didn't",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "expect",
+     "strong": true,
+     "link": false,
+     "syl": "pect"
+    },
+    {
+     "w": "much",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "first,",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "ended",
+     "strong": true,
+     "link": true
+    },
+    {
+     "w": "up",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "really",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "enjoying",
+     "strong": true,
+     "link": true,
+     "syl": "joy"
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'ended up'은 '엔디덥'처럼 이어 읽어요.",
+   "start": 22680.08,
+   "end": 22684.57
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does the speaker say about trying it?",
+   "options": [
+    "It is worth a try",
+    "It is not worth the time",
+    "It is too difficult"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: it's worth a try"
+  },
+  {
+   "q": "What will the speaker do differently next time?",
+   "options": [
+    "Bring friends",
+    "Leave earlier",
+    "Spend less money"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: leave earlier"
+  },
+  {
+   "q": "How did the speaker feel at first?",
+   "options": [
+    "Very excited",
+    "Angry",
+    "They did not expect much"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: I didn't expect much at first"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "worth a try",
+   "ko": "해볼 만한",
+   "note": "추천할 때 자주 써요."
+  },
+  {
+   "term": "differently",
+   "ko": "다르게",
+   "note": "next time과 함께 계획을 말해요."
+  },
+  {
+   "term": "didn't expect much",
+   "ko": "기대를 많이 안 했다",
+   "note": "반전을 말하기 전에 써요."
+  },
+  {
+   "term": "ended up -ing",
+   "ko": "결국 ~하게 되다",
+   "note": "예상과 다른 결과를 말해요."
+  },
+  {
+   "term": "at first",
+   "ko": "처음에는",
+   "note": "but과 함께 변화를 보여줘요."
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13746.8,
+  "end": 13798.97,
+  "clips": [
+   [
+    13746.8,
+    13750.73
+   ],
+   [
+    13771.36,
+    13774.97
+   ],
+   [
+    13791.52,
+    13798.97
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Back then she could walk to the river in 5 minutes.",
+   "chunks": [
+    {
+     "en": "Back then",
+     "ko": "그때는"
+    },
+    {
+     "en": "she could walk to the river",
+     "ko": "그분은 강까지 걸어갈 수 있었다"
+    },
+    {
+     "en": "in 5 minutes.",
+     "ko": "5분 만에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Back",
+     "strong": true,
+     "link": false,
+     "syl": "Back"
+    },
+    {
+     "w": "then",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "she",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "could",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walk",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "river",
+     "strong": true,
+     "link": true,
+     "syl": "riv"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "5",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "minutes.",
+     "strong": true,
+     "link": false,
+     "syl": "min"
+    }
+   ],
+   "tip": "could walk는 '쿳워크'처럼 could를 약하게 붙여 읽어요.",
+   "start": 13746.8,
+   "end": 13750.73
+  },
+  {
+   "text": "Change is part of life, so I try to welcome it.",
+   "chunks": [
+    {
+     "en": "Change is part of life,",
+     "ko": "변화는 삶의 일부이고"
+    },
+    {
+     "en": "so I try to welcome it.",
+     "ko": "그래서 나는 그것을 환영하려고 한다"
+    }
+   ],
+   "words": [
+    {
+     "w": "Change",
+     "strong": true,
+     "link": true,
+     "syl": "Change"
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "part",
+     "strong": true,
+     "link": true,
+     "syl": "part"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "life,",
+     "strong": true,
+     "link": false,
+     "syl": "life"
+    },
+    {
+     "w": "so",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "try",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "welcome",
+     "strong": true,
+     "link": true,
+     "syl": "wel"
+    },
+    {
+     "w": "it.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "part of는 '파르터브'처럼 이어 읽어요.",
+   "start": 13771.36,
+   "end": 13774.97
+  },
+  {
+   "text": "Personally, these changes have made me more flexible.",
+   "chunks": [
+    {
+     "en": "Personally,",
+     "ko": "개인적으로"
+    },
+    {
+     "en": "these changes have made me",
+     "ko": "이 변화들은 나를 만들었다"
+    },
+    {
+     "en": "more flexible.",
+     "ko": "더 유연하게"
+    }
+   ],
+   "words": [
+    {
+     "w": "Personally,",
+     "strong": true,
+     "link": false,
+     "syl": "Per"
+    },
+    {
+     "w": "these",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changes",
+     "strong": true,
+     "link": false,
+     "syl": "chang"
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "made",
+     "strong": true,
+     "link": false,
+     "syl": "made"
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "more",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "flexible.",
+     "strong": true,
+     "link": false,
+     "syl": "flex"
+    }
+   ],
+   "tip": "Personally는 첫 음절 PER에 강세: '퍼서널리'.",
+   "start": 13791.52,
+   "end": 13798.97
+  }
+ ],
+ "questions": [
+  {
+   "q": "How long did the walk to the river take back then?",
+   "options": [
+    "About 5 minutes",
+    "About 15 minutes",
+    "About an hour"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: walk to the river in 5 minutes"
+  },
+  {
+   "q": "How does the speaker see change?",
+   "options": [
+    "As something to avoid",
+    "As part of life",
+    "As a mistake"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: Change is part of life"
+  },
+  {
+   "q": "How have the changes affected the speaker?",
+   "options": [
+    "More tired",
+    "More nervous",
+    "More flexible"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: made me more flexible"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Back then",
+   "ko": "그때는",
+   "note": "과거를 회상할 때 문장 앞에 써요."
+  },
+  {
+   "term": "in 5 minutes",
+   "ko": "5분 만에",
+   "note": "소요 시간을 말하는 in이에요."
+  },
+  {
+   "term": "part of life",
+   "ko": "삶의 일부",
+   "note": "자연스러운 일이라는 뜻이에요."
+  },
+  {
+   "term": "welcome",
+   "ko": "환영하다, 기꺼이 받아들이다",
+   "note": "welcome change처럼 변화에도 써요."
+  },
+  {
+   "term": "flexible",
+   "ko": "유연한",
+   "note": "성격이나 태도를 말할 때 써요."
+  }
+ ]
+}

@@ -1,0 +1,303 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 7269.04,
+  "end": 7320.81,
+  "clips": [
+   [
+    7269.04,
+    7272.81
+   ],
+   [
+    7292.96,
+    7297.05
+   ],
+   [
+    7316.8,
+    7320.81
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Street food markets are my favorite spots to visit.",
+   "chunks": [
+    {
+     "en": "Street food markets",
+     "ko": "길거리 음식 시장은"
+    },
+    {
+     "en": "are my favorite spots",
+     "ko": "제가 가장 좋아하는 장소예요"
+    },
+    {
+     "en": "to visit.",
+     "ko": "방문하기에"
+    }
+   ],
+   "words": [
+    {
+     "w": "Street",
+     "strong": true,
+     "syl": "Street",
+     "link": false
+    },
+    {
+     "w": "food",
+     "strong": true,
+     "syl": "food",
+     "link": false
+    },
+    {
+     "w": "markets",
+     "strong": true,
+     "syl": "mar",
+     "link": true
+    },
+    {
+     "w": "are",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "favorite",
+     "strong": true,
+     "syl": "fav",
+     "link": false
+    },
+    {
+     "w": "spots",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "visit.",
+     "strong": true,
+     "syl": "vis",
+     "link": false
+    }
+   ],
+   "tip": "markets are는 '마켓차'처럼 이어 읽어요.",
+   "start": 7269.04,
+   "end": 7272.81
+  },
+  {
+   "text": "The most memorable trip I've taken was to a small island.",
+   "chunks": [
+    {
+     "en": "The most memorable trip",
+     "ko": "가장 기억에 남는 여행은"
+    },
+    {
+     "en": "I've taken",
+     "ko": "제가 다녀온"
+    },
+    {
+     "en": "was to a small island.",
+     "ko": "작은 섬이었어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "most",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "memorable",
+     "strong": true,
+     "syl": "mem",
+     "link": false
+    },
+    {
+     "w": "trip",
+     "strong": true,
+     "syl": "trip",
+     "link": true
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "taken",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "was",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "syl": "small",
+     "link": false
+    },
+    {
+     "w": "island.",
+     "strong": true,
+     "syl": "is",
+     "link": false
+    }
+   ],
+   "tip": "island의 s는 발음하지 않아요. '아일랜드'예요.",
+   "start": 7292.96,
+   "end": 7297.05
+  },
+  {
+   "text": "I went there with my college friends after graduation.",
+   "chunks": [
+    {
+     "en": "I went there",
+     "ko": "저는 그곳에 갔어요"
+    },
+    {
+     "en": "with my college friends",
+     "ko": "대학 친구들과 함께"
+    },
+    {
+     "en": "after graduation.",
+     "ko": "졸업 후에"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "went",
+     "strong": true,
+     "syl": "went",
+     "link": false
+    },
+    {
+     "w": "there",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "college",
+     "strong": true,
+     "syl": "col",
+     "link": false
+    },
+    {
+     "w": "friends",
+     "strong": true,
+     "syl": "friends",
+     "link": true
+    },
+    {
+     "w": "after",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "graduation.",
+     "strong": true,
+     "syl": "gradu",
+     "link": false
+    }
+   ],
+   "tip": "graduation은 '그래주에이션'처럼 du에 강세가 와요.",
+   "start": 7316.8,
+   "end": 7320.81
+  }
+ ],
+ "questions": [
+  {
+   "q": "What are the speaker's favorite places to visit?",
+   "options": [
+    "Street food markets",
+    "Museums",
+    "Mountain trails"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: Street food markets are my favorite spots"
+  },
+  {
+   "q": "Where was the speaker's most memorable trip?",
+   "options": [
+    "A big city",
+    "A small island",
+    "A national park"
+   ],
+   "answer": 1,
+   "why": "2번째 문장: a small island"
+  },
+  {
+   "q": "Who did the speaker go with?",
+   "options": [
+    "Family members",
+    "Coworkers",
+    "College friends"
+   ],
+   "answer": 2,
+   "why": "3번째 문장: with my college friends after graduation"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "street food",
+   "ko": "길거리 음식",
+   "note": "market과 함께 자주 쓰여요."
+  },
+  {
+   "term": "memorable",
+   "ko": "기억에 남는",
+   "note": "memory에서 나온 형용사예요."
+  },
+  {
+   "term": "college friends",
+   "ko": "대학 친구들",
+   "note": "college는 미국 영어에서 대학을 뜻해요."
+  },
+  {
+   "term": "after graduation",
+   "ko": "졸업 후에",
+   "note": "graduate는 동사, graduation은 명사예요."
+  }
+ ]
+}

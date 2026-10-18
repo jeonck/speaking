@@ -1,0 +1,315 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13157.36,
+  "end": 13207.93,
+  "clips": [
+   [
+    13157.36,
+    13160.73
+   ],
+   [
+    13178.56,
+    13182.81
+   ],
+   [
+    13203.6,
+    13207.93
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "My hobbies have changed as I've gotten older.",
+   "chunks": [
+    {
+     "en": "My hobbies have changed",
+     "ko": "제 취미는 변했어요"
+    },
+    {
+     "en": "as I've gotten older.",
+     "ko": "나이가 들면서"
+    }
+   ],
+   "words": [
+    {
+     "w": "My",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hobbies",
+     "strong": true,
+     "link": false,
+     "syl": "hob"
+    },
+    {
+     "w": "have",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "changed",
+     "strong": true,
+     "link": false,
+     "syl": "changed"
+    },
+    {
+     "w": "as",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "gotten",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "older.",
+     "strong": true,
+     "link": false,
+     "syl": "old"
+    }
+   ],
+   "tip": "'as I've'는 '애자이브'처럼 이어 읽어요.",
+   "start": 13157.36,
+   "end": 13160.73
+  },
+  {
+   "text": "In my teens, I spent every weekend playing computer games.",
+   "chunks": [
+    {
+     "en": "In my teens,",
+     "ko": "십 대 때는"
+    },
+    {
+     "en": "I spent every weekend",
+     "ko": "매 주말을 보냈어요"
+    },
+    {
+     "en": "playing computer games.",
+     "ko": "컴퓨터 게임을 하며"
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "teens,",
+     "strong": true,
+     "link": false,
+     "syl": "teens"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "spent",
+     "strong": true,
+     "link": true,
+     "syl": "spent"
+    },
+    {
+     "w": "every",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekend",
+     "strong": true,
+     "link": false,
+     "syl": "week"
+    },
+    {
+     "w": "playing",
+     "strong": true,
+     "link": false,
+     "syl": "play"
+    },
+    {
+     "w": "computer",
+     "strong": true,
+     "link": false,
+     "syl": "pu"
+    },
+    {
+     "w": "games.",
+     "strong": true,
+     "link": false,
+     "syl": "games"
+    }
+   ],
+   "tip": "'computer'는 com-PU-ter로 두 번째 음절에 강세가 와요.",
+   "start": 13178.56,
+   "end": 13182.81
+  },
+  {
+   "text": "These days, I'd rather go for a walk or take care of my plants.",
+   "chunks": [
+    {
+     "en": "These days,",
+     "ko": "요즘은"
+    },
+    {
+     "en": "I'd rather go for a walk",
+     "ko": "차라리 산책을 가요"
+    },
+    {
+     "en": "or take care of my plants.",
+     "ko": "아니면 식물을 돌봐요"
+    }
+   ],
+   "words": [
+    {
+     "w": "These",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "days,",
+     "strong": true,
+     "link": false,
+     "syl": "days"
+    },
+    {
+     "w": "I'd",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "rather",
+     "strong": true,
+     "link": false,
+     "syl": "rath"
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "walk",
+     "strong": true,
+     "link": false,
+     "syl": "walk"
+    },
+    {
+     "w": "or",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "take",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "care",
+     "strong": true,
+     "link": false,
+     "syl": "care"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "plants.",
+     "strong": true,
+     "link": false,
+     "syl": "plants"
+    }
+   ],
+   "tip": "'I'd rather'는 '아이드래더'처럼 줄여 읽어요.",
+   "start": 13203.6,
+   "end": 13207.93
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker do every weekend as a teen?",
+   "options": [
+    "Play computer games",
+    "Go hiking",
+    "Study abroad"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: spent every weekend playing computer games"
+  },
+  {
+   "q": "What does the speaker prefer these days?",
+   "options": [
+    "Walking or caring for plants",
+    "Playing games",
+    "Going to concerts"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I'd rather go for a walk or take care of my plants"
+  },
+  {
+   "q": "Why have the hobbies changed?",
+   "options": [
+    "The speaker got older",
+    "The speaker moved",
+    "The speaker got a job"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: as I've gotten older"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "in my teens",
+   "ko": "십 대 때",
+   "note": "나이대를 말할 때 in my 20s처럼 써요."
+  },
+  {
+   "term": "I'd rather",
+   "ko": "차라리 ~하겠어요",
+   "note": "I would rather의 줄임말이에요."
+  },
+  {
+   "term": "go for a walk",
+   "ko": "산책하러 가다",
+   "note": "take a walk와 비슷해요."
+  },
+  {
+   "term": "take care of",
+   "ko": "~을 돌보다",
+   "note": "식물, 사람, 동물에 모두 써요."
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 5050.8,
+  "end": 5101.29,
+  "clips": [
+   [
+    5050.8,
+    5055.21
+   ],
+   [
+    5074.72,
+    5078.65
+   ],
+   [
+    5097.36,
+    5101.29
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "On weekends, I sometimes go hiking with my co-workers.",
+   "chunks": [
+    {
+     "en": "On weekends,",
+     "ko": "주말에는"
+    },
+    {
+     "en": "I sometimes go hiking",
+     "ko": "나는 가끔 하이킹을 간다"
+    },
+    {
+     "en": "with my co-workers.",
+     "ko": "내 동료들과"
+    }
+   ],
+   "words": [
+    {
+     "w": "On",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "weekends,",
+     "strong": true,
+     "syl": "week",
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "sometimes",
+     "strong": true,
+     "syl": "some",
+     "link": false
+    },
+    {
+     "w": "go",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "hiking",
+     "strong": true,
+     "syl": "hik",
+     "link": false
+    },
+    {
+     "w": "with",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "co-workers.",
+     "strong": true,
+     "syl": "work",
+     "link": false
+    }
+   ],
+   "tip": "'co-workers'는 'work'에 강세를 둬요.",
+   "start": 5050.8,
+   "end": 5055.21
+  },
+  {
+   "text": "There's a small mountain about 20 minutes from my place.",
+   "chunks": [
+    {
+     "en": "There's a small mountain",
+     "ko": "작은 산이 있다"
+    },
+    {
+     "en": "about 20 minutes",
+     "ko": "약 20분"
+    },
+    {
+     "en": "from my place.",
+     "ko": "내 집에서"
+    }
+   ],
+   "words": [
+    {
+     "w": "There's",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "small",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "mountain",
+     "strong": true,
+     "syl": "moun",
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "20",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "minutes",
+     "strong": true,
+     "syl": "min",
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "place.",
+     "strong": false,
+     "link": false
+    }
+   ],
+   "tip": "'20 minutes'를 또렷하게 말해야 거리가 잘 전달돼요.",
+   "start": 5074.72,
+   "end": 5078.65
+  },
+  {
+   "text": "The view from the top is absolutely worth the climb.",
+   "chunks": [
+    {
+     "en": "The view from the top",
+     "ko": "정상에서 보는 경치는"
+    },
+    {
+     "en": "is absolutely",
+     "ko": "확실히"
+    },
+    {
+     "en": "worth the climb.",
+     "ko": "오르는 수고만큼의 가치가 있다"
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "view",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "from",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "top",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "is",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "absolutely",
+     "strong": true,
+     "syl": "sol",
+     "link": false
+    },
+    {
+     "w": "worth",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "climb.",
+     "strong": true,
+     "link": false
+    }
+   ],
+   "tip": "'is absolutely'는 '이저브솔루틀리'처럼 이어져요.",
+   "start": 5097.36,
+   "end": 5101.29
+  }
+ ],
+ "questions": [
+  {
+   "q": "When does the speaker go hiking?",
+   "options": [
+    "On weekdays",
+    "On weekends",
+    "Every morning"
+   ],
+   "answer": 1,
+   "why": "1번째 문장: On weekends"
+  },
+  {
+   "q": "Who goes hiking with the speaker?",
+   "options": [
+    "Co-workers",
+    "Family members",
+    "Neighbors"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: with my co-workers"
+  },
+  {
+   "q": "How far is the mountain from the speaker's place?",
+   "options": [
+    "About 5 minutes",
+    "About an hour",
+    "About 20 minutes"
+   ],
+   "answer": 2,
+   "why": "2번째 문장: about 20 minutes from my place"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "go hiking",
+   "ko": "하이킹 가다",
+   "note": "go + -ing 형태로 말해요."
+  },
+  {
+   "term": "co-workers",
+   "ko": "직장 동료",
+   "note": "같은 직장 사람을 가볍게 부르는 말이에요."
+  },
+  {
+   "term": "from my place",
+   "ko": "우리 집에서",
+   "note": "place는 집을 편하게 말하는 단어예요."
+  },
+  {
+   "term": "absolutely",
+   "ko": "단연코",
+   "note": "매우 강하게 확신할 때 써요."
+  },
+  {
+   "term": "worth the climb",
+   "ko": "오를 만한 가치가 있는",
+   "note": "worth + 명사로 가치를 말해요."
+  }
+ ]
+}

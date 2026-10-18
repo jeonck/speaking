@@ -1,0 +1,338 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 13087.68,
+  "end": 13140.49,
+  "clips": [
+   [
+    13087.68,
+    13091.61
+   ],
+   [
+    13112.72,
+    13117.05
+   ],
+   [
+    13137.04,
+    13140.49
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "10 years ago, I always had some bills in my wallet.",
+   "chunks": [
+    {
+     "en": "10 years ago,",
+     "ko": "10년 전에는"
+    },
+    {
+     "en": "I always had some bills",
+     "ko": "저는 항상 지폐를 좀 갖고 있었어요"
+    },
+    {
+     "en": "in my wallet.",
+     "ko": "지갑에"
+    }
+   ],
+   "words": [
+    {
+     "w": "10",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "years",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    },
+    {
+     "w": "ago,",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "always",
+     "strong": true,
+     "link": false,
+     "syl": "al"
+    },
+    {
+     "w": "had",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "some",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "bills",
+     "strong": true,
+     "link": false,
+     "syl": "bills"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "wallet.",
+     "strong": true,
+     "link": false,
+     "syl": "wal"
+    }
+   ],
+   "tip": "'had some'은 '해드섬'처럼 이어 읽어요.",
+   "start": 13087.68,
+   "end": 13091.61
+  },
+  {
+   "text": "I used to read paper books, but now I mostly read on my phone.",
+   "chunks": [
+    {
+     "en": "I used to read paper books,",
+     "ko": "저는 종이책을 읽곤 했어요"
+    },
+    {
+     "en": "but now",
+     "ko": "하지만 지금은"
+    },
+    {
+     "en": "I mostly read on my phone.",
+     "ko": "주로 휴대폰으로 읽어요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "used",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "to",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "read",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "paper",
+     "strong": true,
+     "link": false,
+     "syl": "pa"
+    },
+    {
+     "w": "books,",
+     "strong": true,
+     "link": false,
+     "syl": "books"
+    },
+    {
+     "w": "but",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "now",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "mostly",
+     "strong": true,
+     "link": false,
+     "syl": "most"
+    },
+    {
+     "w": "read",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "on",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "phone.",
+     "strong": true,
+     "link": false,
+     "syl": "phone"
+    }
+   ],
+   "tip": "'read on'은 '리던'처럼 이어 읽어요.",
+   "start": 13112.72,
+   "end": 13117.05
+  },
+  {
+   "text": "To be honest, I miss the smell of a new book.",
+   "chunks": [
+    {
+     "en": "To be honest,",
+     "ko": "솔직히"
+    },
+    {
+     "en": "I miss the smell",
+     "ko": "저는 냄새가 그리워요"
+    },
+    {
+     "en": "of a new book.",
+     "ko": "새 책의"
+    }
+   ],
+   "words": [
+    {
+     "w": "To",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "be",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "honest,",
+     "strong": true,
+     "link": false,
+     "syl": "hon"
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "miss",
+     "strong": true,
+     "link": false,
+     "syl": "miss"
+    },
+    {
+     "w": "the",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "smell",
+     "strong": true,
+     "link": false,
+     "syl": "smell"
+    },
+    {
+     "w": "of",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "new",
+     "strong": true,
+     "link": false,
+     "syl": "new"
+    },
+    {
+     "w": "book.",
+     "strong": true,
+     "link": false,
+     "syl": "book"
+    }
+   ],
+   "tip": "'honest'는 h가 묵음이라 '어니스트'로 읽어요.",
+   "start": 13137.04,
+   "end": 13140.49
+  }
+ ],
+ "questions": [
+  {
+   "q": "What did the speaker always have 10 years ago?",
+   "options": [
+    "Some bills in the wallet",
+    "A library card",
+    "A camera"
+   ],
+   "answer": 0,
+   "why": "1번째 문장: I always had some bills in my wallet"
+  },
+  {
+   "q": "Where does the speaker mostly read now?",
+   "options": [
+    "On their phone",
+    "In a library",
+    "On a tablet at school"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I mostly read on my phone"
+  },
+  {
+   "q": "What does the speaker miss?",
+   "options": [
+    "The smell of a new book",
+    "The sound of rain",
+    "Old friends"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: I miss the smell of a new book"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "bills",
+   "ko": "지폐",
+   "note": "미국 영어에서 bill은 지폐예요."
+  },
+  {
+   "term": "used to read",
+   "ko": "읽곤 했다",
+   "note": "지금은 안 한다는 뜻이 담겨요."
+  },
+  {
+   "term": "mostly",
+   "ko": "주로",
+   "note": "빈도를 부드럽게 나타내요."
+  },
+  {
+   "term": "to be honest",
+   "ko": "솔직히 말해서",
+   "note": "속마음을 말할 때 써요."
+  }
+ ]
+}
