@@ -5,5 +5,5 @@ summary: "The speaker learned to stop working at 6. Getting around the city is e
 tags: ["careers", "cities", "opic"]
 video_id: "sHj4FcKPcPs"
 duration: 12
-level: 1
+level: 2
 ---

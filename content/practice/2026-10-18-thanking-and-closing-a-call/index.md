@@ -5,5 +5,5 @@ summary: "The speaker thanks the person for helping, agrees with the solution, h
 tags: ["daily-life", "opic"]
 video_id: "sHj4FcKPcPs"
 duration: 14
-level: 2
+level: 1
 ---
