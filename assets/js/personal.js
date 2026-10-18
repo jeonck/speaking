@@ -147,6 +147,20 @@ function fillHome(states, mine) {
   });
 }
 
+/** 실습 아래 '이어서 하기/비슷한 실습' — 이미 연습한 것은 뒤로 미루고 안 한 것 네 개를 앞에 보인다 */
+function trimNext(mine) {
+  document.querySelectorAll(".practice-next").forEach((box) => {
+    const items = [...box.querySelectorAll(".practice-cards > li")];
+    const keep = Number(box.dataset.show) || 4;
+    const fresh = items.filter((li) => !mine[slugOf(li.querySelector("a").getAttribute("href"))]);
+    const done = items.filter((li) => !fresh.includes(li));
+    const show = new Set([...fresh, ...done].slice(0, keep));
+    items.forEach((li) => { li.hidden = !show.has(li); });
+    const list = box.querySelector(".practice-cards");
+    [...show].forEach((li) => list.appendChild(li)); // 안 한 것이 앞으로
+  });
+}
+
 const mine = readAll();
 const today = localDateISO();
 const states = {};
@@ -154,6 +168,7 @@ Object.keys(mine).forEach((slug) => {
   const s = reviewState(mine[slug], today);
   if (s) states[slug] = s;
 });
+trimNext(mine);
 decorateCards(states);
 fillHome(states, mine);
 fillChallenge(mine, today);

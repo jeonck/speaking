@@ -62,19 +62,29 @@
   {{- end }}
 </article>
 
-{{- /* 다 끝낸 뒤 이어 갈 실습 네 개 — 주제가 많이 겹치는 순, 같으면 최신 순.
-       점수와 날짜를 한 수로 묶어(겹친 주제 수 × 10^10 + 날짜) 한 번에 정렬한다 */}}
+{{- /* 다 끝낸 뒤 이어 갈 실습. 후보 여덟 개를 그리고, 이 브라우저에서 이미 연습한 것은 스크립트가 빼서 네 개만 남긴다(personal.js).
+       - 시리즈(오픽 말하기)는 영상 순서대로 '다음 구간'부터 — 앞 구간일수록 늦은 날짜라서 지금보다 오래된 것이 뒤 구간이다
+       - 나머지는 주제가 많이 겹치는 순, 같으면 최신 순. 점수와 날짜를 한 수로 묶어(겹친 주제 수 × 10^10 + 날짜) 한 번에 정렬한다 */}}
 {{- $mine := .Params.tags | default slice }}
-{{- $scored := slice }}
-{{- range where (where site.RegularPages "Section" "practice") "RelPermalink" "ne" .RelPermalink }}
-  {{- $shared := len (intersect $mine (.Params.tags | default slice)) }}
-  {{- $scored = $scored | append (dict "page" . "key" (add (mul $shared 10000000000) .Date.Unix)) }}
+{{- $others := where (where site.RegularPages "Section" "practice") "RelPermalink" "ne" .RelPermalink }}
+{{- $next := slice }}
+{{- $series := in $mine "opic" }}
+{{- if $series }}
+  {{- range first 8 (sort (where (where $others "Params.tags" "intersect" (slice "opic")) "Date" "lt" .Date) "Date" "desc") }}{{ $next = $next | append . }}{{ end }}
 {{- end }}
-{{- $next := slice }}{{ range first 4 (sort $scored "key" "desc") }}{{ $next = $next | append .page }}{{ end }}
+{{- if lt (len $next) 4 }}
+  {{- $series = false }}{{ $next = slice }}
+  {{- $scored := slice }}
+  {{- range $others }}
+    {{- $shared := len (intersect $mine (.Params.tags | default slice)) }}
+    {{- $scored = $scored | append (dict "page" . "key" (add (mul $shared 10000000000) .Date.Unix)) }}
+  {{- end }}
+  {{- range first 8 (sort $scored "key" "desc") }}{{ $next = $next | append .page }}{{ end }}
+{{- end }}
 {{- with $next }}
-<section class="practice-next" aria-labelledby="practice-next-title">
+<section class="practice-next" aria-labelledby="practice-next-title" data-show="4">
   <div class="practice-next-head">
-    <h2 id="practice-next-title" class="pr-section-title">비슷한 실습</h2>
+    <h2 id="practice-next-title" class="pr-section-title">{{ if $series }}이어서 하기{{ else }}비슷한 실습{{ end }}</h2>
     {{- with site.GetPage "/practice" }}<a class="pr-btn pr-btn--secondary pr-btn--sm" href="{{ .RelPermalink }}">모든 실습</a>{{ end }}
   </div>
   {{- partial "practice_cards.html" . }}
