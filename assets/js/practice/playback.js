@@ -1,4 +1,4 @@
-import { ensurePlayer, playRange } from "./player.js";
+import { ensurePlayer, playRange, playClips } from "./player.js";
 
 // 페이지에 하나뿐인 (숨겨진) YouTube 플레이어 자리 — stages.js가 단계 패널 밖에 만든다
 export const PLAYER_ID = "pr-yt";
@@ -13,7 +13,7 @@ let active = null;
  * onEnd(completed)는 구간을 끝까지 들었는지와 함께 한 번 불린다.
  * 플레이어를 못 불러오면 예외를 던진다 — 호출한 쪽이 안내를 보여준다.
  */
-export async function togglePlay(ctx, btn, { start, end, row, onEnd } = {}) {
+export async function togglePlay(ctx, btn, { start, end, clips, row, onEnd } = {}) {
   if (active && active.btn === btn) {
     active.stop();
     return;
@@ -34,7 +34,8 @@ export async function togglePlay(ctx, btn, { start, end, row, onEnd } = {}) {
   if (row) row.classList.add("is-playing");
 
   const entry = { btn };
-  const cancel = playRange(player, start, end, (completed) => {
+  const play = clips ? (cb) => playClips(player, clips, cb) : (cb) => playRange(player, start, end, cb);
+  const cancel = play((completed) => {
     btn.classList.remove("is-playing");
     btn.setAttribute("aria-pressed", "false");
     btn.innerHTML = label;

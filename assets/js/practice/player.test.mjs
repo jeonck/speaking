@@ -32,3 +32,25 @@ test("data.audio가 있으면 YouTube 대신 음성 파일 플레이어를 한 �
   a.pauseVideo();
   assert.equal(await ensurePlayer(ctx, "x"), a);
 });
+
+test("playClips는 구간을 차례로 이어 재생하고, 중간에 멈추면 false로 끝난다", async () => {
+  const { playClips } = await import("./player.js");
+  const seeks = [];
+  let now = 0;
+  const player = {
+    seekTo: (t) => { seeks.push(t); now = t; },
+    playVideo() {}, pauseVideo() {},
+    getCurrentTime: () => (now += 0.5),
+  };
+  const ended = [];
+  playClips(player, [[1, 2], [10, 11], [20, 21]], (ok) => ended.push(ok));
+  await new Promise((r) => setTimeout(r, 1500));
+  assert.deepEqual(seeks, [1, 10, 20]);
+  assert.deepEqual(ended, [true]);
+
+  seeks.length = 0; ended.length = 0;
+  const stop = playClips(player, [[1, 50], [60, 61]], (ok) => ended.push(ok));
+  stop();
+  assert.deepEqual(ended, [false]);
+  assert.deepEqual(seeks, [1]);
+});

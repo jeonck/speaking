@@ -105,3 +105,18 @@ export function playRange(player, start, end, onEnd) {
   cancelActivePoll = cancel;
   return cancel;
 }
+
+/** 여러 구간 [[시작, 끝], …]을 차례로 이어 재생한다 — 같은 문장을 되풀이해 읽어 주는 영상에서 첫 번째만 골라 들려줄 때.
+ * onEnd(completed)는 전부 들었을 때 true, 중간에 멈추거나 밀려났을 때 false로 한 번 불린다. 돌려주는 함수로 멈춘다. */
+export function playClips(player, clips, onEnd) {
+  let i = 0;
+  let stop = null;
+  const next = () => {
+    stop = playRange(player, clips[i][0], clips[i][1], (completed) => {
+      if (completed && ++i < clips.length) return next();
+      if (onEnd) onEnd(completed);
+    });
+  };
+  next();
+  return () => stop();
+}

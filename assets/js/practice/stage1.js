@@ -1,9 +1,10 @@
 import { renderChunks, escapeHtml, goalCard, feedback, startFacts } from "./markup.js";
 import { startCountdown, formatSeconds } from "./timer.js";
+import { segmentSeconds } from "./segment.js";
 
 export function mountStage1(panel, ctx) {
   const { data } = ctx;
-  const seconds = Math.ceil(data.segment.end - data.segment.start);
+  const seconds = Math.ceil(segmentSeconds(data.segment));
   let startedAt = null;
   const words = data.sentences.reduce((n, s) => n + s.text.trim().split(/\s+/).length, 0);
 

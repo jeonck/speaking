@@ -1,6 +1,7 @@
 import { renderStressedSentence, escapeHtml, goalCard, feedback, waveBars } from "./markup.js";
 import { startStopwatch, formatSeconds } from "./timer.js";
 import { togglePlay } from "./playback.js";
+import { segmentSeconds, playSpan } from "./segment.js";
 import {
   isRecordingSupported,
   startRecording,
@@ -15,7 +16,7 @@ const WAVE = waveBars(40);
 
 export function mountStage2(panel, ctx) {
   const { data } = ctx;
-  const targetSeconds = Math.ceil(data.segment.end - data.segment.start);
+  const targetSeconds = Math.ceil(segmentSeconds(data.segment));
   const fullText = data.sentences.map((s) => s.text).join(" ");
 
   panel.innerHTML = `
@@ -90,7 +91,7 @@ export function mountStage2(panel, ctx) {
   });
   const playAllBtn = panel.querySelector(".pr-play-all");
   playAllBtn.addEventListener("click", () => {
-    togglePlay(ctx, playAllBtn, { start: data.segment.start, end: data.segment.end }).catch(
+    togglePlay(ctx, playAllBtn, playSpan(data.segment)).catch(
       showPlayerError
     );
   });
@@ -205,7 +206,7 @@ export function mountStage2(panel, ctx) {
       const originalBtn = resultEl.querySelector('[data-act="original"]');
       if (originalBtn) {
         originalBtn.addEventListener("click", () => {
-          togglePlay(ctx, originalBtn, { start: data.segment.start, end: data.segment.end }).catch(
+          togglePlay(ctx, originalBtn, playSpan(data.segment)).catch(
             showPlayerError
           );
         });
