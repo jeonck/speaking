@@ -1,0 +1,303 @@
+{
+ "video_id": "sHj4FcKPcPs",
+ "source_title": "[6시간 반복] 자면서 외우는 오픽 말하기 연습 1000문장 | 틀어만 두세요 | OPIc!갓생!",
+ "source_channel": "HelloWoongs",
+ "segment": {
+  "start": 45.5,
+  "end": 90.4,
+  "clips": [
+   [
+    45.5,
+    48.6
+   ],
+   [
+    63.5,
+    67.2
+   ],
+   [
+    85.7,
+    90.4
+   ]
+  ]
+ },
+ "sentences": [
+  {
+   "text": "Let me tell you a little about myself.",
+   "chunks": [
+    {
+     "en": "Let me tell you",
+     "ko": "말씀드릴게요"
+    },
+    {
+     "en": "a little about myself.",
+     "ko": "저에 대해 조금"
+    }
+   ],
+   "words": [
+    {
+     "w": "Let",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "me",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "tell",
+     "strong": true,
+     "link": true,
+     "syl": "tell"
+    },
+    {
+     "w": "you",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "little",
+     "strong": true,
+     "link": true,
+     "syl": "lit"
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "myself.",
+     "strong": true,
+     "link": false,
+     "syl": "self"
+    }
+   ],
+   "tip": "tell you는 '텔류', little about은 '리를어바웃'처럼 이어 읽어요. 힘은 TELL, LIT, SELF에 줘요.",
+   "start": 45.5,
+   "end": 48.6
+  },
+  {
+   "text": "I'm in my late 20s and I work in marketing.",
+   "chunks": [
+    {
+     "en": "I'm in my late 20s",
+     "ko": "저는 20대 후반이고"
+    },
+    {
+     "en": "and I work in marketing.",
+     "ko": "마케팅 분야에서 일해요"
+    }
+   ],
+   "words": [
+    {
+     "w": "I'm",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "my",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "late",
+     "strong": true,
+     "link": false,
+     "syl": "late"
+    },
+    {
+     "w": "20s",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "and",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "I",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "work",
+     "strong": true,
+     "link": true,
+     "syl": "work"
+    },
+    {
+     "w": "in",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "marketing.",
+     "strong": true,
+     "link": false,
+     "syl": "mar"
+    }
+   ],
+   "tip": "20s는 twenties로 읽어요. I'm in은 '아민', work in은 '워킨', and I는 '앤다이'로 이어져요.",
+   "start": 63.5,
+   "end": 67.2
+  },
+  {
+   "text": "I've been working at a fairly large company for about 3 years.",
+   "chunks": [
+    {
+     "en": "I've been working",
+     "ko": "일해 왔어요"
+    },
+    {
+     "en": "at a fairly large company",
+     "ko": "꽤 큰 회사에서"
+    },
+    {
+     "en": "for about 3 years.",
+     "ko": "약 3년 동안"
+    }
+   ],
+   "words": [
+    {
+     "w": "I've",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "been",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "working",
+     "strong": true,
+     "link": true,
+     "syl": "work"
+    },
+    {
+     "w": "at",
+     "strong": false,
+     "link": true
+    },
+    {
+     "w": "a",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "fairly",
+     "strong": true,
+     "link": false,
+     "syl": "fair"
+    },
+    {
+     "w": "large",
+     "strong": true,
+     "link": false,
+     "syl": "large"
+    },
+    {
+     "w": "company",
+     "strong": true,
+     "link": false,
+     "syl": "com"
+    },
+    {
+     "w": "for",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "about",
+     "strong": false,
+     "link": false
+    },
+    {
+     "w": "3",
+     "strong": true,
+     "link": false
+    },
+    {
+     "w": "years.",
+     "strong": true,
+     "link": false,
+     "syl": "years"
+    }
+   ],
+   "tip": "working at a는 '워킹애러'처럼 이어 읽고, 힘은 WORK, FAIR, LARGE, COM, YEARS에 줘요.",
+   "start": 85.7,
+   "end": 90.4
+  }
+ ],
+ "questions": [
+  {
+   "q": "What kind of work does the speaker do?",
+   "options": [
+    "Marketing",
+    "Teaching",
+    "Engineering"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I work in marketing."
+  },
+  {
+   "q": "How old is the speaker?",
+   "options": [
+    "In their late 20s",
+    "In their early 30s",
+    "In their teens"
+   ],
+   "answer": 0,
+   "why": "2번째 문장: I'm in my late 20s."
+  },
+  {
+   "q": "How long has the speaker been at the company?",
+   "options": [
+    "About 3 years",
+    "About 13 years",
+    "Less than a year"
+   ],
+   "answer": 0,
+   "why": "3번째 문장: for about 3 years."
+  }
+ ],
+ "vocab": [
+  {
+   "term": "Let me tell you a little about myself.",
+   "ko": "제 소개를 조금 할게요",
+   "note": "자기소개를 시작할 때 쓰는 말이에요. a little은 '조금'."
+  },
+  {
+   "term": "in my late 20s",
+   "ko": "20대 후반",
+   "note": "early(초반) / mid(중반) / late(후반) + 20s. 나이는 정확한 숫자 대신 이렇게 말해요."
+  },
+  {
+   "term": "work in marketing",
+   "ko": "마케팅 분야에서 일하다",
+   "note": "work in + 분야. 회사 이름은 work at, 분야는 work in."
+  },
+  {
+   "term": "fairly large",
+   "ko": "꽤 큰",
+   "note": "fairly는 '꽤, 어느 정도'. very보다 약해요."
+  },
+  {
+   "term": "for about 3 years",
+   "ko": "약 3년 동안",
+   "note": "for + 기간. about은 '대략'."
+  }
+ ]
+}
